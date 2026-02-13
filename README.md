@@ -107,7 +107,7 @@ A do-over of the original Pebble 2 released in 2016. Previously known as the Cor
 
 # Rebble Alliance
 
-A community organisation that formed after the demise of Pebble in 2016 helping to keep Pebble watches operational. Runs the Rebble app store for Pebble and associated web services. 
+A community organisation that formed after the demise of Pebble in 2016 helping to keep Pebble watches operational. Runs the [Rebble app store for Pebble](https://apps.rebble.io/) and [Rebble Web Services](https://auth.rebble.io/account/).
 
 - [rebble.io](https://rebble.io/) - Rebble Alliance official website.
 - [Rebble Alliance Discord Server](https://discordapp.com/invite/aRUAYFN) - The community Discord server for all things Pebble.
