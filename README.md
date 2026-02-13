@@ -95,7 +95,7 @@ A do-over of the original Pebble 2 released in 2016. Previously known as the Cor
 
 | Repo |  Release | Issues | PRs | Desciption |
 |------|----------|--------|-----|------------|
-|[coredevices/<br>PebbleOS](https://github.com/coredevices/PebbleOS) | [![GitHub Release](https://img.shields.io/github/v/release/coredevices/PebbleOS?label=)](https://github.com/coredevices/PebbleOS/releases) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/coredevices/PebbleOS?label=issues)](https://github.com/coredevices/PebbleOS/issues) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/coredevices/PebbleOS?label=PRs)](https://github.com/coredevices/PebbleOS/pulls) | PebbleOS firmware used by Core Devices Pebble watches. Documentation site is [here](https://pebbleos-core.readthedocs.io/en/latest/). |
+|[coredevices/<br>PebbleOS](https://github.com/coredevices/PebbleOS) | [![GitHub Release](https://img.shields.io/github/v/release/coredevices/PebbleOS?label=)](https://github.com/coredevices/PebbleOS/releases) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/coredevices/PebbleOS?label=issues)](https://github.com/coredevices/PebbleOS/issues) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/coredevices/PebbleOS?label=PRs)](https://github.com/coredevices/PebbleOS/pulls) | PebbleOS firmware used by Core Devices Pebble watches. Documentation site is [here](https://pebbleos-core.readthedocs.io/en/latest/). Changelog is [here](https://ndocs.repebble.com/pebbleos-changelog). |
 |[coredevices/<br>mobileapp](https://github.com/coredevices/mobileapp) |  | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/coredevices/mobileapp?label=issues)](https://github.com/coredevices/mobileapp/issues) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/coredevices/mobileapp?label=PRs)](https://github.com/coredevices/mobileapp/pulls) | Core Devices official mobile app based on libpebble3. |
 |[coredevices/<br>sdk-docs](https://github.com/coredevices/sdk-docs) |  | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/coredevices/sdk-docs?label=issues)](https://github.com/coredevices/sdk-docs/issues) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/coredevices/sdk-docs?label=PRs)](https://github.com/coredevices/sdk-docs/pulls) | Source for developer.repebble.com website. |
 |[coredevices/<br>cloudpebble](https://github.com/coredevices/cloudpebble) |  | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/coredevices/cloudpebble?label=issues)](https://github.com/coredevices/cloudpebble/issues) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/coredevices/cloudpebble?label=PRs)](https://github.com/coredevices/cloudpebble/pulls) | A web-based IDE for developing Pebble smartwatch applications. Write C or JavaScript, compile, and test on an in-browser emulator — all from the browser. |
@@ -113,6 +113,10 @@ A community organisation that formed after the demise of Pebble in 2016 helping 
 - [Rebble Alliance Discord Server](https://discordapp.com/invite/aRUAYFN) - The community Discord server for all things Pebble.
 - [Rebble appstore](https://apps.rebble.io/) - Web-based version of the Rebble appstore. 
 - [Rebble appstore (beta version)](https://store-beta.rebble.io) - Beta version of the new Rebble appstore.
+
+### 👉 [Rebble Web Services](https://auth.rebble.io/account/)    👈
+
+Subscribing to Rebble for just $3/month enables dictation, and weather support (and faster timeline sync) on your account, and helps keep the service running for everyone.
 
 
 ### Rebble News & Updates
