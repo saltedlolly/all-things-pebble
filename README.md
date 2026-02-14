@@ -41,7 +41,7 @@ Similar to the original Pebble Time Round, but with a larger display, touchscree
 Inspired by the unreleased Pebble Time 2 from 2016. Previously called the Core Time 2.
 
 | Model          | Colours         | Case          | Display |  Sensors       | Date | Price                                              |
-|----------------|:----------------:|:---------------:|:---------:|:----------------:|:-----------:|:---------:|:----------------------------------------------------:|
+|----------------|:----------------:|:---------------:|:---------:|:----------------:|:-----------:|:----------------------------------------------------:|
 | Pebble Time 2  | `Black/Grey`<BR>`Silver/Grey`<br>`Black/Red`<br>`Silver/Blue` | Stainless<br>Steel | ePaper<br>1.3" 64-colour<br>200x228 pixels<br>200 DPI  | Touchscreen<br>Microphone (x2)<BR>Speaker<br>HRM<br>6-axis IMU<br>Compass | Announced:<br>2025-01<br><br>Released:<br>2026-04 | \$225<br>[Buy](https://repebble.com/watch#p2d)  |
 
 | Pebble Time 2 - Black/Grey                                  | Pebble Time 2 - Silver/Black |
