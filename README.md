@@ -18,7 +18,7 @@ Company founded in 2025 by Pebble founder Eric Migicovsky, with the purpose of b
 - [Hardware Specs](https://developer.repebble.com/guides/tools-and-resources/hardware-information/) - Detailed hardware specs for all Pebble watches old and new.
 - [Order Management](https://orders.repebble.com/) - Manage your Core Devices order.
 
-### Pebble Round 2
+### Pebble Round 2 (2026)
 
 Similar to the original Pebble Time Round, but with a larger display, touchscreen and longer battery.
 
@@ -36,7 +36,7 @@ Similar to the original Pebble Time Round, but with a larger display, touchscree
 
 
 
-### Pebble Time 2
+### Pebble Time 2 (2026)
 
 Inspired by the unreleased Pebble Time 2 from 2016. Previously called the Core Time 2.
 
@@ -52,7 +52,7 @@ Inspired by the unreleased Pebble Time 2 from 2016. Previously called the Core T
 |-----------------------------------------------------------|----------------------|
 | <a href="./images/hardware/pt2-black-red.jpeg" target="_blank"><img src="./images/hardware/pt2-black-red.jpeg" width="325px"></a> | <a href="./images/hardware/pt2-silver-blue.jpeg" target="_blank"><img src="./images/hardware/pt2-silver-blue.jpeg" width="325px"></a>
 
-### Pebble 2 Duo
+### Pebble 2 Duo (2025)
 
 A do-over of the original Pebble 2 released in 2016. Previously called the Core 2 Duo.
 
@@ -117,7 +117,7 @@ A community organisation that formed after the demise of Pebble in 2016 helping 
 
 ### 👉 [Rebble Web Services](https://auth.rebble.io/account/)    👈
 
-Subscribing to Rebble for just $3/month enables dictation, and weather support (and faster timeline sync) on your account, and helps keep the service running for everyone.
+Subscribing to Rebble for just \$3/month enables dictation, and weather support (and faster timeline sync) on your account, and helps keep the service running for everyone.
 
 ### Rebble News & Updates
 
@@ -193,24 +193,11 @@ Subscribing to Rebble for just $3/month enables dictation, and weather support (
 |[pebble-dev/<br>bobby-assistant](https://github.com/pebble-dev/bobby-assistant) |  | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/pebble-dev/bobby-assistant?label=)](https://github.com/pebble-dev/bobby-assistant/issues) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/pebble-dev/bobby-assistant?label=)](https://github.com/pebble-dev/bobby-assistant/pulls) | Bobby is an AI voice assistant for Pebble, powered by Large Language Models. |
 |[pebble-dev/<br>bobby-website](https://github.com/pebble-dev/bobby-website) |  | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/pebble-dev/bobby-website?label=)](https://github.com/pebble-dev/bobby-website/issues) | [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/pebble-dev/bobby-website?label=)](https://github.com/pebble-dev/bobby-website/pulls) | [Website](https://bobby.rebble.io/) for Bobby. |
 
-# Pebble Technology Corporation
-
-The original company founded by Eric Migicovsky that existed from 2012-2016 when it went out of business and its assets were sold to Fitbit (later Google).
-
-- [github.com/pebble](https://github.com/pebble) - Pebble Technology Corporation Github organization
-- [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
-- [Original Pebble - Kickstarter Campaign (2012)](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android) - Kickstarter page for the first Pebble watch.
-- [Pebble 2, Time 2 & Pebble Core - Kickstarter Campaign (2016)](https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra) - Kickstarter page for the Pebble 2/2HR, the original Pebble Time 2, and Pebble Core. Only the Pebble 2/2HR was released, before the company went out of business. 
-- [google/pebble](https://github.com/google/pebble) - Repo containing the original open source release of PebbleOS by Google in January 2025.
-- [Success and Failure at Pebble](https://ericmigi.com/blog/success-and-failure-at-pebble/) - Eric Migicovsky's blog post on why Pebble failed.
-
-
 # Watchfaces & Watchapps
 
 - A directory of **open source watchfaces** created for Pebble is [here](./Pebble-Watchfaces.md).
 
 - A directory of **open source watchapps** created for Pebble is is [here](./Pebble-Watchapps.md).
-
 
 # Other Pebble Resources
 
@@ -225,6 +212,8 @@ The original company founded by Eric Migicovsky that existed from 2012-2016 when
 - [pdc_tool CLI](https://github.com/HBehrens/pdc_tool) - A command-line interface for working with Pebble Draw Command (PDC) files by [@HBehrens](https://github.com/HBehrens)
 - [pdc_tool web viewer](https://pdc-tool.heikobehrens.com) - Web-based tool for previewing SVG/PDC files by [@HBehrens](https://github.com/HBehrens)
 - [Inkscape PDC Preview Plugins](https://github.com/hellcp/inkscape-pdc-exporter) - Inkscape plugins to preview an SVG as it will look on a Pebble watch, as well as exporting as pdc. Created by [@hellcp](https://github.com/hellcp/). Requires pdc_tool.
+- [Pebble Color Picker](https://developer.rebble.io/guides/tools-and-resources/color-picker/) - View the color pallette supported by Pebble watches with a color display.
+- [Bitmap Gallery](https://github.com/hellcp/bitmap-gallery) - Simple app for previewing images on a Pebble watch.
 
 ## Development
 
@@ -241,3 +230,75 @@ The original company founded by Eric Migicovsky that existed from 2012-2016 when
 
 - [Learning C with Pebble (2016 Edition)](https://pebble.gitbooks.io/learning-c-with-pebble/content/) - Original eBook created by Mike Jipping and others.
 - [Nivx78 Pebble Tutorials](https://nivz78.wordpress.com/2016/10/24/introduction/) - Pebble tutorials created in 2016 (Incomplete)
+
+
+# Pebble Technology Corporation
+
+The original company founded by Eric Migicovsky that existed from 2012-2016 when it went out of business and its assets were sold to Fitbit (later Google).
+
+### Kickstarter Campaigns
+
+- [Original Pebble - Kickstarter Campaign (2012)](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android) - Kickstarter page for the original Pebble smartwatch.
+- [Pebble Time - Kickstarter Campaign (2015)](https://www.kickstarter.com/projects/getpebble/pebble-time-awesome-smartwatch-no-compromises) - Kickstarter campaign for the Pebble Time and Pebble Time Steel.
+- [Pebble 2, Time 2 & Pebble Core - Kickstarter Campaign (2016)](https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra) - Kickstarter campaign for the Pebble 2/2HR, the original Pebble Time 2, and Pebble Core. Only the Pebble 2/2HR was released, before the company went out of business. 
+
+### News & Articles
+
+- 2022-04: [Success and Failure at Pebble (ericmigi.com)](https://ericmigi.com/blog/success-and-failure-at-pebble/) - A deep, candid post by Pebble’s founder looking back at the company’s journey, strategic missteps, and how they ran out of money despite early success.
+- 2020-08: [What happened to Pebble? (Slidebean)](https://slidebean.com/story/what-happened-to-pebble-smartwatch) — A narrative overview of the company’s lifecycle with commentary on pivotal decisions and external challenges.
+- 2016-12: [How the hot startup that stole Apple's thunder wound up in Silicon Valley's graveyard (Business Insider)](https://www.businessinsider.com/how-smartwatch-pioneer-pebble-lost-everything-2016-12) — Focuses on the tumultuous final year at Pebble: declining sales, supplier issues, failed acquisition talks, and the market realities that hurt the business.
+- 2016-12: [The Inside Story Behind Pebble’s Demise (Wired)](https://www.wired.com/2016/12/the-inside-story-behind-pebbles-demise/) — A narrative account from Wired about Pebble’s rise and fall, the competitive pressures it faced, and its eventual sale to Fitbit.
+- 2014-08: [Pebble Fresh, Hot and Fly Limited Edition Smartwatches Land (Slashgear)](https://www.slashgear.com/pebble-fresh-hot-and-fly-limited-edition-smartwatches-land-05339869/) - Post on the release of the limited edition Pebble originals.
+
+Read More: https://www.slashgear.com/pebble-fresh-hot-and-fly-limited-edition-smartwatches-land-05339869/
+
+### Resources
+
+- [github.com/pebble](https://github.com/pebble) - Pebble Technology Corporation Github organization
+- [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
+- [google/pebble](https://github.com/google/pebble) - Repo containing the original open source release of PebbleOS by Google in January 2025.
+- [bmacphail/pebblefw](https://github.com/bmacphail/pebblefw) - The ultimate Pebble smartwatch firmware archive.
+
+### Replacement Parts
+
+- [Pebble 2 Replacement Buttons](https://www.printables.com/model/653701-pebble-2-smartwatch-flexible-replacement-buttons/)
+
+### Repair Guides
+
+- [Pebble Smartwatch Repair (iFixit)](https://www.ifixit.com/Device/Pebble_Smartwatch)
+- [Replace a Battery in a Pebble Watch: Step-by-Step Guide for Pebble Time and Steel](https://thebatterytips.com/battery-specifications/can-you-replace-a-battery-in-a-pebble-watch/)
+
+### Products
+
+- [Hardware Specs](https://developer.repebble.com/guides/tools-and-resources/hardware-information/) - Detailed hardware specs for all Pebble watches old and new.
+
+#### Pebble Steel (2014)
+
+The same specs as the original Pebble watch, but in a premium steel case.
+
+| Model          | Colours         | Case          | Display |  Sensors       | Date | Price                                              |
+|:--------------:|:----------------:|:---------------:|:---------:|:----------------:|:-----------:|:----------------------------------------------------:|
+| Pebble<br>Steel  | 1. `Black Matte`<BR>2. `Brushed Stainless` | Stainless<br>Steel | ePaper<br>1.26" B/W<br>144x168 pixels<br>175 DPI   | Accelerometer<br>Compass | Announced:<br>2025-12<br><br>Released:<br>2014-01 | \$249<br>[Announcement](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android/posts/712443)  |
+
+| Pebble Steel<br>Matte Black, Brushed Steel                              |
+|:----------------------------------------------------------------:|
+| <a href="./images/hardware/ps-originals.avif" target="_blank"><img src="./images/hardware/ps-originals.avif"></a>  | 
+
+#### Pebble (2012)
+
+The original Pebble watch. Released via a very successful [Kickstarter Campaign](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android).
+
+| Model          | Colours         | Case          | Display |  Sensors       | Date | Price                                              |
+|:--------------:|:----------------:|:---------------:|:---------:|:----------------:|:-----------:|:----------------------------------------------------:|
+| Pebble<br>(Classic)  | 1. `Jet Black`<BR>2. `Arctic White`<br>3. `Cherry Red`<br>4. `Orange`<br>5. `Grey`<br><br>Limited Editions:<br>6. `Fresh Green`<br>7. `Neon Pink`<br>8. `Fly Blue` | Polycarbonate | ePaper<br>1.26" B/W<br>144x168 pixels<br>175 DPI   | Accelerometer<br>Compass | Announced:<br>2012-04<br><br>Released:<br>2013-01 | \$125<br>(Early Bird: $99/$115)<br>[Kickstarter](https://www.kickstarter.com/projects/getpebble/pebble-e-paper-watch-for-iphone-and-android/description)  |
+
+| Pebble (Classic)<br>Orange, Cherry Red, Jet Black, Grey, Arctic White                              |
+|:----------------------------------------------------------------:|
+| <a href="./images/hardware/og-classic.png" target="_blank"><img src="./images/hardware/og-originals.jpg"></a>  | 
+
+| Pebble (Classic) - Limited Editions<br>Fresh Green, Neon Pink, Fly Blue                              |
+|:----------------------------------------------------------------:|
+| <a href="./images/hardware/og-limited-editions-alt.jpg" target="_blank"><img src="./images/hardware/og-limited-editions.jpg"></a>  | 
+
+
+
