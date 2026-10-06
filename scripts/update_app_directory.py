@@ -60,10 +60,13 @@ STORES = {
     "pebble": {
         "name": "Pebble App Store",
         "api": "https://appstore-api.repebble.com/api/v1/apps/collection/all/{kind}",
-        # This API lists every app whatever hardware is asked for. It can
-        # filter to apps with a source link, but every app is fetched so that
-        # apps with a code-hosting website link are found too.
-        "params": [{"hardware": PREFERRED_PLATFORM}],
+        # Two listings, merged: the apps with a source link (this API can
+        # filter on that), and the general listing, to also find apps whose
+        # website is a code repository. The general listing only covers part
+        # of the store, so it can't replace the filtered one. Both ignore the
+        # hardware asked for.
+        "params": [{"hardware": PREFERRED_PLATFORM, "source": "available"},
+                   {"hardware": PREFERRED_PLATFORM}],
         "url": "https://apps.repebble.com/{id}",
     },
     "rebble": {
