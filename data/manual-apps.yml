@@ -14,6 +14,7 @@
 #                (use a Pebble Time 2 screenshot if you can). Leave it out
 #                for apps with a store link to use the store's screenshot.
 #   description: one or two sentences
+#   updated:     date of the latest release, e.g. 2026-05-01
 #
 # If an entry's store link matches an app the generator already lists, the
 # details here override the store's.

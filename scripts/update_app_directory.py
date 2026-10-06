@@ -8,6 +8,10 @@ Where entries come from:
      Pebble App Store (or don't list their source there).
   3. data/manual-apps.yml: open source apps added by hand.
 
+An app counts as open source if its store listing has a source code link,
+or (failing that) its website link points to a GitHub, GitLab or Codeberg
+repository. False positives can be listed in data/excluded-apps.yml.
+
 What it remembers between runs (committed to the repo):
   - data/store-apps.json: every open source store app ever seen. Apps that
     leave both stores stay listed, linking to their source code, for as long
@@ -33,6 +37,7 @@ Usage:
 import argparse
 import concurrent.futures
 import datetime
+import email.utils
 import json
 import os
 import re
@@ -45,16 +50,20 @@ from pathlib import Path
 
 import yaml  # installed with mkdocs
 
-PREFERRED_PLATFORM = "emery"  # Pebble Time 2: preferred screenshots and descriptions
+PREFERRED_PLATFORM = "emery"  # Pebble Time 2: the platform asked for when fetching
+# Which watch's screenshot (and description) to use, in order of preference:
+# Pebble Time 2, Pebble Round 2, Pebble 2 Duo, then the original watches.
+SCREENSHOT_ORDER = ["emery", "gabbro", "flint", "basalt", "chalk", "diorite", "aplite"]
 
 # Stores, in order of preference. An app in both is linked to the first.
 STORES = {
     "pebble": {
         "name": "Pebble App Store",
         "api": "https://appstore-api.repebble.com/api/v1/apps/collection/all/{kind}",
-        # This API can filter to apps with source code, and lists every app
-        # whatever hardware is asked for.
-        "params": [{"hardware": PREFERRED_PLATFORM, "source": "available"}],
+        # This API lists every app whatever hardware is asked for. It can
+        # filter to apps with a source link, but every app is fetched so that
+        # apps with a code-hosting website link are found too.
+        "params": [{"hardware": PREFERRED_PLATFORM}],
         "url": "https://apps.repebble.com/{id}",
     },
     "rebble": {
@@ -77,6 +86,10 @@ LICENCES = DATA / "licences.json"
 LICENCE_BATCH = 800      # GitHub allows 1,000 API calls an hour from Actions
 LICENCE_RECHECK_DAYS = 90
 MANUAL = DATA / "manual-apps.yml"
+EXCLUDED = DATA / "excluded-apps.yml"
+# Apps with no source link but whose website is one of these are treated as
+# open source, since the website is almost certainly the code repository.
+CODE_HOST_WEBSITES = {"github.com", "gitlab.com", "codeberg.org"}
 IMAGES = DOCS / "images" / "apps"
 
 TYPES = {
@@ -163,10 +176,52 @@ def normalise_source(src):
     return src
 
 
+def platforms_in_order(app):
+    """The app's hardware platforms, most preferred first."""
+    rank = {name: i for i, name in enumerate(SCREENSHOT_ORDER)}
+    return sorted(app.get("hardware_platforms") or [],
+                  key=lambda hp: rank.get(hp.get("name"), len(rank)))
+
+
+def app_source(app):
+    """The app's source code link and where it came from ("source" or
+    "website"), or (None, None) if it doesn't have one."""
+    src = normalise_source(app.get("source"))
+    if src:
+        return src, "source"
+    site = normalise_source(app.get("website"))
+    if site:
+        u = urllib.parse.urlparse(site)
+        host = u.hostname.lower().removeprefix("www.")
+        if host in CODE_HOST_WEBSITES and len([p for p in u.path.split("/") if p]) >= 2:
+            return site, "website"  # a repository, not just a profile page
+    return None, None
+
+
+def load_excluded():
+    """Store IDs and source links of apps to leave out (false positives)."""
+    if not EXCLUDED.exists():
+        return set()
+    entries = yaml.safe_load(EXCLUDED.read_text(encoding="utf-8")) or []
+    out = set()
+    for i, e in enumerate(entries):
+        if not (e.get("id") or e.get("source")):
+            sys.exit(f"{EXCLUDED.name} entry {i + 1}: needs an id or a source")
+        for key in ("id", "source"):
+            if e.get(key):
+                out.add(str(e[key]).strip().rstrip("/").lower())
+    return out
+
+
+def is_excluded(app_id, source, excluded):
+    return (app_id or "").lower() in excluded or (source or "").rstrip("/").lower() in excluded
+
+
 def store_screenshot(app):
-    for hp in app.get("hardware_platforms") or []:
-        if hp.get("name") == PREFERRED_PLATFORM and (hp.get("images") or {}).get("screenshot"):
-            return hp["images"]["screenshot"]
+    for hp in platforms_in_order(app):
+        shot = (hp.get("images") or {}).get("screenshot")
+        if shot:
+            return shot
     for img in app.get("screenshot_images") or []:
         for url in img.values():
             if url:
@@ -175,11 +230,26 @@ def store_screenshot(app):
 
 
 def store_description(app):
-    texts = [hp.get("description") for hp in app.get("hardware_platforms") or []
-             if hp.get("name") == PREFERRED_PLATFORM]
-    texts += [app.get("description")]
-    texts += [hp.get("description") for hp in app.get("hardware_platforms") or []]
+    texts = [hp.get("description") for hp in platforms_in_order(app)] + [app.get("description")]
     return next((t for t in texts if t and t.strip()), "")
+
+
+def store_updated(app):
+    """Date of the app's latest release in the store, as YYYY-MM-DD, if known.
+    The Pebble API uses ISO dates, the Rebble API uses RFC 1123 dates."""
+    for value in ((app.get("latest_release") or {}).get("published_date"),
+                  app.get("published_date"), app.get("created_at")):
+        if not value:
+            continue
+        try:
+            return datetime.datetime.fromisoformat(value.replace("Z", "+00:00")).date().isoformat()
+        except ValueError:
+            pass
+        try:
+            return email.utils.parsedate_to_datetime(value).date().isoformat()
+        except (TypeError, ValueError):
+            pass
+    return None
 
 
 def short(text, limit=160):
@@ -223,7 +293,7 @@ def merge_store(db, store_key, raw_apps, app_type, today):
     for a in raw_apps:
         if a.get("type") != app_type or a.get("visible") is False:
             continue
-        src = normalise_source(a.get("source"))
+        src, found_in = app_source(a)
         if not src:
             continue
         seen.add(a["id"])
@@ -237,9 +307,14 @@ def merge_store(db, store_key, raw_apps, app_type, today):
                 "title": (a.get("title") or "").strip() or "Untitled",
                 "author": (a.get("author") or "").strip(),
                 "source": src,
+                "source_from": found_in,
                 "description": short(store_description(a), 400),
                 "screenshot_url": shot,
             })
+        # Remember the latest release date in each store; show the newest
+        updated = store_updated(a)
+        if updated:
+            rec.setdefault("store_updated", {})[store_key] = updated
         if store_key not in rec["stores"]:
             rec["stores"].append(store_key)
         rec["source_online"] = True
@@ -415,12 +490,14 @@ def load_manual():
 
 # ---------------------------------------------------------------- rendering
 
-def entries_for(app_type, db, manual, licences):
+def entries_for(app_type, db, manual, licences, excluded):
     """Merge store and manual entries for one type. A manual entry overrides
     the store's details for the same app (matched by the ID in its store link)."""
     entries = {}
     for rec in db.values():
         if rec["type"] != app_type or rec.get("source_online") is False:
+            continue
+        if is_excluded(rec["id"], rec["source"], excluded):
             continue
         if not rec["stores"] and licences.get(rec["source"], {}).get("exists") is False:
             continue  # left the stores and the repository has been deleted
@@ -432,6 +509,7 @@ def entries_for(app_type, db, manual, licences):
             "store_name": STORES[store]["name"] if store else None,
             "departed": not store,
             "licence": licence_label(rec["source"], licences),
+            "updated": max((rec.get("store_updated") or {}).values(), default=""),
         }
     for m in manual:
         if m["type"] != app_type:
@@ -448,6 +526,7 @@ def entries_for(app_type, db, manual, licences):
             "store_name": None if m.get("store") else base.get("store_name"),
             "departed": False,
             "licence": licence_label(m["source"], licences),
+            "updated": str(m.get("updated") or base.get("updated", "")),
         }
     return sorted(entries.values(), key=lambda e: (e["title"].lower(), e["author"].lower()))
 
@@ -467,7 +546,8 @@ def render_row(e):
     lic = e["licence"]
     if lic in ("No licence", "Not checked yet", "See source", "Other"):
         lic = f"<small>{lic}</small>"
-    return f"| {shot} | {name} | {dev} | {lic} | {md_escape(short(e['description']))} |"
+    updated = e["updated"] or "<small>Unknown</small>"
+    return f"| {shot} | {name} | {dev} | {lic} | {updated} | {md_escape(short(e['description']))} |"
 
 
 def letter_nav(by_letter, current=None):
@@ -494,8 +574,8 @@ def write_pages(app_type, entries, updated):
             f"# {label.capitalize()}: {letter_label(l)}", "",
             f"[← About this list](../{index_page.name}) · {letter_nav(by_letter, l)}", "",
             f"*{len(items)} {label} · Last updated {updated}*", "",
-            "| Screenshot | Name | Developer | Licence | Description |",
-            "|------------|------|-----------|---------|-------------|",
+            "| Screenshot | Name | Developer | Licence | Updated | Description |",
+            "|------------|------|-----------|---------|---------|-------------|",
             *[render_row(e) for e in items], "",
         ]
         (folder / f"{l.lower()}.md").write_text("\n".join(lines), encoding="utf-8")
@@ -579,8 +659,9 @@ def main():
 
     updated = updated_file.read_text().strip() if updated_file.exists() else today
     licences = load_licences()
+    excluded = load_excluded()
     for app_type in TYPES:
-        write_pages(app_type, entries_for(app_type, db, manual, licences), updated)
+        write_pages(app_type, entries_for(app_type, db, manual, licences, excluded), updated)
 
 
 if __name__ == "__main__":

@@ -8,7 +8,7 @@ Search for a watchface by name, developer or description using the search box, o
 
 The list is updated automatically every week:
 
-1. **Pebble App Store:** every watchface in the [Pebble App Store](https://apps.repebble.com/) whose developer has published a link to its source code.
+1. **Pebble App Store:** every watchface in the [Pebble App Store](https://apps.repebble.com/) whose developer has published a link to its source code, or whose website link points to a GitHub, GitLab or Codeberg repository.
 2. **Rebble App Store:** any further open source watchfaces from the [Rebble App Store](https://apps.rebble.io/) that aren't in the Pebble App Store.
 3. **Added by hand:** open source watchfaces that aren't in either store, listed in [`data/manual-apps.yml`](https://github.com/saltedlolly/all-things-pebble/blob/main/data/manual-apps.yml).
 
@@ -16,7 +16,8 @@ Everything is merged into one alphabetical list. A few more things to know:
 
 - **Open source** here means the source code is published. The **Licence** column shows the licence of the code (checked automatically for GitHub and GitLab). *No licence* means you can read the code and learn from it, but you don't have permission to reuse it.
 - **Apps that leave the stores stay listed**, linking to their source code, for as long as that source code is still online.
-- **Screenshots** are copied from the stores, using the Pebble Time 2 version where there is one.
+- **Screenshots** are copied from the stores. The Pebble Time 2 screenshot is used where there is one, then the Pebble Round 2, then the Pebble 2 Duo, then the original watches.
+- **Updated** shows the date of the app's latest release in the app store.
 
 ## Add your watchface
 
@@ -39,6 +40,10 @@ Everything is merged into one alphabetical list. A few more things to know:
 3. Open a pull request. Your watchface will be slotted into the list in alphabetical order.
 
 The source code must be publicly available, ideally with an open source licence.
+
+## Report a mistake
+
+If a watchface here isn't actually open source (for example its link doesn't lead to its source code), add it to [`data/excluded-apps.yml`](https://github.com/saltedlolly/all-things-pebble/blob/main/data/excluded-apps.yml) with a pull request, or [open an issue](https://github.com/saltedlolly/all-things-pebble/issues). It will be left out from then on.
 
 ## Browse
 

@@ -1,0 +1,17 @@
+# Apps to leave out of the watchface and watchapp directories.
+#
+# Use this for false positives: apps the generator picked up as open source
+# that aren't, for example because their source link or website points to
+# something other than the app's source code.
+#
+# Identify each app by its store ID (the long code at the end of its store
+# link, e.g. https://apps.repebble.com/52a97439c0ca9349a0000051) or by its
+# source link. Add a reason so others know why it was excluded.
+#
+# Example:
+#
+# - id: 52a97439c0ca9349a0000051
+#   title: Example App
+#   reason: Website link is the developer's portfolio, not the app's source.
+
+[]

@@ -44,6 +44,8 @@ The Watchfaces and Watchapps pages are built by `scripts/update_app_directory.py
 - **The Rebble App Store:** any further open source apps from the [Rebble App Store API](https://appstore-api.rebble.io/) that aren't in the Pebble App Store.
 - **`data/manual-apps.yml`:** open source apps added by hand (not in the store, or not listing their source there). The file explains the fields.
 
+Apps without a source link in the store are also included if their website link points to a GitHub, GitLab or Codeberg repository. False positives can be listed in `data/excluded-apps.yml` (by store ID or source link) to leave them out.
+
 Both are merged into one alphabetical list, with one page per letter in `docs/watchfaces/` and `docs/watchapps/`.
 
 - `data/store-apps.json` remembers every open source store app ever seen. Apps that leave both stores stay listed, linking to their source code, as long as the source is still online (checked each run; a 404 hides the app until it comes back).
