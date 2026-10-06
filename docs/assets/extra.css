@@ -1,3 +1,69 @@
 /* Let the wide spec tables scroll rather than squash */
 .md-typeset table:not([class]) { font-size: 0.7rem; }
 .md-typeset table:not([class]) img { max-width: 100%; height: auto; }
+
+/* Use more of a wide screen */
+.md-grid { max-width: 90rem; }
+
+/* Watchface and app directory: a grid of cards that reflows to the screen */
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  gap: 0.8rem;
+  margin: 1em 0;
+}
+.app-card {
+  display: flex;
+  gap: 0.8rem;
+  padding: 0.7rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.4rem;
+  background: var(--md-default-bg-color);
+  min-width: 0;
+}
+.app-shot { flex: 0 0 72px; }
+.md-typeset .app-shot img {
+  width: 72px;
+  height: auto;
+  border-radius: 0.2rem;
+  image-rendering: pixelated;
+}
+.app-noshot {
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  width: 72px; height: 84px; border-radius: 0.2rem;
+  font-size: 0.55rem; color: var(--md-default-fg-color--light);
+  background: var(--md-default-fg-color--lightest);
+}
+.app-info { min-width: 0; }
+.md-typeset .app-name { font-weight: 700; word-break: break-word; }
+.app-dev { font-size: 0.7rem; color: var(--md-default-fg-color--light); }
+.app-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.3rem; }
+.app-tags span {
+  font-size: 0.6rem; padding: 0.05rem 0.4rem; border-radius: 1rem;
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+}
+.app-tags .app-licence { background: var(--md-accent-fg-color--transparent); color: var(--md-default-fg-color); }
+.app-tags .app-licence--none { background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color--light); }
+.md-typeset .app-desc { font-size: 0.7rem; margin: 0.4rem 0 0; line-height: 1.4; }
+
+/* Letter index on the watchfaces/apps pages */
+.letter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(4.2rem, 1fr));
+  gap: 0.4rem;
+  margin: 1em 0;
+}
+.md-typeset .letter-grid a {
+  display: flex; flex-direction: column; align-items: center;
+  padding: 0.4rem 0.2rem; border-radius: 0.3rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+.md-typeset .letter-grid a:hover { border-color: var(--md-accent-fg-color); }
+.letter-grid strong { font-size: 0.9rem; }
+.letter-grid span { font-size: 0.6rem; color: var(--md-default-fg-color--light); }
+
+/* Narrow screens: one card per row */
+@media screen and (max-width: 30em) {
+  .app-grid { grid-template-columns: 1fr; }
+}
