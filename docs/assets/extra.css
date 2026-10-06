@@ -22,11 +22,13 @@
   border-radius: 0.4rem;
   background: var(--md-default-bg-color);
   min-width: 0;
+  position: relative;
 }
 .app-shot {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 1.1rem; /* room for the View source link */
   min-height: 228px; /* tallest screenshot (Pebble Time 2), so text lines up across a row */
 }
 .md-typeset .app-shot img {
@@ -44,6 +46,12 @@
 .app-info { min-width: 0; }
 .md-typeset .app-name { font-weight: 700; word-break: break-word; }
 .app-dev { font-size: 0.7rem; color: var(--md-default-fg-color--light); }
+.md-typeset .app-source {
+  position: absolute; top: 0.5rem; right: 0.5rem;
+  padding: 0.1rem 0.45rem; border-radius: 0.6rem;
+  font-size: 0.6rem; font-weight: 700; white-space: nowrap;
+  background: var(--md-accent-fg-color--transparent);
+}
 .app-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.3rem; }
 .app-tags span {
   font-size: 0.6rem; padding: 0.05rem 0.4rem; border-radius: 1rem;

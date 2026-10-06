@@ -9,6 +9,7 @@
 #   title:       app name (required)
 #   source:      link to the source code (required)
 #   author:      developer name
+#   developer:   link to the developer's page (e.g. their app store page)
 #   store:       link to the app store listing, if it has one
 #   screenshot:  image path relative to docs/, e.g. images/watchapps/my-app.png
 #                (use a Pebble Time 2 screenshot if you can). Leave it out

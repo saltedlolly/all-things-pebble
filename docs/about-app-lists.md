@@ -15,7 +15,8 @@ Everything is merged into one alphabetical list for watchfaces and one for apps.
 ## What the columns mean
 
 - **Name** links to the app in the Pebble App Store, or the Rebble App Store if it's only there. Apps that aren't in either store link to their source code.
-- **Developer** links to the source code. The source can be hosted anywhere.
+- **View source** (top right of each card) links to the source code. The source can be hosted anywhere.
+- **Developer** links to the developer's page in the Pebble or Rebble App Store, so you can find their other apps.
 - **Licence** is the licence of the source code, checked automatically for GitHub and GitLab repositories. *No licence* means you can read the code and learn from it, but you don't have permission to reuse it. *See source* means the code is hosted somewhere the licence can't be checked automatically.
 - **Updated** is the date of the app's latest release in the app store.
 - **Screenshots** are copied from the stores. The Pebble Time 2 screenshot is used where there is one, then the Pebble Round 2, then the Pebble 2 Duo, then the original watches.

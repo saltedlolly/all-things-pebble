@@ -317,6 +317,8 @@ def merge_store(db, store_key, raw_apps, app_type, today):
                 "screenshot_url": shot,
             })
         # Remember the latest release date in each store; show the newest
+        if a.get("developer_id"):
+            rec.setdefault("developer_ids", {})[store_key] = a["developer_id"]
         updated = store_updated(a)
         if updated:
             rec.setdefault("store_updated", {})[store_key] = updated
@@ -495,6 +497,17 @@ def load_manual():
 
 # ---------------------------------------------------------------- rendering
 
+def developer_url(store, rec):
+    """The developer's page in the store the app is linked to, if known."""
+    dev = (rec.get("developer_ids") or {}).get(store)
+    if not dev:
+        return None
+    if store == "pebble":
+        slug = re.sub(r"[^a-z0-9]+", "-", (rec.get("author") or "").lower()).strip("-") or "developer"
+        return f"https://apps.repebble.com/apps/dev/{slug}_{dev}"
+    return f"https://apps.rebble.io/en_US/developer/{dev}/1"
+
+
 def entries_for(app_type, db, manual, licences, excluded):
     """Merge store and manual entries for one type. A manual entry overrides
     the store's details for the same app (matched by the ID in its store link)."""
@@ -512,6 +525,7 @@ def entries_for(app_type, db, manual, licences, excluded):
             "description": rec["description"], "screenshot": rec.get("screenshot"),
             "store": STORES[store]["url"].format(id=rec["id"]) if store else None,
             "store_name": STORES[store]["name"] if store else None,
+            "developer": developer_url(store, rec),
             "departed": not store,
             "anchor": "app-" + rec["id"],
             "licence": licence_label(rec["source"], licences),
@@ -530,6 +544,7 @@ def entries_for(app_type, db, manual, licences, excluded):
             "screenshot": manual_screenshot_path(m) or base.get("screenshot"),
             "store": m.get("store") or base.get("store"),
             "store_name": None if m.get("store") else base.get("store_name"),
+            "developer": m.get("developer") or base.get("developer"),
             "departed": False,
             "anchor": "app-" + (ids[0] if ids else re.sub(r"[^a-z0-9]+", "-", m["title"].lower()).strip("-")),
             "licence": licence_label(m["source"], licences),
@@ -560,12 +575,18 @@ def render_card(e):
     if where:
         tags.append(f"<span>{esc(where)}</span>")
     desc = esc(short(e["description"], 200))
+    author = esc(e["author"] or "Unknown developer")
+    if e.get("developer"):
+        dev = f'by <a href="{esc(e["developer"])}" title="More from this developer">{author}</a>'
+    else:
+        dev = f"by {author}"
     return (
         f'<div class="app-card" id="{esc(e["anchor"])}">'
         f'<a class="app-shot" href="{esc(link)}">{shot}</a>'
         '<div class="app-info">'
         f'<a class="app-name" href="{esc(link)}">{esc(e["title"])}</a>'
-        f'<div class="app-dev">by <a href="{esc(e["source"])}" title="Source code">{esc(e["author"] or "Source code")}</a></div>'
+        f'<a class="app-source" href="{esc(e["source"])}" title="Source code">View source</a>'
+        f'<div class="app-dev">{dev}</div>'
         f'<div class="app-tags">{"".join(tags)}</div>'
         + (f'<p class="app-desc">{desc}</p>' if desc else "")
         + "</div></div>"
