@@ -29,6 +29,22 @@ Similar to the original Pebble Time Round, but with a larger display, touchscree
 | <a href="./images/hardware/pr2-rosegold.png" target="_blank"><img src="./images/hardware/pr2-rosegold.png" width="325px"></a> | <a href="./images/hardware/pr2-silver-14mm.png" target="_blank"><img src="./images/hardware/pr2-silver-14mm.png" width="325px"></a>
 
 
+## Pebble Index 01 (2026)
+
+The first Pebble smart ring. Features simply a button and microphone - designed for capturing ideas thoughts, reminders when and where you have them.
+
+| Model          | Colours         | Case          | Sizes |  Sensors       | Date | Price          |
+|:--------------:|:----------------:|:---------------:|:---------:|:----------------:|:-----------:|:-----------:|
+| Pebble Index 01  | `Brushed Silved`<BR>`Polished Gold`<br>`Matte Black` | Stainless<br>Steel | US ring sizes:<br>6-13  | Microphone | Announced:<br>2025-12<br><br>Released:<br>2026-02 | $75<br>[Buy](https://repebble.com/index)  |
+
+| Pebble Index 01 - Brushed Silver                              | Pebble Index 01 - Matte Black  |
+|----------------------------------------------------------------|-------------------------|
+| <a href="./images/hardware/pi01-silver.png" target="_blank"><img src="./images/hardware/pi01-silver.png" width="325px"></a> |  <a href="./images/hardware/pi01-black.png" target="_blank"><img src="./images/hardware/pi01-black.png" width="325px"></a> | 
+
+| Pebble Index 01 - Polished Gold                              |   |
+|----------------------------------------------------------------|-------------------------|
+| <a href="./images/hardware/pi01-gold.jpg" target="_blank"><img src="./images/hardware/pi01-gold.jpg" width="325px"></a> |   | 
+
 
 ## Pebble Time 2 (2026)
 
@@ -57,7 +73,6 @@ A do-over of the original Pebble 2 released in 2016. Previously called the Core 
 | Pebble 2 Duo<br>Black                                       | Pebble 2 Duo<br>White |
 |------------------------------------------------------------|----------------------|
 | <a href="./images/hardware/p2d-black.png" target="_blank"><img src="./images/hardware/p2d-black.png" width="325px"></a>  | <a href="./images/hardware/p2d-white.png" target="_blank"><img src="./images/hardware/p2d-white.png" width="325px"></a> |
-
 
 
 ## Core Devices Developer Resources
