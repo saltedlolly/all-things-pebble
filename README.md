@@ -12,7 +12,7 @@ A community-curated directory of all things related to Pebble smartwatches and o
 - [Art & Design](docs/art-design.md) - Design tools, fonts, icons and graphics utilities.
 - [Hardware](docs/hardware.md) - Smartstraps, 3D prints and other hardware resources.
 - [Community](docs/community.md) - Forums, companion apps, translation, education and news.
-- [Watchfaces](docs/watchfaces.md) and [Watchapps](docs/watchapps.md) - Directories of open source watchfaces and watchapps.
+- [Pebble Watchfaces](docs/watchfaces.md) and [Pebble Apps](docs/watchapps.md) - Directories of open source watchfaces and apps.
 - [Pebble Technology Corporation](docs/pebble-technology.md) - The original Pebble company: history, archives, repairs and the original watches.
 
 ## Contributing

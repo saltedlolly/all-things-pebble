@@ -12,5 +12,5 @@ Something missing? Please add it by making a PR!
 - [Art & Design](art-design.md) - Design tools, fonts, icons and graphics utilities.
 - [Hardware](hardware.md) - Smartstraps, 3D prints and other hardware resources.
 - [Community](community.md) - Forums, companion apps, translation, education and news.
-- [Watchfaces](watchfaces.md) and [Watchapps](watchapps.md) - Directories of open source watchfaces and watchapps.
+- [Pebble Watchfaces](watchfaces.md) and [Pebble Apps](watchapps.md) - Directories of open source watchfaces and apps.
 - [Pebble Technology Corporation](pebble-technology.md) - The original Pebble company: history, archives, repairs and the original watches.

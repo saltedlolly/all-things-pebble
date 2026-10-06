@@ -38,7 +38,7 @@ Then open [http://127.0.0.1:8000](http://127.0.0.1:8000). The page reloads autom
 
 ## Watchface and watchapp lists
 
-The Watchfaces and Watchapps pages are built by `scripts/update_app_directory.py`. It combines:
+The Pebble Watchfaces and Pebble Apps pages are built by `scripts/update_app_directory.py`. It combines:
 
 - **The Pebble App Store:** every watchface and watchapp whose developer has published a source code link, fetched from the [Pebble App Store API](https://appstore-api.repebble.com/).
 - **The Rebble App Store:** any further open source apps from the [Rebble App Store API](https://appstore-api.rebble.io/) that aren't in the Pebble App Store.

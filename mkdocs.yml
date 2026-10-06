@@ -23,8 +23,9 @@ nav:
   - Art & Design: art-design.md
   - Hardware: hardware.md
   - Community: community.md
-  - Watchfaces: watchfaces.md
-  - Watchapps: watchapps.md
+  - Pebble Watchfaces: watchfaces.md
+  - Pebble Apps: watchapps.md
+  - About the App Lists: about-app-lists.md
   - Pebble Technology Corp: pebble-technology.md
 
 theme:
