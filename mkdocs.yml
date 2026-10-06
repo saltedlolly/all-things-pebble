@@ -1,0 +1,63 @@
+site_name: All Things Pebble
+site_description: A community-curated directory of all things related to Pebble smartwatches and other devices based on PebbleOS.
+site_url: https://allthingspebble.saltedlolly.com/
+repo_url: https://github.com/saltedlolly/all-things-pebble
+repo_name: saltedlolly/all-things-pebble
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: index.md
+  - Core Devices: core-devices.md
+  - Rebble Alliance: rebble.md
+  - Development: development.md
+  - Art & Design: art-design.md
+  - Hardware: hardware.md
+  - Community: community.md
+  - Watchfaces: watchfaces.md
+  - Watchapps: watchapps.md
+  - Pebble Technology Corp: pebble-technology.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    logo: material/watch
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/extra.css

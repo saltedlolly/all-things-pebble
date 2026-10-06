@@ -1,6 +1,5 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+site/
+.cache/
+__pycache__/
+.venv/
 **/.DS_Store

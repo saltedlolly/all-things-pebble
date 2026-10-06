@@ -1,0 +1,2 @@
+# 9.7.5+ caps MkDocs below 2.0, which is not compatible with Material
+mkdocs-material>=9.7.5,<10

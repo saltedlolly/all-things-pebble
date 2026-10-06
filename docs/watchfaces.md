@@ -1,11 +1,3 @@
-### All Things Pebble
-
-⬅️ [Back to main](./README.md)
-
-🧰 [View Pebble Apps](./Pebble-Watchapps.md)
-
----
-
 # Watchfaces for Pebble
 
 A community-curated directory of **open source watchfaces** created for Pebble smartwatches.
@@ -22,18 +14,18 @@ Pebble Watchfaces listed here must be:
 - sorted alphabetically by 'Name' (add your watchface in the correct order)
 - 'Name' should link to the app store listing
 - 'Developer' should link to the Github repo (or other) containing the watchapp source code.
-- A screenshot should be added to the `/images/watchfaces` folder. You can copy one from the app store listing. Use a Time 2 screenshot when possible.
+- A screenshot should be added to the `docs/images/watchfaces` folder. You can copy one from the app store listing. Use a Time 2 screenshot when possible.
 
 
-# A
+## A
 
-# N
+## N
 
 | Screenshot | Name | Developer | Description
 |------------|------|-----------|-----------|
 | ![Pic](./images/watchfaces/nightscout.png) | [Nightscout](https://apps.rebble.io/en_US/application/543bfbbcecc29baad0000007) | [Nightscout Contributors](https://github.com/nightscout/cgm-pebble) | Display Nightscout data on your pebble watch. Support for mg/dL and mmol units. |
 
-# T
+## T
 
 | Screenshot | Name | Developer | Description
 |------------|------|-----------|-----------|
