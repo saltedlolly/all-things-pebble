@@ -5,33 +5,40 @@
 /* Use more of a wide screen */
 .md-grid { max-width: 90rem; }
 
-/* Watchface and app directory: a grid of cards that reflows to the screen */
+/* Watchface and app directory: a grid of cards that reflows to the screen.
+   Screenshots are shown at their actual size (1 screen pixel per watch pixel). */
 .app-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
   gap: 0.8rem;
   margin: 1em 0;
 }
 .app-card {
   display: flex;
-  gap: 0.8rem;
-  padding: 0.7rem;
+  flex-direction: column;
+  gap: 0.6rem;
+  padding: 0.8rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 0.4rem;
   background: var(--md-default-bg-color);
   min-width: 0;
 }
-.app-shot { flex: 0 0 72px; }
+.app-shot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 228px; /* tallest screenshot (Pebble Time 2), so text lines up across a row */
+}
 .md-typeset .app-shot img {
-  width: 72px;
+  width: auto;
+  max-width: 100%;
   height: auto;
-  border-radius: 0.2rem;
   image-rendering: pixelated;
 }
 .app-noshot {
   display: flex; align-items: center; justify-content: center; text-align: center;
-  width: 72px; height: 84px; border-radius: 0.2rem;
-  font-size: 0.55rem; color: var(--md-default-fg-color--light);
+  width: 144px; height: 168px; border-radius: 0.2rem;
+  font-size: 0.65rem; color: var(--md-default-fg-color--light);
   background: var(--md-default-fg-color--lightest);
 }
 .app-info { min-width: 0; }
@@ -64,10 +71,9 @@
 .letter-grid span { font-size: 0.6rem; color: var(--md-default-fg-color--light); }
 
 /* Narrow screens: one card per row */
-@media screen and (max-width: 30em) {
+@media screen and (max-width: 36em) {
   .app-grid { grid-template-columns: 1fr; }
 }
-
 /* Jump-to-card links: keep the card clear of the header and highlight it */
 .app-card { scroll-margin-top: 4.5rem; }
 .app-card:target { border-color: var(--md-accent-fg-color); box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent); }
