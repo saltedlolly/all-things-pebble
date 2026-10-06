@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Pebble Watchfaces
 
 Open source watchfaces for Pebble smartwatches. Each one links to the app store and to its source code, so you can see how it was made.

@@ -513,6 +513,7 @@ def entries_for(app_type, db, manual, licences, excluded):
             "store": STORES[store]["url"].format(id=rec["id"]) if store else None,
             "store_name": STORES[store]["name"] if store else None,
             "departed": not store,
+            "anchor": "app-" + rec["id"],
             "licence": licence_label(rec["source"], licences),
             "updated": max((rec.get("store_updated") or {}).values(), default=""),
         }
@@ -530,6 +531,7 @@ def entries_for(app_type, db, manual, licences, excluded):
             "store": m.get("store") or base.get("store"),
             "store_name": None if m.get("store") else base.get("store_name"),
             "departed": False,
+            "anchor": "app-" + (ids[0] if ids else re.sub(r"[^a-z0-9]+", "-", m["title"].lower()).strip("-")),
             "licence": licence_label(m["source"], licences),
             "updated": str(m.get("updated") or base.get("updated", "")),
         }
@@ -559,7 +561,7 @@ def render_card(e):
         tags.append(f"<span>{esc(where)}</span>")
     desc = esc(short(e["description"], 200))
     return (
-        '<div class="app-card">'
+        f'<div class="app-card" id="{esc(e["anchor"])}">'
         f'<a class="app-shot" href="{esc(link)}">{shot}</a>'
         '<div class="app-info">'
         f'<a class="app-name" href="{esc(link)}">{esc(e["title"])}</a>'
@@ -620,7 +622,15 @@ def write_pages(app_type, entries, updated):
           f'<strong>{"0–9" if l == "other" else l}</strong>'
           f'<span>{len(by_letter[l]):,}</span></a>'
           for l in LETTERS if l in by_letter],
-        "</div>",
+        "</div>", "",
+        # Every app by name, under its letter, linking to its card
+        *[line for l in LETTERS if l in by_letter for line in (
+            f"## [{letter_label(l)}]({folder.name}/{l.lower()}.md) {{ #letter-{l.lower()} }}", "",
+            '<div class="name-list">'
+            + "".join(f'<a href="{folder.name}/{l.lower()}.html#{html.escape(e["anchor"])}">{html.escape(e["title"])}</a>'
+                      for e in by_letter[l])
+            + "</div>", "",
+        )],
         "", END,
     ]
     text = index_page.read_text(encoding="utf-8")

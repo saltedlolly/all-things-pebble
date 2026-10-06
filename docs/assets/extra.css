@@ -67,3 +67,23 @@
 @media screen and (max-width: 30em) {
   .app-grid { grid-template-columns: 1fr; }
 }
+
+/* Jump-to-card links: keep the card clear of the header and highlight it */
+.app-card { scroll-margin-top: 4.5rem; }
+.app-card:target { border-color: var(--md-accent-fg-color); box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent); }
+
+/* All app names on the index pages, in columns */
+.md-typeset .name-list {
+  columns: 13rem;
+  column-gap: 1.5rem;
+  font-size: 0.7rem;
+  margin-bottom: 1.5em;
+}
+.md-typeset .name-list a {
+  display: block;
+  break-inside: avoid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 1.6;
+}
