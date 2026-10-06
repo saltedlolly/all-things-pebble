@@ -6,7 +6,7 @@ Search for a watchface by name, developer or description using the search box, o
 
 ## How this list is made
 
-The list is rebuilt automatically every week:
+The list is updated automatically every week:
 
 1. **Pebble App Store:** every watchface in the [Pebble App Store](https://apps.repebble.com/) whose developer has published a link to its source code.
 2. **Rebble App Store:** any further open source watchfaces from the [Rebble App Store](https://apps.rebble.io/) that aren't in the Pebble App Store.

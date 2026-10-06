@@ -242,7 +242,6 @@ def merge_store(db, store_key, raw_apps, app_type, today):
             })
         if store_key not in rec["stores"]:
             rec["stores"].append(store_key)
-        rec["last_seen"] = today
         rec["source_online"] = True
     # Forget this store for apps it no longer lists
     for rec in db.values():
@@ -261,7 +260,6 @@ def check_departed_sources(db, today):
         ok = source_online(rec["source"])
         if ok is not None:
             rec["source_online"] = ok
-            rec["source_checked"] = today
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
         list(pool.map(check, todo))
@@ -531,6 +529,13 @@ def write_pages(app_type, entries, updated):
 
 # ---------------------------------------------------------------- main
 
+def snapshot():
+    """Fingerprint of the saved data, to tell whether a run changed anything."""
+    files = [STORE_DB, LICENCES]
+    return (tuple(f.read_text() if f.exists() else "" for f in files),
+            tuple(sorted(p.name for p in IMAGES.glob("*"))) if IMAGES.exists() else ())
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--offline", action="store_true",
@@ -541,8 +546,13 @@ def main():
     today = datetime.date.today().isoformat()
 
     db = load_db()
+    for rec in db.values():  # fields from older versions that changed every run
+        rec.pop("last_seen", None)
+        rec.pop("source_checked", None)
     manual = load_manual()
+    updated_file = DATA / "last-updated.txt"
     if not args.offline:
+        before = snapshot()
         fixture = json.loads(Path(args.fixture).read_text()) if args.fixture else None
         for store_key, store in STORES.items():
             for app_type, (kind, *_rest) in TYPES.items():
@@ -559,9 +569,14 @@ def main():
             manual_screenshots(manual)
             check_licences([r["source"] for r in db.values()] + [m["source"] for m in manual], today)
         save_db(db)
-        (DATA / "last-updated.txt").write_text(today + "\n")
+        # Only move the "last updated" date when something actually changed,
+        # so a run that finds nothing new doesn't produce a commit.
+        if snapshot() != before or not updated_file.exists():
+            updated_file.write_text(today + "\n")
+            print("changes found: last updated date set to", today)
+        else:
+            print("no changes since last update")
 
-    updated_file = DATA / "last-updated.txt"
     updated = updated_file.read_text().strip() if updated_file.exists() else today
     licences = load_licences()
     for app_type in TYPES:

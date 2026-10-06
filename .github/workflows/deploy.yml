@@ -31,8 +31,11 @@ jobs:
       # Rebuild the open source watchface/watchapp lists from the Pebble App
       # Store. If the store API is down, carry on with the lists already in
       # the repo rather than failing the deploy.
+      # The weekly (or manually started) run fetches the stores. Pushes just
+      # rebuild the pages from the saved data in the next step.
       - name: Update watchface and watchapp lists
         id: apps
+        if: github.event_name != 'push'
         continue-on-error: true
         timeout-minutes: 30
         env:
@@ -40,8 +43,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/update_app_directory.py
 
-      # If the stores couldn't be reached, still rebuild the pages from the
-      # saved data so the site stays complete.
+      # On a push, or if the stores couldn't be reached, rebuild the pages
+      # from the saved data so the site stays complete.
       - name: Rebuild lists from saved data
         if: steps.apps.outcome != 'success'
         run: python3 scripts/update_app_directory.py --offline
@@ -55,7 +58,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to the lists."
           else
-            git commit -m "Update watchface and watchapp lists from the Pebble App Store"
+            git commit -m "Update watchface and watchapp lists from the app stores"
             git push
           fi
 

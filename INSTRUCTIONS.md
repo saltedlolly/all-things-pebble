@@ -48,8 +48,8 @@ Both are merged into one alphabetical list, with one page per letter in `docs/wa
 
 - `data/store-apps.json` remembers every open source store app ever seen. Apps that leave both stores stay listed, linking to their source code, as long as the source is still online (checked each run; a 404 hides the app until it comes back).
 - `data/licences.json` caches each GitHub/GitLab repository's licence, shown in the Licence column. Up to 800 repositories are checked per run (GitHub's API limit), so a full set of licences builds up over a few runs. Each is re-checked every 90 days.
-- `data/last-updated.txt` holds the date of the last successful update, shown on the pages.
 - Screenshots are copied into `docs/images/apps/` so the site doesn't depend on the store's images.
-- The deploy workflow runs the script on every push and every Monday, and commits any changes back to the repo. Pull before you push to pick these up.
+- Every Monday the deploy workflow fetches both stores, downloads new screenshots, checks licences, and commits any changes back to the repo (pull before you push to pick these up). You can also run it by hand from the Actions tab with **Run workflow**. Pushes only rebuild the pages from the saved data.
+- `data/last-updated.txt` only changes when the lists actually change, so a week with nothing new produces no commit.
 - Don't edit the generated pages or the text between the `BEGIN GENERATED` / `END GENERATED` markers by hand.
 - To rebuild the pages locally from the saved data, run `python3 scripts/update_app_directory.py --offline` (needs `pip install -r requirements.txt`). Leave off `--offline` to fetch from the store and download new screenshots.
