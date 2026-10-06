@@ -14,7 +14,7 @@ The list is rebuilt automatically every week:
 
 Everything is merged into one alphabetical list. A few more things to know:
 
-- **Open source** here means the developer has published a link to the source code. Licences aren't checked.
+- **Open source** here means the source code is published. The **Licence** column shows the licence of the code (checked automatically for GitHub and GitLab). *No licence* means you can read the code and learn from it, but you don't have permission to reuse it.
 - **Apps that leave the stores stay listed**, linking to their source code, for as long as that source code is still online.
 - **Screenshots** are copied from the stores, using the Pebble Time 2 version where there is one.
 

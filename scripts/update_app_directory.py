@@ -14,6 +14,9 @@ What it remembers between runs (committed to the repo):
     as that source code is still online.
   - docs/images/apps/: a copy of each app's screenshot, so the directory
     doesn't depend on the stores' image hosting.
+  - data/licences.json: the licence of each GitHub/GitLab repository, shown
+    next to each app. Checked a batch at a time to stay inside GitHub's API
+    limits, and re-checked every few months.
 
 What it writes:
   - docs/watchfaces/<letter>.md and docs/watchapps/<letter>.md: one page per
@@ -31,6 +34,7 @@ import argparse
 import concurrent.futures
 import datetime
 import json
+import os
 import re
 import sys
 import time
@@ -69,6 +73,9 @@ ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 DATA = ROOT / "data"
 STORE_DB = DATA / "store-apps.json"
+LICENCES = DATA / "licences.json"
+LICENCE_BATCH = 800      # GitHub allows 1,000 API calls an hour from Actions
+LICENCE_RECHECK_DAYS = 90
 MANUAL = DATA / "manual-apps.yml"
 IMAGES = DOCS / "images" / "apps"
 
@@ -294,6 +301,119 @@ def download_screenshots(db):
     print(f"downloaded {len(todo)} screenshots")
 
 
+class RateLimited(Exception):
+    pass
+
+
+def lookup_licence(source):
+    """Return (licence, repo_exists) for a GitHub or GitLab repository.
+    licence is an SPDX id such as "MIT", "Other" for an unrecognised licence,
+    or None for no licence. Returns None if the host isn't supported."""
+    u = urllib.parse.urlparse(source)
+    host = (u.hostname or "").lower().removeprefix("www.")
+    parts = [p for p in u.path.split("/") if p]
+    if len(parts) < 2:
+        return None
+    owner, repo = parts[0], parts[1].removesuffix(".git")
+    if host == "github.com":
+        url = f"https://api.github.com/repos/{owner}/{repo}"
+        headers = {**HEADERS, "Accept": "application/vnd.github+json"}
+        if os.environ.get("GITHUB_TOKEN"):
+            headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
+    elif host == "gitlab.com":
+        # GitLab projects can be nested in groups, so use the whole path
+        path = "/".join(parts[:parts.index("-")] if "-" in parts else parts)
+        url = f"https://gitlab.com/api/v4/projects/{urllib.parse.quote(path.removesuffix('.git'), safe='')}?license=true"
+        headers = HEADERS
+    else:
+        return None
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=30) as r:
+            data = json.load(r)
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return (None, False)
+        if e.code in (403, 429):
+            raise RateLimited()
+        raise
+    lic = data.get("license")
+    if not lic:
+        return (None, True)
+    spdx = lic.get("spdx_id") or lic.get("key") or lic.get("nickname")
+    return ("Other" if not spdx or spdx.upper() in ("NOASSERTION", "OTHER") else spdx, True)
+
+
+def check_licences(sources, today):
+    """Look up licences for a batch of sources, oldest checks first."""
+    cache = json.loads(LICENCES.read_text()) if LICENCES.exists() else {}
+    cutoff = (datetime.date.fromisoformat(today) - datetime.timedelta(days=LICENCE_RECHECK_DAYS)).isoformat()
+    due = [s for s in sorted(set(sources)) if cache.get(s, {}).get("checked", "") < cutoff]
+    due.sort(key=lambda s: cache.get(s, {}).get("checked", ""))  # never-checked first
+    checked = 0
+    for source in due[:LICENCE_BATCH]:
+        try:
+            result = lookup_licence(source)
+        except RateLimited:
+            print("licence checks: rate limited, carrying on next run", file=sys.stderr)
+            break
+        except Exception as e:
+            print(f"licence check failed for {source}: {e}", file=sys.stderr)
+            continue
+        if result is None:
+            cache[source] = {"licence": "unsupported", "checked": today}
+        else:
+            lic, exists = result
+            cache[source] = {"licence": lic, "exists": exists, "checked": today}
+        checked += 1
+    LICENCES.write_text(json.dumps(dict(sorted(cache.items())), indent=1) + "\n")
+    print(f"licence checks: {checked} done, {max(0, len(due) - checked)} still due")
+    return cache
+
+
+def load_licences():
+    return json.loads(LICENCES.read_text()) if LICENCES.exists() else {}
+
+
+def licence_label(source, cache):
+    entry = cache.get(source)
+    if entry is None:
+        return "Not checked yet"
+    if entry["licence"] == "unsupported":
+        return "See source"
+    if entry["licence"] is None:
+        return "No licence"
+    return entry["licence"]
+
+
+def manual_screenshots(manual):
+    """For hand-added apps with a store link but no screenshot of their own,
+    copy the store's screenshot into docs/images/apps/."""
+    IMAGES.mkdir(parents=True, exist_ok=True)
+    for m in manual:
+        ids = re.findall(r"[0-9a-f]{24}", m.get("store") or "")
+        if m.get("screenshot") or not ids or list(IMAGES.glob(f"{ids[0]}.*")):
+            continue
+        for store in STORES.values():
+            api = store["api"].split("/collection/")[0] + f"/id/{ids[0]}?hardware={PREFERRED_PLATFORM}"
+            try:
+                apps = http_get(api)["data"]
+                shot = store_screenshot(apps[0]) if apps else None
+                if shot:
+                    ext = Path(urllib.parse.urlparse(shot).path).suffix.lower() or ".png"
+                    (IMAGES / f"{ids[0]}{ext}").write_bytes(http_get(shot, binary=True))
+                    break
+            except Exception as e:
+                print(f"no store screenshot for {m['title']} from {store['name']}: {e}", file=sys.stderr)
+
+
+def manual_screenshot_path(m):
+    if m.get("screenshot"):
+        return m["screenshot"]
+    ids = re.findall(r"[0-9a-f]{24}", m.get("store") or "")
+    found = list(IMAGES.glob(f"{ids[0]}.*")) if ids else []
+    return found[0].relative_to(DOCS).as_posix() if found else None
+
+
 def load_manual():
     if not MANUAL.exists():
         return []
@@ -306,13 +426,15 @@ def load_manual():
 
 # ---------------------------------------------------------------- rendering
 
-def entries_for(app_type, db, manual):
+def entries_for(app_type, db, manual, licences):
     """Merge store and manual entries for one type. A manual entry overrides
     the store's details for the same app (matched by the ID in its store link)."""
     entries = {}
     for rec in db.values():
         if rec["type"] != app_type or rec.get("source_online") is False:
             continue
+        if not rec["stores"] and licences.get(rec["source"], {}).get("exists") is False:
+            continue  # left the stores and the repository has been deleted
         store = next((s for s in STORES if s in rec["stores"]), None)
         entries[rec["id"]] = {
             "title": rec["title"], "author": rec["author"], "source": rec["source"],
@@ -320,6 +442,7 @@ def entries_for(app_type, db, manual):
             "store": STORES[store]["url"].format(id=rec["id"]) if store else None,
             "store_name": STORES[store]["name"] if store else None,
             "departed": not store,
+            "licence": licence_label(rec["source"], licences),
         }
     for m in manual:
         if m["type"] != app_type:
@@ -331,10 +454,11 @@ def entries_for(app_type, db, manual):
             "title": m["title"], "author": m.get("author") or base.get("author", ""),
             "source": m["source"],
             "description": m.get("description") or base.get("description", ""),
-            "screenshot": m.get("screenshot") or base.get("screenshot"),
+            "screenshot": manual_screenshot_path(m) or base.get("screenshot"),
             "store": m.get("store") or base.get("store"),
             "store_name": None if m.get("store") else base.get("store_name"),
             "departed": False,
+            "licence": licence_label(m["source"], licences),
         }
     return sorted(entries.values(), key=lambda e: (e["title"].lower(), e["author"].lower()))
 
@@ -351,7 +475,10 @@ def render_row(e):
     elif not e["store"]:
         name += "<br><small>Not in the app stores</small>"
     dev = f'[{md_escape(e["author"] or "Source code")}]({e["source"]})'
-    return f"| {shot} | {name} | {dev} | {md_escape(short(e['description']))} |"
+    lic = e["licence"]
+    if lic in ("No licence", "Not checked yet", "See source", "Other"):
+        lic = f"<small>{lic}</small>"
+    return f"| {shot} | {name} | {dev} | {lic} | {md_escape(short(e['description']))} |"
 
 
 def letter_nav(by_letter, current=None):
@@ -378,8 +505,8 @@ def write_pages(app_type, entries, updated):
             f"# {label.capitalize()}: {letter_label(l)}", "",
             f"[← About this list](../{index_page.name}) · {letter_nav(by_letter, l)}", "",
             f"*{len(items)} {label} · Last updated {updated}*", "",
-            "| Screenshot | Name | Developer | Description |",
-            "|------------|------|-----------|-------------|",
+            "| Screenshot | Name | Developer | Licence | Description |",
+            "|------------|------|-----------|---------|-------------|",
             *[render_row(e) for e in items], "",
         ]
         (folder / f"{l.lower()}.md").write_text("\n".join(lines), encoding="utf-8")
@@ -438,13 +565,16 @@ def main():
         if not args.fixture:
             check_departed_sources(db, today)
             download_screenshots(db)
+            manual_screenshots(manual)
+            check_licences([r["source"] for r in db.values()] + [m["source"] for m in manual], today)
         save_db(db)
         (DATA / "last-updated.txt").write_text(today + "\n")
 
     updated_file = DATA / "last-updated.txt"
     updated = updated_file.read_text().strip() if updated_file.exists() else today
+    licences = load_licences()
     for app_type in TYPES:
-        write_pages(app_type, entries_for(app_type, db, manual), updated)
+        write_pages(app_type, entries_for(app_type, db, manual, licences), updated)
 
 
 if __name__ == "__main__":

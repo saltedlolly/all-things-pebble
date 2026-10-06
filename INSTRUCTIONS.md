@@ -47,6 +47,7 @@ The Watchfaces and Watchapps pages are built by `scripts/update_app_directory.py
 Both are merged into one alphabetical list, with one page per letter in `docs/watchfaces/` and `docs/watchapps/`.
 
 - `data/store-apps.json` remembers every open source store app ever seen. Apps that leave both stores stay listed, linking to their source code, as long as the source is still online (checked each run; a 404 hides the app until it comes back).
+- `data/licences.json` caches each GitHub/GitLab repository's licence, shown in the Licence column. Up to 800 repositories are checked per run (GitHub's API limit), so a full set of licences builds up over a few runs. Each is re-checked every 90 days.
 - `data/last-updated.txt` holds the date of the last successful update, shown on the pages.
 - Screenshots are copied into `docs/images/apps/` so the site doesn't depend on the store's images.
 - The deploy workflow runs the script on every push and every Monday, and commits any changes back to the repo. Pull before you push to pick these up.
