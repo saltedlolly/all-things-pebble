@@ -1,0 +1,26 @@
+# Open source watchfaces and watchapps to add to the directory by hand.
+#
+# Use this for apps that aren't in the Pebble App Store, or that are in the
+# store but don't list their source code there. Entries are merged into the
+# generated lists in alphabetical order.
+#
+# Fields:
+#   type:        watchface or watchapp (required)
+#   title:       app name (required)
+#   source:      link to the source code (required)
+#   author:      developer name
+#   store:       link to the app store listing, if it has one
+#   screenshot:  image path relative to docs/, e.g. images/watchapps/my-app.png
+#                (use a Pebble Time 2 screenshot if you can)
+#   description: one or two sentences
+#
+# If an entry's store link matches an app the generator already lists, the
+# details here override the store's.
+
+- type: watchapp
+  title: Stopwatch+
+  author: sunpazed
+  source: https://github.com/sunpazed/Pebble-Stopwatch-Plus
+  store: https://apps.repebble.com/5822f80d34da21ff12000122
+  screenshot: images/watchapps/stopwatch-plus.png
+  description: An updated Stopwatch that tracks your running stats. Measure and track Distance and Pace - all without a companion app on your phone.

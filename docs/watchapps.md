@@ -1,23 +1,19 @@
 # Apps for Pebble
 
-A directory of **open source watchapps** for Pebble smartwatches, to help developers learn from and build on each other's work.
+A directory of **open source watchapps** for Pebble smartwatches, to help developers learn from and build on each other's work. Each entry links to the watchapp on the [Pebble App Store](https://apps.repebble.com/) and to its source code.
 
-Each entry links to the app on the [Pebble App Store](https://apps.repebble.com/) and to its source code.
+Use the search box to find a watchapp by name, developer or description, or browse by letter below.
 
 ## How this list is made
 
-The list below is generated automatically from the Pebble App Store. It includes every watchapp whose developer has published a link to its source code, and is refreshed every week.
+- **From the Pebble App Store:** every watchapp whose developer has published a link to its source code. The list is refreshed every week.
+- **Added by hand:** open source watchapps that aren't in the store, or don't list their source there.
+- **No longer in the store:** watchapps that have left the store stay listed, linking to their source code.
+- **Screenshots** are copies of the store's, from the Pebble Time 2 where available.
 
-- **Is your open source app missing?** Add a link to your source code in the [Pebble Developer Dashboard](https://appstore-api.repebble.com/dashboard) and it will appear here at the next update.
-- **Not in the app store?** Add it by hand to the section below with a pull request.
+**Is your open source watchapp missing?** If it's in the store, add a link to your source code in the [Pebble Developer Dashboard](https://appstore-api.repebble.com/dashboard) and it will appear at the next update. Otherwise, add it to [`data/manual-apps.yml`](https://github.com/saltedlolly/all-things-pebble/blob/main/data/manual-apps.yml) with a pull request.
 
-## Not in the App Store
-
-Open source watchapps that aren't in the app store, or that don't list their source code there. Add new entries in alphabetical order.
-
-| Screenshot | Name | Developer | Description |
-|------------|------|-----------|-------------|
-| ![Stopwatch+](images/watchapps/stopwatch-plus.png){ width="72" } | [Stopwatch+](https://apps.repebble.com/5822f80d34da21ff12000122) | [sunpazed](https://github.com/sunpazed/Pebble-Stopwatch-Plus) | An updated Stopwatch that tracks your running stats. Measure and track Distance and Pace - all without a companion app on your phone. |
+## Browse
 
 <!-- BEGIN GENERATED: do not edit by hand, run scripts/update_app_directory.py -->
 

@@ -9,6 +9,12 @@ edit_uri: edit/main/docs/
 # in the raw HTML photo tables work on the site and on GitHub.
 use_directory_urls: false
 
+# The per-letter watchface and watchapp pages are reached from the index
+# pages rather than the sidebar.
+not_in_nav: |
+  /watchfaces/*.md
+  /watchapps/*.md
+
 nav:
   - Home: index.md
   - Core Devices: core-devices.md
