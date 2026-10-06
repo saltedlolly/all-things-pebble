@@ -56,6 +56,13 @@ PREFERRED_PLATFORM = "emery"  # Pebble Time 2: the platform asked for when fetch
 # Pebble Time 2, Pebble Round 2, Pebble 2 Duo, then the original watches.
 SCREENSHOT_ORDER = ["emery", "gabbro", "flint", "basalt", "chalk", "diorite", "aplite"]
 
+# Watches for each platform, newest first, as shown on the cards
+WATCHES = [
+    ("gabbro", "Round 2"), ("emery", "Time 2"), ("flint", "Pebble 2 Duo"),
+    ("diorite", "Pebble 2"), ("chalk", "Time Round"), ("basalt", "Time"),
+    ("aplite", "Classic"),
+]
+
 # Stores, in order of preference. An app in both is linked to the first.
 STORES = {
     "pebble": {
@@ -188,6 +195,14 @@ def platforms_in_order(app):
                   key=lambda hp: rank.get(hp.get("name"), len(rank)))
 
 
+def supported_platforms(app):
+    """Platforms the store says the app runs on, or None if it doesn't say."""
+    compat = app.get("compatibility") or {}
+    if not any(p in compat for p, _ in WATCHES):
+        return None
+    return [p for p, _ in WATCHES if (compat.get(p) or {}).get("supported")]
+
+
 def app_source(app):
     """The app's source code link and where it came from ("source" or
     "website"), or (None, None) if it doesn't have one."""
@@ -315,6 +330,8 @@ def merge_store(db, store_key, raw_apps, app_type, today):
                 "source_from": found_in,
                 "description": short(store_description(a), 400),
                 "screenshot_url": shot,
+                "version": str((a.get("latest_release") or {}).get("version") or "") or None,
+                "platforms": supported_platforms(a),
             })
         # Remember the latest release date in each store; show the newest
         if a.get("developer_id"):
@@ -526,6 +543,8 @@ def entries_for(app_type, db, manual, licences, excluded):
             "store": STORES[store]["url"].format(id=rec["id"]) if store else None,
             "store_name": STORES[store]["name"] if store else None,
             "developer": developer_url(store, rec),
+            "version": rec.get("version"),
+            "platforms": rec.get("platforms"),
             "departed": not store,
             "anchor": "app-" + rec["id"],
             "licence": licence_label(rec["source"], licences),
@@ -545,6 +564,8 @@ def entries_for(app_type, db, manual, licences, excluded):
             "store": m.get("store") or base.get("store"),
             "store_name": None if m.get("store") else base.get("store_name"),
             "developer": m.get("developer") or base.get("developer"),
+            "version": str(m.get("version") or base.get("version") or "") or None,
+            "platforms": m.get("platforms") or base.get("platforms"),
             "departed": False,
             "anchor": "app-" + (ids[0] if ids else re.sub(r"[^a-z0-9]+", "-", m["title"].lower()).strip("-")),
             "licence": licence_label(m["source"], licences),
@@ -571,10 +592,15 @@ def render_card(e):
     lic = e["licence"]
     lic_class = "app-licence" if lic not in ("No licence", "Not checked yet", "See source", "Other") else "app-licence app-licence--none"
     tags = [f'<span class="{lic_class}" title="Licence">{esc(lic)}</span>']
+    if e.get("version"):
+        v = e["version"] if e["version"][:1] in "vV" else "v" + e["version"]
+        tags.append(f'<span title="Latest version">{esc(v)}</span>')
     tags.append(f'<span title="Latest release in the app store">Updated {esc(e["updated"] or "unknown")}</span>')
     if where:
         tags.append(f"<span>{esc(where)}</span>")
     desc = esc(short(e["description"], 200))
+    names = dict(WATCHES)
+    watches = ", ".join(esc(names[p]) for p, _ in WATCHES if p in (e.get("platforms") or []))
     author = esc(e["author"] or "Unknown developer")
     if e.get("developer"):
         dev = f'by <a href="{esc(e["developer"])}" title="More from this developer">{author}</a>'
@@ -588,6 +614,7 @@ def render_card(e):
         f'<a class="app-source" href="{esc(e["source"])}" title="Source code">View source</a>'
         f'<div class="app-dev">{dev}</div>'
         f'<div class="app-tags">{"".join(tags)}</div>'
+        + (f'<div class="app-watches" title="Supported watches">Runs on: {watches}</div>' if watches else "")
         + (f'<p class="app-desc">{desc}</p>' if desc else "")
         + "</div></div>"
     )

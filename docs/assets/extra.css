@@ -52,6 +52,7 @@
 }
 .app-tags .app-licence { background: var(--md-accent-fg-color--transparent); color: var(--md-default-fg-color); }
 .app-tags .app-licence--none { background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color--light); }
+.app-watches { font-size: 0.6rem; color: var(--md-default-fg-color--light); margin-top: 0.3rem; }
 .md-typeset .app-desc { font-size: 0.7rem; margin: 0.4rem 0 0; line-height: 1.4; }
 
 /* Letter index on the watchfaces/apps pages */
