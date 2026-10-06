@@ -41,11 +41,13 @@ Then open [http://127.0.0.1:8000](http://127.0.0.1:8000). The page reloads autom
 The Watchfaces and Watchapps pages are built by `scripts/update_app_directory.py`. It combines:
 
 - **The Pebble App Store:** every watchface and watchapp whose developer has published a source code link, fetched from the [Pebble App Store API](https://appstore-api.repebble.com/).
+- **The Rebble App Store:** any further open source apps from the [Rebble App Store API](https://appstore-api.rebble.io/) that aren't in the Pebble App Store.
 - **`data/manual-apps.yml`:** open source apps added by hand (not in the store, or not listing their source there). The file explains the fields.
 
 Both are merged into one alphabetical list, with one page per letter in `docs/watchfaces/` and `docs/watchapps/`.
 
-- `data/store-apps.json` remembers every store app ever seen. Apps that leave the store stay listed, linking to their source code.
+- `data/store-apps.json` remembers every open source store app ever seen. Apps that leave both stores stay listed, linking to their source code, as long as the source is still online (checked each run; a 404 hides the app until it comes back).
+- `data/last-updated.txt` holds the date of the last successful update, shown on the pages.
 - Screenshots are copied into `docs/images/apps/` so the site doesn't depend on the store's images.
 - The deploy workflow runs the script on every push and every Monday, and commits any changes back to the repo. Pull before you push to pick these up.
 - Don't edit the generated pages or the text between the `BEGIN GENERATED` / `END GENERATED` markers by hand.

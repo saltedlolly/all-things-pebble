@@ -34,7 +34,14 @@ jobs:
       - name: Update watchface and watchapp lists
         id: apps
         continue-on-error: true
+        timeout-minutes: 30
         run: python3 scripts/update_app_directory.py
+
+      # If the stores couldn't be reached, still rebuild the pages from the
+      # saved data so the site stays complete.
+      - name: Rebuild lists from saved data
+        if: steps.apps.outcome != 'success'
+        run: python3 scripts/update_app_directory.py --offline
 
       - name: Commit updated lists
         if: steps.apps.outcome == 'success'

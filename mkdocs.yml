@@ -66,6 +66,8 @@ markdown_extensions:
   - md_in_html
   - tables
   - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
   - toc:
       permalink: true
 
