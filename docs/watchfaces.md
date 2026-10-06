@@ -1,32 +1,25 @@
 # Watchfaces for Pebble
 
-A community-curated directory of **open source watchfaces** created for Pebble smartwatches.
+A directory of **open source watchfaces** for Pebble smartwatches, to help developers learn from and build on each other's work.
 
-### Please add your Pebble Watchfaces to the directory!
+Each entry links to the watchface on the [Pebble App Store](https://apps.repebble.com/) and to its source code.
 
-This page aims to be a comprehensive directory of open source watchfaces created by the Pebble community, providing a helpful resource for developers to learn from and contribute to each other's work.
+## How this list is made
 
-### Contribution Rules
+The list below is generated automatically from the Pebble App Store. It includes every watchface whose developer has published a link to its source code, and is refreshed every week.
 
-Pebble Watchfaces listed here must be:
+- **Is your open source watchface missing?** Add a link to your source code in the [Pebble Developer Dashboard](https://appstore-api.repebble.com/dashboard) and it will appear here at the next update.
+- **Not in the app store?** Add it by hand to the section below with a pull request.
 
-- open source and listed on the Pebble or Rebble appstores.
-- sorted alphabetically by 'Name' (add your watchface in the correct order)
-- 'Name' should link to the app store listing
-- 'Developer' should link to the Github repo (or other) containing the watchapp source code.
-- A screenshot should be added to the `docs/images/watchfaces` folder. You can copy one from the app store listing. Use a Time 2 screenshot when possible.
+## Not in the App Store
 
+Open source watchfaces that aren't in the app store, or that don't list their source code there. Add new entries in alphabetical order.
 
-## A
+| Screenshot | Name | Developer | Description |
+|------------|------|-----------|-------------|
 
-## N
+<!-- BEGIN GENERATED: do not edit by hand, run scripts/update_app_directory.py -->
 
-| Screenshot | Name | Developer | Description
-|------------|------|-----------|-----------|
-| ![Pic](./images/watchfaces/nightscout.png) | [Nightscout](https://apps.rebble.io/en_US/application/543bfbbcecc29baad0000007) | [Nightscout Contributors](https://github.com/nightscout/cgm-pebble) | Display Nightscout data on your pebble watch. Support for mg/dL and mmol units. |
+*The list is being generated. Check back shortly.*
 
-## T
-
-| Screenshot | Name | Developer | Description
-|------------|------|-----------|-----------|
-| ![Pic](./images/watchfaces/timely.png) | [Timely](https://apps.rebble.io/en_US/application/52978a53bbd0862701000002) | [Martin Norland @cynorg](https://github.com/cynorg/PebbleTimely) | Watch shows date and the time on the top, and a calendar with 3 (configurable) weeks days on the bottom, and weather next time. |
+<!-- END GENERATED -->

@@ -1,38 +1,26 @@
 # Apps for Pebble
 
-A community-curated directory of **open source watchapps** created for Pebble smartwatches.
+A directory of **open source watchapps** for Pebble smartwatches, to help developers learn from and build on each other's work.
 
-### Please add your Pebble Apps to the directory!
+Each entry links to the app on the [Pebble App Store](https://apps.repebble.com/) and to its source code.
 
-This page aims to be a comprehensive directory of open source watchfaces created by the Pebble community, providing a helpful resource for developers to learn from and contribute to each other's work.
+## How this list is made
 
-### Contribution Rules
+The list below is generated automatically from the Pebble App Store. It includes every watchapp whose developer has published a link to its source code, and is refreshed every week.
 
-Pebble Watchapps listed here must be:
+- **Is your open source app missing?** Add a link to your source code in the [Pebble Developer Dashboard](https://appstore-api.repebble.com/dashboard) and it will appear here at the next update.
+- **Not in the app store?** Add it by hand to the section below with a pull request.
 
-- open source and listed on the Pebble or Rebble appstores.
-- sorted alphabetically by Name (add your watchapp in the correct order)
-- 'Name' should link to the app store listing
-- 'Developer' should link to the Github repo (or other) containing the watchapp source code.
-- A screenshot should be added to the `docs/images/watchfaces` folder. You can copy one from the app store listing. Use a Time 2 screenshot when possible.
+## Not in the App Store
 
+Open source watchapps that aren't in the app store, or that don't list their source code there. Add new entries in alphabetical order.
 
-## A
+| Screenshot | Name | Developer | Description |
+|------------|------|-----------|-------------|
+| ![Stopwatch+](images/watchapps/stopwatch-plus.png){ width="72" } | [Stopwatch+](https://apps.repebble.com/5822f80d34da21ff12000122) | [sunpazed](https://github.com/sunpazed/Pebble-Stopwatch-Plus) | An updated Stopwatch that tracks your running stats. Measure and track Distance and Pace - all without a companion app on your phone. |
 
-## P
+<!-- BEGIN GENERATED: do not edit by hand, run scripts/update_app_directory.py -->
 
-| Screenshot | Name | Developer | Description
-|------------|------|-----------|-----------|
-| ![Pic](./images/watchapps/pebblerail.png) | [PebbleRail](https://apps.rebble.io/en_US/application/67a8c311b5e348000915b07b) | [jcit](https://github.com/jccit/pebblerail) | View live UK train times from your Pebble! Powered by National Rail Enquiries. Built using PebbleKit.ts |
+*The list is being generated. Check back shortly.*
 
-## S
-
-| Screenshot | Name | Developer | Description
-|------------|------|-----------|-----------|
-| ![Pic](./images/watchapps/stopwatch-plus.png) | [Stopwatch+](https://apps.rebble.io/en_US/application/5822f80d34da21ff12000122) | [sunpazed](https://github.com/sunpazed/Pebble-Stopwatch-Plus) | An updated Stopwatch that tracks your running stats. Measure and track Distance and Pace - all without a companion app on your phone. |
-
-## T
-
-| Screenshot | Name | Developer | Description
-|------------|------|-----------|-----------|
-| ![Pic](./images/watchapps/tube-status.png) | [Tube Status](https://apps.rebble.io/en_US/application/529e8742d7894b189c000012) | [Chris Lewis](https://github.com/sunpazed/Pebble-Stopwatch-Plus) | An updated Stopwatch that tracks your running stats. Measure and track Distance and Pace - all without a companion app on your phone. |
+<!-- END GENERATED -->
