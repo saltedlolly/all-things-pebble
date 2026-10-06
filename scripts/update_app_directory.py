@@ -626,11 +626,14 @@ def render_card(e):
     else:
         where = ""
     lic = e["licence"]
-    lic_class = "app-licence" if lic not in ("No licence", "Not checked yet", "See source", "Other") else "app-licence app-licence--none"
-    tags = [f'<span class="{lic_class}" title="Licence">{esc(lic)}</span>']
+    tags = []
+    if lic not in ("Not checked yet", "See source"):  # no badge when the licence is unknown
+        lic_class = "app-licence" if lic not in ("No licence", "Other") else "app-licence app-licence--none"
+        tags.append(f'<span class="{lic_class}" title="Licence">{esc(lic)}</span>')
+    version = ""
     if e.get("version"):
         v = e["version"] if e["version"][:1] in "vV" else "v" + e["version"]
-        tags.append(f'<span title="Latest version">{esc(v)}</span>')
+        version = f' <span class="app-version" title="Latest version" data-search-exclude>{esc(v)}</span>'
     tags.append(f'<span title="Latest release in the app store">Updated {esc(e["updated"] or "unknown")}</span>')
     if where:
         tags.append(f"<span>{esc(where)}</span>")
@@ -649,7 +652,7 @@ def render_card(e):
         '<div class="app-card">\n'
         f'<a class="app-shot" href="{esc(link)}" data-search-exclude>{shot}</a>\n'
         '<div class="app-info">\n'
-        f'<h2 class="app-name" id="{esc(e["anchor"])}"><a href="{esc(link)}">{esc(e["title"])}</a></h2>\n'
+        f'<h2 class="app-name" id="{esc(e["anchor"])}"><a href="{esc(link)}">{esc(e["title"])}</a>{version}</h2>\n'
         f'<a class="app-source" href="{esc(e["source"])}" title="Source code" data-search-exclude>View source</a>\n'
         f'<div class="app-dev">{dev}</div>\n'
         f'<div class="app-tags" data-search-exclude>{" ".join(tags)}</div>\n'
