@@ -42,6 +42,7 @@ import html
 import json
 import os
 import re
+import unicodedata
 import sys
 import time
 import urllib.error
@@ -525,13 +526,48 @@ def developer_url(store, rec):
     return f"https://apps.rebble.io/en_US/developer/{dev}/1"
 
 
+def _norm_title(s):
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
+    s = re.sub(r"\bpebble\b", "", s)
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+
+def _norm_source(s):
+    s = (s or "").lower().strip().rstrip("/")
+    s = re.sub(r"\.git$", "", s)
+    return re.sub(r"^https?://(www\.)?", "", s)
+
+
+def pebble_store_keys(db):
+    """Name/developer and name/source keys of every app in the Pebble store,
+    so the same app listed separately in the Rebble store can be skipped."""
+    keys = set()
+    for rec in db.values():
+        if "pebble" in rec["stores"]:
+            t = _norm_title(rec["title"])
+            keys.add((rec["type"], t, "by", (rec.get("author") or "").strip().lower()))
+            keys.add((rec["type"], t, "src", _norm_source(rec["source"])))
+    return keys
+
+
+def duplicate_of_pebble_app(rec, keys):
+    if "pebble" in rec["stores"]:
+        return False
+    t = _norm_title(rec["title"])
+    return ((rec["type"], t, "by", (rec.get("author") or "").strip().lower()) in keys
+            or (rec["type"], t, "src", _norm_source(rec["source"])) in keys)
+
+
 def entries_for(app_type, db, manual, licences, excluded):
     """Merge store and manual entries for one type. A manual entry overrides
     the store's details for the same app (matched by the ID in its store link)."""
     entries = {}
+    pebble_keys = pebble_store_keys(db)
     for rec in db.values():
         if rec["type"] != app_type or rec.get("source_online") is False:
             continue
+        if duplicate_of_pebble_app(rec, pebble_keys):
+            continue  # same app has its own listing in the Pebble store
         if is_excluded(rec["id"], rec["source"], excluded):
             continue
         if not rec["stores"] and licences.get(rec["source"], {}).get("exists") is False:
