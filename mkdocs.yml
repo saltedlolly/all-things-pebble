@@ -5,6 +5,10 @@ repo_url: https://github.com/saltedlolly/all-things-pebble
 repo_name: saltedlolly/all-things-pebble
 edit_uri: edit/main/docs/
 
+# Serve pages as page.html rather than page/ so the relative image paths
+# in the raw HTML photo tables work on the site and on GitHub.
+use_directory_urls: false
+
 nav:
   - Home: index.md
   - Core Devices: core-devices.md
