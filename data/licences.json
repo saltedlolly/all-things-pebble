@@ -528,12 +528,22 @@
   "exists": false,
   "checked": "2026-10-06"
  },
+ "http://github.com/smallstoneapps/dots/": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
  "http://github.com/smallstoneapps/hearts/": {
   "licence": "MIT",
   "exists": true,
   "checked": "2026-10-06"
  },
  "http://github.com/smallstoneapps/multi-timer/": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "http://github.com/smallstoneapps/sliders/": {
   "licence": "MIT",
   "exists": true,
   "checked": "2026-10-06"
@@ -645,6 +655,10 @@
   "checked": "2026-10-06"
  },
  "http://mercurial.shangtai.net/repo/7-seg/": {
+  "licence": "unsupported",
+  "checked": "2026-10-06"
+ },
+ "http://mercurial.shangtai.net/repo/simple-battery/": {
   "licence": "unsupported",
   "checked": "2026-10-06"
  },
@@ -3806,6 +3820,3988 @@
   "checked": "2026-10-06"
  },
  "https://github.com/Kunalpod/minimalclean": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/L0renz00/pebble_cigarette_tracker": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LEXUGE/lexuge-face": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LachyTech/pebble-ingresscommunity": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Lallander/36-Hour-Clock-PR2/": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LawnGnome/c25k-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LawnGnome/cricket-counter-for-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Lazken/pebble-catppuccin": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LeFauve/Deadfish-for-Pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LeZuse/pebble-transit-app": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LeonMatthes/CheckMark": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Lertsenem/imprecise": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Lesterpig/hurry-up-rennes": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LiamCordelle/pacelet": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LiamCordelle/signal-deck": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Link1400/Queue-Times": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LinuxJedi/GeekyISOTime": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LittleCrabby/pebble-ukraine-alerts": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LochRED/ActTTAlt": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LochRED/Attp": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LochRED/ht": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LochieDoesStuff/Goofster": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Loekiboy/stardew_valley_pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LostQuasar/eridani": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LostQuasar/pebble-openshock-remote": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/LoxoSoftware/G-Ball/tree/master": {
+  "licence": "AGPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Luit/five-somewhere": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MAD-GooZe/pebble-russian-calendar-watchface": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MGibson1/pebble-rest-timer/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MK2018/tjTimeFaceC": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MK73DS/xenoblade_watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MKTechDesigners/moderncolorbars": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MPG13/CrashApp": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MVogge/pebble-naos-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MacBoyPro98/DriveV2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MacBoyPro98/Pebble.git": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MackEdweise/BibleSwitch": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MadAnthonyWayne/BinaryBlocks2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Maigard/Binary-Clock": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Malpp/SLC": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MalteJoe/kurz-vor-acht": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ManApart/manapart-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MarcDufresne/betterweather-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Marckus/Words_Date_Day2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MarkBrack/pebble-chart-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MarkBrack/pebble-weather-radar": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MartialElch/PebbleAviator24hWatch.git": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MartialElch/PebbleBinaryWatch": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Martijn02/pebble-solaredge-status/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MasterPlexus/masterplexus-cgm-ng": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MathewReiss/dithering": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MathewReiss/pixel_time_steel/blob/master/src/main.c": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MatiPendino/pebble-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MattChubb/PebbleBasicWatchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MattChubb/PebbleBasicWatchface/tree/redwhite": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Matthijsvdww/Pebble-Treinreisplanner": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Matzo/PebbleTimeSchuedule": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Max-q-rockets/MinimalistPebbleTime2Face": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MaxDViper/Where_In_The_World_Watchface": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MaxDViper/Where_In_Utah_Watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Maxahoy/pebble-journeys": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Maxahoy/pebble-journeys/tree/main": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Maximvdw/BETransport": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MayaTelLabs/BusGoodCarBad": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MayaTelLabs/HRTminder": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Med116/tippy": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Mesa-LLC/Ana-Digi-Pro": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Mesa-LLC/PebbLoop/": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MidnightLightning/BinaryWatchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MikeMoore63/RevolutionStopWatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MikeMoore63/Studiosw": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MikeMoore63/swanalog": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MikeMoore63/yachttimer": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Moaske/PebbleAIQmonitor": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Moaske/PebbleFuelWatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Moaske/PebbleHackers95": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Moaske/PebbleMetroWP8": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Moaske/PebbleScalemates": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Moaske/PebbleSenseTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Moaske/PebbleWindsock": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MobiletoGo/Pebble-InfoWatch": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Mobilpadde/Crazy-Eyes": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Mobilpadde/Keep-An-Eye": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Mobilpadde/Tri-Angular": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MorrisTimm/cut-up": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MorrisTimm/cut-up/tree/plus": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrArron/Lovense-Pebble-Control": {
+  "licence": "CC0-1.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrCrin/Streble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrDrake/megawatch": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrDrake/pebblewalker": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrFoxhead/Mac-System-3-Watchface": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrMastodon/Pebble-Watch-apps/tree/main/apps/one-off-alarm": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrReSc/pebble-like-time": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrReSc/simply-digital": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MrXANA91/pebble-codexana-wf": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MunazR/WatApp": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/MyNameIsKir/Pebble-Binary-Watch-C": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Nannoises/PokeBattleColor": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Nannoises/PokeBattleColor/tree/StaticConfigurable": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Neal/OpalX": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Neal/Readebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Neal/WeMote": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Neal/pebble-breakingnews": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Neal/pebble-deliveries": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Neal/pebble-hackernews": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Neal/pebble-tinder": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Neal/pebble-vlc-remote": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/NewAndy/MathTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/NgNority/Hybrid": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Nicell/caltrain-app-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Nicell/hueble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Nicell/ringview-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Nicell/urban-reserve-pebble": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/NikhilGumma/watchface_example_asl": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/NitroG42/pebble-mytodoist": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/NolanFoster/pebble-tesla": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/NovaGL/Batteryface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/NovaGL/Verticalface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/NovaGL/simpleface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/OMerkel/pebble-js-samples": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/OMerkel/pebble-samples": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Ocelot5836/cookie-clicker-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Octagoncow/BLSplit": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/OddBloke/steelers-pebble-face": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Odja-anarchist/Pebble-B210k/blob/master/README.md": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Odja-anarchist/Pebble-C25k": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/OkGoDoIt/pebble-monthgrid": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/OlessiaPanteleeva/PebbleWatchFacesEvilCat.git": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/OneBusAway/onebusaway-pebbletime": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Ongion/KirbyWatchface/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/OpossumGit/CarbUnitCounter": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/OptiGE/eatapebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Orgmir/TextTimePT.git": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Oupsman/oInterval": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/P1R4N351/ultrasonic-for-pebble": {
+  "licence": "MPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/P1R4N351/voice-for-pebble": {
+  "licence": "MPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PGestewitz/Pebble-PlusorMinus": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PHNTXX/first_pebble_app": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PJayB/0x539_watch_face": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PJayB/PebbleDoom2/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PableteFGA/UNO-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PabloLlosa/FormulaOne2014Pebble": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PanicMan/Pebble-Casio-AE-11W": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PanicMan/Pebble-Casio-AE-20W": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PanicMan/Pebble-Casio-WV58DE": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PanicMan/Pebble-FuzzyAnalog": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PanicMan/Pebble-HTC-Sense-6.3": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PanicMan/Pebble-Nadir": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PanicMan/Pebble-Planetarium": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PaulTimmins/pebbleEnlCycleTime.git": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PaulTimmins/pebbleIngressCycleTime": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Pavitheran/CartoonPebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PebbleA2/PebbleA2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PebbleKat/Lockitron-for-Pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PebbleYYC/BrutalTimeStyle": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Persitz/pebble-timers": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PeterL328/Enigma": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PierreCrette/BigAnalog3": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PiggyShake": {
+  "licence": "unsupported",
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PingPongLee/pebble-mss": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PiwwowPants/Breathe": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/PkAIR/wrist-key": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Plonq/Essentials": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Pokornz/binary-practice-pebble/tree/main": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ProggroP/91StepsHeart": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ProggroP/Aurora": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ProggroP/Limb": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ProggroP/Marquee": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ProggroP/MoonFace": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ProggroP/PFD": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ProggroP/YourStyle": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/QuinnDaniels/PoketchCoinFlipperPlus": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Quistnix/Hobbit_Neue_Open": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Quistnix/Pebble-Rotomotion-Public/": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Quistnix/Pebble-nurse": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RP1-MVac/Prusa-Connect-Client-for-Pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Random90/Pebble-Niedziela-Normalna-Czy-Popierdolona": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Raptor007/Pebble-Watchfaces/tree/master/timberwolf": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Rediro-MC/galleria-da-polso": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Remper/Simplicity2": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RichardGG/DayWidget2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RichardGG/ZenForSteel": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RickBacci/TuringPebbleWatchFace": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Rillus/hypnodots": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Ripster81/g-stripe": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RobErskine/pebble-chimer": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RobErskine/pebble-huckleberry": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RobErskine/pebble-mlb-scores": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RobOfTheSkyPeople/PblHomebrew6bitBinary": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RobOfTheSkyPeople/PblHomebrew6bitBinaryWithDate": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Robinhuett/Circumflexus": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Robinhuett/SoliTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RockenSocken/CodeTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RockenSocken/StraightForcast2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RocketMan1988/Pebble-BitCoin": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Rocketeer007/TaskChecker": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RodgerLeblanc/Blackboard": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RodgerLeblanc/N2W": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/RodgerLeblanc/Whiteboard": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Roemke/Fuzzy-Text-International": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Roemke/enigmavu": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Roemke/pebbleraspio": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Rogoon/WAFerriesPebble": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Roguelazer/24hOfColor": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Roguelazer/nixTime": {
+  "licence": "ISC",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Rossmallow/D219-IRC-Capacity-WatchApp/blob/master/src/app.js": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Rossmallow/Mars-Time-Watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Rossmallow/NW-Schedule-Watchface/blob/master/src/main.c": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Ruirize/pebble-a-micro-western/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Ruud48/Pebble-Banner": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/S1lentwanderer/calvin-hobbes-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SHU-red/pebble-ha-launcher": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SHU-red/pebble-headerss": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/STAR-ZERO/switt": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sablednah/Imperial-Time": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sablednah/Imperial-Time-2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sablednah/Imperial-Time-3": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SaekiRaku/pebble-cake": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SaekiRaku/pebble-planet": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SaekiRaku/pebble-round": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SaekiRaku/pebble-stars": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SangeloDev/pebble-simple-stripes": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SantiMA10/YouWatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SantiagoDePolonia/Bible_Verses_on_Demand_repebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SantiagoDePolonia/QR_Display_repebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Saracco/PebbleTextWatchWithDate": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sarastro72/Fuzzy-Text-Watch-Plus": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Schmaxine1024/velo": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SeaPea/Draw": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SeaPea/ForeCal": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SeaPea/GentleWake": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SeaPea/HomeP": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SeanmanX/hackingEDU-project": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Seifollahi/cardigan": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Seifollahi/farsi-fuzzy-watchface.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Seifollahi/pebble-vocab-learner": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SetPebble/mad-eye": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SexualRhinoceros/FREEDOM": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ShaBP/91DubPro": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ShaBP/Horlogo_d": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ShaBP/ModernCalendarPlus": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Shacker10/Hourly-Steps": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ShinkoNet/YarraTrak": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ShoobyBan/PebbleShoMaurice": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ShoobyBan/PebbleShoOne": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/All-In-One2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Another_Revolution": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Another_Revolution/tree/Pebble__steel": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Din-Clean": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Din-Clean-App": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Impact": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Last-Corridor": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Nag_for_Pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/PoolMonitor": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/RSVP-Breaking-News": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Ruler-Weather2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Running-Assistant": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Time-Graph": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Vinyl": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sichroteph/Weather-Graph": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sidpatchy/Helios": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SingingBush/pebble-hextime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SirAeroWN/Simplicity_with_a_Twist": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Skipstone/Skipstone": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SlopVibe-org/pebble-watchfaces": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SlopVibe-org/timely-vibe": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SnowBirdMV/TemperatureGraphWatchface/releases/tag/1.0": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SofusA/minimal-weather": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SonnyJim/PebblePimp": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sorunome/pebble-mpd-client": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spacetech/Rebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/case-face": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/constructor": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/grace": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/lifelink": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/maqtanim": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/nasty-woman": {
+  "licence": "ISC",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/ote": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/polarity": {
+  "licence": "ISC",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/slice": {
+  "licence": "ISC",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/tapestry": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/tnm": {
+  "licence": "ISC",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/well-rounded": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitemare/workaday": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitzkopf/Pebble-TrueToCaesar": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Spitzkopf/WrapWatchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/StefanBauwens/BatteryCallback": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/StefanBauwens/Electric": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/StefanBauwens/TamaTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/StefanBauwens/Tamagotchi-Emulator-Pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SterlingEly/PixelSampler": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SterlingEly/Radium2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Stopka/Digalog": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Stopka/StopWatch": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/StuartHa/helibble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/StuartHa/tiny_bird": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Stubenhocker1399/school-schedule-for-pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SuperRiderTH/Persona3Pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Swapnull/Doughnut": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/SwissKid/pebble-insteon-control": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Switch-modder/VectorFace": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sykero-Software/PebbleCountdownTimer": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sykero-Software/PebbleMidiRecorder": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sykero-Software/PebbleSykeroAlarm": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sykero-Software/PebbleTrackWorkTime": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sykero-Software/PebbleTuyaControl": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Sykero-Software/TimeStylePebble": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TFL1337/Pebble_HourGlass": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TTV/ObliqueTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TTV/SnowTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TTV/radio4time": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Taran2ul/RevolutionRussian": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TeamSpen210/PortalFace": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Technicalleigh/unitversal": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TensorChris/PebbleSun2Timeline": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TensorChris/pebble-11weeks-config": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TerttyCurlyfries/SCOTT-PILGRIM-Colour": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TerttyCurlyfries/Sleepy-Watch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ThatOneRoadie/watchface_mev2/": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheBlackParrot/pebble-time-watchface-colr": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheChrisPratt/ASPebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheChrisPratt/CSTPebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheIronDuke5000/Pebble-breakout": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheJsh/Flipple": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheMott27/Brolly-v3": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ThePraeceps/SquareTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheRyanHowell/crystaltick": {
+  "licence": "AGPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheYellowHat/Watch-It-Calculate": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheYellowHat/Watch-It-Calculate-Minus": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheYellowHat/Watch-It-Calculate-V2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ThemeParks/pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TheoBr/inSquare": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Thiedze/CWRT42Time": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Thimoteus/astroface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ThinTim/combination-watchface": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Thulinma/MistServer-Pebble-Watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TildaCubed/SorceryofUvutu/tree/PebbleWatchFace": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Timvdv/Thinking-Cleaner-Pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Tito1337/pebble-LinesWatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TomBolger/Pebblegram": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TomFanella4/Purdue-Menu": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Tombarr/PebblePebble24": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Tombarr/bing-watch-face": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Tombarr/less-is-more": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Tombarr/pebble-captcha": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TondaEU/BitSpender": {
+  "licence": "CC0-1.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Torivon/MiniAdventure": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Torivon/MiniDungeon": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Toshiaki1973/pebble-its-cool": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Toshiaki1973/pebble-mimikko": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Toverbal/EasyTime": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ToyFraz/RHR-tracker": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TrueJournals/pebble-qrwatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TybbsTheUnfocused/solarized_statistician": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/TybbsTheUnfocused/tessera_infinitum_watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Uberi/PebbleSOS": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/UgoRaffaele/Digits-pebble": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/UgoRaffaele/HelpAnyTime-pebble": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/UgoRaffaele/hackS1GN-pebble": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/UnaDeKalamares/Calculabble": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/UnintelligableGoofball/starlightwatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/UnnamedHero/pebble-watchface-time-and-calendar": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Utsav2/PebbleAndroid": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/VFLashM/TetrisTime": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/VGraupera/countdown-watchface": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/VGraupera/magic-watch": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/VGraupera/note-to-self-watchface": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Velzeboer/pebble-every-list-shopping": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/VeryFamousDroid/FitFace": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/VideahGams/khaled-watch": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Vifon/GravCalc": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Vision9074/pebble-app-hubitat-control": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Vision9074/pebble-watchface-retroscope": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Vision9074/pebble-watchface-timeline-retrograde": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Vivek-sagar/Prepple.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Vrabbers/minimalin-again": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/W0rscht/pr0bble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WJCFerguson/pebble_fuzzy_plus/tree/master": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WRansohoff/Tetris-PebbleTime": {
+  "licence": "BSD-2-Clause",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WarriorIng64/GNOME-3-Watchface": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Wavesonics/RingMyPhonePebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WayeMelse/allure": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WebMajstr-/pebble-cgeo": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Whobeu/WV-58A/archive/master.zip": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WiesnerPeti/SiliconSampler": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Willow-Systems/pebble-generate-token/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Willow-Systems/pebble-home-assistant": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Willow-Systems/red-funnel-pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Willow-Systems/wordle-for-pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WinSuk/TwistChat": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WinterPhoenix/pebble-bluebubbles": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WinterWinter/DuckHunt": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WinterWinter/FEGT": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WinterWinter/KirbyGT": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WinterWinter/finalfantasypebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WinterWinter/metalgearpebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WinterWinter/pokemonpebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Wowfunhappy/Pebble-RSS-Reader": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WuerfelDev/LIFT/": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WuerfelDev/PPP": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/WumsWatchFace/WUMs-Cool": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Wyoc/anki-pebble-watch": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Wyoc/pebble-c25k": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Wyoc/pilatable": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/XWolfOverride/InvaClock": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/XWolfOverride/L.GANT": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/XWolfOverride/Timestamp": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/XWolfOverride/Timestamp.git": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Xowap/BeatIt": {
+  "licence": "WTFPL",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/YagoCarballo/pebble_stacker": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Yaymanloopey/pebble-ana-digi-face": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/YclepticStudios/pebble-7-min": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/YclepticStudios/pebble-timer-plus": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Yesnaught/MGSCodecv2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/York20/StripeFace/blob/master/main.c": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Yorks0n/Apollo": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Yorks0n/HappyMac": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Yorks0n/neubrutalism": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Yorks0n/pebble-watchface-Gravity": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Yorks0n/pebble-watchface-Matrix01": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Yorks0n/pebble-watchface-flow": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ZDBioHazard/pebble-gw2bosses": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ZachBenz/IndigoRemote": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Zahkc/Geiger-Watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ZarsBranchkin/pebble-dices": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Zeduaz/weather-my-way": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ZeeCas/planemap": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Zeichenfolge/paperless-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Zeichenfolge/tautulli-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Zerthick/PebbleMaze": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/Zipher04/SimpleWatchFace": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/a--hoang/pebble-reservoir": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/a-spo/AnimatedDex.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/a1291762/shd-pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/a2/javapay": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aHcVolle/TrekVolle/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aarmea/No.1.1-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aaronpk/Teacup-for-Pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aattila/PebbleHunText": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aattila/PebbleSeklerHunSript": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aavina/binface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/abattech/pebble_face1": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/abonhote/Retro-Time": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/abonhote/ziit": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aboudou/Pebble_YASWF": {
+  "licence": "BSD-2-Clause",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ace7196/ColorTest": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ace7196/ConfigSolarMonitor": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ach4m0/pebble_emt_madrid": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/achyutreddy24/MethactonSchedulePebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aclymer/DrugWars": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/acrrd/pebble-essentialwf/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/acymbalski/Progressor": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/acymbalski/Progressor/tree/revised": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/acymbalski/simplex": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adamboutcher/Pebble-Fuzzy-Text-International-PT2": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adamboutcher/Pebble-Sliding-Text-International-PT2": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adamcohenrose/thingspark-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adamheins/arc": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adamnfish/PebRunner": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adamnfish/pebble-meeting-mode": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adamxp12/Adamxp12PebbleFace": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adcurtin/PebbleRevolution": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adib/futura-weather-sdk2.0/tree/font/source-sans-pro": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adrienthiery/pebble-brain-dump-app": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adrienthiery/space-mission-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/adtennant/chebble": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aelindeman/wmata-with-you": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aemacleod/eight-frame": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aerwin/bluemix-where-pebble": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/afourney/sliding-text/": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/afspeirs/SimplyAnalog": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/afspeirs/SimplyDigital": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/afuhrtrumpet/meteorhack14": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/agawley/PippaWatch": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/agwilt/Pebble-MultiDice": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ahawks/scrollingwatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ahenry91/pebble_url_launcher": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aidan-lemay/emstime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aidankierans/WeatherSoon": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aiorass/bring_pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aiorass/t03-pebble": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ajinabraham/PebbleWatch-LocateMe": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/akihirokawanami/JapanWeather2025": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/akivaatwood/LoganD": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/akivaatwood/pebble-hnefatafl": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/akivaatwood/pebble-plasma-numerals-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/akivaatwood/pebble-plasma-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/akrs/moontiles/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alan-johnson/PebbleTimely": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alan-johnson/hb-vibe": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alechudson/yearlight": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alekoz47/bars": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alekoz47/hex-analog": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alekoz47/hex-color": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alekoz47/simple": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aletsdelarosa/theWeatherWatch": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aleung/rest-time": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alex523ap/Playback-for-Spotify": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alex523ap/calendar-for-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexanderkjall/hackeriet-door": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexanderteinum/pebble-out": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexanderteinum/pebble-type": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexanderyshi/Binary_time": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexchiri/rescued-by-pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexnoddings/TimeText101": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexsah/PlainWatch": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexsah/ishclock": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alexsum/TCW": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/algebraicAdventures/blender-pebble": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aliceisjustplaying/tidface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alin256/pebble-multi-zone": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aliofye/pebble-deen": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aliofye/pebble-neubrutalism": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alirawashdeh/wundervoice": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alivespirit/lvivbus": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/allan175/moogle_time_sdk2": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alni/MoodTracker": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/altarr/pebble-telegram-voice": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/alx-andru/sleestack": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/amcolash/PebbleIoT": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/amitkot/glyph-dial": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/amoshydra/PebbleRobotToy": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/amyjchen/vibes": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/an-ox/C64-sprites-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/an-ox/Psychedelia-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/an-ox/bbc": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/an-ox/minimal": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/an-ox/minimal-x": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/an-ox/roby": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/an-ox/vcsteroids": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andars/pebble-controller": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/anderssonfilip/pebble-ropesize": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andornaut/pebble-prime": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andreavolpato/pebble-tens": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andree182/pebble-boxyface": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andree182/pebble-watchface-splash": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andree182/pebble-weatherograph": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrei-markeev/pebble-onenote": {
+  "licence": "Unlicense",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrei-markeev/pebble-outlook-events": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrei-markeev/pebble-outlook-tasks": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andreiciubotariu/band-watchface": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andreiciubotariu/watmoney": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrew749/0xFACE": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrewapperley/AFTimer": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrewchilds/pebble-watchface-reload": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrewchilds/t1000-color": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrewchilds/t1000-pebble-cgm": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andrewhao/sweetcadence": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andybarry/simplday": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/andyburris/pebble-sports": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aniri/pebble-inversewatchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ankithreddypati/GREFlashcards": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ankur22/TheEconFeed": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ansonl/next-meal-pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ansysic/Peek": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antaxiom/turbo": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antgiant/pebble-LinesWatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/anthonyseo/relentless": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-AMD": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-Activity_2.0.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-EveningNews/tree/master/src": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-Hangout_2.0.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-Jogger": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-Marvin_2.0.colour": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-Marvin_2.0.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-SMS_2.0.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/antonioasaro/Antonio-Wheel_Of_Fortuna": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/anubhavgupta/pebble-big-simple-watch-face": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/anubhavgupta/pebble-big-simple-watch-face/tree/24-hrs": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aocodermx/BigCounter": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aocodermx/RubikStopTap": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aocodermx/SimpleDots": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aocodermx/TimeAndQuotes": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aotta/OLDLED": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aotta/Snoopy": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aperezdc/pebble-beats/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/apotox/dzwatch": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/appne/vibe_watch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aprowe/pebble-tinder": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aradreed/up-down": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aravindavk/webmon": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/archerydwd/ArrowMateIndoor": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/arfct/arcminute-watchface": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/arfct/arcminute-watchface/": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/argyleink/Colorful-Weather": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/arianadziedzic/lucid_dream_watch_face": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/arnew/relativezeit": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/art-coded/pebble-contour": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/art-coded/pebble-keepitgreen": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/articld/BadSelection": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/artyomxx/pwf-big-and-clean": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/as-j/timeslider": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/asardaes/pebble-fma": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/asardaes/pebble-zgot": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/asbkar/pebble-norsk": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/asebrech/fdf-time": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/asellitt/fuzzy-text-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/asplendidday/ACbus": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aspyct/periodictime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astalec/pebble-binary-basic": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astifter/BetteryWatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astifter/CircaText": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astifter/Drink": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Alien-head": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Bearing": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Chimaera": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Elizabeth": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/GentleWake": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Helix": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Hybrid": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/HybridWeather": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Phoenix_vertical": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Quartzite": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Rehoboam": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/TallTime_Simple": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Tea/tree/clay": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Titanium": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/Underground": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/WeatherOWM3": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/din-90": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/monolith": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/monologue": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/oswald": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/phoenix": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/phoenix-90-or-270": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/phoenix_big": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/astosia/tangent": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/asymptoticflight/ModernCaffeine": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomester/Pebble-TextWatchHU": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor": {
+  "licence": "unsupported",
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/Now-Time": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/TimeTick": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/TimeTick-only-Watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/WikiRadius": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/atomlab": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/atomwave": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/binary-glow": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/purenavi-pebble/tree/main": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/remember-me": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/atomlabor/vantage": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/audietron171/pebblemetro": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aureooms/pebble-stib-mivb": {
+  "licence": "AGPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/aveao/pebble-hvv": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/avewrigley/pebble-batttery-monitor": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/awesommee333/BinaryWatch": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/awesommee333/Pebble-Pong": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/awhipp/patriotic-watchface-pebble-time": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/awlx/Pebble-SpritPreis": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/awwa/pebble-smarttraining/tree/sdk2.0": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/awwaiid/pebble-watchapp-learn-morse": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/awwaiid/pebble-watchface-basic-big-digital": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/axe08/pebble-face-basic": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/axel668/a8bit": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/azw413/pebble-strength": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/b-bayport/pebble_captnwednesday": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/b-bayport/pebble_saint-expeditus": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/b123400/1440-watchface": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/b123400/circle-watchface": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/b123400/pebble-partial": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/b123400/sam": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/b123400/shapes": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/b123400/useless": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bafolts/pebble-interval-timer": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bahbka/pebble-my-data": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bahbka/pebble-talk2web": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bake-san/ANALOG-P-SHOCK.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bake-san/PebleWatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bani/pebble-diamond": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/baranyaib90/pebble-sw-characters": {
+  "licence": "Unlicense",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/barefootford/Percival": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bartp5/pebble-dragon": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bastooky/kaleido": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bateast/pebble-engineering": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/batstyx/time-for-eve": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bberenberg/MoodApp": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bburgy/void-clock": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bcaller/pebble-bike-sharer": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bcaller/pebble-superspinnywatch": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bcaluneo/irix-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bcrowell770/AirCheck": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bcrowell770/Cozy-Seasons": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bday106/Rudd": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/beatles1/PebbleClean/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/beatles1/PebblePurple": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bellangerq/quebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bemyak/nostalgic_commander": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ben-hudson/defaced": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ben-hudson/purrbble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/ben-oxley/polarClock": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bengourley/pebble-squash": {
+  "licence": "BSD-3-Clause",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bengourley/pebble-tennis": {
+  "licence": "BSD-3-Clause",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/benjaminjgill/BigFace": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/benjaminjgill/BigWeather": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/benjaminjgill/UKRail": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/benjaminjgill/WristList": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/benmccanny": {
+  "licence": "unsupported",
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bennetthermanoff/Pebble-Casio-AE-20W": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bennettp123/tea_timer": {
+  "licence": "Other",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/benoit2600/FuzzyTimeFR": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/berdandy/UrbanPebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bertfreudenberg/PebbleONE/": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/betmakh/pebbleTranslator": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bexcite/pebble-cal": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bgalbs/time-helper": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bhdouglass/hazy": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bhdouglass/pebble-js-compatibility": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bhdouglass/simply-light": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bhoule/Pebble-Stopwatchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bigbug/LIFX4Pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bilarikan/pebble-watchface-weekface": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/billypchan/PebbleHourlyForecast": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bimbodhisattva/mac-system-3-for-pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bimbodhisattva/mac-system-7-for-pebble-time": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bimbodhisattva/paint-95-for-pebble-time": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/binaerraum/Binary-Blocks": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/binamkayastha/MeowTime": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bitwinkel/paddletime.git": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bkbilly/Mopidy-Player": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bkbilly/Tvheadend-EPG": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/blackpaw78/PebbleFormulas": {
+  "licence": "Unlicense",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/blackpaw78/PebbleFormulasPortuguese": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/blauvster/Pebble-Nextcloud-Deck": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/blaziken311/TP-Stats-Pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/blissfulbloom/OphillusClock": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/blockarchitech/pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/blockarchitech/timetodo": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bnorick/pebble-dev/tree/main/apps/thymer": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bobbiy/Resistors": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bobhwasatch/accuinfo": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bobhwasatch/digichron": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bobhwasatch/roboto": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bobhwasatch/simplday.git": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bobkingof12vs/Catholic-Daily": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bodnaristvan/pebble-diet-reminder.c": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bogdanorzea/sfclock": {
+  "licence": "GPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/boggyjoe/PebbleTimeWL_API": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/booski/fuzzyFace": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/boredcircuits/implant": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/boris/clean": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/boris/time-on-demand": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bosphere/pebble-bold-hour-w-dates": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/botulf2000/clockdot": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/botulf2000/random_guesser": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bpiehler/PebbleMeds": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bquelhas/ObsidianTasksPebbleBridge": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bquelhas/pebble-steer": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/braiba/MattWatch": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brandonb927/pebble-watchface-tree": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brandonb927/pebble-watchface-vw-unofficial": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brandonio/toothbrushbuddy": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brandonio21/SimpleStopwatch": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/breitburg/claude-for-pebble": {
+  "licence": "Unlicense",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/breitburg/pebble-dvd": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/breitburg/pebble-storefront": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/breitburg/pebbletracker": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/breitburg/wrist-and-biases": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brennan-macaig/SimpleTime": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bretth18/pebble_cryptowatch": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/briancbarrow/lotus-watchface": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/briancbarrow/meditation-timer": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/briancbarrow/ref-match": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/briancbarrow/ref-timer": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brianrowe/Pebble-ODL": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brinky/pebbleIngressCycleTime": {
+  "licence": "Apache-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/briwestervelt/formal_source": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-Colors": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-Lunar-Phase": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-Mini-Golf": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-NFL-Live": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-NHL-Live": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-Tiny-Maker-App": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-Trivia": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-Vanity": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/Pebble-WF-Pebble-Solstice": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brooks2564/rgb-backlight-test": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bruhdev1290/sportsomatic": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/brunnolou/24h-pebble-watchface": {
+  "licence": "GPL-3.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bryanhaines/Pebble": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/Big": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/First5km.git": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/FuzzyDk.git": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/Lights.git": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/Portfolio/tree/main/pebble/Big": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/Portfolio/tree/main/pebble/LCD": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/Portfolio/tree/main/pebble/Walkr": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/Portfolio/tree/main/pebble/Whip": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/Ray.git": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/SleepTime": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/TenTwentyThirty": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bschau/Walkr": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bscoup01/PebbleChat": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bthaase/ScreepsTime": {
+  "licence": null,
+  "exists": false,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/burn123/PebbleMetronome": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/burnto/pebble/tree/master/meter": {
+  "licence": "MIT",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bwinton/lumon-face": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bwinton/night-shift": {
+  "licence": "MPL-2.0",
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/bzhtapp/Pebble": {
+  "licence": null,
+  "exists": true,
+  "checked": "2026-10-06"
+ },
+ "https://github.com/c-d-lewis/pebble-dev": {
   "licence": null,
   "exists": true,
   "checked": "2026-10-06"
