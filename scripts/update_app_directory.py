@@ -87,12 +87,6 @@ TYPES = {
 BEGIN = "<!-- BEGIN GENERATED: do not edit by hand, run scripts/update_app_directory.py -->"
 END = "<!-- END GENERATED -->"
 
-CODE_HOSTS = {
-    "github.com", "gist.github.com", "gitlab.com", "codeberg.org",
-    "bitbucket.org", "git.sr.ht", "hg.sr.ht", "sourceforge.net",
-    "cloudpebble.net", "notabug.org", "framagit.org", "gitgud.io",
-}
-FORGE_HINTS = ("git", "hg.", "mercurial", "forge", "gitea", "sr.ht", "svn")
 LETTERS = [chr(c) for c in range(ord("A"), ord("Z") + 1)] + ["other"]
 HEADERS = {"User-Agent": "all-things-pebble (+https://allthingspebble.saltedlolly.com)"}
 
@@ -149,12 +143,14 @@ def source_online(url):
 # ---------------------------------------------------------------- cleaning
 
 def normalise_source(src):
-    """Return a cleaned source URL, or None if it doesn't look like source code."""
+    """Return the source code link as a clean URL, or None if there isn't one.
+    Source code can be hosted anywhere, so any web link counts."""
     if not src or not isinstance(src, str):
         return None
     src = src.strip()
-    if not re.match(r"^https?://", src):
-        if re.match(r"^(www\.)?[a-z0-9.-]+\.[a-z]{2,}/", src, re.I):
+    if not re.match(r"^https?://", src, re.I):
+        # Links like "github.com/user/repo" without the https://
+        if re.match(r"^(www\.)?[a-z0-9-]+(\.[a-z0-9-]+)+(/|$)", src, re.I):
             src = "https://" + src
         else:
             return None
@@ -162,12 +158,7 @@ def normalise_source(src):
         u = urllib.parse.urlparse(src)
     except ValueError:
         return None
-    host = (u.hostname or "").lower().removeprefix("www.")
-    parts = [p for p in u.path.split("/") if p]
-    if host in ("github.com", "gitlab.com", "codeberg.org", "bitbucket.org"):
-        if len(parts) < 2:  # a user profile rather than a repository
-            return None
-    elif host not in CODE_HOSTS and not any(h in host for h in FORGE_HINTS):
+    if not u.hostname or "." not in u.hostname:
         return None
     return src
 
