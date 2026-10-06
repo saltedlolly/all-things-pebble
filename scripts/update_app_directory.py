@@ -607,16 +607,19 @@ def render_card(e):
     else:
         dev = f"by {author}"
     return (
-        f'<div class="app-card" id="{esc(e["anchor"])}">'
-        f'<a class="app-shot" href="{esc(link)}">{shot}</a>'
-        '<div class="app-info">'
-        f'<a class="app-name" href="{esc(link)}">{esc(e["title"])}</a>'
-        f'<a class="app-source" href="{esc(e["source"])}" title="Source code">View source</a>'
-        f'<div class="app-dev">{dev}</div>'
-        f'<div class="app-tags">{"".join(tags)}</div>'
-        + (f'<div class="app-watches" title="Supported watches">Runs on: {watches}</div>' if watches else "")
-        + (f'<p class="app-desc">{desc}</p>' if desc else "")
-        + "</div></div>"
+        # The name is a heading so site search lists each app as its own
+        # result, linking straight to its card. Search shows the developer and
+        # description; the source link and tags are left out of the index.
+        '<div class="app-card">\n'
+        f'<a class="app-shot" href="{esc(link)}" data-search-exclude>{shot}</a>\n'
+        '<div class="app-info">\n'
+        f'<h2 class="app-name" id="{esc(e["anchor"])}"><a href="{esc(link)}">{esc(e["title"])}</a></h2>\n'
+        f'<a class="app-source" href="{esc(e["source"])}" title="Source code" data-search-exclude>View source</a>\n'
+        f'<div class="app-dev">{dev}</div>\n'
+        f'<div class="app-tags" data-search-exclude>{" ".join(tags)}</div>\n'
+        + (f'<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: {watches}</div>\n' if watches else "")
+        + (f'<p class="app-desc">{desc}</p>\n' if desc else "")
+        + "</div>\n</div>"
     )
 
 
@@ -674,7 +677,7 @@ def write_pages(app_type, entries, updated):
         # Every app by name, under its letter, linking to its card
         *[line for l in LETTERS if l in by_letter for line in (
             f"## [{letter_label(l)}]({folder.name}/{l.lower()}.md) {{ #letter-{l.lower()} }}", "",
-            '<div class="name-list">'
+            '<div class="name-list" data-search-exclude>'
             + "".join(f'<a href="{folder.name}/{l.lower()}.html#{html.escape(e["anchor"])}">{html.escape(e["title"])}</a>'
                       for e in by_letter[l])
             + "</div>", "",

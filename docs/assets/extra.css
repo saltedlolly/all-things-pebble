@@ -36,7 +36,10 @@
   background: var(--md-default-fg-color--lightest);
 }
 .app-info { min-width: 0; }
-.md-typeset .app-name { display: block; margin-right: 5rem; font-weight: 700; word-break: break-word; }
+.md-typeset h2.app-name {
+  margin: 0 5rem 0 0; font-size: 0.8rem; font-weight: 700; line-height: 1.5;
+  letter-spacing: normal; word-break: break-word;
+}
 .app-dev { font-size: 0.7rem; color: var(--md-default-fg-color--light); }
 .md-typeset .app-source {
   position: absolute; top: 0.5rem; right: 0.5rem;
@@ -76,8 +79,8 @@
   .app-grid { grid-template-columns: 1fr; }
 }
 /* Jump-to-card links: keep the card clear of the header and highlight it */
-.app-card { scroll-margin-top: 4.5rem; }
-.app-card:target { border-color: var(--md-accent-fg-color); box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent); }
+.md-typeset .app-name { scroll-margin-top: 5.5rem; }
+.app-card:has(.app-name:target) { border-color: var(--md-accent-fg-color); box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent); }
 
 /* All app names on the index pages, in columns */
 .md-typeset .name-list {
