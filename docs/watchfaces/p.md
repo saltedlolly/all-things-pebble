@@ -412,7 +412,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-536b1e7362917afde20000ed"><a href="https://apps.repebble.com/536b1e7362917afde20000ed">Pebble Drive</a> <span class="app-version" title="Latest version" data-search-exclude>v1.18</span></h2>
 <a class="app-source" href="https://github.com/MacBoyPro98/Pebble.git" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/macboy-pro-284baf.html" title="More from this developer">MacBoy__Pro</a></div>
+<div class="app-dev">by <a href="../developers/macboy-pro.html" title="More from this developer">MacBoy__Pro</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-05-08</span> <span title="Latest release in the app store">Updated 2015-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Basic Watchface with weather, date, time, and location displayed easily. If you have any suggestions or things I could do differently feel free to contact me with your ideas. With my app on iPhone…</p>
@@ -423,7 +423,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-ed184324553e4ce2aa6be736"><a href="https://apps.repebble.com/ed184324553e4ce2aa6be736">Pebble Drive</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/MacBoyPro98/DriveV2" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/macboy-pro-4e6e27.html" title="More from this developer">MacBoy__Pro</a></div>
+<div class="app-dev">by <a href="../developers/macboy-pro.html" title="More from this developer">MacBoy__Pro</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Basic watch face with time, date, battery percentage and temperature displayed.</p>
@@ -434,7 +434,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-60b941551342ae00a7b63a93"><a href="https://apps.rebble.io/en_US/application/60b941551342ae00a7b63a93">Pebble Float</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jmsunseri/pebble-float" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/justin-sunseri-aff3b7.html" title="More from this developer">Justin Sunseri</a></div>
+<div class="app-dev">by <a href="../developers/justin-sunseri.html" title="More from this developer">Justin Sunseri</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-06-03</span> <span title="Latest release in the app store">Updated 2021-06-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Clean watch face displaying time, steps, distance, current temp, date with day of week, and battery bar at the top</p>
@@ -896,7 +896,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-62d07e79635baa0009d782b9"><a href="https://apps.rebble.io/en_US/application/62d07e79635baa0009d782b9">Pet Sounds</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/petsoundsface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-07-14</span> <span title="Latest release in the app store">Updated 2022-07-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A simple watch face based on the album cover of The Beach Boys&#x27; &quot;Pet Sounds.&quot; This face was requested by fellow Pebbler Twebe Bebe on Discord. Anyway, enjoy!</p>
@@ -1743,7 +1743,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-6a64eac20e86980009060ac6"><a href="https://apps.rebble.io/en_US/application/6a64eac20e86980009060ac6">Poketech DX</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://codeberg.org/the16bitgamer/poketech-dx" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/16-bit-virtual-studios-d535a2.html" title="More from this developer">16 Bit Virtual Studios</a> · <a href="https://forum.rebble.io/t/1187" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-dev">by <a href="../developers/16-bit-virtual-studios.html" title="More from this developer">16 Bit Virtual Studios</a> · <a href="https://forum.rebble.io/t/1187" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-25</span> <span title="Latest release in the app store">Updated 2026-09-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a recreation of the watch of the same name from DPP. With added customization for date, bluetooth, and palettes</p>
@@ -1809,7 +1809,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-ae8e3a693a90459bba914b8c"><a href="https://apps.repebble.com/ae8e3a693a90459bba914b8c">Pokétch DX</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://codeberg.org/the16bitgamer/poketech-dx" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/16-bit-virtual-studios-f4dce9.html" title="More from this developer">16 Bit Virtual Studios</a></div>
+<div class="app-dev">by <a href="../developers/16-bit-virtual-studios.html" title="More from this developer">16 Bit Virtual Studios</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-25</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by the watch of the same name in Pokemon DPP. This watch face lets you customize the palette, date and week fields.</p>

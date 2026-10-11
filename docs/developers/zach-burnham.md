@@ -13,15 +13,15 @@ hide:
 
 # Zach Burnham
 
-*5 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*7 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce698485e86de8b11f7ae) · [GitHub (thejambi)](https://github.com/thejambi)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce698485e86de8b11f7ae) · [GitHub (thejambi)](https://github.com/thejambi) · [Website (burnsoftware.wordpress.com)](https://burnsoftware.wordpress.com/)
 
 </div>
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>8</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>5</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>10</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>7</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
@@ -112,6 +112,28 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An LCARS-style watchface with a large clock, day-of-week strip, date, week number, battery meter and step count. Highly configurable: multiple colour themes, invert, 12/24h, seconds or AM/PM, week…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="active hour" data-released="2016-02-07" data-updated="2016-10-14">
+<a class="app-shot" href="https://apps.repebble.com/56b6bb3c0b97730da600002e" data-search-exclude><img src="../images/apps/56b6bb3c0b97730da600002e.png" alt="Active Hour" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-56b6bb3c0b97730da600002e"><a href="https://apps.repebble.com/56b6bb3c0b97730da600002e">Active Hour</a> <span class="app-version" title="Latest version" data-search-exclude>v1.20</span></h2>
+<a class="app-source" href="https://github.com/thejambi/ActiveHour" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-07</span> <span title="Latest release in the app store">Updated 2016-10-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">This watchface uses Pebble Health data to show the time along with a visual display of how active you are every minute of the hour. It is inspired by a Fitbit watchface. Includes the following…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="thin-red hour" data-released="2015-07-21" data-updated="2016-02-06">
+<a class="app-shot" href="https://apps.repebble.com/55ad922da8f41e37f5000029" data-search-exclude><img src="../images/apps/55ad922da8f41e37f5000029.png" alt="Thin-Red Hour" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-55ad922da8f41e37f5000029"><a href="https://apps.repebble.com/55ad922da8f41e37f5000029">Thin-Red Hour</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
+<a class="app-source" href="https://burnsoftware.wordpress.com/" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2016-02-06</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">I modified the Thin watchface by Chris Lewis and wanted to share my take on it. The biggest changes are the more circular shape of the watchface, the red hour hand, and the minute marks showing…</p>
 </div>
 </div>
 </div>

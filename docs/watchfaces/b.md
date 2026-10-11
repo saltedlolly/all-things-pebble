@@ -929,7 +929,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-684d64c733c87e00090b43a6"><a href="https://apps.rebble.io/en_US/application/684d64c733c87e00090b43a6">bigTime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/rcrimp/bigTime-Pebble-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/phyterjet-709bae.html" title="More from this developer">PhyterJet</a></div>
+<div class="app-dev">by <a href="../developers/phyterjet.html" title="More from this developer">PhyterJet</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-06-14</span> <span title="Latest release in the app store">Updated 2025-06-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Time in LARGE digits. Date shown Top line is battery bar</p>
@@ -951,7 +951,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-3df9451de73c47a7a8e3279d"><a href="https://apps.repebble.com/3df9451de73c47a7a8e3279d">bigTime with Date</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/rcrimp/bigTime-Pebble-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/phyterjet-e31f6a.html" title="More from this developer">PhyterJet</a></div>
+<div class="app-dev">by <a href="../developers/phyterjet.html" title="More from this developer">PhyterJet</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Displays the time in a large format. Easy readability. Date is shown too, with a clear battery bar.</p>
@@ -1468,7 +1468,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-57e354773095e3ed49000004"><a href="https://apps.repebble.com/57e354773095e3ed49000004">Bliss Time 2</a> <span class="app-version" title="Latest version" data-search-exclude>v3.63</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.BlissTime2" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-09-22</span> <span title="Latest release in the app store">Updated 2017-01-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">BLISS TIME 2 for Pebble Time. Updated version of BLISS TIME by Michael Reyes to work with SDK 4. Now includes a super precise, easy-to-read analog clock face. - Digital and analog watch faces. …</p>
@@ -1567,7 +1567,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-62e976e4e595b3000a939a31"><a href="https://apps.rebble.io/en_US/application/62e976e4e595b3000a939a31">Blue Monday &#x27;88</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/JohnSpahr/BlueMondayFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-08-02</span> <span title="Latest release in the app store">Updated 2022-08-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Simple face based on New Order&#x27;s classic Blue Monday &#x27;88 cover.</p>

@@ -71,7 +71,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-626b1ef27ca61400094ed7e4"><a href="https://apps.rebble.io/en_US/application/626b1ef27ca61400094ed7e4">Laptopman Face (Classic)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/JohnSpahr/LaptopmanFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-04-28</span> <span title="Latest release in the app store">Updated 2022-05-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Good news! I&#x27;ve released an updated version of this face with a couple of new features. However, I&#x27;ll be keeping this one around if you prefer the old style. Meet the Laptopman, a simple Pebble…</p>
@@ -82,7 +82,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-6293cf9e98768d00095a945f"><a href="https://apps.rebble.io/en_US/application/6293cf9e98768d00095a945f">Laptopman Face 2.0</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/laptopmanface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-05-29</span> <span title="Latest release in the app store">Updated 2022-11-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Meet the new (and improved) Laptopman Face, a watchface featuring a guy with laptop for a head! This updated version introduces a more readable font and a battery meter. Be careful, though, as…</p>
@@ -412,7 +412,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-a5874b2f337249e58d31353d"><a href="https://apps.repebble.com/a5874b2f337249e58d31353d">Lighthaul Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Lighthaul-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/zach-burnham-d9b378.html" title="More from this developer">Zach Burnham</a></div>
+<div class="app-dev">by <a href="../developers/zach-burnham.html" title="More from this developer">Zach Burnham</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">The Lighthaul star map as a watchface - and your ship flies itself. Every day a new procedurally-generated cluster arrives, seeded by the date: every pilot wearing this face flies the same galaxy…</p>
@@ -478,7 +478,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-6a69d2c781cc78000918bee2"><a href="https://apps.repebble.com/6a69d2c781cc78000918bee2">Line Dash</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/pagnotta/pebble-line-dash/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/pagnotta-8e6d5f.html" title="More from this developer">pagnotta</a> · <a href="https://forum.rebble.io/t/1195" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-dev">by <a href="../developers/pagnotta.html" title="More from this developer">pagnotta</a> · <a href="https://forum.rebble.io/t/1195" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A stylish, minimalist one-hand analog watchface for the Pebble Time 2 and Round 2. Designed for intuitive timekeeping, Line Dash features curated typography and a strictly functional, clutter-free…</p>

@@ -1963,7 +1963,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-69581fbe39d92d0009bb746e"><a href="https://apps.rebble.io/en_US/application/69581fbe39d92d0009bb746e">covetous</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/chorankates/covetous" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/conor-code-df00f8.html" title="More from this developer">conor.code</a> · <a href="https://forum.rebble.io/t/421" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-dev">by <a href="../developers/conor-code.html" title="More from this developer">conor.code</a> · <a href="https://forum.rebble.io/t/421" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-02</span> <span title="Latest release in the app store">Updated 2026-01-06</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">NOT WHAT IT WAS, trademark claim caused pulling</p>
@@ -2117,7 +2117,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-62964f20b4b75900091ae62a"><a href="https://apps.rebble.io/en_US/application/62964f20b4b75900091ae62a">Cupertino</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/cupertinoface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-05-31</span> <span title="Latest release in the app store">Updated 2022-06-12</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A simple and elegant analog watchface with optional date and plenty of other customization options. Built with RockyJS.</p>
@@ -2128,7 +2128,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-62b22a46b4b75900091ae637"><a href="https://apps.rebble.io/en_US/application/62b22a46b4b75900091ae637">Cupertino (Updated)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/cupertinoface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-06-21</span> <span title="Latest release in the app store">Updated 2022-06-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A simple and elegant analog watchface with optional date and plenty of other customization options. Built with RockyJS. Note: This is an updated version of an existing face I released here that…</p>

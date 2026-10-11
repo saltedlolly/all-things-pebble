@@ -137,7 +137,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-637920b8c6c24a000a815e61"><a href="https://apps.rebble.io/en_US/application/637920b8c6c24a000a815e61">Activities</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/pebbleactivities" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-19</span> <span title="Latest release in the app store">Updated 2022-11-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Feeling bored? This little PebbleJS app uses the Bored API to suggest activities for you to do! Activities are selected based on the number of participants you choose. Created for Rebble Hackathon…</p>
@@ -368,7 +368,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-b0593b021ec14a9fb33207e5"><a href="https://apps.repebble.com/b0593b021ec14a9fb33207e5">Anki-pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/Wyoc/anki-pebble-watch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/wyoc-1c2d94.html" title="More from this developer">Wyoc</a></div>
+<div class="app-dev">by <a href="../developers/wyoc.html" title="More from this developer">Wyoc</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-06-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">Review your AnkiDroid flashcards from your wrist. Requires the free Anki-Pebble companion app.</p>

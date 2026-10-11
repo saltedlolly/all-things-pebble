@@ -444,7 +444,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-378bcb0a5fac43ca91e051d0"><a href="https://apps.repebble.com/378bcb0a5fac43ca91e051d0">ripple</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chorankates/ripple" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/conor-code-9443f4.html" title="More from this developer">conor.code</a> · <a href="https://forum.rebble.io/t/351" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-dev">by <a href="../developers/conor-code.html" title="More from this developer">conor.code</a> · <a href="https://forum.rebble.io/t/351" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-24</span> <span title="Latest release in the app store">Updated 2025-12-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">a timer application with a number of visualization options</p>
@@ -708,7 +708,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-599dc335461a8d8fd10011ed"><a href="https://apps.rebble.io/en_US/application/599dc335461a8d8fd10011ed">RU Bus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mnadev/RUBus" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/mohammad-nadeem-fa46f3.html" title="More from this developer">Mohammad Nadeem</a></div>
+<div class="app-dev">by <a href="../developers/mohammad-nadeem.html" title="More from this developer">Mohammad Nadeem</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-08-23</span> <span title="Latest release in the app store">Updated 2017-08-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble Watch App that lets you see Rutgers Bus Times on your Pebble.</p>

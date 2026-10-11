@@ -434,7 +434,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-5822be1ae7785be14b000102"><a href="https://apps.repebble.com/5822be1ae7785be14b000102">webOS Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.webOS.Clock" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-11-09</span> <span title="Latest release in the app store">Updated 2017-01-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">The much loved webOS analogue clock for your Pebble. Hour markers and date are in the webOS &quot;Prelude&quot; typeface. Shake watch for seconds display. Source is in GitHub.</p>
@@ -467,7 +467,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-6377c82fc6c24a000a815e53"><a href="https://apps.rebble.io/en_US/application/6377c82fc6c24a000a815e53">weezeface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/weezeface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-18</span> <span title="Latest release in the app store">Updated 2022-11-18</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The world’s first Weezer watchface for Pebble! Switches between the blue and red album covers depending on your BT connection status. This project was submitted for Rebble’s first hackathon! Be…</p>
@@ -764,7 +764,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-6497ceac741dd4050959a9f6"><a href="https://apps.rebble.io/en_US/application/6497ceac741dd4050959a9f6">Woozy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.29</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Woozy" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-f7fc7a.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2023-06-25</span> <span title="Latest release in the app store">Updated 2023-06-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Is the watch drunk?</p>

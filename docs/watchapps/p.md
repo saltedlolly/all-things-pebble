@@ -566,7 +566,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-69f5d27a8bb70b00099fc067"><a href="https://apps.rebble.io/en_US/application/69f5d27a8bb70b00099fc067">pebble-c25k</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/Wyoc/pebble-c25k" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/wyoc-bdc03c.html" title="More from this developer">Wyoc</a> · <a href="https://forum.rebble.io/t/936" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-dev">by <a href="../developers/wyoc.html" title="More from this developer">Wyoc</a> · <a href="https://forum.rebble.io/t/936" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-05-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A pebble 2 C25K watchapp</p>
@@ -1050,7 +1050,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-5394ad79e553f6ec0a000094"><a href="https://apps.repebble.com/5394ad79e553f6ec0a000094">Pebbletron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ericmigi/PebbleTron" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/eric-migicovsky-60af61.html" title="More from this developer">Eric Migicovsky</a></div>
+<div class="app-dev">by <a href="../developers/eric-migicovsky.html" title="More from this developer">Eric Migicovsky</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-08</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Control your Lockitron lock right from your Pebble! Built using Pebble.js and Cloudpebble.net. Thanks Huy and Katharine! No locks? remember to log in: My Pebble -&gt; Pebbletron -&gt; Settings Source…</p>
@@ -1391,7 +1391,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-61262da242074a6a8009efed"><a href="https://apps.repebble.com/61262da242074a6a8009efed">Pilatable</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/Wyoc/pilatable" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/wyoc-1c2d94.html" title="More from this developer">Wyoc</a></div>
+<div class="app-dev">by <a href="../developers/wyoc.html" title="More from this developer">Wyoc</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-18</span> <span title="Latest release in the app store">Updated 2026-06-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Guided Pilates mat workouts on your wrist, paced by your breath. Pilatable turns your Pebble Time 2 into a calm, glanceable Pilates coach. Instead of staring at a screen, you follow your breath…</p>

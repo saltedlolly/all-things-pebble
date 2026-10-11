@@ -1149,7 +1149,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-55ad922da8f41e37f5000029"><a href="https://apps.repebble.com/55ad922da8f41e37f5000029">Thin-Red Hour</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
 <a class="app-source" href="https://burnsoftware.wordpress.com/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/zach-burnham-c92f15.html" title="More from this developer">Zach Burnham</a></div>
+<div class="app-dev">by <a href="../developers/zach-burnham.html" title="More from this developer">Zach Burnham</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2016-02-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I modified the Thin watchface by Chris Lewis and wanted to share my take on it. The biggest changes are the more circular shape of the watchface, the red hour hand, and the minute marks showing…</p>
@@ -2117,7 +2117,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-57ff6a521fd66bc99e000200"><a href="https://apps.repebble.com/57ff6a521fd66bc99e000200">Torn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Torn" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-10-13</span> <span title="Latest release in the app store">Updated 2016-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Missing screen tearing already? v1.1 - Realistic screen tearing. - Tearing refresh represents seconds. - Better battery life than v1.0. - Supports Timeline Quick View - Supports 12 and 24 hour…</p>
@@ -2337,7 +2337,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-f6413c1d19c442cc8e6d5602"><a href="https://apps.repebble.com/f6413c1d19c442cc8e6d5602">Trekv3 TimeSteel</a> <span class="app-version" title="Latest version" data-search-exclude>v5.2.0</span></h2>
 <a class="app-source" href="https://github.com/thejambi/trekv3-timesteel" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/zach-burnham-d9b378.html" title="More from this developer">Zach Burnham</a></div>
+<div class="app-dev">by <a href="../developers/zach-burnham.html" title="More from this developer">Zach Burnham</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An LCARS-style watchface with a large clock, day-of-week strip, date, week number, battery meter and step count. Highly configurable: multiple colour themes, invert, 12/24h, seconds or AM/PM, week…</p>

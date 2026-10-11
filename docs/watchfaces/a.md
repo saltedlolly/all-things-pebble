@@ -159,7 +159,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-56b6bb3c0b97730da600002e"><a href="https://apps.repebble.com/56b6bb3c0b97730da600002e">Active Hour</a> <span class="app-version" title="Latest version" data-search-exclude>v1.20</span></h2>
 <a class="app-source" href="https://github.com/thejambi/ActiveHour" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/zach-burnham-c92f15.html" title="More from this developer">Zach Burnham</a></div>
+<div class="app-dev">by <a href="../developers/zach-burnham.html" title="More from this developer">Zach Burnham</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-07</span> <span title="Latest release in the app store">Updated 2016-10-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This watchface uses Pebble Health data to show the time along with a visual display of how active you are every minute of the hour. It is inspired by a Fitbit watchface. Includes the following…</p>
@@ -170,7 +170,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-932411b4b5ba45ce839ff833"><a href="https://apps.repebble.com/932411b4b5ba45ce839ff833">ActiveHour2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.1</span></h2>
 <a class="app-source" href="https://github.com/thejambi/ActiveHour" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/zach-burnham-d9b378.html" title="More from this developer">Zach Burnham</a></div>
+<div class="app-dev">by <a href="../developers/zach-burnham.html" title="More from this developer">Zach Burnham</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-07-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This watchface uses Pebble Health data to show the time along with a visual display of how active you are every minute of the hour. It is inspired by a Fitbit watchface. Includes the following…</p>
@@ -577,7 +577,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-f8ea4d34aa3d4ba594745fac"><a href="https://apps.repebble.com/f8ea4d34aa3d4ba594745fac">Ana-digi Vibez</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ericmigi/anadigi-vibez" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/eric-migicovsky-4b2bfb.html" title="More from this developer">Eric Migicovsky</a></div>
+<div class="app-dev">by <a href="../developers/eric-migicovsky.html" title="More from this developer">Eric Migicovsky</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-26</span> <span title="Latest release in the app store">Updated 2026-03-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Retro ana-digi with Casio vibes! For Pebble Time 2 and Pebble Round 2</p>
@@ -753,7 +753,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-580b468353c08f2d950000b1"><a href="https://apps.repebble.com/580b468353c08f2d950000b1">Anery</a> <span class="app-version" title="Latest version" data-search-exclude>v1.33</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Anery" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-10-22</span> <span title="Latest release in the app store">Updated 2017-02-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Anery for Pebble. - Precise, easy-to-read analog watchface. - Three analog watchfaces selectable by the user. - Large date. - Hourly or half-hourly buzz. - Display seconds hand by shaking watch. …</p>
@@ -764,7 +764,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-580ca87153c08f730600019f"><a href="https://apps.repebble.com/580ca87153c08f730600019f">Anery+</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Anery.Plus" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-10-23</span> <span title="Latest release in the app store">Updated 2016-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Anery+ for Pebble Time 2. Anery+ is based on BLISS TIME by Michael Reyes. - Super precise, easy-to-read, analog clock face. - Digital and analog watch faces. - Display seconds in analog display by…</p>
@@ -775,7 +775,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-583cf2e1ca3094bdc0000507"><a href="https://apps.repebble.com/583cf2e1ca3094bdc0000507">Anery-</a> <span class="app-version" title="Latest version" data-search-exclude>v1.16</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Anery.Minus" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-11-29</span> <span title="Latest release in the app store">Updated 2017-01-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Lightweight version of the &quot;Anery&quot; watchface. - Easy-to-read, clean analog watchface. - Small, power-efficient code. - Supports Timeline Quick View. - Shake to display seconds hand for 5 seconds…</p>
@@ -786,7 +786,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-585369da5de85056f0000044"><a href="https://apps.repebble.com/585369da5de85056f0000044">Anery-SQ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Anery.SQ" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-12-16</span> <span title="Latest release in the app store">Updated 2017-02-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Another variation of the Anery watchface, {influenced|copied|derived} {by|from} the famous &quot;Notorious&quot; watchface by Tim Krief. Shake watch to display seconds and battery status for 8 seconds.</p>

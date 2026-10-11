@@ -13,19 +13,30 @@ hide:
 
 # The Resetter
 
-*11 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*12 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/the-resetter_5415133bbcd1cf9264000081) · [GitHub (GreenHex)](https://github.com/GreenHex) · [Website (forums.pebble.com)](https://forums.pebble.com/t/watchface-anery-and-anery-for-pebble-time-2/)
+Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5b3b1836712710000164e3ca/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/the-resetter_5415133bbcd1cf9264000081) · [GitHub (GreenHex)](https://github.com/GreenHex) · [Website (forums.pebble.com)](https://forums.pebble.com/t/watchface-anery-and-anery-for-pebble-time-2/)
 
 </div>
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>12</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>11</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>13</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>12</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="woozy" data-released="2023-06-25" data-updated="2023-06-25">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/6497ceac741dd4050959a9f6" data-search-exclude><img src="../images/apps/6497ceac741dd4050959a9f6.png" alt="Woozy" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6497ceac741dd4050959a9f6"><a href="https://apps.rebble.io/en_US/application/6497ceac741dd4050959a9f6">Woozy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.29</span></h2>
+<a class="app-source" href="https://github.com/GreenHex/Pebble.Woozy" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2023-06-25</span> <span title="Latest release in the app store">Updated 2023-06-25</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
+<p class="app-desc">Is the watch drunk?</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="hfg-max" data-released="2017-02-16" data-updated="2017-02-17">
 <a class="app-shot" href="https://apps.repebble.com/58a52d200dfc320dc6000330" data-search-exclude><img src="../images/apps/58a52d200dfc320dc6000330.png" alt="HfG-MaX" loading="lazy"></a>
 <div class="app-info">

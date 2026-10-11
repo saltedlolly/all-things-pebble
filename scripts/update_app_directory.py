@@ -883,6 +883,20 @@ def build_developers(entries):
         if key:
             devs.setdefault(key, []).append(e)
 
+    # Someone with an old and a new store account shows as one developer
+    # when both accounts have the same name and share a code profile. Just
+    # the name isn't enough: different people go by "Ben" or "Andrew".
+    first = {}
+    for key in sorted(devs):
+        if key not in devs:
+            continue
+        name = collections.Counter(e["author"].strip().lower() for e in devs[key]).most_common(1)[0][0]
+        for host, owner in code_profiles(devs[key]):
+            other = first.setdefault((name, host, owner.lower()), key)
+            if other != key and other in devs:
+                devs[other] += devs.pop(key)
+                break
+
     out = []
     for key, apps in devs.items():
         apps.sort(key=lambda e: (e["updated"] or "", e["title"].lower()), reverse=True)

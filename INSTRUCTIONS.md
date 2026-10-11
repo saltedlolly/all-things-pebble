@@ -48,7 +48,7 @@ Apps without a source link in the store are also included if their website link 
 
 Both are merged into one alphabetical list, with one page per letter in `docs/watchfaces/` and `docs/watchapps/`.
 
-The same apps are also grouped by developer, with one page per developer in `docs/developers/` and the list of developers in `docs/developers.md`. Apps are grouped by their app store developer account, and a hand-added app joins the developer with the same name. The sort and filter buttons on each developer's page are in `docs/assets/developers.js`.
+The same apps are also grouped by developer, with one page per developer in `docs/developers/` and the list of developers in `docs/developers.md`. Apps are grouped by their app store developer account. Two accounts with the same name that share a GitHub, GitLab or Codeberg profile (usually someone's old Pebble account and their new one) are shown as one developer. A hand-added app joins the developer with the same name. The sort and filter buttons on each developer's page are in `docs/assets/developers.js`.
 
 - `data/store-apps.json` remembers every open source store app ever seen. Apps that leave both stores stay listed, linking to their source code, as long as the source is still online (checked each run; a 404 hides the app until it comes back).
 - `data/licences.json` caches each GitHub/GitLab repository's licence, shown in the Licence column. Up to 800 repositories are checked per run (GitHub's API limit), so a full set of licences builds up over a few runs. Each is re-checked every 90 days.

@@ -13,7 +13,7 @@ hide:
 
 # John Spahr
 
-*9 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*9 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660009e8a4db/1) · [GitHub (johnspahr)](https://github.com/johnspahr) · [Website (johnspahr.org)](https://johnspahr.org)
 
@@ -21,7 +21,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>11</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>9</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>12</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>9</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
@@ -143,6 +143,17 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <a class="app-source" href="https://github.com/JohnSpahr/compliment-moi-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-05-22</span> <span title="Latest release in the app store">Updated 2022-05-22</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Feeling gloomy? If so, perhaps a compliment will brighten up your day! Compliment Moi is a simple little Pebble.js app that compliments you and gives you words of encouragement. With tons of…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="compliment moi" data-released="2021-05-18" data-updated="2021-05-20">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/60a3f01f1342ae0091b7e186" data-search-exclude><img src="../images/apps/60a3f01f1342ae0091b7e186.png" alt="Compliment Moi" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-60a3f01f1342ae0091b7e186"><a href="https://apps.rebble.io/en_US/application/60a3f01f1342ae0091b7e186">Compliment Moi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
+<a class="app-source" href="https://github.com/johnspahr/compliment-moi-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-05-18</span> <span title="Latest release in the app store">Updated 2021-05-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Feeling gloomy? If so, perhaps a compliment will brighten up your day! Compliment Moi is a simple little Pebble.js app that compliments you and gives you words of encouragement. With tons of…</p>
 </div>

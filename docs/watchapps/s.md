@@ -27,7 +27,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-583b006e00355aeba4000124"><a href="https://apps.repebble.com/583b006e00355aeba4000124">S5-S0-S6</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.S5-S0-S6" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-11-27</span> <span title="Latest release in the app store">Updated 2016-11-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Analog chronometer for the Pebble, with smooth animated seconds movement.</p>
@@ -918,7 +918,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-a4d14d8c1e7140e79a4f588d"><a href="https://apps.repebble.com/a4d14d8c1e7140e79a4f588d">Solfarer Atlas</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Solfarer-Atlas-Pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/zach-burnham-d9b378.html" title="More from this developer">Zach Burnham</a></div>
+<div class="app-dev">by <a href="../developers/zach-burnham.html" title="More from this developer">Zach Burnham</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Travel where you like. Solfarer Atlas is the Local Bubble as a place you can walk around: 2,236 real star systems within 100 light-years of Sol - Proxima Centauri, Barnard&#x27;s Star, Wolf 359…</p>
@@ -1138,7 +1138,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-b1ff884434e84d3191c8bac2"><a href="https://apps.repebble.com/b1ff884434e84d3191c8bac2">Squeeze Lyrion LMS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pagnotta/pebble-squeeze-lms" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/pagnotta-490499.html" title="More from this developer">pagnotta</a> · <a href="https://forum.rebble.io/t/1213" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-dev">by <a href="../developers/pagnotta.html" title="More from this developer">pagnotta</a> · <a href="https://forum.rebble.io/t/1213" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A native, touch-first remote for Squeezebox, squeezelite, and Lyrion Music Server — the server formerly known as Logitech Media Server (LMS) or SlimServer — tailored for the Pebble Time 2 and…</p>
@@ -1149,7 +1149,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-6f24d81f31bf470ba81139fc"><a href="https://apps.repebble.com/6f24d81f31bf470ba81139fc">Squire</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/jmsunseri/pebble-squire" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/justin-sunseri-e963c9.html" title="More from this developer">Justin Sunseri</a></div>
+<div class="app-dev">by <a href="../developers/justin-sunseri.html" title="More from this developer">Justin Sunseri</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Squire is that allows you to communicate with either OpenClaw or Hermes using Telegram</p>
@@ -1336,7 +1336,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-2e82bbee93a2452d872b7aad"><a href="https://apps.repebble.com/2e82bbee93a2452d872b7aad">Stochastic Fists</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/mnadev/stochastic_fists" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/mohammad-nadeem-418508.html" title="More from this developer">Mohammad Nadeem</a></div>
+<div class="app-dev">by <a href="../developers/mohammad-nadeem.html" title="More from this developer">Mohammad Nadeem</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Stochastic Fists turns your Pebble into a silent corner coach for shadowboxing. Instead of audio callouts, it uses custom vibration patterns to call out real boxing combos — so you can train to…</p>

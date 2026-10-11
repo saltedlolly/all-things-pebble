@@ -71,7 +71,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-589a81211985caf4dd0002b7"><a href="https://apps.repebble.com/589a81211985caf4dd0002b7">Kaven</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Kaven" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-02-08</span> <span title="Latest release in the app store">Updated 2017-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Watchface to teach my son to tell time. &quot;Prelude&quot; typeface is from Palm webOS.</p>
@@ -170,7 +170,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-5831abcb8c7fff66e10000c9"><a href="https://apps.repebble.com/5831abcb8c7fff66e10000c9">Kiddie</a> <span class="app-version" title="Latest version" data-search-exclude>v1.28</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Woozy" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-dev">by <a href="../developers/the-resetter.html" title="More from this developer">The Resetter</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-11-20</span> <span title="Latest release in the app store">Updated 2017-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Don&#x27;t take your eyes off the kids! Now with day and date display.</p>

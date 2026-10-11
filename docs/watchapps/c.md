@@ -753,7 +753,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-60a3f01f1342ae0091b7e186"><a href="https://apps.rebble.io/en_US/application/60a3f01f1342ae0091b7e186">Compliment Moi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/compliment-moi-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-0972bb.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-05-18</span> <span title="Latest release in the app store">Updated 2021-05-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Feeling gloomy? If so, perhaps a compliment will brighten up your day! Compliment Moi is a simple little Pebble.js app that compliments you and gives you words of encouragement. With tons of…</p>
@@ -764,7 +764,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-628ab49ce3ac04000b00b97f"><a href="https://apps.rebble.io/en_US/application/628ab49ce3ac04000b00b97f">Compliment Moi (Updated)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/JohnSpahr/compliment-moi-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-05-22</span> <span title="Latest release in the app store">Updated 2022-05-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Feeling gloomy? If so, perhaps a compliment will brighten up your day! Compliment Moi is a simple little Pebble.js app that compliments you and gives you words of encouragement. With tons of…</p>
@@ -852,7 +852,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-5edde2293dd3105ab984ba5e"><a href="https://apps.rebble.io/en_US/application/5edde2293dd3105ab984ba5e">Couch to 5K</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/LawnGnome/c25k-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/adam-harvey-208228.html" title="More from this developer">Adam Harvey</a></div>
+<div class="app-dev">by <a href="../developers/adam-harvey.html" title="More from this developer">Adam Harvey</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2020-06-08</span> <span title="Latest release in the app store">Updated 2020-06-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A timer for the NHS version of the Couch to 5K running programme. This app provides an overall view of how far you are through the intervals as you run. (Banner image by Beatrice Murch; licensed…</p>
@@ -973,7 +973,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-53caf3f9f02a61e5c0000150"><a href="https://apps.repebble.com/53caf3f9f02a61e5c0000150">Cricket Counter</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/LawnGnome/cricket-counter-for-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/adam-harvey-bbd906.html" title="More from this developer">Adam Harvey</a></div>
+<div class="app-dev">by <a href="../developers/adam-harvey.html" title="More from this developer">Adam Harvey</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-07-19</span> <span title="Latest release in the app store">Updated 2014-07-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A basic ball, over and wicket counter for cricket umpires.</p>
