@@ -8,16 +8,16 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · **X** · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*4 apps · Last updated 2026-10-06 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/62cdbbd1f0886b0009c74042" data-search-exclude><img src="../images/apps/62cdbbd1f0886b0009c74042.png" alt="XCTimer" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-62cdbbd1f0886b0009c74042"><a href="https://apps.repebble.com/62cdbbd1f0886b0009c74042">XCTimer</a></h2>
+<h2 class="app-name" id="app-62cdbbd1f0886b0009c74042"><a href="https://apps.repebble.com/62cdbbd1f0886b0009c74042">XCTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/clay53/PebbleXCTimer" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/clayton-does-things_62c94d390eed5a000ba85e8c" title="More from this developer">Clayton Does Things</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2023-01-06</span></div>
+<div class="app-dev">by <a href="../developers/clayton-does-things.html" title="More from this developer">Clayton Does Things</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-07-12</span> <span title="Latest release in the app store">Updated 2023-01-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A repeating timer and stopwatch for XC and track.</p>
 </div>
@@ -25,10 +25,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54adbee8647b4f548f339063" data-search-exclude><img src="../images/apps/54adbee8647b4f548f339063.png" alt="xDrip CGM" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54adbee8647b4f548f339063"><a href="https://apps.repebble.com/54adbee8647b4f548f339063">xDrip CGM</a></h2>
+<h2 class="app-name" id="app-54adbee8647b4f548f339063"><a href="https://apps.repebble.com/54adbee8647b4f548f339063">xDrip CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/BigWebstas/PebbleXDrip" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/webstas-webstas_990614069b2a89f2e0c44e8b" title="More from this developer">Webstas “Webstas”</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
+<div class="app-dev">by <a href="../developers/webstas-webstas.html" title="More from this developer">Webstas “Webstas”</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A Pebble quick-launch app that shows your xDrip+ CGM data — number, trend, delta and a 2-hour graph. It is not a watchface, so you can run any watchface and still get a glucose glance on demand…</p>
 </div>
@@ -36,10 +36,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52f0253c4ae3633a6400083a" data-search-exclude><img src="../images/apps/52f0253c4ae3633a6400083a.png" alt="XKCD Comic" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52f0253c4ae3633a6400083a"><a href="https://apps.repebble.com/52f0253c4ae3633a6400083a">XKCD Comic</a></h2>
+<h2 class="app-name" id="app-52f0253c4ae3633a6400083a"><a href="https://apps.repebble.com/52f0253c4ae3633a6400083a">XKCD Comic</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/mhungerford/png_xkcd" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/matthew-hungerford_52bca741d438930a650001b6" title="More from this developer">Matthew Hungerford</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.2</span> <span title="Latest release in the app store">Updated 2015-12-18</span></div>
+<div class="app-dev">by <a href="../developers/matthew-hungerford.html" title="More from this developer">Matthew Hungerford</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2015-12-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Update: More comics, now resumes where you left off. XKCD is webcomic about sarcasm, math, technology, and science. XCDK is licensed under the Creative Commons (CC BY-NC 2.5). uPNG ported for &gt;70…</p>
 </div>
@@ -47,10 +47,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b626e39712aa46adb6d09fe1" data-search-exclude><img src="../images/apps/b626e39712aa46adb6d09fe1.gif" alt="XKCD Reader" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b626e39712aa46adb6d09fe1"><a href="https://apps.repebble.com/b626e39712aa46adb6d09fe1">XKCD Reader</a></h2>
+<h2 class="app-name" id="app-b626e39712aa46adb6d09fe1"><a href="https://apps.repebble.com/b626e39712aa46adb6d09fe1">XKCD Reader</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/priyankark/xkcd-reader-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/aircodum_67bc77bf37d408000a74f7d3" title="More from this developer">AirCodum</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.3</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-dev">by <a href="../developers/aircodum.html" title="More from this developer">AirCodum</a> · <a href="https://forum.rebble.io/t/892" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Interactive XKCD comic reader. Controls: SELECT loads a random comic. UP/DOWN scrolls the comic manually. Long-press SELECT or shake the watch to reveal the alt-text caption. BACK exits.</p>
 </div>

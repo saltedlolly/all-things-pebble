@@ -102,3 +102,42 @@
   white-space: nowrap;
   line-height: 1.6;
 }
+
+/* Developer list: how many apps each developer has */
+.md-typeset .name-list a span {
+  margin-left: 0.35em;
+  font-size: 0.6rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Sort and filter buttons on each developer's page */
+.dev-controls {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem 1.2rem;
+  margin: 1em 0; font-size: 0.7rem;
+}
+.dev-controls[hidden], .app-card[hidden] { display: none; }
+.dev-filter { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.dev-filter button {
+  padding: 0.2rem 0.7rem; border-radius: 1rem; cursor: pointer;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color); font: inherit;
+}
+.dev-filter button span { color: var(--md-default-fg-color--light); }
+.dev-filter button:hover:not(:disabled) { border-color: var(--md-accent-fg-color); }
+.dev-filter button[aria-pressed="true"] {
+  border-color: var(--md-accent-fg-color);
+  background: var(--md-accent-fg-color--transparent);
+}
+.dev-filter button:disabled { opacity: 0.45; cursor: default; }
+.dev-sort select {
+  margin-left: 0.3rem; padding: 0.2rem 0.4rem; border-radius: 0.3rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--md-default-bg-color); color: var(--md-default-fg-color); font: inherit;
+}
+
+/* Developer page header: GitHub picture beside the name and links */
+.dev-header { display: flex; gap: 1rem; align-items: flex-start; }
+.md-typeset .dev-avatar { flex: 0 0 64px; width: 64px; height: 64px; border-radius: 50%; margin-top: 0.3rem; }
+.dev-intro { min-width: 0; }
+.md-typeset .dev-intro h1 { margin-bottom: 0.4em; }
+.md-typeset .dev-intro p { margin: 0.4em 0; }

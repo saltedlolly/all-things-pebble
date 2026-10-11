@@ -8,16 +8,16 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · **Z** · [0–9 & other](other.md)
 
-*5 apps · Last updated 2026-10-06 · [About these lists](../about-app-lists.md)*
+*5 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5689657664bdb8bfb800001d" data-search-exclude><img src="../images/apps/5689657664bdb8bfb800001d.png" alt="Zaragoza Public Transport" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5689657664bdb8bfb800001d"><a href="https://apps.repebble.com/5689657664bdb8bfb800001d">Zaragoza Public Transport</a></h2>
+<h2 class="app-name" id="app-5689657664bdb8bfb800001d"><a href="https://apps.repebble.com/5689657664bdb8bfb800001d">Zaragoza Public Transport</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/iAbadia/Pebble-Public-Transport-Zgz" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/iabadia_54837f4e0748a15484000144" title="More from this developer">iAbadia</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
+<div class="app-dev">by <a href="../developers/iabadia.html" title="More from this developer">iAbadia</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble app for Zaragoza tram and bus times How to use: For tram times, select between the full list of stops or choose one from your recent searches. For bus times, choose from recent searches or…</p>
 </div>
@@ -25,10 +25,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55171822b89c9e54f500000a" data-search-exclude><img src="../images/apps/55171822b89c9e54f500000a.png" alt="Zarapp" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55171822b89c9e54f500000a"><a href="https://apps.repebble.com/55171822b89c9e54f500000a">Zarapp</a></h2>
+<h2 class="app-name" id="app-55171822b89c9e54f500000a"><a href="https://apps.repebble.com/55171822b89c9e54f500000a">Zarapp</a> <span class="app-version" title="Latest version" data-search-exclude>v0.92</span></h2>
 <a class="app-source" href="https://github.com/KilFer/Zarapp" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kilfer-fernando-belaza_544d3e05a88ad3d0e5000097" title="More from this developer">KilFer - Fernando Belaza</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v0.92</span> <span title="Latest release in the app store">Updated 2015-08-22</span></div>
+<div class="app-dev">by <a href="../developers/kilfer-fernando-belaza.html" title="More from this developer">KilFer - Fernando Belaza</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-03-28</span> <span title="Latest release in the app store">Updated 2015-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">¡Ten a mano toda la información sobre los transportes urbanos de Zaragoza! Consulta cualquier parada del tranvía, bus o bizis y guarda para un acceso más rápido tus paradas favoritas fácilmente…</p>
 </div>
@@ -36,10 +36,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/8a706e64a4f745cc94398e35" data-search-exclude><img src="../images/apps/8a706e64a4f745cc94398e35.png" alt="Zmanim" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-8a706e64a4f745cc94398e35"><a href="https://apps.repebble.com/8a706e64a4f745cc94398e35">Zmanim</a></h2>
+<h2 class="app-name" id="app-8a706e64a4f745cc94398e35"><a href="https://apps.repebble.com/8a706e64a4f745cc94398e35">Zmanim</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/discountdeadcats/Zmanim-app" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/discountdeadcats_49ab1dae0d8e9c27989a9260" title="More from this developer">discountdeadcats</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.6</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
+<div class="app-dev">by <a href="../developers/discountdeadcats.html" title="More from this developer">discountdeadcats</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-27</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Precise halachic times at a glance. View key zmanim, track the current time period, and stay aware of what’s coming next all in a clean, fast interface designed for Pebble.</p>
 </div>
@@ -47,10 +47,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55ec8deb4fcd1c6dc300004e" data-search-exclude><img src="../images/apps/55ec8deb4fcd1c6dc300004e.png" alt="ZWay Control" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55ec8deb4fcd1c6dc300004e"><a href="https://apps.repebble.com/55ec8deb4fcd1c6dc300004e">ZWay Control</a></h2>
+<h2 class="app-name" id="app-55ec8deb4fcd1c6dc300004e"><a href="https://apps.repebble.com/55ec8deb4fcd1c6dc300004e">ZWay Control</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/radicand/PebbleZWay" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/nick-pappas_55079df5febe68ca0b0000a2" title="More from this developer">Nick Pappas</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2015-09-26</span></div>
+<div class="app-dev">by <a href="../developers/nick-pappas.html" title="More from this developer">Nick Pappas</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-06</span> <span title="Latest release in the app store">Updated 2015-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">PLEASE NOTE: I no longer have a Z-Way system, I cannot verify whether this app still works. If you have one and want to take over maintenance, please reach out. --- New in 1.2: Fixed compatibility…</p>
 </div>
@@ -58,10 +58,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/564cdd04435b21d2ec000020" data-search-exclude><img src="../images/apps/564cdd04435b21d2ec000020.png" alt="ZWay Time" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-564cdd04435b21d2ec000020"><a href="https://apps.repebble.com/564cdd04435b21d2ec000020">ZWay Time</a></h2>
+<h2 class="app-name" id="app-564cdd04435b21d2ec000020"><a href="https://apps.repebble.com/564cdd04435b21d2ec000020">ZWay Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/sionyx/pebble_zway_time" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/sionyx_55f7e56e913b98cdf200004f" title="More from this developer">sionyx</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-01-28</span></div>
+<div class="app-dev">by <a href="../developers/sionyx.html" title="More from this developer">sionyx</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-18</span> <span title="Latest release in the app store">Updated 2016-01-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">ZWay Time application allows you to control your RaZberry based smart home. It supports controls: - on-off switches; - dimmers; - RGB switches; and sensors: - motion; - humidity; - light; …</p>
 </div>

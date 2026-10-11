@@ -8,16 +8,16 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*34 watchfaces · Last updated 2026-10-06 · [About these lists](../about-app-lists.md)*
+*35 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/68361a83a9c183000a8f714a" data-search-exclude><img src="../images/apps/68361a83a9c183000a8f714a.png" alt="Kagi Doggo" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-68361a83a9c183000a8f714a"><a href="https://apps.rebble.io/en_US/application/68361a83a9c183000a8f714a">Kagi Doggo</a></h2>
+<h2 class="app-name" id="app-68361a83a9c183000a8f714a"><a href="https://apps.rebble.io/en_US/application/68361a83a9c183000a8f714a">Kagi Doggo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/CometDog/pebble-kagi-doggo" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5308eabf92c45e5f39000503/1" title="More from this developer">James Downs</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.4</span> <span title="Latest release in the app store">Updated 2025-11-05</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/james-downs.html" title="More from this developer">James Downs</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-05-27</span> <span title="Latest release in the app store">Updated 2025-11-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Displays the time with the Kagi Doggo&#x27;s toes as the hour hand chasing the ball as the minute hand. Please note, I am not affiliated with Kagi, I am just a user. More information about Kagi can be…</p>
 </div>
@@ -25,10 +25,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6b19f2170a6b45c288df46af" data-search-exclude><img src="../images/apps/6b19f2170a6b45c288df46af.png" alt="Kaleido" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6b19f2170a6b45c288df46af"><a href="https://apps.repebble.com/6b19f2170a6b45c288df46af">Kaleido</a></h2>
+<h2 class="app-name" id="app-6b19f2170a6b45c288df46af"><a href="https://apps.repebble.com/6b19f2170a6b45c288df46af">Kaleido</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/bastooky/kaleido" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/bastooky_3b951b20cb4bdb2b556ec7f1" title="More from this developer">bastooky</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
+<div class="app-dev">by <a href="../developers/bastooky.html" title="More from this developer">bastooky</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A kaleidoscope for your wrist. The whole screen is a flowing mosaic driven by Perlin-style noise, with giant digits woven directly into the grid. A new pattern blooms every minute — and every time…</p>
 </div>
@@ -36,21 +36,32 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55948917327b5a1a0d0000a0" data-search-exclude><img src="../images/apps/55948917327b5a1a0d0000a0.png" alt="Kamots Time" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55948917327b5a1a0d0000a0"><a href="https://apps.repebble.com/55948917327b5a1a0d0000a0">Kamots Time</a></h2>
+<h2 class="app-name" id="app-55948917327b5a1a0d0000a0"><a href="https://apps.repebble.com/55948917327b5a1a0d0000a0">Kamots Time</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0</span></h2>
 <a class="app-source" href="http://github.com/theforest/Kamots-Time" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kamotswind_55754e7a315505af78000003" title="More from this developer">kamotswind</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="Latest version">v4.0</span> <span title="Latest release in the app store">Updated 2016-04-03</span></div>
+<div class="app-dev">by <a href="../developers/kamotswind.html" title="More from this developer">kamotswind</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-07-02</span> <span title="Latest release in the app store">Updated 2016-04-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a simple low battery utilization watchface with fully customizable colors, battery monitoring and toggle-able Bluetooth status display among other options. Also has a toggle-able weather…</p>
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/72d449bfbbf145b7a2d163d4" data-search-exclude><img src="../images/apps/72d449bfbbf145b7a2d163d4.png" alt="Kanji watch" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-72d449bfbbf145b7a2d163d4"><a href="https://apps.repebble.com/72d449bfbbf145b7a2d163d4">Kanji watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/jonavano/Pebble-Kanji-watch-face" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/jonavano.html" title="More from this developer">Jonavano</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">This is a simple Japanese watch face with Kanji It is was made for the Time 2 but does work on the round. This was made with claude</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/ed9c321605604b67b54d621a" data-search-exclude><img src="../images/apps/ed9c321605604b67b54d621a.png" alt="Kasane Teto Analog Baguette" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ed9c321605604b67b54d621a"><a href="https://apps.repebble.com/ed9c321605604b67b54d621a">Kasane Teto Analog Baguette</a></h2>
+<h2 class="app-name" id="app-ed9c321605604b67b54d621a"><a href="https://apps.repebble.com/ed9c321605604b67b54d621a">Kasane Teto Analog Baguette</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/chriseilander/TetoAnalogBaguette" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chris-eilander-nl_546da3e6e2a84b10b200006a" title="More from this developer">Chris Eilander.nl</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
+<div class="app-dev">by <a href="../developers/chris-eilander-nl.html" title="More from this developer">Chris Eilander.nl</a> · <a href="https://forum.rebble.io/t/1221" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-09</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A Kasane Teto watchface featuring her favorite food as minute and hour hands. Perfect for round screens. This watchface might be a bit heavy on the RAM side.</p>
 </div>
@@ -58,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/589a81211985caf4dd0002b7" data-search-exclude><img src="../images/apps/589a81211985caf4dd0002b7.png" alt="Kaven" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-589a81211985caf4dd0002b7"><a href="https://apps.repebble.com/589a81211985caf4dd0002b7">Kaven</a></h2>
+<h2 class="app-name" id="app-589a81211985caf4dd0002b7"><a href="https://apps.repebble.com/589a81211985caf4dd0002b7">Kaven</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Kaven" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/the-resetter_5415133bbcd1cf9264000081" title="More from this developer">The Resetter</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.7</span> <span title="Latest release in the app store">Updated 2017-02-13</span></div>
+<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-02-08</span> <span title="Latest release in the app store">Updated 2017-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Watchface to teach my son to tell time. &quot;Prelude&quot; typeface is from Palm webOS.</p>
 </div>
@@ -69,10 +80,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54932ab374e207c3a9000112" data-search-exclude><img src="../images/apps/54932ab374e207c3a9000112.png" alt="Kearsarge Time" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54932ab374e207c3a9000112"><a href="https://apps.repebble.com/54932ab374e207c3a9000112">Kearsarge Time</a></h2>
+<h2 class="app-name" id="app-54932ab374e207c3a9000112"><a href="https://apps.repebble.com/54932ab374e207c3a9000112">Kearsarge Time</a> <span class="app-version" title="Latest version" data-search-exclude>v3.5</span></h2>
 <a class="app-source" href="https://github.com/cmspooner/krhs-time" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/spooner_5337603457418e3bd60000d6" title="More from this developer">Spooner</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.5</span> <span title="Latest release in the app store">Updated 2016-09-14</span></div>
+<div class="app-dev">by <a href="../developers/spooner.html" title="More from this developer">Spooner</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-18</span> <span title="Latest release in the app store">Updated 2016-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface that displays the current period at Kearsarge Regional High School in color.</p>
 </div>
@@ -80,10 +91,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/568aeef96c44e7df0f00000c" data-search-exclude><img src="../images/apps/568aeef96c44e7df0f00000c.png" alt="Keep An Eye" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-568aeef96c44e7df0f00000c"><a href="https://apps.repebble.com/568aeef96c44e7df0f00000c">Keep An Eye</a></h2>
+<h2 class="app-name" id="app-568aeef96c44e7df0f00000c"><a href="https://apps.repebble.com/568aeef96c44e7df0f00000c">Keep An Eye</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/Mobilpadde/Keep-An-Eye" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mobilpadde_531b31bd2a95cc1a1b00045c" title="More from this developer">Mobilpadde</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v0.5</span> <span title="Latest release in the app store">Updated 2016-02-23</span></div>
+<div class="app-dev">by <a href="../developers/mobilpadde.html" title="More from this developer">Mobilpadde</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2016-02-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Keep an eye on the time. The black part of the eye is the hours and the white shine in the cornea is the minutes.</p>
 </div>
@@ -91,10 +102,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f732c3f3661048c0916600af" data-search-exclude><img src="../images/apps/f732c3f3661048c0916600af.png" alt="Keep it Green" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f732c3f3661048c0916600af"><a href="https://apps.repebble.com/f732c3f3661048c0916600af">Keep it Green</a></h2>
+<h2 class="app-name" id="app-f732c3f3661048c0916600af"><a href="https://apps.repebble.com/f732c3f3661048c0916600af">Keep it Green</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/art-coded/pebble-keepitgreen" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/artcoded_2e1c2aef27997fd7e0a7b956" title="More from this developer">_ArtCoded</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="Latest version">v1.0.2</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
+<div class="app-dev">by <a href="../developers/artcoded.html" title="More from this developer">_ArtCoded</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Keep it Green is digital/analogic watchface giving you hour and date. Keep control on your daily steps target as well as your heart rate. Setting page let you (de)activate both monitors and…</p>
 </div>
@@ -102,10 +113,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/575c35e2e9dd76b280000018" data-search-exclude><img src="../images/apps/575c35e2e9dd76b280000018.png" alt="Kemo" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-575c35e2e9dd76b280000018"><a href="https://apps.repebble.com/575c35e2e9dd76b280000018">Kemo</a></h2>
+<h2 class="app-name" id="app-575c35e2e9dd76b280000018"><a href="https://apps.repebble.com/575c35e2e9dd76b280000018">Kemo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/Kamalheib/KemoPebbleFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kamal-heib_5692b419363e8dbfb4000067" title="More from this developer">Kamal heib</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
+<div class="app-dev">by <a href="../developers/kamal-heib.html" title="More from this developer">Kamal heib</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-11</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Kemo Watchface</p>
 </div>
@@ -113,10 +124,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/637aa7cbc6c24a000a815ea4" data-search-exclude><img src="../images/apps/637aa7cbc6c24a000a815ea4.gif" alt="KemoPebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-637aa7cbc6c24a000a815ea4"><a href="https://apps.repebble.com/637aa7cbc6c24a000a815ea4">KemoPebble</a></h2>
+<h2 class="app-name" id="app-637aa7cbc6c24a000a815ea4"><a href="https://apps.repebble.com/637aa7cbc6c24a000a815ea4">KemoPebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/COZMIKDX/KemoPebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/cosmictacocat_5f6e8a1b51c0ff9f8ecc2504" title="More from this developer">CosmicTacoCat</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2022-11-20</span></div>
+<div class="app-dev">by <a href="../developers/cosmictacocat.html" title="More from this developer">CosmicTacoCat</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2022-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A fluffy watchface. Still a work in progress. It will eventually change the animal displayed every hour. Currently only for Pebble Time. I&#x27;ll work on a monochrome version once this one is done.</p>
 </div>
@@ -124,10 +135,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/a4d962baee314d20819879fe" data-search-exclude><img src="../images/apps/a4d962baee314d20819879fe.png" alt="Kevinimal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a4d962baee314d20819879fe"><a href="https://apps.repebble.com/a4d962baee314d20819879fe">Kevinimal</a></h2>
+<h2 class="app-name" id="app-a4d962baee314d20819879fe"><a href="https://apps.repebble.com/a4d962baee314d20819879fe">Kevinimal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/dhrme/pebble-apps/tree/main/kevinimal" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/dhrme_069a96fda19388b2bd028bfa" title="More from this developer">dhrme</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1.0</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
+<div class="app-dev">by <a href="../developers/dhrme.html" title="More from this developer">dhrme</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A stripped-back watchface for Pebble Time 2. The time floats large in the centre; everything else tucks into a corner — day + DD/MM top-left, a three-block battery gauge top-right, chance-of-rain…</p>
 </div>
@@ -135,10 +146,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5a36b58b461a8dfe42001479" data-search-exclude><img src="../images/apps/5a36b58b461a8dfe42001479.png" alt="kface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5a36b58b461a8dfe42001479"><a href="https://apps.rebble.io/en_US/application/5a36b58b461a8dfe42001479">kface</a></h2>
+<h2 class="app-name" id="app-5a36b58b461a8dfe42001479"><a href="https://apps.rebble.io/en_US/application/5a36b58b461a8dfe42001479">kface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/koredev/kface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5a31b9ec0dfc32dba00012da/1" title="More from this developer">James Woo</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2017-12-17</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/james-woo.html" title="More from this developer">James Woo</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-12-17</span> <span title="Latest release in the app store">Updated 2017-12-17</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Get time, date, weather, battery, and step information</p>
 </div>
@@ -146,10 +157,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/da0dc9441cf34e9dba801da6" data-search-exclude><img src="../images/apps/da0dc9441cf34e9dba801da6.png" alt="kface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-da0dc9441cf34e9dba801da6"><a href="https://apps.repebble.com/da0dc9441cf34e9dba801da6">kface</a></h2>
+<h2 class="app-name" id="app-da0dc9441cf34e9dba801da6"><a href="https://apps.repebble.com/da0dc9441cf34e9dba801da6">kface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/kooscode/kface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kpebble_4fb2188be2d93da972cfc9ae" title="More from this developer">kPebble</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.2</span> <span title="Latest release in the app store">Updated 2026-08-28</span></div>
+<div class="app-dev">by <a href="../developers/kpebble.html" title="More from this developer">kPebble</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-08-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">kface — A clean, minimal watchface for Pebble Time 2. Time and date up top, a battery meter, live weather (temp, condition, and city — pulled via your phone&#x27;s location and Open-Meteo), your heart…</p>
 </div>
@@ -157,10 +168,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5831abcb8c7fff66e10000c9" data-search-exclude><img src="../images/apps/5831abcb8c7fff66e10000c9.png" alt="Kiddie" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5831abcb8c7fff66e10000c9"><a href="https://apps.repebble.com/5831abcb8c7fff66e10000c9">Kiddie</a></h2>
+<h2 class="app-name" id="app-5831abcb8c7fff66e10000c9"><a href="https://apps.repebble.com/5831abcb8c7fff66e10000c9">Kiddie</a> <span class="app-version" title="Latest version" data-search-exclude>v1.28</span></h2>
 <a class="app-source" href="https://github.com/GreenHex/Pebble.Woozy" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/the-resetter_5415133bbcd1cf9264000081" title="More from this developer">The Resetter</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.28</span> <span title="Latest release in the app store">Updated 2017-02-13</span></div>
+<div class="app-dev">by <a href="../developers/the-resetter-330026.html" title="More from this developer">The Resetter</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-11-20</span> <span title="Latest release in the app store">Updated 2017-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Don&#x27;t take your eyes off the kids! Now with day and date display.</p>
 </div>
@@ -168,10 +179,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7f9c89453f7548e1ac494236" data-search-exclude><img src="../images/apps/7f9c89453f7548e1ac494236.png" alt="KinetiCast" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a></h2>
+<h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.1</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Pebble_Health_and_Weather" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/eric-mccormick_7c70eafc41fc666a529a8f07" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.2.1</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
+<div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Current weather on top (high/low temp, current condition, current temp), date and time in the middle, health data(heart rate, steps, calories) on the bottom</p>
 </div>
@@ -179,10 +190,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7" data-search-exclude><img src="../images/apps/7a9d24751b8a49319ec1f6e7.png" alt="Kingfisher" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a></h2>
+<h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/pebble-watchface-digilog" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/justinjhendrick_67f68b8a23b7a90009c87db5" title="More from this developer">justinjhendrick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Kingfisher is a colorful digital watchface with the sun moving through the day, night, and twilight arcs. Features: * Great battery life * Uses phone location for sunrise/sunset with a fallback to…</p>
 </div>
@@ -190,10 +201,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/68a395ae8722670009a23809" data-search-exclude><img src="../images/apps/68a395ae8722670009a23809.png" alt="Kirby" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-68a395ae8722670009a23809"><a href="https://apps.repebble.com/68a395ae8722670009a23809">Kirby</a></h2>
+<h2 class="app-name" id="app-68a395ae8722670009a23809"><a href="https://apps.repebble.com/68a395ae8722670009a23809">Kirby</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11.0</span></h2>
 <a class="app-source" href="https://github.com/Ongion/KirbyWatchface/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/ongion_68812a0735f0cc0009d17723" title="More from this developer">Ongion</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.11.0</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
+<div class="app-dev">by <a href="../developers/ongion.html" title="More from this developer">Ongion</a> · <a href="https://forum.rebble.io/t/365" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-08-18</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">He&#x27;s small, he&#x27;s pink, he&#x27;s shaped like a friend, and now he&#x27;s on your Pebble! It&#x27;s Kirby! Features - Animations - Kirby has 9+ animations! He changes abilities each hour, and animates when you…</p>
 </div>
@@ -201,10 +212,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5482ee118f806fbe68000055" data-search-exclude><img src="../images/apps/5482ee118f806fbe68000055.png" alt="Kirby Black" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5482ee118f806fbe68000055"><a href="https://apps.repebble.com/5482ee118f806fbe68000055">Kirby Black</a></h2>
+<h2 class="app-name" id="app-5482ee118f806fbe68000055"><a href="https://apps.repebble.com/5482ee118f806fbe68000055">Kirby Black</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/metakirby5_54821dc0f9821f8829000017" title="More from this developer">metakirby5</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
+<div class="app-dev">by <a href="../developers/metakirby5.html" title="More from this developer">metakirby5</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My first watchface! When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage…</p>
 </div>
@@ -212,10 +223,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5482f502571fcff35400005f" data-search-exclude><img src="../images/apps/5482f502571fcff35400005f.png" alt="Kirby Day/Night" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5482f502571fcff35400005f"><a href="https://apps.repebble.com/5482f502571fcff35400005f">Kirby Day/Night</a></h2>
+<h2 class="app-name" id="app-5482f502571fcff35400005f"><a href="https://apps.repebble.com/5482f502571fcff35400005f">Kirby Day/Night</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby-daynight" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/metakirby5_54821dc0f9821f8829000017" title="More from this developer">metakirby5</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.7</span> <span title="Latest release in the app store">Updated 2014-12-08</span></div>
+<div class="app-dev">by <a href="../developers/metakirby5.html" title="More from this developer">metakirby5</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage to that :) FEATURES…</p>
 </div>
@@ -223,10 +234,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/571abdc769f1bd2fac000013" data-search-exclude><img src="../images/apps/571abdc769f1bd2fac000013.png" alt="Kirby GT" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-571abdc769f1bd2fac000013"><a href="https://apps.repebble.com/571abdc769f1bd2fac000013">Kirby GT</a></h2>
+<h2 class="app-name" id="app-571abdc769f1bd2fac000013"><a href="https://apps.repebble.com/571abdc769f1bd2fac000013">Kirby GT</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/WinterWinter/KirbyGT" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/game-time_53b317a44f927e319f0000ae" title="More from this developer">Game Time</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2016-06-10</span></div>
+<div class="app-dev">by <a href="../developers/game-time.html" title="More from this developer">Game Time</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-23</span> <span title="Latest release in the app store">Updated 2016-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">The pink ball of fun has made it to the Pebble smartwatch! Based on the GBA title Kirby Nightmare in Dreamland. Features --Animated Kirby-- 6 Animations, Randomly selected and plays each hour…</p>
 </div>
@@ -234,10 +245,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5482eca6571fcf3114000051" data-search-exclude><img src="../images/apps/5482eca6571fcf3114000051.png" alt="Kirby White" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5482eca6571fcf3114000051"><a href="https://apps.repebble.com/5482eca6571fcf3114000051">Kirby White</a></h2>
+<h2 class="app-name" id="app-5482eca6571fcf3114000051"><a href="https://apps.repebble.com/5482eca6571fcf3114000051">Kirby White</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/metakirby5_54821dc0f9821f8829000017" title="More from this developer">metakirby5</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
+<div class="app-dev">by <a href="../developers/metakirby5.html" title="More from this developer">metakirby5</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My first watchface! When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage…</p>
 </div>
@@ -245,10 +256,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/549ce6991580e3d8cd000106" data-search-exclude><img src="../images/apps/549ce6991580e3d8cd000106.png" alt="Kitsune Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-549ce6991580e3d8cd000106"><a href="https://apps.repebble.com/549ce6991580e3d8cd000106">Kitsune Clock</a></h2>
+<h2 class="app-name" id="app-549ce6991580e3d8cd000106"><a href="https://apps.repebble.com/549ce6991580e3d8cd000106">Kitsune Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/KitsuneGaming/KitsuneFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kitsune-gaming_549c8afa05447249780008c6" title="More from this developer">Kitsune Gaming</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.0</span> <span title="Latest release in the app store">Updated 2014-12-26</span></div>
+<div class="app-dev">by <a href="../developers/kitsune-gaming.html" title="More from this developer">Kitsune Gaming</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-26</span> <span title="Latest release in the app store">Updated 2014-12-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface that has a kitsune (fox) as a background. The current time becomes the eyes.</p>
 </div>
@@ -256,10 +267,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5378ea1fa43479b74f0001d8" data-search-exclude><img src="../images/apps/5378ea1fa43479b74f0001d8.png" alt="Klingon Q&#x27;onoS Chrono" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5378ea1fa43479b74f0001d8"><a href="https://apps.repebble.com/5378ea1fa43479b74f0001d8">Klingon Q&#x27;onoS Chrono</a></h2>
+<h2 class="app-name" id="app-5378ea1fa43479b74f0001d8"><a href="https://apps.repebble.com/5378ea1fa43479b74f0001d8">Klingon Q&#x27;onoS Chrono</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/dwinker/pebble-klingon" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/dan-winker_533190ca42aca092d0000075" title="More from this developer">Dan Winker</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2014-05-18</span></div>
+<div class="app-dev">by <a href="../developers/dan-winker.html" title="More from this developer">Dan Winker</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-18</span> <span title="Latest release in the app store">Updated 2014-05-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface used on Q&#x27;onoS (Kronos), the Klingon home world. This watchface is 24 hour format because there would be no honor in using 12 hour format.</p>
 </div>
@@ -267,10 +278,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/536cd1d83b79b3800e0001de" data-search-exclude><img src="../images/apps/536cd1d83b79b3800e0001de.png" alt="KlK" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-536cd1d83b79b3800e0001de"><a href="https://apps.repebble.com/536cd1d83b79b3800e0001de">KlK</a></h2>
+<h2 class="app-name" id="app-536cd1d83b79b3800e0001de"><a href="https://apps.repebble.com/536cd1d83b79b3800e0001de">KlK</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/exe44/pebble-klk" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/exe_5299a4c8e627ce050d000068" title="More from this developer">exe</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.0</span> <span title="Latest release in the app store">Updated 2016-04-11</span></div>
+<div class="app-dev">by <a href="../developers/exe.html" title="More from this developer">exe</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-09</span> <span title="Latest release in the app store">Updated 2016-04-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by the insane anime &quot;KILL la KILL&quot;!</p>
 </div>
@@ -278,10 +289,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5a183f5a0dfc323bd000344e" data-search-exclude><img src="../images/apps/5a183f5a0dfc323bd000344e.png" alt="KnightsFace" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5a183f5a0dfc323bd000344e"><a href="https://apps.rebble.io/en_US/application/5a183f5a0dfc323bd000344e">KnightsFace</a></h2>
+<h2 class="app-name" id="app-5a183f5a0dfc323bd000344e"><a href="https://apps.rebble.io/en_US/application/5a183f5a0dfc323bd000344e">KnightsFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/KnightsFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/55e827430a081ae5f9000009/1" title="More from this developer">Thomas Stoeckert</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2017-11-26</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/thomas-stoeckert.html" title="More from this developer">Thomas Stoeckert</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-11-24</span> <span title="Latest release in the app store">Updated 2017-11-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Show your Knight Pride with this watchface, with both analog and digital time display. It also has several different icons to fit your mood.</p>
 </div>
@@ -289,10 +300,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/0b8f41cdbba6456298c9821a" data-search-exclude><img src="../images/apps/0b8f41cdbba6456298c9821a.png" alt="Kode Dot" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-0b8f41cdbba6456298c9821a"><a href="https://apps.repebble.com/0b8f41cdbba6456298c9821a">Kode Dot</a></h2>
+<h2 class="app-name" id="app-0b8f41cdbba6456298c9821a"><a href="https://apps.repebble.com/0b8f41cdbba6456298c9821a">Kode Dot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/dnnsmnstrr/kode-dot-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/dennis-muensterer_53cc9927fd8ebf394ae021ca" title="More from this developer">Dennis Muensterer</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
+<div class="app-dev">by <a href="../developers/dennis-muensterer.html" title="More from this developer">Dennis Muensterer</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-15</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Wear the new mascot for Kode Dot on your wrist while waiting for the actual device</p>
 </div>
@@ -300,10 +311,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53b322fce3dd45a937000096" data-search-exclude><img src="../images/apps/53b322fce3dd45a937000096.png" alt="Koee watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53b322fce3dd45a937000096"><a href="https://apps.repebble.com/53b322fce3dd45a937000096">Koee watch</a></h2>
+<h2 class="app-name" id="app-53b322fce3dd45a937000096"><a href="https://apps.repebble.com/53b322fce3dd45a937000096">Koee watch</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="http://andesapp.com/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/allgreenup_53b320a2977c65a22100002f" title="More from this developer">allGreenup</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">See source</span> <span title="Latest version">v3.0</span> <span title="Latest release in the app store">Updated 2014-07-01</span></div>
+<div class="app-dev">by <a href="../developers/allgreenup.html" title="More from this developer">allGreenup</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-07-01</span> <span title="Latest release in the app store">Updated 2014-07-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Koee watch is real!! Join us and save the planet with Koee!! www.allgreenup.com</p>
 </div>
@@ -311,10 +322,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/82b2092b5bbd4cc89f5642d0" data-search-exclude><img src="../images/apps/82b2092b5bbd4cc89f5642d0.png" alt="Kona Wave" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-82b2092b5bbd4cc89f5642d0"><a href="https://apps.repebble.com/82b2092b5bbd4cc89f5642d0">Kona Wave</a></h2>
+<h2 class="app-name" id="app-82b2092b5bbd4cc89f5642d0"><a href="https://apps.repebble.com/82b2092b5bbd4cc89f5642d0">Kona Wave</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/HarrisonAllen/kona-wave-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/harrison-allen_5e28ea923dd3109f151c7e08" title="More from this developer">Harrison Allen</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
+<div class="app-dev">by <a href="../developers/harrison-allen.html" title="More from this developer">Harrison Allen</a> · <a href="https://forum.rebble.io/t/826" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watchface to match some of my real-world accessories!</p>
 </div>
@@ -322,10 +333,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56267426c7810a62a100007d" data-search-exclude><img src="../images/apps/56267426c7810a62a100007d.png" alt="Korean Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56267426c7810a62a100007d"><a href="https://apps.repebble.com/56267426c7810a62a100007d">Korean Watchface</a></h2>
+<h2 class="app-name" id="app-56267426c7810a62a100007d"><a href="https://apps.repebble.com/56267426c7810a62a100007d">Korean Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/Dawenster/korean_watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/david-wen_538caa144a22b572c30000b3" title="More from this developer">David Wen</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-08-05</span></div>
+<div class="app-dev">by <a href="../developers/david-wen.html" title="More from this developer">David Wen</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-20</span> <span title="Latest release in the app store">Updated 2016-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Korean watchface on a dark background. Hour, minutes, day of week, month, and day of month. Time in bold. Useful for learning Korean or just telling the time in Korean!</p>
 </div>
@@ -333,10 +344,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56bd18ce54c35f9107000039" data-search-exclude><img src="../images/apps/56bd18ce54c35f9107000039.png" alt="krangface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56bd18ce54c35f9107000039"><a href="https://apps.repebble.com/56bd18ce54c35f9107000039">krangface</a></h2>
+<h2 class="app-name" id="app-56bd18ce54c35f9107000039"><a href="https://apps.repebble.com/56bd18ce54c35f9107000039">krangface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/j2ko/pebble-krangface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/j2ko_560aceb97756380b2500004e" title="More from this developer">j2ko</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-02-11</span></div>
+<div class="app-dev">by <a href="../developers/j2ko.html" title="More from this developer">j2ko</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-11</span> <span title="Latest release in the app store">Updated 2016-02-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple and unique watchface. Hold evil mind on your wrist.</p>
 </div>
@@ -344,10 +355,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55835eac2f3e32222b00002c" data-search-exclude><img src="../images/apps/55835eac2f3e32222b00002c.png" alt="KS moded" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55835eac2f3e32222b00002c"><a href="https://apps.repebble.com/55835eac2f3e32222b00002c">KS moded</a></h2>
+<h2 class="app-name" id="app-55835eac2f3e32222b00002c"><a href="https://apps.repebble.com/55835eac2f3e32222b00002c">KS moded</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mephissto/ks-clock-face/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mephissto_5362a57dc2a5e4f05c000021" title="More from this developer">mephissto</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2016-01-27</span></div>
+<div class="app-dev">by <a href="../developers/mephissto.html" title="More from this developer">mephissto</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-19</span> <span title="Latest release in the app store">Updated 2016-01-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple watchface based on KS Original</p>
 </div>
@@ -355,10 +366,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55b40c2bdeeaa32565000093" data-search-exclude><img src="../images/apps/55b40c2bdeeaa32565000093.png" alt="Kurisu" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55b40c2bdeeaa32565000093"><a href="https://apps.repebble.com/55b40c2bdeeaa32565000093">Kurisu</a></h2>
+<h2 class="app-name" id="app-55b40c2bdeeaa32565000093"><a href="https://apps.repebble.com/55b40c2bdeeaa32565000093">Kurisu</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://gitlab.com/Remon/kurisu_watch_face" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/remon_54e61de68948118a4d00008e" title="More from this developer">Remon</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-07-25</span></div>
+<div class="app-dev">by <a href="../developers/remon.html" title="More from this developer">Remon</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-25</span> <span title="Latest release in the app store">Updated 2015-07-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A Kurisu watchface This is a first attempt watchface.</p>
 </div>
@@ -366,10 +377,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4151feede8864a94905355d0" data-search-exclude><img src="../images/apps/4151feede8864a94905355d0.png" alt="kurz vor acht" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4151feede8864a94905355d0"><a href="https://apps.repebble.com/4151feede8864a94905355d0">kurz vor acht</a></h2>
+<h2 class="app-name" id="app-4151feede8864a94905355d0"><a href="https://apps.repebble.com/4151feede8864a94905355d0">kurz vor acht</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.4</span></h2>
 <a class="app-source" href="https://github.com/MalteJoe/kurz-vor-acht" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/maltejoe_d48f29c9da8eaa6ce25e2f89" title="More from this developer">MalteJoe</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v4.0.4</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
+<div class="app-dev">by <a href="../developers/maltejoe.html" title="More from this developer">MalteJoe</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-20</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is is a watchface for the Pebble smartwatch that shows the current time in German. Based on the watchface for the original pebbles n3v3erstextone/Deutsch. The time is shown in colloquial…</p>
 </div>
@@ -377,10 +388,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/554960c92cfbfca8a20000eb" data-search-exclude><img src="../images/apps/554960c92cfbfca8a20000eb.png" alt="Kyokusen JS" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-554960c92cfbfca8a20000eb"><a href="https://apps.repebble.com/554960c92cfbfca8a20000eb">Kyokusen JS</a></h2>
+<h2 class="app-name" id="app-554960c92cfbfca8a20000eb"><a href="https://apps.repebble.com/554960c92cfbfca8a20000eb">Kyokusen JS</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/leovander/Kyokusen-JS" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/leovander_54ef9c482e6a47d04c0000d3" title="More from this developer">leovander</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.1</span> <span title="Latest release in the app store">Updated 2015-05-06</span></div>
+<div class="app-dev">by <a href="../developers/leovander.html" title="More from this developer">leovander</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface inspired by Tokyoflash Japan&#x27;s Kyokusen Watch. Be wary, made with PebbleJS not knowing C is preferred. May fail after awhile but you can refresh the face.</p>
 </div>

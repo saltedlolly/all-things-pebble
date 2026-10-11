@@ -13,4 +13,5 @@ Something missing? Please add it by making a PR!
 - [Hardware](hardware.md) - Smartstraps, 3D prints and other hardware resources.
 - [Community](community.md) - Forums, companion apps, translation, education and news.
 - [Pebble Watchfaces](watchfaces.md) and [Pebble Apps](watchapps.md) - Directories of open source watchfaces and apps.
+- [Pebble Developers](developers.md) - The developers behind them, each with a page of everything they've made.
 - [Pebble Technology Corporation](pebble-technology.md) - The original Pebble company: history, archives, repairs and the original watches.

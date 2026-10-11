@@ -8,16 +8,16 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · **L** · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*45 apps · Last updated 2026-10-06 · [About these lists](../about-app-lists.md)*
+*46 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/c169b123e06b4b5a91ae492d" data-search-exclude><span class="app-noshot">No screenshot</span></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c169b123e06b4b5a91ae492d"><a href="https://apps.repebble.com/c169b123e06b4b5a91ae492d">Lagree Timer</a></h2>
+<h2 class="app-name" id="app-c169b123e06b4b5a91ae492d"><a href="https://apps.repebble.com/c169b123e06b4b5a91ae492d">Lagree Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
 <a class="app-source" href="https://github.com/citrusbolt/lagree_timer" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/citrus-bolt_a814b2dc3ba13e4b1192abf8" title="More from this developer">Citrus Bolt</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.5</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-dev">by <a href="../developers/citrus-bolt.html" title="More from this developer">Citrus Bolt</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-10</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Timer for running a Lagree class. Class duration is 45 minutes. Short click of UP triggers a 1 minute move timer. Short click of SELECT triggers a 1.5 minute move timer. Short click of DOWN…</p>
 </div>
@@ -25,10 +25,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5324a390d7d0f23827000184" data-search-exclude><img src="../images/apps/5324a390d7d0f23827000184.png" alt="Langton&#x27;s Anthill" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5324a390d7d0f23827000184"><a href="https://apps.repebble.com/5324a390d7d0f23827000184">Langton&#x27;s Anthill</a></h2>
+<h2 class="app-name" id="app-5324a390d7d0f23827000184"><a href="https://apps.repebble.com/5324a390d7d0f23827000184">Langton&#x27;s Anthill</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jerith/pebble-langtons-anthill" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/jerith_52ba9deb6437d1df62000055" title="More from this developer">jerith</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2014-03-16</span></div>
+<div class="app-dev">by <a href="../developers/jerith.html" title="More from this developer">jerith</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-15</span> <span title="Latest release in the app store">Updated 2014-03-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Langton&#x27;s ant is a two-dimensional Turing machine with a very simple set of rules but complicated emergent behaviour. Langton&#x27;s Anthill simulates one or more ants on a toroidal Pebble-sized field.</p>
 </div>
@@ -36,10 +36,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/576e0cf5ba2fe50eb0000018" data-search-exclude><img src="../images/apps/576e0cf5ba2fe50eb0000018.png" alt="Lap counter" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-576e0cf5ba2fe50eb0000018"><a href="https://apps.repebble.com/576e0cf5ba2fe50eb0000018">Lap counter</a></h2>
+<h2 class="app-name" id="app-576e0cf5ba2fe50eb0000018"><a href="https://apps.repebble.com/576e0cf5ba2fe50eb0000018">Lap counter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/qwqert/Pebble_apps" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/qwqert_563040ae4cb14285e0000029" title="More from this developer">qwqert</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-06-25</span></div>
+<div class="app-dev">by <a href="../developers/qwqert.html" title="More from this developer">qwqert</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple lap counter for runner or swimmer.</p>
 </div>
@@ -47,10 +47,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6d6aa01b7ecb4cfea469a183" data-search-exclude><img src="../images/apps/6d6aa01b7ecb4cfea469a183.png" alt="Lapin Futé" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6d6aa01b7ecb4cfea469a183"><a href="https://apps.repebble.com/6d6aa01b7ecb4cfea469a183">Lapin Futé</a></h2>
+<h2 class="app-name" id="app-6d6aa01b7ecb4cfea469a183"><a href="https://apps.repebble.com/6d6aa01b7ecb4cfea469a183">Lapin Futé</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.4</span></h2>
 <a class="app-source" href="https://github.com/Anthodev/lapin-fute" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/anthodev_80b2b96681175b0fd3ddfe88" title="More from this developer">Anthodev</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.2.1</span> <span title="Latest release in the app store">Updated 2026-09-20</span></div>
+<div class="app-dev">by <a href="../developers/anthodev.html" title="More from this developer">Anthodev</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Lapin Futé brings the next Île-de-France public transport arrivals to your Pebble. Save up to six favorite journeys across Métro, RER, Transilien, tram and bus services. Choose your departure…</p>
 </div>
@@ -58,10 +58,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/69ab4a4c2f77690009cb2a0e" data-search-exclude><img src="../images/apps/69ab4a4c2f77690009cb2a0e.png" alt="Last Corridor" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69ab4a4c2f77690009cb2a0e"><a href="https://apps.repebble.com/69ab4a4c2f77690009cb2a0e">Last Corridor</a></h2>
+<h2 class="app-name" id="app-69ab4a4c2f77690009cb2a0e"><a href="https://apps.repebble.com/69ab4a4c2f77690009cb2a0e">Last Corridor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/Sichroteph/Last-Corridor" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/christophe-jeannette_54edf0599e4ff7cbf60000a0" title="More from this developer">Christophe Jeannette</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2026-03-06</span></div>
+<div class="app-dev">by <a href="../developers/christophe-jeannette.html" title="More from this developer">Christophe Jeannette</a> · <a href="https://forum.rebble.io/t/749" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-06</span> <span title="Latest release in the app store">Updated 2026-03-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">You&#x27;re trapped in a hostile facility overrun by alien creatures. Move through the corridors, find and shoot every enemy before they reach you. Survive long enough to clear the level. Controls: up…</p>
 </div>
@@ -69,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52cb3fbf45ffdd11e6000090" data-search-exclude><img src="../images/apps/52cb3fbf45ffdd11e6000090.png" alt="Last Tube London" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52cb3fbf45ffdd11e6000090"><a href="https://apps.repebble.com/52cb3fbf45ffdd11e6000090">Last Tube London</a></h2>
+<h2 class="app-name" id="app-52cb3fbf45ffdd11e6000090"><a href="https://apps.repebble.com/52cb3fbf45ffdd11e6000090">Last Tube London</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/mattmb/pebble-last-tube" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mattmb_52b86238200b9b1de200002d" title="More from this developer">mattmb</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2014-01-18</span></div>
+<div class="app-dev">by <a href="../developers/mattmb.html" title="More from this developer">mattmb</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-06</span> <span title="Latest release in the app store">Updated 2014-01-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app finds the last tube at nearby stations in London. It finds the three nearest stations and then finds the last tubes on all lines. Disclaimers: This app is not endorsed by TfL although it…</p>
 </div>
@@ -80,21 +80,32 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54307b17ec1644c4d2000007" data-search-exclude><img src="../images/apps/54307b17ec1644c4d2000007.png" alt="LaTC Remote" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54307b17ec1644c4d2000007"><a href="https://apps.repebble.com/54307b17ec1644c4d2000007">LaTC Remote</a></h2>
+<h2 class="app-name" id="app-54307b17ec1644c4d2000007"><a href="https://apps.repebble.com/54307b17ec1644c4d2000007">LaTC Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/fingalo/LaTC-Remote.git" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/fingalo_538888906ef2f2762300012b" title="More from this developer">Fingalo</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.0</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
+<div class="app-dev">by <a href="../developers/fingalo.html" title="More from this developer">Fingalo</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-04</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble app for connecting to Telldus Live! server. Control your ligths and wallsockets from you watch. (Long press on middle button will cycle dimmers 25% at a time). Single press on sensor will…</p>
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/c195775b96b545279595143f" data-search-exclude><img src="../images/apps/c195775b96b545279595143f.png" alt="LaunchPad" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c195775b96b545279595143f"><a href="https://apps.repebble.com/c195775b96b545279595143f">LaunchPad</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/LaunchPad" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/kieselleger.html" title="More from this developer">Kieselleger</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-08-04</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">LaunchPad brings the world&#x27;s rocket launch schedule to your Pebble. Scroll through the next 10 upcoming orbital launches, each showing: * Mission name — what&#x27;s flying (BlueBird, Starlink, GPS III…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/05be35b816874fa9a85ce6c4" data-search-exclude><img src="../images/apps/05be35b816874fa9a85ce6c4.png" alt="Learn Morse" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-05be35b816874fa9a85ce6c4"><a href="https://apps.repebble.com/05be35b816874fa9a85ce6c4">Learn Morse</a></h2>
+<h2 class="app-name" id="app-05be35b816874fa9a85ce6c4"><a href="https://apps.repebble.com/05be35b816874fa9a85ce6c4">Learn Morse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/awwaiid/pebble-watchapp-learn-morse" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/awwaiid_a6122c9c814c119e3a27343e" title="More from this developer">awwaiid</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2026-09-12</span></div>
+<div class="app-dev">by <a href="../developers/awwaiid.html" title="More from this developer">awwaiid</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-12</span> <span title="Latest release in the app store">Updated 2026-09-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Learn to send Morse code on your wrist. Learn Morse shows you a character and you key it back. A short press of the DOWN button is a dot and a hold is a dash; on Pebble Time 2 you can key on the…</p>
 </div>
@@ -102,10 +113,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/402da10688d6443aa4a9a751" data-search-exclude><img src="../images/apps/402da10688d6443aa4a9a751.png" alt="Legend of Pebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-402da10688d6443aa4a9a751"><a href="https://apps.repebble.com/402da10688d6443aa4a9a751">Legend of Pebble</a></h2>
+<h2 class="app-name" id="app-402da10688d6443aa4a9a751"><a href="https://apps.repebble.com/402da10688d6443aa4a9a751">Legend of Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v3.5.0</span></h2>
 <a class="app-source" href="https://github.com/damocamo/ledged-of-pebble-" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/devfootclan_9e60866ea641e9284c6367a9" title="More from this developer">Devfootclan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.5.0</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
+<div class="app-dev">by <a href="../developers/devfootclan.html" title="More from this developer">Devfootclan</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-09</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">LEGEND OF PEBBLE A first-person dungeon crawler RPG for your wrist. THE STORY You check the time. The watch flares. The world twists. You wake in a rift ruled by the Signal Keepers. Ten floors…</p>
 </div>
@@ -113,10 +124,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55217260e1e3d5551000004e" data-search-exclude><img src="../images/apps/55217260e1e3d5551000004e.png" alt="Length Converter" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55217260e1e3d5551000004e"><a href="https://apps.repebble.com/55217260e1e3d5551000004e">Length Converter</a></h2>
+<h2 class="app-name" id="app-55217260e1e3d5551000004e"><a href="https://apps.repebble.com/55217260e1e3d5551000004e">Length Converter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="http://bit.ly/aboutpdl" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/small-rock-design-labs_54c3a91ca64480370e000062" title="More from this developer">small rock design labs!</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">See source</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-04-05</span></div>
+<div class="app-dev">by <a href="../developers/small-rock-design-labs.html" title="More from this developer">small rock design labs!</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-05</span> <span title="Latest release in the app store">Updated 2015-04-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">About: http://bit.ly/aboutpdl ---------- This app tells you how to convert length from your wrist! Simply open the app, and then select your method of conversion ------- Donate…</p>
 </div>
@@ -124,10 +135,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/a3b06903fd6f46f5b9b8780b" data-search-exclude><img src="../images/apps/a3b06903fd6f46f5b9b8780b.gif" alt="Letterfall" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a3b06903fd6f46f5b9b8780b"><a href="https://apps.repebble.com/a3b06903fd6f46f5b9b8780b">Letterfall</a></h2>
+<h2 class="app-name" id="app-a3b06903fd6f46f5b9b8780b"><a href="https://apps.repebble.com/a3b06903fd6f46f5b9b8780b">Letterfall</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/letterfall-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/comfortably-numb_52f547605101128b2200005a" title="More from this developer">Comfortably Numb</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3.0</span> <span title="Latest release in the app store">Updated 2026-07-25</span></div>
+<div class="app-dev">by <a href="../developers/comfortably-numb.html" title="More from this developer">Comfortably Numb</a> · <a href="https://forum.rebble.io/t/942" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">TEST YOUR BOOKWORM SKILLS! 📝 &quot;Letterfall&quot; is a word-building game. The longer word you make the more scoring points you get. As you add points - you advance in ranks. ⛓️ To create a word - tap…</p>
 </div>
@@ -135,10 +146,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6948196e16fdf5000991cbc4" data-search-exclude><img src="../images/apps/6948196e16fdf5000991cbc4.png" alt="Level" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6948196e16fdf5000991cbc4"><a href="https://apps.repebble.com/6948196e16fdf5000991cbc4">Level</a></h2>
+<h2 class="app-name" id="app-6948196e16fdf5000991cbc4"><a href="https://apps.repebble.com/6948196e16fdf5000991cbc4">Level</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/flokndl/level-watchapp" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/flo-kn-dl_69207a520a015600086f2e44" title="More from this developer">Flo Knödl</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2025-12-21</span></div>
+<div class="app-dev">by <a href="../developers/flo-knodl.html" title="More from this developer">Flo Knödl</a> · <a href="https://forum.rebble.io/t/330" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-21</span> <span title="Latest release in the app store">Updated 2025-12-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple Level measuring tool. - Simply tilt the watch to measure - At 0° Level is a subtle nudge vibration</p>
 </div>
@@ -146,10 +157,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53fcf89614ee006f33000004" data-search-exclude><img src="../images/apps/53fcf89614ee006f33000004.png" alt="Level for Pebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53fcf89614ee006f33000004"><a href="https://apps.repebble.com/53fcf89614ee006f33000004">Level for Pebble</a></h2>
+<h2 class="app-name" id="app-53fcf89614ee006f33000004"><a href="https://apps.repebble.com/53fcf89614ee006f33000004">Level for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="http://www.github.com/lorenlugosch/PebbleLevel" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/loren-lugosch_52c2e955da4287f00c000061" title="More from this developer">Loren Lugosch</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2014-08-26</span></div>
+<div class="app-dev">by <a href="../developers/loren-lugosch.html" title="More from this developer">Loren Lugosch</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-26</span> <span title="Latest release in the app store">Updated 2014-08-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Carpentry level using your Pebble! Just choose vertical or horizontal mode using the top button and align the bubble track with the surface you want to level.</p>
 </div>
@@ -157,10 +168,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/2fe5ba2363c042e89553c33e" data-search-exclude><img src="../images/apps/2fe5ba2363c042e89553c33e.png" alt="LibreHealth" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2fe5ba2363c042e89553c33e"><a href="https://apps.repebble.com/2fe5ba2363c042e89553c33e">LibreHealth</a></h2>
+<h2 class="app-name" id="app-2fe5ba2363c042e89553c33e"><a href="https://apps.repebble.com/2fe5ba2363c042e89553c33e">LibreHealth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/peerdavid/pebble-libre-health" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/david-peer_68fb6df5d3c6e4000885b8f5" title="More from this developer">David Peer</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2026-03-15</span></div>
+<div class="app-dev">by <a href="../developers/david-peer.html" title="More from this developer">David Peer</a> · <a href="https://forum.rebble.io/t/772" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-15</span> <span title="Latest release in the app store">Updated 2026-03-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc"># Libre Health Companion Pebble companion app for Libre Health, the open-source, local-only health tracker for Android. Warning: Requires the LibreHealth Android companion app. Automatically syncs…</p>
 </div>
@@ -168,10 +179,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/556c868e4155358c3e00000c" data-search-exclude><img src="../images/apps/556c868e4155358c3e00000c.png" alt="LibreNMS" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-556c868e4155358c3e00000c"><a href="https://apps.repebble.com/556c868e4155358c3e00000c">LibreNMS</a></h2>
+<h2 class="app-name" id="app-556c868e4155358c3e00000c"><a href="https://apps.repebble.com/556c868e4155358c3e00000c">LibreNMS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/zarya/Pebble-Librenms/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/zarya_5565bb8508c376c66200004e" title="More from this developer">zarya</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-06-01</span></div>
+<div class="app-dev">by <a href="../developers/zarya.html" title="More from this developer">zarya</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2015-06-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">App to monitor LibreNMS</p>
 </div>
@@ -179,21 +190,21 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/42e5e2cf8c1e4dcdac540555" data-search-exclude><img src="../images/apps/42e5e2cf8c1e4dcdac540555.png" alt="Lichess TV" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-42e5e2cf8c1e4dcdac540555"><a href="https://apps.repebble.com/42e5e2cf8c1e4dcdac540555">Lichess TV</a></h2>
+<h2 class="app-name" id="app-42e5e2cf8c1e4dcdac540555"><a href="https://apps.repebble.com/42e5e2cf8c1e4dcdac540555">Lichess TV</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/CATEIN/lichess-tv-for-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/catein_5451ddc920d58674e460e802" title="More from this developer">CATEIN</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.1.0</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-dev">by <a href="../developers/catein.html" title="More from this developer">CATEIN</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-12</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Watch live chess, on your wrist! Lichess TV streams a live game position to your watch as it happens: every move, both players&#x27; names, titles, and ratings, and clocks that count down in real time…</p>
 </div>
 </div>
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54af21b5f663710a2d000102" data-search-exclude><img src="../images/apps/54af21b5f663710a2d000102.png" alt="LifeGame" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54af21b5f663710a2d000102"><a href="https://apps.repebble.com/54af21b5f663710a2d000102">LifeGame</a></h2>
+<h2 class="app-name" id="app-54af21b5f663710a2d000102"><a href="https://apps.repebble.com/54af21b5f663710a2d000102">LifeGame</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/taturou/pebble_LifeGameWatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/taturou_547d9dd836aa9b5fa40000ed" title="More from this developer">taturou</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-05-22</span></div>
+<div class="app-dev">by <a href="../developers/taturou.html" title="More from this developer">taturou</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-09</span> <span title="Latest release in the app store">Updated 2015-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">THE UNIVERSE IS ON YOUR WRIST. This app has four selectable modes. 1. Clock 2. Glider 3. Spaceship 4. R-pentomino</p>
 </div>
@@ -201,10 +212,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56808c7c54f8d36ac50000e9" data-search-exclude><img src="../images/apps/56808c7c54f8d36ac50000e9.png" alt="Lifelink" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56808c7c54f8d36ac50000e9"><a href="https://apps.repebble.com/56808c7c54f8d36ac50000e9">Lifelink</a></h2>
+<h2 class="app-name" id="app-56808c7c54f8d36ac50000e9"><a href="https://apps.repebble.com/56808c7c54f8d36ac50000e9">Lifelink</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/Spitemare/lifelink" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/david-morgan_564924e14f9b2989ec000014" title="More from this developer">David Morgan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2016-09-01</span></div>
+<div class="app-dev">by <a href="../developers/david-morgan.html" title="More from this developer">David Morgan</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-28</span> <span title="Latest release in the app store">Updated 2016-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Lifelink is a simple life counter for Magic: the Gathering. Press the select button to swap between players. Up and down buttons add and subtract life. Double press the select button to reset life…</p>
 </div>
@@ -212,10 +223,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569d35184da1717a1f000043" data-search-exclude><img src="../images/apps/569d35184da1717a1f000043.png" alt="Lift" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569d35184da1717a1f000043"><a href="https://apps.repebble.com/569d35184da1717a1f000043">Lift</a></h2>
+<h2 class="app-name" id="app-569d35184da1717a1f000043"><a href="https://apps.repebble.com/569d35184da1717a1f000043">Lift</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/edthedev/LiftPebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/edward-delaporte_54f3a0af2eee750ed80000d0" title="More from this developer">Edward Delaporte</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-09-04</span></div>
+<div class="app-dev">by <a href="../developers/edward-delaporte.html" title="More from this developer">Edward Delaporte</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-18</span> <span title="Latest release in the app store">Updated 2016-09-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Count exercise sets and track 90 seconds to cool down in between, as needed.</p>
 </div>
@@ -223,10 +234,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/bc759f096635405aabe7c52e" data-search-exclude><img src="../images/apps/bc759f096635405aabe7c52e.png" alt="Liftoff 2" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-bc759f096635405aabe7c52e"><a href="https://apps.repebble.com/bc759f096635405aabe7c52e">Liftoff 2</a></h2>
+<h2 class="app-name" id="app-bc759f096635405aabe7c52e"><a href="https://apps.repebble.com/bc759f096635405aabe7c52e">Liftoff 2</a> <span class="app-version" title="Latest version" data-search-exclude>v9.7</span></h2>
 <a class="app-source" href="https://github.com/only-meeps/Liftoff-2-Pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/meep-apps_afb52ceff8e7b6067c428fea" title="More from this developer">Meep apps</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v9.7</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
+<div class="app-dev">by <a href="../developers/meep-apps-72a052.html" title="More from this developer">Meep apps</a> · <a href="https://forum.rebble.io/t/1068" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-18</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by the watch timeline app liftoff, this app shows timeline pins about upcoming launches with a small description provided thespacedevs.com. Unfortunately, due to the current pebble app…</p>
 </div>
@@ -234,10 +245,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54341c6f79b9e51d360001fa" data-search-exclude><img src="../images/apps/54341c6f79b9e51d360001fa.png" alt="LiftSlow" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54341c6f79b9e51d360001fa"><a href="https://apps.repebble.com/54341c6f79b9e51d360001fa">LiftSlow</a></h2>
+<h2 class="app-name" id="app-54341c6f79b9e51d360001fa"><a href="https://apps.repebble.com/54341c6f79b9e51d360001fa">LiftSlow</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/craedev1/LiftSlow" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/crae_52efa898593184556400004b" title="More from this developer">CRAE</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2014-10-22</span></div>
+<div class="app-dev">by <a href="../developers/crae.html" title="More from this developer">CRAE</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-07</span> <span title="Latest release in the app store">Updated 2014-10-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Struggling to break a plateau? Experiment with slow and deliberate weight lifting. The app features timing for slow up and down lift strokes, and variable rest, warmup and cool down intervals. The…</p>
 </div>
@@ -245,10 +256,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56b5f4147d6b52077500001b" data-search-exclude><img src="../images/apps/56b5f4147d6b52077500001b.png" alt="LIFX" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56b5f4147d6b52077500001b"><a href="https://apps.repebble.com/56b5f4147d6b52077500001b">LIFX</a></h2>
+<h2 class="app-name" id="app-56b5f4147d6b52077500001b"><a href="https://apps.repebble.com/56b5f4147d6b52077500001b">LIFX</a> <span class="app-version" title="Latest version" data-search-exclude>v0.98</span></h2>
 <a class="app-source" href="https://github.com/bigbug/LIFX4Pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/markus-gutbrod_56a684837a473973dc000060" title="More from this developer">Markus Gutbrod</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v0.98</span> <span title="Latest release in the app store">Updated 2016-02-24</span></div>
+<div class="app-dev">by <a href="../developers/markus-gutbrod.html" title="More from this developer">Markus Gutbrod</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-06</span> <span title="Latest release in the app store">Updated 2016-02-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">With this app you can control your LIFX bulb(s). Currently supported features: - turn your bulb on and off - change the color, brightness and saturation - Experimental: set an alarm. Before the…</p>
 </div>
@@ -256,10 +267,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/71e51f9f204444e39374282a" data-search-exclude><img src="../images/apps/71e51f9f204444e39374282a.png" alt="LIFX Client" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-71e51f9f204444e39374282a"><a href="https://apps.repebble.com/71e51f9f204444e39374282a">LIFX Client</a></h2>
+<h2 class="app-name" id="app-71e51f9f204444e39374282a"><a href="https://apps.repebble.com/71e51f9f204444e39374282a">LIFX Client</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chrislewicki/lifx-client" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chris-lewicki_53f25ba1e45d533568000139" title="More from this developer">Chris Lewicki</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
+<div class="app-dev">by <a href="../developers/chris-lewicki.html" title="More from this developer">Chris Lewicki</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your LIFX smart lights from your Pebble. LIFX Client lets you adjust brightness and color temperature on the fly, or pick from a palette of colors. Features: - Adjust brightness in 5%…</p>
 </div>
@@ -267,10 +278,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/552f7a8c06bedc3ef70000cd" data-search-exclude><img src="../images/apps/552f7a8c06bedc3ef70000cd.png" alt="LIFxPebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-552f7a8c06bedc3ef70000cd"><a href="https://apps.repebble.com/552f7a8c06bedc3ef70000cd">LIFxPebble</a></h2>
+<h2 class="app-name" id="app-552f7a8c06bedc3ef70000cd"><a href="https://apps.repebble.com/552f7a8c06bedc3ef70000cd">LIFxPebble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6</span></h2>
 <a class="app-source" href="https://github.com/jorgerdz/lifxpebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/pixelsoup_5351d58a0fdc9b998f00006a" title="More from this developer">PixelSoup</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.6</span> <span title="Latest release in the app store">Updated 2015-07-03</span></div>
+<div class="app-dev">by <a href="../developers/pixelsoup.html" title="More from this developer">PixelSoup</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-16</span> <span title="Latest release in the app store">Updated 2015-07-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble app for controlling your LIFX apps using the Cloud API. PayPal contributions are welcome at mail@jorgerdz.com, thanks! Reddit thread…</p>
 </div>
@@ -278,10 +289,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/576e0ad06c21042b7b00000e" data-search-exclude><img src="../images/apps/576e0ad06c21042b7b00000e.png" alt="Light-Controller (BETA)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-576e0ad06c21042b7b00000e"><a href="https://apps.repebble.com/576e0ad06c21042b7b00000e">Light-Controller (BETA)</a></h2>
+<h2 class="app-name" id="app-576e0ad06c21042b7b00000e"><a href="https://apps.repebble.com/576e0ad06c21042b7b00000e">Light-Controller (BETA)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/mrwhale/pebble-light-controller" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mrwhale_5309702c24c4582908000149" title="More from this developer">MrWhale</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.9</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
+<div class="app-dev">by <a href="../developers/mrwhale.html" title="More from this developer">MrWhale</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your LimitelessLED, milight or EasyBulb lights with your pebble! This is currently the BETA build, so only has basic functionality working (on/off) but there is colourful UI to come! (This…</p>
 </div>
@@ -289,10 +300,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/82c00d2a1a234861a5039b6f" data-search-exclude><img src="../images/apps/82c00d2a1a234861a5039b6f.png" alt="Lightdash" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-82c00d2a1a234861a5039b6f"><a href="https://apps.repebble.com/82c00d2a1a234861a5039b6f">Lightdash</a></h2>
+<h2 class="app-name" id="app-82c00d2a1a234861a5039b6f"><a href="https://apps.repebble.com/82c00d2a1a234861a5039b6f">Lightdash</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/rephus/pebble-lightdash-app" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/javier-rengel_4050fea4292cac94cd096b9d" title="More from this developer">Javier Rengel</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.1</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
+<div class="app-dev">by <a href="../developers/javier-rengel.html" title="More from this developer">Javier Rengel</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watchapp that rotates through your [Lightdash](https://www.lightdash.com/) saved charts. Glance at your BI numbers from your wrist. No phone needed once the tiles load.</p>
 </div>
@@ -300,10 +311,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9420a2e218e54ce986c7c871" data-search-exclude><img src="../images/apps/9420a2e218e54ce986c7c871.png" alt="Lighthaul" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9420a2e218e54ce986c7c871"><a href="https://apps.repebble.com/9420a2e218e54ce986c7c871">Lighthaul</a></h2>
+<h2 class="app-name" id="app-9420a2e218e54ce986c7c871"><a href="https://apps.repebble.com/9420a2e218e54ce986c7c871">Lighthaul</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.2</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Lighthaul-Pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/zach-burnham_939ce698485e86de8b11f7ae" title="More from this developer">Zach Burnham</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2.2</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
+<div class="app-dev">by <a href="../developers/zach-burnham-d9b378.html" title="More from this developer">Zach Burnham</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Haul cargo and passengers between the stars at a hair under lightspeed - and let special relativity be the economy. Deadlines run on universe time. You and your passengers age on ship time. The…</p>
 </div>
@@ -311,10 +322,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569061bfd5ba00104e000016" data-search-exclude><img src="../images/apps/569061bfd5ba00104e000016.png" alt="Limone" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569061bfd5ba00104e000016"><a href="https://apps.repebble.com/569061bfd5ba00104e000016">Limone</a></h2>
+<h2 class="app-name" id="app-569061bfd5ba00104e000016"><a href="https://apps.repebble.com/569061bfd5ba00104e000016">Limone</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/uchida/limone-watchapp/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/akihiro-uchida_567155e246ebac9661000023" title="More from this developer">Akihiro Uchida</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.3</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
+<div class="app-dev">by <a href="../developers/akihiro-uchida.html" title="More from this developer">Akihiro Uchida</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-09</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple pomodoro timer for Pebble, to notify 25 minutes work finished and after take 5 minutes break. Optionally supports to trigger IFTTT Maker channel and show today&#x27;s tasks in Todoist.</p>
 </div>
@@ -322,10 +333,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55e1a222eec9a4e4d9000030" data-search-exclude><img src="../images/apps/55e1a222eec9a4e4d9000030.png" alt="Linux remote" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55e1a222eec9a4e4d9000030"><a href="https://apps.repebble.com/55e1a222eec9a4e4d9000030">Linux remote</a></h2>
+<h2 class="app-name" id="app-55e1a222eec9a4e4d9000030"><a href="https://apps.repebble.com/55e1a222eec9a4e4d9000030">Linux remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/susundberg/pebble-linux-remote" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/susundberg_557c7399d269ce467600006b" title="More from this developer">susundberg</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-08-29</span></div>
+<div class="app-dev">by <a href="../developers/susundberg.html" title="More from this developer">susundberg</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-29</span> <span title="Latest release in the app store">Updated 2015-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This open source remote allows you to run shell commands in your linux by pressing Pebble buttons. You can use it for presentation slide changer or for example to lock your screen with single…</p>
 </div>
@@ -333,10 +344,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/e803cc1eebcc4ffc9df7a86e" data-search-exclude><img src="../images/apps/e803cc1eebcc4ffc9df7a86e.png" alt="Liquicity 2026" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-e803cc1eebcc4ffc9df7a86e"><a href="https://apps.repebble.com/e803cc1eebcc4ffc9df7a86e">Liquicity 2026</a></h2>
+<h2 class="app-name" id="app-e803cc1eebcc4ffc9df7a86e"><a href="https://apps.repebble.com/e803cc1eebcc4ffc9df7a86e">Liquicity 2026</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/eric-lindholm/bonnaroo-26/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/pottkopp_82c5b97291d272e0b4e1aa46" title="More from this developer">Pottkopp</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2026-07-23</span></div>
+<div class="app-dev">by <a href="../developers/pottkopp-8d8996.html" title="More from this developer">Pottkopp</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">Unofficial Timetable watchapp for Liquicity 2026. Browse shows, plan your festival, and get reminders when a show you don&#x27;t want to miss is coming up. Browse shows by day or stage, click into a…</p>
 </div>
@@ -344,10 +355,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/67cc5a88b7a023024b2145b8" data-search-exclude><img src="../images/apps/67cc5a88b7a023024b2145b8.png" alt="Little 8 Ball" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67cc5a88b7a023024b2145b8"><a href="https://apps.rebble.io/en_US/application/67cc5a88b7a023024b2145b8">Little 8 Ball</a></h2>
+<h2 class="app-name" id="app-67cc5a88b7a023024b2145b8"><a href="https://apps.rebble.io/en_US/application/67cc5a88b7a023024b2145b8">Little 8 Ball</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/kjy00302/pebble-8ball-glance" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5d8006bf831cc00001cfba22/1" title="More from this developer">kjy00302</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2025-03-08</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/kjy00302.html" title="More from this developer">kjy00302</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2025-03-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Yet another experimental Magic 8 Ball app uses App Glance without any screens.</p>
 </div>
@@ -355,10 +366,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/554ec47cecdc00f8140000c6" data-search-exclude><img src="../images/apps/554ec47cecdc00f8140000c6.png" alt="Liveblog" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-554ec47cecdc00f8140000c6"><a href="https://apps.repebble.com/554ec47cecdc00f8140000c6">Liveblog</a></h2>
+<h2 class="app-name" id="app-554ec47cecdc00f8140000c6"><a href="https://apps.repebble.com/554ec47cecdc00f8140000c6">Liveblog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tomthecarrot/PebbleTimeLiveblog" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/thomas-suarez_53c5b7f2a21bef1f75000037" title="More from this developer">Thomas Suarez</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
+<div class="app-dev">by <a href="../developers/thomas-suarez.html" title="More from this developer">Thomas Suarez</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Liveblog tracker for Pebble Time, utilizing the new Timeline functionality. 1. Before (or during) a live event, install the app on your Pebble Time. 2. Once the app is installed on your Pebble…</p>
 </div>
@@ -366,10 +377,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56bed5490ed2a75acd000040" data-search-exclude><img src="../images/apps/56bed5490ed2a75acd000040.png" alt="Liveconfig Demo" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56bed5490ed2a75acd000040"><a href="https://apps.repebble.com/56bed5490ed2a75acd000040">Liveconfig Demo</a></h2>
+<h2 class="app-name" id="app-56bed5490ed2a75acd000040"><a href="https://apps.repebble.com/56bed5490ed2a75acd000040">Liveconfig Demo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.01</span></h2>
 <a class="app-source" href="https://github.com/fletchto99/Pebble-liveconfig" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/matt-langlois_52e30dd32645fb8bae000fcd" title="More from this developer">Matt Langlois</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.01</span> <span title="Latest release in the app store">Updated 2016-02-13</span></div>
+<div class="app-dev">by <a href="../developers/matt-langlois.html" title="More from this developer">Matt Langlois</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Demo of Live config library for developers!</p>
 </div>
@@ -377,10 +388,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/565c94c0eae744b790000068" data-search-exclude><img src="../images/apps/565c94c0eae744b790000068.png" alt="LMS Controller" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-565c94c0eae744b790000068"><a href="https://apps.repebble.com/565c94c0eae744b790000068">LMS Controller</a></h2>
+<h2 class="app-name" id="app-565c94c0eae744b790000068"><a href="https://apps.repebble.com/565c94c0eae744b790000068">LMS Controller</a> <span class="app-version" title="Latest version" data-search-exclude>v2.61</span></h2>
 <a class="app-source" href="https://github.com/daduke/LMSController" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/daduke_56490a754f9b2993b0000011" title="More from this developer">daduke</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.61</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-dev">by <a href="../developers/daduke.html" title="More from this developer">daduke</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-30</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your Logitech Media Server (aka LMS or Squeezebox) via Pebble. new feature: long press select in track info screen enters the music menu! Buttons (up / select / down): player menu: * short…</p>
 </div>
@@ -388,10 +399,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/556625566ad39158ce00009d" data-search-exclude><img src="../images/apps/556625566ad39158ce00009d.png" alt="LocateMe" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-556625566ad39158ce00009d"><a href="https://apps.repebble.com/556625566ad39158ce00009d">LocateMe</a></h2>
+<h2 class="app-name" id="app-556625566ad39158ce00009d"><a href="https://apps.repebble.com/556625566ad39158ce00009d">LocateMe</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ajinabraham/PebbleWatch-LocateMe" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/ajin_5565f30e3986100a91000081" title="More from this developer">Ajin</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-05-27</span></div>
+<div class="app-dev">by <a href="../developers/ajin.html" title="More from this developer">Ajin</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-27</span> <span title="Latest release in the app store">Updated 2015-05-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">LocateMe is a watch app that tells your location.</p>
 </div>
@@ -399,10 +410,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5f3ee4ad3dd310431df1c5e7" data-search-exclude><img src="../images/apps/5f3ee4ad3dd310431df1c5e7.png" alt="Locator" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5f3ee4ad3dd310431df1c5e7"><a href="https://apps.rebble.io/en_US/application/5f3ee4ad3dd310431df1c5e7">Locator</a></h2>
+<h2 class="app-name" id="app-5f3ee4ad3dd310431df1c5e7"><a href="https://apps.rebble.io/en_US/application/5f3ee4ad3dd310431df1c5e7">Locator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/leso-kn/Pebble.Locator" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5f3ee4ac3dd310431df1c5e5/1" title="More from this developer">Lesosoftware</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2023-06-27</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/lesosoftware.html" title="More from this developer">Lesosoftware</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-08-20</span> <span title="Latest release in the app store">Updated 2023-06-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This app simply displays the user&#x27;s current location! Credits go to Campion Fellin. This is a continuation of his work over at…</p>
 </div>
@@ -410,10 +421,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569991c86f0a1b4c23000070" data-search-exclude><img src="../images/apps/569991c86f0a1b4c23000070.png" alt="Lockitron for Pebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569991c86f0a1b4c23000070"><a href="https://apps.repebble.com/569991c86f0a1b4c23000070">Lockitron for Pebble</a></h2>
+<h2 class="app-name" id="app-569991c86f0a1b4c23000070"><a href="https://apps.repebble.com/569991c86f0a1b4c23000070">Lockitron for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1</span></h2>
 <a class="app-source" href="https://github.com/PebbleKat/Lockitron-for-Pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/rishie_537ff1f561e8e220bb000006" title="More from this developer">Rishie</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1</span> <span title="Latest release in the app store">Updated 2016-01-20</span></div>
+<div class="app-dev">by <a href="../developers/rishie.html" title="More from this developer">Rishie</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-16</span> <span title="Latest release in the app store">Updated 2016-01-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control any of your Lockitron locks right from your wrist! Choose favorite locks to keep on the main menu for easy access. Works with all Lockitron products. Requires authentication only on first…</p>
 </div>
@@ -421,10 +432,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5738e66eeae0b2ef05000024" data-search-exclude><img src="../images/apps/5738e66eeae0b2ef05000024.png" alt="Locomo" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5738e66eeae0b2ef05000024"><a href="https://apps.repebble.com/5738e66eeae0b2ef05000024">Locomo</a></h2>
+<h2 class="app-name" id="app-5738e66eeae0b2ef05000024"><a href="https://apps.repebble.com/5738e66eeae0b2ef05000024">Locomo</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/yoziru-desu/locomo-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/yoziru-desu_560fd7a8ba529bd5f4000094" title="More from this developer">yoziru-desu</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-dev">by <a href="../developers/yoziru-desu.html" title="More from this developer">yoziru-desu</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-15</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Start Locomo when going to work or returning home and stop worrying about which train is next and which platform you need to go to. Locomo will show you how much time you have left, if your train…</p>
 </div>
@@ -432,10 +443,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55c90209d0e6da92ae000036" data-search-exclude><img src="../images/apps/55c90209d0e6da92ae000036.png" alt="London TFL Bike Point Tracker" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55c90209d0e6da92ae000036"><a href="https://apps.repebble.com/55c90209d0e6da92ae000036">London TFL Bike Point Tracker</a></h2>
+<h2 class="app-name" id="app-55c90209d0e6da92ae000036"><a href="https://apps.repebble.com/55c90209d0e6da92ae000036">London TFL Bike Point Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chrisberry4545/BikeTracker" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chris-berry_55c8ff87d0e6da5f0a00002e" title="More from this developer">Chris Berry</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-09-21</span></div>
+<div class="app-dev">by <a href="../developers/chris-berry.html" title="More from this developer">Chris Berry</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-10</span> <span title="Latest release in the app store">Updated 2015-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Points the way to the nearest Satander bike point in London. Useful for when you&#x27;re cycling around London.</p>
 </div>
@@ -443,10 +454,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/dacf9696730748cfb809166f" data-search-exclude><img src="../images/apps/dacf9696730748cfb809166f.png" alt="Long Rest" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-dacf9696730748cfb809166f"><a href="https://apps.repebble.com/dacf9696730748cfb809166f">Long Rest</a></h2>
+<h2 class="app-name" id="app-dacf9696730748cfb809166f"><a href="https://apps.repebble.com/dacf9696730748cfb809166f">Long Rest</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.1</span></h2>
 <a class="app-source" href="https://github.com/MGibson1/pebble-rest-timer/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/delta-g_ebeb8cc0511fe42af871e833" title="More from this developer">Delta_G</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.4.1</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
+<div class="app-dev">by <a href="../developers/delta-g.html" title="More from this developer">Delta_G</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-16</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Super simple Pebble app for rest intervals (like in the gym or pomodoro) Originally built by [Remy](https://github.com/remy) for use in the gym, for rest intervals, and updated by updated by…</p>
 </div>
@@ -454,10 +465,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/151e6e63251a4881a96585de" data-search-exclude><img src="../images/apps/151e6e63251a4881a96585de.png" alt="Long Run Stopwatch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-151e6e63251a4881a96585de"><a href="https://apps.repebble.com/151e6e63251a4881a96585de">Long Run Stopwatch</a></h2>
+<h2 class="app-name" id="app-151e6e63251a4881a96585de"><a href="https://apps.repebble.com/151e6e63251a4881a96585de">Long Run Stopwatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/long-run-stopwatch-pebble-app" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/justinjhendrick_67f68b8a23b7a90009c87db5" title="More from this developer">justinjhendrick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1.0</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
+<div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-12</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A stopwatch for long runs. Elapsed time on top. Time of day on bottom. Features: * Battery efficient (updates once per minute) * Large text</p>
 </div>
@@ -465,10 +476,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4a1b7995c8d142f099d98dbb" data-search-exclude><img src="../images/apps/4a1b7995c8d142f099d98dbb.gif" alt="Lovense Remote" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4a1b7995c8d142f099d98dbb"><a href="https://apps.repebble.com/4a1b7995c8d142f099d98dbb">Lovense Remote</a></h2>
+<h2 class="app-name" id="app-4a1b7995c8d142f099d98dbb"><a href="https://apps.repebble.com/4a1b7995c8d142f099d98dbb">Lovense Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.4</span></h2>
 <a class="app-source" href="https://github.com/MrArron/Lovense-Pebble-Control" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/arron_524aee3521fec8fbd71a5a3f" title="More from this developer">Arron</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="Latest version">v1.2.4</span> <span title="Latest release in the app store">Updated 2026-09-20</span></div>
+<div class="app-dev">by <a href="../developers/arron.html" title="More from this developer">Arron</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-09-16</span> <span title="Latest release in the app store">Updated 2026-09-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your Lovense toy discreetly from your wrist. Choose an open Basic remote-control face, or a Discrete face (Analog or Digital) that looks like an ordinary watch to everyone but you —…</p>
 </div>
@@ -476,10 +487,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/67ca8dc6d2acb301fae26de7" data-search-exclude><img src="../images/apps/67ca8dc6d2acb301fae26de7.png" alt="Lunar Crasher" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67ca8dc6d2acb301fae26de7"><a href="https://apps.rebble.io/en_US/application/67ca8dc6d2acb301fae26de7">Lunar Crasher</a></h2>
+<h2 class="app-name" id="app-67ca8dc6d2acb301fae26de7"><a href="https://apps.rebble.io/en_US/application/67ca8dc6d2acb301fae26de7">Lunar Crasher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/Jose-Amendola22/lunar-crasher" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/6695b8f8440dbd00082fac2d/1" title="More from this developer">JossMa</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2025-03-07</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/jossma.html" title="More from this developer">JossMa</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2025-03-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A mock of lunar lander, this was done for the hackathon 002. I could add more levels and a more complex landing system, maybe for later</p>
 </div>
@@ -487,10 +498,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/568d42568cd1f8e2a5000072" data-search-exclude><img src="../images/apps/568d42568cd1f8e2a5000072.png" alt="LuxParking" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-568d42568cd1f8e2a5000072"><a href="https://apps.repebble.com/568d42568cd1f8e2a5000072">LuxParking</a></h2>
+<h2 class="app-name" id="app-568d42568cd1f8e2a5000072"><a href="https://apps.repebble.com/568d42568cd1f8e2a5000072">LuxParking</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/ogerardin/LuxParking" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/olivier-g-rardin_56700e12057ecdc54700001f" title="More from this developer">Olivier Gérardin</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.3</span> <span title="Latest release in the app store">Updated 2016-01-28</span></div>
+<div class="app-dev">by <a href="../developers/olivier-gerardin.html" title="More from this developer">Olivier Gérardin</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-06</span> <span title="Latest release in the app store">Updated 2016-01-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watchapp for displaying parking occupancy in Luxembourg city using the RSS feed provided by Ville de Luxembourg. The first screen shows a list of city areas. If you select an area, you…</p>
 </div>
@@ -498,10 +509,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/598c1b8f461a8d34f6000c46" data-search-exclude><img src="../images/apps/598c1b8f461a8d34f6000c46.png" alt="LvivBus" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-598c1b8f461a8d34f6000c46"><a href="https://apps.rebble.io/en_US/application/598c1b8f461a8d34f6000c46">LvivBus</a></h2>
+<h2 class="app-name" id="app-598c1b8f461a8d34f6000c46"><a href="https://apps.rebble.io/en_US/application/598c1b8f461a8d34f6000c46">LvivBus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/alivespirit/lvivbus" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/582fb1cd36ac5acf1800009c/1" title="More from this developer">alivespirit</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2017-08-10</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/alivespirit.html" title="More from this developer">alivespirit</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-08-10</span> <span title="Latest release in the app store">Updated 2017-08-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble watchapp to show info about public transport waiting time on different bus stops in Lviv, Ukraine. Uses API of lad.lviv.ua. Geolocation option (last item in menu) allows to get info about…</p>
 </div>

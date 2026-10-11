@@ -16,9 +16,11 @@ Everything is merged into one alphabetical list for watchfaces and one for apps.
 
 - **Name** links to the app in the Pebble App Store, or the Rebble App Store if it's only there. Apps that aren't in either store link to their source code.
 - **View source** (top right of each card) links to the source code. The source can be hosted anywhere.
-- **Developer** links to the developer's page in the Pebble or Rebble App Store, so you can find their other apps.
+- **Developer** links to the developer's page in [Pebble Developers](developers.md). It shows all of their open source watchfaces and apps, with links to their page in the Pebble or Rebble App Store, their GitHub, GitLab or Codeberg profile (worked out from their source code links) and the website given in their app listings.
+- **Forum thread** links to the app's discussion thread on the [Rebble forum](https://forum.rebble.io/), where it has one.
 - **Licence** is the licence of the source code, checked automatically for GitHub and GitLab repositories. *No licence* means you can read the code and learn from it, but you don't have permission to reuse it. If no licence is shown, it couldn't be checked automatically (for example, the code is hosted somewhere else), so check the source.
 - **Version**, next to the name, is the app's latest version in the app store, where known.
+- **Released** is the date the app was first published in the app store, where known.
 - **Updated** is the date of the app's latest release in the app store.
 - **Runs on** lists the watches the app supports, as listed in the app store: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time (including Time Steel) and Classic (the original Pebble and Pebble Steel).
 - **Screenshots** are copied from the stores. The Pebble Time 2 screenshot is used where there is one, then the Pebble Round 2, then the Pebble 2 Duo, then the original watches.

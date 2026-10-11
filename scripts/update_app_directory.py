@@ -27,6 +27,9 @@ What it writes:
     letter, store and manual entries merged in alphabetical order.
   - The letter index between the GENERATED markers in docs/watchfaces.md and
     docs/watchapps.md. Everything outside the markers is left alone.
+  - docs/developers/<name>.md: one page per developer, with all their
+    watchfaces and apps, and the list of developers between the GENERATED
+    markers in docs/developers.md.
 
 Usage:
     python3 scripts/update_app_directory.py              # normal run
@@ -35,9 +38,11 @@ Usage:
 """
 
 import argparse
+import collections
 import concurrent.futures
 import datetime
 import email.utils
+import hashlib
 import html
 import json
 import os
@@ -110,6 +115,8 @@ TYPES = {
     "watchface": ("watchfaces", "watchfaces", DOCS / "watchfaces.md", DOCS / "watchfaces"),
     "watchapp": ("watchapps-and-companions", "apps", DOCS / "watchapps.md", DOCS / "watchapps"),
 }
+DEV_INDEX = DOCS / "developers.md"
+DEV_FOLDER = DOCS / "developers"
 BEGIN = "<!-- BEGIN GENERATED: do not edit by hand, run scripts/update_app_directory.py -->"
 END = "<!-- END GENERATED -->"
 
@@ -255,22 +262,33 @@ def store_description(app):
     return next((t for t in texts if t and t.strip()), "")
 
 
+def store_date(value):
+    """A store date as YYYY-MM-DD, or None. The Pebble API uses ISO dates,
+    the Rebble API uses RFC 1123 dates."""
+    if not value:
+        return None
+    try:
+        return datetime.datetime.fromisoformat(value.replace("Z", "+00:00")).date().isoformat()
+    except ValueError:
+        pass
+    try:
+        return email.utils.parsedate_to_datetime(value).date().isoformat()
+    except (TypeError, ValueError):
+        return None
+
+
 def store_updated(app):
-    """Date of the app's latest release in the store, as YYYY-MM-DD, if known.
-    The Pebble API uses ISO dates, the Rebble API uses RFC 1123 dates."""
+    """Date of the app's latest release in the store, if known."""
     for value in ((app.get("latest_release") or {}).get("published_date"),
                   app.get("published_date"), app.get("created_at")):
-        if not value:
-            continue
-        try:
-            return datetime.datetime.fromisoformat(value.replace("Z", "+00:00")).date().isoformat()
-        except ValueError:
-            pass
-        try:
-            return email.utils.parsedate_to_datetime(value).date().isoformat()
-        except (TypeError, ValueError):
-            pass
+        if store_date(value):
+            return store_date(value)
     return None
+
+
+def store_released(app):
+    """Date the app was first published in the store, if known."""
+    return store_date(app.get("created_at"))
 
 
 def short(text, limit=160):
@@ -340,6 +358,17 @@ def merge_store(db, store_key, raw_apps, app_type, today):
         updated = store_updated(a)
         if updated:
             rec.setdefault("store_updated", {})[store_key] = updated
+        released = store_released(a)
+        if released:
+            rec.setdefault("store_released", {})[store_key] = released
+        # The developer's website (Pebble store's first), and the app's
+        # thread on the Rebble forum, which only the Rebble store has
+        site = normalise_source(a.get("website"))
+        if site and (store_key == "pebble" or not rec.get("website")):
+            rec["website"] = site
+        forum = normalise_source(a.get("discourse_url"))
+        if forum:
+            rec["forum"] = forum
         if store_key not in rec["stores"]:
             rec["stores"].append(store_key)
         rec["source_online"] = True
@@ -541,21 +570,38 @@ def _norm_source(s):
 def pebble_store_keys(db):
     """Name/developer and name/source keys of every app in the Pebble store,
     so the same app listed separately in the Rebble store can be skipped."""
-    keys = set()
-    for rec in db.values():
-        if "pebble" in rec["stores"]:
-            t = _norm_title(rec["title"])
-            keys.add((rec["type"], t, "by", (rec.get("author") or "").strip().lower()))
-            keys.add((rec["type"], t, "src", _norm_source(rec["source"])))
-    return keys
+    return {k for rec in db.values() if "pebble" in rec["stores"] for k in app_keys(rec)}
+
+
+def app_keys(rec):
+    t = _norm_title(rec["title"])
+    return [(rec["type"], t, "by", (rec.get("author") or "").strip().lower()),
+            (rec["type"], t, "src", _norm_source(rec["source"]))]
 
 
 def duplicate_of_pebble_app(rec, keys):
     if "pebble" in rec["stores"]:
         return False
-    t = _norm_title(rec["title"])
-    return ((rec["type"], t, "by", (rec.get("author") or "").strip().lower()) in keys
-            or (rec["type"], t, "src", _norm_source(rec["source"])) in keys)
+    return any(k in keys for k in app_keys(rec))
+
+
+def developer_groups(db):
+    """Map each store developer ID to one key per developer. A developer with
+    separate Pebble and Rebble accounts gets one key when an app links them."""
+    parent = {}
+
+    def find(x):
+        while parent.setdefault(x, x) != x:
+            x = parent[x]
+        return x
+
+    for rec in db.values():
+        ids = sorted(set((rec.get("developer_ids") or {}).values()))
+        for other in ids:
+            a, b = find(ids[0]), find(other)
+            if a != b:
+                parent[max(a, b)] = min(a, b)
+    return {x: find(x) for x in list(parent)}
 
 
 def entries_for(app_type, db, manual, licences, excluded):
@@ -563,6 +609,10 @@ def entries_for(app_type, db, manual, licences, excluded):
     the store's details for the same app (matched by the ID in its store link)."""
     entries = {}
     pebble_keys = pebble_store_keys(db)
+    groups = developer_groups(db)
+    # Forum threads of skipped Rebble listings, for the Pebble listing of the same app
+    dup_forums = {k: rec["forum"] for rec in db.values()
+                  if rec.get("forum") and duplicate_of_pebble_app(rec, pebble_keys) for k in app_keys(rec)}
     for rec in db.values():
         if rec["type"] != app_type or rec.get("source_online") is False:
             continue
@@ -585,6 +635,11 @@ def entries_for(app_type, db, manual, licences, excluded):
             "anchor": "app-" + rec["id"],
             "licence": licence_label(rec["source"], licences),
             "updated": max((rec.get("store_updated") or {}).values(), default=""),
+            "released": min((rec.get("store_released") or {}).values(), default=""),
+            "website": rec.get("website"),
+            "forum": rec.get("forum") or next((dup_forums[k] for k in app_keys(rec) if k in dup_forums), None),
+            "type": app_type,
+            "dev_key": next((groups[d] for d in (rec.get("developer_ids") or {}).values()), None),
         }
     for m in manual:
         if m["type"] != app_type:
@@ -592,8 +647,9 @@ def entries_for(app_type, db, manual, licences, excluded):
         ids = re.findall(r"[0-9a-f]{24}", m.get("store") or "")
         key = ids[0] if ids else "manual:" + m["title"]
         base = entries.get(key, {})
+        author = m.get("author") or base.get("author", "")
         entries[key] = {
-            "title": m["title"], "author": m.get("author") or base.get("author", ""),
+            "title": m["title"], "author": author,
             "source": m["source"],
             "description": m.get("description") or base.get("description", ""),
             "screenshot": manual_screenshot_path(m) or base.get("screenshot"),
@@ -606,13 +662,20 @@ def entries_for(app_type, db, manual, licences, excluded):
             "anchor": "app-" + (ids[0] if ids else re.sub(r"[^a-z0-9]+", "-", m["title"].lower()).strip("-")),
             "licence": licence_label(m["source"], licences),
             "updated": str(m.get("updated") or base.get("updated", "")),
+            "released": str(m.get("released") or base.get("released", "")),
+            "website": base.get("website"),
+            "forum": m.get("forum") or base.get("forum"),
+            "type": app_type,
+            "dev_key": base.get("dev_key") or ("manual:" + author.lower() if author else None),
         }
     return sorted(entries.values(), key=lambda e: (e["title"].lower(), e["author"].lower()))
 
 
-def render_card(e):
+def render_card(e, on_dev_page=False):
     """One app as an HTML card. Cards sit in a grid that reflows to fit the
-    screen, from several per row on a desktop to one per row on a phone."""
+    screen, from several per row on a desktop to one per row on a phone.
+    On a developer's own page the card says what kind of app it is instead
+    of who made it, and carries the details its sort and filter buttons use."""
     esc = html.escape
     link = e["store"] or e["source"]
     shot = (f'<img src="../{esc(e["screenshot"])}" alt="{esc(e["title"])}" loading="lazy">'
@@ -634,6 +697,8 @@ def render_card(e):
     if e.get("version"):
         v = e["version"] if e["version"][:1] in "vV" else "v" + e["version"]
         version = f' <span class="app-version" title="Latest version" data-search-exclude>{esc(v)}</span>'
+    if e.get("released"):
+        tags.append(f'<span title="First published in the app store">Released {esc(e["released"])}</span>')
     tags.append(f'<span title="Latest release in the app store">Updated {esc(e["updated"] or "unknown")}</span>')
     if where:
         tags.append(f"<span>{esc(where)}</span>")
@@ -641,15 +706,24 @@ def render_card(e):
     names = dict(WATCHES)
     watches = ", ".join(esc(names[p]) for p, _ in WATCHES if p in (e.get("platforms") or []))
     author = esc(e["author"] or "Unknown developer")
-    if e.get("developer"):
-        dev = f'by <a href="{esc(e["developer"])}" title="More from this developer">{author}</a>'
+    if on_dev_page:
+        dev = "Watchface" if e["type"] == "watchface" else "App"
+    elif e.get("dev_page") or e.get("developer"):
+        href = f'../{e["dev_page"]}' if e.get("dev_page") else e["developer"]
+        dev = f'by <a href="{esc(href)}" title="More from this developer">{author}</a>'
     else:
         dev = f"by {author}"
+    if e.get("forum"):
+        dev += (f' · <a href="{esc(e["forum"])}" title="Discuss this app on the Rebble forum"'
+                f' data-search-exclude>Forum thread</a>')
+    data = (f' data-type="{e["type"]}" data-title="{esc(e["title"].lower())}"'
+            f' data-released="{esc(e["released"])}" data-updated="{esc(e["updated"])}"'
+            if on_dev_page else "")
     return (
         # The name is a heading so site search lists each app as its own
         # result, linking straight to its card. Search shows the developer and
         # description; the source link and tags are left out of the index.
-        '<div class="app-card">\n'
+        f'<div class="app-card"{data}>\n'
         f'<a class="app-shot" href="{esc(link)}" data-search-exclude>{shot}</a>\n'
         '<div class="app-info">\n'
         f'<h2 class="app-name" id="{esc(e["anchor"])}"><a href="{esc(link)}">{esc(e["title"])}</a>{version}</h2>\n'
@@ -723,13 +797,199 @@ def write_pages(app_type, entries, updated):
         )],
         "", END,
     ]
+    replace_generated(index_page, block)
+    print(f"{label}: {len(entries)} entries on {len(by_letter)} pages {counts}")
+
+
+def replace_generated(index_page, block):
+    """Put the block between the GENERATED markers, leaving the rest alone."""
     text = index_page.read_text(encoding="utf-8")
     if BEGIN in text and END in text:
         text = text[:text.index(BEGIN)] + "\n".join(block) + text[text.index(END) + len(END):]
     else:
         text = text.rstrip("\n") + "\n\n" + "\n".join(block)
     index_page.write_text(text.rstrip("\n") + "\n", encoding="utf-8")
-    print(f"{label}: {len(entries)} entries on {len(by_letter)} pages {counts}")
+
+
+def slugify(text):
+    text = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", text).strip("-")
+
+
+def store_label(url):
+    host = (urllib.parse.urlparse(url).hostname or "").lower()
+    return {"apps.repebble.com": "Pebble App Store", "apps.rebble.io": "Rebble App Store"}.get(host, "Website")
+
+
+CODE_HOSTS = {"github.com": "GitHub", "gitlab.com": "GitLab", "codeberg.org": "Codeberg"}
+STORE_HOSTS = {"apps.repebble.com", "apps.rebble.io", "apps.getpebble.com"}
+
+
+def code_profiles(apps):
+    """The developer's GitHub, GitLab and Codeberg profiles, worked out from
+    their apps' source links, most used first, as (host, owner) pairs."""
+    found = collections.Counter()
+    for e in apps:
+        u = urllib.parse.urlparse(e["source"])
+        host = (u.hostname or "").lower().removeprefix("www.")
+        parts = [p for p in u.path.split("/") if p]
+        if host in CODE_HOSTS and parts:
+            found[(host, parts[0])] += 1
+    # The same profile can be typed in different cases
+    seen, out = set(), []
+    for (host, owner), _ in found.most_common():
+        if (host, owner.lower()) not in seen:
+            seen.add((host, owner.lower()))
+            out.append((host, owner))
+    return out
+
+
+def developer_website(apps):
+    """The website most of the developer's apps give, leaving out code
+    repositories and app store pages, which are linked separately."""
+    sites = collections.Counter()
+    for e in apps:
+        site = e.get("website")
+        host = (urllib.parse.urlparse(site or "").hostname or "").lower().removeprefix("www.")
+        if site and host and host not in CODE_HOSTS and host not in STORE_HOSTS \
+                and _norm_source(site) != _norm_source(e["source"]):
+            sites[site] += 1
+    return sites.most_common(1)[0][0] if sites else None
+
+
+def build_developers(entries):
+    """Group every app by developer and give each developer a page. Sets
+    each entry's dev_page so its card can link there."""
+    store_keys = {e["author"].lower(): e["dev_key"] for e in entries
+                  if e["dev_key"] and not e["dev_key"].startswith("manual:")}
+    devs = {}
+    for e in entries:
+        key = e["dev_key"]
+        if key and key.startswith("manual:"):
+            # A hand-added app joins the store developer of the same name
+            key = store_keys.get(key.removeprefix("manual:"), key)
+        if key:
+            devs.setdefault(key, []).append(e)
+
+    out = []
+    for key, apps in devs.items():
+        apps.sort(key=lambda e: (e["updated"] or "", e["title"].lower()), reverse=True)
+        # The name used on most of their apps (on their latest app if tied)
+        name = collections.Counter(e["author"] for e in apps).most_common(1)[0][0]
+        profiles = {}
+        for e in apps:
+            if e.get("developer"):
+                profiles.setdefault(store_label(e["developer"]), e["developer"])
+        out.append({"key": key, "name": name, "slug": slugify(name) or "developer",
+                    "apps": apps, "profiles": profiles, "code": code_profiles(apps),
+                    "website": developer_website(apps)})
+    # The picture is their GitHub account's, preferring one no other developer
+    # uses: a shared account is usually an organisation, like coredevices
+    users = collections.Counter(o.lower() for d in out for h, o in d["code"] if h == "github.com")
+    for d in out:
+        github = [o for h, o in d["code"] if h == "github.com"]
+        d["avatar"] = next((o for o in github if users[o.lower()] == 1), github[0] if github else None)
+    # Developers who share a name get the start of a hash of their ID added
+    slugs = collections.Counter(d["slug"] for d in out)
+    for d in out:
+        if slugs[d["slug"]] > 1:
+            d["slug"] += "-" + hashlib.md5(d["key"].encode()).hexdigest()[:6]
+        for e in d["apps"]:
+            e["dev_page"] = f"{DEV_FOLDER.name}/{d['slug']}.html"
+    return sorted(out, key=lambda d: (d["name"].lower(), d["slug"]))
+
+
+def md_text(text):
+    """Text that Markdown shows as typed."""
+    return re.sub(r"([\\`*_\[\]#])", r"\\\1", html.escape(text))
+
+
+def plural(n, word):
+    return f"{n:,} {word}{'' if n == 1 else 's'}"
+
+
+def write_developer_pages(devs, updated):
+    DEV_FOLDER.mkdir(exist_ok=True)
+    for old in DEV_FOLDER.glob("*.md"):
+        old.unlink()
+    for d in devs:
+        apps = d["apps"]
+        faces = sum(1 for e in apps if e["type"] == "watchface")
+        counts = [plural(faces, "watchface") if faces else "",
+                  plural(len(apps) - faces, "app") if len(apps) - faces else ""]
+        links = [f"[{label}]({url})" for label, url in d["profiles"].items()]
+        links += [f"[{CODE_HOSTS[host]} ({md_text(owner)})](https://{host}/{owner})" for host, owner in d["code"]]
+        if d["website"]:
+            host = urllib.parse.urlparse(d["website"]).hostname.removeprefix("www.")
+            links.append(f"[Website ({md_text(host)})]({d['website']})")
+        # Their GitHub picture, removed if it doesn't load
+        avatar = (f'<img class="dev-avatar" src="https://github.com/{html.escape(d["avatar"])}.png?size=128"'
+                  f' alt="" width="64" height="64" loading="lazy" onerror="this.remove()">' if d["avatar"] else "")
+        lines = [
+            "---", f"title: {json.dumps(d['name'], ensure_ascii=False)}",
+            "hide:", "  - toc", "---", "",
+            "<!-- Generated by scripts/update_app_directory.py: do not edit by hand -->",
+            f"[← All Pebble Developers](../{DEV_INDEX.name})", "",
+            '<div class="dev-header" markdown>', avatar,
+            '<div class="dev-intro" markdown>', "",
+            f"# {md_text(d['name'])}", "",
+            f"*{' and '.join(c for c in counts if c)} · Last updated {updated} · "
+            f"[About these lists](../about-app-lists.md)*", "",
+        ]
+        if links:
+            lines += ["Links: " + " · ".join(links), ""]
+        lines += ["</div>", "</div>", ""]
+        if len(apps) > 1:
+            # Shown by assets/developers.js, which does the sorting and filtering
+            buttons = [("all", "All", len(apps)), ("watchface", "Watchfaces", faces),
+                       ("watchapp", "Apps", len(apps) - faces)]
+            lines += [
+                '<div class="dev-controls" data-search-exclude hidden>',
+                '<div class="dev-filter" role="group" aria-label="Show">'
+                + "".join(f'<button type="button" data-filter="{f}" aria-pressed="{str(f == "all").lower()}"'
+                          f'{" disabled" if not n else ""}>{label} <span>{n:,}</span></button>'
+                          for f, label, n in buttons)
+                + "</div>",
+                '<label class="dev-sort">Sort by <select>'
+                '<option value="updated">Recently updated</option>'
+                '<option value="released">Newest release</option>'
+                '<option value="title">A–Z</option>'
+                "</select></label>",
+                "</div>", "",
+            ]
+        lines += [
+            # Each app is already in search from its letter page
+            '<div class="app-grid dev-apps" data-search-exclude>',
+            *[render_card(e, on_dev_page=True) for e in apps],
+            "</div>", "",
+        ]
+        (DEV_FOLDER / f"{d['slug']}.md").write_text("\n".join(lines), encoding="utf-8")
+
+    by_letter = {}
+    for d in devs:
+        by_letter.setdefault(letter_of(d["name"]), []).append(d)
+    block = [
+        BEGIN, "",
+        f"**{len(devs):,} developers** of open source watchfaces and apps. Last updated {updated}.", "",
+        '<div class="letter-grid">',
+        *[f'<a href="#letter-{l.lower()}" title="{html.escape(letter_label(l))}">'
+          f'<strong>{"0–9" if l == "other" else l}</strong>'
+          f'<span>{len(by_letter[l]):,}</span></a>'
+          for l in LETTERS if l in by_letter],
+        "</div>", "",
+        # Every developer by name, with how many apps they've made
+        *[line for l in LETTERS if l in by_letter for line in (
+            f"## {letter_label(l)} {{ #letter-{l.lower()} }}", "",
+            '<div class="name-list" data-search-exclude>'
+            + "".join(f'<a href="{DEV_FOLDER.name}/{d["slug"]}.html" title="{plural(len(d["apps"]), "app")}">'
+                      f'{html.escape(d["name"])}<span>{len(d["apps"]):,}</span></a>'
+                      for d in by_letter[l])
+            + "</div>", "",
+        )],
+        "", END,
+    ]
+    replace_generated(DEV_INDEX, block)
+    print(f"developers: {len(devs)} pages")
 
 
 # ---------------------------------------------------------------- main
@@ -785,8 +1045,11 @@ def main():
     updated = updated_file.read_text().strip() if updated_file.exists() else today
     licences = load_licences()
     excluded = load_excluded()
+    entries = {t: entries_for(t, db, manual, licences, excluded) for t in TYPES}
+    devs = build_developers([e for t in TYPES for e in entries[t]])
     for app_type in TYPES:
-        write_pages(app_type, entries_for(app_type, db, manual, licences, excluded), updated)
+        write_pages(app_type, entries[app_type], updated)
+    write_developer_pages(devs, updated)
 
 
 if __name__ == "__main__":

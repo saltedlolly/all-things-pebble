@@ -8,16 +8,16 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · **M** · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*187 watchfaces · Last updated 2026-10-06 · [About these lists](../about-app-lists.md)*
+*187 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/21086d4ccce74bbbbaedd11a" data-search-exclude><img src="../images/apps/21086d4ccce74bbbbaedd11a.png" alt="M.A.D edition 2 watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-21086d4ccce74bbbbaedd11a"><a href="https://apps.repebble.com/21086d4ccce74bbbbaedd11a">M.A.D edition 2 watchface</a></h2>
+<h2 class="app-name" id="app-21086d4ccce74bbbbaedd11a"><a href="https://apps.repebble.com/21086d4ccce74bbbbaedd11a">M.A.D edition 2 watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/profweini/pebble-mad-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/unknown_a6e30a264dc5f351d17e51a8" title="More from this developer">Unknown</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.5</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
+<div class="app-dev">by <a href="../developers/unknown-c681cb.html" title="More from this developer">Unknown</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Mimicks the M.A.D. edition 2 by MB&amp;F. Including: - Jumping hours, smooth minutes - Spinning rotator It works on my Time 2 (2026), Steel (2015), and Classic (2013)</p>
 </div>
@@ -25,10 +25,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/69c990b93406d0000832e53b" data-search-exclude><img src="../images/apps/69c990b93406d0000832e53b.gif" alt="Maan On My Wrist XL" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69c990b93406d0000832e53b"><a href="https://apps.repebble.com/69c990b93406d0000832e53b">Maan On My Wrist XL</a></h2>
+<h2 class="app-name" id="app-69c990b93406d0000832e53b"><a href="https://apps.repebble.com/69c990b93406d0000832e53b">Maan On My Wrist XL</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://git.wetfence.xyz/RandyTheSilly/Maan-On-My-Wrist-XL" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/randythesilly_68e97cfa1c6711000953d795" title="More from this developer">RandyTheSilly</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">See source</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
+<div class="app-dev">by <a href="../developers/randythesilly.html" title="More from this developer">RandyTheSilly</a> · <a href="https://forum.rebble.io/t/809" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-29</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This is an unofficial and greatly expanded port of the &quot;Maan On My Wrist&quot; watchface to all color Pebbles, including the new Pebble Time 2/Round 2. Every half hour, one half of the creature will…</p>
 </div>
@@ -36,10 +36,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/67ebc0028b96250009ecfab7" data-search-exclude><img src="../images/apps/67ebc0028b96250009ecfab7.png" alt="Mac System 3" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67ebc0028b96250009ecfab7"><a href="https://apps.rebble.io/en_US/application/67ebc0028b96250009ecfab7">Mac System 3</a></h2>
+<h2 class="app-name" id="app-67ebc0028b96250009ecfab7"><a href="https://apps.rebble.io/en_US/application/67ebc0028b96250009ecfab7">Mac System 3</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/bimbodhisattva/mac-system-3-for-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5b6c74294752980001e1a0a8/1" title="More from this developer">bimbodhisattva</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2025-04-01</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/bimbodhisattva.html" title="More from this developer">bimbodhisattva</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-04-01</span> <span title="Latest release in the app store">Updated 2025-04-01</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays the current time in iconic Chicago font. Inspired by David Lancaster. Functional updates to come! :)</p>
 </div>
@@ -47,10 +47,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57c1b0525e3c3d0bfc000201" data-search-exclude><img src="../images/apps/57c1b0525e3c3d0bfc000201.png" alt="Mac System 3" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57c1b0525e3c3d0bfc000201"><a href="https://apps.repebble.com/57c1b0525e3c3d0bfc000201">Mac System 3</a></h2>
+<h2 class="app-name" id="app-57c1b0525e3c3d0bfc000201"><a href="https://apps.repebble.com/57c1b0525e3c3d0bfc000201">Mac System 3</a> <span class="app-version" title="Latest version" data-search-exclude>v1.67</span></h2>
 <a class="app-source" href="https://github.com/MrFoxhead/Mac-System-3-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mr-foxhead_55eb67e6cd182cd18d000075" title="More from this developer">Mr.Foxhead</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.67</span> <span title="Latest release in the app store">Updated 2016-08-27</span></div>
+<div class="app-dev">by <a href="../developers/mr-foxhead.html" title="More from this developer">Mr.Foxhead</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-27</span> <span title="Latest release in the app store">Updated 2016-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Ever wanted a Macintosh on your wrist? Well, that&#x27;s a blast from the past! Featuring almost the same aesthetics of old Apple computers! Made with ❤️ by your neighborhood Fox!</p>
 </div>
@@ -58,10 +58,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/67dfaf43122b40000904b4fa" data-search-exclude><img src="../images/apps/67dfaf43122b40000904b4fa.png" alt="Mac System 7" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67dfaf43122b40000904b4fa"><a href="https://apps.rebble.io/en_US/application/67dfaf43122b40000904b4fa">Mac System 7</a></h2>
+<h2 class="app-name" id="app-67dfaf43122b40000904b4fa"><a href="https://apps.rebble.io/en_US/application/67dfaf43122b40000904b4fa">Mac System 7</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/bimbodhisattva/mac-system-7-for-pebble-time" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5b6c74294752980001e1a0a8/1" title="More from this developer">bimbodhisattva</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2025-04-01</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/bimbodhisattva.html" title="More from this developer">bimbodhisattva</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-23</span> <span title="Latest release in the app store">Updated 2025-04-01</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">For Pebble Time. Displays the current time in iconic Chicago font. Inspired by David Lancaster. Functional updates to come! :)</p>
 </div>
@@ -69,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5536b17b9c0e141f270000b2" data-search-exclude><img src="../images/apps/5536b17b9c0e141f270000b2.png" alt="Macro Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5536b17b9c0e141f270000b2"><a href="https://apps.repebble.com/5536b17b9c0e141f270000b2">Macro Clock</a></h2>
+<h2 class="app-name" id="app-5536b17b9c0e141f270000b2"><a href="https://apps.repebble.com/5536b17b9c0e141f270000b2">Macro Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v2.6</span></h2>
 <a class="app-source" href="https://github.com/shamHu/PebbleMacroClock" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/shamhu_54ffa473bab059cfeb00006f" title="More from this developer">shamHu</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.6</span> <span title="Latest release in the app store">Updated 2016-04-01</span></div>
+<div class="app-dev">by <a href="../developers/shamhu.html" title="More from this developer">shamHu</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-21</span> <span title="Latest release in the app store">Updated 2016-04-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Customizable, minimal watchface featuring a roaming zoomed-in clock face effect. Features: * Customizable background, number, dot, and hand colors * 12 hour or 24 hour time format * Optional…</p>
 </div>
@@ -80,10 +80,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/c28d55850fee42f3a80d66cc" data-search-exclude><img src="../images/apps/c28d55850fee42f3a80d66cc.png" alt="Macro Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c28d55850fee42f3a80d66cc"><a href="https://apps.repebble.com/c28d55850fee42f3a80d66cc">Macro Clock</a></h2>
+<h2 class="app-name" id="app-c28d55850fee42f3a80d66cc"><a href="https://apps.repebble.com/c28d55850fee42f3a80d66cc">Macro Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/swantzter/PebbleMacroClock" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/swantzter_38e5d794bccd962d453ae6de" title="More from this developer">Swantzter</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.0.0</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
+<div class="app-dev">by <a href="../developers/swantzter.html" title="More from this developer">Swantzter</a> · <a href="https://forum.rebble.io/t/1019" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A version of shamHu&#x27;s Macro Clock that works on the new core devices app and the newer watches&#x27; larger screens. This clock features a zoomed in clock face where you only see the hour-hand…</p>
 </div>
@@ -91,10 +91,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/d86fadd4a2d64e368a264b8c" data-search-exclude><img src="../images/apps/d86fadd4a2d64e368a264b8c.png" alt="Maestro and MRPG Mina Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d86fadd4a2d64e368a264b8c"><a href="https://apps.repebble.com/d86fadd4a2d64e368a264b8c">Maestro and MRPG Mina Watchface</a></h2>
+<h2 class="app-name" id="app-d86fadd4a2d64e368a264b8c"><a href="https://apps.repebble.com/d86fadd4a2d64e368a264b8c">Maestro and MRPG Mina Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://studio.pebbleface.com/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/heyitsmina_606ee6874b1e8b7026737381" title="More from this developer">HeyItsMina</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2026-08-28</span></div>
+<div class="app-dev">by <a href="../developers/heyitsmina.html" title="More from this developer">HeyItsMina</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-28</span> <span title="Latest release in the app store">Updated 2026-08-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A little watchface with my characters on it! Made with Pebble Face Studio. PS - this watchface was only tested on one of the new Pebble Time 2s, you have been warned</p>
 </div>
@@ -102,10 +102,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54703777762f64feae000039" data-search-exclude><img src="../images/apps/54703777762f64feae000039.png" alt="Magellan Server Monitoring" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54703777762f64feae000039"><a href="https://apps.repebble.com/54703777762f64feae000039">Magellan Server Monitoring</a></h2>
+<h2 class="app-name" id="app-54703777762f64feae000039"><a href="https://apps.repebble.com/54703777762f64feae000039">Magellan Server Monitoring</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/soutaro/magellan" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/soutaro-matsumoto_5444ae052a5191123d000056" title="More from this developer">Soutaro Matsumoto</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2014-11-30</span></div>
+<div class="app-dev">by <a href="../developers/soutaro-matsumoto.html" title="More from this developer">Soutaro Matsumoto</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-22</span> <span title="Latest release in the app store">Updated 2014-11-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This Watchface helps you to keep monitoring your web app&#x27;s status through New Relic API.</p>
 </div>
@@ -113,10 +113,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6999fb27f7e14b1986ebd366" data-search-exclude><img src="../images/apps/6999fb27f7e14b1986ebd366.png" alt="Magnetism" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6999fb27f7e14b1986ebd366"><a href="https://apps.repebble.com/6999fb27f7e14b1986ebd366">Magnetism</a></h2>
+<h2 class="app-name" id="app-6999fb27f7e14b1986ebd366"><a href="https://apps.repebble.com/6999fb27f7e14b1986ebd366">Magnetism</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ChrisMondok/magnetism" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chris-mondok_c9d0fd35867b0a0b127d4d29" title="More from this developer">Chris Mondok</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
+<div class="app-dev">by <a href="../developers/chris-mondok.html" title="More from this developer">Chris Mondok</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watchface with no hands. The graduations tell the time.</p>
 </div>
@@ -124,10 +124,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5880a4a595ce5bbf140000bd" data-search-exclude><img src="../images/apps/5880a4a595ce5bbf140000bd.png" alt="Mainly Seconds" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5880a4a595ce5bbf140000bd"><a href="https://apps.rebble.io/en_US/application/5880a4a595ce5bbf140000bd">Mainly Seconds</a></h2>
+<h2 class="app-name" id="app-5880a4a595ce5bbf140000bd"><a href="https://apps.rebble.io/en_US/application/5880a4a595ce5bbf140000bd">Mainly Seconds</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/DHKaplan/Mainly_Seconds/blob/master/Mainly_Seconds-V1.0.zip" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/52acd9c431a5fa984900002e/1" title="More from this developer">WA1OUI</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2017-01-19</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/wa1oui.html" title="More from this developer">WA1OUI</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-01-19</span> <span title="Latest release in the app store">Updated 2017-01-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Mainly seconds shows... well mainly seconds. There is a battery indicator, BT indicator and the hours and minutes, but the seconds are front and center. Be aware this will reduce battery life if…</p>
 </div>
@@ -135,10 +135,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55b9146d4b7d02669800006e" data-search-exclude><img src="../images/apps/55b9146d4b7d02669800006e.png" alt="Maji de Watashi ni Koishinasai! W (Majikoi! W)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55b9146d4b7d02669800006e"><a href="https://apps.repebble.com/55b9146d4b7d02669800006e">Maji de Watashi ni Koishinasai! W (Majikoi! W)</a></h2>
+<h2 class="app-name" id="app-55b9146d4b7d02669800006e"><a href="https://apps.repebble.com/55b9146d4b7d02669800006e">Maji de Watashi ni Koishinasai! W (Majikoi! W)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/starrodkirby86/Majikoi-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/watson-tungjunyatham_5520e10a51d74384870000da" title="More from this developer">Watson Tungjunyatham</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.9</span> <span title="Latest release in the app store">Updated 2015-07-29</span></div>
+<div class="app-dev">by <a href="../developers/watson-tungjunyatham.html" title="More from this developer">Watson Tungjunyatham</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-29</span> <span title="Latest release in the app store">Updated 2015-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Love me, seriously! This is a Maji de Watashi ni Koishinasai! (Majikoi) themed watchface, with a few other features as well! This watchface includes 5 backgrounds and 11 characters that randomly…</p>
 </div>
@@ -146,10 +146,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7c8d451e7cf148988d11cd11" data-search-exclude><img src="../images/apps/7c8d451e7cf148988d11cd11.png" alt="Majulah SG" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7c8d451e7cf148988d11cd11"><a href="https://apps.repebble.com/7c8d451e7cf148988d11cd11">Majulah SG</a></h2>
+<h2 class="app-name" id="app-7c8d451e7cf148988d11cd11"><a href="https://apps.repebble.com/7c8d451e7cf148988d11cd11">Majulah SG</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-watchface-singapore" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/zhang-qichuan_53043485117485c22f0000cf" title="More from this developer">Zhang Qichuan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1.0</span> <span title="Latest release in the app store">Updated 2026-08-02</span></div>
+<div class="app-dev">by <a href="../developers/zhang-qichuan.html" title="More from this developer">Zhang Qichuan</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-08-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Majulah Singapura! The Singapore flag on your wrist. Works on every Pebble — round or square, colour or black-and-white. Install it and celebrate 9 August together!</p>
 </div>
@@ -157,10 +157,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53f30852abe2e701b700020c" data-search-exclude><img src="../images/apps/53f30852abe2e701b700020c.png" alt="Make a Difference" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53f30852abe2e701b700020c"><a href="https://apps.repebble.com/53f30852abe2e701b700020c">Make a Difference</a></h2>
+<h2 class="app-name" id="app-53f30852abe2e701b700020c"><a href="https://apps.repebble.com/53f30852abe2e701b700020c">Make a Difference</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jake-waratahs/difference" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/boom_53f15ea6bb5fa6b8560000b8" title="More from this developer">Boom</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2014-08-20</span></div>
+<div class="app-dev">by <a href="../developers/boom.html" title="More from this developer">Boom</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-19</span> <span title="Latest release in the app store">Updated 2014-08-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A little motivational watch face that encourages you to make a difference with your time on this earth. It tells the time, too.</p>
 </div>
@@ -168,10 +168,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/c0b16641ab934e11b3e57751" data-search-exclude><img src="../images/apps/c0b16641ab934e11b3e57751.gif" alt="Malayalam Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c0b16641ab934e11b3e57751"><a href="https://apps.repebble.com/c0b16641ab934e11b3e57751">Malayalam Clock</a></h2>
+<h2 class="app-name" id="app-c0b16641ab934e11b3e57751"><a href="https://apps.repebble.com/c0b16641ab934e11b3e57751">Malayalam Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v4.10</span></h2>
 <a class="app-source" href="https://github.com/manaksu/MalayalamWatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/creative-manaks_504fe850dc7e97a445b0a10d" title="More from this developer">Creative Manaks</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v4.10</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-dev">by <a href="../developers/creative-manaks.html" title="More from this developer">Creative Manaks</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Malayalam Clock brings the Malayalam script to your Pebble Time Steel — twelve hand-rendered Malayalam numerals arranged around a clean, cream analog clock face, with Kerala&#x27;s formation date…</p>
 </div>
@@ -179,10 +179,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52996cdc129af72b9d00002b" data-search-exclude><img src="../images/apps/52996cdc129af72b9d00002b.png" alt="Maneki Neko Watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52996cdc129af72b9d00002b"><a href="https://apps.repebble.com/52996cdc129af72b9d00002b">Maneki Neko Watch</a></h2>
+<h2 class="app-name" id="app-52996cdc129af72b9d00002b"><a href="https://apps.repebble.com/52996cdc129af72b9d00002b">Maneki Neko Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10</span></h2>
 <a class="app-source" href="https://github.com/pi-king/manekineko" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/king-pi_5299671fe627cef8d7000011" title="More from this developer">King Pi</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.10</span> <span title="Latest release in the app store">Updated 2016-12-02</span></div>
+<div class="app-dev">by <a href="../developers/king-pi.html" title="More from this developer">King Pi</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2016-12-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Cute maneki neko(lucky cat) on your watch and bring good luck to you:) Beckoning and move mouth every minute. Through configuration page, user can - set background color - set text color - enable…</p>
 </div>
@@ -190,10 +190,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/59a5967c461a8d34f6001568" data-search-exclude><img src="../images/apps/59a5967c461a8d34f6001568.png" alt="maqtanim" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-59a5967c461a8d34f6001568"><a href="https://apps.rebble.io/en_US/application/59a5967c461a8d34f6001568">maqtanim</a></h2>
+<h2 class="app-name" id="app-59a5967c461a8d34f6001568"><a href="https://apps.rebble.io/en_US/application/59a5967c461a8d34f6001568">maqtanim</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/Spitemare/maqtanim" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/564924e14f9b2989ec000014/1" title="More from this developer">David Morgan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2017-08-29</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/david-morgan.html" title="More from this developer">David Morgan</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-08-29</span> <span title="Latest release in the app store">Updated 2017-08-29</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Based on a design by /u/maqtanim on the Pebble subreddit.</p>
 </div>
@@ -201,10 +201,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/552723331c36ea4680000093" data-search-exclude><img src="../images/apps/552723331c36ea4680000093.png" alt="Marilyn" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-552723331c36ea4680000093"><a href="https://apps.repebble.com/552723331c36ea4680000093">Marilyn</a></h2>
+<h2 class="app-name" id="app-552723331c36ea4680000093"><a href="https://apps.repebble.com/552723331c36ea4680000093">Marilyn</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/gretchycat/DarkSide" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/gretchycat_52bf60060136db31fb0000d3" title="More from this developer">Gretchycat</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.0</span> <span title="Latest release in the app store">Updated 2015-10-19</span></div>
+<div class="app-dev">by <a href="../developers/gretchycat.html" title="More from this developer">Gretchycat</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-10</span> <span title="Latest release in the app store">Updated 2015-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">a very sexy Marilyn Monroe watchface Features a 2 week calendar, and when you shake or tap, see a 5 day weather forecast. Tap again for sunrise, sunset and moon phase. Tap a third time for a…</p>
 </div>
@@ -212,10 +212,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52d4239b9260fee2a200002a" data-search-exclude><img src="../images/apps/52d4239b9260fee2a200002a.png" alt="Mario" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52d4239b9260fee2a200002a"><a href="https://apps.repebble.com/52d4239b9260fee2a200002a">Mario</a></h2>
+<h2 class="app-name" id="app-52d4239b9260fee2a200002a"><a href="https://apps.repebble.com/52d4239b9260fee2a200002a">Mario</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/shadone/pebble-mario" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/denis-dzyubenko_52d3f04ccba06829ec000019" title="More from this developer">Denis Dzyubenko</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.1.0</span> <span title="Latest release in the app store">Updated 2014-01-29</span></div>
+<div class="app-dev">by <a href="../developers/denis-dzyubenko.html" title="More from this developer">Denis Dzyubenko</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-13</span> <span title="Latest release in the app store">Updated 2014-01-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A jumping Mario</p>
 </div>
@@ -223,10 +223,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9b9126db9e4343b08773fa76" data-search-exclude><img src="../images/apps/9b9126db9e4343b08773fa76.png" alt="Marker" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9b9126db9e4343b08773fa76"><a href="https://apps.repebble.com/9b9126db9e4343b08773fa76">Marker</a></h2>
+<h2 class="app-name" id="app-9b9126db9e4343b08773fa76"><a href="https://apps.repebble.com/9b9126db9e4343b08773fa76">Marker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/soxfox42/pebble-marker/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/soxfox42_67de4c3289abe700095df699" title="More from this developer">soxfox42</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
+<div class="app-dev">by <a href="../developers/soxfox42.html" title="More from this developer">soxfox42</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog clock that looks as though someone scribbled it on a whiteboard, featuring a short animation every time it changes!</p>
 </div>
@@ -234,10 +234,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/558ed3975dfd12a7a6000097" data-search-exclude><img src="../images/apps/558ed3975dfd12a7a6000097.png" alt="Marriage Equality all the Things!" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-558ed3975dfd12a7a6000097"><a href="https://apps.repebble.com/558ed3975dfd12a7a6000097">Marriage Equality all the Things!</a></h2>
+<h2 class="app-name" id="app-558ed3975dfd12a7a6000097"><a href="https://apps.repebble.com/558ed3975dfd12a7a6000097">Marriage Equality all the Things!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/gregmedd/pebble_all_the_things" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/greg-medding_54ab969275975bf267000077" title="More from this developer">Greg Medding</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-06-27</span></div>
+<div class="app-dev">by <a href="../developers/greg-medding.html" title="More from this developer">Greg Medding</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Celebrate LGBT pride and marriage equality for all 50 US states with this watchface! The heart beats while bluetooth is connected.</p>
 </div>
@@ -245,10 +245,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/582a6fa48c7fff9edf0001fa" data-search-exclude><img src="../images/apps/582a6fa48c7fff9edf0001fa.png" alt="Mars Time" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-582a6fa48c7fff9edf0001fa"><a href="https://apps.repebble.com/582a6fa48c7fff9edf0001fa">Mars Time</a></h2>
+<h2 class="app-name" id="app-582a6fa48c7fff9edf0001fa"><a href="https://apps.repebble.com/582a6fa48c7fff9edf0001fa">Mars Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/Rossmallow/Mars-Time-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/rossmallow_55515dcbe979af62610000a1" title="More from this developer">Rossmallow</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
+<div class="app-dev">by <a href="../developers/rossmallow.html" title="More from this developer">Rossmallow</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-15</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Each second on Mars is about half of a second on Earth. This watchface simulates time passing on Mars by incrementing time by about 32 seconds per minute starting from the time the watchface is…</p>
 </div>
@@ -256,10 +256,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5552c1411ba177287d0000b2" data-search-exclude><img src="../images/apps/5552c1411ba177287d0000b2.png" alt="Marvin Colour" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5552c1411ba177287d0000b2"><a href="https://apps.repebble.com/5552c1411ba177287d0000b2">Marvin Colour</a></h2>
+<h2 class="app-name" id="app-5552c1411ba177287d0000b2"><a href="https://apps.repebble.com/5552c1411ba177287d0000b2">Marvin Colour</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/antonioasaro/Antonio-Marvin_2.0.colour" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/antonio-asaro_52cd5e150799b0643b00003c" title="More from this developer">Antonio Asaro</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2015-12-15</span></div>
+<div class="app-dev">by <a href="../developers/antonio-asaro.html" title="More from this developer">Antonio Asaro</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-13</span> <span title="Latest release in the app store">Updated 2015-12-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Everyone&#x27;s favourite Martian - now in colour. Blasts time/date on the minute</p>
 </div>
@@ -267,10 +267,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52cd63ac9505d1780b00005b" data-search-exclude><img src="../images/apps/52cd63ac9505d1780b00005b.png" alt="Marvin the Martian" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52cd63ac9505d1780b00005b"><a href="https://apps.repebble.com/52cd63ac9505d1780b00005b">Marvin the Martian</a></h2>
+<h2 class="app-name" id="app-52cd63ac9505d1780b00005b"><a href="https://apps.repebble.com/52cd63ac9505d1780b00005b">Marvin the Martian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/antonioasaro/Antonio-Marvin_2.0.git" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/antonio-asaro_52cd5e150799b0643b00003c" title="More from this developer">Antonio Asaro</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2014-02-05</span></div>
+<div class="app-dev">by <a href="../developers/antonio-asaro.html" title="More from this developer">Antonio Asaro</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-08</span> <span title="Latest release in the app store">Updated 2014-02-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Marvin fires his integrator/disintegrator weapon at the date/time</p>
 </div>
@@ -278,10 +278,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52affd2e4002497d9e00000a" data-search-exclude><img src="../images/apps/52affd2e4002497d9e00000a.png" alt="Mask" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52affd2e4002497d9e00000a"><a href="https://apps.repebble.com/52affd2e4002497d9e00000a">Mask</a></h2>
+<h2 class="app-name" id="app-52affd2e4002497d9e00000a"><a href="https://apps.repebble.com/52affd2e4002497d9e00000a">Mask</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/PebbleMask" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mcongrove_52affc34e2187058f9000011" title="More from this developer">mcongrove</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
+<div class="app-dev">by <a href="../developers/mcongrove.html" title="More from this developer">mcongrove</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-17</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watch face based on the Mask watch by Filip Slovacek. Each triangle turns to reveal the current time; hour on the outer, minute on the inner. The time is updated in 5-minute increments…</p>
 </div>
@@ -289,10 +289,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56beb07c3e48f5697a000024" data-search-exclude><img src="../images/apps/56beb07c3e48f5697a000024.png" alt="Masonic" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56beb07c3e48f5697a000024"><a href="https://apps.repebble.com/56beb07c3e48f5697a000024">Masonic</a></h2>
+<h2 class="app-name" id="app-56beb07c3e48f5697a000024"><a href="https://apps.repebble.com/56beb07c3e48f5697a000024">Masonic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/revdrbrown/PebbleMasonic" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/dr-david-brown_55315ebd8763f8a6e5000043" title="More from this developer">Dr. David Brown</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2016-07-10</span></div>
+<div class="app-dev">by <a href="../developers/dr-david-brown.html" title="More from this developer">Dr. David Brown</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-07-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface for Master Masons featuring a background of a square and compass enclosing the letter G. The analog watchface marks the hour with a square, the minute with a triangle and the seconds…</p>
 </div>
@@ -300,10 +300,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5709ba2faf95a45063000018" data-search-exclude><img src="../images/apps/5709ba2faf95a45063000018.png" alt="Mass Effect V2 (Time Only)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5709ba2faf95a45063000018"><a href="https://apps.repebble.com/5709ba2faf95a45063000018">Mass Effect V2 (Time Only)</a></h2>
+<h2 class="app-name" id="app-5709ba2faf95a45063000018"><a href="https://apps.repebble.com/5709ba2faf95a45063000018">Mass Effect V2 (Time Only)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7</span></h2>
 <a class="app-source" href="https://github.com/ThatOneRoadie/watchface_mev2/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/thatoneroadie_5705f013b90c0fa04b000016" title="More from this developer">ThatOneRoadie</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="Latest version">v0.7</span> <span title="Latest release in the app store">Updated 2016-04-10</span></div>
+<div class="app-dev">by <a href="../developers/thatoneroadie.html" title="More from this developer">ThatOneRoadie</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-04-10</span> <span title="Latest release in the app store">Updated 2016-04-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A Fork and Reorganization of clach04&#x27;s fantastic Jupiter Mass Xen watchface, rebuilt for vertical striping and reorganized.</p>
 </div>
@@ -311,10 +311,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/e53dd73e9ead4df297762948" data-search-exclude><img src="../images/apps/e53dd73e9ead4df297762948.jpg" alt="Master-Plexus-CGM-NG" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-e53dd73e9ead4df297762948"><a href="https://apps.repebble.com/e53dd73e9ead4df297762948">Master-Plexus-CGM-NG</a></h2>
+<h2 class="app-name" id="app-e53dd73e9ead4df297762948"><a href="https://apps.repebble.com/e53dd73e9ead4df297762948">Master-Plexus-CGM-NG</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.0</span></h2>
 <a class="app-source" href="https://github.com/MasterPlexus/masterplexus-cgm-ng" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/masterplexus_20a20291203795e69e04dc1a" title="More from this developer">Masterplexus</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v0.3.0</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
+<div class="app-dev">by <a href="../developers/masterplexus.html" title="More from this developer">Masterplexus</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-06</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">initial. Tested on Pebble time two. Basis from urchin-cgm, all honors to him. Anyhow to know: this Watchface is made for having Blood measurements visible from Nightscout and Dexcom. Improved cgm…</p>
 </div>
@@ -322,10 +322,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56afc52e3076f5d16e000050" data-search-exclude><img src="../images/apps/56afc52e3076f5d16e000050.gif" alt="Material Ribbon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56afc52e3076f5d16e000050"><a href="https://apps.repebble.com/56afc52e3076f5d16e000050">Material Ribbon</a></h2>
+<h2 class="app-name" id="app-56afc52e3076f5d16e000050"><a href="https://apps.repebble.com/56afc52e3076f5d16e000050">Material Ribbon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/turnervink/materialribbon" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/turner-vink_54a871aadf4908b0410000f1" title="More from this developer">Turner Vink</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-03-16</span></div>
+<div class="app-dev">by <a href="../developers/turner-vink.html" title="More from this developer">Turner Vink</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-01</span> <span title="Latest release in the app store">Updated 2016-03-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">If you enjoy Material Ribbon, give it a heart or consider making a donation through the settings page! Inspired by Material Design, Material Ribbon gives you all the information you need on two…</p>
 </div>
@@ -333,10 +333,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5a2421aa0dfc32823d0036e7" data-search-exclude><img src="../images/apps/5a2421aa0dfc32823d0036e7.png" alt="Math Facts Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5a2421aa0dfc32823d0036e7"><a href="https://apps.rebble.io/en_US/application/5a2421aa0dfc32823d0036e7">Math Facts Watchface</a></h2>
+<h2 class="app-name" id="app-5a2421aa0dfc32823d0036e7"><a href="https://apps.rebble.io/en_US/application/5a2421aa0dfc32823d0036e7">Math Facts Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/kmuniba98/math-facts-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/59922281461a8d9e49000e20/1" title="More from this developer">Muniba Khan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.0</span> <span title="Latest release in the app store">Updated 2017-12-03</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/muniba-khan.html" title="More from this developer">Muniba Khan</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-12-03</span> <span title="Latest release in the app store">Updated 2017-12-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A Pebble watch-face displaying math and trivia facts associated with the current time.</p>
 </div>
@@ -344,10 +344,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5309427924c4582908000046" data-search-exclude><img src="../images/apps/5309427924c4582908000046.png" alt="Math Geek" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5309427924c4582908000046"><a href="https://apps.repebble.com/5309427924c4582908000046">Math Geek</a></h2>
+<h2 class="app-name" id="app-5309427924c4582908000046"><a href="https://apps.repebble.com/5309427924c4582908000046">Math Geek</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/stevenschmatz/math-geek-pebble-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/steven-schmatz_52fecd72c7c81b6aaa00001e" title="More from this developer">Steven Schmatz</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2014-02-24</span></div>
+<div class="app-dev">by <a href="../developers/steven-schmatz.html" title="More from this developer">Steven Schmatz</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-23</span> <span title="Latest release in the app store">Updated 2014-02-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">For those with a need to embrace their inner geek. Minimalistic watchface that shows the hour in a LaTeX rendered mathematical expression, with a semicircle positioned at the minute position…</p>
 </div>
@@ -355,10 +355,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/556a9c7ad2d833200f000099" data-search-exclude><img src="../images/apps/556a9c7ad2d833200f000099.png" alt="MathTime" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-556a9c7ad2d833200f000099"><a href="https://apps.repebble.com/556a9c7ad2d833200f000099">MathTime</a></h2>
+<h2 class="app-name" id="app-556a9c7ad2d833200f000099"><a href="https://apps.repebble.com/556a9c7ad2d833200f000099">MathTime</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/NewAndy/MathTime" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/newandy_52f20b8b0bbfec410900116c" title="More from this developer">NewAndy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2015-06-07</span></div>
+<div class="app-dev">by <a href="../developers/newandy.html" title="More from this developer">NewAndy</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-31</span> <span title="Latest release in the app store">Updated 2015-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">MathTime watchface with basic math operations. Bluetooth connection check. Battery usage icon.</p>
 </div>
@@ -366,10 +366,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55ad3d946749cded0f000098" data-search-exclude><img src="../images/apps/55ad3d946749cded0f000098.png" alt="Matrix" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55ad3d946749cded0f000098"><a href="https://apps.repebble.com/55ad3d946749cded0f000098">Matrix</a></h2>
+<h2 class="app-name" id="app-55ad3d946749cded0f000098"><a href="https://apps.repebble.com/55ad3d946749cded0f000098">Matrix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.01</span></h2>
 <a class="app-source" href="https://github.com/lazaronijunior/Matrix-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/marcelo-lazaroni_5565fcb808c37657f1000080" title="More from this developer">Marcelo Lazaroni</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.01</span> <span title="Latest release in the app store">Updated 2015-07-21</span></div>
+<div class="app-dev">by <a href="../developers/marcelo-lazaroni.html" title="More from this developer">Marcelo Lazaroni</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-20</span> <span title="Latest release in the app store">Updated 2015-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Have the Matrix on your wrist. Every time you flick your wrist you will see matrix&#x27;s code rain on your watch. Aaaand it&#x27;s open source! You can learn from the code and create your own awesome…</p>
 </div>
@@ -377,10 +377,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/cb425279b1f849afaf23f476" data-search-exclude><img src="../images/apps/cb425279b1f849afaf23f476.png" alt="Matrix" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-cb425279b1f849afaf23f476"><a href="https://apps.repebble.com/cb425279b1f849afaf23f476">Matrix</a></h2>
+<h2 class="app-name" id="app-cb425279b1f849afaf23f476"><a href="https://apps.repebble.com/cb425279b1f849afaf23f476">Matrix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/nyinyiz/Pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/nyinyiz_f5e3748c0c0d40c0ef52a98a" title="More from this developer">nyinyiz</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3.0</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
+<div class="app-dev">by <a href="../developers/nyinyiz.html" title="More from this developer">nyinyiz</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Experience the iconic movie&#x27;s visual aesthetic on your wrist with this premium, high-performance Pebble watchface. &quot;Matrix Digital Rain&quot; features a custom-built animation engine that renders…</p>
 </div>
@@ -388,10 +388,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6979c159323ecb00092c53f9" data-search-exclude><img src="../images/apps/6979c159323ecb00092c53f9.gif" alt="Matrix01" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6979c159323ecb00092c53f9"><a href="https://apps.repebble.com/6979c159323ecb00092c53f9">Matrix01</a></h2>
+<h2 class="app-name" id="app-6979c159323ecb00092c53f9"><a href="https://apps.repebble.com/6979c159323ecb00092c53f9">Matrix01</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/Yorks0n/pebble-watchface-Matrix01" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/yorks0n_692a907686176a0009926c79" title="More from this developer">Yorks0n</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2026-01-28</span></div>
+<div class="app-dev">by <a href="../developers/yorks0n.html" title="More from this developer">Yorks0n</a> · <a href="https://forum.rebble.io/t/583" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-28</span> <span title="Latest release in the app store">Updated 2026-01-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A digital rain effect watchface inspired by the movie &quot;The Matrix&quot;. It rains when time changes or shaken.</p>
 </div>
@@ -399,10 +399,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5311af3492295d8d8800003b" data-search-exclude><img src="../images/apps/5311af3492295d8d8800003b.png" alt="MatrixCode 2.0" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5311af3492295d8d8800003b"><a href="https://apps.repebble.com/5311af3492295d8d8800003b">MatrixCode 2.0</a></h2>
+<h2 class="app-name" id="app-5311af3492295d8d8800003b"><a href="https://apps.repebble.com/5311af3492295d8d8800003b">MatrixCode 2.0</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.2</span></h2>
 <a class="app-source" href="https://github.com/Jnmattern/MatrixCode_2.0" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/jnm_529994c0e627ce7ba1000050" title="More from this developer">Jnm</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.0.2</span> <span title="Latest release in the app store">Updated 2014-03-01</span></div>
+<div class="app-dev">by <a href="../developers/jnm.html" title="More from this developer">Jnm</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-03-01</span> <span title="Latest release in the app store">Updated 2014-03-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Matrix inspired watchface. Settings allow to configure the use of straight or reversed digits and blinking colon.</p>
 </div>
@@ -410,10 +410,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55b36a567d33ce968800004c" data-search-exclude><img src="../images/apps/55b36a567d33ce968800004c.png" alt="Matt FaceWatch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55b36a567d33ce968800004c"><a href="https://apps.repebble.com/55b36a567d33ce968800004c">Matt FaceWatch</a></h2>
+<h2 class="app-name" id="app-55b36a567d33ce968800004c"><a href="https://apps.repebble.com/55b36a567d33ce968800004c">Matt FaceWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/braiba/MattWatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/braiba_5320f4f2c854efe3c6000163" title="More from this developer">Braiba</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v0.3</span> <span title="Latest release in the app store">Updated 2015-07-25</span></div>
+<div class="app-dev">by <a href="../developers/braiba.html" title="More from this developer">Braiba</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-25</span> <span title="Latest release in the app store">Updated 2015-07-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Watchface based on a running image from @Jam_sponge&#x27;s twitter feed</p>
 </div>
@@ -421,10 +421,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/aea24cf36e484878ae9c806e" data-search-exclude><img src="../images/apps/aea24cf36e484878ae9c806e.png" alt="Max&#x27;s minimalist watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-aea24cf36e484878ae9c806e"><a href="https://apps.repebble.com/aea24cf36e484878ae9c806e">Max&#x27;s minimalist watchface</a></h2>
+<h2 class="app-name" id="app-aea24cf36e484878ae9c806e"><a href="https://apps.repebble.com/aea24cf36e484878ae9c806e">Max&#x27;s minimalist watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.7</span></h2>
 <a class="app-source" href="https://github.com/Max-q-rockets/MinimalistPebbleTime2Face" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/unknown_d9a7fde7c50c10a226af0ed1" title="More from this developer">Unknown</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v0.0.7</span> <span title="Latest release in the app store">Updated 2026-08-26</span></div>
+<div class="app-dev">by <a href="../developers/unknown-b7e3fa.html" title="More from this developer">Unknown</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-11</span> <span title="Latest release in the app store">Updated 2026-08-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Minimalist watchface displaying battery, heart rate and step count, as well as sunrise and sunset time.</p>
 </div>
@@ -432,10 +432,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f439f879e2484bfca6959309" data-search-exclude><img src="../images/apps/f439f879e2484bfca6959309.png" alt="Max&#x27;s Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f439f879e2484bfca6959309"><a href="https://apps.repebble.com/f439f879e2484bfca6959309">Max&#x27;s Watchface</a></h2>
+<h2 class="app-name" id="app-f439f879e2484bfca6959309"><a href="https://apps.repebble.com/f439f879e2484bfca6959309">Max&#x27;s Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/maxharrison/watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/unknown_620c8d1cdbd8fa4ccafc0dde" title="More from this developer">Unknown</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.4</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
+<div class="app-dev">by <a href="../developers/unknown-da92a0.html" title="More from this developer">Unknown</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">My minimal Pebble watchface.</p>
 </div>
@@ -443,10 +443,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/46984ddb0fbf4d84982863d3" data-search-exclude><span class="app-noshot">No screenshot</span></a>
 <div class="app-info">
-<h2 class="app-name" id="app-46984ddb0fbf4d84982863d3"><a href="https://apps.repebble.com/46984ddb0fbf4d84982863d3">max-infowatch</a></h2>
+<h2 class="app-name" id="app-46984ddb0fbf4d84982863d3"><a href="https://apps.repebble.com/46984ddb0fbf4d84982863d3">max-infowatch</a> <span class="app-version" title="Latest version" data-search-exclude>v2</span></h2>
 <a class="app-source" href="https://github.com/maxharrison/infowatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/unknown_620c8d1cdbd8fa4ccafc0dde" title="More from this developer">Unknown</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
+<div class="app-dev">by <a href="../developers/unknown-da92a0.html" title="More from this developer">Unknown</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">just a personal fork of ForcasWatch 2</p>
 </div>
@@ -454,10 +454,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4d975333927945509bebe83f" data-search-exclude><span class="app-noshot">No screenshot</span></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4d975333927945509bebe83f"><a href="https://apps.repebble.com/4d975333927945509bebe83f">max-infowatch</a></h2>
+<h2 class="app-name" id="app-4d975333927945509bebe83f"><a href="https://apps.repebble.com/4d975333927945509bebe83f">max-infowatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1</span></h2>
 <a class="app-source" href="https://github.com/maxharrison/infowatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/unknown_620c8d1cdbd8fa4ccafc0dde" title="More from this developer">Unknown</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
+<div class="app-dev">by <a href="../developers/unknown-da92a0.html" title="More from this developer">Unknown</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">just a personal fork of ForcasWatch 2</p>
 </div>
@@ -465,10 +465,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/62ddf692bcc333000908d28d" data-search-exclude><img src="../images/apps/62ddf692bcc333000908d28d.png" alt="Mazda RX7" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-62ddf692bcc333000908d28d"><a href="https://apps.rebble.io/en_US/application/62ddf692bcc333000908d28d">Mazda RX7</a></h2>
+<h2 class="app-name" id="app-62ddf692bcc333000908d28d"><a href="https://apps.rebble.io/en_US/application/62ddf692bcc333000908d28d">Mazda RX7</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/mazdarx7face" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/609801a58324660009e8a4db/1" title="More from this developer">John Spahr</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2022-07-25</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/john-spahr-b4e7e0.html" title="More from this developer">John Spahr</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-07-25</span> <span title="Latest release in the app store">Updated 2022-07-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Pebble Time watch face that randomly displays a few different pictures of a Mazda RX7, the date, and the time. Watchface requested by Twebe Bebe of Pebblebot Repairs. (Be sure to check it out!)</p>
 </div>
@@ -476,10 +476,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5519dd51248d68e33700001d" data-search-exclude><img src="../images/apps/5519dd51248d68e33700001d.png" alt="Meeting mode" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5519dd51248d68e33700001d"><a href="https://apps.repebble.com/5519dd51248d68e33700001d">Meeting mode</a></h2>
+<h2 class="app-name" id="app-5519dd51248d68e33700001d"><a href="https://apps.repebble.com/5519dd51248d68e33700001d">Meeting mode</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/adamnfish/pebble-meeting-mode" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/adamnfish_531b2719af83c1bfbb000613" title="More from this developer">adamnfish</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="Latest version">v0.2</span> <span title="Latest release in the app store">Updated 2015-10-13</span></div>
+<div class="app-dev">by <a href="../developers/adamnfish.html" title="More from this developer">adamnfish</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-03-30</span> <span title="Latest release in the app store">Updated 2015-10-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watchface designed for office meetings. Keep track of the time that has passed without having to look at your wrist! Meeting subtly vibrates every 5 minutes and gives a distinctive…</p>
 </div>
@@ -487,10 +487,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/64a4bb81a474e20087825242" data-search-exclude><img src="../images/apps/64a4bb81a474e20087825242.png" alt="Mega Man 2 - Retro Series" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-64a4bb81a474e20087825242"><a href="https://apps.repebble.com/64a4bb81a474e20087825242">Mega Man 2 - Retro Series</a></h2>
+<h2 class="app-name" id="app-64a4bb81a474e20087825242"><a href="https://apps.repebble.com/64a4bb81a474e20087825242">Mega Man 2 - Retro Series</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/HarrisonAllen/retro-watchfaces/tree/main/Mega%20Man/Mega%20Man%202" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/harrison-allen_5e28ea923dd3109f151c7e08" title="More from this developer">Harrison Allen</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2023-07-05</span></div>
+<div class="app-dev">by <a href="../developers/harrison-allen.html" title="More from this developer">Harrison Allen</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2023-07-05</span> <span title="Latest release in the app store">Updated 2023-07-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Mega Man 2 - Retro Series Take a trip back in time to 1988 with this Mega Man 2 watchface. Part of the Retro Series, this watchface travels through each of the eight stages. Mega Man will step…</p>
 </div>
@@ -498,10 +498,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55c8ef366aeaee8c9c000020" data-search-exclude><img src="../images/apps/55c8ef366aeaee8c9c000020.gif" alt="Mega Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55c8ef366aeaee8c9c000020"><a href="https://apps.repebble.com/55c8ef366aeaee8c9c000020">Mega Watchface</a></h2>
+<h2 class="app-name" id="app-55c8ef366aeaee8c9c000020"><a href="https://apps.repebble.com/55c8ef366aeaee8c9c000020">Mega Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mattfox12/mega_watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/matthew-klundt_54ca7969c967f922c2000056" title="More from this developer">Matthew Klundt</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-08-11</span></div>
+<div class="app-dev">by <a href="../developers/matthew-klundt.html" title="More from this developer">Matthew Klundt</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-10</span> <span title="Latest release in the app store">Updated 2015-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface in the style of Mega Man X. Shows Bluetooth connection and battery life as the life meter.</p>
 </div>
@@ -509,10 +509,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55821fac09d6f4b1ee000034" data-search-exclude><img src="../images/apps/55821fac09d6f4b1ee000034.png" alt="Megaman PET" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55821fac09d6f4b1ee000034"><a href="https://apps.repebble.com/55821fac09d6f4b1ee000034">Megaman PET</a></h2>
+<h2 class="app-name" id="app-55821fac09d6f4b1ee000034"><a href="https://apps.repebble.com/55821fac09d6f4b1ee000034">Megaman PET</a> <span class="app-version" title="Latest version" data-search-exclude>v0.48</span></h2>
 <a class="app-source" href="https://github.com/BOBdotEXE/NaviEngine" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/bobdotexe_54f5238c89900e4bb10000cf" title="More from this developer">BOBdotEXE</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="Latest version">v0.48</span> <span title="Latest release in the app store">Updated 2017-04-28</span></div>
+<div class="app-dev">by <a href="../developers/bobdotexe.html" title="More from this developer">BOBdotEXE</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-06-18</span> <span title="Latest release in the app store">Updated 2017-04-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Your very own NetNavi! With multiple animations, Blinking, &#x27;jack out&#x27; when you return to the main screen, collapsing clock too! This watch face show the time of day (12hr/24hr format supported) As…</p>
 </div>
@@ -520,10 +520,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/579d5b851482cd673b0003c9" data-search-exclude><img src="../images/apps/579d5b851482cd673b0003c9.png" alt="Megaman PET" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-579d5b851482cd673b0003c9"><a href="https://apps.repebble.com/579d5b851482cd673b0003c9">Megaman PET</a></h2>
+<h2 class="app-name" id="app-579d5b851482cd673b0003c9"><a href="https://apps.repebble.com/579d5b851482cd673b0003c9">Megaman PET</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/BOBdotEXE/NaviEngine.git" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/p1x3l_56e01ef1320b57e74000000d" title="More from this developer">P1X3L</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-08-09</span></div>
+<div class="app-dev">by <a href="../developers/p1x3l.html" title="More from this developer">P1X3L</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-07-31</span> <span title="Latest release in the app store">Updated 2016-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Your own Megaman NetNavi! This watchface is inspired and built of BOBdotEXE&#x27;s NetNavi watchface! I made a black and white version. The battery meter is at the top. The time animates when the…</p>
 </div>
@@ -531,10 +531,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/558cb4fcdf1af0306e000044" data-search-exclude><img src="../images/apps/558cb4fcdf1af0306e000044.png" alt="Megaman Time" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-558cb4fcdf1af0306e000044"><a href="https://apps.repebble.com/558cb4fcdf1af0306e000044">Megaman Time</a></h2>
+<h2 class="app-name" id="app-558cb4fcdf1af0306e000044"><a href="https://apps.repebble.com/558cb4fcdf1af0306e000044">Megaman Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/sethruji/MegamanTime" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/hedgehogs265_53ada5606b4f8e25c50003b2" title="More from this developer">Hedgehogs265</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2015-06-26</span></div>
+<div class="app-dev">by <a href="../developers/hedgehogs265.html" title="More from this developer">Hedgehogs265</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-26</span> <span title="Latest release in the app store">Updated 2015-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">*Currently there is a bug that causes the face to not properly stay at the selected boss and power up. I will get to this issue as soon as I have the chance but I&#x27;m limited on time currently…</p>
 </div>
@@ -542,10 +542,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569365c2ead187bb8f000043" data-search-exclude><img src="../images/apps/569365c2ead187bb8f000043.png" alt="MegaWatch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569365c2ead187bb8f000043"><a href="https://apps.repebble.com/569365c2ead187bb8f000043">MegaWatch</a></h2>
+<h2 class="app-name" id="app-569365c2ead187bb8f000043"><a href="https://apps.repebble.com/569365c2ead187bb8f000043">MegaWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/MrDrake/megawatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mrdrake_568f42fc40353f81d5000036" title="More from this developer">MrDrake</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-01-11</span></div>
+<div class="app-dev">by <a href="../developers/mrdrake.html" title="More from this developer">MrDrake</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-01-11</span> <span title="Latest release in the app store">Updated 2016-01-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Have you ever wanted to mega-evolve your Pokémon with your Pebble Time Round? Well now you can, with the MegaWatch, with in-built Key Stone! This watch has a Key Stone background and minimalistic…</p>
 </div>
@@ -553,10 +553,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569490b44ccd6c997d000051" data-search-exclude><img src="../images/apps/569490b44ccd6c997d000051.png" alt="MegaWatch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569490b44ccd6c997d000051"><a href="https://apps.repebble.com/569490b44ccd6c997d000051">MegaWatch</a></h2>
+<h2 class="app-name" id="app-569490b44ccd6c997d000051"><a href="https://apps.repebble.com/569490b44ccd6c997d000051">MegaWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/MrDrake/megawatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mrdrake_568f42fc40353f81d5000036" title="More from this developer">MrDrake</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-01-12</span></div>
+<div class="app-dev">by <a href="../developers/mrdrake.html" title="More from this developer">MrDrake</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-01-12</span> <span title="Latest release in the app store">Updated 2016-01-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Have you ever wanted to mega-evolve your Pokémon with your Pebble Time Round? Well now you can, with the MegaWatch, with in-built Key Stone! This watch has a Key Stone background and simple…</p>
 </div>
@@ -564,10 +564,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7865e440b1bc45749db1b0e9" data-search-exclude><img src="../images/apps/7865e440b1bc45749db1b0e9.gif" alt="Memento Mori" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7865e440b1bc45749db1b0e9"><a href="https://apps.repebble.com/7865e440b1bc45749db1b0e9">Memento Mori</a></h2>
+<h2 class="app-name" id="app-7865e440b1bc45749db1b0e9"><a href="https://apps.repebble.com/7865e440b1bc45749db1b0e9">Memento Mori</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/priyankark/pebble-wf-agent-skill" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/aircodum_67bc77bf37d408000a74f7d3" title="More from this developer">AirCodum</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.2</span> <span title="Latest release in the app store">Updated 2026-04-07</span></div>
+<div class="app-dev">by <a href="../developers/aircodum.html" title="More from this developer">AirCodum</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-04-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A particle-dust skull with glowing red eyes that watches over your wrist.</p>
 </div>
@@ -575,10 +575,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52cf0183bed07f7d3a000070" data-search-exclude><img src="../images/apps/52cf0183bed07f7d3a000070.png" alt="Memoface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52cf0183bed07f7d3a000070"><a href="https://apps.repebble.com/52cf0183bed07f7d3a000070">Memoface</a></h2>
+<h2 class="app-name" id="app-52cf0183bed07f7d3a000070"><a href="https://apps.repebble.com/52cf0183bed07f7d3a000070">Memoface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/izqui/Memoface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/jorge-izquierdo_52c01cec101f1a76bc000045" title="More from this developer">Jorge Izquierdo</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2014-01-09</span></div>
+<div class="app-dev">by <a href="../developers/jorge-izquierdo.html" title="More from this developer">Jorge Izquierdo</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-09</span> <span title="Latest release in the app store">Updated 2014-01-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Memoface allows you to have a note in your watch face always you want, just in case you want to remember. It works with the accelerometer.</p>
 </div>
@@ -586,10 +586,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55edba885aaf6b33cd00002f" data-search-exclude><img src="../images/apps/55edba885aaf6b33cd00002f.png" alt="MEMPHIS" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55edba885aaf6b33cd00002f"><a href="https://apps.repebble.com/55edba885aaf6b33cd00002f">MEMPHIS</a></h2>
+<h2 class="app-name" id="app-55edba885aaf6b33cd00002f"><a href="https://apps.repebble.com/55edba885aaf6b33cd00002f">MEMPHIS</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/AdobeEditor/MEMPHIS" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/adobeeditor_5506524ee1a3a884b90000a3" title="More from this developer">AdobeEditor</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2015-09-22</span></div>
+<div class="app-dev">by <a href="../developers/adobeeditor.html" title="More from this developer">AdobeEditor</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-09-07</span> <span title="Latest release in the app store">Updated 2015-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Inspired by the Memphis design movement of the 1980&#x27;s, this collection of watchfaces embodies the quirkiness of the antidesign aesthetic.</p>
 </div>
@@ -597,10 +597,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9d2ad00e3f5f439a9396316c" data-search-exclude><img src="../images/apps/9d2ad00e3f5f439a9396316c.png" alt="Meow O&#x27;Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9d2ad00e3f5f439a9396316c"><a href="https://apps.repebble.com/9d2ad00e3f5f439a9396316c">Meow O&#x27;Clock</a></h2>
+<h2 class="app-name" id="app-9d2ad00e3f5f439a9396316c"><a href="https://apps.repebble.com/9d2ad00e3f5f439a9396316c">Meow O&#x27;Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/trishtzy/pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/trishtzy_7f804afab74d6b22653f0e98" title="More from this developer">trishtzy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.4.0</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-dev">by <a href="../developers/trishtzy.html" title="More from this developer">trishtzy</a> · <a href="https://forum.rebble.io/t/1286" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-28</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A playful watchface featuring an animated kitten that switches between playtime and sleeping mode based on the time of day, with clean time and date display. Includes battery status indicator with…</p>
 </div>
@@ -608,10 +608,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/67cdf003b7a023034a3395bc" data-search-exclude><img src="../images/apps/67cdf003b7a023034a3395bc.png" alt="Mercury" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67cdf003b7a023034a3395bc"><a href="https://apps.rebble.io/en_US/application/67cdf003b7a023034a3395bc">Mercury</a></h2>
+<h2 class="app-name" id="app-67cdf003b7a023034a3395bc"><a href="https://apps.rebble.io/en_US/application/67cdf003b7a023034a3395bc">Mercury</a> <span class="app-version" title="Latest version" data-search-exclude>v1.18</span></h2>
 <a class="app-source" href="https://github.com/JavierRizzoA/Pebble-Mercury/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/55f51b85eb030e3836000054/1" title="More from this developer">Javier Rizzo</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="Latest version">v1.18</span> <span title="Latest release in the app store">Updated 2026-01-05</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/javier-rizzo.html" title="More from this developer">Javier Rizzo</a> · <a href="https://forum.rebble.io/t/95" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2025-03-09</span> <span title="Latest release in the app store">Updated 2026-01-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The background gradient follows the minutes hand. Inspired by the Hermes watchface for the Apple Watch. Fonts provided by NiVZ (check his other cool watchfaces on the store!). This watchface was…</p>
 </div>
@@ -619,10 +619,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57bb76c7bb85ed1b790005c9" data-search-exclude><img src="../images/apps/57bb76c7bb85ed1b790005c9.png" alt="Mere" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57bb76c7bb85ed1b790005c9"><a href="https://apps.repebble.com/57bb76c7bb85ed1b790005c9">Mere</a></h2>
+<h2 class="app-name" id="app-57bb76c7bb85ed1b790005c9"><a href="https://apps.repebble.com/57bb76c7bb85ed1b790005c9">Mere</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mpedrero/pebble-mere" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/manuel-pedrero_56f8fead5e4cddf138000024" title="More from this developer">Manuel Pedrero</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-08-22</span></div>
+<div class="app-dev">by <a href="../developers/manuel-pedrero.html" title="More from this developer">Manuel Pedrero</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-22</span> <span title="Latest release in the app store">Updated 2016-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface with simplicity and legibility in mind. Inspired in Nucleus. Features: + Big and legible time (12/24 hour) + Date + Steps (upper left) + Battery status (upper right) + Bluetooth alert</p>
 </div>
@@ -630,10 +630,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/de5b5b388f8b4adea2857f14" data-search-exclude><img src="../images/apps/de5b5b388f8b4adea2857f14.png" alt="Metal Gear Cardboard Box Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-de5b5b388f8b4adea2857f14"><a href="https://apps.repebble.com/de5b5b388f8b4adea2857f14">Metal Gear Cardboard Box Watchface</a></h2>
+<h2 class="app-name" id="app-de5b5b388f8b4adea2857f14"><a href="https://apps.repebble.com/de5b5b388f8b4adea2857f14">Metal Gear Cardboard Box Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.15</span></h2>
 <a class="app-source" href="https://github.com/shoepaladin/kiwi-cup/tree/main/pebble/metalgear_cbox_wf" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/sapphire-second-hand_527b6cf8aa4310a44fe95d9d" title="More from this developer">Sapphire Second-Hand</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.15</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
+<div class="app-dev">by <a href="../developers/sapphire-second-hand.html" title="More from this developer">Sapphire Second-Hand</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-06</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">See Snake sneak across your watch! Featuring a Shadow Moses inspired dark mode. When BT disconnects, see &quot;FISSION MAILED&quot; displayed across the screen. Different selectable cardboard boxes.</p>
 </div>
@@ -641,10 +641,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/549a3101a0bb06472700003e" data-search-exclude><img src="../images/apps/549a3101a0bb06472700003e.png" alt="Metal Gear GT" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-549a3101a0bb06472700003e"><a href="https://apps.repebble.com/549a3101a0bb06472700003e">Metal Gear GT</a></h2>
+<h2 class="app-name" id="app-549a3101a0bb06472700003e"><a href="https://apps.repebble.com/549a3101a0bb06472700003e">Metal Gear GT</a> <span class="app-version" title="Latest version" data-search-exclude>v3.4</span></h2>
 <a class="app-source" href="https://github.com/WinterWinter/metalgearpebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/game-time_53b317a44f927e319f0000ae" title="More from this developer">Game Time</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v3.4</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
+<div class="app-dev">by <a href="../developers/game-time.html" title="More from this developer">Game Time</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-24</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Based off the Gameboy classic Metal Gear: Ghost Babel Features Include: -Bluetooth connection notification. -Random character portraits each hour. -Battery life simulated by the codec signal…</p>
 </div>
@@ -652,10 +652,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5f6e8a1c51c0ff9f8ecc2506" data-search-exclude><img src="../images/apps/5f6e8a1c51c0ff9f8ecc2506.png" alt="Metal Gear Solid" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5f6e8a1c51c0ff9f8ecc2506"><a href="https://apps.repebble.com/5f6e8a1c51c0ff9f8ecc2506">Metal Gear Solid</a></h2>
+<h2 class="app-name" id="app-5f6e8a1c51c0ff9f8ecc2506"><a href="https://apps.repebble.com/5f6e8a1c51c0ff9f8ecc2506">Metal Gear Solid</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/CosmicTacoCat/MGS_Pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/cosmictacocat_5f6e8a1b51c0ff9f8ecc2504" title="More from this developer">CosmicTacoCat</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2020-09-26</span></div>
+<div class="app-dev">by <a href="../developers/cosmictacocat.html" title="More from this developer">CosmicTacoCat</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2020-09-26</span> <span title="Latest release in the app store">Updated 2020-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This is my Pebble Time version of preman_pasar&#x27;s Amazfit Metal Gear Solid watch face. The signal strength indicator is used to display the Pebble&#x27;s battery. Each increment represents approximately…</p>
 </div>
@@ -663,10 +663,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55d1f737718c7d376900000a" data-search-exclude><img src="../images/apps/55d1f737718c7d376900000a.png" alt="Metar 7 Segment for Pilots" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55d1f737718c7d376900000a"><a href="https://apps.repebble.com/55d1f737718c7d376900000a">Metar 7 Segment for Pilots</a></h2>
+<h2 class="app-name" id="app-55d1f737718c7d376900000a"><a href="https://apps.repebble.com/55d1f737718c7d376900000a">Metar 7 Segment for Pilots</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/cfg1/pebble-m7s-wf-metar" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/fg_53e39e90115605c0220000be" title="More from this developer">FG</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.5</span> <span title="Latest release in the app store">Updated 2016-10-08</span></div>
+<div class="app-dev">by <a href="../developers/fg.html" title="More from this developer">FG</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-17</span> <span title="Latest release in the app store">Updated 2016-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watchface is a branch of Multifunctional 7 Segment which uses METAR weather data from AVWX and openweathermap.org simultanously. It is made mainly for day-to-day usage by pilots. The…</p>
 </div>
@@ -674,10 +674,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54f934651358a963ac0000e3" data-search-exclude><img src="../images/apps/54f934651358a963ac0000e3.png" alt="METAR Minimal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54f934651358a963ac0000e3"><a href="https://apps.repebble.com/54f934651358a963ac0000e3">METAR Minimal</a></h2>
+<h2 class="app-name" id="app-54f934651358a963ac0000e3"><a href="https://apps.repebble.com/54f934651358a963ac0000e3">METAR Minimal</a> <span class="app-version" title="Latest version" data-search-exclude>v3.4</span></h2>
 <a class="app-source" href="https://github.com/flyinactor91/METAR-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/michael-dupont_54b1357d1af59f571c00008d" title="More from this developer">Michael duPont</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.4</span> <span title="Latest release in the app store">Updated 2016-01-21</span></div>
+<div class="app-dev">by <a href="../developers/michael-dupont.html" title="More from this developer">Michael duPont</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-06</span> <span title="Latest release in the app store">Updated 2016-01-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Need to know the time? We got that. Need to know if your favorite airport is VFR, MVFR, IFR, or LIFR? We got that too...and that&#x27;s it! At-a-glance aviation weather on your wrist made by a pilot…</p>
 </div>
@@ -685,10 +685,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54effd7ea53e22c57700001f" data-search-exclude><img src="../images/apps/54effd7ea53e22c57700001f.png" alt="METAR Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54effd7ea53e22c57700001f"><a href="https://apps.repebble.com/54effd7ea53e22c57700001f">METAR Watchface</a></h2>
+<h2 class="app-name" id="app-54effd7ea53e22c57700001f"><a href="https://apps.repebble.com/54effd7ea53e22c57700001f">METAR Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v3.7</span></h2>
 <a class="app-source" href="https://github.com/flyinactor91/METAR-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/michael-dupont_54b1357d1af59f571c00008d" title="More from this developer">Michael duPont</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.7</span> <span title="Latest release in the app store">Updated 2016-11-01</span></div>
+<div class="app-dev">by <a href="../developers/michael-dupont.html" title="More from this developer">Michael duPont</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-27</span> <span title="Latest release in the app store">Updated 2016-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">At-a-glance aviation weather on your wrist made by a pilot for pilots. This open-source watchface organizes and displays the METAR report for your favorite or nearest airport. Unlike some…</p>
 </div>
@@ -696,10 +696,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52a94ae079c18ff6e2000024" data-search-exclude><img src="../images/apps/52a94ae079c18ff6e2000024.png" alt="Meter" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52a94ae079c18ff6e2000024"><a href="https://apps.repebble.com/52a94ae079c18ff6e2000024">Meter</a></h2>
+<h2 class="app-name" id="app-52a94ae079c18ff6e2000024"><a href="https://apps.repebble.com/52a94ae079c18ff6e2000024">Meter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/burnto/pebble/tree/master/meter" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/brent-fitzgerald_52a94927c0ca93962700001d" title="More from this developer">Brent Fitzgerald</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2013-12-12</span></div>
+<div class="app-dev">by <a href="../developers/brent-fitzgerald.html" title="More from this developer">Brent Fitzgerald</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2013-12-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple, easy to read at a glance, open source.</p>
 </div>
@@ -707,10 +707,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54761b8905bfc8c32a00008d" data-search-exclude><img src="../images/apps/54761b8905bfc8c32a00008d.png" alt="MethactonSchedule" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54761b8905bfc8c32a00008d"><a href="https://apps.repebble.com/54761b8905bfc8c32a00008d">MethactonSchedule</a></h2>
+<h2 class="app-name" id="app-54761b8905bfc8c32a00008d"><a href="https://apps.repebble.com/54761b8905bfc8c32a00008d">MethactonSchedule</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/achyutreddy24/MethactonSchedulePebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/achyut-reddy_54396bbafe01ffe75a000259" title="More from this developer">Achyut Reddy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2014-11-26</span></div>
+<div class="app-dev">by <a href="../developers/achyut-reddy.html" title="More from this developer">Achyut Reddy</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-26</span> <span title="Latest release in the app store">Updated 2014-11-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface that counts in a 6 day cycle.</p>
 </div>
@@ -718,10 +718,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55c5e92f3948b666a2000089" data-search-exclude><img src="../images/apps/55c5e92f3948b666a2000089.png" alt="Metro" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55c5e92f3948b666a2000089"><a href="https://apps.repebble.com/55c5e92f3948b666a2000089">Metro</a></h2>
+<h2 class="app-name" id="app-55c5e92f3948b666a2000089"><a href="https://apps.repebble.com/55c5e92f3948b666a2000089">Metro</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/rschiang/pebble-metro" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/poren-chiang_5589492eb0fe0583b00000ba" title="More from this developer">Poren Chiang</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-08-09</span></div>
+<div class="app-dev">by <a href="../developers/poren-chiang.html" title="More from this developer">Poren Chiang</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-08</span> <span title="Latest release in the app store">Updated 2015-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Metro is a Taipei Metro-inspired watchface for Pebble. It&#x27;s clean, elegant, and free as in freedom -- just like what you would expect on subway system wayfinding signs; and would rotate its color…</p>
 </div>
@@ -729,10 +729,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7bec989c6c01406e98acfcd2" data-search-exclude><img src="../images/apps/7bec989c6c01406e98acfcd2.png" alt="Metro Analog" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7bec989c6c01406e98acfcd2"><a href="https://apps.repebble.com/7bec989c6c01406e98acfcd2">Metro Analog</a></h2>
+<h2 class="app-name" id="app-7bec989c6c01406e98acfcd2"><a href="https://apps.repebble.com/7bec989c6c01406e98acfcd2">Metro Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/max-tet/pebble-metro-analog" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/max_7383942784c5ab4602dd8dc0" title="More from this developer">Max</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2.0</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
+<div class="app-dev">by <a href="../developers/max.html" title="More from this developer">Max</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-20</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A Metro tile grid for the Pebble Time 2. An analog clock with all twelve numerals fills the top left, and the remaining tiles carry the ISO date with week number, current weather with high and…</p>
 </div>
@@ -740,10 +740,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/e4f1579b2a0946c996eaab4e" data-search-exclude><img src="../images/apps/e4f1579b2a0946c996eaab4e.png" alt="Metro Madrid L6" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-e4f1579b2a0946c996eaab4e"><a href="https://apps.repebble.com/e4f1579b2a0946c996eaab4e">Metro Madrid L6</a></h2>
+<h2 class="app-name" id="app-e4f1579b2a0946c996eaab4e"><a href="https://apps.repebble.com/e4f1579b2a0946c996eaab4e">Metro Madrid L6</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ACMCMC/pebble-madrid-metro-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/acmc_ad2ff26b86cb890177f9e873" title="More from this developer">acmc</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-dev">by <a href="../developers/acmc.html" title="More from this developer">acmc</a> · <a href="https://forum.rebble.io/t/1293" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-29</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">&quot;A Line 6 loop an hour... keeps the boredom away&quot;</p>
 </div>
@@ -751,10 +751,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5303d8bc7097ac4d3e000359" data-search-exclude><img src="../images/apps/5303d8bc7097ac4d3e000359.png" alt="Metro Watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5303d8bc7097ac4d3e000359"><a href="https://apps.repebble.com/5303d8bc7097ac4d3e000359">Metro Watch</a></h2>
+<h2 class="app-name" id="app-5303d8bc7097ac4d3e000359"><a href="https://apps.repebble.com/5303d8bc7097ac4d3e000359">Metro Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/marcferrandiz/MetroWatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/marc-ferr-ndiz-borr-s_52ed929aa482025c23000002" title="More from this developer">Marc Ferrándiz Borràs</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2014-12-22</span></div>
+<div class="app-dev">by <a href="../developers/marc-ferrandiz-borras.html" title="More from this developer">Marc Ferrándiz Borràs</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-18</span> <span title="Latest release in the app store">Updated 2014-12-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Metro Watch is a awesome new skin watch for all the Pebble family. The big point is the simplicity and minimalism style for an elegant person. 24h or 12h, you choose. Life is clear, clear is Metro…</p>
 </div>
@@ -762,10 +762,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b406d87ebcd144ff9cd278a3" data-search-exclude><img src="../images/apps/b406d87ebcd144ff9cd278a3.gif" alt="Metro WP8" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b406d87ebcd144ff9cd278a3"><a href="https://apps.repebble.com/b406d87ebcd144ff9cd278a3">Metro WP8</a></h2>
+<h2 class="app-name" id="app-b406d87ebcd144ff9cd278a3"><a href="https://apps.repebble.com/b406d87ebcd144ff9cd278a3">Metro WP8</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.8</span></h2>
 <a class="app-source" href="https://github.com/Moaske/PebbleMetroWP8" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/moaske_3f1bf0845ffec82a2a96f91c" title="More from this developer">Moaske</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.6.7</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
+<div class="app-dev">by <a href="../developers/moaske.html" title="More from this developer">Moaske</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Retro Windows Phone 8 watchface with the original Metro WP8 tiles design! 📱 NEW! Selectable Live Tiles! --- Supports Basalt (Time/Time Steel) and Emery (Time 2). Features: 🔶 Large clock and…</p>
 </div>
@@ -773,10 +773,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/60ba1ac61342ae021731a3e0" data-search-exclude><img src="../images/apps/60ba1ac61342ae021731a3e0.png" alt="Metro+" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-60ba1ac61342ae021731a3e0"><a href="https://apps.rebble.io/en_US/application/60ba1ac61342ae021731a3e0">Metro+</a></h2>
+<h2 class="app-name" id="app-60ba1ac61342ae021731a3e0"><a href="https://apps.rebble.io/en_US/application/60ba1ac61342ae021731a3e0">Metro+</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/not-phoeniix/metro-plus" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/6050f9b61342ae00755aeb46/1" title="More from this developer">Nikki</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/nikki.html" title="More from this developer">Nikki</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-06-04</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Extension of other metro watchfaces on the Pebble store with features like: - customizable colors - animated date - pride flag background :) Heavily inspired by Metro Flip by AngerDanger</p>
 </div>
@@ -784,10 +784,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/1491156b8f6f46b1b305ec7c" data-search-exclude><img src="../images/apps/1491156b8f6f46b1b305ec7c.png" alt="MetroTile" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-1491156b8f6f46b1b305ec7c"><a href="https://apps.repebble.com/1491156b8f6f46b1b305ec7c">MetroTile</a></h2>
+<h2 class="app-name" id="app-1491156b8f6f46b1b305ec7c"><a href="https://apps.repebble.com/1491156b8f6f46b1b305ec7c">MetroTile</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.2</span></h2>
 <a class="app-source" href="https://github.com/changing-k-tanaka/pebble-watchface-MetroTile" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/changing-k-tanaka_69d06e418ce708000859e6f6" title="More from this developer">changing-k-tanaka</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.1.2</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
+<div class="app-dev">by <a href="../developers/changing-k-tanaka.html" title="More from this developer">changing-k-tanaka</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watch face is inspired by the Windows Metro UI. You can freely customize the display items, text color, and background color for the six tiles. Display options include date, time, day of the…</p>
 </div>
@@ -795,10 +795,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55809a58fc670b738a000062" data-search-exclude><img src="../images/apps/55809a58fc670b738a000062.png" alt="MetroWatch Color" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55809a58fc670b738a000062"><a href="https://apps.repebble.com/55809a58fc670b738a000062">MetroWatch Color</a></h2>
+<h2 class="app-name" id="app-55809a58fc670b738a000062"><a href="https://apps.repebble.com/55809a58fc670b738a000062">MetroWatch Color</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/MetroWatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mephissto_5362a57dc2a5e4f05c000021" title="More from this developer">mephissto</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-06-16</span></div>
+<div class="app-dev">by <a href="../developers/mephissto.html" title="More from this developer">mephissto</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-16</span> <span title="Latest release in the app store">Updated 2015-06-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Based on Metro Watch by Marc Ferrándiz Borràs</p>
 </div>
@@ -806,10 +806,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569e9ec480b0d26c48000035" data-search-exclude><img src="../images/apps/569e9ec480b0d26c48000035.png" alt="MetroWatch Green" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569e9ec480b0d26c48000035"><a href="https://apps.repebble.com/569e9ec480b0d26c48000035">MetroWatch Green</a></h2>
+<h2 class="app-name" id="app-569e9ec480b0d26c48000035"><a href="https://apps.repebble.com/569e9ec480b0d26c48000035">MetroWatch Green</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/MetroWatch/tree/green" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mephissto_5362a57dc2a5e4f05c000021" title="More from this developer">mephissto</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
+<div class="app-dev">by <a href="../developers/mephissto.html" title="More from this developer">mephissto</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Green version of MetroWatch Color watchface.</p>
 </div>
@@ -817,10 +817,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5597062a70f2c3e2ea00008b" data-search-exclude><img src="../images/apps/5597062a70f2c3e2ea00008b.png" alt="MetroWatch Inverted" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5597062a70f2c3e2ea00008b"><a href="https://apps.repebble.com/5597062a70f2c3e2ea00008b">MetroWatch Inverted</a></h2>
+<h2 class="app-name" id="app-5597062a70f2c3e2ea00008b"><a href="https://apps.repebble.com/5597062a70f2c3e2ea00008b">MetroWatch Inverted</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/BracketDevs/MetroWatchInverted" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/bracketdevs_52f0525bbb3423237400132d" title="More from this developer">BracketDevs</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-07-03</span></div>
+<div class="app-dev">by <a href="../developers/bracketdevs.html" title="More from this developer">BracketDevs</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-03</span> <span title="Latest release in the app store">Updated 2015-07-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">MetroWatch Inverted, based on MetroWatch by Marc Ferrandiz Borras</p>
 </div>
@@ -828,10 +828,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569e9da6099696e83d00005b" data-search-exclude><img src="../images/apps/569e9da6099696e83d00005b.png" alt="MetroWatch Purple" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569e9da6099696e83d00005b"><a href="https://apps.repebble.com/569e9da6099696e83d00005b">MetroWatch Purple</a></h2>
+<h2 class="app-name" id="app-569e9da6099696e83d00005b"><a href="https://apps.repebble.com/569e9da6099696e83d00005b">MetroWatch Purple</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/MetroWatch/tree/purple" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mephissto_5362a57dc2a5e4f05c000021" title="More from this developer">mephissto</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
+<div class="app-dev">by <a href="../developers/mephissto.html" title="More from this developer">mephissto</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Purple version of metrowatch color</p>
 </div>
@@ -839,10 +839,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569e9c94099696ec1500003f" data-search-exclude><img src="../images/apps/569e9c94099696ec1500003f.png" alt="MetroWatch Red" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569e9c94099696ec1500003f"><a href="https://apps.repebble.com/569e9c94099696ec1500003f">MetroWatch Red</a></h2>
+<h2 class="app-name" id="app-569e9c94099696ec1500003f"><a href="https://apps.repebble.com/569e9c94099696ec1500003f">MetroWatch Red</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/MetroWatch/tree/red" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mephissto_5362a57dc2a5e4f05c000021" title="More from this developer">mephissto</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
+<div class="app-dev">by <a href="../developers/mephissto.html" title="More from this developer">mephissto</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Red version of MetroWatch color</p>
 </div>
@@ -850,10 +850,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54e202b1cf66dc54e300008b" data-search-exclude><img src="../images/apps/54e202b1cf66dc54e300008b.png" alt="MetroWeather" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54e202b1cf66dc54e300008b"><a href="https://apps.repebble.com/54e202b1cf66dc54e300008b">MetroWeather</a></h2>
+<h2 class="app-name" id="app-54e202b1cf66dc54e300008b"><a href="https://apps.repebble.com/54e202b1cf66dc54e300008b">MetroWeather</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
 <a class="app-source" href="https://github.com/okukun/MetroWeather" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/oku_53566b5726172a558a000080" title="More from this developer">oku</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.4</span> <span title="Latest release in the app store">Updated 2016-01-27</span></div>
+<div class="app-dev">by <a href="../developers/oku.html" title="More from this developer">oku</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-16</span> <span title="Latest release in the app store">Updated 2016-01-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">MetroWeather watchface displays time, date and weather information in a nice and clean metro design. Features: - Automatic Localization for English, French, German, Spanish and Chinese. - Degrees…</p>
 </div>
@@ -861,10 +861,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54b5d6a97e6bae43f10000d5" data-search-exclude><img src="../images/apps/54b5d6a97e6bae43f10000d5.png" alt="Meyer Objects" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54b5d6a97e6bae43f10000d5"><a href="https://apps.repebble.com/54b5d6a97e6bae43f10000d5">Meyer Objects</a></h2>
+<h2 class="app-name" id="app-54b5d6a97e6bae43f10000d5"><a href="https://apps.repebble.com/54b5d6a97e6bae43f10000d5">Meyer Objects</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/nazar_frames" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/comfortably-numb_52f547605101128b2200005a" title="More from this developer">Comfortably Numb</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.0.0</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
+<div class="app-dev">by <a href="../developers/comfortably-numb.html" title="More from this developer">Comfortably Numb</a> · <a href="https://forum.rebble.io/t/1159" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-14</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Frame Clock. Minimalistic watchface, just two wire frames bearing minute an hour hand. Shake or tap the watch to briefly see digital time, date and status of battery and Bluetooth connection…</p>
 </div>
@@ -872,10 +872,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5f4578f8a174464397220dcd" data-search-exclude><img src="../images/apps/5f4578f8a174464397220dcd.png" alt="MGS Codec v2" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5f4578f8a174464397220dcd"><a href="https://apps.repebble.com/5f4578f8a174464397220dcd">MGS Codec v2</a></h2>
+<h2 class="app-name" id="app-5f4578f8a174464397220dcd"><a href="https://apps.repebble.com/5f4578f8a174464397220dcd">MGS Codec v2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.2</span></h2>
 <a class="app-source" href="https://github.com/Yesnaught/MGSCodecv2" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/crabmeat_81a69ab181b5c711ce73e965" title="More from this developer">Crabmeat</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.0.2</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-dev">by <a href="../developers/crabmeat.html" title="More from this developer">Crabmeat</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-28</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Assorted updates to FouzR&#x27;s work in https://apps.repebble.com/5eb5c96eb62346b3b041ca37 - if you like the general layout and how clean it looks, that&#x27;s all him.</p>
 </div>
@@ -883,10 +883,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5eb5c96eb62346b3b041ca37" data-search-exclude><img src="../images/apps/5eb5c96eb62346b3b041ca37.gif" alt="mgs-codec" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5eb5c96eb62346b3b041ca37"><a href="https://apps.repebble.com/5eb5c96eb62346b3b041ca37">mgs-codec</a></h2>
+<h2 class="app-name" id="app-5eb5c96eb62346b3b041ca37"><a href="https://apps.repebble.com/5eb5c96eb62346b3b041ca37">mgs-codec</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/FouzR/mgs-codec-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/fouzr_f95df6bca581318f0e221894" title="More from this developer">FouzR</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.2.0</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
+<div class="app-dev">by <a href="../developers/fouzr.html" title="More from this developer">FouzR</a> · <a href="https://forum.rebble.io/t/869" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">MGS Codec inspired watchface Features - Sunrise/Sunset times on the top left corner - Long date on the top right corner( Mon 10 2026) - Steps on the bottom left corner - Temperature on the bottom…</p>
 </div>
@@ -894,10 +894,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55f56b96c2f17edbde000077" data-search-exclude><img src="../images/apps/55f56b96c2f17edbde000077.png" alt="Miami Nights" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55f56b96c2f17edbde000077"><a href="https://apps.repebble.com/55f56b96c2f17edbde000077">Miami Nights</a></h2>
+<h2 class="app-name" id="app-55f56b96c2f17edbde000077"><a href="https://apps.repebble.com/55f56b96c2f17edbde000077">Miami Nights</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/samcarton/miami-nights-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/sam-carton_5362eb44e624bd3bf50000bb" title="More from this developer">Sam Carton</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-10-31</span></div>
+<div class="app-dev">by <a href="../developers/sam-carton.html" title="More from this developer">Sam Carton</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-13</span> <span title="Latest release in the app store">Updated 2016-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple yet striking large-font colored watchface for Pebble Time. Large font is True Lies by Jonathan S. Harris. - Date format configurable to display DDMM, MMDD, or nothing. - Optional day of…</p>
 </div>
@@ -905,10 +905,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57ee926944581e90d40000d5" data-search-exclude><img src="../images/apps/57ee926944581e90d40000d5.png" alt="Miami Nights Extra" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57ee926944581e90d40000d5"><a href="https://apps.repebble.com/57ee926944581e90d40000d5">Miami Nights Extra</a></h2>
+<h2 class="app-name" id="app-57ee926944581e90d40000d5"><a href="https://apps.repebble.com/57ee926944581e90d40000d5">Miami Nights Extra</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/samcarton/miami-nights-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/vn-pebble-dev_56c84ed97c9161bdaa00002a" title="More from this developer">VN Pebble Dev</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2016-10-01</span></div>
+<div class="app-dev">by <a href="../developers/vn-pebble-dev.html" title="More from this developer">VN Pebble Dev</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-10-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple yet striking large-font colored watchface for Pebble Time. Original by Miami Nights watchface of Sam Carton. Large font is True Lies by Jonathan S. Harris. - Date format configurable to…</p>
 </div>
@@ -916,10 +916,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55bb0551e54d9fc375000018" data-search-exclude><img src="../images/apps/55bb0551e54d9fc375000018.png" alt="MicroRavez Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55bb0551e54d9fc375000018"><a href="https://apps.repebble.com/55bb0551e54d9fc375000018">MicroRavez Watchface</a></h2>
+<h2 class="app-name" id="app-55bb0551e54d9fc375000018"><a href="https://apps.repebble.com/55bb0551e54d9fc375000018">MicroRavez Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/GrimbixCode/Pebble_MicroRavezWatchface.git" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/grimbixcode_55b726298ddce780e600002c" title="More from this developer">GrimbiXcode</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2015-11-09</span></div>
+<div class="app-dev">by <a href="../developers/grimbixcode.html" title="More from this developer">GrimbiXcode</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-07-31</span> <span title="Latest release in the app store">Updated 2015-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This is the official Watchface of the Swiss Jump &amp; Shuffle Dance-Crew MicroRavez. Enjoy the Time with our smart Logo! Visit us on our Homepage.</p>
 </div>
@@ -927,10 +927,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55cabdadce49c2fe6c00002e" data-search-exclude><img src="../images/apps/55cabdadce49c2fe6c00002e.png" alt="Midwest.js" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55cabdadce49c2fe6c00002e"><a href="https://apps.repebble.com/55cabdadce49c2fe6c00002e">Midwest.js</a></h2>
+<h2 class="app-name" id="app-55cabdadce49c2fe6c00002e"><a href="https://apps.repebble.com/55cabdadce49c2fe6c00002e">Midwest.js</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/willywos/midwestjs-pebble-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/willywos_5586305bf12740642b00005c" title="More from this developer">willywos</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-08-12</span></div>
+<div class="app-dev">by <a href="../developers/willywos.html" title="More from this developer">willywos</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-12</span> <span title="Latest release in the app store">Updated 2015-08-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays the cool midwest.js logo for the conference and the current time.</p>
 </div>
@@ -938,10 +938,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/0ded87a9da8841db85b20176" data-search-exclude><img src="../images/apps/0ded87a9da8841db85b20176.png" alt="mimikko" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-0ded87a9da8841db85b20176"><a href="https://apps.repebble.com/0ded87a9da8841db85b20176">mimikko</a></h2>
+<h2 class="app-name" id="app-0ded87a9da8841db85b20176"><a href="https://apps.repebble.com/0ded87a9da8841db85b20176">mimikko</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/Toshiaki1973/pebble-mimikko" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/toshiaki1973_3d1c3936fafe6c3ee52664f7" title="More from this developer">Toshiaki1973</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-09-23</span></div>
+<div class="app-dev">by <a href="../developers/toshiaki1973.html" title="More from this developer">Toshiaki1973</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-09-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Pebble 2 Duo</div>
 <p class="app-desc">関西弁でひとことつぶやく、常時装着型の一方通行ペット時計。日付・時計・バッテリー残量も表示。</p>
 </div>
@@ -949,10 +949,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/568aa41c6518afe93f000012" data-search-exclude><img src="../images/apps/568aa41c6518afe93f000012.gif" alt="Mineclock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-568aa41c6518afe93f000012"><a href="https://apps.repebble.com/568aa41c6518afe93f000012">Mineclock</a></h2>
+<h2 class="app-name" id="app-568aa41c6518afe93f000012"><a href="https://apps.repebble.com/568aa41c6518afe93f000012">Mineclock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/makotokw/pebble-mineclock" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/makoto-kawasaki_531f1484433d09be900001b5" title="More from this developer">Makoto Kawasaki</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
+<div class="app-dev">by <a href="../developers/makoto-kawasaki.html" title="More from this developer">Makoto Kawasaki</a> · <a href="https://forum.rebble.io/t/948" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Analog/Digital watch that looks like a Minecraft clock.</p>
 </div>
@@ -960,10 +960,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5599dec9e47bb350f4000081" data-search-exclude><img src="../images/apps/5599dec9e47bb350f4000081.png" alt="Minecraft" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5599dec9e47bb350f4000081"><a href="https://apps.repebble.com/5599dec9e47bb350f4000081">Minecraft</a></h2>
+<h2 class="app-name" id="app-5599dec9e47bb350f4000081"><a href="https://apps.repebble.com/5599dec9e47bb350f4000081">Minecraft</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/gretchycat/DarkSide" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/gretchycat_52bf60060136db31fb0000d3" title="More from this developer">Gretchycat</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.0</span> <span title="Latest release in the app store">Updated 2015-10-19</span></div>
+<div class="app-dev">by <a href="../developers/gretchycat.html" title="More from this developer">Gretchycat</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-06</span> <span title="Latest release in the app store">Updated 2015-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Features a 2 week calendar, and when you shake or tap, see a 5 day weather forecast. Tap again for sunrise, sunset and moon phase. Tap a third time for a compass! After 15 seconds, the screen will…</p>
 </div>
@@ -971,10 +971,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/02b3679008fc47c5b37ef8f8" data-search-exclude><img src="../images/apps/02b3679008fc47c5b37ef8f8.png" alt="Minecraft Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-02b3679008fc47c5b37ef8f8"><a href="https://apps.repebble.com/02b3679008fc47c5b37ef8f8">Minecraft Clock</a></h2>
+<h2 class="app-name" id="app-02b3679008fc47c5b37ef8f8"><a href="https://apps.repebble.com/02b3679008fc47c5b37ef8f8">Minecraft Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/Knucklesfan/pebble-watchfaces/tree/main/mcclock" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/knfn_0db81fab88481ed6a3fe7381" title="More from this developer">Knfn</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-06-10</span></div>
+<div class="app-dev">by <a href="../developers/knfn.html" title="More from this developer">Knfn</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">The clock from Minecraft! Has Date, Time, automatically updating clock like in game, Steps, Weather and Battery indicators! Alongside this, it is fully customizable, so you can customize it as…</p>
 </div>
@@ -982,10 +982,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57b6b991f01b53ee0c00074e" data-search-exclude><img src="../images/apps/57b6b991f01b53ee0c00074e.png" alt="Mini Watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57b6b991f01b53ee0c00074e"><a href="https://apps.repebble.com/57b6b991f01b53ee0c00074e">Mini Watch</a></h2>
+<h2 class="app-name" id="app-57b6b991f01b53ee0c00074e"><a href="https://apps.repebble.com/57b6b991f01b53ee0c00074e">Mini Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/Austinite800/mini-watch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/austin-li_547fb31d8164e13d570000c5" title="More from this developer">Austin Li</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-08-23</span></div>
+<div class="app-dev">by <a href="../developers/austin-li.html" title="More from this developer">Austin Li</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-19</span> <span title="Latest release in the app store">Updated 2016-08-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Enjoy this highly customizable watchface with the new pebble-clay configuration settings page! Choose from digital and analog clock types, and accurate, sunlight-corrected color options. This…</p>
 </div>
@@ -993,10 +993,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/56827ebce08e48f8ed0000c6" data-search-exclude><img src="../images/apps/56827ebce08e48f8ed0000c6.png" alt="Minimal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56827ebce08e48f8ed0000c6"><a href="https://apps.rebble.io/en_US/application/56827ebce08e48f8ed0000c6">Minimal</a></h2>
+<h2 class="app-name" id="app-56827ebce08e48f8ed0000c6"><a href="https://apps.rebble.io/en_US/application/56827ebce08e48f8ed0000c6">Minimal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/AlphaTRL/pebble-watchface-minimal" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/53b9647c36ce4c0f500001bc/1" title="More from this developer">Amos Tan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.4</span> <span title="Latest release in the app store">Updated 2016-11-07</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/amos-tan.html" title="More from this developer">Amos Tan</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-29</span> <span title="Latest release in the app store">Updated 2016-11-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A minimal watch face design. Shows you the date, time and battery. Leave a ❤️ if you like the watch face &lt;3</p>
 </div>
@@ -1004,10 +1004,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54a654be0cd9360e3d000038" data-search-exclude><img src="../images/apps/54a654be0cd9360e3d000038.png" alt="minimal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54a654be0cd9360e3d000038"><a href="https://apps.repebble.com/54a654be0cd9360e3d000038">minimal</a></h2>
+<h2 class="app-name" id="app-54a654be0cd9360e3d000038"><a href="https://apps.repebble.com/54a654be0cd9360e3d000038">minimal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/corefault/minimal-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/corefault_5499d1986ea2d8f0f8000119" title="More from this developer">corefault</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-01-03</span></div>
+<div class="app-dev">by <a href="../developers/corefault.html" title="More from this developer">corefault</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-02</span> <span title="Latest release in the app store">Updated 2015-01-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Display the current time as a sentence in german. Resolution is five minutes. Remaining minutes displayed as dots on the bottom.</p>
 </div>
@@ -1015,10 +1015,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/558ee0ee1b715219970000a4" data-search-exclude><img src="../images/apps/558ee0ee1b715219970000a4.png" alt="minimal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-558ee0ee1b715219970000a4"><a href="https://apps.repebble.com/558ee0ee1b715219970000a4">minimal</a></h2>
+<h2 class="app-name" id="app-558ee0ee1b715219970000a4"><a href="https://apps.repebble.com/558ee0ee1b715219970000a4">minimal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/an-ox/minimal" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/llamasoft_5587e2694fa1ea20620000ba" title="More from this developer">Llamasoft</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-06-27</span></div>
+<div class="app-dev">by <a href="../developers/llamasoft.html" title="More from this developer">Llamasoft</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Here&#x27;s a minimal one from me. It&#x27;s designed to be very battery friendly (once per minute update) and to combine digital and analogue style reading in one face - the digits in the middle are the…</p>
 </div>
@@ -1026,10 +1026,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53e911811f0b5142030000f1" data-search-exclude><img src="../images/apps/53e911811f0b5142030000f1.png" alt="Minimal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53e911811f0b5142030000f1"><a href="https://apps.repebble.com/53e911811f0b5142030000f1">Minimal</a></h2>
+<h2 class="app-name" id="app-53e911811f0b5142030000f1"><a href="https://apps.repebble.com/53e911811f0b5142030000f1">Minimal</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/vaibhavviswanathan/minimal" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/vaibhav-viswanathan_536c0359bcec8f44c7000013" title="More from this developer">Vaibhav Viswanathan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.2</span> <span title="Latest release in the app store">Updated 2014-09-14</span></div>
+<div class="app-dev">by <a href="../developers/vaibhav-viswanathan.html" title="More from this developer">Vaibhav Viswanathan</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-11</span> <span title="Latest release in the app store">Updated 2014-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Now with QuickTap Plus! This is a minimal watchface design. Shows the 24 hour time and the date in a light font. It notifies you when the Bluetooth is disconnected.. Shake your wrist to see more…</p>
 </div>
@@ -1037,10 +1037,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57ad24eaf01b53532400019b" data-search-exclude><img src="../images/apps/57ad24eaf01b53532400019b.png" alt="Minimal Analog 2" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57ad24eaf01b53532400019b"><a href="https://apps.repebble.com/57ad24eaf01b53532400019b">Minimal Analog 2</a></h2>
+<h2 class="app-name" id="app-57ad24eaf01b53532400019b"><a href="https://apps.repebble.com/57ad24eaf01b53532400019b">Minimal Analog 2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/keithharp/minimalanalog" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/keith-harp_55eb897a4d076da332000083" title="More from this developer">Keith Harp</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.5</span> <span title="Latest release in the app store">Updated 2016-09-07</span></div>
+<div class="app-dev">by <a href="../developers/keith-harp.html" title="More from this developer">Keith Harp</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-12</span> <span title="Latest release in the app store">Updated 2016-09-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple analog watchface that includes - weather (Yahoo or OpenWeather), - bluetooth disconnect notification (optional) - seconds hand (always on, always off, or able to toggle with a tap) - low…</p>
 </div>
@@ -1048,10 +1048,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/62ecee85e595b3000a939a36" data-search-exclude><img src="../images/apps/62ecee85e595b3000a939a36.png" alt="Minimal Analog3" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-62ecee85e595b3000a939a36"><a href="https://apps.rebble.io/en_US/application/62ecee85e595b3000a939a36">Minimal Analog3</a></h2>
+<h2 class="app-name" id="app-62ecee85e595b3000a939a36"><a href="https://apps.rebble.io/en_US/application/62ecee85e595b3000a939a36">Minimal Analog3</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/daktak/MinimalAnalog" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/56e681d026fa04b2d900006c/1" title="More from this developer">Daktak</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.9</span> <span title="Latest release in the app store">Updated 2022-08-05</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/daktak.html" title="More from this developer">Daktak</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-08-05</span> <span title="Latest release in the app store">Updated 2022-08-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple analog watchface that includes - weather - cryptocurrency price - bluetooth disconnect notification (optional) - seconds hand (configurable) - low battery indicator - configurable colours…</p>
 </div>
@@ -1059,10 +1059,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57b64b73f01b53901a00079c" data-search-exclude><img src="../images/apps/57b64b73f01b53901a00079c.png" alt="Minimal Binary" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57b64b73f01b53901a00079c"><a href="https://apps.repebble.com/57b64b73f01b53901a00079c">Minimal Binary</a></h2>
+<h2 class="app-name" id="app-57b64b73f01b53901a00079c"><a href="https://apps.repebble.com/57b64b73f01b53901a00079c">Minimal Binary</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="http://github.com/theHawke/PebbleBinary" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/hauke-neitzel_57b6419ebb85ed1b79000297" title="More from this developer">Hauke Neitzel</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-08-19</span></div>
+<div class="app-dev">by <a href="../developers/hauke-neitzel.html" title="More from this developer">Hauke Neitzel</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-18</span> <span title="Latest release in the app store">Updated 2016-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface with only hours and minutes in binary.</p>
 </div>
@@ -1070,10 +1070,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/597b8f670dfc32af61001d35" data-search-exclude><img src="../images/apps/597b8f670dfc32af61001d35.png" alt="Minimal Black" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-597b8f670dfc32af61001d35"><a href="https://apps.rebble.io/en_US/application/597b8f670dfc32af61001d35">Minimal Black</a></h2>
+<h2 class="app-name" id="app-597b8f670dfc32af61001d35"><a href="https://apps.rebble.io/en_US/application/597b8f670dfc32af61001d35">Minimal Black</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/jez/pebble-minimal-black" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/531fe9fc0f3ef7275900002c/1" title="More from this developer">Jake Zimmerman</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.9</span> <span title="Latest release in the app store">Updated 2017-07-28</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/jake-zimmerman.html" title="More from this developer">Jake Zimmerman</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-07-28</span> <span title="Latest release in the app store">Updated 2017-07-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Time, battery indicator, and simple date indicator. Also shows &quot;no bluetooth&quot; icon when disconnected.</p>
 </div>
@@ -1081,10 +1081,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/557eb7fcbb3773ef7d000008" data-search-exclude><img src="../images/apps/557eb7fcbb3773ef7d000008.png" alt="Minimal Clean" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-557eb7fcbb3773ef7d000008"><a href="https://apps.repebble.com/557eb7fcbb3773ef7d000008">Minimal Clean</a></h2>
+<h2 class="app-name" id="app-557eb7fcbb3773ef7d000008"><a href="https://apps.repebble.com/557eb7fcbb3773ef7d000008">Minimal Clean</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/Kunalpod/minimalclean" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kunalpod_54d0dbb3dec337644f000099" title="More from this developer">Kunalpod</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-06-16</span></div>
+<div class="app-dev">by <a href="../developers/kunalpod.html" title="More from this developer">Kunalpod</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-15</span> <span title="Latest release in the app store">Updated 2015-06-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">New watch-face. As minimal as possible. Please do contact me for any feedback.</p>
 </div>
@@ -1092,10 +1092,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/559cd56a9bd78df768000005" data-search-exclude><img src="../images/apps/559cd56a9bd78df768000005.png" alt="Minimal Clean Revisited" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-559cd56a9bd78df768000005"><a href="https://apps.repebble.com/559cd56a9bd78df768000005">Minimal Clean Revisited</a></h2>
+<h2 class="app-name" id="app-559cd56a9bd78df768000005"><a href="https://apps.repebble.com/559cd56a9bd78df768000005">Minimal Clean Revisited</a> <span class="app-version" title="Latest version" data-search-exclude>v3.02</span></h2>
 <a class="app-source" href="http://github.com/sbrenna/minimalclean" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/the-device_5560cc3a43928b24ec0000c4" title="More from this developer">The Device</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v3.02</span> <span title="Latest release in the app store">Updated 2015-10-19</span></div>
+<div class="app-dev">by <a href="../developers/the-device.html" title="More from this developer">The Device</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-08</span> <span title="Latest release in the app store">Updated 2015-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Inspired by &quot;Minimal Clean&quot; by Kunal Gautam (Link : pebble://appstore/557eb7fcbb3773ef7d000008). Added bluetooth status (with vibration on disconnect). Through openweathermap i&#x27;ve added: …</p>
 </div>
@@ -1103,10 +1103,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/575dc7dc5c714404bb000001" data-search-exclude><img src="../images/apps/575dc7dc5c714404bb000001.png" alt="Minimal Colours" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-575dc7dc5c714404bb000001"><a href="https://apps.repebble.com/575dc7dc5c714404bb000001">Minimal Colours</a></h2>
+<h2 class="app-name" id="app-575dc7dc5c714404bb000001"><a href="https://apps.repebble.com/575dc7dc5c714404bb000001">Minimal Colours</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ChrisWissmach/MinimalColours" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chriswissmach_556c744dceb7cfe88e00000d" title="More from this developer">ChrisWissmach</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-06-15</span></div>
+<div class="app-dev">by <a href="../developers/chriswissmach.html" title="More from this developer">ChrisWissmach</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-12</span> <span title="Latest release in the app store">Updated 2016-06-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A minimal watchface where the background colour changes every minute.</p>
 </div>
@@ -1114,10 +1114,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9494651f596145d78d5250dc" data-search-exclude><img src="../images/apps/9494651f596145d78d5250dc.png" alt="Minimal Weather" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9494651f596145d78d5250dc"><a href="https://apps.repebble.com/9494651f596145d78d5250dc">Minimal Weather</a></h2>
+<h2 class="app-name" id="app-9494651f596145d78d5250dc"><a href="https://apps.repebble.com/9494651f596145d78d5250dc">Minimal Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/SofusA/minimal-weather" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/sofus_50bb0efeef00269340b2f246" title="More from this developer">Sofus</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2026-02-18</span></div>
+<div class="app-dev">by <a href="../developers/sofus.html" title="More from this developer">Sofus</a> · <a href="https://forum.rebble.io/t/762" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-02-18</span> <span title="Latest release in the app store">Updated 2026-02-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple open source pebble watch face with weather data from YR.no. Features: - Battery warning icon when below 25% - UV index warning when index is above 3 - Rain warning when expected…</p>
 </div>
@@ -1125,10 +1125,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/558fe9a96dba2d7820000039" data-search-exclude><img src="../images/apps/558fe9a96dba2d7820000039.png" alt="minimal x" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-558fe9a96dba2d7820000039"><a href="https://apps.repebble.com/558fe9a96dba2d7820000039">minimal x</a></h2>
+<h2 class="app-name" id="app-558fe9a96dba2d7820000039"><a href="https://apps.repebble.com/558fe9a96dba2d7820000039">minimal x</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/an-ox/minimal-x" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/llamasoft_5587e2694fa1ea20620000ba" title="More from this developer">Llamasoft</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-06-28</span></div>
+<div class="app-dev">by <a href="../developers/llamasoft.html" title="More from this developer">Llamasoft</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-28</span> <span title="Latest release in the app store">Updated 2015-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This is a slightly extended version of my Minimal face. I added a single indicator at the bottom that shows both battery level and BT status (if the indicator is blue it&#x27;s connected, if it&#x27;s red…</p>
 </div>
@@ -1136,10 +1136,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56f93a5361a01637e5000036" data-search-exclude><img src="../images/apps/56f93a5361a01637e5000036.png" alt="Minimalin" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56f93a5361a01637e5000036"><a href="https://apps.repebble.com/56f93a5361a01637e5000036">Minimalin</a></h2>
+<h2 class="app-name" id="app-56f93a5361a01637e5000036"><a href="https://apps.repebble.com/56f93a5361a01637e5000036">Minimalin</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/groyoh/minimalin" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/gringer-apps_560c4f952dd2f15e90000009" title="More from this developer">Gringer Apps</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.7</span> <span title="Latest release in the app store">Updated 2016-11-18</span></div>
+<div class="app-dev">by <a href="../developers/gringer-apps.html" title="More from this developer">Gringer Apps</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-28</span> <span title="Latest release in the app store">Updated 2016-11-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Minimalin is a fully customizable watchface that blends analog and digital for a simple, modern and elegant look. Minimalin is an open source project. If you love it as much as we do, feel free to…</p>
 </div>
@@ -1147,10 +1147,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/68013ba9ef119e0009664826" data-search-exclude><img src="../images/apps/68013ba9ef119e0009664826.png" alt="Minimalin Again" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-68013ba9ef119e0009664826"><a href="https://apps.rebble.io/en_US/application/68013ba9ef119e0009664826">Minimalin Again</a></h2>
+<h2 class="app-name" id="app-68013ba9ef119e0009664826"><a href="https://apps.rebble.io/en_US/application/68013ba9ef119e0009664826">Minimalin Again</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2</span></h2>
 <a class="app-source" href="https://github.com/Vrabbers/minimalin-again" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/67effc03fb177b00084b0aa5/1" title="More from this developer">Vrabbers</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v3.2</span> <span title="Latest release in the app store">Updated 2025-04-24</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/vrabbers.html" title="More from this developer">Vrabbers</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-04-17</span> <span title="Latest release in the app store">Updated 2025-04-24</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Minimalin Again is a fully customizable watchface that blends analog and digital for a simple, modern and elegant look, based on the original Minimalin watchface and the Minimalin Reborn fork. *…</p>
 </div>
@@ -1158,10 +1158,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/63792649c6c24a000a815e70" data-search-exclude><img src="../images/apps/63792649c6c24a000a815e70.gif" alt="Minimalin Reborn" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-63792649c6c24a000a815e70"><a href="https://apps.repebble.com/63792649c6c24a000a815e70">Minimalin Reborn</a></h2>
+<h2 class="app-name" id="app-63792649c6c24a000a815e70"><a href="https://apps.repebble.com/63792649c6c24a000a815e70">Minimalin Reborn</a> <span class="app-version" title="Latest version" data-search-exclude>v2.12.0</span></h2>
 <a class="app-source" href="https://github.com/lanrat/minimalin-reborn" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/vorsk_5494f31f210576e99c00005a" title="More from this developer">vorsk</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.12.0</span> <span title="Latest release in the app store">Updated 2026-09-17</span></div>
+<div class="app-dev">by <a href="../developers/vorsk.html" title="More from this developer">vorsk</a> · <a href="https://forum.rebble.io/t/760" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-19</span> <span title="Latest release in the app store">Updated 2026-09-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Minimalin is a fully customizable watchface that blends analog and digital for a modern and elegant look.Minimalin uses Nupe, a custom font with numbers and icons, optimized with bitmap mapping to…</p>
 </div>
@@ -1169,10 +1169,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52e0f32a7487e58289000182" data-search-exclude><img src="../images/apps/52e0f32a7487e58289000182.png" alt="Minimalist 2.0" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52e0f32a7487e58289000182"><a href="https://apps.repebble.com/52e0f32a7487e58289000182">Minimalist 2.0</a></h2>
+<h2 class="app-name" id="app-52e0f32a7487e58289000182"><a href="https://apps.repebble.com/52e0f32a7487e58289000182">Minimalist 2.0</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.4</span></h2>
 <a class="app-source" href="https://github.com/Jnmattern/Minimalist_2.0" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/jnm_529994c0e627ce7ba1000050" title="More from this developer">Jnm</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.0.4</span> <span title="Latest release in the app store">Updated 2014-02-11</span></div>
+<div class="app-dev">by <a href="../developers/jnm.html" title="More from this developer">Jnm</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-23</span> <span title="Latest release in the app store">Updated 2014-02-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Minimalist display combining analog and digital time. Configuration screen allows to choose between minutes at the hour hand position, hours at the minute hand position, and hours &amp; minutes at the…</p>
 </div>
@@ -1180,10 +1180,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5736153f9f823cb89300000f" data-search-exclude><img src="../images/apps/5736153f9f823cb89300000f.png" alt="Minimalist Analog" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5736153f9f823cb89300000f"><a href="https://apps.repebble.com/5736153f9f823cb89300000f">Minimalist Analog</a></h2>
+<h2 class="app-name" id="app-5736153f9f823cb89300000f"><a href="https://apps.repebble.com/5736153f9f823cb89300000f">Minimalist Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7</span></h2>
 <a class="app-source" href="https://github.com/snymainn/minimalist-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/tommy-s-andreassen_56fd477e6266bfa84f000041" title="More from this developer">Tommy S-Andreassen</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.7</span> <span title="Latest release in the app store">Updated 2016-05-17</span></div>
+<div class="app-dev">by <a href="../developers/tommy-s-andreassen.html" title="More from this developer">Tommy S-Andreassen</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-13</span> <span title="Latest release in the app store">Updated 2016-05-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple analog watchface with battery and connection status. The hands and markings are cloned from Engineering watchface by @nguyer. I have added a large date number that is easier to read. On the…</p>
 </div>
@@ -1191,10 +1191,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/542d22099e034a9542000193" data-search-exclude><img src="../images/apps/542d22099e034a9542000193.png" alt="Minimalist Text Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-542d22099e034a9542000193"><a href="https://apps.repebble.com/542d22099e034a9542000193">Minimalist Text Watchface</a></h2>
+<h2 class="app-name" id="app-542d22099e034a9542000193"><a href="https://apps.repebble.com/542d22099e034a9542000193">Minimalist Text Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/nicoplv/minimalist-text-watch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/nicoplv_542a54bff96784ad2a00004b" title="More from this developer">Nicoplv</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.0</span> <span title="Latest release in the app store">Updated 2014-10-10</span></div>
+<div class="app-dev">by <a href="../developers/nicoplv.html" title="More from this developer">Nicoplv</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-02</span> <span title="Latest release in the app store">Updated 2014-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A minimalist text watchface with time, date and battery display</p>
 </div>
@@ -1202,10 +1202,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54a290f347214249db00007f" data-search-exclude><img src="../images/apps/54a290f347214249db00007f.png" alt="Ministry of Silly Watches" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54a290f347214249db00007f"><a href="https://apps.repebble.com/54a290f347214249db00007f">Ministry of Silly Watches</a></h2>
+<h2 class="app-name" id="app-54a290f347214249db00007f"><a href="https://apps.repebble.com/54a290f347214249db00007f">Ministry of Silly Watches</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="http://scm.narf.ssji.net/git/MinistryOfSillyWatches/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/olivier-mehani_53bb204ea405077b2e00005a" title="More from this developer">Olivier Mehani</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">See source</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2014-12-30</span></div>
+<div class="app-dev">by <a href="../developers/olivier-mehani.html" title="More from this developer">Olivier Mehani</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-30</span> <span title="Latest release in the app store">Updated 2014-12-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Inspired by the Monty Python&#x27;s Ministry of Silly Walks sketch, this watchface uses the actual steps of John Cleese&#x27;s gait to show the time. Though reordered for better legibility (look where the…</p>
 </div>
@@ -1213,10 +1213,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5dcf62c8c393f5706985a9cd" data-search-exclude><img src="../images/apps/5dcf62c8c393f5706985a9cd.png" alt="Minitrix" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5dcf62c8c393f5706985a9cd"><a href="https://apps.rebble.io/en_US/application/5dcf62c8c393f5706985a9cd">Minitrix</a></h2>
+<h2 class="app-name" id="app-5dcf62c8c393f5706985a9cd"><a href="https://apps.rebble.io/en_US/application/5dcf62c8c393f5706985a9cd">Minitrix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/lavglaab/MinitrixPebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5dcf62c7c393f5706985a9cb/1" title="More from this developer">lavendork</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2021-04-26</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/lavendork.html" title="More from this developer">lavendork</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2019-11-16</span> <span title="Latest release in the app store">Updated 2021-04-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watch face inspired by the Omnitrix from Ben 10, with modes inspired by the classic series and Omniverse. Features analog and digital time, vibrate on phone disconnect, and changing color for…</p>
 </div>
@@ -1224,10 +1224,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/6617645c46ea9f09c2b1558c" data-search-exclude><img src="../images/apps/6617645c46ea9f09c2b1558c.png" alt="Minitrix2" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6617645c46ea9f09c2b1558c"><a href="https://apps.rebble.io/en_US/application/6617645c46ea9f09c2b1558c">Minitrix2</a></h2>
+<h2 class="app-name" id="app-6617645c46ea9f09c2b1558c"><a href="https://apps.rebble.io/en_US/application/6617645c46ea9f09c2b1558c">Minitrix2</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
 <a class="app-source" href="https://github.com/lavglaab/minitrix2-pebble/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5dcf62c7c393f5706985a9cb/1" title="More from this developer">lavendork</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.4.0</span> <span title="Latest release in the app store">Updated 2026-07-25</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/lavendork.html" title="More from this developer">lavendork</a> · <a href="https://forum.rebble.io/t/989" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2024-04-11</span> <span title="Latest release in the app store">Updated 2026-07-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The ultimate Ben 10 watch face for Pebble! A successor to my first Pebble watch face, with even cooler looks. Features: - Light changes color for Recharge Mode (low battery) and DNA Scan Mode…</p>
 </div>
@@ -1235,10 +1235,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/6a432c036b3a67000985d355" data-search-exclude><img src="../images/apps/6a432c036b3a67000985d355.png" alt="Minute Blocks" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a432c036b3a67000985d355"><a href="https://apps.rebble.io/en_US/application/6a432c036b3a67000985d355">Minute Blocks</a></h2>
+<h2 class="app-name" id="app-6a432c036b3a67000985d355"><a href="https://apps.rebble.io/en_US/application/6a432c036b3a67000985d355">Minute Blocks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/cmore-zz/pebble-minute-blocks" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/69000edb69551c0008c10800/1" title="More from this developer">cmore consulting</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1.0</span> <span title="Latest release in the app store">Updated 2026-07-01</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/cmore-consulting.html" title="More from this developer">cmore consulting</a> · <a href="https://forum.rebble.io/t/1106" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-07-01</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A blocky digital watchface with minute-by-minute geometry, pixel text, and configurable corner &quot;complications&quot; on rectangular Pebble watches, and centered complications on round Pebble watches…</p>
 </div>
@@ -1246,10 +1246,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/8b4cba2c5cfe4c9ea4a38258" data-search-exclude><img src="../images/apps/8b4cba2c5cfe4c9ea4a38258.png" alt="Minute Train" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-8b4cba2c5cfe4c9ea4a38258"><a href="https://apps.repebble.com/8b4cba2c5cfe4c9ea4a38258">Minute Train</a></h2>
+<h2 class="app-name" id="app-8b4cba2c5cfe4c9ea4a38258"><a href="https://apps.repebble.com/8b4cba2c5cfe4c9ea4a38258">Minute Train</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://ndiesslin.com" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/pizzaman_22682b6d06de33b457e5ec34" title="More from this developer">PizzaMan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
+<div class="app-dev">by <a href="../developers/pizzaman.html" title="More from this developer">PizzaMan</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-23</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Minute Train is a playful, glanceable digital Pebble watchface. A different train travels through the scene as the day moves from city commute to mountain railway, country freight, and a moonlit…</p>
 </div>
@@ -1257,10 +1257,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/59c57619461a8dbd6500037b" data-search-exclude><img src="../images/apps/59c57619461a8dbd6500037b.png" alt="Minute TZ" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-59c57619461a8dbd6500037b"><a href="https://apps.rebble.io/en_US/application/59c57619461a8dbd6500037b">Minute TZ</a></h2>
+<h2 class="app-name" id="app-59c57619461a8dbd6500037b"><a href="https://apps.rebble.io/en_US/application/59c57619461a8dbd6500037b">Minute TZ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/clach04/pebble_tz" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5524604a9de9550a3300007a/1" title="More from this developer">clach04</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2017-11-05</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/clach04.html" title="More from this developer">clach04</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-09-22</span> <span title="Latest release in the app store">Updated 2017-11-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble Watchface For Multiple Timezones * Display time, updating once per minute, using system font * Display Battery power * Display notice when Bluetooth is disconnected * Have a config/settings…</p>
 </div>
@@ -1268,10 +1268,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5596c2bd7e24d11080000063" data-search-exclude><img src="../images/apps/5596c2bd7e24d11080000063.png" alt="Mirrors Edge" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5596c2bd7e24d11080000063"><a href="https://apps.repebble.com/5596c2bd7e24d11080000063">Mirrors Edge</a></h2>
+<h2 class="app-name" id="app-5596c2bd7e24d11080000063"><a href="https://apps.repebble.com/5596c2bd7e24d11080000063">Mirrors Edge</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://cloudpebble.net/ide/project/213832#" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/cdunham_549c524545afee61d80005cb" title="More from this developer">cdunham</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">See source</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-07-03</span></div>
+<div class="app-dev">by <a href="../developers/cdunham.html" title="More from this developer">cdunham</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-03</span> <span title="Latest release in the app store">Updated 2015-07-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface with the Mirrors Edge logo</p>
 </div>
@@ -1279,10 +1279,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f9fe0bbddadd40a9a9836673" data-search-exclude><img src="../images/apps/f9fe0bbddadd40a9a9836673.png" alt="MistServer" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f9fe0bbddadd40a9a9836673"><a href="https://apps.repebble.com/f9fe0bbddadd40a9a9836673">MistServer</a></h2>
+<h2 class="app-name" id="app-f9fe0bbddadd40a9a9836673"><a href="https://apps.repebble.com/f9fe0bbddadd40a9a9836673">MistServer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/Thulinma/MistServer-Pebble-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/jaron-vi-tor_136e9e4e9046b20c5e6b2df7" title="More from this developer">Jaron Viëtor</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.1.0</span> <span title="Latest release in the app store">Updated 2026-04-24</span></div>
+<div class="app-dev">by <a href="../developers/jaron-vietor.html" title="More from this developer">Jaron Viëtor</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-21</span> <span title="Latest release in the app store">Updated 2026-04-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface for MistServer fans and/or team members (a surprisingly large percentage has Pebbles).</p>
 </div>
@@ -1290,10 +1290,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/545d7e8cf17b0f08ca000001" data-search-exclude><img src="../images/apps/545d7e8cf17b0f08ca000001.png" alt="Mixup" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-545d7e8cf17b0f08ca000001"><a href="https://apps.repebble.com/545d7e8cf17b0f08ca000001">Mixup</a></h2>
+<h2 class="app-name" id="app-545d7e8cf17b0f08ca000001"><a href="https://apps.repebble.com/545d7e8cf17b0f08ca000001">Mixup</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/mereed/pebbleface-mixup" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chops_52d76309bd61272345000001" title="More from this developer">chops</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2014-11-19</span></div>
+<div class="app-dev">by <a href="../developers/chops.html" title="More from this developer">chops</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-08</span> <span title="Latest release in the app store">Updated 2014-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">[now includes ability to display normal or mixed text. also has invert, bluetooth vibe on/off, hourly vibe on/off - via settings page] Has text hours (with he hour number incorporated in mixed…</p>
 </div>
@@ -1301,10 +1301,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/559d4a07d106c8dc08000056" data-search-exclude><img src="../images/apps/559d4a07d106c8dc08000056.png" alt="MLB Live Face" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-559d4a07d106c8dc08000056"><a href="https://apps.repebble.com/559d4a07d106c8dc08000056">MLB Live Face</a></h2>
+<h2 class="app-name" id="app-559d4a07d106c8dc08000056"><a href="https://apps.repebble.com/559d4a07d106c8dc08000056">MLB Live Face</a> <span class="app-version" title="Latest version" data-search-exclude>v3.11</span></h2>
 <a class="app-source" href="https://github.com/chrisschlitt/MLB-Live-Face" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chris-schlitt_54cd677466e305202000004d" title="More from this developer">Chris Schlitt</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.11</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
+<div class="app-dev">by <a href="../developers/chris-schlitt.html" title="More from this developer">Chris Schlitt</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-08</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">All new for the 2016 season: -Support for Pebble Time Round -Shake to Show Broadcast Information -Improved Battery Life -New Bases Display With MLB live faces you&#x27;ll never miss the action of Major…</p>
 </div>
@@ -1312,10 +1312,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/e0270f35ea0b418589fa0866" data-search-exclude><img src="../images/apps/e0270f35ea0b418589fa0866.png" alt="mobiGlas" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-e0270f35ea0b418589fa0866"><a href="https://apps.repebble.com/e0270f35ea0b418589fa0866">mobiGlas</a></h2>
+<h2 class="app-name" id="app-e0270f35ea0b418589fa0866"><a href="https://apps.repebble.com/e0270f35ea0b418589fa0866">mobiGlas</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.2</span></h2>
 <a class="app-source" href="https://github.com/rorist/sc-mobiglas" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/rorist_97c71fc3e57e598d48f2670f" title="More from this developer">Rorist</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.3.1</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
+<div class="app-dev">by <a href="../developers/rorist.html" title="More from this developer">Rorist</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A fan-made opensource watchface inspired by Star Citizen&#x27;s holographic mobiGlas interface, a space simulation game in development ;) Time (12h/24h), live weather (temperature, conditions, wind…</p>
 </div>
@@ -1323,10 +1323,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/56850e365ce44af3590000aa" data-search-exclude><img src="../images/apps/56850e365ce44af3590000aa.png" alt="Modern Calendar" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56850e365ce44af3590000aa"><a href="https://apps.rebble.io/en_US/application/56850e365ce44af3590000aa">Modern Calendar</a></h2>
+<h2 class="app-name" id="app-56850e365ce44af3590000aa"><a href="https://apps.rebble.io/en_US/application/56850e365ce44af3590000aa">Modern Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/JamesFowler42/moderncalendar" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/529e272138dd3faefd00001f/1" title="More from this developer">Max Bäumle</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2015-12-31</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/max-baumle.html" title="More from this developer">Max Bäumle</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-31</span> <span title="Latest release in the app store">Updated 2015-12-31</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Calendar alert watchface for Smartwatch Pro</p>
 </div>
@@ -1334,10 +1334,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55a2e7632965f287c3000070" data-search-exclude><img src="../images/apps/55a2e7632965f287c3000070.png" alt="Modern Chaser" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55a2e7632965f287c3000070"><a href="https://apps.repebble.com/55a2e7632965f287c3000070">Modern Chaser</a></h2>
+<h2 class="app-name" id="app-55a2e7632965f287c3000070"><a href="https://apps.repebble.com/55a2e7632965f287c3000070">Modern Chaser</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/vzaliva/ModernChaser" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/vadim-zaliva_52facf2e68e48cb2ba00018a" title="More from this developer">Vadim Zaliva</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-07-13</span></div>
+<div class="app-dev">by <a href="../developers/vadim-zaliva.html" title="More from this developer">Vadim Zaliva</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-12</span> <span title="Latest release in the app store">Updated 2015-07-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A variant of Modern watchface where date, bluetooth and battery status windows are never obscured by watch hands. They move around to unobscured position.</p>
 </div>
@@ -1345,10 +1345,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/67b4b7e7af9f4f9893dda506" data-search-exclude><img src="../images/apps/67b4b7e7af9f4f9893dda506.png" alt="Modern Color Bars" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67b4b7e7af9f4f9893dda506"><a href="https://apps.repebble.com/67b4b7e7af9f4f9893dda506">Modern Color Bars</a></h2>
+<h2 class="app-name" id="app-67b4b7e7af9f4f9893dda506"><a href="https://apps.repebble.com/67b4b7e7af9f4f9893dda506">Modern Color Bars</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/MKTechDesigners/moderncolorbars" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mk-tech-designers_557a1cf8bfb28b640c308d64" title="More from this developer">MK Tech Designers</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.0.4</span> <span title="Latest release in the app store">Updated 2026-06-23</span></div>
+<div class="app-dev">by <a href="../developers/mk-tech-designers.html" title="More from this developer">MK Tech Designers</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-22</span> <span title="Latest release in the app store">Updated 2026-06-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A Pebble Time 2 watch face for people who want to see modern, HDR compatible color bars on their watch. Inspired by: &quot;Video Geek: https://apps.repebble.com/video-geek_554643eaba1eb8349b00007a Made…</p>
 </div>
@@ -1356,10 +1356,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5124bacb5baf4657be29a073" data-search-exclude><img src="../images/apps/5124bacb5baf4657be29a073.png" alt="Modern PT2" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5124bacb5baf4657be29a073"><a href="https://apps.repebble.com/5124bacb5baf4657be29a073">Modern PT2</a></h2>
+<h2 class="app-name" id="app-5124bacb5baf4657be29a073"><a href="https://apps.repebble.com/5124bacb5baf4657be29a073">Modern PT2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/flecmart/modern_pt2" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/flecmart_56b2a154d47512b8de5ebcdd" title="More from this developer">Flecmart</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2.0</span> <span title="Latest release in the app store">Updated 2026-06-22</span></div>
+<div class="app-dev">by <a href="../developers/flecmart.html" title="More from this developer">Flecmart</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Modern PT2 - Modernized port of the classic &quot;Modern&quot; watchface by Zalew, rebuilt for Pebble SDK 4.x - Native 200×228 layout for Pebble Time 2 (Emery) - 3 configurable info slots (left, right…</p>
 </div>
@@ -1367,10 +1367,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/545b1efcf2e6f767da00002f" data-search-exclude><img src="../images/apps/545b1efcf2e6f767da00002f.png" alt="Modern Step" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-545b1efcf2e6f767da00002f"><a href="https://apps.repebble.com/545b1efcf2e6f767da00002f">Modern Step</a></h2>
+<h2 class="app-name" id="app-545b1efcf2e6f767da00002f"><a href="https://apps.repebble.com/545b1efcf2e6f767da00002f">Modern Step</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/thorstenstark/modern_step" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/thorsten-stark_542cf55d35f40dbebc00014a" title="More from this developer">Thorsten Stark</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2014-11-06</span></div>
+<div class="app-dev">by <a href="../developers/thorsten-stark.html" title="More from this developer">Thorsten Stark</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-06</span> <span title="Latest release in the app store">Updated 2014-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Watchface with step counter, battery level (image + number), date and digital time based on Modern extra with digital time by edwinfinch. Step counting algorithm basically taken from jathusanT…</p>
 </div>
@@ -1378,10 +1378,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6a57546ab6d159000924963b" data-search-exclude><img src="../images/apps/6a57546ab6d159000924963b.png" alt="ModernAnalogWatch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a57546ab6d159000924963b"><a href="https://apps.repebble.com/6a57546ab6d159000924963b">ModernAnalogWatch</a></h2>
+<h2 class="app-name" id="app-6a57546ab6d159000924963b"><a href="https://apps.repebble.com/6a57546ab6d159000924963b">ModernAnalogWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/EladDv/ModernAnalog" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/eladdvash_68f79f1ed3c6e4000885b87b" title="More from this developer">EladDvash</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="Latest version">v1.0.3</span> <span title="Latest release in the app store">Updated 2026-07-17</span></div>
+<div class="app-dev">by <a href="../developers/eladdvash.html" title="More from this developer">EladDvash</a> · <a href="https://forum.rebble.io/t/1158" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-07-15</span> <span title="Latest release in the app store">Updated 2026-07-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Modern Analog is a configurable hybrid digital watchface for Pebble Time 2. It keeps the visual rhythm of a classic clock face without using hands: the current hour is highlighted in white, while…</p>
 </div>
@@ -1389,10 +1389,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/535191fda00471ecd5000340" data-search-exclude><img src="../images/apps/535191fda00471ecd5000340.png" alt="ModernCal+" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-535191fda00471ecd5000340"><a href="https://apps.rebble.io/en_US/application/535191fda00471ecd5000340">ModernCal+</a></h2>
+<h2 class="app-name" id="app-535191fda00471ecd5000340"><a href="https://apps.rebble.io/en_US/application/535191fda00471ecd5000340">ModernCal+</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/ShaBP/ModernCalendarPlus" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/52f018d9bb3423921000022d/1" title="More from this developer">ShaBP</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.0</span> <span title="Latest release in the app store">Updated 2014-11-03</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/shabp.html" title="More from this developer">ShaBP</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-18</span> <span title="Latest release in the app store">Updated 2014-11-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Modern Calendar Plus combines ModernMinimal (by JWay5929) with ModernCalendar (by Fowler/Baeumle). The best iPhone companion, if you love clean design analog watch. Shake to see battery, bluetooth…</p>
 </div>
@@ -1400,10 +1400,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/47976912ba4c4d42b127b368" data-search-exclude><img src="../images/apps/47976912ba4c4d42b127b368.gif" alt="Moderne" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-47976912ba4c4d42b127b368"><a href="https://apps.repebble.com/47976912ba4c4d42b127b368">Moderne</a></h2>
+<h2 class="app-name" id="app-47976912ba4c4d42b127b368"><a href="https://apps.repebble.com/47976912ba4c4d42b127b368">Moderne</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/marmarjohnson/moderne" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/mark-johnson_bfedc85363580901697437a2" title="More from this developer">Mark Johnson</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
+<div class="app-dev">by <a href="../developers/mark-johnson.html" title="More from this developer">Mark Johnson</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">Moderne is an elegant, highly configurable watchface for the Pebble Round 2, built on a clean Art Deco-inspired numeral face (Poiret One) with day/night-aware backgrounds. - *Sun-arc weather…</p>
 </div>
@@ -1411,10 +1411,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57bb39b7bb85edbc76000ac8" data-search-exclude><img src="../images/apps/57bb39b7bb85edbc76000ac8.png" alt="Modernesque" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57bb39b7bb85edbc76000ac8"><a href="https://apps.repebble.com/57bb39b7bb85edbc76000ac8">Modernesque</a></h2>
+<h2 class="app-name" id="app-57bb39b7bb85edbc76000ac8"><a href="https://apps.repebble.com/57bb39b7bb85edbc76000ac8">Modernesque</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/erikbrinkman/modernesque" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/erik-brinkman_531a5f395af660a8c90009e9" title="More from this developer">Erik Brinkman</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2016-09-03</span></div>
+<div class="app-dev">by <a href="../developers/erik-brinkman.html" title="More from this developer">Erik Brinkman</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-22</span> <span title="Latest release in the app store">Updated 2016-09-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple modern watch face heavily inspired by &quot;Modern Classic 2&quot;.</p>
 </div>
@@ -1422,10 +1422,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52a9a27679c18f04c000005b" data-search-exclude><img src="../images/apps/52a9a27679c18f04c000005b.png" alt="Moderno Analogo" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52a9a27679c18f04c000005b"><a href="https://apps.repebble.com/52a9a27679c18f04c000005b">Moderno Analogo</a></h2>
+<h2 class="app-name" id="app-52a9a27679c18f04c000005b"><a href="https://apps.repebble.com/52a9a27679c18f04c000005b">Moderno Analogo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://www.dropbox.com/sh/spdq0jw6ypw2z0l/ulfOmBnQkp" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/nosagadu_52a999a7c0ca934b0e000069" title="More from this developer">Nosagadu</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2013-12-12</span></div>
+<div class="app-dev">by <a href="../developers/nosagadu.html" title="More from this developer">Nosagadu</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2013-12-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface basado en Modern Extra pero en Español. - Despliega el estado de la conexión Bluetooth. - Se visualiza el estado de la batería del Pebble. - Indica cuando se esta cargando. - Cuando la…</p>
 </div>
@@ -1433,10 +1433,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/638e4d5832de4b16885ab825" data-search-exclude><img src="../images/apps/638e4d5832de4b16885ab825.png" alt="ModernSwiss" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-638e4d5832de4b16885ab825"><a href="https://apps.repebble.com/638e4d5832de4b16885ab825">ModernSwiss</a></h2>
+<h2 class="app-name" id="app-638e4d5832de4b16885ab825"><a href="https://apps.repebble.com/638e4d5832de4b16885ab825">ModernSwiss</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/meyskens/ModernSwiss" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/maartje-eyskens_34c02825342440b7eebba982" title="More from this developer">Maartje Eyskens</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2026-05-29</span></div>
+<div class="app-dev">by <a href="../developers/maartje-eyskens.html" title="More from this developer">Maartje Eyskens</a> · <a href="https://forum.rebble.io/t/1001" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-25</span> <span title="Latest release in the app store">Updated 2026-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by the simple design of Official Swiss Railways Watch.</p>
 </div>
@@ -1444,10 +1444,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5633537887f22705b9000056" data-search-exclude><img src="../images/apps/5633537887f22705b9000056.png" alt="ModernTri" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5633537887f22705b9000056"><a href="https://apps.repebble.com/5633537887f22705b9000056">ModernTri</a></h2>
+<h2 class="app-name" id="app-5633537887f22705b9000056"><a href="https://apps.repebble.com/5633537887f22705b9000056">ModernTri</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/mriscott/ModernTri" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/irongeek_552b679ae9408f68ac0000b7" title="More from this developer">Irongeek</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2016-02-05</span></div>
+<div class="app-dev">by <a href="../developers/irongeek.html" title="More from this developer">Irongeek</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-30</span> <span title="Latest release in the app store">Updated 2016-02-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Clean, triathlon-themed watchface, based on the well-known Modern face</p>
 </div>
@@ -1455,10 +1455,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5549b618740833c08d000008" data-search-exclude><img src="../images/apps/5549b618740833c08d000008.png" alt="Modest" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5549b618740833c08d000008"><a href="https://apps.repebble.com/5549b618740833c08d000008">Modest</a></h2>
+<h2 class="app-name" id="app-5549b618740833c08d000008"><a href="https://apps.repebble.com/5549b618740833c08d000008">Modest</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/AwesomeBen1/ModestWatchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/ben-chapman-kish_549c7f5263c11a140100085f" title="More from this developer">Ben Chapman-Kish</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-05-09</span></div>
+<div class="app-dev">by <a href="../developers/ben-chapman-kish.html" title="More from this developer">Ben Chapman-Kish</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A modest watchface featuring pleasing colours, a simple design, and smooth animations. Note: I&#x27;m figuring out how to create watchface settings pages, so there is no colour selection yet.</p>
 </div>
@@ -1466,10 +1466,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9a1f87da1669493f9c2d7775" data-search-exclude><span class="app-noshot">No screenshot</span></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9a1f87da1669493f9c2d7775"><a href="https://apps.repebble.com/9a1f87da1669493f9c2d7775">ModGrid</a></h2>
+<h2 class="app-name" id="app-9a1f87da1669493f9c2d7775"><a href="https://apps.repebble.com/9a1f87da1669493f9c2d7775">ModGrid</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ConniptionFit/modgrid" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/pwrs_0c270c6be325ecee9eb214d6" title="More from this developer">pwrs</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-06-16</span></div>
+<div class="app-dev">by <a href="../developers/pwrs.html" title="More from this developer">pwrs</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-16</span> <span title="Latest release in the app store">Updated 2026-06-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A simple, grid-based watchface emphasizing glance value. Disclaimer: This face was made with Cursor.</p>
 </div>
@@ -1477,10 +1477,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/692cac43ef41e0000886ac3a" data-search-exclude><img src="../images/apps/692cac43ef41e0000886ac3a.png" alt="Modules" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-692cac43ef41e0000886ac3a"><a href="https://apps.repebble.com/692cac43ef41e0000886ac3a">Modules</a></h2>
+<h2 class="app-name" id="app-692cac43ef41e0000886ac3a"><a href="https://apps.repebble.com/692cac43ef41e0000886ac3a">Modules</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ClickCalickClick/modules-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/click-calick-click_5c6cdab636abd90001909eef" title="More from this developer">Click_Calick_Click</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2025-11-30</span></div>
+<div class="app-dev">by <a href="../developers/click-calick-click.html" title="More from this developer">Click_Calick_Click</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-30</span> <span title="Latest release in the app store">Updated 2025-11-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Modules is a feature-rich watchface designed for Pebble smartwatches that puts you in control. Unlike traditional watchfaces that lock you into a fixed layout, Modules breaks down your display…</p>
 </div>
@@ -1488,10 +1488,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/67cb26bdb7a02301b9a6e426" data-search-exclude><img src="../images/apps/67cb26bdb7a02301b9a6e426.png" alt="Modulus" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67cb26bdb7a02301b9a6e426"><a href="https://apps.repebble.com/67cb26bdb7a02301b9a6e426">Modulus</a></h2>
+<h2 class="app-name" id="app-67cb26bdb7a02301b9a6e426"><a href="https://apps.repebble.com/67cb26bdb7a02301b9a6e426">Modulus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.27</span></h2>
 <a class="app-source" href="https://github.com/lamasters/modulus-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/lamasters_5ca7f156835c6200017635d5" title="More from this developer">lamasters</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.27</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
+<div class="app-dev">by <a href="../developers/lamasters.html" title="More from this developer">lamasters</a> · <a href="https://forum.rebble.io/t/971" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple face with weather and fitness tracking. Customize it to match your colours! Inspired by the Apple Watch Modular face. Support my work https://ko-fi.com/lamasters The outer fitness ring is…</p>
 </div>
@@ -1499,10 +1499,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5a4b9bfc0dfc329496001b60" data-search-exclude><img src="../images/apps/5a4b9bfc0dfc329496001b60.png" alt="MoHa : +1s For Haha" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5a4b9bfc0dfc329496001b60"><a href="https://apps.rebble.io/en_US/application/5a4b9bfc0dfc329496001b60">MoHa : +1s For Haha</a></h2>
+<h2 class="app-name" id="app-5a4b9bfc0dfc329496001b60"><a href="https://apps.rebble.io/en_US/application/5a4b9bfc0dfc329496001b60">MoHa : +1s For Haha</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/yulingtianxia/Pebble-MoHa" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5a424b640dfc322b4500181f/1" title="More from this developer">Reboot Yang</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2018-01-06</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/reboot-yang.html" title="More from this developer">Reboot Yang</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-01-02</span> <span title="Latest release in the app store">Updated 2018-01-06</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">MoHa is a simple and young watchface for you! Keep every second! Excited!</p>
 </div>
@@ -1510,10 +1510,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/bf2f17288a0840a5a0308976" data-search-exclude><img src="../images/apps/bf2f17288a0840a5a0308976.gif" alt="Molniya" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a></h2>
+<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/molniya-pebble-watchface/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/justinjhendrick_67f68b8a23b7a90009c87db5" title="More from this developer">justinjhendrick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2.0</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
+<div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A minimalist watchface with both digital numbers and analog movement for the minutes. Very large fonts make it easy to read.</p>
 </div>
@@ -1521,10 +1521,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/62b4e87511724b988c0a8b02" data-search-exclude><img src="../images/apps/62b4e87511724b988c0a8b02.png" alt="Momentous" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-62b4e87511724b988c0a8b02"><a href="https://apps.repebble.com/62b4e87511724b988c0a8b02">Momentous</a></h2>
+<h2 class="app-name" id="app-62b4e87511724b988c0a8b02"><a href="https://apps.repebble.com/62b4e87511724b988c0a8b02">Momentous</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/leeja328/momentous" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/neema_acf4d290d5c2f2f1938365ed" title="More from this developer">Neema</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
+<div class="app-dev">by <a href="../developers/neema.html" title="More from this developer">Neema</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watch face was inspired by Moment, created by Luke Harris. I love the block style that gives excellent readability and contrast, but I was sad that its settings page no longer worked and that…</p>
 </div>
@@ -1532,10 +1532,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55864b36661134ee5700008c" data-search-exclude><img src="../images/apps/55864b36661134ee5700008c.png" alt="Mondaine" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55864b36661134ee5700008c"><a href="https://apps.repebble.com/55864b36661134ee5700008c">Mondaine</a></h2>
+<h2 class="app-name" id="app-55864b36661134ee5700008c"><a href="https://apps.repebble.com/55864b36661134ee5700008c">Mondaine</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/limjohnny88/MondainePebbleWatchFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/limjohnny88_53eb8f4fe5b455f1ba000113" title="More from this developer">limjohnny88</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2015-08-10</span></div>
+<div class="app-dev">by <a href="../developers/limjohnny88.html" title="More from this developer">limjohnny88</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-21</span> <span title="Latest release in the app store">Updated 2015-08-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Mondaine watch face for Pebble. This is the third release of the Mondaine watch face for Pebble. If you really like this watch face and would like to support me. You can make a dontation to me via…</p>
 </div>
@@ -1543,10 +1543,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/554f9bc04e604b446200006d" data-search-exclude><img src="../images/apps/554f9bc04e604b446200006d.png" alt="Mondrian" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-554f9bc04e604b446200006d"><a href="https://apps.repebble.com/554f9bc04e604b446200006d">Mondrian</a></h2>
+<h2 class="app-name" id="app-554f9bc04e604b446200006d"><a href="https://apps.repebble.com/554f9bc04e604b446200006d">Mondrian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.21</span></h2>
 <a class="app-source" href="https://github.com/obitoo/PebbleMondrian" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/owen-b_535fc8b0cabddcdb760000c1" title="More from this developer">Owen B</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.21</span> <span title="Latest release in the app store">Updated 2015-09-18</span></div>
+<div class="app-dev">by <a href="../developers/owen-b.html" title="More from this developer">Owen B</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2015-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Release 1.2: Added Bluetooth disconnect icon A nerdy little colour watchface. Hours are Blue, Minutes are Yellow, and Red for Both. Can you figure out how it works? (Hint : 5, 3, 2, 1 ,1)</p>
 </div>
@@ -1554,10 +1554,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/554e66885feb9d07b300008f" data-search-exclude><img src="../images/apps/554e66885feb9d07b300008f.png" alt="Mongo Time" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-554e66885feb9d07b300008f"><a href="https://apps.repebble.com/554e66885feb9d07b300008f">Mongo Time</a></h2>
+<h2 class="app-name" id="app-554e66885feb9d07b300008f"><a href="https://apps.repebble.com/554e66885feb9d07b300008f">Mongo Time</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/JKCowboy/big-time.git" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/javacowboy_547d4f3f36aa9bf81f00004d" title="More from this developer">JavaCowboy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v0.1</span> <span title="Latest release in the app store">Updated 2015-05-09</span></div>
+<div class="app-dev">by <a href="../developers/javacowboy.html" title="More from this developer">JavaCowboy</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-09</span> <span title="Latest release in the app store">Updated 2015-05-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Mongo Time is a watch face with really big numbers and features animations as the time changes. Each digit will slide out when it needs changing and with the new digit sliding back in. Mongo Time…</p>
 </div>
@@ -1565,10 +1565,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/59eb79ad461a8d72e800037c" data-search-exclude><img src="../images/apps/59eb79ad461a8d72e800037c.png" alt="Mongol Tsag" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-59eb79ad461a8d72e800037c"><a href="https://apps.rebble.io/en_US/application/59eb79ad461a8d72e800037c">Mongol Tsag</a></h2>
+<h2 class="app-name" id="app-59eb79ad461a8d72e800037c"><a href="https://apps.rebble.io/en_US/application/59eb79ad461a8d72e800037c">Mongol Tsag</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/lmo0731/PebbleMongolTsag" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/59cd4b8a461a8d8fd1002118/1" title="More from this developer">lmo0731</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2017-10-21</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/lmo0731.html" title="More from this developer">lmo0731</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-10-21</span> <span title="Latest release in the app store">Updated 2017-10-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Shows clock as mongolian</p>
 </div>
@@ -1576,10 +1576,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6aad8bd5d8f3d60008ca0b99" data-search-exclude><img src="../images/apps/6aad8bd5d8f3d60008ca0b99.gif" alt="Monolith" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6aad8bd5d8f3d60008ca0b99"><a href="https://apps.repebble.com/6aad8bd5d8f3d60008ca0b99">Monolith</a></h2>
+<h2 class="app-name" id="app-6aad8bd5d8f3d60008ca0b99"><a href="https://apps.repebble.com/6aad8bd5d8f3d60008ca0b99">Monolith</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
 <a class="app-source" href="https://github.com/astosia/monolith" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/astosia_58a635d30dfc320dc60003b4" title="More from this developer">astosia</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.8.0</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-dev">by <a href="../developers/astosia.html" title="More from this developer">astosia</a> · <a href="https://forum.rebble.io/t/1369" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watchface with really large easy to read digits, and configurable layout and colours. Live preview in Settings page Features: - Show or hide battery meter (line at the bottom of the screen)…</p>
 </div>
@@ -1587,10 +1587,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/69ee8a7097500300095a4ac2" data-search-exclude><img src="../images/apps/69ee8a7097500300095a4ac2.gif" alt="monologue" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69ee8a7097500300095a4ac2"><a href="https://apps.repebble.com/69ee8a7097500300095a4ac2">monologue</a></h2>
+<h2 class="app-name" id="app-69ee8a7097500300095a4ac2"><a href="https://apps.repebble.com/69ee8a7097500300095a4ac2">monologue</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://github.com/astosia/monologue" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/astosia_58a635d30dfc320dc60003b4" title="More from this developer">astosia</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="Latest version">v2.3.0</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
+<div class="app-dev">by <a href="../developers/astosia.html" title="More from this developer">astosia</a> · <a href="https://forum.rebble.io/t/914" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-26</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface inspired by the Skagen Mono watch: has a single analogue minute hand, and digital hours Features: - V2 adds ability to swap minutes and hours, and to modify size &amp; style of the analogue…</p>
 </div>
@@ -1598,10 +1598,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/8990b26e518841329f7ced41" data-search-exclude><img src="../images/apps/8990b26e518841329f7ced41.png" alt="Monstera" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-8990b26e518841329f7ced41"><a href="https://apps.repebble.com/8990b26e518841329f7ced41">Monstera</a></h2>
+<h2 class="app-name" id="app-8990b26e518841329f7ced41"><a href="https://apps.repebble.com/8990b26e518841329f7ced41">Monstera</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/sopko/monstera-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/sopko_3c81137d9a285d2e9407ccdb" title="More from this developer">Sopko</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.4</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
+<div class="app-dev">by <a href="../developers/sopko.html" title="More from this developer">Sopko</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-17</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A botanical watchface for the Pebble Time 2, pairing bold pixel numerals with forest-green monstera leaves and a muted gray-ivory background. - Live time using the watch&#x27;s 12/24-hour preference…</p>
 </div>
@@ -1609,10 +1609,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/865c44435a054e288357979f" data-search-exclude><img src="../images/apps/865c44435a054e288357979f.png" alt="MonthGrid Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-865c44435a054e288357979f"><a href="https://apps.repebble.com/865c44435a054e288357979f">MonthGrid Watchface</a></h2>
+<h2 class="app-name" id="app-865c44435a054e288357979f"><a href="https://apps.repebble.com/865c44435a054e288357979f">MonthGrid Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/OkGoDoIt/pebble-monthgrid" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/okgodoit_2d457468692a72f27c7bda43" title="More from this developer">OkGoDoIt</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.2.0</span> <span title="Latest release in the app store">Updated 2026-09-02</span></div>
+<div class="app-dev">by <a href="../developers/okgodoit.html" title="More from this developer">OkGoDoIt</a> · <a href="https://forum.rebble.io/t/1303" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-09-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A full month calendar watchface with tons of customizability. The time up top, a full month calendar below, and a status line with customizable info. Inspired by the old Calendar Watchface by…</p>
 </div>
@@ -1620,10 +1620,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/551048a45c415c61c400000c" data-search-exclude><img src="../images/apps/551048a45c415c61c400000c.png" alt="Moogle Time SDK2" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-551048a45c415c61c400000c"><a href="https://apps.repebble.com/551048a45c415c61c400000c">Moogle Time SDK2</a></h2>
+<h2 class="app-name" id="app-551048a45c415c61c400000c"><a href="https://apps.repebble.com/551048a45c415c61c400000c">Moogle Time SDK2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/allan175/moogle_time_sdk2" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/allan175_529efd9a1a6638c898000050" title="More from this developer">Allan175</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-03-23</span></div>
+<div class="app-dev">by <a href="../developers/allan175.html" title="More from this developer">Allan175</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-23</span> <span title="Latest release in the app store">Updated 2015-03-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Update of Moogle Time for SDK2.</p>
 </div>
@@ -1631,10 +1631,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/558c86d9a2deec56ce00001a" data-search-exclude><img src="../images/apps/558c86d9a2deec56ce00001a.png" alt="Moon for Northern Hemisphere" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-558c86d9a2deec56ce00001a"><a href="https://apps.repebble.com/558c86d9a2deec56ce00001a">Moon for Northern Hemisphere</a></h2>
+<h2 class="app-name" id="app-558c86d9a2deec56ce00001a"><a href="https://apps.repebble.com/558c86d9a2deec56ce00001a">Moon for Northern Hemisphere</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/OMerkel/pebble-samples" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/oliver-merkel_55592fc6b038d44f9e00003e" title="More from this developer">Oliver Merkel</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-03-26</span></div>
+<div class="app-dev">by <a href="../developers/oliver-merkel.html" title="More from this developer">Oliver Merkel</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-06-25</span> <span title="Latest release in the app store">Updated 2016-03-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">* Moon for Northern Hemisphere is a watchface derived from Decelerate Northern Hemisphere watchface * Main display is showing the current Moon Phase nearly in full screen * Decelerate your day…</p>
 </div>
@@ -1642,10 +1642,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55916f52981ce4e960000069" data-search-exclude><img src="../images/apps/55916f52981ce4e960000069.png" alt="Moon Phase Watchface" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55916f52981ce4e960000069"><a href="https://apps.repebble.com/55916f52981ce4e960000069">Moon Phase Watchface</a></h2>
+<h2 class="app-name" id="app-55916f52981ce4e960000069"><a href="https://apps.repebble.com/55916f52981ce4e960000069">Moon Phase Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/husobee/pebble-moonphase" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/husobee-apps_552f1c95c3416203bc000093" title="More from this developer">husobee apps</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-07-02</span></div>
+<div class="app-dev">by <a href="../developers/husobee-apps.html" title="More from this developer">husobee apps</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-29</span> <span title="Latest release in the app store">Updated 2015-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface that will show you the current phase of the moon, as well as the current date and time.</p>
 </div>
@@ -1653,10 +1653,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57654b610cc8f579730000a9" data-search-exclude><img src="../images/apps/57654b610cc8f579730000a9.png" alt="Moon Phase Watchface UK" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57654b610cc8f579730000a9"><a href="https://apps.repebble.com/57654b610cc8f579730000a9">Moon Phase Watchface UK</a></h2>
+<h2 class="app-name" id="app-57654b610cc8f579730000a9"><a href="https://apps.repebble.com/57654b610cc8f579730000a9">Moon Phase Watchface UK</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/husobee/pebble-moonphase-uk" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/husobee-apps_552f1c95c3416203bc000093" title="More from this developer">husobee apps</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-06-18</span></div>
+<div class="app-dev">by <a href="../developers/husobee-apps.html" title="More from this developer">husobee apps</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-18</span> <span title="Latest release in the app store">Updated 2016-06-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface is a slight modification of this: https://apps.getpebble.com/en_US/application/55916f52981ce4e960000069 The only difference is the date format follows the DD/MM/YY.</p>
 </div>
@@ -1664,10 +1664,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5495e3173b132d5fae000004" data-search-exclude><img src="../images/apps/5495e3173b132d5fae000004.png" alt="Moon, Health, Location and Weather Watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5495e3173b132d5fae000004"><a href="https://apps.repebble.com/5495e3173b132d5fae000004">Moon, Health, Location and Weather Watch</a></h2>
+<h2 class="app-name" id="app-5495e3173b132d5fae000004"><a href="https://apps.repebble.com/5495e3173b132d5fae000004">Moon, Health, Location and Weather Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v7.9</span></h2>
 <a class="app-source" href="http://web.aanet.com.au/~summersfamily/moon_health_location_and_weather_watch_(7.8).zip" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/peter-summers_544f79d4ba44304f8400004c" title="More from this developer">Peter Summers</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">See source</span> <span title="Latest version">v7.9</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-dev">by <a href="../developers/peter-summers.html" title="More from this developer">Peter Summers</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-20</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watch face displays the following: - time zone - phase of the moon (0-29 days, 0=new, 14=full), - location of the moon (0-99 x ~15-minute intervals), or - any one of Pebble&#x27;s health metrics…</p>
 </div>
@@ -1675,10 +1675,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7650810547de4df2a41991e7" data-search-exclude><img src="../images/apps/7650810547de4df2a41991e7.png" alt="MoonFace" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7650810547de4df2a41991e7"><a href="https://apps.repebble.com/7650810547de4df2a41991e7">MoonFace</a></h2>
+<h2 class="app-name" id="app-7650810547de4df2a41991e7"><a href="https://apps.repebble.com/7650810547de4df2a41991e7">MoonFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ProggroP/MoonFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kieselleger_56f70d3fe58879cfd4000013" title="More from this developer">Kieselleger</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2026-06-02</span></div>
+<div class="app-dev">by <a href="../developers/kieselleger.html" title="More from this developer">Kieselleger</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-02</span> <span title="Latest release in the app store">Updated 2026-06-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">A real moon on your wrist. Moonface shows the current lunar phase as a soft shadow over a full-disk moon, turned to match how the Moon actually appears in your local sky. Features: Full-disk moon…</p>
 </div>
@@ -1686,10 +1686,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/962806faa9fb4eb4a211acbd" data-search-exclude><img src="../images/apps/962806faa9fb4eb4a211acbd.png" alt="Moonlit" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-962806faa9fb4eb4a211acbd"><a href="https://apps.repebble.com/962806faa9fb4eb4a211acbd">Moonlit</a></h2>
+<h2 class="app-name" id="app-962806faa9fb4eb4a211acbd"><a href="https://apps.repebble.com/962806faa9fb4eb4a211acbd">Moonlit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
 <a class="app-source" href="https://github.com/changing-k-tanaka/pebble-watchface-moonlit" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/changing-k-tanaka_69d06e418ce708000859e6f6" title="More from this developer">changing-k-tanaka</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.5</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-dev">by <a href="../developers/changing-k-tanaka.html" title="More from this developer">changing-k-tanaka</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This watch face depicts a moonlit night and a daytime view from the moon. Shooting stars and comets may appear in the night sky. You can select and display any two of the following: weather and…</p>
 </div>
@@ -1697,10 +1697,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/3973ba5aa4a04256a384422d" data-search-exclude><img src="../images/apps/3973ba5aa4a04256a384422d.png" alt="Moonphase" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-3973ba5aa4a04256a384422d"><a href="https://apps.repebble.com/3973ba5aa4a04256a384422d">Moonphase</a></h2>
+<h2 class="app-name" id="app-3973ba5aa4a04256a384422d"><a href="https://apps.repebble.com/3973ba5aa4a04256a384422d">Moonphase</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/trishtzy/pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/trishtzy_7f804afab74d6b22653f0e98" title="More from this developer">trishtzy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-dev">by <a href="../developers/trishtzy.html" title="More from this developer">trishtzy</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog watchface with day/night mode: a blue sky with clouds and sun by day, a starry sky with a live moon phase subdial by night.</p>
 </div>
@@ -1708,10 +1708,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52d0d8b01d006df8f90000b9" data-search-exclude><img src="../images/apps/52d0d8b01d006df8f90000b9.png" alt="Moontiles" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52d0d8b01d006df8f90000b9"><a href="https://apps.repebble.com/52d0d8b01d006df8f90000b9">Moontiles</a></h2>
+<h2 class="app-name" id="app-52d0d8b01d006df8f90000b9"><a href="https://apps.repebble.com/52d0d8b01d006df8f90000b9">Moontiles</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/akrs/moontiles/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/akrs_52be2e4c007c1e4815000011" title="More from this developer">Akrs</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v3.0</span> <span title="Latest release in the app store">Updated 2016-08-29</span></div>
+<div class="app-dev">by <a href="../developers/akrs.html" title="More from this developer">Akrs</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-11</span> <span title="Latest release in the app store">Updated 2016-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface that displays the time, date and moon phase. For the moon phase, an icon for one of 14 phases of the moon is displayed with a different representation for waxing and waning…</p>
 </div>
@@ -1719,10 +1719,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/560da843481905afcc000047" data-search-exclude><img src="../images/apps/560da843481905afcc000047.png" alt="MorbidMeter" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-560da843481905afcc000047"><a href="https://apps.repebble.com/560da843481905afcc000047">MorbidMeter</a></h2>
+<h2 class="app-name" id="app-560da843481905afcc000047"><a href="https://apps.repebble.com/560da843481905afcc000047">MorbidMeter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/mannd/MorbidMeterPebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/ep-studios_54774cac3adb372090000051" title="More from this developer">EP Studios</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
+<div class="app-dev">by <a href="../developers/ep-studios.html" title="More from this developer">EP Studios</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-01</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">MorbidMeter for Pebble is a countdown (or count up!) watchface, but more entertaining than most such beasts. Set start and end dates and times, and then select what timescale to display. You can…</p>
 </div>
@@ -1730,10 +1730,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52ccf7370ede80ad36000009" data-search-exclude><img src="../images/apps/52ccf7370ede80ad36000009.png" alt="More Than Meets the Eye" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52ccf7370ede80ad36000009"><a href="https://apps.repebble.com/52ccf7370ede80ad36000009">More Than Meets the Eye</a></h2>
+<h2 class="app-name" id="app-52ccf7370ede80ad36000009"><a href="https://apps.repebble.com/52ccf7370ede80ad36000009">More Than Meets the Eye</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/pythe/more-than-meets-the-eye" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/pythe_52bdb902fbe3f888af0000b8" title="More from this developer">Pythe</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
+<div class="app-dev">by <a href="../developers/pythe.html" title="More from this developer">Pythe</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-08</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">For those who want to display their allegiance to a faction of robots in disguise - and change it at the flick of the wrist.</p>
 </div>
@@ -1741,10 +1741,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/67c86c9db7a02300092ba0d4" data-search-exclude><img src="../images/apps/67c86c9db7a02300092ba0d4.png" alt="Morndas" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67c86c9db7a02300092ba0d4"><a href="https://apps.repebble.com/67c86c9db7a02300092ba0d4">Morndas</a></h2>
+<h2 class="app-name" id="app-67c86c9db7a02300092ba0d4"><a href="https://apps.repebble.com/67c86c9db7a02300092ba0d4">Morndas</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chris-lewis_5299cd30e627ce1147000099" title="More from this developer">Chris Lewis</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2026-01-02</span></div>
+<div class="app-dev">by <a href="../developers/chris-lewis.html" title="More from this developer">Chris Lewis</a> · <a href="https://forum.rebble.io/t/418" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-05</span> <span title="Latest release in the app store">Updated 2026-01-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Inspired by Skyrim, with a focus on readability</p>
 </div>
@@ -1752,10 +1752,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53136626bb31cf87cd0002e5" data-search-exclude><img src="../images/apps/53136626bb31cf87cd0002e5.png" alt="Morse Code Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53136626bb31cf87cd0002e5"><a href="https://apps.repebble.com/53136626bb31cf87cd0002e5">Morse Code Clock</a></h2>
+<h2 class="app-name" id="app-53136626bb31cf87cd0002e5"><a href="https://apps.repebble.com/53136626bb31cf87cd0002e5">Morse Code Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/KimSeungKyu/MorseCodeClock" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/niss_52cb82a4e2dd027fe50000e5" title="More from this developer">niss</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-dev">by <a href="../developers/niss.html" title="More from this developer">niss</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-03-02</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is morse code viberate clock. If you want to know now time to shake your pebble.</p>
 </div>
@@ -1763,10 +1763,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b785c22984c843299e95bba0" data-search-exclude><img src="../images/apps/b785c22984c843299e95bba0.png" alt="Morten&#x27;s Glucose" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b785c22984c843299e95bba0"><a href="https://apps.repebble.com/b785c22984c843299e95bba0">Morten&#x27;s Glucose</a></h2>
+<h2 class="app-name" id="app-b785c22984c843299e95bba0"><a href="https://apps.repebble.com/b785c22984c843299e95bba0">Morten&#x27;s Glucose</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/mortenfyhn/pebble-glucose-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/morten-f-amundsen_3dc49eda3e8998859607e9dd" title="More from this developer">Morten F. Amundsen</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v0.1.0</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
+<div class="app-dev">by <a href="../developers/morten-f-amundsen.html" title="More from this developer">Morten F. Amundsen</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is my blood glucose watchface. It can work with any glucose data source. COMPANION APP This watchface uses a generic Pebble Glucose Protocol, and can therefore be made to work with any data…</p>
 </div>
@@ -1774,10 +1774,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7eb74e91c4a1462782a203ff" data-search-exclude><img src="../images/apps/7eb74e91c4a1462782a203ff.png" alt="Mosaic" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7eb74e91c4a1462782a203ff"><a href="https://apps.repebble.com/7eb74e91c4a1462782a203ff">Mosaic</a></h2>
+<h2 class="app-name" id="app-7eb74e91c4a1462782a203ff"><a href="https://apps.repebble.com/7eb74e91c4a1462782a203ff">Mosaic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.50</span></h2>
 <a class="app-source" href="https://github.com/manaksu/Vangogh" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/creative-manaks_504fe850dc7e97a445b0a10d" title="More from this developer">Creative Manaks</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.50</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-dev">by <a href="../developers/creative-manaks.html" title="More from this developer">Creative Manaks</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Van Gogh Watch</p>
 </div>
@@ -1785,10 +1785,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/d2ccde5d2187490085b44f8e" data-search-exclude><img src="../images/apps/d2ccde5d2187490085b44f8e.png" alt="Mosaic Grid" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d2ccde5d2187490085b44f8e"><a href="https://apps.repebble.com/d2ccde5d2187490085b44f8e">Mosaic Grid</a></h2>
+<h2 class="app-name" id="app-d2ccde5d2187490085b44f8e"><a href="https://apps.repebble.com/d2ccde5d2187490085b44f8e">Mosaic Grid</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/analog-tick-tocker_eb6b6dc4dbd64c7c7ea32a94" title="More from this developer">Analog Tick-Tocker</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3.0</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
+<div class="app-dev">by <a href="../developers/analog-tick-tocker.html" title="More from this developer">Analog Tick-Tocker</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Mosaic Grid turns the Pebble Time 2 display into a compact modernist poster. A smooth launch animation builds the grid from a red canvas: the time panel slides in from the left, then the lower…</p>
 </div>
@@ -1796,10 +1796,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57029498fe92545c22000034" data-search-exclude><img src="../images/apps/57029498fe92545c22000034.png" alt="Motivation" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-57029498fe92545c22000034"><a href="https://apps.repebble.com/57029498fe92545c22000034">Motivation</a></h2>
+<h2 class="app-name" id="app-57029498fe92545c22000034"><a href="https://apps.repebble.com/57029498fe92545c22000034">Motivation</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="http://www.github.com/firestar115/Motivation" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/anthony-cerruti_5702943683140d54f3000030" title="More from this developer">Anthony Cerruti</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2016-04-04</span></div>
+<div class="app-dev">by <a href="../developers/anthony-cerruti.html" title="More from this developer">Anthony Cerruti</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-04</span> <span title="Latest release in the app store">Updated 2016-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Shows time and motivational quote.</p>
 </div>
@@ -1807,10 +1807,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5e9e37043dd3101b10109a01" data-search-exclude><img src="../images/apps/5e9e37043dd3101b10109a01.png" alt="Moto Maker" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5e9e37043dd3101b10109a01"><a href="https://apps.rebble.io/en_US/application/5e9e37043dd3101b10109a01">Moto Maker</a></h2>
+<h2 class="app-name" id="app-5e9e37043dd3101b10109a01"><a href="https://apps.rebble.io/en_US/application/5e9e37043dd3101b10109a01">Moto Maker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/lavglaab/MotoMakerFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/5dcf62c7c393f5706985a9cb/1" title="More from this developer">lavendork</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.10</span> <span title="Latest release in the app store">Updated 2026-03-02</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/lavendork.html" title="More from this developer">lavendork</a> · <a href="https://forum.rebble.io/t/332" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-04-20</span> <span title="Latest release in the app store">Updated 2026-03-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A customizable analog watch face based on the look of the Moto 360, with plenty of color options.</p>
 </div>
@@ -1818,10 +1818,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/548d64806bfc313060000095" data-search-exclude><img src="../images/apps/548d64806bfc313060000095.png" alt="Motornyy Bad" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-548d64806bfc313060000095"><a href="https://apps.repebble.com/548d64806bfc313060000095">Motornyy Bad</a></h2>
+<h2 class="app-name" id="app-548d64806bfc313060000095"><a href="https://apps.repebble.com/548d64806bfc313060000095">Motornyy Bad</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mmotorny/motornyy-bad" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/maksym-motornyy_547fe1aac30d374b01000111" title="More from this developer">Maksym Motornyy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2014-12-14</span></div>
+<div class="app-dev">by <a href="../developers/maksym-motornyy.html" title="More from this developer">Maksym Motornyy</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-14</span> <span title="Latest release in the app store">Updated 2014-12-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Breaking Bad poster reimagined as a watchface.</p>
 </div>
@@ -1829,10 +1829,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54853108075d4ce85f00001a" data-search-exclude><img src="../images/apps/54853108075d4ce85f00001a.png" alt="Motornyy Progress" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54853108075d4ce85f00001a"><a href="https://apps.repebble.com/54853108075d4ce85f00001a">Motornyy Progress</a></h2>
+<h2 class="app-name" id="app-54853108075d4ce85f00001a"><a href="https://apps.repebble.com/54853108075d4ce85f00001a">Motornyy Progress</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mmotorny/motornyy-progress" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/maksym-motornyy_547fe1aac30d374b01000111" title="More from this developer">Maksym Motornyy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2014-12-22</span></div>
+<div class="app-dev">by <a href="../developers/maksym-motornyy.html" title="More from this developer">Maksym Motornyy</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-08</span> <span title="Latest release in the app store">Updated 2014-12-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A minimalistic digital watchface enhanced by analog intuition: numbers move from left to right as they increase.</p>
 </div>
@@ -1840,10 +1840,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54c48bc9f77738e4530000c6" data-search-exclude><img src="../images/apps/54c48bc9f77738e4530000c6.png" alt="Motornyy Purist" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54c48bc9f77738e4530000c6"><a href="https://apps.repebble.com/54c48bc9f77738e4530000c6">Motornyy Purist</a></h2>
+<h2 class="app-name" id="app-54c48bc9f77738e4530000c6"><a href="https://apps.repebble.com/54c48bc9f77738e4530000c6">Motornyy Purist</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/mmotorny/motornyy-purist" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/maksym-motornyy_547fe1aac30d374b01000111" title="More from this developer">Maksym Motornyy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.0</span> <span title="Latest release in the app store">Updated 2015-05-24</span></div>
+<div class="app-dev">by <a href="../developers/maksym-motornyy.html" title="More from this developer">Maksym Motornyy</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-25</span> <span title="Latest release in the app store">Updated 2015-05-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A clean and feature-rich analog watchface. Now supports Pebble Time. Date and time: - day of week; - day of month; - seconds hand (configurable). Weather: - temperature in °C and °F…</p>
 </div>
@@ -1851,10 +1851,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/c00e658c460d44b4a11a94eb" data-search-exclude><img src="../images/apps/c00e658c460d44b4a11a94eb.png" alt="Mountain Moon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c00e658c460d44b4a11a94eb"><a href="https://apps.repebble.com/c00e658c460d44b4a11a94eb">Mountain Moon</a></h2>
+<h2 class="app-name" id="app-c00e658c460d44b4a11a94eb"><a href="https://apps.repebble.com/c00e658c460d44b4a11a94eb">Mountain Moon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/fumi6625/pebble-watch-face-moon-faces" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/zefuru_6190e1008e31f0a6d6aba7af" title="More from this developer">zefuru</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.0.0</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-dev">by <a href="../developers/zefuru.html" title="More from this developer">zefuru</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Mountain Moon A landscape watch face. Features ・Automatic day/night switching — Detects sunrise and sunset times. Transitions from sunrise → daytime → sunset → moonlit night ・Moon phase display —…</p>
 </div>
@@ -1862,10 +1862,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55592159b038d48f6e000040" data-search-exclude><img src="../images/apps/55592159b038d48f6e000040.png" alt="Mouseketeer" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55592159b038d48f6e000040"><a href="https://apps.repebble.com/55592159b038d48f6e000040">Mouseketeer</a></h2>
+<h2 class="app-name" id="app-55592159b038d48f6e000040"><a href="https://apps.repebble.com/55592159b038d48f6e000040">Mouseketeer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/rgarth/PebbleMouse" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/rob-garth_52f1fc5b7247497b640000dc" title="More from this developer">Rob Garth</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.4</span> <span title="Latest release in the app store">Updated 2015-05-28</span></div>
+<div class="app-dev">by <a href="../developers/rob-garth.html" title="More from this developer">Rob Garth</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-17</span> <span title="Latest release in the app store">Updated 2015-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A color Mickey Mouse watch-face</p>
 </div>
@@ -1873,10 +1873,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53814de284608675b3000017" data-search-exclude><img src="../images/apps/53814de284608675b3000017.png" alt="Move" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53814de284608675b3000017"><a href="https://apps.repebble.com/53814de284608675b3000017">Move</a></h2>
+<h2 class="app-name" id="app-53814de284608675b3000017"><a href="https://apps.repebble.com/53814de284608675b3000017">Move</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="http://github.com/kylestew/move" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kyle-stewart_53744c0015af966776000079" title="More from this developer">Kyle Stewart</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2014-05-25</span></div>
+<div class="app-dev">by <a href="../developers/kyle-stewart.html" title="More from this developer">Kyle Stewart</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-05-25</span> <span title="Latest release in the app store">Updated 2014-05-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Move helps you break out of the bad habit of sitting for too long by reminding you to take a break and move around every 40 minutes. When the watch face is active it counts down to your next…</p>
 </div>
@@ -1884,10 +1884,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/559a4261393bdf202d00000c" data-search-exclude><img src="../images/apps/559a4261393bdf202d00000c.png" alt="MoveIt!" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-559a4261393bdf202d00000c"><a href="https://apps.repebble.com/559a4261393bdf202d00000c">MoveIt!</a></h2>
+<h2 class="app-name" id="app-559a4261393bdf202d00000c"><a href="https://apps.repebble.com/559a4261393bdf202d00000c">MoveIt!</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="http://www.github.com/sergem56/PebbleMoveIt" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/serge_55890dd0133ae7f1250000a5" title="More from this developer">Serge</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v0.3</span> <span title="Latest release in the app store">Updated 2016-02-12</span></div>
+<div class="app-dev">by <a href="../developers/serge.html" title="More from this developer">Serge</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-06</span> <span title="Latest release in the app store">Updated 2016-02-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watch face with steps and activity monitor inspired by Garmin and 91 DUB V3.0. Shows your daily goal, steps counter and inactive minutes. Top activity bar will be filled in an hour of inactivity…</p>
 </div>
@@ -1895,10 +1895,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/77027484591b482ba8922068" data-search-exclude><img src="../images/apps/77027484591b482ba8922068.gif" alt="Movers and Shakers" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-77027484591b482ba8922068"><a href="https://apps.repebble.com/77027484591b482ba8922068">Movers and Shakers</a></h2>
+<h2 class="app-name" id="app-77027484591b482ba8922068"><a href="https://apps.repebble.com/77027484591b482ba8922068">Movers and Shakers</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/aircodum_67bc77bf37d408000a74f7d3" title="More from this developer">AirCodum</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2.0</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
+<div class="app-dev">by <a href="../developers/aircodum.html" title="More from this developer">AirCodum</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Dancers on your wrist! Shake to trigger 12 cultural dances from around the world — Irish Tap, Bharatanatyam, Flamenco, Hula, Ballet, Samba, Cossack, Breakdance, Capoeira, Bhangra, Michael Jackson…</p>
 </div>
@@ -1906,10 +1906,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55d126a38e4ef54ef0000059" data-search-exclude><img src="../images/apps/55d126a38e4ef54ef0000059.png" alt="Mr Robot" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55d126a38e4ef54ef0000059"><a href="https://apps.repebble.com/55d126a38e4ef54ef0000059">Mr Robot</a></h2>
+<h2 class="app-name" id="app-55d126a38e4ef54ef0000059"><a href="https://apps.repebble.com/55d126a38e4ef54ef0000059">Mr Robot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/CTNeptune/Mr-Robot-Watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/thomas-neptune_559e2b65479e456928000008" title="More from this developer">Thomas Neptune</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
+<div class="app-dev">by <a href="../developers/thomas-neptune.html" title="More from this developer">Thomas Neptune</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-17</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A Mr Robot watchface. Shows time, date, and day.</p>
 </div>
@@ -1917,10 +1917,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53657b1314acdb101d000074" data-search-exclude><img src="../images/apps/53657b1314acdb101d000074.png" alt="Multi Timezone" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53657b1314acdb101d000074"><a href="https://apps.repebble.com/53657b1314acdb101d000074">Multi Timezone</a></h2>
+<h2 class="app-name" id="app-53657b1314acdb101d000074"><a href="https://apps.repebble.com/53657b1314acdb101d000074">Multi Timezone</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/wz2218/multiTZ" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/weilong-zhang_52f18848c4117252f9000905" title="More from this developer">Weilong Zhang</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.0</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
+<div class="app-dev">by <a href="../developers/weilong-zhang.html" title="More from this developer">Weilong Zhang</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-03</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple multi-timezone watchface. Names and UTC offsets for time zones are configurable.</p>
 </div>
@@ -1928,10 +1928,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6a06095a576d4f000996eb3e" data-search-exclude><img src="../images/apps/6a06095a576d4f000996eb3e.png" alt="Multi Timezone with Date" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a06095a576d4f000996eb3e"><a href="https://apps.repebble.com/6a06095a576d4f000996eb3e">Multi Timezone with Date</a></h2>
+<h2 class="app-name" id="app-6a06095a576d4f000996eb3e"><a href="https://apps.repebble.com/6a06095a576d4f000996eb3e">Multi Timezone with Date</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.7</span></h2>
 <a class="app-source" href="https://github.com/david-macias/Multi-Timezone-with-Date-Pebble-Watchface/releases/download/v1.0.7/Multi.Timezone.with.Date.Pebble.Watchface.pbw" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/david-macias_6a0607510685d800098aa265" title="More from this developer">David Macias</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.7</span> <span title="Latest release in the app store">Updated 2026-05-14</span></div>
+<div class="app-dev">by <a href="../developers/david-macias.html" title="More from this developer">David Macias</a> · <a href="https://forum.rebble.io/t/975" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watchface by David Macias, inspired by World Watch by Seaware. Adds two small things on top of the original idea: - MM/DD date in the top-right corner of the header. - A +1 or -1 suffix…</p>
 </div>
@@ -1939,10 +1939,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/58fb80db6ca387c7c2001fb5" data-search-exclude><img src="../images/apps/58fb80db6ca387c7c2001fb5.png" alt="Multi-zone Earth" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-58fb80db6ca387c7c2001fb5"><a href="https://apps.rebble.io/en_US/application/58fb80db6ca387c7c2001fb5">Multi-zone Earth</a></h2>
+<h2 class="app-name" id="app-58fb80db6ca387c7c2001fb5"><a href="https://apps.rebble.io/en_US/application/58fb80db6ca387c7c2001fb5">Multi-zone Earth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/alin256/pebble-multi-zone" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/53613500f4ef7896ed00012e/1" title="More from this developer">aliner</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="Latest version">v1.1</span> <span title="Latest release in the app store">Updated 2017-05-26</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/aliner.html" title="More from this developer">aliner</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2017-04-22</span> <span title="Latest release in the app store">Updated 2017-05-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This watchface is perfect while travelling. It allows to keep any 2 time-zones visible while showing their position on the world map and the offset from current location. Yes, the time in the…</p>
 </div>
@@ -1950,10 +1950,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55a44d21789ea3f97700006f" data-search-exclude><img src="../images/apps/55a44d21789ea3f97700006f.png" alt="Multicolor Sliding" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55a44d21789ea3f97700006f"><a href="https://apps.repebble.com/55a44d21789ea3f97700006f">Multicolor Sliding</a></h2>
+<h2 class="app-name" id="app-55a44d21789ea3f97700006f"><a href="https://apps.repebble.com/55a44d21789ea3f97700006f">Multicolor Sliding</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/dsryang/multicolor-sliding" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/david-yang_55481901aacd9fa0680000d0" title="More from this developer">David Yang</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
+<div class="app-dev">by <a href="../developers/david-yang.html" title="More from this developer">David Yang</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-13</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple watchface that shows the date and time, with a total of 8 possible color combinations that change every day.</p>
 </div>
@@ -1961,10 +1961,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5569c2084bebd0b90400000e" data-search-exclude><img src="../images/apps/5569c2084bebd0b90400000e.png" alt="Multifunctional 7 Segment" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5569c2084bebd0b90400000e"><a href="https://apps.repebble.com/5569c2084bebd0b90400000e">Multifunctional 7 Segment</a></h2>
+<h2 class="app-name" id="app-5569c2084bebd0b90400000e"><a href="https://apps.repebble.com/5569c2084bebd0b90400000e">Multifunctional 7 Segment</a> <span class="app-version" title="Latest version" data-search-exclude>v16.1</span></h2>
 <a class="app-source" href="https://github.com/cfg1/pebble-mss" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/fg_53e39e90115605c0220000be" title="More from this developer">FG</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v16.1</span> <span title="Latest release in the app store">Updated 2026-08-15</span></div>
+<div class="app-dev">by <a href="../developers/fg.html" title="More from this developer">FG</a> · <a href="https://forum.rebble.io/t/1235" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-30</span> <span title="Latest release in the app store">Updated 2026-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Seven Segment watchface which displays the follwing additional info: - time including seconds (sec. can be disabled or displayed on shaking) - weather (temperature/conditions/wind…</p>
 </div>
@@ -1972,10 +1972,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/24eb98026beb41acbc57b15b" data-search-exclude><img src="../images/apps/24eb98026beb41acbc57b15b.png" alt="Multifunctional 7 Segment Reborn" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-24eb98026beb41acbc57b15b"><a href="https://apps.repebble.com/24eb98026beb41acbc57b15b">Multifunctional 7 Segment Reborn</a></h2>
+<h2 class="app-name" id="app-24eb98026beb41acbc57b15b"><a href="https://apps.repebble.com/24eb98026beb41acbc57b15b">Multifunctional 7 Segment Reborn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/PingPongLee/pebble-mss" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/djda9l_cd32d7170b062d30c6545359" title="More from this developer">djda9l</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="Latest version">v1.2.0</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
+<div class="app-dev">by <a href="../developers/djda9l.html" title="More from this developer">djda9l</a> · <a href="https://forum.rebble.io/t/639" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-02-12</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">(NOTE: Still being tested, so bugs might occour) Based on the original Multifunctional 7 Segment watchface by FG. * Fixes config page * Upscaled graphics for Pebble Time 2 * New theme option, that…</p>
 </div>
@@ -1983,10 +1983,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5666e7897201eebdcc00002c" data-search-exclude><img src="../images/apps/5666e7897201eebdcc00002c.png" alt="my favorite image" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5666e7897201eebdcc00002c"><a href="https://apps.repebble.com/5666e7897201eebdcc00002c">my favorite image</a></h2>
+<h2 class="app-name" id="app-5666e7897201eebdcc00002c"><a href="https://apps.repebble.com/5666e7897201eebdcc00002c">my favorite image</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/yakou850/pebble-my_favorite_image" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/yakou850_5413d077eb3be40c7f0000cf" title="More from this developer">yakou850</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.4</span> <span title="Latest release in the app store">Updated 2015-12-16</span></div>
+<div class="app-dev">by <a href="../developers/yakou850.html" title="More from this developer">yakou850</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-08</span> <span title="Latest release in the app store">Updated 2015-12-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Is your watch face your favorite image? This watch face is support download image view (to set URL) Specs PNG Image Support, Up to about 10KB How to make image 1. Download your favorite image 2…</p>
 </div>
@@ -1994,10 +1994,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55fe6929722ec5f56800003c" data-search-exclude><img src="../images/apps/55fe6929722ec5f56800003c.png" alt="MY Haze Watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55fe6929722ec5f56800003c"><a href="https://apps.repebble.com/55fe6929722ec5f56800003c">MY Haze Watch</a></h2>
+<h2 class="app-name" id="app-55fe6929722ec5f56800003c"><a href="https://apps.repebble.com/55fe6929722ec5f56800003c">MY Haze Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/sausheong/myhaze" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chang-sau-sheong_52f0214f4ae363f5c9000618" title="More from this developer">Chang Sau Sheong</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-09-20</span></div>
+<div class="app-dev">by <a href="../developers/chang-sau-sheong.html" title="More from this developer">Chang Sau Sheong</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-20</span> <span title="Latest release in the app store">Updated 2015-09-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchface plus Malaysia Air Pollution Index (API) information from Malaysia Haze Watch (http://hazewatchapp.com). Top line is the nearest monitoring station, second line is the last update…</p>
 </div>
@@ -2005,10 +2005,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/557e39c6d8339afb160000aa" data-search-exclude><img src="../images/apps/557e39c6d8339afb160000aa.png" alt="My Simple Watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-557e39c6d8339afb160000aa"><a href="https://apps.repebble.com/557e39c6d8339afb160000aa">My Simple Watch</a></h2>
+<h2 class="app-name" id="app-557e39c6d8339afb160000aa"><a href="https://apps.repebble.com/557e39c6d8339afb160000aa">My Simple Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v3.6</span></h2>
 <a class="app-source" href="https://github.com/jnoelg/Pebble-MySimpleWatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/jean-noel-goumain_54efd2b0565f0386190000fb" title="More from this developer">Jean-Noel Goumain</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v3.6</span> <span title="Latest release in the app store">Updated 2016-12-08</span></div>
+<div class="app-dev">by <a href="../developers/jean-noel-goumain.html" title="More from this developer">Jean-Noel Goumain</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-15</span> <span title="Latest release in the app store">Updated 2016-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watch, with anti-aliased time text, color based battery level indicator (100-80: Green, 70-50: Blue, 40-30: Yellow, 20-0: Red) and disconnection alarm Configurable settings: hours in bold…</p>
 </div>
@@ -2016,10 +2016,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56c48fe5a5d04988fb000039" data-search-exclude><img src="../images/apps/56c48fe5a5d04988fb000039.png" alt="My TicToc" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56c48fe5a5d04988fb000039"><a href="https://apps.repebble.com/56c48fe5a5d04988fb000039">My TicToc</a></h2>
+<h2 class="app-name" id="app-56c48fe5a5d04988fb000039"><a href="https://apps.repebble.com/56c48fe5a5d04988fb000039">My TicToc</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/JamesFowler42/MyTicToc" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/james-fowler_52b208abb70e1ced1f00004c" title="More from this developer">James Fowler</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2016-02-17</span></div>
+<div class="app-dev">by <a href="../developers/james-fowler.html" title="More from this developer">James Fowler</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2016-02-17</span> <span title="Latest release in the app store">Updated 2016-02-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I love the standard Pebble Tic-Toc watchface with all the nice animations, but I wanted to know bluetooth and battery status without spoiling the uncluttered simplicity. On this version the hour…</p>
 </div>
@@ -2027,10 +2027,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/561f6873bcb7ac528f000044" data-search-exclude><img src="../images/apps/561f6873bcb7ac528f000044.png" alt="My Train (Yandex Расписания)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-561f6873bcb7ac528f000044"><a href="https://apps.repebble.com/561f6873bcb7ac528f000044">My Train (Yandex Расписания)</a></h2>
+<h2 class="app-name" id="app-561f6873bcb7ac528f000044"><a href="https://apps.repebble.com/561f6873bcb7ac528f000044">My Train (Yandex Расписания)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="http://github.com/murmilad/pebble-face-TrainWatches" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/murmilad_552557ae38d4639609000035" title="More from this developer">murmilad</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2015-10-30</span></div>
+<div class="app-dev">by <a href="../developers/murmilad.html" title="More from this developer">murmilad</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-15</span> <span title="Latest release in the app store">Updated 2015-10-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Приложение определяет ваше местонахождение. Находит ЖД станции в радиусе одного километра используя данные Yandex. Находит ближайший поезд до станции, указанной в настройках. Отображает…</p>
 </div>
@@ -2038,10 +2038,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/56648db89be95ea6d5000069" data-search-exclude><img src="../images/apps/56648db89be95ea6d5000069.png" alt="MyFace" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-56648db89be95ea6d5000069"><a href="https://apps.repebble.com/56648db89be95ea6d5000069">MyFace</a></h2>
+<h2 class="app-name" id="app-56648db89be95ea6d5000069"><a href="https://apps.repebble.com/56648db89be95ea6d5000069">MyFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/skeldoy/myFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/skeldoy_56602fcb0ea7f7d852000023" title="More from this developer">skeldoy</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.4</span> <span title="Latest release in the app store">Updated 2015-12-09</span></div>
+<div class="app-dev">by <a href="../developers/skeldoy.html" title="More from this developer">skeldoy</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-06</span> <span title="Latest release in the app store">Updated 2015-12-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Old-school Hercules-graphics terminal style watchface. Gives you date, week number, day, time (sans seconds), day of the year, battery stats and bluetooth connectivity stat.</p>
 </div>
@@ -2049,10 +2049,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5323d4b0b26341e467000146" data-search-exclude><img src="../images/apps/5323d4b0b26341e467000146.png" alt="MySimplicity" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5323d4b0b26341e467000146"><a href="https://apps.repebble.com/5323d4b0b26341e467000146">MySimplicity</a></h2>
+<h2 class="app-name" id="app-5323d4b0b26341e467000146"><a href="https://apps.repebble.com/5323d4b0b26341e467000146">MySimplicity</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/manki/mysimplicity" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/manki_531aadc1eb7a776ad5000412" title="More from this developer">manki</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2014-03-15</span></div>
+<div class="app-dev">by <a href="../developers/manki.html" title="More from this developer">manki</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-15</span> <span title="Latest release in the app store">Updated 2014-03-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Based on sample watchface &#x27;Simplicity&#x27;. Adds day of week, battery status and India time to Simplicity watchface.</p>
 </div>
@@ -2060,10 +2060,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/549bf479dc930364d8000251" data-search-exclude><img src="../images/apps/549bf479dc930364d8000251.png" alt="MyStyle" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-549bf479dc930364d8000251"><a href="https://apps.repebble.com/549bf479dc930364d8000251">MyStyle</a></h2>
+<h2 class="app-name" id="app-549bf479dc930364d8000251"><a href="https://apps.repebble.com/549bf479dc930364d8000251">MyStyle</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/mereed/pebbleface-mystyle" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/chops_52d76309bd61272345000001" title="More from this developer">chops</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.1</span> <span title="Latest release in the app store">Updated 2015-07-09</span></div>
+<div class="app-dev">by <a href="../developers/chops.html" title="More from this developer">chops</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-25</span> <span title="Latest release in the app store">Updated 2015-07-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">26 mar: ability to turn off weather desc. Many thanks to those who helped with testing! ---------------------- Set your own style. A very simple watchface design with bigger numbers, a…</p>
 </div>

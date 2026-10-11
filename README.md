@@ -13,6 +13,7 @@ A community-curated directory of all things related to Pebble smartwatches and o
 - [Hardware](docs/hardware.md) - Smartstraps, 3D prints and other hardware resources.
 - [Community](docs/community.md) - Forums, companion apps, translation, education and news.
 - [Pebble Watchfaces](docs/watchfaces.md) and [Pebble Apps](docs/watchapps.md) - Directories of open source watchfaces and apps.
+- [Pebble Developers](docs/developers.md) - The developers behind them, each with a page of everything they've made.
 - [Pebble Technology Corporation](docs/pebble-technology.md) - The original Pebble company: history, archives, repairs and the original watches.
 
 ## Contributing

@@ -8,16 +8,16 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · **Q** · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*18 apps · Last updated 2026-10-06 · [About these lists](../about-app-lists.md)*
+*18 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53ab84141d576ea3c30000d6" data-search-exclude><img src="../images/apps/53ab84141d576ea3c30000d6.png" alt="Qibla - Prayer Times &amp; Compass" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53ab84141d576ea3c30000d6"><a href="https://apps.repebble.com/53ab84141d576ea3c30000d6">Qibla - Prayer Times &amp; Compass</a></h2>
+<h2 class="app-name" id="app-53ab84141d576ea3c30000d6"><a href="https://apps.repebble.com/53ab84141d576ea3c30000d6">Qibla - Prayer Times &amp; Compass</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7</span></h2>
 <a class="app-source" href="https://github.com/cpfair/pebble-qibla" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/collin-fair_52cb0b00b138287b32000018" title="More from this developer">Collin Fair</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.7</span> <span title="Latest release in the app store">Updated 2016-09-14</span></div>
+<div class="app-dev">by <a href="../developers/collin-fair.html" title="More from this developer">Collin Fair</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-26</span> <span title="Latest release in the app store">Updated 2016-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Prayer times &amp; notifications on your Timeline, plus a Qibla compass for your Pebble. Automatically calculates prayer times based on your location - so make sure &quot;location services&quot; is enabled on…</p>
 </div>
@@ -25,10 +25,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/69aaf1e62f1bed0009deb65b" data-search-exclude><img src="../images/apps/69aaf1e62f1bed0009deb65b.png" alt="Qibla - Prayer Times &amp; Compass (NEW)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69aaf1e62f1bed0009deb65b"><a href="https://apps.repebble.com/69aaf1e62f1bed0009deb65b">Qibla - Prayer Times &amp; Compass (NEW)</a></h2>
+<h2 class="app-name" id="app-69aaf1e62f1bed0009deb65b"><a href="https://apps.repebble.com/69aaf1e62f1bed0009deb65b">Qibla - Prayer Times &amp; Compass (NEW)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11</span></h2>
 <a class="app-source" href="https://github.com/jibraniqbal666/pebble-qibla" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/jibran-iqbal_69aa1c09dece040009f8eeb2" title="More from this developer">Jibran Iqbal</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.11</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
+<div class="app-dev">by <a href="../developers/jibran-iqbal.html" title="More from this developer">Jibran Iqbal</a> · <a href="https://forum.rebble.io/t/821" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-06</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Prayer times &amp; notifications on your Timeline, plus a Qibla compass for your Pebble. Automatically calculates prayer times based on your location - so make sure &quot;location services&quot; is enabled on…</p>
 </div>
@@ -36,10 +36,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/2d83367c2e4a408a807bd2e5" data-search-exclude><img src="../images/apps/2d83367c2e4a408a807bd2e5.png" alt="qnote" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2d83367c2e4a408a807bd2e5"><a href="https://apps.repebble.com/2d83367c2e4a408a807bd2e5">qnote</a></h2>
+<h2 class="app-name" id="app-2d83367c2e4a408a807bd2e5"><a href="https://apps.repebble.com/2d83367c2e4a408a807bd2e5">qnote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.2</span></h2>
 <a class="app-source" href="https://github.com/neonfire42/qnote" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/neonfire_eb9220b4f504a68bcfd99cec" title="More from this developer">Neonfire</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.2.2</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
+<div class="app-dev">by <a href="../developers/neonfire.html" title="More from this developer">Neonfire</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-02</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Speak a note into your Pebble. It&#x27;s on your phone before you lower your wrist. Opening qnote starts dictation immediately - no menu, no button to find first. Speak, confirm the transcription, and…</p>
 </div>
@@ -47,10 +47,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/6a36952969dd300009e91831" data-search-exclude><img src="../images/apps/6a36952969dd300009e91831.png" alt="QR Display" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a36952969dd300009e91831"><a href="https://apps.rebble.io/en_US/application/6a36952969dd300009e91831">QR Display</a></h2>
+<h2 class="app-name" id="app-6a36952969dd300009e91831"><a href="https://apps.rebble.io/en_US/application/6a36952969dd300009e91831">QR Display</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/SantiagoDePolonia/QR_Display_repebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/694e91ed658abd0009484ec1/1" title="More from this developer">SantiagoDePolonia</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-06-20</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/santiagodepolonia.html" title="More from this developer">SantiagoDePolonia</a> · <a href="https://forum.rebble.io/t/1073" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-06-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Turn any text into a QR code right on your watch. Type a URL, Wi-Fi password, contact, note, or any text in the app&#x27;s settings on your phone, and QR Display instantly renders a crisp, scannable QR…</p>
 </div>
@@ -58,10 +58,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/535e84d0af59179a46000088" data-search-exclude><img src="../images/apps/535e84d0af59179a46000088.png" alt="QR Generator" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-535e84d0af59179a46000088"><a href="https://apps.repebble.com/535e84d0af59179a46000088">QR Generator</a></h2>
+<h2 class="app-name" id="app-535e84d0af59179a46000088"><a href="https://apps.repebble.com/535e84d0af59179a46000088">QR Generator</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/reini1305/qrgenerator" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/christian-reinbacher_52d29655c44c044e9f00004f" title="More from this developer">Christian Reinbacher</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.3</span> <span title="Latest release in the app store">Updated 2016-10-24</span></div>
+<div class="app-dev">by <a href="../developers/christian-reinbacher.html" title="More from this developer">Christian Reinbacher</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-28</span> <span title="Latest release in the app store">Updated 2016-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This app is open source! If you like my apps heart them in the appstore and consider a donation (link is at the source link of this app). Displays your business card or any string as QR code on…</p>
 </div>
@@ -69,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/67ddcf03d8284900098ed1a4" data-search-exclude><img src="../images/apps/67ddcf03d8284900098ed1a4.png" alt="QR Generator" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67ddcf03d8284900098ed1a4"><a href="https://apps.rebble.io/en_US/application/67ddcf03d8284900098ed1a4">QR Generator</a></h2>
+<h2 class="app-name" id="app-67ddcf03d8284900098ed1a4"><a href="https://apps.rebble.io/en_US/application/67ddcf03d8284900098ed1a4">QR Generator</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10</span></h2>
 <a class="app-source" href="https://github.com/flynnD273/pebble-qr" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/67bd48a737d408000a74f7d7/1" title="More from this developer">Flynn Duniho</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v2.10</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/flynn-duniho.html" title="More from this developer">Flynn Duniho</a> · <a href="https://forum.rebble.io/t/547" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-21</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Display configurable QR codes from your watch</p>
 </div>
@@ -80,10 +80,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4a491e1c63d44729af0dcc57" data-search-exclude><img src="../images/apps/4a491e1c63d44729af0dcc57.png" alt="QR Viewer" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4a491e1c63d44729af0dcc57"><a href="https://apps.repebble.com/4a491e1c63d44729af0dcc57">QR Viewer</a></h2>
+<h2 class="app-name" id="app-4a491e1c63d44729af0dcc57"><a href="https://apps.repebble.com/4a491e1c63d44729af0dcc57">QR Viewer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/watollop/qr-viewer" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/vintage-mainspring_fb20cbf1aa95b244f56cb942" title="More from this developer">Vintage Mainspring</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
+<div class="app-dev">by <a href="../developers/vintage-mainspring.html" title="More from this developer">Vintage Mainspring</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-09</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A lightweight Pebble app that displays a static QR code directly on your watch screen. Ideal for quick access to payment codes, attendance check-ins, digital IDs, or any custom information. Simply…</p>
 </div>
@@ -91,10 +91,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/55c712656b4abe9e19000069" data-search-exclude><img src="../images/apps/55c712656b4abe9e19000069.png" alt="QRBuddy for Pebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55c712656b4abe9e19000069"><a href="https://apps.rebble.io/en_US/application/55c712656b4abe9e19000069">QRBuddy for Pebble</a></h2>
+<h2 class="app-name" id="app-55c712656b4abe9e19000069"><a href="https://apps.rebble.io/en_US/application/55c712656b4abe9e19000069">QRBuddy for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/tylerwowen/wechatbuddy" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/551fa6c651d7438f9200000a/1" title="More from this developer">Tyler Ouyang</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.3</span> <span title="Latest release in the app store">Updated 2015-10-04</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/tyler-ouyang.html" title="More from this developer">Tyler Ouyang</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-09</span> <span title="Latest release in the app store">Updated 2015-10-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Show your QR code on your wrist in a second. 1. Install iOS app &#x27;QRBuddy for Pebble&#x27; 2. Install Pebble Watchapp &#x27;QRBuddy for Pebble&#x27; 3. Save your QR code to your Photo Library, or you can take a…</p>
 </div>
@@ -102,10 +102,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/568057b24893f90bb2000098" data-search-exclude><img src="../images/apps/568057b24893f90bb2000098.png" alt="Quebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-568057b24893f90bb2000098"><a href="https://apps.repebble.com/568057b24893f90bb2000098">Quebble</a></h2>
+<h2 class="app-name" id="app-568057b24893f90bb2000098"><a href="https://apps.repebble.com/568057b24893f90bb2000098">Quebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/bellangerq/quebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/quentin-bellanger_56433b913d7eeffa7500003b" title="More from this developer">Quentin Bellanger</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v2.2</span> <span title="Latest release in the app store">Updated 2016-09-11</span></div>
+<div class="app-dev">by <a href="../developers/quentin-bellanger.html" title="More from this developer">Quentin Bellanger</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-27</span> <span title="Latest release in the app store">Updated 2016-09-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Because some days can be tough, Quebble sends you one motivational quote every day on your wrist. Get inspirational ideas and upgrade your mood with a simple quote. Be inspire and move forward!…</p>
 </div>
@@ -113,10 +113,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b741ee9dcce54a5f98738dea" data-search-exclude><span class="app-noshot">No screenshot</span></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b741ee9dcce54a5f98738dea"><a href="https://apps.repebble.com/b741ee9dcce54a5f98738dea">Queue Times</a></h2>
+<h2 class="app-name" id="app-b741ee9dcce54a5f98738dea"><a href="https://apps.repebble.com/b741ee9dcce54a5f98738dea">Queue Times</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/Link1400/Queue-Times" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/ryan-f_b10567b121b9f168d0ac368f" title="More from this developer">Ryan F</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2026-08-02</span></div>
+<div class="app-dev">by <a href="../developers/ryan-f.html" title="More from this developer">Ryan F</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-02</span> <span title="Latest release in the app store">Updated 2026-08-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Powered by queue-times.com API Please excuse the screenshots, the emulator kept hitting back Have you ever been at a theme park and wanted a quick and easy reference to the wait times of all of…</p>
 </div>
@@ -124,10 +124,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53131df8bb31cf87cd00019a" data-search-exclude><img src="../images/apps/53131df8bb31cf87cd00019a.png" alt="QuickAuth" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-53131df8bb31cf87cd00019a"><a href="https://apps.repebble.com/53131df8bb31cf87cd00019a">QuickAuth</a></h2>
+<h2 class="app-name" id="app-53131df8bb31cf87cd00019a"><a href="https://apps.repebble.com/53131df8bb31cf87cd00019a">QuickAuth</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://github.com/JumpMaster/QuickAuth" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/kevin-cooper_52baa34daac062dcf400005c" title="More from this developer">Kevin Cooper</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="Latest version">v3.3</span> <span title="Latest release in the app store">Updated 2016-11-30</span></div>
+<div class="app-dev">by <a href="../developers/kevin-cooper.html" title="More from this developer">Kevin Cooper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-03-02</span> <span title="Latest release in the app store">Updated 2016-11-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Get your one time codes from your Pebble! Just add your keys using the configuration page and use two-step authentication without the Google Authenticator application on your smart phone. Tested…</p>
 </div>
@@ -135,10 +135,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/64d25223482a0c03a5ab933a" data-search-exclude><img src="../images/apps/64d25223482a0c03a5ab933a.png" alt="QuickAuth 4" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-64d25223482a0c03a5ab933a"><a href="https://apps.rebble.io/en_US/application/64d25223482a0c03a5ab933a">QuickAuth 4</a></h2>
+<h2 class="app-name" id="app-64d25223482a0c03a5ab933a"><a href="https://apps.rebble.io/en_US/application/64d25223482a0c03a5ab933a">QuickAuth 4</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0</span></h2>
 <a class="app-source" href="https://github.com/zamuz/QuickAuth4" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.rebble.io/en_US/developer/609457438a44a400535e6933/1" title="More from this developer">Gonzalo Muñoz</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v4.0</span> <span title="Latest release in the app store">Updated 2023-08-08</span> <span>Rebble App Store</span></div>
+<div class="app-dev">by <a href="../developers/gonzalo-munoz.html" title="More from this developer">Gonzalo Muñoz</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-08-08</span> <span title="Latest release in the app store">Updated 2023-08-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A fork of the original QuickAuth app by Kevin Cooper, now with support for SHA256 codes.</p>
 </div>
@@ -146,10 +146,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54adadf34fdd2ade80000112" data-search-exclude><img src="../images/apps/54adadf34fdd2ade80000112.png" alt="QuickHarvard" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54adadf34fdd2ade80000112"><a href="https://apps.repebble.com/54adadf34fdd2ade80000112">QuickHarvard</a></h2>
+<h2 class="app-name" id="app-54adadf34fdd2ade80000112"><a href="https://apps.repebble.com/54adadf34fdd2ade80000112">QuickHarvard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/vedtopkar/quickharvard.git" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/ved-topkar_549670e861e422cbca000094" title="More from this developer">Ved Topkar</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0</span> <span title="Latest release in the app store">Updated 2015-01-07</span></div>
+<div class="app-dev">by <a href="../developers/ved-topkar.html" title="More from this developer">Ved Topkar</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-07</span> <span title="Latest release in the app store">Updated 2015-01-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Quickly access information pertaining to Harvard dining (daily menu) and shuttle service (shuttle tracker).</p>
 </div>
@@ -157,10 +157,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5526f89e1c36ea04bd00006b" data-search-exclude><img src="../images/apps/5526f89e1c36ea04bd00006b.png" alt="QuickHue" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5526f89e1c36ea04bd00006b"><a href="https://apps.repebble.com/5526f89e1c36ea04bd00006b">QuickHue</a></h2>
+<h2 class="app-name" id="app-5526f89e1c36ea04bd00006b"><a href="https://apps.repebble.com/5526f89e1c36ea04bd00006b">QuickHue</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="http://github.com/carlosperate/PebbleQuickHue" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/carlosperate_5492cf2a8718b2c8070000ea" title="More from this developer">carlosperate</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="Latest version">v0.3</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-dev">by <a href="../developers/carlosperate.html" title="More from this developer">carlosperate</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-09</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble app to facilitate quick control of a Philips Hue light bulb. It will toggle the preselected light ON or OFF as soon as the app loads, so it is designed to be registered as a button shortcut…</p>
 </div>
@@ -168,10 +168,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/537d57142859a8c5b900007c" data-search-exclude><img src="../images/apps/537d57142859a8c5b900007c.png" alt="quickquotes" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-537d57142859a8c5b900007c"><a href="https://apps.repebble.com/537d57142859a8c5b900007c">quickquotes</a></h2>
+<h2 class="app-name" id="app-537d57142859a8c5b900007c"><a href="https://apps.repebble.com/537d57142859a8c5b900007c">quickquotes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/virginiacook/quickquotes" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/virgc_53747078f10c2eaccb0000ad" title="More from this developer">virgc</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.0</span> <span title="Latest release in the app store">Updated 2014-05-22</span></div>
+<div class="app-dev">by <a href="../developers/virgc.html" title="More from this developer">virgc</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-22</span> <span title="Latest release in the app store">Updated 2014-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays a random quote for the user. Press the middle button to randomize. Quotes provided by the iheartquotes api.</p>
 </div>
@@ -179,10 +179,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/63a5cca9f2e945c092123615" data-search-exclude><img src="../images/apps/63a5cca9f2e945c092123615.png" alt="QuickTimer" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-63a5cca9f2e945c092123615"><a href="https://apps.repebble.com/63a5cca9f2e945c092123615">QuickTimer</a></h2>
+<h2 class="app-name" id="app-63a5cca9f2e945c092123615"><a href="https://apps.repebble.com/63a5cca9f2e945c092123615">QuickTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/jazzabeanie/pebble-timer-quick" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/jazzabeanie_2f99953f4c8baa21eba9b4ef" title="More from this developer">jazzabeanie</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.4</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
+<div class="app-dev">by <a href="../developers/jazzabeanie.html" title="More from this developer">jazzabeanie</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc"># pebble-timer-quick QuickTimer is a timer app for the Pebble Smartwatch, intended to be the fastest way to start a timer or stopwatch. Made for people that think needing 5 seconds to set a…</p>
 </div>
@@ -190,10 +190,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/10f3dfb18e4d4256824ad844" data-search-exclude><img src="../images/apps/10f3dfb18e4d4256824ad844.png" alt="QuickTodoist" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-10f3dfb18e4d4256824ad844"><a href="https://apps.repebble.com/10f3dfb18e4d4256824ad844">QuickTodoist</a></h2>
+<h2 class="app-name" id="app-10f3dfb18e4d4256824ad844"><a href="https://apps.repebble.com/10f3dfb18e4d4256824ad844">QuickTodoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.3</span></h2>
 <a class="app-source" href="https://gitlab.com/tools-on-tech/quicktodoist" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/tools-on-tech_09d07916bc53b30ede8f8320" title="More from this developer">Tools on Tech</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.5.3</span> <span title="Latest release in the app store">Updated 2026-08-05</span></div>
+<div class="app-dev">by <a href="../developers/tools-on-tech.html" title="More from this developer">Tools on Tech</a> · <a href="https://forum.rebble.io/t/1186" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-01</span> <span title="Latest release in the app store">Updated 2026-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I wanted a Todoist app that would start instantly. So this setup uses an api key and cache to make that possible. It&#x27;s meant for me to quickly check my current top tasks and add thoughts…</p>
 </div>
@@ -201,10 +201,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4037fe94ec644729a49b6461" data-search-exclude><img src="../images/apps/4037fe94ec644729a49b6461.jpg" alt="Quran" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4037fe94ec644729a49b6461"><a href="https://apps.repebble.com/4037fe94ec644729a49b6461">Quran</a></h2>
+<h2 class="app-name" id="app-4037fe94ec644729a49b6461"><a href="https://apps.repebble.com/4037fe94ec644729a49b6461">Quran</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/nimda95/Pebble-Quran-Offline" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="https://apps.repebble.com/apps/dev/aymane-taibi_af735e675e10aa7cae34f6da" title="More from this developer">Aymane Taibi</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Not checked yet</span> <span title="Latest version">v1.0.1</span> <span title="Latest release in the app store">Updated 2026-08-12</span></div>
+<div class="app-dev">by <a href="../developers/aymane-taibi.html" title="More from this developer">Aymane Taibi</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-12</span> <span title="Latest release in the app store">Updated 2026-08-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">The Holy Quran fully offline independent from phone connectivity.</p>
 </div>

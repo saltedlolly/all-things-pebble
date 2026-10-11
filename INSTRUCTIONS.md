@@ -38,7 +38,7 @@ Then open [http://127.0.0.1:8000](http://127.0.0.1:8000). The page reloads autom
 
 ## Watchface and watchapp lists
 
-The Pebble Watchfaces and Pebble Apps pages are built by `scripts/update_app_directory.py`. It combines:
+The Pebble Watchfaces, Pebble Apps and Pebble Developers pages are built by `scripts/update_app_directory.py`. It combines:
 
 - **The Pebble App Store:** every watchface and watchapp whose developer has published a source code link, fetched from the [Pebble App Store API](https://appstore-api.repebble.com/).
 - **The Rebble App Store:** any further open source apps from the [Rebble App Store API](https://appstore-api.rebble.io/) that aren't in the Pebble App Store.
@@ -47,6 +47,8 @@ The Pebble Watchfaces and Pebble Apps pages are built by `scripts/update_app_dir
 Apps without a source link in the store are also included if their website link points to a GitHub, GitLab or Codeberg repository. False positives can be listed in `data/excluded-apps.yml` (by store ID or source link) to leave them out.
 
 Both are merged into one alphabetical list, with one page per letter in `docs/watchfaces/` and `docs/watchapps/`.
+
+The same apps are also grouped by developer, with one page per developer in `docs/developers/` and the list of developers in `docs/developers.md`. Apps are grouped by their app store developer account, and a hand-added app joins the developer with the same name. The sort and filter buttons on each developer's page are in `docs/assets/developers.js`.
 
 - `data/store-apps.json` remembers every open source store app ever seen. Apps that leave both stores stay listed, linking to their source code, as long as the source is still online (checked each run; a 404 hides the app until it comes back).
 - `data/licences.json` caches each GitHub/GitLab repository's licence, shown in the Licence column. Up to 800 repositories are checked per run (GitHub's API limit), so a full set of licences builds up over a few runs. Each is re-checked every 90 days.

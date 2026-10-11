@@ -9,11 +9,12 @@ edit_uri: edit/main/docs/
 # in the raw HTML photo tables work on the site and on GitHub.
 use_directory_urls: false
 
-# The per-letter watchface and watchapp pages are reached from the index
-# pages rather than the sidebar.
+# The per-letter watchface and watchapp pages, and each developer's page,
+# are reached from the index pages rather than the sidebar.
 not_in_nav: |
   /watchfaces/*.md
   /watchapps/*.md
+  /developers/*.md
 
 nav:
   - Home: index.md
@@ -25,6 +26,7 @@ nav:
   - Community: community.md
   - Pebble Watchfaces: watchfaces.md
   - Pebble Apps: watchapps.md
+  - Pebble Developers: developers.md
   - About the App Lists: about-app-lists.md
   - Pebble Technology Corp: pebble-technology.md
 
@@ -75,6 +77,10 @@ markdown_extensions:
 extra_css:
   - assets/extra.css
 
-# Fingerprint extra.css so browsers pick up style changes straight away
+# Sorting and filtering on the developer pages
+extra_javascript:
+  - assets/developers.js
+
+# Fingerprint extra.css and developers.js so browsers pick up changes straight away
 hooks:
   - hooks/cache_bust.py
