@@ -225,7 +225,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-8a5a974138f44bffb13dc056"><a href="https://apps.repebble.com/8a5a974138f44bffb13dc056">Red Fuji Binary</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/somlaigabor/red_fuji.git" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-a6f106.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/somlaigabor.html" title="More from this developer">somlaigabor</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Fine Wind, Clear Morning</p>

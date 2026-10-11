@@ -2029,7 +2029,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-ebc3f63147e6481599da4b8e"><a href="https://apps.repebble.com/ebc3f63147e6481599da4b8e">CrimsonBear Cgm</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.19</span></h2>
 <a class="app-source" href="https://github.com/dabear/CrimsonBearPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-1e0bd1.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/dabear.html" title="More from this developer">dabear</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-09-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A bear-themed Nightscout CGM watchface for Pebble Time 2 and Pebble Round 2, with mg/dL and mmol/L support, configurable thresholds, trend data, battery status, and an optional full-screen glucose…</p>

@@ -1,5 +1,5 @@
 ---
-title: "Unknown"
+title: "QuinnDaniels"
 hide:
   - toc
 ---
@@ -11,7 +11,7 @@ hide:
 <img class="dev-avatar" src="https://github.com/QuinnDaniels.png?size=128" alt="" width="64" height="64" loading="lazy" onerror="this.remove()">
 <div class="dev-intro" markdown>
 
-# Unknown
+# QuinnDaniels
 
 *1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 

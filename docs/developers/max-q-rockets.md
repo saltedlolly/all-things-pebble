@@ -1,5 +1,5 @@
 ---
-title: "Unknown"
+title: "Max-q-rockets"
 hide:
   - toc
 ---
@@ -11,7 +11,7 @@ hide:
 <img class="dev-avatar" src="https://github.com/Max-q-rockets.png?size=128" alt="" width="64" height="64" loading="lazy" onerror="this.remove()">
 <div class="dev-intro" markdown>
 
-# Unknown
+# Max-q-rockets
 
 *1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 

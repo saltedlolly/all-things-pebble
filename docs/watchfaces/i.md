@@ -232,6 +232,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/5e58f55f941e47b3bed54162" data-search-exclude><img src="../images/apps/5e58f55f941e47b3bed54162.png" alt="InfoWatch" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5e58f55f941e47b3bed54162"><a href="https://apps.repebble.com/5e58f55f941e47b3bed54162">InfoWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v11.0.0</span></h2>
+<a class="app-source" href="https://github.com/maxharrison/infowatch" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/maxharrison.html" title="More from this developer">maxharrison</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">private fork of ForecasWatch 2</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52ff653c57610081c7000088" data-search-exclude><img src="../images/apps/52ff653c57610081c7000088.gif" alt="InfoWatch" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-52ff653c57610081c7000088"><a href="https://apps.repebble.com/52ff653c57610081c7000088">InfoWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v7.0</span></h2>
@@ -240,17 +251,6 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-02-15</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A smartwatch displaying a wealth of information from the internet or Pebble Health. It offers a notification service and displays the time, day of the week, calendar and date (in almost any…</p>
-</div>
-</div>
-<div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/5e58f55f941e47b3bed54162" data-search-exclude><img src="../images/apps/5e58f55f941e47b3bed54162.png" alt="InfoWatch" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-5e58f55f941e47b3bed54162"><a href="https://apps.repebble.com/5e58f55f941e47b3bed54162">InfoWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v11.0.0</span></h2>
-<a class="app-source" href="https://github.com/maxharrison/infowatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-da92a0.html" title="More from this developer">Unknown</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">private fork of ForecasWatch 2</p>
 </div>
 </div>
 <div class="app-card">

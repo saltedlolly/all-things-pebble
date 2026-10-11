@@ -93,7 +93,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-3f606f4c262f4112b1058308"><a href="https://apps.repebble.com/3f606f4c262f4112b1058308">Large font watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jimpriest/pebble-large-font" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-098d5c.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/jimpriest.html" title="More from this developer">jimpriest</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-04-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Pebble 2 Duo</div>
 <p class="app-desc">Simple, large font watchface for old folks :)</p>
@@ -423,7 +423,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-60a0da706ece4c9884f5b631"><a href="https://apps.repebble.com/60a0da706ece4c9884f5b631">Lighthouse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/DangerBlack/lighthouse" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-6ea394.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/dangerblack.html" title="More from this developer">DangerBlack</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-18</span> <span title="Latest release in the app store">Updated 2026-05-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Lighthouse is a moody animated watchface that brings a lighthouse scene to life every time you glance at your wrist. Watch the beam sweep across the dark water as the lighthouse stands tall…</p>

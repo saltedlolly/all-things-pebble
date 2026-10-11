@@ -115,7 +115,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-57c055a05e3c3db485000173"><a href="https://apps.rebble.io/en_US/application/57c055a05e3c3db485000173">Ventus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="http://www.ventusnavigation.com/Pebble.html" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/developer-6e8729.html" title="More from this developer">Unknown developer</a></div>
+<div class="app-dev">by <a href="../developers/ventusnavigation-com.html" title="More from this developer">ventusnavigation.com</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-26</span> <span title="Latest release in the app store">Updated 2016-08-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble Ventus displays navigation data on your Pebble watch received from either Android Ventus PRO or iOS Ventus PRO.</p>

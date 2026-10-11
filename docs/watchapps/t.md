@@ -390,7 +390,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-f335b06286af446e9ab3e803"><a href="https://apps.repebble.com/f335b06286af446e9ab3e803">Tesla Control</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.1</span></h2>
 <a class="app-source" href="https://github.com/NolanFoster/pebble-tesla" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-158c30.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/nolanfoster.html" title="More from this developer">NolanFoster</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-06-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Your Tesla, on your wrist. Tesla Control turns your Pebble into a slim remote for your car. A clean status card shows your vehicle at a glance, and a right-side action bar maps the everyday…</p>
@@ -804,6 +804,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/8b210e928160473495d2fc80" data-search-exclude><img src="../images/apps/8b210e928160473495d2fc80.png" alt="Timer" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-8b210e928160473495d2fc80"><a href="https://apps.repebble.com/8b210e928160473495d2fc80">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/nichols-t/timer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/nichols-t.html" title="More from this developer">nichols-t</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-09</span> <span title="Latest release in the app store">Updated 2026-05-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">A minimal timer application inspired by physical rotational timers.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55b6cd955e0716cd6b0000a1" data-search-exclude><img src="../images/apps/55b6cd955e0716cd6b0000a1.gif" alt="Timer" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-55b6cd955e0716cd6b0000a1"><a href="https://apps.repebble.com/55b6cd955e0716cd6b0000a1">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.7</span></h2>
@@ -812,17 +823,6 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-28</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble&#x27;s first official timer! Set up to eight different timers and watch them run down. Timers longer than fifteen minutes also push a pin to your timeline.</p>
-</div>
-</div>
-<div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/8b210e928160473495d2fc80" data-search-exclude><img src="../images/apps/8b210e928160473495d2fc80.png" alt="Timer" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-8b210e928160473495d2fc80"><a href="https://apps.repebble.com/8b210e928160473495d2fc80">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/nichols-t/timer" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-d32a9f.html" title="More from this developer">Unknown</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-09</span> <span title="Latest release in the app store">Updated 2026-05-09</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">A minimal timer application inspired by physical rotational timers.</p>
 </div>
 </div>
 <div class="app-card">

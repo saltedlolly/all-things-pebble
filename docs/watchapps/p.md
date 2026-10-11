@@ -1688,7 +1688,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-e238969c7fd34ef39d992b6d"><a href="https://apps.repebble.com/e238969c7fd34ef39d992b6d">PoiBoi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/repomaa/poiboi" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-6c7700.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/repomaa.html" title="More from this developer">repomaa</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-25</span> <span title="Latest release in the app store">Updated 2026-05-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">A radar-like poi explorer. Point your hand at interesting things around you and PoiBoi will home in on the corresponding POI from OpenStreetMaps.</p>
@@ -1743,7 +1743,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-6c46a2c833bc45a7872d51ab"><a href="https://apps.repebble.com/6c46a2c833bc45a7872d51ab">PoketchCoinFlip+</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/QuinnDaniels/PoketchCoinFlipperPlus" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-efe012.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/quinndaniels.html" title="More from this developer">QuinnDaniels</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-07-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A fork of GamerJrdn&#x27;s recreation of the Poketch&#x27;s coin flipping app for the Pebble with the goal of adding features centered around Pebble Time 2 . This is the first app that I&#x27;ve ever worked on…</p>

@@ -585,6 +585,17 @@ def duplicate_of_pebble_app(rec, keys):
     return any(k in keys for k in app_keys(rec))
 
 
+def author_name(author, source):
+    """The developer's name, or for developers who haven't given one in the
+    store, their handle from the source link (github.com/<handle>/repo), or
+    failing that the source link's domain."""
+    if author.strip().lower() not in ("", "unknown"):
+        return author
+    u = urllib.parse.urlparse(source)
+    parts = [p for p in u.path.split("/") if p]
+    return parts[0] if len(parts) >= 2 else (u.hostname or "").removeprefix("www.")
+
+
 def developer_groups(db):
     """Map each store developer ID to one key per developer. A developer with
     separate Pebble and Rebble accounts gets one key when an app links them."""
@@ -624,7 +635,8 @@ def entries_for(app_type, db, manual, licences, excluded):
             continue  # left the stores and the repository has been deleted
         store = next((s for s in STORES if s in rec["stores"]), None)
         entries[rec["id"]] = {
-            "title": rec["title"], "author": rec["author"], "source": rec["source"],
+            "title": rec["title"], "author": author_name(rec["author"], rec["source"]),
+            "source": rec["source"],
             "description": rec["description"], "screenshot": rec.get("screenshot"),
             "store": STORES[store]["url"].format(id=rec["id"]) if store else None,
             "store_name": STORES[store]["name"] if store else None,

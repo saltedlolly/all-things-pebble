@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ventusnavigation.com"
 hide:
   - toc
 ---
@@ -11,7 +11,7 @@ hide:
 
 <div class="dev-intro" markdown>
 
-# 
+# ventusnavigation.com
 
 *1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
 

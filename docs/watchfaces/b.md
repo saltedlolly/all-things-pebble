@@ -1849,6 +1849,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/72ce0dc7c99a43aab1250c9c" data-search-exclude><img src="../images/apps/72ce0dc7c99a43aab1250c9c.png" alt="BRUTAL" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-72ce0dc7c99a43aab1250c9c"><a href="https://apps.repebble.com/72ce0dc7c99a43aab1250c9c">BRUTAL</a> <span class="app-version" title="Latest version" data-search-exclude>v5.3.0</span></h2>
+<a class="app-source" href="https://git.benstokman.me/benjistokman/brutal" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/benjistokman.html" title="More from this developer">benjistokman</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Fork of BRUTAL watch face to support Flint and Emery platforms</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/67c751c6d2acb30009a3c812" data-search-exclude><img src="../images/apps/67c751c6d2acb30009a3c812.png" alt="BRUTAL" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-67c751c6d2acb30009a3c812"><a href="https://apps.rebble.io/en_US/application/67c751c6d2acb30009a3c812">BRUTAL</a> <span class="app-version" title="Latest version" data-search-exclude>v5.4</span></h2>
@@ -1857,17 +1868,6 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-04</span> <span title="Latest release in the app store">Updated 2026-08-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Basic watchface with big time made with custom fonts resembling huge buildings of brutalist architecture. Created during Rebble Hackathon #002. - Big digital time 12h/24h - Customizable text lines…</p>
-</div>
-</div>
-<div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/72ce0dc7c99a43aab1250c9c" data-search-exclude><img src="../images/apps/72ce0dc7c99a43aab1250c9c.png" alt="BRUTAL" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-72ce0dc7c99a43aab1250c9c"><a href="https://apps.repebble.com/72ce0dc7c99a43aab1250c9c">BRUTAL</a> <span class="app-version" title="Latest version" data-search-exclude>v5.3.0</span></h2>
-<a class="app-source" href="https://git.benstokman.me/benjistokman/brutal" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-8969b2.html" title="More from this developer">Unknown</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Fork of BRUTAL watch face to support Flint and Emery platforms</p>
 </div>
 </div>
 <div class="app-card">

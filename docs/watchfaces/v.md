@@ -192,7 +192,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-7bbad80bcf3f40f7b7ba1b41"><a href="https://apps.repebble.com/7bbad80bcf3f40f7b7ba1b41">VectorFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/Switch-modder/VectorFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-6c974c.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/switch-modder.html" title="More from this developer">Switch-modder</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-07-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">VectorFace! A simple watchface which shows the time just like Vector does when you ask him the time. Built using https://studio.pebbleface.com/ .</p>

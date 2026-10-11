@@ -16,7 +16,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-21086d4ccce74bbbbaedd11a"><a href="https://apps.repebble.com/21086d4ccce74bbbbaedd11a">M.A.D edition 2 watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/profweini/pebble-mad-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-c681cb.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/profweini.html" title="More from this developer">profweini</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Mimicks the M.A.D. edition 2 by MB&amp;F. Including: - Jumping hours, smooth minutes - Spinning rotator It works on my Time 2 (2026), Steel (2015), and Classic (2013)</p>
@@ -423,7 +423,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-aea24cf36e484878ae9c806e"><a href="https://apps.repebble.com/aea24cf36e484878ae9c806e">Max&#x27;s minimalist watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.7</span></h2>
 <a class="app-source" href="https://github.com/Max-q-rockets/MinimalistPebbleTime2Face" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-b7e3fa.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/max-q-rockets.html" title="More from this developer">Max-q-rockets</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-11</span> <span title="Latest release in the app store">Updated 2026-08-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Minimalist watchface displaying battery, heart rate and step count, as well as sunrise and sunset time.</p>
@@ -434,7 +434,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-f439f879e2484bfca6959309"><a href="https://apps.repebble.com/f439f879e2484bfca6959309">Max&#x27;s Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/maxharrison/watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-da92a0.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/maxharrison.html" title="More from this developer">maxharrison</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">My minimal Pebble watchface.</p>
@@ -445,7 +445,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-46984ddb0fbf4d84982863d3"><a href="https://apps.repebble.com/46984ddb0fbf4d84982863d3">max-infowatch</a> <span class="app-version" title="Latest version" data-search-exclude>v2</span></h2>
 <a class="app-source" href="https://github.com/maxharrison/infowatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-da92a0.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/maxharrison.html" title="More from this developer">maxharrison</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">just a personal fork of ForcasWatch 2</p>
@@ -456,7 +456,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-4d975333927945509bebe83f"><a href="https://apps.repebble.com/4d975333927945509bebe83f">max-infowatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1</span></h2>
 <a class="app-source" href="https://github.com/maxharrison/infowatch" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/unknown-da92a0.html" title="More from this developer">Unknown</a></div>
+<div class="app-dev">by <a href="../developers/maxharrison.html" title="More from this developer">maxharrison</a></div>
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">just a personal fork of ForcasWatch 2</p>
