@@ -13,7 +13,7 @@ hide:
 
 # LavenderCorp
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6902c47d856ddb00087e4b8d/1) · [GitHub (chughes87)](https://github.com/chughes87) · [Website (pointfree.space)](https://pointfree.space)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6902c47d856ddb0
 <h2 class="app-name" id="app-6a1fc43133a2dc000a63cf32"><a href="https://apps.rebble.io/en_US/application/6a1fc43133a2dc000a63cf32">The New Parkway Today</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/chughes87/pebble_parkway/tree/master/pebble-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1016" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Showings at The New Parkway in Oakland, California today. Only shows showings that are in the future for convenience</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6902c47d856ddb0
 <h2 class="app-name" id="app-6a2224e4b9f0710009879387"><a href="https://apps.rebble.io/en_US/application/6a2224e4b9f0710009879387">Bart Stop</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/chughes87/pebble_parkway/tree/master/bart-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1024" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Configure what bart stop you want to track on your phone and this app will show the latest departure times for all destinations</p>
 </div>

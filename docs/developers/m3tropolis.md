@@ -13,7 +13,7 @@ hide:
 
 # m3tropolis
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/m3tropolis_52e9b4164703a74a67000039) · [GitHub (tdsbtoes)](https://github.com/tdsbtoes)
 

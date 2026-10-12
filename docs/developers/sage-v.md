@@ -13,7 +13,7 @@ hide:
 
 # Sage V.
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5ec1f90f3dd31081fc98fcde/1) · [GitLab (sagev9000)](https://gitlab.com/sagev9000) · [Website (patreon.com)](https://www.patreon.com/fronter)
 

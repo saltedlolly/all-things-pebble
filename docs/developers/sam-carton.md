@@ -13,7 +13,7 @@ hide:
 
 # Sam Carton
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam-carton_5362eb44e624bd3bf50000bb) · [GitHub (samcarton)](https://github.com/samcarton) · [Website (samcarton.com)](http://www.samcarton.com)
 

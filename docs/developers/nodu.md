@@ -13,7 +13,7 @@ hide:
 
 # nodu
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nodu_531be62ac5f2c58d3f000a27) · [GitHub (nodu)](https://github.com/nodu)
 

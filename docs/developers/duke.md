@@ -13,7 +13,7 @@ hide:
 
 # duke
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/duke_d48f949b70fcaefd4e29e5cb) · [GitHub (duke0815)](https://github.com/duke0815)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/duke_d48f949b70fcae
 <h2 class="app-name" id="app-2a6fe2cb878f4eb4ac9082fc"><a href="https://apps.repebble.com/2a6fe2cb878f4eb4ac9082fc">Dungeon Doors</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/duke0815/pebble-dungeon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Left or right? A pocket roguelike for your wrist. Walk through three dungeons, one door at a time. Above each door you see what waits behind it: a chest, an empty room, the merchant – or a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/duke_d48f949b70fcae
 <h2 class="app-name" id="app-221aea7552c54e9a87277a29"><a href="https://apps.repebble.com/221aea7552c54e9a87277a29">Calendar for Office 365</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/duke0815/pebble_calender_app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Your Microsoft 365 and Outlook.com calendar on your wrist. DAY VIEW See all events of a day as clear cards with time, title and location. Swipe left and right to change the day on Pebble Time 2…</p>
 </div>

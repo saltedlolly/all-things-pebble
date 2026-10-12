@@ -13,7 +13,7 @@ hide:
 
 # Semyon Maryasin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/semyon-maryasin_52b1f151cd41832b4000000c) · [GitHub (MarSoft)](https://github.com/MarSoft) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/9564/watchapp-pebblenotes-a-google-tasks-client-free-opensource/p1)
 

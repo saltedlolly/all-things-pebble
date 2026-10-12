@@ -13,7 +13,7 @@ hide:
 
 # Furchee
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/furchee_1bb35cbb1c9e9aa2b06fb7d0) · [GitHub (Furchee)](https://github.com/Furchee) · [Website (furchee.com)](https://furchee.com)
 

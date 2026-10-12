@@ -13,7 +13,7 @@ hide:
 
 # Jason Quisberth
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jason-quisberth_545e680ff17b0f11e400001a) · [GitHub (61quisberth)](https://github.com/61quisberth)
 

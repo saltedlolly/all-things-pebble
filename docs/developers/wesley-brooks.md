@@ -13,7 +13,7 @@ hide:
 
 # Wesley Brooks
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wesley-brooks_556499dc5818e002ab00006b) · [Rebble App Store](https://apps.rebble.io/en_US/developer/556499dc5818e002ab00006b/1) · [GitHub (wrbrooks)](https://github.com/wrbrooks)
 

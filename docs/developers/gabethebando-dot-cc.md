@@ -13,7 +13,7 @@ hide:
 
 # gabethebando-dot-cc
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gabethebando-dot-cc_c11a157e4b4bcfabedd58139) · [GitHub (galbacarys)](https://github.com/galbacarys) · [Website (gabethebando.cc)](https://gabethebando.cc)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gabethebando-dot-cc
 <h2 class="app-name" id="app-e2bfdd0a808541ef8492a930"><a href="https://apps.repebble.com/e2bfdd0a808541ef8492a930">9dan</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/galbacarys/9dan" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-15</span> <span title="Latest release in the app store">Updated 2026-09-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-15</span> <span title="Latest release in the app store">Updated 2026-09-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Practice tsumego (Go puzzles) on the go! Each flick of the wrist advances the board by one move - the optimal move is shown highlighted in red. 2,416 built in problems in 3 sets (easy…</p>
 </div>

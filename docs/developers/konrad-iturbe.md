@@ -13,7 +13,7 @@ hide:
 
 # Konrad Iturbe
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/konrad-iturbe_554fa8d38d6d430fd500006d) · [GitHub (konradit)](https://github.com/konradit) · [Website (chernowii.com)](http://chernowii.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # Michael Clayton
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-clayton_52f7e91dcbdf71c467000497) · [GitHub (mcclayton)](https://github.com/mcclayton)
 

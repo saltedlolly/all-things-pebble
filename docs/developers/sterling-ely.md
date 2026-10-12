@@ -13,7 +13,7 @@ hide:
 
 # Sterling Ely
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sterling-ely_52f01309f27a483dd1000171) · [GitHub (SterlingEly)](https://github.com/SterlingEly) · [Website (x.com)](http://x.com/sterlingely)
 

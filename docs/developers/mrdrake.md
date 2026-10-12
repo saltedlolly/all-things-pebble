@@ -13,7 +13,7 @@ hide:
 
 # MrDrake
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrdrake_568f42fc40353f81d5000036) · [GitHub (MrDrake)](https://github.com/MrDrake)
 

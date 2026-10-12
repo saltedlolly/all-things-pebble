@@ -13,7 +13,7 @@ hide:
 
 # Stew Wilson
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stew-wilson_52f0ba86af0eab46cf002466) · [GitHub (digitalraven)](https://github.com/digitalraven)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stew-wilson_52f0ba8
 <h2 class="app-name" id="app-52f0e023a0cb6a3d150003e9"><a href="https://apps.repebble.com/52f0e023a0cb6a3d150003e9">Fuzzy Time UK</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/digitalraven/fuzzy_uk" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-04</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-04</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A combination of Fuzzy Time and Simplicity, using UK time descriptions (such as &quot;past&quot; rather than &quot;after&quot;). Based on the &quot;jps British&quot; watchface, converted to SDK 2.0</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # taturou
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/taturou_547d9dd836aa9b5fa40000ed) · [GitHub (taturou)](https://github.com/taturou)
 

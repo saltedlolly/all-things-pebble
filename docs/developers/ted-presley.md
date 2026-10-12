@@ -13,7 +13,7 @@ hide:
 
 # Ted Presley
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ted-presley_53508e68dfb1642804000077) · [GitHub (tapresle)](https://github.com/tapresle) · [Website (tapresle.github.io)](http://tapresle.github.io)
 

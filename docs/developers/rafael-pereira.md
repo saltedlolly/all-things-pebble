@@ -13,7 +13,7 @@ hide:
 
 # Rafael Pereira
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rafael-pereira_dd633264db7cf077fb225583) · [GitHub (rafaelc007)](https://github.com/rafaelc007)
 

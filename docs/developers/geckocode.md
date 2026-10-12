@@ -13,7 +13,7 @@ hide:
 
 # GeckoCode
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/geckocode_a78d5cdbcd8d9b4b5416b615) · [GitHub (Random90)](https://github.com/Random90)
 

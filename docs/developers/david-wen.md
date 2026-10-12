@@ -13,7 +13,7 @@ hide:
 
 # David Wen
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-wen_538caa144a22b572c30000b3) · [GitHub (Dawenster)](https://github.com/Dawenster)
 

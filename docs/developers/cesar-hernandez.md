@@ -13,7 +13,7 @@ hide:
 
 # Cesar Hernandez
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cesar-hernandez_caddaac1097dcb3aed14d135) · [GitHub (chernandezba)](https://github.com/chernandezba)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cesar-hernandez_cad
 <h2 class="app-name" id="app-cdfec388a4a74aa89c27e51b"><a href="https://apps.repebble.com/cdfec388a4a74aa89c27e51b">zesarux-watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.1</span></h2>
 <a class="app-source" href="https://github.com/chernandezba/zesarux-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple ZEsarUX emulator watchface Color stripes can be animated every minute, chosen on settings. When tapping Pebble, the number of ZEsarUX yesterday users will be shown</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cesar-hernandez_cad
 <h2 class="app-name" id="app-fe736f2b36744abca1e31a23"><a href="https://apps.repebble.com/fe736f2b36744abca1e31a23">Catcher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/chernandezba/david_hernandez_bano/tree/main/pebble/catcher" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is the last version released after his author, David (my brother), passed away on 2023. It&#x27;s a simple catcher game. You have 2 modes of play : time mode and lives mode. In time mode you will…</p>
 </div>

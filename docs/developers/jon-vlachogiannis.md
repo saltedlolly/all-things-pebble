@@ -13,7 +13,7 @@ hide:
 
 # Jon Vlachogiannis
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jon-vlachogiannis_55d2c04aa2746403f2000082) · [GitHub (jonromero)](https://github.com/jonromero) · [Website (twitter.com)](http://twitter.com/jonromero)
 

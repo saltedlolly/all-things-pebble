@@ -13,7 +13,7 @@ hide:
 
 # Anthony Di Iorio
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/anthony-di-iorio_52f0522e3fbdba0ccb001454) · [GitHub (tanilolli)](https://github.com/tanilolli) · [Website (anthonydiiorio.com)](https://anthonydiiorio.com)
 

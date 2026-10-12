@@ -13,7 +13,7 @@ hide:
 
 # chrip
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chrip_569eb89fa1ebd0d5a9000005) · [GitHub (chrip)](https://github.com/chrip) · [Website (eyevido.de)](https://eyevido.de)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chrip_569eb89fa1ebd
 <h2 class="app-name" id="app-56d32235eb3b97f4da000028"><a href="https://apps.repebble.com/56d32235eb3b97f4da000028">Inner Circle</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/chrip/pebble_wachtfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-28</span> <span title="Latest release in the app store">Updated 2016-03-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-28</span> <span title="Latest release in the app store">Updated 2016-03-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Just the time in circles.</p>
 </div>

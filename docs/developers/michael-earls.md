@@ -13,7 +13,7 @@ hide:
 
 # Michael Earls
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-earls_558c40b4d3f5ee67780000d0) · [GitHub (cerkit)](https://github.com/cerkit) · [Website (cerkit.com)](http://cerkit.com/pebble-daily-verse-app/)
 

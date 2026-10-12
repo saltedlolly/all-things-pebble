@@ -13,7 +13,7 @@ hide:
 
 # iHardtDev
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ihardtdev_530d6aaac3208a834300012c) · [GitHub (tylerl0706)](https://github.com/tylerl0706)
 

@@ -13,7 +13,7 @@ hide:
 
 # Maxwell Moseley
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxwell-moseley_57afcb76bb85ed5f9b0003fc) · [GitHub (maxmoseley23)](https://github.com/maxmoseley23)
 

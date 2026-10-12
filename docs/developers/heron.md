@@ -13,7 +13,7 @@ hide:
 
 # Heron
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/heron_550b12416aa533e72200004d) · [GitHub (heronyang)](https://github.com/heronyang) · [Website (heron.me)](http://www.heron.me)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/heron_550b12416aa53
 <h2 class="app-name" id="app-56dcd4aa5049a7d122000044"><a href="https://apps.repebble.com/56dcd4aa5049a7d122000044">Count Days</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/heronyang/countdays" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-07</span> <span title="Latest release in the app store">Updated 2016-03-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-07</span> <span title="Latest release in the app store">Updated 2016-03-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Shows the day count to/from your dream day. (with Solar Ring design like the Apple&#x27;s)</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # husobee apps
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/husobee-apps_552f1c95c3416203bc000093) · [GitHub (husobee)](https://github.com/husobee)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/husobee-apps_552f1c
 <h2 class="app-name" id="app-57654b610cc8f579730000a9"><a href="https://apps.repebble.com/57654b610cc8f579730000a9">Moon Phase Watchface UK</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/husobee/pebble-moonphase-uk" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-18</span> <span title="Latest release in the app store">Updated 2016-06-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-18</span> <span title="Latest release in the app store">Updated 2016-06-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface is a slight modification of this: https://apps.getpebble.com/en_US/application/55916f52981ce4e960000069 The only difference is the date format follows the DD/MM/YY.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/husobee-apps_552f1c
 <h2 class="app-name" id="app-55916f52981ce4e960000069"><a href="https://apps.repebble.com/55916f52981ce4e960000069">Moon Phase Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/husobee/pebble-moonphase" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-29</span> <span title="Latest release in the app store">Updated 2015-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-29</span> <span title="Latest release in the app store">Updated 2015-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface that will show you the current phase of the moon, as well as the current date and time.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Gringer Apps
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gringer-apps_560c4f952dd2f15e90000009) · [GitHub (groyoh)](https://github.com/groyoh)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gringer-apps_560c4f
 <h2 class="app-name" id="app-56f93a5361a01637e5000036"><a href="https://apps.repebble.com/56f93a5361a01637e5000036">Minimalin</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/groyoh/minimalin" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-28</span> <span title="Latest release in the app store">Updated 2016-11-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-28</span> <span title="Latest release in the app store">Updated 2016-11-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Minimalin is a fully customizable watchface that blends analog and digital for a simple, modern and elegant look. Minimalin is an open source project. If you love it as much as we do, feel free to…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gringer-apps_560c4f
 <h2 class="app-name" id="app-56f6fa4191445b2baf000015"><a href="https://apps.repebble.com/56f6fa4191445b2baf000015">Easter Egg</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/groyoh/easter_egg" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-26</span> <span title="Latest release in the app store">Updated 2016-03-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-26</span> <span title="Latest release in the app store">Updated 2016-03-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Celebrate Easter with this cute animated watchface (and some chocolate). Shake your wrist to wake up the little chick inside the egg. And… will you be able to find the hidden Easter egg? Designed…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gringer-apps_560c4f
 <h2 class="app-name" id="app-56e98f4e3b537ac5fc00001b"><a href="https://apps.repebble.com/56e98f4e3b537ac5fc00001b">Paddy&#x27;s Day</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/groyoh/paddys_day" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-16</span> <span title="Latest release in the app store">Updated 2016-03-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-16</span> <span title="Latest release in the app store">Updated 2016-03-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Celebrate Saint Patrick’s day with a dancing Irish leprechaun! See him dance every fifth minute or at the flick of your wrist. Designed by @AlessioLaiso and @Theresa_Phelan. Animated by…</p>
 </div>

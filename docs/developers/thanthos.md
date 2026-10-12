@@ -13,7 +13,7 @@ hide:
 
 # thanthos
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thanthos_531a88eaeb7a77f9cf000ac3) · [GitHub (thanthos)](https://github.com/thanthos)
 

@@ -13,7 +13,7 @@ hide:
 
 # bart
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6aa8615fc8ad1b00099cb09b/1) · [GitHub (bartp5)](https://github.com/bartp5)
 

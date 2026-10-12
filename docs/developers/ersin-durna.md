@@ -13,7 +13,7 @@ hide:
 
 # Ersin Durna
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ersin-durna_530605ab21336c2d47000210) · [GitHub (ersindurna)](https://github.com/ersindurna) · [Website (about.me)](http://about.me/ersindurna)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ersin-durna_530605a
 <h2 class="app-name" id="app-53f85ecf36d7c0ae190000c9"><a href="https://apps.repebble.com/53f85ecf36d7c0ae190000c9">FuzzyTRwCal</a> <span class="app-version" title="Latest version" data-search-exclude>v7.0</span></h2>
 <a class="app-source" href="https://github.com/ersindurna/FuzzyTurkishWithCalendarLoc" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-23</span> <span title="Latest release in the app store">Updated 2015-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-23</span> <span title="Latest release in the app store">Updated 2015-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">New Design with Location and Weather info PLUS Bluetooth connection status icon (if out ouf range vibration), Battery (both as a number and icon) and digital clock</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ersin-durna_530605a
 <h2 class="app-name" id="app-53f5ecd07fb85ba7730000e4"><a href="https://apps.repebble.com/53f5ecd07fb85ba7730000e4">OnlyTRFuzzy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ersindurna/OnlyTRFuzzy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-21</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-21</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Fuzzy Watchface in Turkish with Calendar at the top and Digital clock at he bottom Left, Battery percentage in numbers at Bottom Right. Needs some touch for the battery hog. But no memory issues...</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ersin-durna_530605a
 <h2 class="app-name" id="app-53f5ea07e0122978f0000172"><a href="https://apps.repebble.com/53f5ea07e0122978f0000172">NewFuzzyClckwCalTR</a> <span class="app-version" title="Latest version" data-search-exclude>v5.0</span></h2>
 <a class="app-source" href="https://github.com/ersindurna/FuzzyTurkishWithCalendar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-21</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-21</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Turkish Fuzzy Watchface with calendar, Bluetooth connection status icon (if out ouf range vibration), Battery (both as a number and icon) and digital clock</p>
 </div>

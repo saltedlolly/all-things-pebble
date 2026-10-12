@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · **O** · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*37 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*37 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-52f704e6a374bac2ac0000ab"><a href="https://apps.repebble.com/52f704e6a374bac2ac0000ab">Octowatch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/jjg/octowatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gullickson-laboratories.html" title="More from this developer">Gullickson Laboratories</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-09</span> <span title="Latest release in the app store">Updated 2014-12-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-09</span> <span title="Latest release in the app store">Updated 2014-12-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Monitor and control any Octoprint-enabled 3D printer using your Pebble smartwatch.</p>
 </div>
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-5694e8c7705d5fe1a9000040"><a href="https://apps.repebble.com/5694e8c7705d5fe1a9000040">Online Player Stats</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jackchuka/OnlinePlayerStats" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/masanori-uehara.html" title="More from this developer">Masanori Uehara</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-12</span> <span title="Latest release in the app store">Updated 2016-01-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-12</span> <span title="Latest release in the app store">Updated 2016-01-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">See how many people are playing the game on your wrist! List of the games available now: - Battlefront - Battlefield 4 - Battlefield 3 - Battlefield Hardline Stats powered by p-stats.com</p>
 </div>
@@ -215,7 +215,7 @@ hide:
 <h2 class="app-name" id="app-57536f158576a4e23f000010"><a href="https://apps.repebble.com/57536f158576a4e23f000010">OnOffHue</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/deviavir/pebblehue" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chase.html" title="More from this developer">Chase</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2016-12-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2016-12-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your hue lights from your wrist.</p>
 </div>
@@ -347,7 +347,7 @@ hide:
 <h2 class="app-name" id="app-9882f741750c43eb8309777e"><a href="https://apps.repebble.com/9882f741750c43eb8309777e">Orationes</a> <span class="app-version" title="Latest version" data-search-exclude>v0.14.0</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/pebble-orationes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/edward.html" title="More from this developer">Edward</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-03</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-03</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Make time for prayer. On your wrist. Available offline. Orationes is a Catholic prayer book for Pebble Time 2. Large text and clear contrast help you focus on the words. Your prayers stay on your…</p>
 </div>
@@ -358,7 +358,7 @@ hide:
 <h2 class="app-name" id="app-56db86f7eeaab1cad5000045"><a href="https://apps.repebble.com/56db86f7eeaab1cad5000045">Orémus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/jherforth/DailyRosaryApp.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jaythepapist.html" title="More from this developer">JayThePapist</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-06</span> <span title="Latest release in the app store">Updated 2016-05-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-06</span> <span title="Latest release in the app store">Updated 2016-05-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app was an endeavor to provide a Catholic prayer guide for daily use. All of the basics are found in this app for your daily prayer life. The rosary updates daily to show you the current…</p>
 </div>
@@ -380,7 +380,7 @@ hide:
 <h2 class="app-name" id="app-69a50e6dc698570008fa2fc6"><a href="https://apps.rebble.io/en_US/application/69a50e6dc698570008fa2fc6">otp4p</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/clach04/pebble-otp4p" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/clach04.html" title="More from this developer">clach04</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-02</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-02</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Offline config (via Clay) [TOTP](http://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) based two-factor authentication manager for Pebble. It generates **T**ime-based…</p>
 </div>
@@ -402,7 +402,7 @@ hide:
 <h2 class="app-name" id="app-57542b7f70c28c587d000004"><a href="https://apps.repebble.com/57542b7f70c28c587d000004">OW Camera Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.3</span></h2>
 <a class="app-source" href="https://github.com/jamsinclair/ow-camera-remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jamsinclair.html" title="More from this developer">jamsinclair</a> · <a href="https://forum.rebble.io/t/822" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">OW Camera Remote lets you preview your phone&#x27;s camera and remotely take pictures with a timer. Rebuilt and enhanced from the original app version from 10 years ago. Set a timer, strike a pose, and…</p>
 </div>

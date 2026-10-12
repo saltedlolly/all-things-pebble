@@ -13,7 +13,7 @@ hide:
 
 # Jan Bobolz
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jan-bobolz_52d3bf8ef659f0fa38000016) · [GitHub (JanBobolz)](https://github.com/JanBobolz)
 

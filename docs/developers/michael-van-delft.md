@@ -13,7 +13,7 @@ hide:
 
 # Michael Van Delft
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-van-delft_2dc17aa9f131bb14557374fa) · [GitHub (HybridAU)](https://github.com/HybridAU)
 

@@ -13,7 +13,7 @@ hide:
 
 # Pedro
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pedro_535907fa2acb26c7e50001b1) · [GitHub (pjexposito)](https://github.com/pjexposito)
 

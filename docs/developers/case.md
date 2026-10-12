@@ -13,7 +13,7 @@ hide:
 
 # Case
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/case_e47ae62c235d9214790daedc) · [GitHub (tomrav)](https://github.com/tomrav)
 

@@ -13,7 +13,7 @@ hide:
 
 # Alexey Cluster
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alexey-cluster_541d0dc59a11beda980000c8) · [Rebble App Store](https://apps.rebble.io/en_US/developer/541d0dc59a11beda980000c8/1) · [GitHub (ClusterM)](https://github.com/ClusterM) · [Website (cluster.wtf)](https://cluster.wtf)
 

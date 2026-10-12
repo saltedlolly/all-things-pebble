@@ -13,7 +13,7 @@ hide:
 
 # Lander Laparra
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5840820b00355a0a12000063/1) · [GitHub (lapitzasclub)](https://github.com/lapitzasclub)
 

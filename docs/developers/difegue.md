@@ -13,7 +13,7 @@ hide:
 
 # Difegue
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/difegue_59875ea00dfc321335000a40) · [GitHub (Difegue)](https://github.com/Difegue) · [Website (diy.tvc-16.science)](https://diy.tvc-16.science)
 

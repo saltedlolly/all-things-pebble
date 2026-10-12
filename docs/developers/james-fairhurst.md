@@ -13,7 +13,7 @@ hide:
 
 # James Fairhurst
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-fairhurst_53edfa2ed7d50558e00000fd) · [GitHub (jamesfairhurst)](https://github.com/jamesfairhurst)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-fairhurst_53e
 <h2 class="app-name" id="app-546a1fefecee192af60000c1"><a href="https://apps.repebble.com/546a1fefecee192af60000c1">Pebbos</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jamesfairhurst/Pebbos" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-17</span> <span title="Latest release in the app store">Updated 2014-11-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-11-17</span> <span title="Latest release in the app store">Updated 2014-11-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple Pebble.js app that allows you to control your Sonos speakers with your Pebble.</p>
 </div>

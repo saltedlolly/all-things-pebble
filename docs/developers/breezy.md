@@ -13,7 +13,7 @@ hide:
 
 # breezy
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/breezy_a9ed8f2b80eaaf6c033c87f0) · [GitHub (shan-srini)](https://github.com/shan-srini)
 

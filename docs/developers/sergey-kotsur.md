@@ -13,7 +13,7 @@ hide:
 
 # Sergey Kotsur
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5601715225a99dbfe7000074/1) · [GitHub (joker512)](https://github.com/joker512)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5601715225a99db
 <h2 class="app-name" id="app-585d44f85de850e8dc000629"><a href="https://apps.rebble.io/en_US/application/585d44f85de850e8dc000629">Time Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/joker512/pebble_tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-23</span> <span title="Latest release in the app store">Updated 2017-09-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-12-23</span> <span title="Latest release in the app store">Updated 2017-09-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">There is no good time tracking apps for Pebble, you know. I hope this one would close the gap. Read the full documentation here: https://github.com/joker512/pebble_tracker/blob/master/README.md</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Paul McMonagle
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul-mcmonagle_531cae613d915ce9570001bb) · [GitHub (pmcmonagle)](https://github.com/pmcmonagle) · [Website (tvo.org)](http://www.tvo.org)
 

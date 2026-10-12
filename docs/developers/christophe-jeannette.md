@@ -13,7 +13,7 @@ hide:
 
 # Christophe Jeannette
 
-*8 watchfaces and 7 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*8 watchfaces and 7 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christophe-jeannette_54edf0599e4ff7cbf60000a0) · [GitHub (Sichroteph)](https://github.com/Sichroteph) · [Website (reddit.com)](https://www.reddit.com/r/pebble/comments/436det/time_graph_ruler_weather_major_update/)
 

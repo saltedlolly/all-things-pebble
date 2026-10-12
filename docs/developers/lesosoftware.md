@@ -13,7 +13,7 @@ hide:
 
 # Lesosoftware
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5f3ee4ac3dd310431df1c5e5/1) · [GitHub (leso-kn)](https://github.com/leso-kn)
 

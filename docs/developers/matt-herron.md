@@ -13,7 +13,7 @@ hide:
 
 # Matt Herron
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-herron_531a0f834969a222eb0001ac) · [GitHub (Nannoises)](https://github.com/Nannoises)
 

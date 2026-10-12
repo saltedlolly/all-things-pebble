@@ -13,7 +13,7 @@ hide:
 
 # Martin
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/martin_53150ee91b1a0e1232000290) · [GitHub (pinkguy)](https://github.com/pinkguy) · [Website (martingreffe.com)](http://www.martingreffe.com)
 

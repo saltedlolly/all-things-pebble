@@ -13,7 +13,7 @@ hide:
 
 # Ugo Raffaele Piemontese
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ugo-raffaele-piemontese_54a54a335d5a91a9d300005e) · [GitHub (UgoRaffaele)](https://github.com/UgoRaffaele) · [Website (ugopiemontese.eu)](http://www.ugopiemontese.eu)
 

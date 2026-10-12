@@ -13,7 +13,7 @@ hide:
 
 # David Peer
 
-*4 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-peer_68fb6df5d3c6e4000885b8f5) · [GitHub (peerdavid)](https://github.com/peerdavid) · [Website (paypal.com)](https://www.paypal.com/donate/?hosted_button_id=Y4PDJU84LC3N2)
 

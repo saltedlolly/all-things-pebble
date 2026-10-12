@@ -13,7 +13,7 @@ hide:
 
 # santrancisco
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/santrancisco_54ab9f13f3a173dfa500007b) · [GitHub (santrancisco)](https://github.com/santrancisco) · [Website (ebfe.pw)](https://ebfe.pw)
 

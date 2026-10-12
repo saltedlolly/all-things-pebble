@@ -13,7 +13,7 @@ hide:
 
 # fccview labs
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ac3761fefcf57000870107c/1) · [GitHub (fccview)](https://github.com/fccview)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ac3761fefcf570
 <h2 class="app-name" id="app-6ac37aa0b95ba2000991875a"><a href="https://apps.rebble.io/en_US/application/6ac37aa0b95ba2000991875a">Stepolution</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
 <a class="app-source" href="https://github.com/fccview/stepolution" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1407" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A Pokemon watchface for the Pebble Time 2. Red or Leaf walks around a real FRLG map with a Pokemon that levels up as you walk, following one tile behind you.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Iuri A.
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iuri-a_a1f82895eeb60348595af897) · [GitHub (iuriaranda)](https://github.com/iuriaranda)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iuri-a_a1f82895eeb6
 <h2 class="app-name" id="app-bef8e6181d804c4aaa40c482"><a href="https://apps.repebble.com/bef8e6181d804c4aaa40c482">pebblek</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/iuriaranda/pebblek" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">PebbleK — SignalK boat monitor &amp; autopilot remote PebbleK turns your Pebble into a glanceable helm display and autopilot remote for boats running a SignalK server. Leave the phone in your pocket…</p>
 </div>

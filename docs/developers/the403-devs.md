@@ -13,7 +13,7 @@ hide:
 
 # the403 Devs
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/the403-devs_16d54e4350ecc42aa9befc8a) · [GitHub (theLittleBigZ)](https://github.com/theLittleBigZ) · [Website (the403.xyz)](https://the403.xyz)
 

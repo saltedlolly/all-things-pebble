@@ -13,7 +13,7 @@ hide:
 
 # bitbased
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bitbased_534366a923d923b50c00052a) · [GitHub (bitbased)](https://github.com/bitbased) · [Website (bitbased.net)](http://bitbased.net/apps/watch-fm)
 

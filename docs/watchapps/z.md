@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · **Z** · [0–9 & other](other.md)
 
-*5 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-5689657664bdb8bfb800001d"><a href="https://apps.repebble.com/5689657664bdb8bfb800001d">Zaragoza Public Transport</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/iAbadia/Pebble-Public-Transport-Zgz" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/iabadia.html" title="More from this developer">iAbadia</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble app for Zaragoza tram and bus times How to use: For tram times, select between the full list of stops or choose one from your recent searches. For bus times, choose from recent searches or…</p>
 </div>
@@ -34,12 +34,23 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/e64f7bcd1ef249d092bfb44e" data-search-exclude><img src="../images/apps/e64f7bcd1ef249d092bfb44e.png" alt="ZenNotes for Pebble" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e64f7bcd1ef249d092bfb44e"><a href="https://apps.repebble.com/e64f7bcd1ef249d092bfb44e">ZenNotes for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<a class="app-source" href="https://github.com/Rad1ally/pebble-zennotes" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/rad1ally.html" title="More from this developer">Rad1ally</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Read your ZenNotes on your wrist. ZenNotes for Pebble connects to your self-hosted ZenNotes server (znserver) and shows your Markdown notes on Pebble Time 2. It is read-only, so your vault is…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/8a706e64a4f745cc94398e35" data-search-exclude><img src="../images/apps/8a706e64a4f745cc94398e35.png" alt="Zmanim" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-8a706e64a4f745cc94398e35"><a href="https://apps.repebble.com/8a706e64a4f745cc94398e35">Zmanim</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/discountdeadcats/Zmanim-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/discountdeadcats.html" title="More from this developer">discountdeadcats</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-27</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-27</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Precise halachic times at a glance. View key zmanim, track the current time period, and stay aware of what’s coming next all in a clean, fast interface designed for Pebble.</p>
 </div>

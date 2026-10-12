@@ -13,7 +13,7 @@ hide:
 
 # Elieser Leão
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/elieser-le-o_537f8996048750f65c000026) · [GitHub (elieserleao)](https://github.com/elieserleao)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/elieser-le-o_537f89
 <h2 class="app-name" id="app-57cbaf2bbe5ad0a9cf00024c"><a href="https://apps.repebble.com/57cbaf2bbe5ad0a9cf00024c">All That Info</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/elieserleao/allthatinfo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-04</span> <span title="Latest release in the app store">Updated 2017-05-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-09-04</span> <span title="Latest release in the app store">Updated 2017-05-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">All info possible. - Open source - Using Weather Underground or OpenWeatherMap (default) - Step counter - Sunrise and sunset - Relative humidity - Current altitude - Wind speed - Watch battery bar</p>
 </div>

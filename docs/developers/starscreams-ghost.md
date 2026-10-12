@@ -13,7 +13,7 @@ hide:
 
 # Starscreams Ghost
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/starscreams-ghost_549c6114ad219e8b11000718)
 

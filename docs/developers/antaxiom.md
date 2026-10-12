@@ -13,7 +13,7 @@ hide:
 
 # Antaxiom
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/61736105b3c0a70009424822/1) · [GitHub (antaxiom)](https://github.com/antaxiom)
 

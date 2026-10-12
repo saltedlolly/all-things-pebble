@@ -13,7 +13,7 @@ hide:
 
 # rexmac
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rexmac_52ce189483a666f6f9000017) · [GitHub (rexmac)](https://github.com/rexmac) · [Website (rexmac.com)](http://rexmac.com/chronocode)
 

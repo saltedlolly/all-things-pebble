@@ -13,7 +13,7 @@ hide:
 
 # SlideWave, LLC
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slidewave-llc_530792b655bea2f4f80000d2) · [GitHub (ddaeschler)](https://github.com/ddaeschler) · [Website (daviddaeschler.com)](http://daviddaeschler.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slidewave-llc_53079
 <h2 class="app-name" id="app-53090bbfab1ae26bc70005e3"><a href="https://apps.repebble.com/53090bbfab1ae26bc70005e3">Tip Calculator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/ddaeschler/pebble-tipcalc" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-22</span> <span title="Latest release in the app store">Updated 2014-03-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-22</span> <span title="Latest release in the app store">Updated 2014-03-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Enter the check amount and set a tip percentage and this app will calculate the tip amount and bill total</p>
 </div>

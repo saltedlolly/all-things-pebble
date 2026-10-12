@@ -13,7 +13,7 @@ hide:
 
 # lastfuture
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lastfuture_52f00cd8e523d0248c00000d) · [GitHub (lastfuture)](https://github.com/lastfuture) · [Website (git.broken.graphics)](https://git.broken.graphics/alina/Pebble-Time-Watchface-Squared-4.0)
 

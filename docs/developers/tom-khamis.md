@@ -13,7 +13,7 @@ hide:
 
 # Tom Khamis
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-khamis_221fb95fe8d07190aa28efe3) · [GitHub (ttkhamis)](https://github.com/ttkhamis)
 

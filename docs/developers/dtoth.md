@@ -13,7 +13,7 @@ hide:
 
 # dtoth
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dtoth_b855fb454106c7a9a8d5f6f5) · [GitHub (dantoth24)](https://github.com/dantoth24)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dtoth_b855fb454106c
 <h2 class="app-name" id="app-0ca1204c486849f7aaed36aa"><a href="https://apps.repebble.com/0ca1204c486849f7aaed36aa">Pebble Digital Classic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.6</span></h2>
 <a class="app-source" href="https://github.com/dantoth24/watchface-digital-classic" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-07-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-07-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A retro tribute to the iconic 80s digital sport watch, faithfully redrawn for Pebble Round 2. Features: Authentic LCD-style bitmap digits for hours and minutes Live seconds display Day-of-week…</p>
 </div>

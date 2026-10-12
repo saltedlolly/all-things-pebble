@@ -13,7 +13,7 @@ hide:
 
 # DRC
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drc_f9f561c351b06fcf9db54d67) · [GitHub (dcanelhas)](https://github.com/dcanelhas)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drc_f9f561c351b06fc
 <h2 class="app-name" id="app-d9ae0d91c6b94bd2add22405"><a href="https://apps.repebble.com/d9ae0d91c6b94bd2add22405">Shot &amp; Recoil Counter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/dcanelhas/ShotCounter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-06</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-08-06</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">This app uses the accelerometer to measure recoil (as spikes in acceleration) in order to count the number of shots taken in sports shooting. Settings: - Color Theme (default: Dark Mono) - Recoil…</p>
 </div>

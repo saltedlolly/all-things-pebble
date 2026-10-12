@@ -13,7 +13,7 @@ hide:
 
 # Asmund Berge
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/asmund-berge_5674836844d454b3ef000045) · [GitHub (powermosfet)](https://github.com/powermosfet)
 

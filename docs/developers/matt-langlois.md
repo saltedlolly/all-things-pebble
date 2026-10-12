@@ -13,7 +13,7 @@ hide:
 
 # Matt Langlois
 
-*5 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-langlois_52e30dd32645fb8bae000fcd) · [GitHub (fletchto99)](https://github.com/fletchto99) · [Website (fletchto99.com)](http://fletchto99.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-langlois_52e30
 <h2 class="app-name" id="app-5468365c32e2d70d26000095"><a href="https://apps.repebble.com/5468365c32e2d70d26000095">uOttawa Card Manager</a> <span class="app-version" title="Latest version" data-search-exclude>v2.05</span></h2>
 <a class="app-source" href="https://github.com/fletchto99/uOttawa-Card-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Allows University of Ottawa students to preform various actions on their uOttawa card. Actions include: - Check Flex &amp; Meal plan balance - Check history of last 10 Meal plan purchases - Check…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-langlois_52e30
 <h2 class="app-name" id="app-5539d8fdbf1a59d7ac000053"><a href="https://apps.repebble.com/5539d8fdbf1a59d7ac000053">Meetup</a> <span class="app-version" title="Latest version" data-search-exclude>v2.22</span></h2>
 <a class="app-source" href="https://github.com/fletchto99/Pebble-Meetup" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-24</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-24</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Keep on top of the upcoming Pebble &amp; Other meetup events/groups in your area! Actions include: - View Pebble meetup groups, world wide! - View upcoming Pebble meetup events within a configurable…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-langlois_52e30
 <h2 class="app-name" id="app-556bbaf730850a5fab000089"><a href="https://apps.repebble.com/556bbaf730850a5fab000089">Devboard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/fletchto99/pebble-devboard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Enables the ability for pebble developers to view the status of their projects directly from their Pebble!</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-langlois_52e30
 <h2 class="app-name" id="app-56bed5490ed2a75acd000040"><a href="https://apps.repebble.com/56bed5490ed2a75acd000040">Liveconfig Demo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.01</span></h2>
 <a class="app-source" href="https://github.com/fletchto99/Pebble-liveconfig" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-02-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Demo of Live config library for developers!</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-langlois_52e30
 <h2 class="app-name" id="app-56081e08f4e5610339000055"><a href="https://apps.repebble.com/56081e08f4e5610339000055">Roomer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.05</span></h2>
 <a class="app-source" href="https://github.com/fletchto99/roomer-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-27</span> <span title="Latest release in the app store">Updated 2015-12-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-27</span> <span title="Latest release in the app store">Updated 2015-12-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Would you like to have a quiet place to study on campus? Do you find the libraries to be too crowded sometimes? If so, Roomer is the perfect app for you. Roomer lets you find an empty classroom on…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Tools on Tech
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tools-on-tech_09d07916bc53b30ede8f8320) · [GitLab (tools-on-tech)](https://gitlab.com/tools-on-tech)
 

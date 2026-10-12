@@ -13,7 +13,7 @@ hide:
 
 # JacksCan
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jackscan_5517e96941e7e0ceff000097) · [GitHub (jackscan)](https://github.com/jackscan)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jackscan_5517e96941
 <h2 class="app-name" id="app-571375688e6befad4b000012"><a href="https://apps.repebble.com/571375688e6befad4b000012">Placidial</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/jackscan/placidial" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-17</span> <span title="Latest release in the app store">Updated 2016-11-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-17</span> <span title="Latest release in the app store">Updated 2016-11-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A simple analog watchface for Pebble Time and Pebble Time Round with configurable colors and hand sizes.</p>
 </div>

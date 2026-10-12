@@ -13,7 +13,7 @@ hide:
 
 # Duendiyo
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/duendiyo_52e8f2c2dcc23cb26e000011) · [GitHub (shadone)](https://github.com/shadone)
 

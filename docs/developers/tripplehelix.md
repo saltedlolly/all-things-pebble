@@ -13,7 +13,7 @@ hide:
 
 # Tripplehelix
 
-*5 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/687d60c735f0cc0009d17719/1) · [Codeberg (tripplehelix)](https://codeberg.org/tripplehelix) · [Website (helix.me.uk)](https://helix.me.uk/)
 

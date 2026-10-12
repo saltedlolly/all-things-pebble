@@ -13,7 +13,7 @@ hide:
 
 # kennedn
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5eac48e120940a03976c6b05/1) · [GitHub (kennedn)](https://github.com/kennedn) · [Website (kennedn.com)](https://kennedn.com/)
 

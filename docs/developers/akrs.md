@@ -13,7 +13,7 @@ hide:
 
 # Akrs
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/akrs_52be2e4c007c1e4815000011) · [GitHub (akrs)](https://github.com/akrs)
 

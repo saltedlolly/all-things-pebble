@@ -13,7 +13,7 @@ hide:
 
 # cS
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cs_5453716ff44f6aceb9000061) · [GitHub (chms)](https://github.com/chms) · [Website (blog.chschmid.com)](http://blog.chschmid.com/?p=1873)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cs_5453716ff44f6ace
 <h2 class="app-name" id="app-54fb92804720a88f330000a6"><a href="https://apps.repebble.com/54fb92804720a88f330000a6">ArcS+</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/chms/ArcS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-08</span> <span title="Latest release in the app store">Updated 2015-03-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-03-08</span> <span title="Latest release in the app store">Updated 2015-03-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">ArcS+ uses arcs to illustrate how time flies. At the same time it features a digital clock, the date, the weekday and indicators for your battery and the bluetooth connection to your phone.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cs_5453716ff44f6ace
 <h2 class="app-name" id="app-54f245bd0bea20aa090000ce"><a href="https://apps.repebble.com/54f245bd0bea20aa090000ce">ArcS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chms/ArcS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-28</span> <span title="Latest release in the app store">Updated 2015-03-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-02-28</span> <span title="Latest release in the app store">Updated 2015-03-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Yet another watchface that uses arcs to illustrate how time flies.</p>
 </div>

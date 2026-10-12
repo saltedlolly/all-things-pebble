@@ -13,7 +13,7 @@ hide:
 
 # V3L
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6903ea5c69551c0009c36237/1) · [GitHub (skooda)](https://github.com/skooda) · [Website (v3l.cz)](https://v3l.cz)
 

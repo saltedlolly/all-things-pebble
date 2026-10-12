@@ -13,7 +13,7 @@ hide:
 
 # rigel314
 
-*3 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rigel314_529aa0fad17b50707b00001d) · [GitHub (rigel314)](https://github.com/rigel314) · [Website (computingeureka.com)](http://computingeureka.com)
 

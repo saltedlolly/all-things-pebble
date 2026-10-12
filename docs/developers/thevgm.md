@@ -13,7 +13,7 @@ hide:
 
 # thevgm
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thevgm_d9cc14a5a086ce77dc88cf71) · [GitHub (Thevgm01)](https://github.com/Thevgm01)
 

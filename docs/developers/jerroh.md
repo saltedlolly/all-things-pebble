@@ -13,7 +13,7 @@ hide:
 
 # jerroh
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/63daefc81e4c55000844f045/1) · [GitHub (jrohall)](https://github.com/jrohall)
 

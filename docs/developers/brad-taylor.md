@@ -13,7 +13,7 @@ hide:
 
 # Brad Taylor
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brad-taylor_0af6cdff3f6126d401ffff0a) · [GitHub (taylorbradn)](https://github.com/taylorbradn)
 

@@ -13,7 +13,7 @@ hide:
 
 # GrakovNe
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/grakovne_553c6ca334add0d82f00002f) · [GitHub (GrakovNe)](https://github.com/GrakovNe) · [Website (grakovne.org)](http://grakovne.org)
 

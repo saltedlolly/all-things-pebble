@@ -13,7 +13,7 @@ hide:
 
 # Alberto Velo
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alberto-velo_568fb54a05f633497c00003f) · [GitHub (trapias)](https://github.com/trapias) · [Website (trapias.github.io)](http://trapias.github.io/blog/Petrello)
 

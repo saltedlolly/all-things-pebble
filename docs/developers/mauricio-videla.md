@@ -13,7 +13,7 @@ hide:
 
 # Mauricio Videla
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mauricio-videla_67eeb625653eea00086eedd3) · [GitHub (mvidelatraduc)](https://github.com/mvidelatraduc)
 

@@ -13,7 +13,7 @@ hide:
 
 # erimow
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erimow_6747de4133d355000a518dd7) · [GitHub (erimow)](https://github.com/erimow)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erimow_6747de4133d3
 <h2 class="app-name" id="app-50ec29de91b54dbaac23f45a"><a href="https://apps.repebble.com/50ec29de91b54dbaac23f45a">PeReader</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/erimow/PeReader" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-19</span> <span title="Latest release in the app store">Updated 2026-04-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-19</span> <span title="Latest release in the app store">Updated 2026-04-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Welcome to PeReader! A super simple .TXT reader for all your reading on the go! Is the ol&#x27; 9-5 sucking your life away? Throw your favorite novel in here and disappear for awhile! Have several…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erimow_6747de4133d3
 <h2 class="app-name" id="app-6962e51d29173c0009b18f8e"><a href="https://apps.repebble.com/6962e51d29173c0009b18f8e">Memos</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/erimow/pebble-memos/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/478" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-10</span> <span title="Latest release in the app store">Updated 2026-01-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-10</span> <span title="Latest release in the app store">Updated 2026-01-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A very simple app to connect with your self-hosted Memos server and quickly send thoughts or ideas straight over! Requires dictation. https://github.com/usememos/memos Use keywords such as: check…</p>
 </div>

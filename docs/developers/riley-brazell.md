@@ -13,7 +13,7 @@ hide:
 
 # Riley Brazell
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/riley-brazell_54a6025c4c4f6c4ec7000101) · [GitHub (rileybrazell)](https://github.com/rileybrazell)
 

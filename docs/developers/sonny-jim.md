@@ -13,7 +13,7 @@ hide:
 
 # Sonny\_Jim
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58458092ca3094c66f000772/1) · [GitHub (SonnyJim)](https://github.com/SonnyJim)
 

@@ -13,7 +13,7 @@ hide:
 
 # Mitchel Spears
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mitchel-spears_5580f963617287a1810000a9) · [GitLab (gumbyscout)](https://gitlab.com/gumbyscout)
 

@@ -13,7 +13,7 @@ hide:
 
 # Thomas Piil Rosted
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-piil-rosted_5650248844a2b654d0000038) · [GitHub (thomasrosted)](https://github.com/thomasrosted)
 

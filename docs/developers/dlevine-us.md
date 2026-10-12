@@ -13,7 +13,7 @@ hide:
 
 # DLevine.us
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54106f95816f735f200001ba/1) · [GitHub (djlevine)](https://github.com/djlevine)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54106f95816f735
 <h2 class="app-name" id="app-5936d5e70dfc326f9c000ea5"><a href="https://apps.rebble.io/en_US/application/5936d5e70dfc326f9c000ea5">NYCTA Map Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/djlevine/NYCTA_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-06-06</span> <span title="Latest release in the app store">Updated 2017-08-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-06-06</span> <span title="Latest release in the app store">Updated 2017-08-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watch face based on the Vignelli style NYC Subway map. - The 6th Avenue line (vertical lines) display the time - The Shuttle line (top horizontal) displays AM or PM Screenshot with back light on…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54106f95816f735
 <h2 class="app-name" id="app-58dac0a90dfc32fe6000073f"><a href="https://apps.rebble.io/en_US/application/58dac0a90dfc32fe6000073f">NYCTime</a> <span class="app-version" title="Latest version" data-search-exclude>v3.31</span></h2>
 <a class="app-source" href="https://github.com/djlevine/NYCTimeColor" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-03-28</span> <span title="Latest release in the app store">Updated 2017-06-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-03-28</span> <span title="Latest release in the app store">Updated 2017-06-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">New York Subway Watchface - Design inspired by NYCT platform signage - Time displayed in transit inspired colors - The upper text cycles through popular stop names as displayed on the platform…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54106f95816f735
 <h2 class="app-name" id="app-58e5474f6ca387fc52000a3f"><a href="https://apps.rebble.io/en_US/application/58e5474f6ca387fc52000a3f">PebblePATH</a> <span class="app-version" title="Latest version" data-search-exclude>v0.72</span></h2>
 <a class="app-source" href="https://github.com/djlevine/PebblePATH" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-04-05</span> <span title="Latest release in the app store">Updated 2017-04-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-04-05</span> <span title="Latest release in the app store">Updated 2017-04-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Provides train times at specified intervals for all PATH train lines Choose the direction you want to travel and your current location to receive upcoming train times.</p>
 </div>

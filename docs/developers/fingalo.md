@@ -13,7 +13,7 @@ hide:
 
 # Fingalo
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fingalo_538888906ef2f2762300012b) · [GitHub (fingalo)](https://github.com/fingalo)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fingalo_538888906ef
 <h2 class="app-name" id="app-5400ffd65b56a15a20000003"><a href="https://apps.repebble.com/5400ffd65b56a15a20000003">NexaHome P</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/fingalo/NexaHomeP" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-29</span> <span title="Latest release in the app store">Updated 2016-11-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-08-29</span> <span title="Latest release in the app store">Updated 2016-11-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble app for connecting to NexaHome (Tellstick) server. Control your ligths and wallsockets from you watch. Long press on middle button will cycle dimmers 25% at a time. See github for use of…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fingalo_538888906ef
 <h2 class="app-name" id="app-54307b17ec1644c4d2000007"><a href="https://apps.repebble.com/54307b17ec1644c4d2000007">LaTC Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/fingalo/LaTC-Remote.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-04</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-10-04</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble app for connecting to Telldus Live! server. Control your ligths and wallsockets from you watch. (Long press on middle button will cycle dimmers 25% at a time). Single press on sensor will…</p>
 </div>

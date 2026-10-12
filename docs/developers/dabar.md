@@ -13,7 +13,7 @@ hide:
 
 # dabar
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dabar_cd6ddba9be954fba9d2f3592) · [GitHub (david-barrett)](https://github.com/david-barrett)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dabar_cd6ddba9be954
 <h2 class="app-name" id="app-4a193890e40f406b8c5172a7"><a href="https://apps.repebble.com/4a193890e40f406b8c5172a7">Glitch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/david-barrett/pebble_glitch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Glitching watchface</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dabar_cd6ddba9be954
 <h2 class="app-name" id="app-c8134a4e1ea84e7293abb0e6"><a href="https://apps.repebble.com/c8134a4e1ea84e7293abb0e6">UQM_Pilot_Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/david-barrett/pebble_uqm_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-10</span> <span title="Latest release in the app store">Updated 2026-04-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-10</span> <span title="Latest release in the app store">Updated 2026-04-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface showing pilots from the Ur Quan Masters Pilot image changes every minute</p>
 </div>

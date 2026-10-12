@@ -13,7 +13,7 @@ hide:
 
 # P1X3L
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/p1x3l_56e01ef1320b57e74000000d) · [GitHub (BOBdotEXE)](https://github.com/BOBdotEXE) · [GitHub (pebble-examples)](https://github.com/pebble-examples) · [GitHub (pebble-hacks)](https://github.com/pebble-hacks)
 

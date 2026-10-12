@@ -13,7 +13,7 @@ hide:
 
 # Tomas Ruzicka
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tomas-ruzicka_546c275071d61180ba000064) · [GitHub (LeZuse)](https://github.com/LeZuse)
 

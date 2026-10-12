@@ -13,7 +13,7 @@ hide:
 
 # M T
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/m-t_bd702c101c8cc5e7be72747d) · [GitHub (michft)](https://github.com/michft)
 

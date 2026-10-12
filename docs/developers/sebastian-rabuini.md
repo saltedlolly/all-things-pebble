@@ -13,7 +13,7 @@ hide:
 
 # Sebastian Rabuini
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sebastian-rabuini_536ddb4a0937ded6af00006d) · [GitHub (srabuini)](https://github.com/srabuini) · [Website (wasabitlabs.com)](http://wasabitlabs.com)
 

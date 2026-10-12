@@ -13,7 +13,7 @@ hide:
 
 # Flecmart
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flecmart_56b2a154d47512b8de5ebcdd) · [GitHub (flecmart)](https://github.com/flecmart)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flecmart_56b2a154d4
 <h2 class="app-name" id="app-5124bacb5baf4657be29a073"><a href="https://apps.repebble.com/5124bacb5baf4657be29a073">Modern PT2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/flecmart/modern_pt2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Modern PT2 - Modernized port of the classic &quot;Modern&quot; watchface by Zalew, rebuilt for Pebble SDK 4.x - Native 200×228 layout for Pebble Time 2 (Emery) - 3 configurable info slots (left, right…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flecmart_56b2a154d4
 <h2 class="app-name" id="app-4015983bf15545d6ad50803b"><a href="https://apps.repebble.com/4015983bf15545d6ad50803b">pebble2todoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/flecmart/pebble2todoist" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-18</span> <span title="Latest release in the app store">Updated 2026-06-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-18</span> <span title="Latest release in the app store">Updated 2026-06-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watchapp that adds tasks to Todoist using your voice. Press SELECT, speak a command, and the task appears in your Todoist project — or in your Inbox with a &quot;today&quot; due date so it never…</p>
 </div>

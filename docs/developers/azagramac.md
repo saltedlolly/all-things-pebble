@@ -13,7 +13,7 @@ hide:
 
 # AzagraMac
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/azagramac_52d139f7139ef133cb00001a) · [GitHub (AzagraMac)](https://github.com/AzagraMac) · [Website (azagra.me)](http://azagra.me)
 

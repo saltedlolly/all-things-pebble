@@ -13,7 +13,7 @@ hide:
 
 # Gianluca Troiani
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gianluca-troiani_56162132ef230bb954000073) · [Rebble App Store](https://apps.rebble.io/en_US/developer/56162132ef230bb954000073/1) · [GitHub (giatro)](https://github.com/giatro)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gianluca-troiani_56
 <h2 class="app-name" id="app-5630dfd19c667e7a78000051"><a href="https://apps.repebble.com/5630dfd19c667e7a78000051">Grid Color</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/giatro/Grid-Color" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-28</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-28</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A colourful and customizable watchface based on Grid Lite, now with BT connection monitor.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gianluca-troiani_56
 <h2 class="app-name" id="app-585572685de850e8dc00017c"><a href="https://apps.rebble.io/en_US/application/585572685de850e8dc00017c">25 o&#x27;clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/giatro/25OCLOCK" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-17</span> <span title="Latest release in the app store">Updated 2025-11-25</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-12-17</span> <span title="Latest release in the app store">Updated 2025-11-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">5x5 text grid watchface. You can set function for each line from: - Time (12:34) - Day date (SUN01) - Month date (DEC01) - Month (DECEM) - Year (Y2016) - Battery - Steps You can set font and…</p>
 </div>

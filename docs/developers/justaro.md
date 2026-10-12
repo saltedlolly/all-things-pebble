@@ -13,7 +13,7 @@ hide:
 
 # JustAro
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/65831a87c375090008b0c9a5/1) · [GitHub (JustAro01)](https://github.com/JustAro01)
 

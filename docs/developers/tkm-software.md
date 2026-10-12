@@ -13,7 +13,7 @@ hide:
 
 # TKM Software
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tkm-software_561497cfa4b13075dd000065) · [GitHub (Odja-anarchist)](https://github.com/Odja-anarchist)
 

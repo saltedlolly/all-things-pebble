@@ -13,7 +13,7 @@ hide:
 
 # infanf
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/infanf_5667793a53e4746707000021) · [GitHub (infanf)](https://github.com/infanf)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/infanf_5667793a53e4
 <h2 class="app-name" id="app-575c85fd365d2e062d000005"><a href="https://apps.repebble.com/575c85fd365d2e062d000005">MVV Abfahrtszeiten</a> <span class="app-version" title="Latest version" data-search-exclude>v1.11</span></h2>
 <a class="app-source" href="https://github.com/infanf/pebble-abfahrten" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-11</span> <span title="Latest release in the app store">Updated 2017-12-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-11</span> <span title="Latest release in the app store">Updated 2017-12-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Search for nearby train stations and bus stops in Munich and get the next departures at those stations. Deutsch Zeigt die nächstgelegenen Haltestellen im Münchner Nahverkehr und die nächsten…</p>
 </div>

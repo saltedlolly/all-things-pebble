@@ -13,7 +13,7 @@ hide:
 
 # cy8aer
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_2ebba66a03204551ec2015dc) · [GitHub (cy8aer)](https://github.com/cy8aer)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_2ebba66a032
 <h2 class="app-name" id="app-ee99a923ebaf4cf889fef841"><a href="https://apps.repebble.com/ee99a923ebaf4cf889fef841">Watchpebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/cy8aer/WatchPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-20</span> <span title="Latest release in the app store">Updated 2026-09-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-20</span> <span title="Latest release in the app store">Updated 2026-09-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">A 24 hour watchface inspired by an old 24 hour WatchPeople watch.</p>
 </div>

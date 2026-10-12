@@ -13,7 +13,7 @@ hide:
 
 # Will Sloan
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/will-sloan_5302a3109847d1c53c000037) · [GitHub (sloan-848)](https://github.com/sloan-848)
 

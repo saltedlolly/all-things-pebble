@@ -13,7 +13,7 @@ hide:
 
 # slopvibe.org
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slopvibe-org_cfadaf596b28e057a24400e3) · [GitHub (SlopVibe-org)](https://github.com/SlopVibe-org) · [Website (slopvibe.org)](https://slopvibe.org)
 

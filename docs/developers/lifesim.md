@@ -13,7 +13,7 @@ hide:
 
 # LifeSim
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lifesim_b0d2774b46ac6e81ee26a0d8) · [GitHub (leifenberg-eyal)](https://github.com/leifenberg-eyal) · [Website (kzl.io)](https://kzl.io/iondrift)
 

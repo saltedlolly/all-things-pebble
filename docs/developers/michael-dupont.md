@@ -13,7 +13,7 @@ hide:
 
 # Michael duPont
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-dupont_54b1357d1af59f571c00008d) · [GitHub (flyinactor91)](https://github.com/flyinactor91)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-dupont_54b1
 <h2 class="app-name" id="app-55542994b5b4f648720000d9"><a href="https://apps.repebble.com/55542994b5b4f648720000d9">TAFline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/flyinactor91/TAFline" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-14</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-14</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Going flying today? Put a TAF report on your wrist! TAFline pushes TAF report pins into your Pebble Timeline. Not only will you get the weather forecast, but we calculate the flight rules. Icons…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-dupont_54b1
 <h2 class="app-name" id="app-54effd7ea53e22c57700001f"><a href="https://apps.repebble.com/54effd7ea53e22c57700001f">METAR Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v3.7</span></h2>
 <a class="app-source" href="https://github.com/flyinactor91/METAR-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-27</span> <span title="Latest release in the app store">Updated 2016-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-27</span> <span title="Latest release in the app store">Updated 2016-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">At-a-glance aviation weather on your wrist made by a pilot for pilots. This open-source watchface organizes and displays the METAR report for your favorite or nearest airport. Unlike some…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-dupont_54b1
 <h2 class="app-name" id="app-55aedba47328a882af000011"><a href="https://apps.repebble.com/55aedba47328a882af000011">DSN Now</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/flyinactor91/DSN-Now-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2016-06-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2016-06-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The Deep Space Network on your Pebble. Displays the dishes at various stations that are currently communicating with our deep space probes and the type of link (uplink/downlink). Cards also…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-dupont_54b1
 <h2 class="app-name" id="app-54f934651358a963ac0000e3"><a href="https://apps.repebble.com/54f934651358a963ac0000e3">METAR Minimal</a> <span class="app-version" title="Latest version" data-search-exclude>v3.4</span></h2>
 <a class="app-source" href="https://github.com/flyinactor91/METAR-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-06</span> <span title="Latest release in the app store">Updated 2016-01-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-06</span> <span title="Latest release in the app store">Updated 2016-01-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Need to know the time? We got that. Need to know if your favorite airport is VFR, MVFR, IFR, or LIFR? We got that too...and that&#x27;s it! At-a-glance aviation weather on your wrist made by a pilot…</p>
 </div>

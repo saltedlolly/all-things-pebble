@@ -13,7 +13,7 @@ hide:
 
 # Perpetual Chaos
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/perpetual-chaos_dafb87e5b9ba2725653a8e81) · [GitHub (JuiceBoxYum)](https://github.com/JuiceBoxYum)
 

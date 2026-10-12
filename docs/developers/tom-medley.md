@@ -13,7 +13,7 @@ hide:
 
 # Tom Medley
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-medley_53206910deec0c9bdd0001ab) · [GitHub (fredley)](https://github.com/fredley) · [Website (mamota.net)](https://mamota.net)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-medley_53206910
 <h2 class="app-name" id="app-559be5f63eff7a601800003e"><a href="https://apps.repebble.com/559be5f63eff7a601800003e">3ANGLE</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.1</span></h2>
 <a class="app-source" href="https://github.com/fredley/3ANGLE" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-07</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-07</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">3Angle displays the time using a triangle connecting the hour, minute and second. A unique and stylish way to show off your Pebble! Inspired by a design by Rasam Rostami on Behance.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-medley_53206910
 <h2 class="app-name" id="app-5548f8342cfbfc5df400007b"><a href="https://apps.repebble.com/5548f8342cfbfc5df400007b">Color Fuzzy Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/fredley/Fuzzy-Colour" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-05</span> <span title="Latest release in the app store">Updated 2015-05-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-05</span> <span title="Latest release in the app store">Updated 2015-05-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Color Fuzzy Time displays the time imprecisely using words, in glorious color. A minimalist clockface with only an hour hand is also shown, and the color is picked according to the temperature…</p>
 </div>

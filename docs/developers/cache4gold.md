@@ -13,7 +13,7 @@ hide:
 
 # Cache4Gold
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cache4gold_52d0ce2074a38e46a60000d3) · [Rebble App Store](https://apps.rebble.io/en_US/developer/52d0ce2074a38e46a60000d3/1) · [GitHub (Saracco)](https://github.com/Saracco) · [GitHub (Cache4Gold)](https://github.com/Cache4Gold)
 

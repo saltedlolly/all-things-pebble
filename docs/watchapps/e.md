@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · **E** · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*30 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*30 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-4392f34266ad403eadbe4247"><a href="https://apps.repebble.com/4392f34266ad403eadbe4247">Easter Egg</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/dscheinah/easter-egg-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dscheinah.html" title="More from this developer">Dscheinah</a> · <a href="https://forum.rebble.io/t/835" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Meet Eggy, the Easter Egg! 🥚 What starts as a plain white egg won’t stay that way for long. As you move, rest, and go about your day, Eggy evolves—unlocking new features and surprises along the…</p>
 </div>
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-559dc7b7807f3e76f10000a4"><a href="https://apps.repebble.com/559dc7b7807f3e76f10000a4">eCribbage Tournaments</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/chasepeeler/pebble_ecribbage" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chase-peeler.html" title="More from this developer">Chase Peeler</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-09</span> <span title="Latest release in the app store">Updated 2015-07-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-09</span> <span title="Latest release in the app store">Updated 2015-07-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Timeline Pins for eCribbage.com* tournaments. You can subscribe to pins for different kinds of tournaments: Traditional, Variations, Kings, etc. You&#x27;ll get a reminder 30 minutes before a…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-b3a9a279975041c8b078eaef"><a href="https://apps.repebble.com/b3a9a279975041c8b078eaef">Edo Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/jceaser/pebble-edo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-cherry.html" title="More from this developer">Thomas Cherry</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This app is an Edo Clock. Edo period clocks are based on 6 hours spaced from sun rise to sun set. Summer hours are longer then winter hours.</p>
 </div>
@@ -94,7 +94,7 @@ hide:
 <h2 class="app-name" id="app-553e48c09682ccd8b60000cf"><a href="https://apps.repebble.com/553e48c09682ccd8b60000cf">Egg Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.11</span></h2>
 <a class="app-source" href="https://github.com/erisinger/Pegg-Timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/erik-risinger.html" title="More from this developer">Erik Risinger</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-27</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-27</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A handy timer on your wrist. Forget the little plastic timer on your kitchen counter -- this app is perfect for that pot of pasta or the French press brewing on the balcony. The timer can be set…</p>
 </div>
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-5691bdb1f72963ac6500001a"><a href="https://apps.repebble.com/5691bdb1f72963ac6500001a">Email for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/dnschneid/pebblegmail" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-schneider.html" title="More from this developer">David Schneider</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-10</span> <span title="Latest release in the app store">Updated 2016-08-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2016-01-10</span> <span title="Latest release in the app store">Updated 2016-08-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Read email on your wrist! Email for Pebble lets you access your Gmail accounts without having to dig out your phone.</p>
 </div>
@@ -259,7 +259,7 @@ hide:
 <h2 class="app-name" id="app-54b49f22daa5498e85000006"><a href="https://apps.repebble.com/54b49f22daa5498e85000006">Etchist</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/echosa/Etchist" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/brian-zwahr.html" title="More from this developer">Brian Zwahr</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-13</span> <span title="Latest release in the app store">Updated 2015-12-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-13</span> <span title="Latest release in the app store">Updated 2015-12-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Etchist turns your Pebble into an Etch-a-sketch! Use the select button to toggle between drawing up/down and left/right. Shake to clear the screen!</p>
 </div>

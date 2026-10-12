@@ -13,7 +13,7 @@ hide:
 
 # Carlos J. Torres
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/carlos-j-torres_560ca4179c52a7e0e100004d) · [GitHub (vlaadbrain)](https://github.com/vlaadbrain)
 

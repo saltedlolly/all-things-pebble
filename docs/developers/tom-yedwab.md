@@ -13,7 +13,7 @@ hide:
 
 # Tom Yedwab
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-yedwab_52cce55751a80d082f000038) · [GitHub (tomyedwab)](https://github.com/tomyedwab)
 

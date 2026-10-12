@@ -13,7 +13,7 @@ hide:
 
 # Christoph Bartschat
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christoph-bartschat_6b0fa772f962342b8f5dd140) · [GitHub (cmbartschat)](https://github.com/cmbartschat) · [Website (64cor.es)](https://www.64cor.es)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christoph-bartschat
 <h2 class="app-name" id="app-c99a31383623444d98b7e777"><a href="https://apps.repebble.com/c99a31383623444d98b7e777">Stretch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/cmbartschat/pebble-stretch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Minimalist watchface with animated digits</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christoph-bartschat
 <h2 class="app-name" id="app-225be1940e88497c83f73e44"><a href="https://apps.repebble.com/225be1940e88497c83f73e44">64 Cores</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/cmbartschat/pebble-64cores" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Check up on your 64 Cores game directly from your wrist Start a new game at https://64cor.es</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Plays2
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/plays2_52c872402b59ece37300000b) · [GitHub (plays2)](https://github.com/plays2)
 

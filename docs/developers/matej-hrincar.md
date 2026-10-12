@@ -13,7 +13,7 @@ hide:
 
 # Matej Hrincar
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matej-hrincar_543000f4333299f0400000bb) · [GitHub (matopeto)](https://github.com/matopeto)
 

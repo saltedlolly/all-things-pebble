@@ -13,7 +13,7 @@ hide:
 
 # pagnotta
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pagnotta_68e2cbd07e5b5d7763ad27dd) · [GitHub (pagnotta)](https://github.com/pagnotta)
 

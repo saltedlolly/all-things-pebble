@@ -13,7 +13,7 @@ hide:
 
 # ihtnc
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ihtnc_529a3cd3e627ce820a000106) · [GitHub (ihtnc)](https://github.com/ihtnc)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ihtnc_529a3cd3e627c
 <h2 class="app-name" id="app-52e08596fae0b79fd3000061"><a href="https://apps.repebble.com/52e08596fae0b79fd3000061">Smart Square (PH)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ihtnc/Pebble-SmartSquare/tree/ph_PH" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-23</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-23</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A modified WordSquare watch face (by Hudson and Jnmattern) to support tap gestures for displaying basic info. Bluetooth = &quot;X&quot; at the bottom of the screen if disconnected Battery level = Squares on…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ihtnc_529a3cd3e627c
 <h2 class="app-name" id="app-52d6fdba333d76f2f5000019"><a href="https://apps.repebble.com/52d6fdba333d76f2f5000019">Smart Square</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ihtnc/Pebble-SmartSquare" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A modified WordSquare watch face (by Hudson and Jnmattern) to support tap gestures for displaying basic info. Bluetooth = &quot;X&quot; at the bottom of the screen if disconnected Battery level = Squares on…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ihtnc_529a3cd3e627c
 <h2 class="app-name" id="app-529a3ff3e627ce021a00010c"><a href="https://apps.repebble.com/529a3ff3e627ce021a00010c">Orange Kid</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/ihtnc/Pebble-OrangeKid" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A modified A Conversation with Orange Kid watch face (by Ice2097) to support animations. Some settings are configurable via the Pebble phone app.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ihtnc_529a3cd3e627c
 <h2 class="app-name" id="app-52a8bf5bc7faf7590f00000a"><a href="https://apps.repebble.com/52a8bf5bc7faf7590f00000a">Filipino Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/ihtnc/Pebble-FilipinoTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-11</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-11</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A text watch face for the Philippine&#x27;s national language -- Filipino. Some settings are configurable via the Pebble phone app.</p>
 </div>

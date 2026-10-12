@@ -13,7 +13,7 @@ hide:
 
 # changing-k-tanaka
 
-*3 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/changing-k-tanaka_69d06e418ce708000859e6f6) · [GitHub (changing-k-tanaka)](https://github.com/changing-k-tanaka)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/changing-k-tanaka_6
 <h2 class="app-name" id="app-b7c0981249174152bdebc4a4"><a href="https://apps.repebble.com/b7c0981249174152bdebc4a4">Corridor Of Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/changing-k-tanaka/pebble-watchface-corridor-of-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-12</span> <span title="Latest release in the app store">Updated 2026-08-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-12</span> <span title="Latest release in the app store">Updated 2026-08-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Watchface for Round type Pebble Watch. You can customize the information displayed, the font color, and the background color This watch face is free. There are no additional charges. If you&#x27;d like…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/changing-k-tanaka_6
 <h2 class="app-name" id="app-1491156b8f6f46b1b305ec7c"><a href="https://apps.repebble.com/1491156b8f6f46b1b305ec7c">MetroTile</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.2</span></h2>
 <a class="app-source" href="https://github.com/changing-k-tanaka/pebble-watchface-MetroTile" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watch face is inspired by the Windows Metro UI. You can freely customize the display items, text color, and background color for the six tiles. Display options include date, time, day of the…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/changing-k-tanaka_6
 <h2 class="app-name" id="app-962806faa9fb4eb4a211acbd"><a href="https://apps.repebble.com/962806faa9fb4eb4a211acbd">Moonlit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
 <a class="app-source" href="https://github.com/changing-k-tanaka/pebble-watchface-moonlit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This watch face depicts a moonlit night and a daytime view from the moon. Shooting stars and comets may appear in the night sky. You can select and display any two of the following: weather and…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/changing-k-tanaka_6
 <h2 class="app-name" id="app-8dc9802adc3745f08cc4c913"><a href="https://apps.repebble.com/8dc9802adc3745f08cc4c913">BearBell</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/changing-k-tanaka/pebble-watchapp-bearbell" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-03</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-03</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">This app might serve as an alternative to a bear bell. Bear bells are known as an effective preventive measure for alerting bears to human presence through sound and preventing unexpected…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/changing-k-tanaka_6
 <h2 class="app-name" id="app-69d079b774b3f70009ab30cd"><a href="https://apps.repebble.com/69d079b774b3f70009ab30cd">Color View Sample</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/changing-k-tanaka/pebble-app-color-view-sample" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/823" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This app is intended for development purposes. It allows you to view and check the 64 colors available on color-capable Pebble devices (currently only “Pebble Time” and “Pebble Time Round” are…</p>
 </div>

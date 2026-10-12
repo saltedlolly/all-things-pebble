@@ -13,7 +13,7 @@ hide:
 
 # Edward
 
-*2 watchfaces and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63cabb0964fbce2e) · [GitHub (ewijaya)](https://github.com/ewijaya)
 
@@ -26,26 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63ca
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="roman missal" data-released="2026-10-08" data-updated="2026-10-09">
+<div class="app-card" data-type="watchapp" data-title="roman missal" data-released="2026-10-08" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/9e466762014d4b1ab248219f" data-search-exclude><img src="../images/apps/9e466762014d4b1ab248219f.png" alt="Roman Missal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9e466762014d4b1ab248219f"><a href="https://apps.repebble.com/9e466762014d4b1ab248219f">Roman Missal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
+<h2 class="app-name" id="app-9e466762014d4b1ab248219f"><a href="https://apps.repebble.com/9e466762014d4b1ab248219f">Roman Missal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.3</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/pebble-daily-mass" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A worn cover. A ribbon left between the pages. The familiar red words that once helped us find our place. A missal can carry the memory of years spent in prayer, and of the people who sat beside…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchface" data-title="ciné" data-released="2026-10-09" data-updated="2026-10-09">
+<div class="app-card" data-type="watchface" data-title="ciné" data-released="2026-10-09" data-updated="2026-10-11">
 <a class="app-shot" href="https://apps.repebble.com/a4aba1597dde497dbb3b66b3" data-search-exclude><img src="../images/apps/a4aba1597dde497dbb3b66b3.png" alt="CINÉ" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a4aba1597dde497dbb3b66b3"><a href="https://apps.repebble.com/a4aba1597dde497dbb3b66b3">CINÉ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-a4aba1597dde497dbb3b66b3"><a href="https://apps.repebble.com/a4aba1597dde497dbb3b66b3">CINÉ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/pebble-cine" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">CINÉ: Cinema on Your Wrist Sometimes, waiting for the kettle, you check the time and remember a cinema that isn&#x27;t there anymore. The poster outside. The person beside you. That walk home, still…</p>
+<p class="app-desc">CINÉ: Cinema on Your Wrist Some films keep their own time. Two hours in a dark room can stay with us for decades. We watch the same scene years later, and it hasn&#x27;t changed. We have. I can forget…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="popeye g&amp;w" data-released="2026-10-05" data-updated="2026-10-08">
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63ca
 <h2 class="app-name" id="app-e9cb2950ca21440798fb1db8"><a href="https://apps.repebble.com/e9cb2950ca21440798fb1db8">Popeye G&amp;W</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/popeye-gw" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A whole childhood on one small screen. There was a time when a whole afternoon could fit in your hands. A little boat, a few black shapes, and the solemn promise that this would be your last game…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63ca
 <h2 class="app-name" id="app-8e8e130581e7467d9d7b0138"><a href="https://apps.repebble.com/8e8e130581e7467d9d7b0138">Popeye G&amp;W Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/popeye-gw" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Old-school charm. Right on time. Popeye G&amp;W Clock is a nostalgic LCD watchface with an active harbour scene. Olive Oyl throws, Popeye moves and catches, and Brutus joins the action in crisp…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63ca
 <h2 class="app-name" id="app-f63e6ed24301414a95909564"><a href="https://apps.repebble.com/f63e6ed24301414a95909564">KasugaBus</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.2</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/kasugabus-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Local buses for Minami-kasugaoka, Ibaraki, Osaka, Japan. KasugaBus shows the next scheduled Kintetsu and Hankyu buses at eight stops around Minami-kasugaoka: Kasugaoka Koen, Toge, Midorigaoka…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63ca
 <h2 class="app-name" id="app-9882f741750c43eb8309777e"><a href="https://apps.repebble.com/9882f741750c43eb8309777e">Orationes</a> <span class="app-version" title="Latest version" data-search-exclude>v0.14.0</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/pebble-orationes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-03</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-03</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Make time for prayer. On your wrist. Available offline. Orationes is a Catholic prayer book for Pebble Time 2. Large text and clear contrast help you focus on the words. Your prayers stay on your…</p>
 </div>

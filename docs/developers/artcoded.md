@@ -13,7 +13,7 @@ hide:
 
 # \_ArtCoded
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/artcoded_2e1c2aef27997fd7e0a7b956) · [GitHub (art-coded)](https://github.com/art-coded)
 

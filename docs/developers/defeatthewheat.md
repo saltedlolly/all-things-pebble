@@ -13,7 +13,7 @@ hide:
 
 # defeatthewheat
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/defeatthewheat_533068c743aeae77730001d8) · [GitHub (defeatthewheat)](https://github.com/defeatthewheat)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/defeatthewheat_5330
 <h2 class="app-name" id="app-54fa28ca782898750100008f"><a href="https://apps.repebble.com/54fa28ca782898750100008f">The Swinging Friar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/defeatthewheat/Swinging-Friar-Face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-06</span> <span title="Latest release in the app store">Updated 2015-03-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-06</span> <span title="Latest release in the app store">Updated 2015-03-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface is an homage to San Diego&#x27;s baseball mascot. The watchface is designed to look like an analog watch, where the Friar&#x27;s swinging arms act as a minute hand.</p>
 </div>

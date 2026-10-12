@@ -13,7 +13,7 @@ hide:
 
 # Josh Gordon
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh-gordon_530a766d60f21fec5f00006f) · [GitHub (joshgordon)](https://github.com/joshgordon) · [Website (blog.joshgordon.net)](http://blog.joshgordon.net/pebble/)
 

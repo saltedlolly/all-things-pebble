@@ -13,7 +13,7 @@ hide:
 
 # Werknaam
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/werknaam_67dd9c9fd943930009185733) · [GitHub (gbougakov)](https://github.com/gbougakov) · [Website (werknaam.be)](https://werknaam.be)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/werknaam_67dd9c9fd9
 <h2 class="app-name" id="app-68fd14f9504cc500097101e2"><a href="https://apps.repebble.com/68fd14f9504cc500097101e2">Commuter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/gbougakov/commuter-pebble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-10-25</span> <span title="Latest release in the app store">Updated 2025-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-10-25</span> <span title="Latest release in the app store">Updated 2025-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Quickly check SNCB/NMBS (Belgian Railways) train schedules from your wrist. Save favourite stations from your phone to quickly plot routes on your watch. Create &quot;scheduled routes&quot; to immediately…</p>
 </div>

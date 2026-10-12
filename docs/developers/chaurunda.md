@@ -13,7 +13,7 @@ hide:
 
 # Chaurunda
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chaurunda_787bccce6f0ac6c851392638) · [Codeberg (Chaurunda)](https://codeberg.org/Chaurunda)
 

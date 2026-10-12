@@ -1,5 +1,5 @@
 ---
-title: "Copper Moth Software"
+title: "PopOff Software"
 hide:
   - toc
 ---
@@ -11,11 +11,11 @@ hide:
 
 <div class="dev-intro" markdown>
 
-# Copper Moth Software
+# PopOff Software
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/copper-moth-software_ab8030369140522ee0ce5a5b)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/popoff-software_ab8030369140522ee0ce5a5b)
 
 </div>
 </div>
@@ -26,24 +26,24 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/copper-moth-softwar
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="us soccer clubs app" data-released="2026-10-09" data-updated="2026-10-09">
+<div class="app-card" data-type="watchapp" data-title="us soccer clubs app" data-released="2026-10-09" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/dd43ab18532144fa9a9e002d" data-search-exclude><img src="../images/apps/dd43ab18532144fa9a9e002d.png" alt="US Soccer Clubs App" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-dd43ab18532144fa9a9e002d"><a href="https://apps.repebble.com/dd43ab18532144fa9a9e002d">US Soccer Clubs App</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-dd43ab18532144fa9a9e002d"><a href="https://apps.repebble.com/dd43ab18532144fa9a9e002d">US Soccer Clubs App</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://coppermothsoftware.com" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Follow your MLS, USL Championship or USL League One club from the app menu. The app version of the US Soccer Clubs watch face, with both views one button press apart. It opens on the screen you…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchface" data-title="us soccer clubs" data-released="2026-10-05" data-updated="2026-10-05">
+<div class="app-card" data-type="watchface" data-title="us soccer clubs" data-released="2026-10-05" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/2456a7484f0844c7b7266677" data-search-exclude><img src="../images/apps/2456a7484f0844c7b7266677.png" alt="US Soccer Clubs" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2456a7484f0844c7b7266677"><a href="https://apps.repebble.com/2456a7484f0844c7b7266677">US Soccer Clubs</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-2456a7484f0844c7b7266677"><a href="https://apps.repebble.com/2456a7484f0844c7b7266677">US Soccer Clubs</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://coppermothsoftware.com" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Follow your MLS, USL Championship or USL League One club from your wrist. In the settings, pick your league, then your club, then a view: - Team: club logo, position (in your conference, where the…</p>
 </div>

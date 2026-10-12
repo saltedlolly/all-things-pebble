@@ -13,7 +13,7 @@ hide:
 
 # Nick Penkov
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53ef190611cff6b7bd000063/1) · [GitHub (npenkov)](https://github.com/npenkov) · [Website (pebslee.com)](http://www.pebslee.com)
 

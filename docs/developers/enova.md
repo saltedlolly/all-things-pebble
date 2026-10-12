@@ -13,7 +13,7 @@ hide:
 
 # Enova
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55f606cf883da5793f000019/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/elijahzawesome_55f606cf883da5793f000019) · [GitHub (Enovale)](https://github.com/Enovale) · [GitHub (Torivon)](https://github.com/Torivon) · [GitHub (ElijahZAwesome)](https://github.com/ElijahZAwesome)
 

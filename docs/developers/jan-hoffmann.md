@@ -13,7 +13,7 @@ hide:
 
 # Jan Hoffmann
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jan-hoffmann_57dafd212d0cc80b6f0000d3) · [Rebble App Store](https://apps.rebble.io/en_US/developer/57dafd212d0cc80b6f0000d3/1) · [GitHub (janh)](https://github.com/janh)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jan-hoffmann_57dafd
 <h2 class="app-name" id="app-580525f2c988667eaa00000f"><a href="https://apps.repebble.com/580525f2c988667eaa00000f">Mensa Stuttgart</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/janh/mensa-stuttgart" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-17</span> <span title="Latest release in the app store">Updated 2018-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MPL-2.0</span> <span title="First published in the app store">Released 2016-10-17</span> <span title="Latest release in the app store">Updated 2018-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Diese App zeigt jederzeit das aktuelle Essensangebot der Mensen des Studierendenwerks Stuttgart. Das Angebot der kommenden Tage wird gespeichert, sodass der Zugriff auch ohne Internetverbindung…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jan-hoffmann_57dafd
 <h2 class="app-name" id="app-59e4e5870dfc32823d00283b"><a href="https://apps.rebble.io/en_US/application/59e4e5870dfc32823d00283b">Snake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/janh/snake-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-10-16</span> <span title="Latest release in the app store">Updated 2017-10-17</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MPL-2.0</span> <span title="First published in the app store">Released 2017-10-16</span> <span title="Latest release in the app store">Updated 2017-10-17</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">With this watchface inspired by the classic game, little snakes crawl around on your watch to show you the time. Features: - Different date formats with year or weekday - Shows step count, heart…</p>
 </div>

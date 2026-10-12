@@ -13,7 +13,7 @@ hide:
 
 # julpel8
 
-*3 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julpel8_4832e5dc5bcac873d9cd9ff7) · [GitHub (julpel8)](https://github.com/julpel8)
 

@@ -13,7 +13,7 @@ hide:
 
 # David Konsumer
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-konsumer_52bcf29983ed912283000028) · [GitHub (konsumer)](https://github.com/konsumer) · [Website (en.wikipedia.org)](https://en.wikipedia.org/wiki/Oblique_Strategies)
 

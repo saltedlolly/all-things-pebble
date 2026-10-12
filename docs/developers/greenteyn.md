@@ -13,7 +13,7 @@ hide:
 
 # Greenteyn
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greenteyn_2e30445a303d4cff7ad4c5df) · [GitHub (Greenteyn)](https://github.com/Greenteyn)
 

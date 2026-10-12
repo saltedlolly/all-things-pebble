@@ -13,7 +13,7 @@ hide:
 
 # Nicholas Knouf
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/585045b977324b357a0004ae/1) · [GitHub (zeitkunst)](https://github.com/zeitkunst) · [Website (zeitkunst.org)](http://zeitkunst.org)
 

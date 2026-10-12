@@ -13,7 +13,7 @@ hide:
 
 # Scott Harrison
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/scott-harrison_52f03487af0eab46cf000ce6) · [GitHub (scottrules44)](https://github.com/scottrules44) · [Website (pebbeep.web.app)](https://pebbeep.web.app)
 

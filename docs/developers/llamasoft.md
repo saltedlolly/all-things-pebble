@@ -13,7 +13,7 @@ hide:
 
 # Llamasoft
 
-*7 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/llamasoft_5587e2694fa1ea20620000ba) · [GitHub (an-ox)](https://github.com/an-ox) · [Website (llamasoft.co.uk)](http://llamasoft.co.uk)
 

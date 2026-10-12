@@ -13,7 +13,7 @@ hide:
 
 # jcit
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jcit_542040a2d6b6c950fa000132) · [GitHub (jccit)](https://github.com/jccit)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jcit_542040a2d6b6c9
 <h2 class="app-name" id="app-67a8c311b5e348000915b07b"><a href="https://apps.repebble.com/67a8c311b5e348000915b07b">PebbleRail</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/jccit/pebblerail" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/270" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-02-09</span> <span title="Latest release in the app store">Updated 2025-12-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2025-02-09</span> <span title="Latest release in the app store">Updated 2025-12-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">View live UK train times from your Pebble! Features: * View departures from nearby stations * See upcoming and previous stops * Pin departure/arrival to the timeline Timeline icons by LCP Powered…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Jeremy Marzka
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jeremy-marzka_5574418b4604f6b33c000026) · [GitHub (jamarzka)](https://github.com/jamarzka)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jeremy-marzka_55744
 <h2 class="app-name" id="app-558ed93ea6c6cce3c60000a5"><a href="https://apps.repebble.com/558ed93ea6c6cce3c60000a5">Kodi Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jamarzka/pebble-kodi-remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple and easy-to-use remote control for Kodi. Features: - Easy configuration for multiple devices - Separate controls for playback and navigation - Shake to Play/Pause or Select Issues: The…</p>
 </div>

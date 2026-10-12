@@ -13,7 +13,7 @@ hide:
 
 # Tribela
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tribela_55b9ef4341919825e8000027) · [GitHub (tribela)](https://github.com/tribela)
 

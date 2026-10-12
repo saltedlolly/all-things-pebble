@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · **O** · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*42 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*43 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -94,7 +94,7 @@ hide:
 <h2 class="app-name" id="app-576835410cc8f53b430003a5"><a href="https://apps.repebble.com/576835410cc8f53b430003a5">Octant</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/cgfrost/octant" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/christopher-frost.html" title="More from this developer">Christopher Frost</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-20</span> <span title="Latest release in the app store">Updated 2016-10-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-06-20</span> <span title="Latest release in the app store">Updated 2016-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Simple watch face that uses Jolla style font and icons.</p>
 </div>
@@ -105,7 +105,7 @@ hide:
 <h2 class="app-name" id="app-58a1671e6ca3876977000242"><a href="https://apps.rebble.io/en_US/application/58a1671e6ca3876977000242">OctoPrint Monitor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/dieki-n/OctoprinterPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/victor-noordhoek.html" title="More from this developer">Victor Noordhoek</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-13</span> <span title="Latest release in the app store">Updated 2017-02-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-02-13</span> <span title="Latest release in the app store">Updated 2017-02-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Monitor your Octoprint-controlled 3D printer from your watch! Shows print time remaining, progress, and bed/nozzle temperature.</p>
 </div>
@@ -155,6 +155,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/12b5466ad2f74cb783d761cb" data-search-exclude><img src="../images/apps/12b5466ad2f74cb783d761cb.png" alt="Old Eyes" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-12b5466ad2f74cb783d761cb"><a href="https://apps.repebble.com/12b5466ad2f74cb783d761cb">Old Eyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/ajack2001my/OldEyes" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/ajack2001my.html" title="More from this developer">ajack2001my</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">First Attempt to publish</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/558782c83ae5e507fc000081" data-search-exclude><img src="../images/apps/558782c83ae5e507fc000081.png" alt="Old Fogies Can&#x27;t See Worth S***" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-558782c83ae5e507fc000081"><a href="https://apps.repebble.com/558782c83ae5e507fc000081">Old Fogies Can&#x27;t See Worth S***</a> <span class="app-version" title="Latest version" data-search-exclude>v1.91</span></h2>
@@ -168,10 +179,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/6ac8aed81f607900091116a0" data-search-exclude><img src="../images/apps/6ac8aed81f607900091116a0.png" alt="OldEyes" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6ac8aed81f607900091116a0"><a href="https://apps.rebble.io/en_US/application/6ac8aed81f607900091116a0">OldEyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-6ac8aed81f607900091116a0"><a href="https://apps.rebble.io/en_US/application/6ac8aed81f607900091116a0">OldEyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://www.facebook.com/groups/pebble.junkies/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/adrian-chiang.html" title="More from this developer">Adrian Chiang</a> · <a href="https://forum.rebble.io/t/1413" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-12</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Tells time. Show the hour as a number in 24h format, and a line around the watch screen to denote the minutes. A Shake to the wrist with show the weather, temperature in celcius, AQI, and current…</p>
 </div>
@@ -215,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-52cb5f5f6e5f7079c80000c6"><a href="https://apps.repebble.com/52cb5f5f6e5f7079c80000c6">On11</a> <span class="app-version" title="Latest version" data-search-exclude>v4.1</span></h2>
 <a class="app-source" href="https://github.com/heqian/On11" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/qian-he.html" title="More from this developer">Qian He</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">On11 is an activity tracker app that can monitor your physical activity 24 × 7. It tells you how much time you spent on sitting, walking, jogging, and sleeping. It also works as a pedometer just…</p>
 </div>
@@ -226,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-55a89c4b0dc1ce64e5000060"><a href="https://apps.repebble.com/55a89c4b0dc1ce64e5000060">On11 Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/heqian/On11" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/qian-he.html" title="More from this developer">Qian He</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-17</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-07-17</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Reborn from one of the most famous and earliest activity tracking watchfaces for the original Pebble, On11. On11 Time monitors your physical activity 24/7. It tells you how many steps you took and…</p>
 </div>
@@ -270,7 +281,7 @@ hide:
 <h2 class="app-name" id="app-53f5ecd07fb85ba7730000e4"><a href="https://apps.repebble.com/53f5ecd07fb85ba7730000e4">OnlyTRFuzzy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ersindurna/OnlyTRFuzzy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ersin-durna.html" title="More from this developer">Ersin Durna</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-21</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-21</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Fuzzy Watchface in Turkish with Calendar at the top and Digital clock at he bottom Left, Battery percentage in numbers at Bottom Right. Needs some touch for the battery hog. But no memory issues...</p>
 </div>
@@ -325,7 +336,7 @@ hide:
 <h2 class="app-name" id="app-529a3ff3e627ce021a00010c"><a href="https://apps.repebble.com/529a3ff3e627ce021a00010c">Orange Kid</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/ihtnc/Pebble-OrangeKid" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ihtnc.html" title="More from this developer">ihtnc</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A modified A Conversation with Orange Kid watch face (by Ice2097) to support animations. Some settings are configurable via the Pebble phone app.</p>
 </div>
@@ -336,7 +347,7 @@ hide:
 <h2 class="app-name" id="app-67c5071bb7a02300092ba08c"><a href="https://apps.rebble.io/en_US/application/67c5071bb7a02300092ba08c">Orbit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/flynnD273/orbit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/flynn-duniho.html" title="More from this developer">Flynn Duniho</a> · <a href="https://forum.rebble.io/t/735" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A space-themed watchface where the positions of the celestial bodies represent the time. The large orbit also serves as a battery level indicator.</p>
 </div>
@@ -369,7 +380,7 @@ hide:
 <h2 class="app-name" id="app-57dd89262d0cc8922f0002ed"><a href="https://apps.repebble.com/57dd89262d0cc8922f0002ed">Orbit 2.0 - TJHSST Schedule</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/cptspck/Orbit2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/keeganlanz.html" title="More from this developer">KeeganLanz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-17</span> <span title="Latest release in the app store">Updated 2016-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-17</span> <span title="Latest release in the app store">Updated 2016-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Orbit is a simple watchface with the hands represented by bodies orbiting each other (the hour hand orbits the center, and the minute hand orbits the hour hand). Version 2 includes getting the…</p>
 </div>
@@ -380,7 +391,7 @@ hide:
 <h2 class="app-name" id="app-34d08447e48e40f0be36d5d7"><a href="https://apps.repebble.com/34d08447e48e40f0be36d5d7">Orbit Dash</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/gamingrobot/orbit-dash-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gamingrobot.html" title="More from this developer">gamingrobot</a> · <a href="https://forum.rebble.io/t/1069" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-19</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-19</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Orbit watchface inspired by Kvaesitso&#x27;s Orbit Clock You can customize the background color, clock color, digit color, and show/hide date.</p>
 </div>
@@ -435,7 +446,7 @@ hide:
 <h2 class="app-name" id="app-56590d7bdaf7fffed3000039"><a href="https://apps.repebble.com/56590d7bdaf7fffed3000039">Oregon Owl</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_oregon_owl" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/clach04.html" title="More from this developer">clach04</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-28</span> <span title="Latest release in the app store">Updated 2015-11-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2015-11-28</span> <span title="Latest release in the app store">Updated 2015-11-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Oregon hat snatching owl</p>
 </div>
@@ -468,7 +479,7 @@ hide:
 <h2 class="app-name" id="app-594b1d660dfc32acc7000133"><a href="https://apps.rebble.io/en_US/application/594b1d660dfc32acc7000133">Owl Cave Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/cr0ybot/owl-cave-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cr0ybot.html" title="More from this developer">cr0ybot</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-06-22</span> <span title="Latest release in the app store">Updated 2017-06-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-06-22</span> <span title="Latest release in the app store">Updated 2017-06-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by Twin Peaks and the Owl Cave Ring. Currently it does nothing except tell the time, though I am not responsible for any strange things that may happen to you while wearing it.</p>
 </div>

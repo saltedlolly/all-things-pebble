@@ -13,7 +13,7 @@ hide:
 
 # David Watson
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-watson_564ba91d0fa9d91476000004) · [GitHub (ddwatson)](https://github.com/ddwatson) · [Website (sites.google.com)](https://sites.google.com/site/pebblelcars/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-watson_564ba9
 <h2 class="app-name" id="app-57efaa5605e4b118850001a6"><a href="https://apps.repebble.com/57efaa5605e4b118850001a6">Step in Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/ddwatson/Step_in_Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-01</span> <span title="Latest release in the app store">Updated 2017-06-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2016-10-01</span> <span title="Latest release in the app store">Updated 2017-06-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">All: Idle and Sleep are fixed and obey the settings as I replaced the builtin app_timer functionality. This watchface is a reconstruction of the Strider watchface with some additional custom…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-watson_564ba9
 <h2 class="app-name" id="app-57adf202bb85edbc76000241"><a href="https://apps.repebble.com/57adf202bb85edbc76000241">NCC-1701D LCARS v1</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/ddwatson/Pebble1701LCARS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-12</span> <span title="Latest release in the app store">Updated 2017-05-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-08-12</span> <span title="Latest release in the app store">Updated 2017-05-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Everyone: Idle and Sleep are now fixed and respond to the settings The captain has assigned the task of implementing an effective display for his wrist based ship status device, it has been many…</p>
 </div>

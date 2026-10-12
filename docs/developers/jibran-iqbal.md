@@ -13,7 +13,7 @@ hide:
 
 # Jibran Iqbal
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jibran-iqbal_69aa1c09dece040009f8eeb2) · [GitHub (jibraniqbal666)](https://github.com/jibraniqbal666)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jibran-iqbal_69aa1c
 <h2 class="app-name" id="app-69aaf1e62f1bed0009deb65b"><a href="https://apps.repebble.com/69aaf1e62f1bed0009deb65b">Qibla - Prayer Times &amp; Compass (NEW)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11</span></h2>
 <a class="app-source" href="https://github.com/jibraniqbal666/pebble-qibla" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/821" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-06</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-06</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Prayer times &amp; notifications on your Timeline, plus a Qibla compass for your Pebble. Automatically calculates prayer times based on your location - so make sure &quot;location services&quot; is enabled on…</p>
 </div>

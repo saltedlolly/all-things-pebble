@@ -13,7 +13,7 @@ hide:
 
 # Akshay Dixit
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/akshay-dixit_53d414cbeafa28ae64000085) · [GitHub (afuhrtrumpet)](https://github.com/afuhrtrumpet) · [Website (meteorfliesdrone.meteor.com)](http://meteorfliesdrone.meteor.com)
 

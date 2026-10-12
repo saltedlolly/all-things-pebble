@@ -13,7 +13,7 @@ hide:
 
 # lamasters
 
-*3 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lamasters_5ca7f156835c6200017635d5) · [Rebble App Store](https://apps.rebble.io/en_US/developer/5ca7f156835c6200017635d5/1) · [GitHub (lamasters)](https://github.com/lamasters)
 

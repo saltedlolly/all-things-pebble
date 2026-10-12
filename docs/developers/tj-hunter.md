@@ -13,7 +13,7 @@ hide:
 
 # TJ Hunter
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tj-hunter_531a19549091c45874000005) · [GitHub (Hypnopompia)](https://github.com/Hypnopompia) · [Website (twitter.com)](https://twitter.com/hunter_tj)
 

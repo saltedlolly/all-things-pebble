@@ -13,7 +13,7 @@ hide:
 
 # clach04
 
-*10 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*10 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550a3300007a/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/clach04_5524604a9de9550a3300007a) · [GitHub (clach04)](https://github.com/clach04)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-69a50e6dc698570008fa2fc6"><a href="https://apps.rebble.io/en_US/application/69a50e6dc698570008fa2fc6">otp4p</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/clach04/pebble-otp4p" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-02</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-02</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Offline config (via Clay) [TOTP](http://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) based two-factor authentication manager for Pebble. It generates **T**ime-based…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-693defeac098f800098a8394"><a href="https://apps.rebble.io/en_US/application/693defeac098f800098a8394">7 timezones</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/clach04/pebble_tz/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/254" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-13</span> <span title="Latest release in the app store">Updated 2026-03-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2025-12-13</span> <span title="Latest release in the app store">Updated 2026-03-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Newer version of Minute TZ - with 7 (seven) Time Zones Pebble Watchface For Multiple Timezones * Display time, updating once per minute, using system font * Display Battery power * Display notice…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-57cdf8c0a789e1e0b800000d"><a href="https://apps.repebble.com/57cdf8c0a789e1e0b800000d">Rota Minute</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_rota_minute/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/617" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-05</span> <span title="Latest release in the app store">Updated 2026-02-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2016-09-05</span> <span title="Latest release in the app store">Updated 2026-02-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Supports Pebble versions from Pebble 2 (Diorite) to Aplite with quick view support. * Handles Quick Event view * Display time, updating once per minute * 12/14 hour display * Date * Display…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-59c57619461a8dbd6500037b"><a href="https://apps.rebble.io/en_US/application/59c57619461a8dbd6500037b">Minute TZ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/clach04/pebble_tz" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-09-22</span> <span title="Latest release in the app store">Updated 2017-11-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2017-09-22</span> <span title="Latest release in the app store">Updated 2017-11-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble Watchface For Multiple Timezones * Display time, updating once per minute, using system font * Display Battery power * Display notice when Bluetooth is disconnected * Have a config/settings…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-56e3a6325d0b2e83b000003f"><a href="https://apps.repebble.com/56e3a6325d0b2e83b000003f">Colony</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_colony" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2017-01-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2017-01-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">* Display time, updating once per minute- using system font * Display Battery power * Display notice when Bluetooth is disconnected * Have a config/settings option on Phone to configure: *…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-56d32355d4f5886aa2000022"><a href="https://apps.repebble.com/56d32355d4f5886aa2000022">Simple Step</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_simple_step" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-28</span> <span title="Latest release in the app store">Updated 2016-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2016-02-28</span> <span title="Latest release in the app store">Updated 2016-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple digital watch face with step count. Supports Aplite (original Pebble) by simply hiding the step counter. Offline config/settings Pebble Time and Chalk support color selection. Optional…</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-5606177b1ba070a986000032"><a href="https://apps.repebble.com/5606177b1ba070a986000032">Jupiter Mass Xen</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_JupiterMass/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-26</span> <span title="Latest release in the app store">Updated 2016-06-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-09-26</span> <span title="Latest release in the app store">Updated 2016-06-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Basic digital watch face for the Pebble smartwatch. Features: * Updates once per minute * Includes battery status * Supports Aplite (original Pebble), Basalt (Pebble Time), and Chalk (Pebble Time…</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-56590d7bdaf7fffed3000039"><a href="https://apps.repebble.com/56590d7bdaf7fffed3000039">Oregon Owl</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_oregon_owl" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-28</span> <span title="Latest release in the app store">Updated 2015-11-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2015-11-28</span> <span title="Latest release in the app store">Updated 2015-11-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Oregon hat snatching owl</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-55d0e5b635a72bac4a000030"><a href="https://apps.repebble.com/55d0e5b635a72bac4a000030">Paragade</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_Paragade/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-16</span> <span title="Latest release in the app store">Updated 2015-09-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-08-16</span> <span title="Latest release in the app store">Updated 2015-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Paragade/Renegon, Paragon or Renegade? Basic digital watch face for the Pebble smartwatch. Features: * Updates once per minute * Includes battery status * Supports Aplite (original Pebble) and…</p>
 </div>
@@ -131,7 +131,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-556a4727da4c418e7800006f"><a href="https://apps.repebble.com/556a4727da4c418e7800006f">Jupiter Mass</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_JupiterMass" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-30</span> <span title="Latest release in the app store">Updated 2015-09-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-05-30</span> <span title="Latest release in the app store">Updated 2015-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Note see new watchface Jupter Mass Xen, which has a slightly bigger font for time. Simple digital watchface that updates once a minute. For Basalt (Time) and Aplite (Pebble). Includes battery…</p>
 </div>
@@ -142,7 +142,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5524604a9de9550
 <h2 class="app-name" id="app-55ef9806dd0987a7c7000079"><a href="https://apps.repebble.com/55ef9806dd0987a7c7000079">CapNion</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/clach04/watchface_CapNion/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-09</span> <span title="Latest release in the app store">Updated 2015-09-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-09-09</span> <span title="Latest release in the app store">Updated 2015-09-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Basic digital watch face for the Pebble Time (Basalt only) smartwatch. Features: * Updates once per minute * Includes battery status * Displays when Bluetooth connection is lost and optionally…</p>
 </div>

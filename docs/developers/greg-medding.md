@@ -13,7 +13,7 @@ hide:
 
 # Greg Medding
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg-medding_54ab969275975bf267000077) · [GitHub (gregmedd)](https://github.com/gregmedd)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg-medding_54ab96
 <h2 class="app-name" id="app-558ed3975dfd12a7a6000097"><a href="https://apps.repebble.com/558ed3975dfd12a7a6000097">Marriage Equality all the Things!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/gregmedd/pebble_all_the_things" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Celebrate LGBT pride and marriage equality for all 50 US states with this watchface! The heart beats while bluetooth is connected.</p>
 </div>

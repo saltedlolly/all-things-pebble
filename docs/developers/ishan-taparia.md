@@ -13,7 +13,7 @@ hide:
 
 # Ishan Taparia
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ishan-taparia_547eb4213688a2a318000167) · [GitHub (ITaparia)](https://github.com/ITaparia) · [Website (itaparia.github.io)](http://itaparia.github.io/)
 

@@ -13,7 +13,7 @@ hide:
 
 # comicmuse
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comicmuse_5349837b4586aa348400033b) · [GitHub (comicmuse)](https://github.com/comicmuse)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comicmuse_5349837b4
 <h2 class="app-name" id="app-5609b2db60c427e11b000080"><a href="https://apps.repebble.com/5609b2db60c427e11b000080">Six Nations Rugby 2016</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/comicmuse/SixNations" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-28</span> <span title="Latest release in the app store">Updated 2017-02-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-28</span> <span title="Latest release in the app store">Updated 2017-02-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Here we are, back in time for the Six Nations. See the scores and match details for every Six Nations match. This is the RWC app with a new feed, but will continue to work on it during the…</p>
 </div>

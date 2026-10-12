@@ -13,7 +13,7 @@ hide:
 
 # Leon Matthes
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leon-matthes_691e21ec34f4140008daaea5) · [GitHub (LeonMatthes)](https://github.com/LeonMatthes)
 

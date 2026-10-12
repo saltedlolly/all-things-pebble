@@ -13,7 +13,7 @@ hide:
 
 # Willow Systems
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5d9ac26cc393f54d6b5f5443/1) · [GitHub (Willow-Systems)](https://github.com/Willow-Systems) · [Website (willow.systems)](https://willow.systems/ha)
 

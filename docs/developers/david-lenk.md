@@ -13,7 +13,7 @@ hide:
 
 # David Lenk
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-lenk_550c6a346caaed82dd000013) · [GitHub (littleprojects)](https://github.com/littleprojects) · [Website (opensprinkler.com)](https://opensprinkler.com)
 

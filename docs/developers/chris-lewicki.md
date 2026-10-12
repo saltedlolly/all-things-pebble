@@ -13,7 +13,7 @@ hide:
 
 # Chris Lewicki
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewicki_53f25ba1e45d533568000139) · [GitHub (chrislewicki)](https://github.com/chrislewicki) · [Website (lewicki.dev)](https://lewicki.dev)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewicki_53f25
 <h2 class="app-name" id="app-69153581a0d99d0009ff0a03"><a href="https://apps.repebble.com/69153581a0d99d0009ff0a03">A Little More</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2.0</span></h2>
 <a class="app-source" href="https://github.com/chrislewicki/A-Little-More" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-13</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2025-11-13</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A full remake of my face A Little Less, with more features and much cleaner code. Complications in each corner can be customized to be any of the following: - Battery - Temperature - Day of week …</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewicki_53f25
 <h2 class="app-name" id="app-4a2a52d2490b4e9a8fd66073"><a href="https://apps.repebble.com/4a2a52d2490b4e9a8fd66073">F-84W</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/chrislewicki/F-84W" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A (mostly) faithful recreation of the Casio F-84W, the Japan-exclusive, and much better looking, older brother of the classic F-91W. Just like the real watch, it can chime at the top of every…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewicki_53f25
 <h2 class="app-name" id="app-71e51f9f204444e39374282a"><a href="https://apps.repebble.com/71e51f9f204444e39374282a">LIFX Client</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chrislewicki/lifx-client" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your LIFX smart lights from your Pebble. LIFX Client lets you adjust brightness and color temperature on the fly, or pick from a palette of colors. Features: - Adjust brightness in 5%…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewicki_53f25
 <h2 class="app-name" id="app-699b8db5c8946800093f0603"><a href="https://apps.repebble.com/699b8db5c8946800093f0603">Persistent Reminders</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chrislewicki/persistent-reminders" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-02-22</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-02-22</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A reminders app for people who need reminders for their reminders. Dictate the thing you need to be reminded of and when (i.e. &quot;Do the dishes in 1 hour 30 minutes&quot;), and Persistent Reminders will…</p>
 </div>

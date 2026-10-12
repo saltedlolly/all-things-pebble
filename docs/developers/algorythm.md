@@ -13,7 +13,7 @@ hide:
 
 # Algorythm
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/algorythm_69de42ea8f0b7e00099137f9) · [GitHub (djeppers)](https://github.com/djeppers)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/algorythm_69de42ea8
 <h2 class="app-name" id="app-69e29adc4a2e3d0009e2f3e1"><a href="https://apps.repebble.com/69e29adc4a2e3d0009e2f3e1">Drift</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.5</span></h2>
 <a class="app-source" href="https://github.com/djeppers/drift_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-05-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-05-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by Japanese wall clocks where the hands seem to hover above the face, casting soft shadows as they move. No numbers, no markers, no center point - just floating hands and a quiet red dot…</p>
 </div>

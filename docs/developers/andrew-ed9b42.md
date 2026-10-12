@@ -13,7 +13,7 @@ hide:
 
 # Andrew
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew_52c15ee1cf5385b72200005b) · [GitHub (as-j)](https://github.com/as-j)
 

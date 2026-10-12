@@ -13,7 +13,7 @@ hide:
 
 # Alexander Kropochev
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alexander-kropochev_53c4cc43e524ad62230000b4) · [GitHub (kropochev)](https://github.com/kropochev) · [Website (kropochev.com)](http://kropochev.com)
 

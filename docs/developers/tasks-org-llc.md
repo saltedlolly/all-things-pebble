@@ -13,7 +13,7 @@ hide:
 
 # Tasks.org, LLC
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tasks-org-llc_e695d583988d356bd2ec81e0) · [GitHub (tasks)](https://github.com/tasks) · [Website (tasks.org)](https://tasks.org)
 

@@ -13,7 +13,7 @@ hide:
 
 # jRay
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jray_e8bb00a8353c62f3432d4167) · [GitHub (TheMott27)](https://github.com/TheMott27)
 

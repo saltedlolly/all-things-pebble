@@ -13,7 +13,7 @@ hide:
 
 # ollien
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ollien_ccb9291cdf771299703aa2ae) · [GitHub (ollien)](https://github.com/ollien)
 

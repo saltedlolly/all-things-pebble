@@ -13,7 +13,7 @@ hide:
 
 # Spud
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/spud_a8592d0ab4efe177a57b17ea) · [GitHub (spudje)](https://github.com/spudje)
 

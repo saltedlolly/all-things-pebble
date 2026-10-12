@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · **B** · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*102 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*102 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -127,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-6a2224e4b9f0710009879387"><a href="https://apps.rebble.io/en_US/application/6a2224e4b9f0710009879387">Bart Stop</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/chughes87/pebble_parkway/tree/master/bart-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lavendercorp.html" title="More from this developer">LavenderCorp</a> · <a href="https://forum.rebble.io/t/1024" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Configure what bart stop you want to track on your phone and this app will show the latest departure times for all destinations</p>
 </div>
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-55cb4982ce49c23880000064"><a href="https://apps.repebble.com/55cb4982ce49c23880000064">Battery Logger</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/cfg1/pebble-battery_logger" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/fg.html" title="More from this developer">FG</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-12</span> <span title="Latest release in the app store">Updated 2015-09-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-12</span> <span title="Latest release in the app store">Updated 2015-09-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">App to measure and log battery runtime on the pebble without the phone.</p>
 </div>
@@ -226,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-5682947f94ffb2cd410000a9"><a href="https://apps.repebble.com/5682947f94ffb2cd410000a9">Battery-</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/faelys/battery-minus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/natasha-kerensikova.html" title="More from this developer">Natasha Kerensikova</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-29</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">ISC</span> <span title="First published in the app store">Released 2015-12-29</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Battery- uses the activity tracker slot to gather all battery-related events and store them for further display. This is very similar to Battery+ from Ycleptic Studios, except that data is not…</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-879a5ce7d61b4cf49bf775e5"><a href="https://apps.repebble.com/879a5ce7d61b4cf49bf775e5">BCN Bus - live Barcelona bus times</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/danigili/pebble-bcn-bus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/danigili.html" title="More from this developer">danigili</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-16</span> <span title="Latest release in the app store">Updated 2026-09-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-16</span> <span title="Latest release in the app store">Updated 2026-09-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Real-time bus arrivals for Barcelona on your Pebble. See how long until the next bus at any TMB stop without taking your phone out. Favourites— keep the stops you use every day and open them in…</p>
 </div>
@@ -281,7 +281,7 @@ hide:
 <h2 class="app-name" id="app-8dc9802adc3745f08cc4c913"><a href="https://apps.repebble.com/8dc9802adc3745f08cc4c913">BearBell</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/changing-k-tanaka/pebble-watchapp-bearbell" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/changing-k-tanaka.html" title="More from this developer">changing-k-tanaka</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-03</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-03</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">This app might serve as an alternative to a bear bell. Bear bells are known as an effective preventive measure for alerting bears to human presence through sound and preventing unexpected…</p>
 </div>
@@ -325,7 +325,7 @@ hide:
 <h2 class="app-name" id="app-68efa55f5bf09a0009eac172"><a href="https://apps.repebble.com/68efa55f5bf09a0009eac172">Beyblade X Simple Score Keeper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/endgame0630/BBX-SSK" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/endgame.html" title="More from this developer">EndGamE</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-10-15</span> <span title="Latest release in the app store">Updated 2025-11-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-10-15</span> <span title="Latest release in the app store">Updated 2025-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple score keeper for Beyblade X</p>
 </div>
@@ -369,7 +369,7 @@ hide:
 <h2 class="app-name" id="app-5633012f7d83b69b6100004e"><a href="https://apps.repebble.com/5633012f7d83b69b6100004e">Big Blue Bus (unofficial beta)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnheroy/bbb-api" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/john-heroy.html" title="More from this developer">John Heroy</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-30</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-30</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple app to find the nearest bus stops and upcoming arrivals for the Big Blue Bus (transit system in Santa Monica, California).</p>
 </div>
@@ -380,7 +380,7 @@ hide:
 <h2 class="app-name" id="app-69cbf53974b3f700092fd631"><a href="https://apps.repebble.com/69cbf53974b3f700092fd631">Big Date</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://github.com/cobredev/big-date" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cobre.html" title="More from this developer">cobre</a> · <a href="https://forum.rebble.io/t/811" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-31</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-31</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Shows a simple date view. Great for assigning to a Quick Launch action when using faces that don&#x27;t show the date!</p>
 </div>
@@ -666,7 +666,7 @@ hide:
 <h2 class="app-name" id="app-3c15e779928d45008d602236"><a href="https://apps.repebble.com/3c15e779928d45008d602236">BOM Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/erad84/BOM-Weather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/erad84.html" title="More from this developer">erad84</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-08-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-08-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An app for the Australian Bureau of Meteorology (BOM) weather service. Features: - Set or auto-detect your town for weather specific to you - Looping Rain Radar with various distance views (use…</p>
 </div>
@@ -688,7 +688,7 @@ hide:
 <h2 class="app-name" id="app-46ec3663320f42c8bc17127c"><a href="https://apps.repebble.com/46ec3663320f42c8bc17127c">Bonnaroo 26</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/eric-lindholm/bonnaroo-26/tree/main" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-lindholm.html" title="More from this developer">Eric Lindholm</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-19</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-05-19</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">An unofficial festival schedule app for Bonnaroo 2026. Browse shows, plan your festival, and get reminders when a show you don&#x27;t want to miss is coming up. Browse shows by day or stage, click into…</p>
 </div>
@@ -699,7 +699,7 @@ hide:
 <h2 class="app-name" id="app-557323107d6f3d5c37000067"><a href="https://apps.repebble.com/557323107d6f3d5c37000067">Bookmarks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/cfg1/pebble-bookmarks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/fg.html" title="More from this developer">FG</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-06</span> <span title="Latest release in the app store">Updated 2015-06-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-06-06</span> <span title="Latest release in the app store">Updated 2015-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchapp that can save your page numbers when reading books. No Bluetooth connection required. Book names can be edited.</p>
 </div>
@@ -809,7 +809,7 @@ hide:
 <h2 class="app-name" id="app-55bfc89663de442269000062"><a href="https://apps.repebble.com/55bfc89663de442269000062">Brain Trainer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dybm/brain_tuner" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dybm.html" title="More from this developer">dybm</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-03</span> <span title="Latest release in the app store">Updated 2015-08-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-08-03</span> <span title="Latest release in the app store">Updated 2015-08-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This fun math game challenges players to identify as many right and wrong equations as possible in 30 seconds. High scores are saved to the app so you can challenge your friends to see who can get…</p>
 </div>
@@ -930,7 +930,7 @@ hide:
 <h2 class="app-name" id="app-14543cb7d5b94dc08eaf499a"><a href="https://apps.repebble.com/14543cb7d5b94dc08eaf499a">Brush</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/david-s-svedberg/pebble-brush" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/perpetual-second-hand.html" title="More from this developer">Perpetual Second-Hand</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Toothbrush timer with some configurability</p>
 </div>
@@ -974,7 +974,7 @@ hide:
 <h2 class="app-name" id="app-6a8615eb1d2d890009ec85f9"><a href="https://apps.rebble.io/en_US/application/6a8615eb1d2d890009ec85f9">BubbleEater</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/falense/pebble-bubble-eater" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/falense.html" title="More from this developer">Falense</a> · <a href="https://forum.rebble.io/t/1255" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-09-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-09-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A bubble eater game. Uses IMU for input. Made for the Pebble Time 2, untested on others.</p>
 </div>
@@ -1029,7 +1029,7 @@ hide:
 <h2 class="app-name" id="app-562234ebb701b50286000046"><a href="https://apps.repebble.com/562234ebb701b50286000046">Busal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/jmmerino/busal" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jesus-merino.html" title="More from this developer">Jesús Merino</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-17</span> <span title="Latest release in the app store">Updated 2015-11-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-17</span> <span title="Latest release in the app store">Updated 2015-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Busal es una aplicación para consultar el horario de los autobuses en Salamanca. Puedes saber el tiempo que tardará en llegar el autobus en una parada en concreto.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Gabe Ochoa
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gabe-ochoa_52fd8d069afd984a78000072) · [GitHub (gabeochoa)](https://github.com/gabeochoa)
 

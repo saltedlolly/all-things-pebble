@@ -13,7 +13,7 @@ hide:
 
 # Mike Mallin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mike-mallin_541ce97fa5b189783e000043) · [GitHub (mremallin)](https://github.com/mremallin) · [Website (mremallin.ca)](http://mremallin.ca)
 

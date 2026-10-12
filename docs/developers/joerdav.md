@@ -13,7 +13,7 @@ hide:
 
 # joerdav
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joerdav_0af8416e53219f018ead5233) · [GitHub (joerdav)](https://github.com/joerdav)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joerdav_0af8416e532
 <h2 class="app-name" id="app-ad9758b0574c4d7cbecfc973"><a href="https://apps.repebble.com/ad9758b0574c4d7cbecfc973">Chessface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/joerdav/timemate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-27</span> <span title="Latest release in the app store">Updated 2026-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-27</span> <span title="Latest release in the app store">Updated 2026-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Chessface puts a live chess board on your Pebble Time 2. The time, date, battery and temperature sit around a real game that advances one move per minute. Enter your chess.com username and the…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joerdav_0af8416e532
 <h2 class="app-name" id="app-4c6bfe56532f4849bce026bb"><a href="https://apps.repebble.com/4c6bfe56532f4849bce026bb">The Tile</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/joerdav/the-tile" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-03</span> <span title="Latest release in the app store">Updated 2026-07-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-03</span> <span title="Latest release in the app store">Updated 2026-07-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">The watch face the internet draws. Each week the community draws 16x16 pixel-art tiles and votes head-to-head; the winning tile is crowned at Sunday midnight UTC and appears on every watch. Shows…</p>
 </div>

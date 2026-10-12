@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*32 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*32 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-f63e6ed24301414a95909564"><a href="https://apps.repebble.com/f63e6ed24301414a95909564">KasugaBus</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.2</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/kasugabus-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/edward.html" title="More from this developer">Edward</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Local buses for Minami-kasugaoka, Ibaraki, Osaka, Japan. KasugaBus shows the next scheduled Kintetsu and Hankyu buses at eight stops around Minami-kasugaoka: Kasugaoka Koen, Toge, Midorigaoka…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-6a8533eb6b779600084ed8e1"><a href="https://apps.rebble.io/en_US/application/6a8533eb6b779600084ed8e1">KayPS</a> <span class="app-version" title="Latest version" data-search-exclude>v26.9.1</span></h2>
 <a class="app-source" href="https://github.com/daktak/JayPS-WatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/daktak.html" title="More from this developer">Daktak</a> · <a href="https://forum.rebble.io/t/1267" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-09-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-09-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Android app required. https://github.com/daktak/JayPS-AndroidApp (formerly known as Pebble Bike/Ventoo/JayPS) KayPS is a GPS sports tracker for your Pebble. It uses your phone&#x27;s GPS to send speed…</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-54fe872bdbd96e00fa0000c0"><a href="https://apps.repebble.com/54fe872bdbd96e00fa0000c0">Kickstarter Stats</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/greglockwood/PebbleTimeKickstarterStats" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/greg-lockwood.html" title="More from this developer">Greg Lockwood</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-10</span> <span title="Latest release in the app store">Updated 2015-03-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-10</span> <span title="Latest release in the app store">Updated 2015-03-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Display how much money the Pebble guys made with the Pebble Time project on KickStarter. No guarantees are provided that this will continue to work since the project completed funding a while ago…</p>
 </div>
@@ -292,7 +292,7 @@ hide:
 <h2 class="app-name" id="app-57e837473095e38a8900036c"><a href="https://apps.repebble.com/57e837473095e38a8900036c">Kodi Launch</a> <span class="app-version" title="Latest version" data-search-exclude>v2</span></h2>
 <a class="app-source" href="https://github.com/ghys/pebble-kodi-launch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ys.html" title="More from this developer">YS</a> · <a href="https://forum.rebble.io/t/781" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-25</span> <span title="Latest release in the app store">Updated 2026-03-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-09-25</span> <span title="Latest release in the app store">Updated 2026-03-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">The most complete controller and library browser for Kodi! (This watchapp is unofficial and not endorsed or supported by Team Kodi or the XBMC Foundation. Kodi and the Kodi logo are trademarks of…</p>
 </div>
@@ -303,7 +303,7 @@ hide:
 <h2 class="app-name" id="app-558ed93ea6c6cce3c60000a5"><a href="https://apps.repebble.com/558ed93ea6c6cce3c60000a5">Kodi Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jamarzka/pebble-kodi-remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jeremy-marzka.html" title="More from this developer">Jeremy Marzka</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple and easy-to-use remote control for Kodi. Features: - Easy configuration for multiple devices - Separate controls for playback and navigation - Shake to Play/Pause or Select Issues: The…</p>
 </div>

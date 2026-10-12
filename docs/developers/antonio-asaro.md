@@ -13,7 +13,7 @@ hide:
 
 # Antonio Asaro
 
-*6 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/antonio-asaro_52cd5e150799b0643b00003c) · [Rebble App Store](https://apps.rebble.io/en_US/developer/52cd5e150799b0643b00003c/1) · [GitHub (antonioasaro)](https://github.com/antonioasaro)
 

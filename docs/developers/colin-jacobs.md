@@ -13,7 +13,7 @@ hide:
 
 # Colin Jacobs
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/colin-jacobs_52fd99a23415567ced0000b9) · [GitHub (coljac)](https://github.com/coljac) · [Website (coljac.net)](http://coljac.net/nexttram.html)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/colin-jacobs_52fd99
 <h2 class="app-name" id="app-5426c4165b15c8c5fb0000bc"><a href="https://apps.repebble.com/5426c4165b15c8c5fb0000bc">NextTram</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/coljac/NextTram" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-27</span> <span title="Latest release in the app store">Updated 2014-09-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2014-09-27</span> <span title="Latest release in the app store">Updated 2014-09-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">For residents of Melbourne and patrons of Yarra Trams. Shows time until the next tram at your favourite stops. Configurable with up to 4 stops/trams.</p>
 </div>

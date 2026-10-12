@@ -13,7 +13,7 @@ hide:
 
 # gameblabla
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/584d5e32ce45dc907d000209/1) · [GitHub (gameblabla)](https://github.com/gameblabla) · [Website (gameblabla.github.io)](https://gameblabla.github.io)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/584d5e32ce45dc9
 <h2 class="app-name" id="app-62b3e47098768d000911de59"><a href="https://apps.rebble.io/en_US/application/62b3e47098768d000911de59">Western Ideals</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/gameblabla/western_ideals" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-06-23</span> <span title="Latest release in the app store">Updated 2022-06-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2022-06-23</span> <span title="Latest release in the app store">Updated 2022-06-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Go on a fantastic journey with Bakaka, your trusty friend ! Witness dramatic events and chat with your friend !</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/584d5e32ce45dc9
 <h2 class="app-name" id="app-5850eef977324bb64b0004fb"><a href="https://apps.rebble.io/en_US/application/5850eef977324bb64b0004fb">Forbidden Love</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gameblabla/forbidden_love" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-14</span> <span title="Latest release in the app store">Updated 2016-12-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-12-14</span> <span title="Latest release in the app store">Updated 2016-12-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watch as two men discover the true meaning of life. (yes, it is very philosophical)</p>
 </div>

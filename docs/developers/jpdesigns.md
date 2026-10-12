@@ -13,7 +13,7 @@ hide:
 
 # jpdesigns
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jpdesigns_531a21865af660f5fd00034f) · [GitHub (dewguzzler)](https://github.com/dewguzzler) · [Website (dewguzzler.github.io)](http://dewguzzler.github.io/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jpdesigns_531a21865
 <h2 class="app-name" id="app-54b81929cba63619cf000080"><a href="https://apps.repebble.com/54b81929cba63619cf000080">Pebboard</a> <span class="app-version" title="Latest version" data-search-exclude>v1</span></h2>
 <a class="app-source" href="https://github.com/dewguzzler/pebboard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2015-01-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2015-01-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">**Must download companion app and open it at least once to actually send SMS** Using a custom made keyboard for Pebble, you can enter a phone number first and then a message. Long press select…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jpdesigns_531a21865
 <h2 class="app-name" id="app-54a2d4325c486f01df0000f0"><a href="https://apps.repebble.com/54a2d4325c486f01df0000f0">Decimal.Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dewguzzler/Decimal.time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-30</span> <span title="Latest release in the app store">Updated 2014-12-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-30</span> <span title="Latest release in the app store">Updated 2014-12-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Used during the French Revolution, Decimal time has 10 hours in a day, 100 minutes in an hour, and 100 seconds per minute. Since decimal time has no practical use other than being an oddity, in…</p>
 </div>

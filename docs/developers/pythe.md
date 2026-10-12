@@ -13,7 +13,7 @@ hide:
 
 # Pythe
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pythe_52bdb902fbe3f888af0000b8) · [GitHub (pythe)](https://github.com/pythe)
 

@@ -13,7 +13,7 @@ hide:
 
 # ClementG
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clementg_52a9594cc0ca93c0b6000031) · [GitHub (clementGdev)](https://github.com/clementGdev)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clementg_52a9594cc0
 <h2 class="app-name" id="app-54f4a44b84bffcb1b100005f"><a href="https://apps.repebble.com/54f4a44b84bffcb1b100005f">Circles</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/clementGdev/circles_pebble_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-02</span> <span title="Latest release in the app store">Updated 2015-05-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-02</span> <span title="Latest release in the app store">Updated 2015-05-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Very minimalist watchface. Inner circle is hours, outter circle is minutes, with animations ! On the example, it&#x27;s 10:47 and 10:48 Dev is at its earliest stage, more to come on this watchface !…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clementg_52a9594cc0
 <h2 class="app-name" id="app-52acf23c19ff50d903000024"><a href="https://apps.repebble.com/52acf23c19ff50d903000024">E8 Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v2.6</span></h2>
 <a class="app-source" href="https://github.com/clementGdev/E8_pebble_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-15</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-15</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Configurable : you can choose black or white, if you want to display the battery life... And squares are now Animated ! This watchface was inspired by the E8 watch from Lexon, originally designed…</p>
 </div>

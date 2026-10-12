@@ -13,7 +13,7 @@ hide:
 
 # shadedurza
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shadedurza_b1e7b48840fc81f98a4daaac) · [GitHub (shadedurza)](https://github.com/shadedurza)
 

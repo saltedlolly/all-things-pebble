@@ -13,7 +13,7 @@ hide:
 
 # prayerie
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6035842a1342ae0057ecf1aa/1) · [GitHub (mistyhands)](https://github.com/mistyhands)
 

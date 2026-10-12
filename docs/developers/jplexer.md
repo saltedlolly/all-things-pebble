@@ -13,7 +13,7 @@ hide:
 
 # JPlexer
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jplexer_66d9e31d281f8a000981862f) · [Rebble App Store](https://apps.rebble.io/en_US/developer/66d9e31d281f8a000981862f/1) · [GitHub (jplexer)](https://github.com/jplexer) · [Website (funnyna.me)](https://funnyna.me)
 

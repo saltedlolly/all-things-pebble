@@ -13,7 +13,7 @@ hide:
 
 # Adrenocortico
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/adrenocortico_52b93f2ba1d2dfd76500003f) · [GitHub (Adrenocortico)](https://github.com/Adrenocortico)
 

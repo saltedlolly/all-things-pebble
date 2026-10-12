@@ -13,7 +13,7 @@ hide:
 
 # Ben Galbraith
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-galbraith_538927eef63efc4475000043) · [GitHub (bgalbs)](https://github.com/bgalbs) · [Website (medium.com)](https://medium.com/ben-and-dion/feeling-time-378e44e31ee0)
 

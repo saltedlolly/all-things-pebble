@@ -13,7 +13,7 @@ hide:
 
 # Christian Herget
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christian-herget_6a8e09c95d9d660008a3f511) · [GitHub (ChristianHerget)](https://github.com/ChristianHerget) · [Website (christianherget.github.io)](https://christianherget.github.io/trackglance/)
 

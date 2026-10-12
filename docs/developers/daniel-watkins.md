@@ -13,7 +13,7 @@ hide:
 
 # Daniel Watkins
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-watkins_5564cc765818e001230000b4) · [GitHub (OddBloke)](https://github.com/OddBloke)
 

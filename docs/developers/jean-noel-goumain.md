@@ -13,7 +13,7 @@ hide:
 
 # Jean-Noel Goumain
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jean-noel-goumain_54efd2b0565f0386190000fb) · [GitHub (jnoelg)](https://github.com/jnoelg)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jean-noel-goumain_5
 <h2 class="app-name" id="app-557e39c6d8339afb160000aa"><a href="https://apps.repebble.com/557e39c6d8339afb160000aa">My Simple Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v3.6</span></h2>
 <a class="app-source" href="https://github.com/jnoelg/Pebble-MySimpleWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-15</span> <span title="Latest release in the app store">Updated 2016-12-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-15</span> <span title="Latest release in the app store">Updated 2016-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watch, with anti-aliased time text, color based battery level indicator (100-80: Green, 70-50: Blue, 40-30: Yellow, 20-0: Red) and disconnection alarm Configurable settings: hours in bold…</p>
 </div>

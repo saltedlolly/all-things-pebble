@@ -13,7 +13,7 @@ hide:
 
 # exe
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/exe_5299a4c8e627ce050d000068) · [GitHub (exe44)](https://github.com/exe44)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/exe_5299a4c8e627ce0
 <h2 class="app-name" id="app-5299a7e6e627ce615300006f"><a href="https://apps.repebble.com/5299a7e6e627ce615300006f">FEZ</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1.0</span></h2>
 <a class="app-source" href="https://github.com/exe44/pebble-fez" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by the logo of wonderful game &quot;FEZ&quot;!</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/exe_5299a4c8e627ce0
 <h2 class="app-name" id="app-536cd1d83b79b3800e0001de"><a href="https://apps.repebble.com/536cd1d83b79b3800e0001de">KlK</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/exe44/pebble-klk" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-09</span> <span title="Latest release in the app store">Updated 2016-04-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-05-09</span> <span title="Latest release in the app store">Updated 2016-04-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by the insane anime &quot;KILL la KILL&quot;!</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/exe_5299a4c8e627ce0
 <h2 class="app-name" id="app-529ab1b6d17b5033ba000033"><a href="https://apps.repebble.com/529ab1b6d17b5033ba000033">EVA</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/exe44/pebble-eva" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2013-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2013-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Inspired by Japanese anime &quot;Neon Genesis Evangelion&quot; :D</p>
 </div>

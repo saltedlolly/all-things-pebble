@@ -13,7 +13,7 @@ hide:
 
 # BOOMik
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/boomik_52f0ce6b3fbdbae6120012ea) · [GitHub (BOOMik)](https://github.com/BOOMik) · [Website (boomik.ru)](http://boomik.ru)
 

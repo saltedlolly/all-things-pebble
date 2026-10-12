@@ -13,7 +13,7 @@ hide:
 
 # Brennan-Macaig
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brennan-macaig_54d03817699bce3234000059) · [GitHub (brennan-macaig)](https://github.com/brennan-macaig)
 

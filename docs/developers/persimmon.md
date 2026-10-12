@@ -13,7 +13,7 @@ hide:
 
 # Persimmon
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a11be96caa0420008c3ebc5/1) · [Codeberg (persimmon)](https://codeberg.org/persimmon)
 

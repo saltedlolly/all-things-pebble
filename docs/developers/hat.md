@@ -13,7 +13,7 @@ hide:
 
 # Hat
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hat_5765431e0cc8f54d250000a4) · [GitHub (TheYellowHat)](https://github.com/TheYellowHat)
 

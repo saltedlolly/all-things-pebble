@@ -13,7 +13,7 @@ hide:
 
 # daipoyo
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daipoyo_af992eff386264ca6a6e17bb) · [GitHub (daipoyo)](https://github.com/daipoyo)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daipoyo_af992eff386
 <h2 class="app-name" id="app-38d23789644c43558635081a"><a href="https://apps.repebble.com/38d23789644c43558635081a">Idle Dungeon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/daipoyo/idle_dungeon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-09-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Idle Dungeon turns the steps you take during the day into a dungeon crawl. Pick a dungeon in the morning and go about your day. Every step carries the hero deeper: monsters, traps, fountains and…</p>
 </div>

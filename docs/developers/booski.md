@@ -13,7 +13,7 @@ hide:
 
 # Booski
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/booski_531e43763b2377d2fd0002f0) · [GitHub (booski)](https://github.com/booski)
 

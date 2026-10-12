@@ -13,7 +13,7 @@ hide:
 
 # Manuel Pedrero
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/manuel-pedrero_56f8fead5e4cddf138000024) · [GitHub (mpedrero)](https://github.com/mpedrero)
 

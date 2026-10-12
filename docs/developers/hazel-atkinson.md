@@ -13,7 +13,7 @@ hide:
 
 # Hazel Atkinson
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hazel-atkinson_6a0b2376caa042000991a382) · [GitHub (yellowsink)](https://github.com/yellowsink) · [Website (yellows.ink)](https://yellows.ink)
 

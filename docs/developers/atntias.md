@@ -13,7 +13,7 @@ hide:
 
 # Atntias
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52d0c45e74a38eb4a60000c8/1) · [GitHub (Atntias)](https://github.com/Atntias)
 

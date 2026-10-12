@@ -13,7 +13,7 @@ hide:
 
 # Oliver Bowe
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/oliver-bowe_52cdaf6f0b54dbbe46000001) · [GitHub (thunderchild7)](https://github.com/thunderchild7)
 
@@ -38,7 +38,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/oliver-bowe_52cdaf6
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="scarlett johansson" data-released="2014-04-11" data-updated="2014-04-12">
-<a class="app-shot" href="https://apps.repebble.com/5348115ae311a6ddb4000076" data-search-exclude><img src="../images/apps/5348115ae311a6ddb4000076.png" alt="Scarlett Johansson" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/5348115ae311a6ddb4000076" data-search-exclude><img src="../images/apps/5348115ae311a6ddb4000076.gif" alt="Scarlett Johansson" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-5348115ae311a6ddb4000076"><a href="https://apps.repebble.com/5348115ae311a6ddb4000076">Scarlett Johansson</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/thunderchild7/ScarJo" title="Source code" data-search-exclude>View source</a>
@@ -49,7 +49,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/oliver-bowe_52cdaf6
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="taylor swift" data-released="2014-02-26" data-updated="2014-04-03">
-<a class="app-shot" href="https://apps.repebble.com/530d4af6d4317149ea00008c" data-search-exclude><img src="../images/apps/530d4af6d4317149ea00008c.png" alt="Taylor Swift" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/530d4af6d4317149ea00008c" data-search-exclude><img src="../images/apps/530d4af6d4317149ea00008c.gif" alt="Taylor Swift" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-530d4af6d4317149ea00008c"><a href="https://apps.repebble.com/530d4af6d4317149ea00008c">Taylor Swift</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.3</span></h2>
 <a class="app-source" href="https://github.com/thunderchild7/TaylorSwift" title="Source code" data-search-exclude>View source</a>

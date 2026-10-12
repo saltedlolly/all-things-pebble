@@ -13,7 +13,7 @@ hide:
 
 # Cody Swartz
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cody-swartz_a4851c63da9d1a3d0684cba4) · [GitHub (ctsstc)](https://github.com/ctsstc)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cody-swartz_a4851c6
 <h2 class="app-name" id="app-cc90e8a3e8324eb1a31a90cd"><a href="https://apps.repebble.com/cc90e8a3e8324eb1a31a90cd">AeroPress Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.18.2</span></h2>
 <a class="app-source" href="https://github.com/ctsstc/pebble-aeropress-timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A step-by-step timer for the inverted AeroPress method, made for Pebble Time 2. Pour, bloom, stir, steep, flip and press. Each step tells you what to do, and the two timed steps count down, then…</p>
 </div>

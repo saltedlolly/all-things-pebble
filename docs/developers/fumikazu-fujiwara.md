@@ -13,7 +13,7 @@ hide:
 
 # Fumikazu Fujiwara
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fumikazu-fujiwara_55b0ec1d6e310efcd000007e) · [GitHub (freddiefujiwara)](https://github.com/freddiefujiwara)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fumikazu-fujiwara_5
 <h2 class="app-name" id="app-5777aed766202a25f8000174"><a href="https://apps.repebble.com/5777aed766202a25f8000174">Cupolan Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/freddiefujiwara/CupolanWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-02</span> <span title="Latest release in the app store">Updated 2016-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-07-02</span> <span title="Latest release in the app store">Updated 2016-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Cupolcan Watch</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fumikazu-fujiwara_5
 <h2 class="app-name" id="app-55cdf56d23c1bbc345000008"><a href="https://apps.repebble.com/55cdf56d23c1bbc345000008">WhereIsHere</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/freddiefujiwara/WhereIsHere" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-14</span> <span title="Latest release in the app store">Updated 2015-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-14</span> <span title="Latest release in the app store">Updated 2015-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">You can see quickly about current location.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fumikazu-fujiwara_5
 <h2 class="app-name" id="app-55cd00b3197194813b000045"><a href="https://apps.repebble.com/55cd00b3197194813b000045">JumpRopeCounter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/freddiefujiwara/JumpRopeCounter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-13</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-13</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">You can count your jump rope exercise now!</p>
 </div>

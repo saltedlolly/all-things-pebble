@@ -13,7 +13,7 @@ hide:
 
 # Chase
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chase_5321b5897b6663c6ca0001d4) · [GitHub (deviavir)](https://github.com/deviavir)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chase_5321b5897b666
 <h2 class="app-name" id="app-57536f158576a4e23f000010"><a href="https://apps.repebble.com/57536f158576a4e23f000010">OnOffHue</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/deviavir/pebblehue" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2016-12-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2016-12-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your hue lights from your wrist.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Sébastiaan Versteeg
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/s-bastiaan-versteeg_52b1e6cf3beaa0d7e500000b) · [GitHub (se-bastiaan)](https://github.com/se-bastiaan)
 

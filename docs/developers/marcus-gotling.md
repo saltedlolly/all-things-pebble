@@ -13,7 +13,7 @@ hide:
 
 # Marcus Gotling
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marcus-gotling_52d1bfcb2fb6950b8200006c) · [GitHub (gotling)](https://github.com/gotling) · [GitHub (GotlingSystem)](https://github.com/GotlingSystem) · [Website (forums.pebble.com)](https://forums.pebble.com/t/watchapp-gosy-run-helps-you-exercise-running/25822)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marcus-gotling_52d1
 <h2 class="app-name" id="app-52dac915889f5d8253000261"><a href="https://apps.repebble.com/52dac915889f5d8253000261">GoSy Run</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/gotling/GoSy-Run" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-18</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-18</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Helps you exercise running. - Interval timer with extended rest, warm up and cool down - Ladder timer - Stretch timer with 8 exercises</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Jamie Stevens
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jamie-stevens_560c51379c52a7768a000011) · [GitHub (ste616)](https://github.com/ste616)
 

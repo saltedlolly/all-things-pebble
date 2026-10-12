@@ -13,7 +13,7 @@ hide:
 
 # FraBo
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frabo_56d8b0e51d085fb31d00002a) · [GitHub (FraBoCH)](https://github.com/FraBoCH)
 

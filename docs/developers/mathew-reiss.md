@@ -13,7 +13,7 @@ hide:
 
 # Mathew Reiss
 
-*3 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f02483af0eab7af50006d3/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/mathew-reiss_52f02483af0eab7af50006d3) · [GitHub (MathewReiss)](https://github.com/MathewReiss) · [GitHub (pebble-dev)](https://github.com/pebble-dev) · [GitHub (rebootsramblings)](https://github.com/rebootsramblings) · [Website (mydogsnowy.com)](http://www.mydogsnowy.com)
 

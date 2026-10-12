@@ -13,7 +13,7 @@ hide:
 
 # Alex Noddings
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-noddings_567d09fa4e7c7afc800001b1) · [GitHub (alexnoddings)](https://github.com/alexnoddings)
 

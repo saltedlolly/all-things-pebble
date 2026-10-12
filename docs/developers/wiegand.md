@@ -13,7 +13,7 @@ hide:
 
 # wiegand
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wiegand_56353c069ac02bf83300000e) · [Rebble App Store](https://apps.rebble.io/en_US/developer/56353c069ac02bf83300000e/1) · [GitHub (chuckmoritzgg)](https://github.com/chuckmoritzgg) · [GitHub (moerunner)](https://github.com/moerunner) · [Website (paypal.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YNAK2AH7ZK4WQ)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wiegand_56353c069ac
 <h2 class="app-name" id="app-08a97783ae8947b092fbecfe"><a href="https://apps.repebble.com/08a97783ae8947b092fbecfe">ATC radar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/chuckmoritzgg/pebble-atc-radar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-03</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-03</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Clean aviation timekeeping: labeled hands represent analog time trackers. Battery, steps, and next event are flight strips and keep you heads-up. Pure radar aesthetic, zero clutter. Perfect for…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wiegand_56353c069ac
 <h2 class="app-name" id="app-5b5c25bdb840489c921b4b23"><a href="https://apps.repebble.com/5b5c25bdb840489c921b4b23">🔦 torch color edition</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/chuckmoritzgg/pebble-torch-color-edition" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-06-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-06-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Unfortunately dimming brightness is not possible but we can circle a few colors on PT2</p>
 </div>

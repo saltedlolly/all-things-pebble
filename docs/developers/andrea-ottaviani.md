@@ -13,7 +13,7 @@ hide:
 
 # Andrea Ottaviani
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrea-ottaviani_54f6bfc5feb37e1bc000001c) · [GitHub (aotta)](https://github.com/aotta)
 

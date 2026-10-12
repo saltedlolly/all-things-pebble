@@ -13,7 +13,7 @@ hide:
 
 # Nikki
 
-*6 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae00755aeb46/1) · [GitHub (not-phoeniix)](https://github.com/not-phoeniix)
 

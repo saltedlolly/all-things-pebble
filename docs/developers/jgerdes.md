@@ -13,7 +13,7 @@ hide:
 
 # JGerdes
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jgerdes_56e705b3287319185e000024) · [GitHub (JGerdes)](https://github.com/JGerdes)
 

@@ -13,7 +13,7 @@ hide:
 
 # Grimborg
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/grimborg_52c70e3b5ce57118c100000a) · [GitHub (grimborg)](https://github.com/grimborg) · [Website (golanguk.com)](http://golanguk.com)
 

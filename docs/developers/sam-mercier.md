@@ -13,7 +13,7 @@ hide:
 
 # Sam Mercier
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam-mercier_536a8f2702d12fdbdc000004) · [GitHub (samontea)](https://github.com/samontea) · [Website (samontea.github.io)](http://samontea.github.io)
 

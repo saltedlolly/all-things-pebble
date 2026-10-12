@@ -13,7 +13,7 @@ hide:
 
 # sjmerel
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sjmerel_c3cfdea00bafd8896a186e03) · [GitHub (sjmerel)](https://github.com/sjmerel)
 

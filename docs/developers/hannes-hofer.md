@@ -13,7 +13,7 @@ hide:
 
 # Hannes Hofer
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hannes-hofer_542e9541d4d52caaac0000f7) · [GitHub (HannesHofer)](https://github.com/HannesHofer)
 

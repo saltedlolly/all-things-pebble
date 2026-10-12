@@ -13,7 +13,7 @@ hide:
 
 # Sevonj
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sevonj_672d1117136b8b075ec492c0) · [GitHub (sevonj)](https://github.com/sevonj)
 

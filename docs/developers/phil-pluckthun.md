@@ -13,7 +13,7 @@ hide:
 
 # Phil Plückthun
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phil-pl-ckthun_5301c6682b218d48670003a5) · [GitHub (philplckthun)](https://github.com/philplckthun) · [Website (plckthn.me)](http://plckthn.me)
 

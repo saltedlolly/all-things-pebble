@@ -13,7 +13,7 @@ hide:
 
 # Cory Hughart
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cory-hughart_447f1d8a99b640fbc10d36ae) · [GitHub (cr0ybot)](https://github.com/cr0ybot) · [Website (cr0ybot.com)](https://cr0ybot.com/project/pebble-watchface-carbon/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cory-hughart_447f1d
 <h2 class="app-name" id="app-48b38a54db6d45cb85be6521"><a href="https://apps.repebble.com/48b38a54db6d45cb85be6521">Carbon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/cr0ybot/carbon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A weather-focused, highly readable-at-a-glance Pebble watchface for the day ahead, with live weather via the free Open-Meteo API. Features: - The current time, of course, with a large…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Nikita Pchelin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nikita-pchelin_5361688475901be700000236) · [GitHub (jango)](https://github.com/jango) · [Website (pchelin.ca)](https://www.pchelin.ca)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nikita-pchelin_5361
 <h2 class="app-name" id="app-53f32d22b62b051081000085"><a href="https://apps.repebble.com/53f32d22b62b051081000085">Running Coach</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jango/pebble_running" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-19</span> <span title="Latest release in the app store">Updated 2014-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-19</span> <span title="Latest release in the app store">Updated 2014-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A running app that provides users with timers for each workout of the C25K and B210K running programs. A buzz will alert you about the end of a running or walking interval and you will also be…</p>
 </div>

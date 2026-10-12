@@ -13,7 +13,7 @@ hide:
 
 # Caller
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/caller_56525a397984dec394000002) · [GitHub (bcaller)](https://github.com/bcaller)
 

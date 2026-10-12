@@ -13,7 +13,7 @@ hide:
 
 # Soopaloop
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soopaloop_5f77fb329ed47a89ea649fff) · [GitHub (ssuppe)](https://github.com/ssuppe)
 

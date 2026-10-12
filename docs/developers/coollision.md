@@ -13,7 +13,7 @@ hide:
 
 # Coollision
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5746fd980b20f032cf000010/1) · [GitHub (Coollision)](https://github.com/Coollision)
 

@@ -13,7 +13,7 @@ hide:
 
 # KeeganLanz
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keeganlanz_559af5bb393bdfb3ae000067) · [GitHub (cptspck)](https://github.com/cptspck)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keeganlanz_559af5bb
 <h2 class="app-name" id="app-57dd89262d0cc8922f0002ed"><a href="https://apps.repebble.com/57dd89262d0cc8922f0002ed">Orbit 2.0 - TJHSST Schedule</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/cptspck/Orbit2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-17</span> <span title="Latest release in the app store">Updated 2016-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-17</span> <span title="Latest release in the app store">Updated 2016-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Orbit is a simple watchface with the hands represented by bodies orbiting each other (the hour hand orbits the center, and the minute hand orbits the hour hand). Version 2 includes getting the…</p>
 </div>

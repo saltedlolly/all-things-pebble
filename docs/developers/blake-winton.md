@@ -13,7 +13,7 @@ hide:
 
 # Blake Winton
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/blake-winton_47b62fcfd059bba2bf969f49) · [GitHub (bwinton)](https://github.com/bwinton)
 

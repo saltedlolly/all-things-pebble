@@ -13,7 +13,7 @@ hide:
 
 # Jonathan Alland
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5d8d503bc393f5215a13e5e4/1) · [GitHub (Wowfunhappy)](https://github.com/Wowfunhappy)
 

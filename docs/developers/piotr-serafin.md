@@ -13,7 +13,7 @@ hide:
 
 # Piotr Serafin
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/piotr-serafin_a19d3e6ff0253a431a752641) · [GitHub (piotrserafin)](https://github.com/piotrserafin)
 

@@ -13,7 +13,7 @@ hide:
 
 # Brian
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55d9e82e69aa1802f70000c7/1) · [GitHub (howcatsjam)](https://github.com/howcatsjam)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55d9e82e69aa180
 <h2 class="app-name" id="app-59cae9e8461a8da6ca002084"><a href="https://apps.rebble.io/en_US/application/59cae9e8461a8da6ca002084">52/17</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/howcatsjam/5217" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-09-26</span> <span title="Latest release in the app store">Updated 2017-09-27</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-09-26</span> <span title="Latest release in the app store">Updated 2017-09-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">52/17 is a simple productivity timer based on the 52/17 split: 52 minutes working, followed by 17 minutes resting. Single-click select to start and pause the timer. Double-click select to go to…</p>
 </div>

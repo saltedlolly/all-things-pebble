@@ -13,7 +13,7 @@ hide:
 
 # Antonio
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/antonio_532c25a281004176850001f8) · [GitHub (Antroid)](https://github.com/Antroid) · [Website (blesciasw.it)](http://www.blesciasw.it)
 

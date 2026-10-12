@@ -13,7 +13,7 @@ hide:
 
 # conor.code
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6948738999ff6900096081cd/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/conor-code_dbb81f26ddb9f47c715d60b9) · [GitHub (chorankates)](https://github.com/chorankates)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6948738999ff690
 <h2 class="app-name" id="app-69581fbe39d92d0009bb746e"><a href="https://apps.rebble.io/en_US/application/69581fbe39d92d0009bb746e">covetous</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/chorankates/covetous" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/421" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-02</span> <span title="Latest release in the app store">Updated 2026-01-06</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-02</span> <span title="Latest release in the app store">Updated 2026-01-06</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">NOT WHAT IT WAS, trademark claim caused pulling</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6948738999ff690
 <h2 class="app-name" id="app-378bcb0a5fac43ca91e051d0"><a href="https://apps.repebble.com/378bcb0a5fac43ca91e051d0">ripple</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chorankates/ripple" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/351" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-24</span> <span title="Latest release in the app store">Updated 2025-12-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-24</span> <span title="Latest release in the app store">Updated 2025-12-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">a timer application with a number of visualization options</p>
 </div>

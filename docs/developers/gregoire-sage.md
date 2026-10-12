@@ -13,7 +13,7 @@ hide:
 
 # Grégoire Sage
 
-*3 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b216cf05c04653a9000080) · [GitHub (gregoiresage)](https://github.com/gregoiresage) · [GitHub (pebble)](https://github.com/pebble) · [Website (paypal.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gregoire%2esage%40gmail%2ecom&lc=US&item_name=NetAtmo%20for%20Pebble&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b21
 <h2 class="app-name" id="app-5480e782d581a15cd4000088"><a href="https://apps.repebble.com/5480e782d581a15cd4000088">NetAtmo for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/gregoiresage/pebble-netatmo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1330" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-04</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-04</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchapp displays data from your NetAtmo® stations. Open the configuration page, enter your credentials and select your default NetAtmo station. The outdoor module is displayed on top. Press…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b21
 <h2 class="app-name" id="app-52f2c9ddab54ff806f000088"><a href="https://apps.repebble.com/52f2c9ddab54ff806f000088">Hop Picker Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v3.16</span></h2>
 <a class="app-source" href="https://github.com/gregoiresage/hop-picker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-05</span> <span title="Latest release in the app store">Updated 2016-07-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-02-05</span> <span title="Latest release in the app store">Updated 2016-07-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Configurable watchface based on the concept of the designer Hop Picker Battery grade : A</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b21
 <h2 class="app-name" id="app-53bdb1291c6da72083000044"><a href="https://apps.repebble.com/53bdb1291c6da72083000044">Image Viewer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/gregoiresage/pebble-image-viewer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-07-09</span> <span title="Latest release in the app store">Updated 2015-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-07-09</span> <span title="Latest release in the app store">Updated 2015-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Proof of Concept Display images from internet on your Pebble Choose your image in the configuration page (jpeg/gif/png or pbi)</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b21
 <h2 class="app-name" id="app-53f7ab1a83d82b81b5000237"><a href="https://apps.repebble.com/53f7ab1a83d82b81b5000237">Tiwe</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gregoiresage/pebble-tiwe" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-22</span> <span title="Latest release in the app store">Updated 2014-08-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-22</span> <span title="Latest release in the app store">Updated 2014-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The watch has tiny white dots around the face. When you twist your wrist, the dots come together to tell you the time. Watchface inspired from TIWE watch concept by chinese product deigner Lv…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b21
 <h2 class="app-name" id="app-537924dedf9772aa95000019"><a href="https://apps.repebble.com/537924dedf9772aa95000019">Chuck Norris</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/gregoiresage/pebble-chucknorris" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-18</span> <span title="Latest release in the app store">Updated 2014-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-18</span> <span title="Latest release in the app store">Updated 2014-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">If Chuck Norris wore a watch, it would be a Pebble because it kicks ass! Shake your watch to get a new Chuck Norris joke. Have fun :-p Sprites credits…</p>
 </div>

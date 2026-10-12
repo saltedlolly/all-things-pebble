@@ -13,7 +13,7 @@ hide:
 
 # Tom Fanella
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-fanella_549c8720dc93036df4000835) · [GitHub (TomFanella4)](https://github.com/TomFanella4)
 

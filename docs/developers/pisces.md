@@ -13,7 +13,7 @@ hide:
 
 # PiSCES
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pisces_adc4868835dd4511698cd737) · [GitHub (P1R4N351)](https://github.com/P1R4N351)
 

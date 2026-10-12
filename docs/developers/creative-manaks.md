@@ -13,7 +13,7 @@ hide:
 
 # Creative Manaks
 
-*15 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*15 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504fe850dc7e97a445b0a10d) · [GitHub (manaksu)](https://github.com/manaksu)
 

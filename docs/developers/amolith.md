@@ -13,7 +13,7 @@ hide:
 
 # Amolith
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/amolith_765459e0318e61f6f01a5b2a)
 

@@ -13,7 +13,7 @@ hide:
 
 # mcongrove
 
-*6 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e2187058f9000011) · [Rebble App Store](https://apps.rebble.io/en_US/developer/52affc34e2187058f9000011/1) · [GitHub (mcongrove)](https://github.com/mcongrove) · [Website (wearewearable.com)](http://www.WeAreWearable.com)
 

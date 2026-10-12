@@ -13,7 +13,7 @@ hide:
 
 # Sam Fenton
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam-fenton_55e433c067d07cc96f00000d) · [GitHub (York20)](https://github.com/York20) · [Website (jamieweb.net)](http://www.jamieweb.net)
 

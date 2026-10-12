@@ -13,7 +13,7 @@ hide:
 
 # mpwh
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mpwh_52b2952f8c0815f13e0000d0) · [GitHub (mpwh)](https://github.com/mpwh)
 

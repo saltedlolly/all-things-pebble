@@ -13,7 +13,7 @@ hide:
 
 # dentonlt
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5e1409743dd3108e69a17716/1) · [GitHub (dentonlt)](https://github.com/dentonlt) · [Website (dentonlt.com)](https://www.dentonlt.com)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5e1409743dd3108
 <h2 class="app-name" id="app-5e1409743dd3108e69a17718"><a href="https://apps.rebble.io/en_US/application/5e1409743dd3108e69a17718">Etude 4</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8</span></h2>
 <a class="app-source" href="https://github.com/dentonlt/pebble-etude4" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-01-07</span> <span title="Latest release in the app store">Updated 2020-04-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2020-01-07</span> <span title="Latest release in the app store">Updated 2020-04-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Etude 4 is a minimal, balanced watchface for Pebble/Rebble. The main time header is displayed in 12h/24h format according to the user&#x27;s system preferences. The background and text colors are…</p>
 </div>

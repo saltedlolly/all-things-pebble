@@ -13,7 +13,7 @@ hide:
 
 # dhrme
 
-*4 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dhrme_069a96fda19388b2bd028bfa) · [GitHub (dhrme)](https://github.com/dhrme) · [GitHub (in-dhr)](https://github.com/in-dhr) · [Website (dhrme.nl)](https://dhrme.nl/apps)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dhrme_069a96fda1938
 <h2 class="app-name" id="app-042ca18f3372422d9e07a406"><a href="https://apps.repebble.com/042ca18f3372422d9e07a406">Voice Notes (with calendar)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/dhrme/pebble-apps/tree/main" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Speak a note, save a note, optionally get a calendar event. Dictate a quick note on your wrist and it lands in your Google Calendar — with the date and time parsed from what you said (&quot;call the…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dhrme_069a96fda1938
 <h2 class="app-name" id="app-db9ec6dac81d483cab5d616d"><a href="https://apps.repebble.com/db9ec6dac81d483cab5d616d">Dutch Energy Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/in-dhr/pebble-apps" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Updates to watchface</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dhrme_069a96fda1938
 <h2 class="app-name" id="app-84d17b57b0aa48ce8813659b"><a href="https://apps.repebble.com/84d17b57b0aa48ce8813659b">Pebble Throw</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/dhrme/pebble-apps" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">The Pebble Throw rescues the world against evil fruit and robots. Ahem.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dhrme_069a96fda1938
 <h2 class="app-name" id="app-a4d962baee314d20819879fe"><a href="https://apps.repebble.com/a4d962baee314d20819879fe">Kevinimal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/dhrme/pebble-apps/tree/main/kevinimal" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A stripped-back watchface for Pebble Time 2. The time floats large in the centre; everything else tucks into a corner — day + DD/MM top-left, a three-block battery gauge top-right, chance-of-rain…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dhrme_069a96fda1938
 <h2 class="app-name" id="app-4ef760ca61cf4e2080edbd97"><a href="https://apps.repebble.com/4ef760ca61cf4e2080edbd97">Clean Atelier Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/dhrme/pebble-apps/tree/main/atelier" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A clean analogue watchface by Rohan from DHRME</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dhrme_069a96fda1938
 <h2 class="app-name" id="app-6da6ca00839f4cd7b982dd63"><a href="https://apps.repebble.com/6da6ca00839f4cd7b982dd63">Bold Bauhaus Blocks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/dhrme/pebble-apps/tree/main/blocks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A bold, Bauhaus-inspired watchface for Pebble Time 2. Five flat colour bands stack the essentials: weekday, date, a big easy-read time, battery, and weather. Built for the watch&#x27;s crisp 64-colour…</p>
 </div>

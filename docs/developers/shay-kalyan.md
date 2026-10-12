@@ -13,7 +13,7 @@ hide:
 
 # Shay Kalyan
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shay-kalyan_52ee157ef5ba31c897000004) · [GitHub (xShay)](https://github.com/xShay)
 

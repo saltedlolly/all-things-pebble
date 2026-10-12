@@ -13,7 +13,7 @@ hide:
 
 # spencewenski
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5836b499ca309464c9000130/1) · [GitLab (spencewenski)](https://gitlab.com/spencewenski) · [Website (spencewenski.com)](https://spencewenski.com/projects/grouped_timers/)
 

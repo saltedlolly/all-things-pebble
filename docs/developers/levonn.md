@@ -13,7 +13,7 @@ hide:
 
 # Levonn
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/levonn_f316bd30e30eb999711b5614) · [GitHub (levonn-dev)](https://github.com/levonn-dev)
 

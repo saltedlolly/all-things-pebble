@@ -13,7 +13,7 @@ hide:
 
 # Organik Apps
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/organik-apps_7d03e7e4a48fa1d6c0de8596) · [GitHub (GeezusChrotch)](https://github.com/GeezusChrotch) · [Website (geezuschrotch.github.io)](https://geezuschrotch.github.io/beepster/INSTALL)
 

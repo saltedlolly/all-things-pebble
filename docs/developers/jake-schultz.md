@@ -13,7 +13,7 @@ hide:
 
 # Jake Schultz
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f0f7a24ae3634df7000b35/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/jake-schultz_52f0f7a24ae3634df7000b35) · [GitHub (iamjake648)](https://github.com/iamjake648) · [Website (iamjake648.com)](http://iamjake648.com)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f0f7a24ae3634
 <h2 class="app-name" id="app-547e7f9ec252df95770000c6"><a href="https://apps.rebble.io/en_US/application/547e7f9ec252df95770000c6">Word Shake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/iamjake648/wordshake_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-03</span> <span title="Latest release in the app store">Updated 2014-12-06</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-03</span> <span title="Latest release in the app store">Updated 2014-12-06</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Word Shake for Pebble is a great app to quickly learn new vocab in new languages! Simply shake your pebble to see a brand new word! Over 4,000 words to learn and 8 languages!</p>
 </div>

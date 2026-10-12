@@ -13,7 +13,7 @@ hide:
 
 # darnel
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/587ccf5b5de85099be000237/1) · [GitHub (darnel)](https://github.com/darnel)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/587ccf5b5de8509
 <h2 class="app-name" id="app-67cb5b32d2acb301fae26e22"><a href="https://apps.rebble.io/en_US/application/67cb5b32d2acb301fae26e22">Circle Mix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/darnel/pebble-watchface-circle-mix" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2025-03-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2025-03-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watchface. Variant of &quot;Two arcs&quot;. Hours and minutes are represented by additive arcs around numbers.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/587ccf5b5de8509
 <h2 class="app-name" id="app-67c8d4a1b7a023014ce68bfb"><a href="https://apps.rebble.io/en_US/application/67c8d4a1b7a023014ce68bfb">Two arcs</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/darnel/pebble-watchface-two-arcs" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-05</span> <span title="Latest release in the app store">Updated 2025-03-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-05</span> <span title="Latest release in the app store">Updated 2025-03-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watchface. Hours are represented by inner arc, minutes are represented by outer arc, both in grayscale.</p>
 </div>

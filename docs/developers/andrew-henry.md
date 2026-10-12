@@ -13,7 +13,7 @@ hide:
 
 # Andrew Henry
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-henry_531a25889091c4587400017c) · [GitHub (ahenry91)](https://github.com/ahenry91) · [Website (andymitchhank.com)](https://andymitchhank.com)
 

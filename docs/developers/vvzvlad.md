@@ -13,7 +13,7 @@ hide:
 
 # vvzvlad
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vvzvlad_52a92f2cc0ca93629100000d) · [GitHub (vvzvlad)](https://github.com/vvzvlad) · [Website (7del.net)](http://7del.net)
 

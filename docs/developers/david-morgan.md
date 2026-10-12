@@ -13,7 +13,7 @@ hide:
 
 # David Morgan
 
-*12 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*12 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/564924e14f9b2989ec000014/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/david-morgan_564924e14f9b2989ec000014) · [GitHub (Spitemare)](https://github.com/Spitemare)
 

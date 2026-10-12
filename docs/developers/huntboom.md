@@ -13,7 +13,7 @@ hide:
 
 # huntboom
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/huntboom_63590f2e40d3e00007cf6169) · [GitHub (huntboom)](https://github.com/huntboom) · [Website (hunterkarsseboom.com)](https://www.hunterkarsseboom.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/huntboom_63590f2e40
 <h2 class="app-name" id="app-69de48d8ae7c00000a5493b6"><a href="https://apps.repebble.com/69de48d8ae7c00000a5493b6">pyoro</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/huntboom/pyoropebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/876" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a port/demake of the bird and beans pyoro game from the warioware minigame and DsiWare shop</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/huntboom_63590f2e40
 <h2 class="app-name" id="app-64853961143b6504611fbc06"><a href="https://apps.repebble.com/64853961143b6504611fbc06">PebbleAI</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/huntboom/PebbleAI" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-06-11</span> <span title="Latest release in the app store">Updated 2025-09-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2023-06-11</span> <span title="Latest release in the app store">Updated 2025-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">ChatGPT, Gemini, DeepSeek, Grok or Claude for the Pebble Time! This app takes your voice message and displays a response from the AI assistant of your choice using their API. Requires an API key…</p>
 </div>

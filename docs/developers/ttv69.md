@@ -13,7 +13,7 @@ hide:
 
 # TTV69
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ttv69_52bc7111db1360a630000154) · [GitHub (TTV)](https://github.com/TTV) · [Website (cleggo.co.uk)](http://cleggo.co.uk)
 

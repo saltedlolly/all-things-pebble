@@ -13,7 +13,7 @@ hide:
 
 # Baldur Thor
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/baldur-thor_f78f823a876e65b57bbe3f8a) · [GitHub (BaldurThor)](https://github.com/BaldurThor)
 

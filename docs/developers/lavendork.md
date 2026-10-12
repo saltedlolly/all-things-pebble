@@ -13,7 +13,7 @@ hide:
 
 # lavendork
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5dcf62c7c393f5706985a9cb/1) · [GitHub (lavglaab)](https://github.com/lavglaab) · [Website (discord.com)](https://discord.com/channels/221364737269694464/1352777180764966975)
 

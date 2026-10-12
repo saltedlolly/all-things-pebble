@@ -13,7 +13,7 @@ hide:
 
 # Falense
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a86112c21671500096d4694/1) · [GitHub (falense)](https://github.com/falense)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a86112c2167150
 <h2 class="app-name" id="app-6a8615eb1d2d890009ec85f9"><a href="https://apps.rebble.io/en_US/application/6a8615eb1d2d890009ec85f9">BubbleEater</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/falense/pebble-bubble-eater" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1255" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-09-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-09-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A bubble eater game. Uses IMU for input. Made for the Pebble Time 2, untested on others.</p>
 </div>

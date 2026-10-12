@@ -13,7 +13,7 @@ hide:
 
 # Karan Goel
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/karan-goel_541475c68bc9dcd65b0001a4) · [GitHub (karan)](https://github.com/karan)
 

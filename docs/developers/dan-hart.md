@@ -13,7 +13,7 @@ hide:
 
 # Dan Hart
 
-*5 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-hart_52fec0a4756d34a53a0004b6) · [GitHub (dan-hart)](https://github.com/dan-hart) · [GitHub (mizzoudan)](https://github.com/mizzoudan) · [Website (danhart.me)](http://danhart.me/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-hart_52fec0a475
 <h2 class="app-name" id="app-569f256470f3698e29000024"><a href="https://apps.repebble.com/569f256470f3698e29000024">The Hart</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/dan-hart/the-hart-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-20</span> <span title="Latest release in the app store">Updated 2017-03-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-20</span> <span title="Latest release in the app store">Updated 2017-03-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">PERSONAL USE - LOOK AT MY OTHER WATCH FACES FOR CUSTOMIZABILITY</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-hart_52fec0a475
 <h2 class="app-name" id="app-544f1ac4dc21b79c2d000014"><a href="https://apps.repebble.com/544f1ac4dc21b79c2d000014">The Modern Gentleman</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/dan-hart/the-modern-gentleman" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-28</span> <span title="Latest release in the app store">Updated 2016-10-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-28</span> <span title="Latest release in the app store">Updated 2016-10-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">TMG is a great low-power consumption option for Pebble Time! The Original MG. ============= Features: - Optimized for battery life. - Sleek, simple design. - Easy-to-read letters and numbers.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-hart_52fec0a475
 <h2 class="app-name" id="app-569c40bbd05afe633b000057"><a href="https://apps.repebble.com/569c40bbd05afe633b000057">The Modern Gentleman 2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/dan-hart/the-modern-gentleman-2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-18</span> <span title="Latest release in the app store">Updated 2016-09-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-18</span> <span title="Latest release in the app store">Updated 2016-09-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The Modern Gentleman 2 ==================== - Color Customizable! - C or F Weather - MM-DD, DD-MM (with option to add year!) - Language Customizability Available with Spanish Days of the Week!</p>
 </div>

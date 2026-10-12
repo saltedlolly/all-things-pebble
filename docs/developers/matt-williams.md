@@ -13,7 +13,7 @@ hide:
 
 # Matt Williams
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-williams_55857d247726b760780000b7) · [GitHub (matt-williams)](https://github.com/matt-williams)
 

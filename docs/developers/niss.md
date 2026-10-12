@@ -13,7 +13,7 @@ hide:
 
 # niss
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/niss_52cb82a4e2dd027fe50000e5) · [GitHub (KimSeungKyu)](https://github.com/KimSeungKyu) · [Website (nisscube.blogspot.kr)](http://nisscube.blogspot.kr/2014/03/morse-code-clock.html)
 

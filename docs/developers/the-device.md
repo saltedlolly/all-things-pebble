@@ -13,7 +13,7 @@ hide:
 
 # The Device
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/the-device_5560cc3a43928b24ec0000c4) · [GitHub (sbrenna)](https://github.com/sbrenna)
 

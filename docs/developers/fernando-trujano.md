@@ -13,7 +13,7 @@ hide:
 
 # Fernando Trujano
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fernando-trujano_52d602cb8dab8d4ece0000a0) · [GitHub (Fertogo)](https://github.com/Fertogo)
 

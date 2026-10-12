@@ -13,7 +13,7 @@ hide:
 
 # AIR
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/air_4ff4b2daac1e10c4993c91f8) · [GitHub (PkAIR)](https://github.com/PkAIR)
 

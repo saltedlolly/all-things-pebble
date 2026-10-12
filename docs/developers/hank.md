@@ -13,7 +13,7 @@ hide:
 
 # Hank
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hank_529a4512129af7851e0000e9) · [GitHub (pebl-hank)](https://github.com/pebl-hank)
 

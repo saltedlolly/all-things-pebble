@@ -13,7 +13,7 @@ hide:
 
 # Michael Krenn
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/582d964f36ac5a946d000406/1) · [GitHub (wiesel81)](https://github.com/wiesel81)
 

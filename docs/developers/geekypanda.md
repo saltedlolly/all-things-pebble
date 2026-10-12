@@ -13,7 +13,7 @@ hide:
 
 # GeekyPanda
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/geekypanda_52c0f47dcf53857c89000034) · [Rebble App Store](https://apps.rebble.io/en_US/developer/52c0f47dcf53857c89000034/1) · [GitHub (PJayB)](https://github.com/PJayB) · [Website (pjblewis.com)](http://pjblewis.com/)
 

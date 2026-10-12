@@ -13,7 +13,7 @@ hide:
 
 # Chris Eilander.nl
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-eilander-nl_546da3e6e2a84b10b200006a) · [GitHub (chriseilander)](https://github.com/chriseilander) · [Website (chriseilander.nl)](https://chriseilander.nl)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-eilander-nl_5
 <h2 class="app-name" id="app-ed9c321605604b67b54d621a"><a href="https://apps.repebble.com/ed9c321605604b67b54d621a">Kasane Teto Analog Baguette</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/chriseilander/TetoAnalogBaguette" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1221" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-09</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-09</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A Kasane Teto watchface featuring her favorite food as minute and hour hands. Perfect for round screens. This watchface might be a bit heavy on the RAM side.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-eilander-nl_5
 <h2 class="app-name" id="app-91a9cfaa6c714c3c8983b57b"><a href="https://apps.repebble.com/91a9cfaa6c714c3c8983b57b">Yuru Camp Mount Fuji</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/chriseilander/YuruCampFujiWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1178" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-16</span> <span title="Latest release in the app store">Updated 2026-07-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-16</span> <span title="Latest release in the app store">Updated 2026-07-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Laid-Back Camping with the Yuru Camp Mount Fuji watchface. A watchface with a beautiful night sky view of mount Fuji straight from the Anime. Accompanied with the face of your favorite camper…</p>
 </div>

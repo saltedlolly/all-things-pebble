@@ -13,7 +13,7 @@ hide:
 
 # John Preston
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-preston_56534f1b28a791aea70000b8) · [GitHub (wcerfgba)](https://github.com/wcerfgba)
 

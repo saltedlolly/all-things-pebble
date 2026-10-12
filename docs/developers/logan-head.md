@@ -13,7 +13,7 @@ hide:
 
 # Logan Head
 
-*2 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/logan-head_5c26a4f727cdec0001c0500d) · [GitHub (erlog135)](https://github.com/erlog135) · [Website (loganhead.net)](https://loganhead.net)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/logan-head_5c26a4f7
 <h2 class="app-name" id="app-a71b955ceef1469fbae23373"><a href="https://apps.repebble.com/a71b955ceef1469fbae23373">Treble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/erlog135/treble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/903" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">IMPORTANT: Version 1.0.0 of the Android app will stop working before October 2026. Update it to 1.1.0 before then, or you won’t be able to recognize any songs! A song-finding app using Shazam’s…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/logan-head_5c26a4f7
 <h2 class="app-name" id="app-68f274532342a000096820e8"><a href="https://apps.repebble.com/68f274532342a000096820e8">Dribble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/erlog135/dribble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/596" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-10-17</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-10-17</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A precipitation &amp; hyperlocal weather app for Pebble. Location access is required for the app to work. When data is loaded, press the up or down buttons to scroll backwards or forwards through the…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/logan-head_5c26a4f7
 <h2 class="app-name" id="app-65dfd96c8a8c47cd8fda4985"><a href="https://apps.repebble.com/65dfd96c8a8c47cd8fda4985">Tumble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/erlog135/tumble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1097" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-27</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-27</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A rugged watchface inspired by the Garmin Instinct. It features a black &amp; white theme with a historical information graph and a versatile miniature window. The current time is prominently…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/logan-head_5c26a4f7
 <h2 class="app-name" id="app-692e2f67e6f4940009ff1b26"><a href="https://apps.repebble.com/692e2f67e6f4940009ff1b26">Wobble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/erlog135/wobble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/793" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-02</span> <span title="Latest release in the app store">Updated 2026-03-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-02</span> <span title="Latest release in the app store">Updated 2026-03-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watchface inspired by the JellyCar game series. It has large numerals that shift gelatinously when the time changes, or when you shake your watch. This watchface also features a battery power…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/logan-head_5c26a4f7
 <h2 class="app-name" id="app-698fc9d8086643000aef17a3"><a href="https://apps.repebble.com/698fc9d8086643000aef17a3">Hubble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/erlog135/hubble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/655" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-02-14</span> <span title="Latest release in the app store">Updated 2026-02-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-02-14</span> <span title="Latest release in the app store">Updated 2026-02-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An astronomy app for Pebble. It uses the time and your location to obtain the azimuth &amp; altitude of the sun, moon, planets, and various constellations. Eligible bodies will also display their…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Brian Schau
 
-*7 watchfaces and 5 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*7 watchfaces and 5 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52bc98fc530bf4ed75000183/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/brian-schau_52bc98fc530bf4ed75000183) · [GitHub (bschau)](https://github.com/bschau) · [Website (schau.dk)](https://www.schau.dk)
 

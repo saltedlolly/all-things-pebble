@@ -13,7 +13,7 @@ hide:
 
 # Szabolcs &quot;Sam&quot; Ban
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/szabolcs-sam-ban_55ae2126f825d3aaf4000038) · [GitHub (ShoobyBan)](https://github.com/ShoobyBan) · [Website (wizguild.com)](http://wizguild.com/pebble-smartwatch/)
 

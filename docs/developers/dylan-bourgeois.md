@@ -13,7 +13,7 @@ hide:
 
 # Dylan Bourgeois
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dylan-bourgeois_52c6eba430db18908f000088) · [GitHub (dtsbourg)](https://github.com/dtsbourg)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dylan-bourgeois_52c
 <h2 class="app-name" id="app-5820a0e1e7785b894200007f"><a href="https://apps.repebble.com/5820a0e1e7785b894200007f">Steps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dtsbourg/steps" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-07</span> <span title="Latest release in the app store">Updated 2016-11-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2016-11-07</span> <span title="Latest release in the app store">Updated 2016-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Introducing the DOGE coach, who will help you become a more active shibe !</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dylan-bourgeois_52c
 <h2 class="app-name" id="app-52e4302a34ba660014000b9b"><a href="https://apps.repebble.com/52e4302a34ba660014000b9b">Doge</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/dtsbourg/Doge/tree/master" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-25</span> <span title="Latest release in the app store">Updated 2014-01-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-25</span> <span title="Latest release in the app store">Updated 2014-01-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Wow. Such watch face. Many Pebble. To the moon !</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Erik Brinkman
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erik-brinkman_531a5f395af660a8c90009e9) · [GitHub (erikbrinkman)](https://github.com/erikbrinkman)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erik-brinkman_531a5
 <h2 class="app-name" id="app-57bb39b7bb85edbc76000ac8"><a href="https://apps.repebble.com/57bb39b7bb85edbc76000ac8">Modernesque</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/erikbrinkman/modernesque" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-22</span> <span title="Latest release in the app store">Updated 2016-09-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-08-22</span> <span title="Latest release in the app store">Updated 2016-09-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple modern watch face heavily inspired by &quot;Modern Classic 2&quot;.</p>
 </div>

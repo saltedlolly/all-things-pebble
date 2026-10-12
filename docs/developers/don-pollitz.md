@@ -13,7 +13,7 @@ hide:
 
 # Don Pollitz
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/don-pollitz_549c30a3ad219e5ece00026f) · [GitHub (chaos2007)](https://github.com/chaos2007)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/don-pollitz_549c30a
 <h2 class="app-name" id="app-5538f5bbeace6f4547000080"><a href="https://apps.repebble.com/5538f5bbeace6f4547000080">WhoWatchInverted</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/chaos2007/whoWatchInverted" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-23</span> <span title="Latest release in the app store">Updated 2015-04-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-23</span> <span title="Latest release in the app store">Updated 2015-04-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A request was made for a version of the WhoWatch with inverted color. I&#x27;m currently looking into having one watchface with configurable settings. Until then, here it is.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/don-pollitz_549c30a
 <h2 class="app-name" id="app-553718f0166e9ce5fe000046"><a href="https://apps.repebble.com/553718f0166e9ce5fe000046">WhoWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/chaos2007/doctorWhoTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-22</span> <span title="Latest release in the app store">Updated 2015-04-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-22</span> <span title="Latest release in the app store">Updated 2015-04-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface for those who like Doctor Who.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/don-pollitz_549c30a
 <h2 class="app-name" id="app-55371aae1fa0b379fc000028"><a href="https://apps.repebble.com/55371aae1fa0b379fc000028">WhoStopWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/chaos2007/doctorWhoStopWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-22</span> <span title="Latest release in the app store">Updated 2015-04-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-22</span> <span title="Latest release in the app store">Updated 2015-04-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a Doctor Who watch face that functions as a stopwatch. When the face is selected, it begins a timer. I made this really for me so that I could have quick access to a stopwatch.</p>
 </div>

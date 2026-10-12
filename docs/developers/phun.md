@@ -13,7 +13,7 @@ hide:
 
 # phun
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phun_52d8e23db82a9fd7d7000006) · [GitHub (phmagic)](https://github.com/phmagic) · [Website (phun.me)](http://phun.me)
 

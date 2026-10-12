@@ -13,7 +13,7 @@ hide:
 
 # Matzo
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f1700cc41172eebc0006f8/1) · [GitHub (Matzo)](https://github.com/Matzo)
 

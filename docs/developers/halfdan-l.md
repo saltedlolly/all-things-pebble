@@ -13,7 +13,7 @@ hide:
 
 # Halfdan L.
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/halfdan-l_b3139aa295b3ac609add0b88) · [GitHub (Axicongamer)](https://github.com/Axicongamer)
 

@@ -13,7 +13,7 @@ hide:
 
 # atomlabor
 
-*8 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*8 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/atomlabor_5c1e0bc226259d0001915df5) · [GitHub (atomlabor)](https://github.com/atomlabor) · [Website (atomlabor.de)](https://atomlabor.de)
 

@@ -13,7 +13,7 @@ hide:
 
 # Teatov
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/teatov_396c06266c2570dd8a5f9a05) · [GitHub (teatov)](https://github.com/teatov)
 

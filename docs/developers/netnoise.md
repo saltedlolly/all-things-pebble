@@ -13,7 +13,7 @@ hide:
 
 # NetNoise
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/netnoise_164926ef742b9ab422a9bacb) · [GitHub (GeoffAtLarge)](https://github.com/GeoffAtLarge)
 

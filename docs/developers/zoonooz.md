@@ -13,7 +13,7 @@ hide:
 
 # zoonooz
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zoonooz_969f88a79fa2a315c051f402) · [GitHub (zoonooz)](https://github.com/zoonooz)
 

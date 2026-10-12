@@ -13,7 +13,7 @@ hide:
 
 # Carl-Fredrik Arvidson
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/carl-fredrik-arvidson_8030a3976177840c1696a0f5) · [GitHub (cfarvidson)](https://github.com/cfarvidson)
 

@@ -13,7 +13,7 @@ hide:
 
 # bkbilly
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bkbilly_56494d724f9b29484c000032) · [GitHub (bkbilly)](https://github.com/bkbilly)
 

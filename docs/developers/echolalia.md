@@ -13,7 +13,7 @@ hide:
 
 # EchoLalia
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/echolalia_10533604cb53ab9af777b71c) · [GitHub (echo-lalia)](https://github.com/echo-lalia)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/echolalia_10533604c
 <h2 class="app-name" id="app-27ea2cc229cd49b0bfc573be"><a href="https://apps.repebble.com/27ea2cc229cd49b0bfc573be">Celestial Noon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/echo-lalia/celestialnoon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-20</span> <span title="Latest release in the app store">Updated 2026-06-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-20</span> <span title="Latest release in the app store">Updated 2026-06-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watch face inspired by the &quot;Celestial Whimsy&quot; aesthetic, where the clock hands have been replaced with a live visualization of the sun and moon rising and setting. At solar noon, the sun will…</p>
 </div>

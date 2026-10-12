@@ -13,7 +13,7 @@ hide:
 
 # Word to the Wise
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/word-to-the-wise_52c9d6ca6126ce9d86000019) · [GitHub (wttw)](https://github.com/wttw) · [Website (teatime.blighty.com)](http://teatime.blighty.com/)
 

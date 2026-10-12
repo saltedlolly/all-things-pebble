@@ -13,7 +13,7 @@ hide:
 
 # Stuart P. Bentley
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stuart-p-bentley_58508f51ce45dc5d1d000025) · [GitHub (stuartpb)](https://github.com/stuartpb)
 

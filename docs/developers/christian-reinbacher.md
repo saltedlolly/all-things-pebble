@@ -13,7 +13,7 @@ hide:
 
 # Christian Reinbacher
 
-*6 watchfaces and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christian-reinbacher_52d29655c44c044e9f00004f) · [GitHub (reini1305)](https://github.com/reini1305) · [Website (reini1305.github.io)](http://reini1305.github.io/)
 

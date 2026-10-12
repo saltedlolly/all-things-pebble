@@ -13,7 +13,7 @@ hide:
 
 # Ben
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/585ffd9e0e3a49dd2600003f/1) · [GitHub (computergeek314)](https://github.com/computergeek314)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/585ffd9e0e3a49d
 <h2 class="app-name" id="app-586bf8f7e09e63b4c7000473"><a href="https://apps.rebble.io/en_US/application/586bf8f7e09e63b4c7000473">MandaFractal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/computergeek314/PebbleFractal/blob/master/main.c" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-01-03</span> <span title="Latest release in the app store">Updated 2017-01-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-01-03</span> <span title="Latest release in the app store">Updated 2017-01-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Generate colorful fractals on the fly with this watchapp. Capable of rendering Julia and Mandelbrot sets quickly and zooming and panning within them. NOTE: On non color screens, the parts that…</p>
 </div>

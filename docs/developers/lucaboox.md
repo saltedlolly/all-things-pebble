@@ -13,7 +13,7 @@ hide:
 
 # Lucaboox
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lucaboox_3baa3c53d5e0047df0dc5890) · [GitHub (lucaboox)](https://github.com/lucaboox)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lucaboox_3baa3c53d5
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="raise to wake" data-released="2026-10-07" data-updated="2026-10-10">
+<div class="app-card" data-type="watchapp" data-title="raise to wake" data-released="2026-10-07" data-updated="2026-10-11">
 <a class="app-shot" href="https://apps.repebble.com/9b20c579b0344422ab8ea24e" data-search-exclude><img src="../images/apps/9b20c579b0344422ab8ea24e.png" alt="Raise to Wake" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9b20c579b0344422ab8ea24e"><a href="https://apps.repebble.com/9b20c579b0344422ab8ea24e">Raise to Wake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-9b20c579b0344422ab8ea24e"><a href="https://apps.repebble.com/9b20c579b0344422ab8ea24e">Raise to Wake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/lucaboox/pebble-raise-to-wake" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Raise to wake app that allows the pebble backlight to turn on when you raise your wrist and turn off when lowered.</p>
 </div>

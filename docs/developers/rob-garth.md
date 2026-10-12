@@ -13,7 +13,7 @@ hide:
 
 # Rob Garth
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rob-garth_52f1fc5b7247497b640000dc) · [Rebble App Store](https://apps.rebble.io/en_US/developer/52f1fc5b7247497b640000dc/1) · [GitHub (rgarth)](https://github.com/rgarth)
 

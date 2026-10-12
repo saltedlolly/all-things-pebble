@@ -13,7 +13,7 @@ hide:
 
 # drkitt
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/60e088801342ae01703c842e/1) · [GitHub (drkitt)](https://github.com/drkitt)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/60e088801342ae0
 <h2 class="app-name" id="app-60e088801342ae01703c8430"><a href="https://apps.rebble.io/en_US/application/60e088801342ae01703c8430">Instaweather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/drkitt/instaweather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-07-03</span> <span title="Latest release in the app store">Updated 2021-07-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-07-03</span> <span title="Latest release in the app store">Updated 2021-07-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Instaweather is a weather app that fetches and caches weather data in the background every hour so you can view up-to-date weather instantly.</p>
 </div>

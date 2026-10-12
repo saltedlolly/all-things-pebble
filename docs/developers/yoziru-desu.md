@@ -13,7 +13,7 @@ hide:
 
 # yoziru-desu
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoziru-desu_560fd7a8ba529bd5f4000094) · [GitHub (yoziru-desu)](https://github.com/yoziru-desu) · [Website (paypal.me)](http://paypal.me/yoziru)
 

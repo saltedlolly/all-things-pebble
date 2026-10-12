@@ -13,7 +13,7 @@ hide:
 
 # fork from David Gianforte
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/607dad8b1342ae005a8a9b2a/1) · [GitHub (zhcong)](https://github.com/zhcong)
 

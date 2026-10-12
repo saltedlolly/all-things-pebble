@@ -13,7 +13,7 @@ hide:
 
 # Kipling Inscore
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kipling-inscore_531a35dd4969a2a00e0005f3) · [GitHub (kinscore)](https://github.com/kinscore)
 

@@ -13,7 +13,7 @@ hide:
 
 # Alex Davis
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-davis_53168833e9e0b54c45000266) · [GitHub (i2robotics)](https://github.com/i2robotics) · [Website (i2robotics.org)](http://www.i2robotics.org)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-davis_53168833
 <h2 class="app-name" id="app-54a06048d819e546e6000135"><a href="https://apps.repebble.com/54a06048d819e546e6000135">FTC Match Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/i2robotics/pebble-ftc-timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-28</span> <span title="Latest release in the app store">Updated 2015-02-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-12-28</span> <span title="Latest release in the app store">Updated 2015-02-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Use your wrist when doing match practice! This app, designed for the FIRST Tech Challenge robotics competition, is basically a countdown timer customized for running FTC Matches. Features: …</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # meyer-solutions
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52b200a105c0464291000030/1) · [Website (macxperience.de)](http://www.macxperience.de/Apps/Fahrtenbuch/Pebble/Pebble.html)
 

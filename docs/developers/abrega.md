@@ -13,7 +13,7 @@ hide:
 
 # Abrega
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/abrega_5539a63fa7c65798c800006a) · [GitHub (bberenberg)](https://github.com/bberenberg) · [Website (abrega.com)](https://abrega.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # Bil Arikan
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bil-arikan_dc67d08e6e7dcd07797a8bd8) · [GitHub (bilarikan)](https://github.com/bilarikan)
 

@@ -13,7 +13,7 @@ hide:
 
 # Ben Kesselring
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-kesselring_563ad9791db95bfbc0000024) · [GitHub (BenKesselring)](https://github.com/BenKesselring)
 

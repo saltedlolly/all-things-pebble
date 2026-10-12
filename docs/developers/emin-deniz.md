@@ -13,7 +13,7 @@ hide:
 
 # Emin Deniz
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/emin-deniz_111e8d200cbe1cbce9341ec3) · [GitHub (emindeniz99)](https://github.com/emindeniz99)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/emin-deniz_111e8d20
 <h2 class="app-name" id="app-b67c26d2118f4ffeb654ebdd"><a href="https://apps.repebble.com/b67c26d2118f4ffeb654ebdd">Sloth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/emindeniz99/pebble-signals/tree/main/faces/slothvec" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-06</span> <span title="Latest release in the app store">Updated 2026-08-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-06</span> <span title="Latest release in the app store">Updated 2026-08-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A hand-vectored sloth hangs from its branch and blinks down at you while the seconds quietly tick by. • Resolution-independent vector art (Pebble Draw Commands) — crisp on both round (Pebble Round…</p>
 </div>

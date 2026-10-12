@@ -13,7 +13,7 @@ hide:
 
 # rukari / @hidea
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rukari-hidea_5584ba687ecc11b67700005c) · [GitHub (hidea)](https://github.com/hidea) · [Website (bsky.app)](https://bsky.app/profile/hidea.bsky.social)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rukari-hidea_5584ba
 <h2 class="app-name" id="app-2118f92b4636449189dee85b"><a href="https://apps.repebble.com/2118f92b4636449189dee85b">Typical Garmin Fitness</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/hidea/garmin-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Garmin Fitness Face Display your Garmin Connect fitness data right on your Pebble. Perfect companion for Garmin CIRQA. Stay on top of your health and training with customizable data slots showing…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rukari-hidea_5584ba
 <h2 class="app-name" id="app-246967574a054baa90f691bf"><a href="https://apps.repebble.com/246967574a054baa90f691bf">Typical Outdoor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/hidea/typical-outdoor-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-07-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-07-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">This simple watch face displays the date, battery level, sunrise, sunset, and heart rate.</p>
 </div>

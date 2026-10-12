@@ -13,7 +13,7 @@ hide:
 
 # Noah Martin
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noah-martin_52b20d26b70e1ca84c000057) · [GitHub (noahsmartin)](https://github.com/noahsmartin)
 

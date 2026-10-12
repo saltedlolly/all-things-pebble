@@ -13,7 +13,7 @@ hide:
 
 # Daniel Tse
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-tse_52d0bf4d336477716e0000a9) · [GitHub (jogloran)](https://github.com/jogloran) · [Website (reddit.com)](http://www.reddit.com/r/pebble/comments/1cgzo2/bawrista_like_plungeraeropress_coffee_have_a/)
 

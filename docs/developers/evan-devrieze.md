@@ -13,7 +13,7 @@ hide:
 
 # Evan DeVrieze
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/evan-devrieze_536e45d78b248a38be00016e) · [GitHub (devrevan)](https://github.com/devrevan)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/evan-devrieze_536e4
 <h2 class="app-name" id="app-550abeed84ad02c80c000119"><a href="https://apps.repebble.com/550abeed84ad02c80c000119">Simple Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/devrevan/simplePebbleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-19</span> <span title="Latest release in the app store">Updated 2015-03-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-19</span> <span title="Latest release in the app store">Updated 2015-03-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An extremely simple watchface that I like to use myself. Second screenshot shows accurate colors for when it&#x27;s on the watch.</p>
 </div>

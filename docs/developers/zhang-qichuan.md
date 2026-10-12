@@ -13,7 +13,7 @@ hide:
 
 # Zhang Qichuan
 
-*1 watchface and 5 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zhang-qichuan_53043485117485c22f0000cf) · [GitHub (qichuan)](https://github.com/qichuan) · [Website (zhangqichuan.com)](https://zhangqichuan.com/)
 

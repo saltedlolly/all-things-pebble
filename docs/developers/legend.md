@@ -13,7 +13,7 @@ hide:
 
 # legend
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52e14ea17487e5548a000320/1) · [GitHub (legendtired)](https://github.com/legendtired)
 

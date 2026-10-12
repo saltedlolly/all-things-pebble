@@ -13,7 +13,7 @@ hide:
 
 # cr0ybot
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531a8d36eb7a7763e50005ae/1) · [GitHub (cr0ybot)](https://github.com/cr0ybot)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531a8d36eb7a776
 <h2 class="app-name" id="app-594b1d660dfc32acc7000133"><a href="https://apps.rebble.io/en_US/application/594b1d660dfc32acc7000133">Owl Cave Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/cr0ybot/owl-cave-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-06-22</span> <span title="Latest release in the app store">Updated 2017-06-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-06-22</span> <span title="Latest release in the app store">Updated 2017-06-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by Twin Peaks and the Owl Cave Ring. Currently it does nothing except tell the time, though I am not responsible for any strange things that may happen to you while wearing it.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # 3DTero
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/3dtero_0e22a0bc25408281396a6f0c) · [GitHub (3DTero)](https://github.com/3DTero)
 

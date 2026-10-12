@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · **N** · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*43 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*43 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -127,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-59e0f0370dfc329496000048"><a href="https://apps.rebble.io/en_US/application/59e0f0370dfc329496000048">Nectar for Hive</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/greenturtwig/nectarforhive" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/greenturtwig.html" title="More from this developer">GreenTurtwig</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-10-13</span> <span title="Latest release in the app store">Updated 2017-10-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-10-13</span> <span title="Latest release in the app store">Updated 2017-10-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Nectar allow you to control your Hive heating from your Pebble! Push up and down to adjust the temperature or push select to change the mode.</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-5480e782d581a15cd4000088"><a href="https://apps.repebble.com/5480e782d581a15cd4000088">NetAtmo for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/gregoiresage/pebble-netatmo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gregoire-sage.html" title="More from this developer">Grégoire Sage</a> · <a href="https://forum.rebble.io/t/1330" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-04</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-04</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchapp displays data from your NetAtmo® stations. Open the configuration page, enter your credentials and select your default NetAtmo station. The outdoor module is displayed on top. Press…</p>
 </div>
@@ -193,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-5400ffd65b56a15a20000003"><a href="https://apps.repebble.com/5400ffd65b56a15a20000003">NexaHome P</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/fingalo/NexaHomeP" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/fingalo.html" title="More from this developer">Fingalo</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-29</span> <span title="Latest release in the app store">Updated 2016-11-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-08-29</span> <span title="Latest release in the app store">Updated 2016-11-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble app for connecting to NexaHome (Tellstick) server. Control your ligths and wallsockets from you watch. Long press on middle button will cycle dimmers 25% at a time. See github for use of…</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-56ce4c6195d6f6340d000057"><a href="https://apps.repebble.com/56ce4c6195d6f6340d000057">NextSkyssBuss</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/danislu/skyss" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/danislu.html" title="More from this developer">danislu</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-25</span> <span title="Latest release in the app store">Updated 2016-03-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-25</span> <span title="Latest release in the app store">Updated 2016-03-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">when is the next buss from my house to work</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-5426c4165b15c8c5fb0000bc"><a href="https://apps.repebble.com/5426c4165b15c8c5fb0000bc">NextTram</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/coljac/NextTram" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/colin-jacobs.html" title="More from this developer">Colin Jacobs</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-27</span> <span title="Latest release in the app store">Updated 2014-09-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2014-09-27</span> <span title="Latest release in the app store">Updated 2014-09-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">For residents of Melbourne and patrons of Yarra Trams. Shows time until the next tram at your favourite stops. Configurable with up to 4 stops/trams.</p>
 </div>
@@ -270,7 +270,7 @@ hide:
 <h2 class="app-name" id="app-54721996178bd6326800007f"><a href="https://apps.repebble.com/54721996178bd6326800007f">Nicolas Cage Quotes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ilepow34/CageQuotesPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/isaac-lepow.html" title="More from this developer">Isaac Lepow</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-23</span> <span title="Latest release in the app store">Updated 2014-11-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-23</span> <span title="Latest release in the app store">Updated 2014-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An app to show quotes from Nicolas Cage movies, chosen randomly from a list. Made at Northwestern University&#x27;s WildHacks. This app is open source and freely available on GitHub.</p>
 </div>
@@ -314,7 +314,7 @@ hide:
 <h2 class="app-name" id="app-5486c0e6e67af55f1800000e"><a href="https://apps.repebble.com/5486c0e6e67af55f1800000e">NodeUsage</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/jamesflores/NodeUsage" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/james-flores.html" title="More from this developer">James Flores</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-09</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-09</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">View your Internode usage information on your Pebble. Usage is checked hourly and cached by NodeUsage. Hold the center button to force a refresh.</p>
 </div>
@@ -347,7 +347,7 @@ hide:
 <h2 class="app-name" id="app-52b16d566c239f90a1000001"><a href="https://apps.repebble.com/52b16d566c239f90a1000001">North Pole</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/iOSCowboy/NorthPole" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/hector-zarate.html" title="More from this developer">Hector Zarate</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-18</span> <span title="Latest release in the app store">Updated 2014-01-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2013-12-18</span> <span title="Latest release in the app store">Updated 2014-01-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">North Pole is an altimeter and compass for your Pebble watch. Put your phone&#x27;s GPS and internal compass within a hand&#x27;s reach</p>
 </div>
@@ -435,7 +435,7 @@ hide:
 <h2 class="app-name" id="app-554bffaf92dfd346430000be"><a href="https://apps.repebble.com/554bffaf92dfd346430000be">Notre Dame</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dmattia/NDPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david.html" title="More from this developer">David</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-08</span> <span title="Latest release in the app store">Updated 2015-05-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-08</span> <span title="Latest release in the app store">Updated 2015-05-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Notre Dame Golden Dome Watchface</p>
 </div>
@@ -457,7 +457,7 @@ hide:
 <h2 class="app-name" id="app-512528cffc5f49ccabd99686"><a href="https://apps.repebble.com/512528cffc5f49ccabd99686">NRL Fan</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/erad84/NRL-fan" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/erad84.html" title="More from this developer">erad84</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-09-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-09-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An app for Australian NRL fans to keep up with their favourite teams. It features: - Set your favourite team and code (NRL, NRLW + Origin series) - Current ladder and rankings - Upcoming matches…</p>
 </div>
@@ -468,7 +468,7 @@ hide:
 <h2 class="app-name" id="app-52ed57fbe647b0c74c00000c"><a href="https://apps.repebble.com/52ed57fbe647b0c74c00000c">NS.NL Vertrektijden</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dewagter/pebbleapps/tree/master/ns" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/c-de-wagter.html" title="More from this developer">C De Wagter</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-01</span> <span title="Latest release in the app store">Updated 2014-05-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-02-01</span> <span title="Latest release in the app store">Updated 2014-05-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Dutch railroad departure times app for pebble.</p>
 </div>

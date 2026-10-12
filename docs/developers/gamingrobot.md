@@ -13,7 +13,7 @@ hide:
 
 # gamingrobot
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gamingrobot_75f5b2304cfeec5252a13325) · [GitHub (gamingrobot)](https://github.com/gamingrobot)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gamingrobot_75f5b23
 <h2 class="app-name" id="app-34d08447e48e40f0be36d5d7"><a href="https://apps.repebble.com/34d08447e48e40f0be36d5d7">Orbit Dash</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/gamingrobot/orbit-dash-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1069" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-19</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-19</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Orbit watchface inspired by Kvaesitso&#x27;s Orbit Clock You can customize the background color, clock color, digit color, and show/hide date.</p>
 </div>

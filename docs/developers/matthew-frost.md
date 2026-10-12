@@ -13,7 +13,7 @@ hide:
 
 # Matthew Frost
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-frost_5322e5fcd7a381cf1f0001b2) · [GitHub (mattronix)](https://github.com/mattronix) · [Website (techinc.nl)](http://techinc.nl)
 

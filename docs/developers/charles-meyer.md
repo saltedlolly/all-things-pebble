@@ -13,7 +13,7 @@ hide:
 
 # Charles Meyer
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/charles-meyer_542b8b797a43169188000184) · [GitHub (charles-meyer)](https://github.com/charles-meyer)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/charles-meyer_542b8
 <h2 class="app-name" id="app-549afa9da003de7939000122"><a href="https://apps.repebble.com/549afa9da003de7939000122">BasicTime II</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/charles-meyer/basic-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-24</span> <span title="Latest release in the app store">Updated 2014-12-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-24</span> <span title="Latest release in the app store">Updated 2014-12-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A minimalist time, date, and day of the week. Inverted colors of original BasicTime watchface.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/charles-meyer_542b8
 <h2 class="app-name" id="app-548e2839f1f4ab6c44000029"><a href="https://apps.repebble.com/548e2839f1f4ab6c44000029">BasicTime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/charles-meyer/basic-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-15</span> <span title="Latest release in the app store">Updated 2014-12-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-15</span> <span title="Latest release in the app store">Updated 2014-12-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Minimalist, no nonsense, time, date, and day of the week.</p>
 </div>

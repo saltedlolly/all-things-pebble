@@ -13,7 +13,7 @@ hide:
 
 # Crabmeat
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/crabmeat_81a69ab181b5c711ce73e965) · [GitHub (Yesnaught)](https://github.com/Yesnaught) · [Website (crabme.at)](http://crabme.at)
 

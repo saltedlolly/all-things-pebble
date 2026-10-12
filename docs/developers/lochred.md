@@ -13,7 +13,7 @@ hide:
 
 # LochRED
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5926fa58b67f9f43f800046c/1) · [GitHub (LochRED)](https://github.com/LochRED)
 

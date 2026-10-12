@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · **X** · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-62cdbbd1f0886b0009c74042"><a href="https://apps.repebble.com/62cdbbd1f0886b0009c74042">XCTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/clay53/PebbleXCTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/clayton-does-things.html" title="More from this developer">Clayton Does Things</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-07-12</span> <span title="Latest release in the app store">Updated 2023-01-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-07-12</span> <span title="Latest release in the app store">Updated 2023-01-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A repeating timer and stopwatch for XC and track.</p>
 </div>

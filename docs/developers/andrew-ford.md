@@ -13,7 +13,7 @@ hide:
 
 # Andrew Ford
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-ford_0719eed4ae8890bb0271f34b) · [GitHub (barefootford)](https://github.com/barefootford)
 

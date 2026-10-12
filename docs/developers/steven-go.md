@@ -13,7 +13,7 @@ hide:
 
 # Steven Go
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58d3bcef6ca387cb86000cf8/1) · [GitHub (greenlover1991)](https://github.com/greenlover1991) · [Website (llamalab.com)](https://llamalab.com/automate/community/flows/16413)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58d3bcef6ca387c
 <h2 class="app-name" id="app-5afda2da461a8d6af4000d7b"><a href="https://apps.rebble.io/en_US/application/5afda2da461a8d6af4000d7b">Remote for Automate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/greenlover1991/pebble-remote-for-automate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-05-17</span> <span title="Latest release in the app store">Updated 2018-05-17</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-05-17</span> <span title="Latest release in the app store">Updated 2018-05-17</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Ever wanted to have more control of your phone via your Pebble? Wanted to send a text, start the flashlight, toggle the WiFi, get the bus&#x27; ETA, send an HTTP request with parameters, trigger the…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58d3bcef6ca387c
 <h2 class="app-name" id="app-59dceb380dfc32af61003d5a"><a href="https://apps.rebble.io/en_US/application/59dceb380dfc32af61003d5a">Simple Lyrics Viewer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/greenlover1991/pebble-lyrics-viewer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-10-10</span> <span title="Latest release in the app store">Updated 2017-10-11</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-10-10</span> <span title="Latest release in the app store">Updated 2017-10-11</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple scollable Lyrics Viewer - ANDROID only - REQUIRES Automate Flow companion to properly work. Link at the external website link. - REQUIRES Spotify&#x27;s &quot;Device Broadcast Status&quot; is enabled …</p>
 </div>

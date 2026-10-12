@@ -13,7 +13,7 @@ hide:
 
 # acmc
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/acmc_ad2ff26b86cb890177f9e873) · [GitHub (ACMCMC)](https://github.com/ACMCMC) · [Website (acmc.fyi)](https://acmc.fyi)
 

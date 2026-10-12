@@ -13,7 +13,7 @@ hide:
 
 # 16 Bit Virtual Studios
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/16-bit-virtual-studios_6d44abb96ffddb74f2e9b268) · [Rebble App Store](https://apps.rebble.io/en_US/developer/5b80a72c09bc1d00018a3824/1) · [Codeberg (the16bitgamer)](https://codeberg.org/the16bitgamer) · [Website (16bitvirtualstudios.com)](https://www.16bitvirtualstudios.com/)
 

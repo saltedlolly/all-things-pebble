@@ -13,7 +13,7 @@ hide:
 
 # Jan Karlsen
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jan-karlsen_5437d74d1d16a7d5120001f3) · [GitHub (pebblejtkarlsen)](https://github.com/pebblejtkarlsen)
 

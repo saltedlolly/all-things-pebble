@@ -13,7 +13,7 @@ hide:
 
 # Oldschool.de
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/oldschool-de_54353c3c32035c53d80001c5) · [GitHub (robinson2)](https://github.com/robinson2)
 

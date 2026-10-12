@@ -13,7 +13,7 @@ hide:
 
 # BD Crowell
 
-*3 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bd-crowell_bc77df078bf00f8502c00039) · [GitHub (bcrowell770)](https://github.com/bcrowell770)
 

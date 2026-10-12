@@ -13,7 +13,7 @@ hide:
 
 # RockenSocken
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rockensocken_02d8d4c1aec6e5aa9ca3f104) · [GitHub (RockenSocken)](https://github.com/RockenSocken)
 

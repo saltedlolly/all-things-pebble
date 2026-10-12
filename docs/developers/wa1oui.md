@@ -13,7 +13,7 @@ hide:
 
 # WA1OUI
 
-*13 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*13 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52acd9c431a5fa984900002e/1) · [GitHub (DHKaplan)](https://github.com/DHKaplan)
 

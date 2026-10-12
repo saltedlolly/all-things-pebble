@@ -13,7 +13,7 @@ hide:
 
 # Greg Lockwood
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg-lockwood_548443cf9b0ef2e77e000070) · [GitHub (greglockwood)](https://github.com/greglockwood)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg-lockwood_54844
 <h2 class="app-name" id="app-548902db7d4e8e0a9e000041"><a href="https://apps.repebble.com/548902db7d4e8e0a9e000041">Imperial to Metric Converter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/greglockwood/Imp2MetricPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-11</span> <span title="Latest release in the app store">Updated 2015-04-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-11</span> <span title="Latest release in the app store">Updated 2015-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple imperial to metric conversion app that allows you to quickly convert between units by drilling down in menus until you find a value of sufficient accuracy. So the less precision you…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg-lockwood_54844
 <h2 class="app-name" id="app-54fe872bdbd96e00fa0000c0"><a href="https://apps.repebble.com/54fe872bdbd96e00fa0000c0">Kickstarter Stats</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/greglockwood/PebbleTimeKickstarterStats" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-10</span> <span title="Latest release in the app store">Updated 2015-03-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-10</span> <span title="Latest release in the app store">Updated 2015-03-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Display how much money the Pebble guys made with the Pebble Time project on KickStarter. No guarantees are provided that this will continue to work since the project completed funding a while ago…</p>
 </div>

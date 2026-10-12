@@ -13,7 +13,7 @@ hide:
 
 # Joseph Reusing
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/576ee7526c2104ce5500002f/1) · [GitHub (joeyreu)](https://github.com/joeyreu) · [Website (joeyreu.github.io)](https://joeyreu.github.io/)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/576ee7526c2104c
 <h2 class="app-name" id="app-598c9662461a8d9e49000c1c"><a href="https://apps.rebble.io/en_US/application/598c9662461a8d9e49000c1c">BMO Adventure Time Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/joeyreu/PebbleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-08-10</span> <span title="Latest release in the app store">Updated 2017-08-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-08-10</span> <span title="Latest release in the app store">Updated 2017-08-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">BMO Adventure Time Watch Face</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Solar Timekeeper
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/solar-timekeeper_b2429c905b062035b8272e7e) · [GitHub (yodalf)](https://github.com/yodalf)
 

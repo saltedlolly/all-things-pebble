@@ -13,7 +13,7 @@ hide:
 
 # Davide Dell&\#x27;Erba
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davide-dell-erba_54c90ccd8359ae297b000054) · [GitHub (delda)](https://github.com/delda)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davide-dell-erba_54
 <h2 class="app-name" id="app-4f27b20d89244f2d8f0ca9d5"><a href="https://apps.repebble.com/4f27b20d89244f2d8f0ca9d5">DotLine</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-picto" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">It is a watch with a dot and a line: the dot indicates the hours and the line the minutes. Nothing could be simpler, nothing could be more functional!</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davide-dell-erba_54
 <h2 class="app-name" id="app-d1c1ab1801e745f3a894690a"><a href="https://apps.repebble.com/d1c1ab1801e745f3a894690a">Slow Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-slowatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Slow Watch is a calm, single-hand 24-hour watchface for Pebble. Instead of circling the dial twice a day, its copper hand completes one full rotation every 24 hours. The navy dial is numbered…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davide-dell-erba_54
 <h2 class="app-name" id="app-b77f1449d5a84104a86fba6d"><a href="https://apps.repebble.com/b77f1449d5a84104a86fba6d">Word Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.7</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-qlocktwo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Instead of showing digits, it displays the time in words by illuminating words within a grid of letters. It’s a modern and stylish clock. Personalise your watchface directly from the settings: …</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davide-dell-erba_54
 <h2 class="app-name" id="app-5502d67eaab67c67a50000c6"><a href="https://apps.repebble.com/5502d67eaab67c67a50000c6">Binary Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v4.5.0</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-BinaryWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-13</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-13</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A binary clock is a clock that displays the time in a binary format. The first row is for hours, the second for minutes. Configurable options: - Colors palette - Different shapes for dots …</p>
 </div>

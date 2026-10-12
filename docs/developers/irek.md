@@ -13,7 +13,7 @@ hide:
 
 # irek
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/636763090587050008d091aa/1) · [GitHub (ir33k)](https://github.com/ir33k) · [Website (irek.gabr.pl)](http://irek.gabr.pl/)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/636763090587050
 <h2 class="app-name" id="app-67c751c6d2acb30009a3c812"><a href="https://apps.rebble.io/en_US/application/67c751c6d2acb30009a3c812">BRUTAL</a> <span class="app-version" title="Latest version" data-search-exclude>v5.4</span></h2>
 <a class="app-source" href="https://github.com/ir33k/brutal" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/275" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-04</span> <span title="Latest release in the app store">Updated 2026-08-27</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2025-03-04</span> <span title="Latest release in the app store">Updated 2026-08-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Basic watchface with big time made with custom fonts resembling huge buildings of brutalist architecture. Created during Rebble Hackathon #002. - Big digital time 12h/24h - Customizable text lines…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/636763090587050
 <h2 class="app-name" id="app-69514fb711ece50009816c83"><a href="https://apps.rebble.io/en_US/application/69514fb711ece50009816c83">Jealous</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ir33k/jealous" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/364" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-28</span> <span title="Latest release in the app store">Updated 2025-12-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2025-12-28</span> <span title="Latest release in the app store">Updated 2025-12-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My take on watchface with tall font and weather. - Digital time 24/12h with optional seconds - Up to 8 lines of text on left and right side with date, time, health, icons, weather and more - Quick…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/636763090587050
 <h2 class="app-name" id="app-69469023828bd90009075f2d"><a href="https://apps.rebble.io/en_US/application/69469023828bd90009075f2d">Naive</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ir33k/naive" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/317" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-20</span> <span title="Latest release in the app store">Updated 2025-12-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2025-12-20</span> <span title="Latest release in the app store">Updated 2025-12-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Big abstract looking numbers with rounded features and 4 lines of customizable text. In comparison to Brutal (my previous watchface) this tries to take itself less seriously, look artistic and…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/636763090587050
 <h2 class="app-name" id="app-637aa98bfdf3e30009f6398f"><a href="https://apps.rebble.io/en_US/application/637aa98bfdf3e30009f6398f">pRebble</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/ir33k/prebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2025-03-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2025-03-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface inspired by Rebble logo and Pebble UI design. Created during Rebble Hackathon #001. - Digital and analog - Time 24h/12h - Date - Compatible with Quick View - Quick animation after each…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Adam Edmondson
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/adam-edmondson_6862f24053b131000870690a) · [GitHub (AdamEdmondson)](https://github.com/AdamEdmondson)
 

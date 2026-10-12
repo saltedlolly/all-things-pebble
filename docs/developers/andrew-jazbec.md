@@ -13,7 +13,7 @@ hide:
 
 # Andrew Jazbec
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-jazbec_5381121461e8e27727000175) · [GitHub (AndrewJazbec)](https://github.com/AndrewJazbec)
 

@@ -13,7 +13,7 @@ hide:
 
 # Thomas Cherry
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-cherry_e17c5c02c0004112d037771d) · [GitHub (jceaser)](https://github.com/jceaser)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-cherry_e17c5
 <h2 class="app-name" id="app-3023af58454c4d53b96def0a"><a href="https://apps.repebble.com/3023af58454c4d53b96def0a">The Real Time</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/jceaser/pebble-real-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-26</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-26</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The Government does not want you to know what time it is, they want you living in a world created by them, a world where they claim they can change the rotation of the Earth. Not any more people…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-cherry_e17c5
 <h2 class="app-name" id="app-e06a6b84092b469390bd6d6d"><a href="https://apps.repebble.com/e06a6b84092b469390bd6d6d">25 Hour Day</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/jceaser/pebble-hour25" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Need more time? Tired of other watches shorting your day? Try our 25 Hour Watch, now with an extra hour! Get more done, have more personal time, enjoy life for once! With our patented time…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-cherry_e17c5
 <h2 class="app-name" id="app-b3a9a279975041c8b078eaef"><a href="https://apps.repebble.com/b3a9a279975041c8b078eaef">Edo Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/jceaser/pebble-edo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This app is an Edo Clock. Edo period clocks are based on 6 hours spaced from sun rise to sun set. Summer hours are longer then winter hours.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-cherry_e17c5
 <h2 class="app-name" id="app-177f26f0ace84ea9bdb29a99"><a href="https://apps.repebble.com/177f26f0ace84ea9bdb29a99">@beat</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
 <a class="app-source" href="https://github.com/jceaser/pebble-beat/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Initial release of an old Pebble app that I never got around to publishing when Pebble was now, but now that we are here for round 2 I&#x27;m inspired to share what I have. Very basic implementation of…</p>
 </div>

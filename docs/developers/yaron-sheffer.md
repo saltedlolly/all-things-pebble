@@ -13,7 +13,7 @@ hide:
 
 # Yaron Sheffer
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yaron-sheffer_96a692ff40490c816176095f) · [GitHub (yaronf)](https://github.com/yaronf)
 

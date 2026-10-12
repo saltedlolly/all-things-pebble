@@ -13,7 +13,7 @@ hide:
 
 # Skylar Sadlier
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/skylar-sadlier_5d01f46b419d5a0001a47cfb) · [GitHub (skylord123)](https://github.com/skylord123) · [Website (skylar.tech)](https://skylar.tech)
 

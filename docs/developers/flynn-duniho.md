@@ -13,7 +13,7 @@ hide:
 
 # Flynn Duniho
 
-*5 watchfaces and 6 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 6 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67bd48a737d408000a74f7d7/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/flynn-duniho_67bd48a737d408000a74f7d7) · [GitHub (FlynnD273)](https://github.com/FlynnD273) · [Website (flynnd273.github.io)](https://flynnd273.github.io/)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67bd48a737d4080
 <h2 class="app-name" id="app-6959fce216fdf50009c6a89f"><a href="https://apps.rebble.io/en_US/application/6959fce216fdf50009c6a89f">Nomai</a> <span class="app-version" title="Latest version" data-search-exclude>v2.02.2</span></h2>
 <a class="app-source" href="https://github.com/flynnD273/pebble-nomai" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/436" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-04</span> <span title="Latest release in the app store">Updated 2026-07-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-04</span> <span title="Latest release in the app store">Updated 2026-07-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by Outer Wilds, this displays a Nomai mask when idle, and shows the time, date, and battery level upon shaking.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67bd48a737d4080
 <h2 class="app-name" id="app-69d9d794afd84300099c2003"><a href="https://apps.rebble.io/en_US/application/69d9d794afd84300099c2003">Metaballs</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/flynnd273/pebble-metaballs" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/852" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-04-11</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-04-11</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Play with a bouncy metaball! It kinda merges together with the other one lol</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67bd48a737d4080
 <h2 class="app-name" id="app-67ddcf03d8284900098ed1a4"><a href="https://apps.rebble.io/en_US/application/67ddcf03d8284900098ed1a4">QR Generator</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10</span></h2>
 <a class="app-source" href="https://github.com/flynnD273/pebble-qr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/547" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-21</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-21</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Display configurable QR codes from your watch</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67bd48a737d4080
 <h2 class="app-name" id="app-67c5071bb7a02300092ba08c"><a href="https://apps.rebble.io/en_US/application/67c5071bb7a02300092ba08c">Orbit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/flynnD273/orbit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/735" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A space-themed watchface where the positions of the celestial bodies represent the time. The large orbit also serves as a battery level indicator.</p>
 </div>
@@ -142,7 +142,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67bd48a737d4080
 <h2 class="app-name" id="app-67c1f6e2d2acb30009a3c793"><a href="https://apps.rebble.io/en_US/application/67c1f6e2d2acb30009a3c793">Binary</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/flynnD273/binary-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-02-28</span> <span title="Latest release in the app store">Updated 2025-03-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-02-28</span> <span title="Latest release in the app store">Updated 2025-03-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Displays the time in binary</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # mrTrueBeliever
 
-*1 watchface and 7 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 8 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrtruebeliever_5f8814a92a6f109602136f61) · [GitHub (mrtruebeliever)](https://github.com/mrtruebeliever)
 
@@ -21,97 +21,108 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrtruebeliever_5f88
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>8</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>7</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>9</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>8</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="pebblekimai" data-released="2026-07-19" data-updated="2026-08-18">
-<a class="app-shot" href="https://apps.repebble.com/4ab5c72a6eb74d5581ebcf6d" data-search-exclude><img src="../images/apps/4ab5c72a6eb74d5581ebcf6d.gif" alt="PebbleKimai" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-4ab5c72a6eb74d5581ebcf6d"><a href="https://apps.repebble.com/4ab5c72a6eb74d5581ebcf6d">PebbleKimai</a> <span class="app-version" title="Latest version" data-search-exclude>v2.8.1</span></h2>
-<a class="app-source" href="https://github.com/mrtruebeliever/PebbleKimai" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-08-18</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Track your time in Kimai, straight from your wrist. Start, stop and switch Kimai time tracking from your Pebble. Recent activities in one press. Touch on PT2. 5 languages. PebbleKimai puts your…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="pebbledoist" data-released="2026-07-14" data-updated="2026-08-18">
-<a class="app-shot" href="https://apps.repebble.com/62a96010e98448ebaaa647fb" data-search-exclude><img src="../images/apps/62a96010e98448ebaaa647fb.png" alt="PebbleDoist" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-62a96010e98448ebaaa647fb"><a href="https://apps.repebble.com/62a96010e98448ebaaa647fb">PebbleDoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
-<a class="app-source" href="https://github.com/mrtruebeliever/PebbleDoist" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-08-18</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Your Todoist tasks on your wrist — add them by voice. Browse Todoist by list, label or Today, read details and subtasks, tick tasks off, and dictate new ones. Touch on PT2. 5 languages…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="polly" data-released="2026-06-08" data-updated="2026-08-13">
+<div class="app-card" data-type="watchapp" data-title="polly" data-released="2026-06-08" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/98a5501cdace41fea679452d" data-search-exclude><img src="../images/apps/98a5501cdace41fea679452d.png" alt="Polly" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-98a5501cdace41fea679452d"><a href="https://apps.repebble.com/98a5501cdace41fea679452d">Polly</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
+<h2 class="app-name" id="app-98a5501cdace41fea679452d"><a href="https://apps.repebble.com/98a5501cdace41fea679452d">Polly</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.1</span></h2>
 <a class="app-source" href="https://github.com/mrtruebeliever/Polly" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-08-13</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Polly — your talking parrot Press SELECT, speak a sentence, and Polly repeats it out loud through your Pebble Time 2&#x27;s speaker in real, natural-sounding speech. Powered by Google Cloud…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="pebblekuma" data-released="2026-06-05" data-updated="2026-08-13">
+<div class="app-card" data-type="watchapp" data-title="pebblekuma" data-released="2026-06-05" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/81a2a1cef20f45b4935929e7" data-search-exclude><img src="../images/apps/81a2a1cef20f45b4935929e7.gif" alt="PebbleKuma" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-81a2a1cef20f45b4935929e7"><a href="https://apps.repebble.com/81a2a1cef20f45b4935929e7">PebbleKuma</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-81a2a1cef20f45b4935929e7"><a href="https://apps.repebble.com/81a2a1cef20f45b4935929e7">PebbleKuma</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/mrtruebeliever/PebbleKuma" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-08-13</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">PebbleKuma brings your Uptime Kuma status pages to your Pebble Time 2. Browse a clean list of your monitors at a glance, a colored dot tells you what&#x27;s up, down, in maintenance, or pending, with…</p>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Your Uptime Kuma status page, on your wrist. Watch your Uptime Kuma monitors from your Pebble: uptime, ping and heartbeats per monitor, with status-coloured cards. Touch on PT2. PebbleKuma shows…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="pebblediver" data-released="2026-07-20" data-updated="2026-08-13">
+<div class="app-card" data-type="watchapp" data-title="pebblekimai" data-released="2026-07-19" data-updated="2026-10-12">
+<a class="app-shot" href="https://apps.repebble.com/4ab5c72a6eb74d5581ebcf6d" data-search-exclude><img src="../images/apps/4ab5c72a6eb74d5581ebcf6d.gif" alt="PebbleKimai" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4ab5c72a6eb74d5581ebcf6d"><a href="https://apps.repebble.com/4ab5c72a6eb74d5581ebcf6d">PebbleKimai</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10.0</span></h2>
+<a class="app-source" href="https://github.com/mrtruebeliever/PebbleKimai" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Track your time in Kimai, straight from your wrist. Start, stop and switch Kimai time tracking from your Pebble. Recent activities in one press. Touch on PT2. 5 languages. PebbleKimai puts your…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="pebbledoist" data-released="2026-07-14" data-updated="2026-10-12">
+<a class="app-shot" href="https://apps.repebble.com/62a96010e98448ebaaa647fb" data-search-exclude><img src="../images/apps/62a96010e98448ebaaa647fb.png" alt="PebbleDoist" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-62a96010e98448ebaaa647fb"><a href="https://apps.repebble.com/62a96010e98448ebaaa647fb">PebbleDoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
+<a class="app-source" href="https://github.com/mrtruebeliever/PebbleDoist" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Your Todoist tasks on your wrist — add them by voice. Browse Todoist by list, label or Today, read details and subtasks, tick tasks off, and dictate new ones. Touch on PT2. 5 languages…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="pebblediver" data-released="2026-07-20" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/d529bfb1bcb14e369c9ac112" data-search-exclude><img src="../images/apps/d529bfb1bcb14e369c9ac112.png" alt="PebbleDiver" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d529bfb1bcb14e369c9ac112"><a href="https://apps.repebble.com/d529bfb1bcb14e369c9ac112">PebbleDiver</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-d529bfb1bcb14e369c9ac112"><a href="https://apps.repebble.com/d529bfb1bcb14e369c9ac112">PebbleDiver</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/mrtruebeliever/PebbleDiver" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-08-13</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A one-button deep-sea dive. Hold to swim up, let go to sink. Dodge rocks and jellyfish, grab pearls and air, upgrade your gear, and dive as deep as you dare. PebbleDiver is a one-button arcade…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="pbl-7" data-released="2026-07-22" data-updated="2026-08-13">
+<div class="app-card" data-type="watchapp" data-title="pebble peaks" data-released="2026-10-12" data-updated="2026-10-12">
+<a class="app-shot" href="https://apps.repebble.com/ed51ec43c4a949fe9f265a8b" data-search-exclude><img src="../images/apps/ed51ec43c4a949fe9f265a8b.png" alt="Pebble Peaks" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ed51ec43c4a949fe9f265a8b"><a href="https://apps.repebble.com/ed51ec43c4a949fe9f265a8b">Pebble Peaks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/mrtruebeliever/PebblePeaks" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Jump. Climb. Don&#x27;t freeze! Jump ledge to ledge up a mountain with two buttons while freezing mist rises below. Collect gems, buy gear, plant the flag at 1000 m. Pebble Peaks is a vertical arcade…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="pbl-7" data-released="2026-07-22" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/3cbee0195ebb4709be91f6d2" data-search-exclude><img src="../images/apps/3cbee0195ebb4709be91f6d2.png" alt="PBL-7" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-3cbee0195ebb4709be91f6d2"><a href="https://apps.repebble.com/3cbee0195ebb4709be91f6d2">PBL-7</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-3cbee0195ebb4709be91f6d2"><a href="https://apps.repebble.com/3cbee0195ebb4709be91f6d2">PBL-7</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/mrtruebeliever/PBL-7" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-08-13</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A landscape shmup through the solar system. Hold your Pebble Time 2 sideways and fly PBL-7 to Earth. Rise, fire, dodge, and beat a boss on every planet. 11 planets, secrets, 5 languages. PBL-7 is…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchface" data-title="demi" data-released="2026-06-03" data-updated="2026-08-13">
+<div class="app-card" data-type="watchface" data-title="demi" data-released="2026-06-03" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/6d8da4ce71164976855a854e" data-search-exclude><img src="../images/apps/6d8da4ce71164976855a854e.png" alt="Demi" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6d8da4ce71164976855a854e"><a href="https://apps.repebble.com/6d8da4ce71164976855a854e">Demi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
+<h2 class="app-name" id="app-6d8da4ce71164976855a854e"><a href="https://apps.repebble.com/6d8da4ce71164976855a854e">Demi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
 <a class="app-source" href="https://github.com/mrtruebeliever/pebble-demi" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-08-13</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A vector watchface that tracks whatever matters to you. Bold vector digits with progress bars for steps, daylight, battery or your own JSON stat - plus weather, sunrise/sunset and a light theme…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="cairn" data-released="2026-07-25" data-updated="2026-08-13">
+<div class="app-card" data-type="watchapp" data-title="cairn" data-released="2026-07-25" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/707660e759f249eb85df1b04" data-search-exclude><img src="../images/apps/707660e759f249eb85df1b04.png" alt="Cairn" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-707660e759f249eb85df1b04"><a href="https://apps.repebble.com/707660e759f249eb85df1b04">Cairn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-707660e759f249eb85df1b04"><a href="https://apps.repebble.com/707660e759f249eb85df1b04">Cairn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
 <a class="app-source" href="https://github.com/mrtruebeliever/Cairn" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-25</span> <span title="Latest release in the app store">Updated 2026-08-13</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Breathe with the tide. A guided breathing coach with live heart rate. Inhale and the water rises, exhale and it falls. Finish a session, lay a stone. Cairn turns a breathing exercise into a tide…</p>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-25</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Cairn turns a breathing exercise into a tide. Start a session and the waterline rises while you inhale and falls while you exhale, uncovering a cairn of stones on the shore — no counting, no timer…</p>
 </div>
 </div>
 </div>

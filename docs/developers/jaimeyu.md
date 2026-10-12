@@ -13,7 +13,7 @@ hide:
 
 # jaimeyu
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jaimeyu_52a93f0f79c18fa72400001e) · [GitHub (jaimeyu)](https://github.com/jaimeyu) · [Website (ottawa.travvik.com)](http://ottawa.travvik.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jaimeyu_52a93f0f79c
 <h2 class="app-name" id="app-52b26ea9b70e1c131c0000cf"><a href="https://apps.repebble.com/52b26ea9b70e1c131c0000cf">Travvik</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://github.com/jaimeyu/travvik_pebble_3" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-19</span> <span title="Latest release in the app store">Updated 2015-03-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2013-12-19</span> <span title="Latest release in the app store">Updated 2015-03-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app will keep you to up to date on your next upcoming OC Transpo bus. It periodically updates itself so it will always have the latest information for you. Button layout: UP -&gt; Select bus…</p>
 </div>

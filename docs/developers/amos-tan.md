@@ -13,7 +13,7 @@ hide:
 
 # Amos Tan
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53b9647c36ce4c0f500001bc/1) · [GitHub (AlphaTRL)](https://github.com/AlphaTRL)
 

@@ -13,7 +13,7 @@ hide:
 
 # Fedor Iskhakov
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fedor-iskhakov_52cc7329d76e990aa400003b) · [GitHub (fediskhakov)](https://github.com/fediskhakov)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fedor-iskhakov_52cc
 <h2 class="app-name" id="app-52d093bf3b9c7b1ea200007e"><a href="https://apps.repebble.com/52d093bf3b9c7b1ea200007e">Presenter Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/fediskhakov/pebble_presenter_timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-11</span> <span title="Latest release in the app store">Updated 2014-01-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-01-11</span> <span title="Latest release in the app store">Updated 2014-01-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Keep your presentation talk within time limits with this simple fully on-pebble visual time keeper that will notify half time, 5 and 1 min remaining with a vibration pulse. A list of common…</p>
 </div>

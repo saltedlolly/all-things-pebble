@@ -13,7 +13,7 @@ hide:
 
 # ewedel
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ewedel_52b2503ecd4183bea30000a3) · [GitHub (ewedel)](https://github.com/ewedel) · [Website (ewedel.github.io)](http://ewedel.github.io/pebble-sunclock/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ewedel_52b2503ecd41
 <h2 class="app-name" id="app-52cbea986e5f7003cf000134"><a href="https://apps.repebble.com/52cbea986e5f7003cf000134">Twilight SunClock</a> <span class="app-version" title="Latest version" data-search-exclude>v3.5</span></h2>
 <a class="app-source" href="https://github.com/ewedel/pebble-sunclock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2016-08-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2016-08-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A daily almanac for your Pebble. Displays lunar phase, sunrise and sunset times, and bands representing civil, nautical and astronomical twilight on a 24-hour watch dial. An hour hand shows the…</p>
 </div>

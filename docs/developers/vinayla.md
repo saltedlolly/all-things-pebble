@@ -13,7 +13,7 @@ hide:
 
 # Vinayla
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vinayla_cf9b8101421543277d0bbc02) · [GitHub (vinay1017)](https://github.com/vinay1017)
 
@@ -26,15 +26,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vinayla_cf9b8101421
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="digivice - alpha build" data-released="2026-09-21" data-updated="2026-10-10">
-<a class="app-shot" href="https://apps.repebble.com/5b595252b47f4f28ae51c39d" data-search-exclude><img src="../images/apps/5b595252b47f4f28ae51c39d.png" alt="Digivice - Alpha build" loading="lazy"></a>
+<div class="app-card" data-type="watchapp" data-title="digimon digivice" data-released="2026-09-21" data-updated="2026-10-12">
+<a class="app-shot" href="https://apps.repebble.com/5b595252b47f4f28ae51c39d" data-search-exclude><img src="../images/apps/5b595252b47f4f28ae51c39d.png" alt="Digimon Digivice" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digivice - Alpha build</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
+<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v0.91</span></h2>
 <a class="app-source" href="https://github.com/vinay1017/Pebble-Digivice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">A very early, alpha build of a reworked digivice. I wished this existed for the pebble, so I made one for myself. It is NOT anywhere near completion and it&#x27;s all MY original code. Took some…</p>
+<p class="app-desc">My take on a hybrid digivice + vital bracelet Digimon app! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how to digivolve to…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="bakugo - my hero academia" data-released="2026-09-12" data-updated="2026-09-15">

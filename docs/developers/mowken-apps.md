@@ -13,7 +13,7 @@ hide:
 
 # Mowken Apps
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mowken-apps_6a2eb28176550100085bc243) · [GitHub (diced-k)](https://github.com/diced-k)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mowken-apps_6a2eb28
 <h2 class="app-name" id="app-6a2ebb3ee24af40009fa5330"><a href="https://apps.repebble.com/6a2ebb3ee24af40009fa5330">Hirake Goma</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/diced-k/hirake-goma" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1056" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-14</span> <span title="Latest release in the app store">Updated 2026-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-14</span> <span title="Latest release in the app store">Updated 2026-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Lock, unlock, and check your SESAME (Candy House) smart lock straight from your Pebble. Pick a lock from the menu, then use the action bar buttons — Up to unlock, Down to lock, and the middle…</p>
 </div>

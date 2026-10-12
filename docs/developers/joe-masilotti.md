@@ -13,7 +13,7 @@ hide:
 
 # Joe Masilotti
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joe-masilotti_52a92b8179c18fd92c000005) · [GitHub (joemasilotti)](https://github.com/joemasilotti)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joe-masilotti_52a92
 <h2 class="app-name" id="app-52ab113cb8f6c20e31000019"><a href="https://apps.repebble.com/52ab113cb8f6c20e31000019">PebCiti - NYC CitiBike and London Barclays Cycle Hire</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/joemasilotti/PebCiti" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-13</span> <span title="Latest release in the app store">Updated 2015-01-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-12-13</span> <span title="Latest release in the app store">Updated 2015-01-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple, open-source app to show the nearest available bike share dock or bike on your Pebble. New York City&#x27;s CitiBike and London&#x27;s Barclays Cycle Hire are currently supported.</p>
 </div>

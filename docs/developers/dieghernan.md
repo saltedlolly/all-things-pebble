@@ -13,7 +13,7 @@ hide:
 
 # dieghernan
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f15b6dc41172eebc0004dc/1) · [GitHub (dieghernan)](https://github.com/dieghernan) · [Website (dieghernan.github.io)](https://dieghernan.github.io/Sfera/)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f15b6dc41172e
 <h2 class="app-name" id="app-58c2f7110dfc32a52a00081f"><a href="https://apps.rebble.io/en_US/application/58c2f7110dfc32a52a00081f">Sfera</a> <span class="app-version" title="Latest version" data-search-exclude>v6.2</span></h2>
 <a class="app-source" href="https://github.com/dieghernan/Sfera" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-03-10</span> <span title="Latest release in the app store">Updated 2018-03-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-03-10</span> <span title="Latest release in the app store">Updated 2018-03-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">* Consider ♥ if you enjoy this watchface * Sfera is a highly customizable watchface that gets the most of the smartwatch capabilities: Settings - Clock Mode: Analog / Digital /Dual/ Mix watchface…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f15b6dc41172e
 <h2 class="app-name" id="app-591ead370dfc32aacf000204"><a href="https://apps.rebble.io/en_US/application/591ead370dfc32aacf000204">7egment</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/dieghernan/7egment" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-05-19</span> <span title="Latest release in the app store">Updated 2017-06-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-05-19</span> <span title="Latest release in the app store">Updated 2017-06-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">7egment is a customizable watchface based on the classic 7-segment display that adds your location and the current weather information in the language used on your watch and smartphone. Features …</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f15b6dc41172e
 <h2 class="app-name" id="app-59280895b67f9f43f80004c9"><a href="https://apps.rebble.io/en_US/application/59280895b67f9f43f80004c9">Bzel</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/dieghernan/Bzel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-05-26</span> <span title="Latest release in the app store">Updated 2017-06-12</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-05-26</span> <span title="Latest release in the app store">Updated 2017-06-12</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">* Consider ♥ if you enjoy this watchface * Bzel integrates the watchface with your Bezel Settings - Clock Mode: Digital /Dot/ Bezel/ Arc / Line / Digidot /Blocks - Minute marks - Date …</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f15b6dc41172e
 <h2 class="app-name" id="app-58a94da90dfc32d35b0002f8"><a href="https://apps.rebble.io/en_US/application/58a94da90dfc32d35b0002f8">TextWatch Clima</a> <span class="app-version" title="Latest version" data-search-exclude>v7.1</span></h2>
 <a class="app-source" href="https://github.com/dieghernan/TextWatchClima" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-19</span> <span title="Latest release in the app store">Updated 2017-05-25</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-02-19</span> <span title="Latest release in the app store">Updated 2017-05-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">* Consider ♥ if you enjoy this watchface * Add some weather to your TextWatch! This watchface brings the weather conditions straight to your wrist. Multilingual -------- - Spanish - English …</p>
 </div>

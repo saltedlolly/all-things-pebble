@@ -13,7 +13,7 @@ hide:
 
 # Avii
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6048c8181342ae005770a0c3/1) · [GitHub (AviiNL)](https://github.com/AviiNL)
 

@@ -13,7 +13,7 @@ hide:
 
 # Devin Simmons
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/devin-simmons_52d70618af37946a7b000001) · [GitHub (blackpaw78)](https://github.com/blackpaw78)
 

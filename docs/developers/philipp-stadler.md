@@ -13,7 +13,7 @@ hide:
 
 # Philipp Stadler
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/philipp-stadler_52f0fc73a0cb6a3d150007d9) · [GitHub (ansysic)](https://github.com/ansysic)
 

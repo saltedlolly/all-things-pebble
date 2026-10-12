@@ -13,7 +13,7 @@ hide:
 
 # David Yang
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-yang_55481901aacd9fa0680000d0) · [GitHub (dsryang)](https://github.com/dsryang)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-yang_55481901
 <h2 class="app-name" id="app-55a44d21789ea3f97700006f"><a href="https://apps.repebble.com/55a44d21789ea3f97700006f">Multicolor Sliding</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/dsryang/multicolor-sliding" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-13</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-13</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple watchface that shows the date and time, with a total of 8 possible color combinations that change every day.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-yang_55481901
 <h2 class="app-name" id="app-55d4e163561ca4835200002b"><a href="https://apps.repebble.com/55d4e163561ca4835200002b">Custom Sliding</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dsryang/custom-sliding" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-19</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-19</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple watchface that shows the date and time. The light background color, dark background color, time color and date color are all fully color customizable.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-yang_55481901
 <h2 class="app-name" id="app-559dcbd1541f0cfd67000088"><a href="https://apps.repebble.com/559dcbd1541f0cfd67000088">Blue Sliding</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/dsryang/blue-sliding" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-09</span> <span title="Latest release in the app store">Updated 2015-07-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-09</span> <span title="Latest release in the app store">Updated 2015-07-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple blue watchface that shows the date and time.</p>
 </div>

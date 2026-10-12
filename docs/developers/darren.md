@@ -13,7 +13,7 @@ hide:
 
 # darren
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/darren_52c0a289101f1a8dfa000087) · [GitHub (archerydwd)](https://github.com/archerydwd)
 

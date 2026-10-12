@@ -13,7 +13,7 @@ hide:
 
 # JayThePapist
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jaythepapist_56b3d3daed001be08f000040) · [GitHub (jherforth)](https://github.com/jherforth) · [Website (oremus.candidly.us)](http://oremus.candidly.us)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jaythepapist_56b3d3
 <h2 class="app-name" id="app-56db86f7eeaab1cad5000045"><a href="https://apps.repebble.com/56db86f7eeaab1cad5000045">Orémus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/jherforth/DailyRosaryApp.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-06</span> <span title="Latest release in the app store">Updated 2016-05-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-06</span> <span title="Latest release in the app store">Updated 2016-05-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app was an endeavor to provide a Catholic prayer guide for daily use. All of the basics are found in this app for your daily prayer life. The rosary updates daily to show you the current…</p>
 </div>

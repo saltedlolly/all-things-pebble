@@ -13,7 +13,7 @@ hide:
 
 # jazzabeanie
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jazzabeanie_2f99953f4c8baa21eba9b4ef) · [GitHub (jazzabeanie)](https://github.com/jazzabeanie)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jazzabeanie_2f99953
 <h2 class="app-name" id="app-63a5cca9f2e945c092123615"><a href="https://apps.repebble.com/63a5cca9f2e945c092123615">QuickTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/jazzabeanie/pebble-timer-quick" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc"># pebble-timer-quick QuickTimer is a timer app for the Pebble Smartwatch, intended to be the fastest way to start a timer or stopwatch. Made for people that think needing 5 seconds to set a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jazzabeanie_2f99953
 <h2 class="app-name" id="app-64e3eda4cba941fbaf0be5df"><a href="https://apps.repebble.com/64e3eda4cba941fbaf0be5df">Rotating Lines</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/jazzabeanie/rotating-lines" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Highly configurable analog style watch with rotating lines instead of hands</p>
 </div>

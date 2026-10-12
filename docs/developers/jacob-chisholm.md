@@ -13,7 +13,7 @@ hide:
 
 # Jacob Chisholm
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jacob-chisholm_567e0e1ca94eb3d0a80002f5) · [GitHub (bobkingof12vs)](https://github.com/bobkingof12vs)
 

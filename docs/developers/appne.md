@@ -13,7 +13,7 @@ hide:
 
 # appne
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/appne_548e61cae35a3a0652000063) · [GitHub (appne)](https://github.com/appne)
 

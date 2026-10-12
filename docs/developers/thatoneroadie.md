@@ -13,7 +13,7 @@ hide:
 
 # ThatOneRoadie
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thatoneroadie_5705f013b90c0fa04b000016) · [GitHub (ThatOneRoadie)](https://github.com/ThatOneRoadie)
 

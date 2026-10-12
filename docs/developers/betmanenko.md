@@ -13,7 +13,7 @@ hide:
 
 # betmanenko
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/561bc3b03493942418000071/1) · [GitHub (betmakh)](https://github.com/betmakh) · [Website (ua.linkedin.com)](https://ua.linkedin.com/in/mykyta-meshcheriakov-603233a2)
 

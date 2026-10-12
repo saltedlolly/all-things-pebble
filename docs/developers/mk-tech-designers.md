@@ -13,7 +13,7 @@ hide:
 
 # MK Tech Designers
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mk-tech-designers_557a1cf8bfb28b640c308d64) · [GitHub (MKTechDesigners)](https://github.com/MKTechDesigners)
 

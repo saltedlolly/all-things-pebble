@@ -13,7 +13,7 @@ hide:
 
 # Gary Sleet
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gary-sleet_52f143208d40befc3a000105) · [GitHub (garysleet)](https://github.com/garysleet)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gary-sleet_52f14320
 <h2 class="app-name" id="app-556d94d2ab161f3ce10000bc"><a href="https://apps.repebble.com/556d94d2ab161f3ce10000bc">futura-gary</a> <span class="app-version" title="Latest version" data-search-exclude>v3.4</span></h2>
 <a class="app-source" href="https://github.com/garysleet/futura-gary" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-02</span> <span title="Latest release in the app store">Updated 2015-06-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-02</span> <span title="Latest release in the app store">Updated 2015-06-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Crammed as much information as I could onto the watch face, and added many power management features. The weather symbol next to the date is the current conditions. The 5 symbols along the bottom…</p>
 </div>

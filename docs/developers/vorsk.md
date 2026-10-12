@@ -13,7 +13,7 @@ hide:
 
 # vorsk
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vorsk_5494f31f210576e99c00005a) · [GitHub (lanrat)](https://github.com/lanrat) · [Website (lanrat.com)](https://lanrat.com/projects/minimalin-reborn/)
 

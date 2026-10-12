@@ -13,7 +13,7 @@ hide:
 
 # Highest Five
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/highest-five_553bc93eb894567592000094) · [GitHub (thegrumpybuffalo)](https://github.com/thegrumpybuffalo)
 

@@ -13,7 +13,7 @@ hide:
 
 # mcmanetta
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5f275d593dd3109039c0c6b3/1) · [GitHub (integraloftheday)](https://github.com/integraloftheday)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5f275d593dd3109
 <h2 class="app-name" id="app-5f275d5a3dd3109039c0c6b5"><a href="https://apps.rebble.io/en_US/application/5f275d5a3dd3109039c0c6b5">iMessenger</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
 <a class="app-source" href="https://github.com/integraloftheday/Pebble-Imessager" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-08-03</span> <span title="Latest release in the app store">Updated 2020-08-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2020-08-03</span> <span title="Latest release in the app store">Updated 2020-08-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Since the takeover by Fitbit pebble smartwatches could no longer send messages on iPhones. However, using this watch app and server applications users can once again send iMessages from iPhones…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Logan Reich
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/567d6020c247f825a900011c/1) · [GitHub (sumdudelr)](https://github.com/sumdudelr) · [Website (oucsace.cs.ohiou.edu)](http://oucsace.cs.ohiou.edu/~lreich/)
 

@@ -13,7 +13,7 @@ hide:
 
 # Kenji Abe
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kenji-abe_56ee4caf11c02b65d8000038) · [GitHub (STAR-ZERO)](https://github.com/STAR-ZERO)
 

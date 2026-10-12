@@ -13,7 +13,7 @@ hide:
 
 # Djinn Gloom
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/djinn-gloom_549cf1c51127937b6200013b) · [GitHub (Crasytoser)](https://github.com/Crasytoser)
 

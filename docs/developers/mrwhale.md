@@ -13,7 +13,7 @@ hide:
 
 # MrWhale
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrwhale_5309702c24c4582908000149) · [GitHub (mrwhale)](https://github.com/mrwhale)
 

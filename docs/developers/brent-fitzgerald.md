@@ -13,7 +13,7 @@ hide:
 
 # Brent Fitzgerald
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brent-fitzgerald_52a94927c0ca93962700001d) · [GitHub (burnto)](https://github.com/burnto)
 

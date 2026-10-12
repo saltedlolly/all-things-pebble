@@ -13,7 +13,7 @@ hide:
 
 # MittuDev
 
-*2 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mittudev_5659e669c1b6ceb64b000081) · [GitHub (nmittu)](https://github.com/nmittu) · [Website (mittudev.com)](http://www.mittudev.com/)
 

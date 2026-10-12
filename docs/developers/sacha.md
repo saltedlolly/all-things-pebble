@@ -13,7 +13,7 @@ hide:
 
 # Sacha
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sacha_d20b893110bbd447f8a8a554) · [GitHub (optio)](https://github.com/optio)
 
@@ -21,15 +21,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sacha_d20b893110bbd
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="pebblentn - maps nav notification to navigation" data-released="2026-07-16" data-updated="2026-10-03">
+<div class="app-card" data-type="watchapp" data-title="pebblentn - maps nav notification to navigation" data-released="2026-07-16" data-updated="2026-10-11">
 <a class="app-shot" href="https://apps.repebble.com/ad4971e345854b909b73b1a9" data-search-exclude><img src="../images/apps/ad4971e345854b909b73b1a9.png" alt="PebbleNTN - Maps Nav Notification To Navigation" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ad4971e345854b909b73b1a9"><a href="https://apps.repebble.com/ad4971e345854b909b73b1a9">PebbleNTN - Maps Nav Notification To Navigation</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.49</span></h2>
+<h2 class="app-name" id="app-ad4971e345854b909b73b1a9"><a href="https://apps.repebble.com/ad4971e345854b909b73b1a9">PebbleNTN - Maps Nav Notification To Navigation</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.59</span></h2>
 <a class="app-source" href="https://github.com/optio/PebbleNTN" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1172" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-16</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-16</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Turn-by-turn directions from your phone&#x27;s nav app, on your pebble. PebbleNTN reads your navigation app&#x27;s notifications and shows the next turn, distance, road, and ETA on your Pebble. No need to…</p>
+<p class="app-desc">Turn-by-turn directions from your phone&#x27;s nav app, on your Pebble. PebbleNTN reads your navigation app&#x27;s notifications and shows the next turn, distance, road, and ETA on your Pebble. No need to…</p>
 </div>
 </div>
 </div>

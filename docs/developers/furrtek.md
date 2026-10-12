@@ -13,7 +13,7 @@ hide:
 
 # Furrtek
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/furrtek_54dfab5a91a09eff720000ef) · [GitHub (furrtek)](https://github.com/furrtek)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/furrtek_54dfab5a91a
 <h2 class="app-name" id="app-580e5633836d3cb4e8000016"><a href="https://apps.repebble.com/580e5633836d3cb4e8000016">ChipRef</a> <span class="app-version" title="Latest version" data-search-exclude>v0.12</span></h2>
 <a class="app-source" href="https://github.com/furrtek/ChipRef" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-24</span> <span title="Latest release in the app store">Updated 2016-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-24</span> <span title="Latest release in the app store">Updated 2016-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Common integrated circuits reference app, showing internal schematics, pinouts, truth tables (to come)...</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/furrtek_54dfab5a91a
 <h2 class="app-name" id="app-554e9ea30136b07f42000087"><a href="https://apps.repebble.com/554e9ea30136b07f42000087">Granite</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/furrtek/Granite" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-09</span> <span title="Latest release in the app store">Updated 2015-05-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-09</span> <span title="Latest release in the app store">Updated 2015-05-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Time written in simili-3D animated rotating stone blocks, simple as that. Battery counscious and tap aware for added action.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # chuckwired
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chuckwired_5396e9b9eecf9bef32000048) · [GitHub (chuckwired)](https://github.com/chuckwired)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chuckwired_5396e9b9
 <h2 class="app-name" id="app-55f3f4b2f4177df278000075"><a href="https://apps.repebble.com/55f3f4b2f4177df278000075">Todeloj</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/chuckwired/Todeloj" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-12</span> <span title="Latest release in the app store">Updated 2015-09-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-09-12</span> <span title="Latest release in the app store">Updated 2015-09-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">All-in-one clean display of the time, date, day and battery life! Todeloj is a Spanish mix of the word &quot;todo&quot;, meaning all, and &quot;reloj&quot; meaning clock or watch. I am frustrated not being able to…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chuckwired_5396e9b9
 <h2 class="app-name" id="app-55f3346c1e9927da45000015"><a href="https://apps.repebble.com/55f3346c1e9927da45000015">WWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/chuckwired/WWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-11</span> <span title="Latest release in the app store">Updated 2015-09-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-09-11</span> <span title="Latest release in the app store">Updated 2015-09-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Essential stopwatch to keep track of your workout session! Start, stop and resume a session and review up to 5 previous sessions. Stopwatch only goes up to 1 hour maximum to encourage you to…</p>
 </div>

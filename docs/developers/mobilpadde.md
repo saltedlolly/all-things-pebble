@@ -13,7 +13,7 @@ hide:
 
 # Mobilpadde
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mobilpadde_531b31bd2a95cc1a1b00045c) · [GitHub (Mobilpadde)](https://github.com/Mobilpadde)
 

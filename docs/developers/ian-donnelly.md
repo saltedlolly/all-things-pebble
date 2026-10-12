@@ -13,7 +13,7 @@ hide:
 
 # Ian Donnelly
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ian-donnelly_52f049ddbb34231cf300115a) · [GitHub (iandonnelly)](https://github.com/iandonnelly)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ian-donnelly_52f049
 <h2 class="app-name" id="app-5596fdf684bff56157000094"><a href="https://apps.repebble.com/5596fdf684bff56157000094">SportsOfficial</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/iandonnelly/SportsOfficial" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-03</span> <span title="Latest release in the app store">Updated 2015-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-03</span> <span title="Latest release in the app store">Updated 2015-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">SportsOfficial is a scorekeeping app which allows users to keep track of score and time for nearly any sport! The app includes stopwatch functionality to keep track of the time of a sporting…</p>
 </div>

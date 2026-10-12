@@ -13,7 +13,7 @@ hide:
 
 # Evan Goode
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/evan-goode_567d54d107ac230cca00010e) · [GitHub (Evan-Goode)](https://github.com/Evan-Goode) · [Website (evangoo.de)](http://evangoo.de/)
 

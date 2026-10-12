@@ -13,7 +13,7 @@ hide:
 
 # Zauberertz
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zauberertz_52f00b8a4ae363b8e300007d) · [GitHub (zaubererty)](https://github.com/zaubererty) · [Website (ziegler.bz)](http://ziegler.bz/)
 

@@ -13,7 +13,7 @@ hide:
 
 # chernandezba
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f00e048f27d1d3940000ce/1) · [GitHub (chernandezba)](https://github.com/chernandezba)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f00e048f27d1d
 <h2 class="app-name" id="app-692644f5703cec0009a280fd"><a href="https://apps.rebble.io/en_US/application/692644f5703cec0009a280fd">ZEsarUX emulator watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.1</span></h2>
 <a class="app-source" href="https://github.com/chernandezba/zesarux-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/230" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-26</span> <span title="Latest release in the app store">Updated 2026-06-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2025-11-26</span> <span title="Latest release in the app store">Updated 2026-06-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple ZEsarUX emulator watchface Color stripes can be animated every minute, chosen on settings. When tapping Pebble, the number of ZEsarUX yesterday users will be shown</p>
 </div>

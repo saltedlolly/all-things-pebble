@@ -13,7 +13,7 @@ hide:
 
 # Gokmen Goksel
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gokmen-goksel_5596ea5a2205f0de5000007f) · [GitHub (gokmen)](https://github.com/gokmen)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gokmen-goksel_5596e
 <h2 class="app-name" id="app-562cf0d66edde43084000091"><a href="https://apps.repebble.com/562cf0d66edde43084000091">Istanbul</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gokmen/istanbul" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2015-10-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2015-10-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Istanbul is a yet simple watch face which is mainly focused on the second hand animation to provide sweeping motion. To prevent battery drain it starts to animate for a minute then returns back to…</p>
 </div>

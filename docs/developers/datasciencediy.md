@@ -13,7 +13,7 @@ hide:
 
 # DataScienceDIY
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a0cbf614787e50008f7f37f/1) · [GitHub (DataScienceDIY)](https://github.com/DataScienceDIY)
 

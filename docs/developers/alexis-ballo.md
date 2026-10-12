@@ -13,7 +13,7 @@ hide:
 
 # Alexis Ballo
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alexis-ballo_c70905f6b73f09634878474c) · [GitHub (AlexisBallo2)](https://github.com/AlexisBallo2)
 

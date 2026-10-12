@@ -13,7 +13,7 @@ hide:
 
 # Thomas Stoeckert
 
-*3 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-stoeckert_55e827430a081ae5f9000009) · [Rebble App Store](https://apps.rebble.io/en_US/developer/55e827430a081ae5f9000009/1) · [GitHub (thomasstoeckert)](https://github.com/thomasstoeckert) · [Website (thomasstoeckert.us)](https://thomasstoeckert.us/projects/pebble-wait-times)
 

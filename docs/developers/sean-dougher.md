@@ -13,7 +13,7 @@ hide:
 
 # Sean Dougher
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sean-dougher_540663c3edb9187595000006) · [GitHub (SeanmanX)](https://github.com/SeanmanX) · [Website (devpost.com)](http://devpost.com/software/hackingedu-project)
 

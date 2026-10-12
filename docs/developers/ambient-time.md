@@ -13,7 +13,7 @@ hide:
 
 # Ambient Time
 
-*5 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ambient-time_3a9986a63073f9f293be7e14) · [GitHub (lukeslp)](https://github.com/lukeslp) · [Website (dr.eamer.dev)](https://dr.eamer.dev/downloads/apps/signal-station/)
 

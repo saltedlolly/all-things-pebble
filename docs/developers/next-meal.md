@@ -13,7 +13,7 @@ hide:
 
 # Next Meal
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/next-meal_54fdbbbadbd96e96ac00001b) · [GitHub (ansonl)](https://github.com/ansonl) · [Website (facebook.com)](https://facebook.com/nextmealapp)
 

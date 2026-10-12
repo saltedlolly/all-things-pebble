@@ -13,7 +13,7 @@ hide:
 
 # BrickFacts
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brickfacts_5378643143e90add3c00005d) · [GitHub (PiggyShake)](https://github.com/PiggyShake) · [Website (piggyshake.com)](http://piggyshake.com)
 

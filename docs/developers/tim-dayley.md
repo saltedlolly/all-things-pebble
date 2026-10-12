@@ -13,7 +13,7 @@ hide:
 
 # Tim Dayley
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-dayley_549b929963c11ae1250000cf) · [GitHub (tdayley)](https://github.com/tdayley) · [Website (timdayley.com)](http://www.timdayley.com)
 

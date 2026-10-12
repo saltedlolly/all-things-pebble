@@ -13,7 +13,7 @@ hide:
 
 # A.C.3
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/a-c-3_fbba2962004e15952989eb15) · [GitHub (AC3Productions)](https://github.com/AC3Productions)
 

@@ -13,7 +13,7 @@ hide:
 
 # Brandon Milton
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brandon-milton_52d06b4f74a38ec3b500005f) · [GitHub (brandonio21)](https://github.com/brandonio21) · [Website (brandonsoft.com)](http://brandonsoft.com)
 

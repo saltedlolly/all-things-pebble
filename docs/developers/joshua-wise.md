@@ -13,7 +13,7 @@ hide:
 
 # Joshua Wise
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531aa3fb7e49755eab000f7b/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/joshua-wise_531aa3fb7e49755eab000f7b) · [GitHub (jwise)](https://github.com/jwise) · [Website (joshuawise.com)](https://joshuawise.com/)
 

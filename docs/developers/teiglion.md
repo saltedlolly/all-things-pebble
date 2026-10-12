@@ -13,7 +13,7 @@ hide:
 
 # Teiglion
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6014831d1342ae03f3d5ba26/1) · [GitLab (Teiglion)](https://gitlab.com/Teiglion)
 

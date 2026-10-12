@@ -13,7 +13,7 @@ hide:
 
 # keshavpratap
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keshavpratap_e0bc7ee30a038907b7d48939) · [GitHub (KeshavPratap-K)](https://github.com/KeshavPratap-K) · [Website (keshav.contact)](https://keshav.contact)
 

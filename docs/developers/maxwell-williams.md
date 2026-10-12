@@ -13,7 +13,7 @@ hide:
 
 # Maxwell Williams
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxwell-williams_3133fe86efb8421bc2a5ef48) · [GitHub (Maxahoy)](https://github.com/Maxahoy)
 

@@ -13,7 +13,7 @@ hide:
 
 # Remy Sharp
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/remy-sharp_52f219def21676b008001172) · [GitHub (remy)](https://github.com/remy) · [Website (remy.github.io)](http://remy.github.io/rest/)
 

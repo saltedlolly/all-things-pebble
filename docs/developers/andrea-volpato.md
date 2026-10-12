@@ -13,7 +13,7 @@ hide:
 
 # Andrea Volpato
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrea-volpato_afaa2ce09f3e6bda44986c75) · [GitHub (andreavolpato)](https://github.com/andreavolpato)
 

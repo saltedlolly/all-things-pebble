@@ -13,7 +13,7 @@ hide:
 
 # Liam Cordelle
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/liam-cordelle_e31645c88f617059803cfa71) · [GitHub (LiamCordelle)](https://github.com/LiamCordelle)
 

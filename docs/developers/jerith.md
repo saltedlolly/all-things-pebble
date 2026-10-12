@@ -13,7 +13,7 @@ hide:
 
 # jerith
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jerith_52ba9deb6437d1df62000055) · [GitHub (jerith)](https://github.com/jerith)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jerith_52ba9deb6437
 <h2 class="app-name" id="app-5324a390d7d0f23827000184"><a href="https://apps.repebble.com/5324a390d7d0f23827000184">Langton&#x27;s Anthill</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jerith/pebble-langtons-anthill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-15</span> <span title="Latest release in the app store">Updated 2014-03-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-03-15</span> <span title="Latest release in the app store">Updated 2014-03-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Langton&#x27;s ant is a two-dimensional Turing machine with a very simple set of rules but complicated emergent behaviour. Langton&#x27;s Anthill simulates one or more ants on a toroidal Pebble-sized field.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jerith_52ba9deb6437
 <h2 class="app-name" id="app-52bae728aac062f2210000a1"><a href="https://apps.repebble.com/52bae728aac062f2210000a1">Beapoch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.1</span></h2>
 <a class="app-source" href="https://github.com/jerith/pebble-beapoch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2014-03-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2014-03-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble watch face that displays Unix time and Swatch .beats.</p>
 </div>

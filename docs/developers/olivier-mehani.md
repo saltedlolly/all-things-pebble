@@ -13,7 +13,7 @@ hide:
 
 # Olivier Mehani
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/olivier-mehani_53bb204ea405077b2e00005a) · [Website (scm.narf.ssji.net)](http://scm.narf.ssji.net/git/MinistryOfSillyWatches/about/)
 

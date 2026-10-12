@@ -13,7 +13,7 @@ hide:
 
 # Fitzsky Inc
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6864335b0c0ce600095a9437/1) · [GitHub (devindudeman)](https://github.com/devindudeman)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6864335b0c0ce60
 <h2 class="app-name" id="app-690e420aafb4ca00099364fe"><a href="https://apps.rebble.io/en_US/application/690e420aafb4ca00099364fe">Fitzface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/devindudeman/fitzface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-07</span> <span title="Latest release in the app store">Updated 2025-11-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-07</span> <span title="Latest release in the app store">Updated 2025-11-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">FitzFace – High-Density Data Watchface A feature-packed Pebble watchface that brings weather, transit, and environmental data to your wrist in a compact, glanceable format. Displays current…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # kasoki
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kasoki_52d79b676712e67471000002) · [GitHub (kasoki)](https://github.com/kasoki) · [Website (kasoki.de)](http://kasoki.de)
 

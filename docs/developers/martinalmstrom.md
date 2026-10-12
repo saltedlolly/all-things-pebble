@@ -13,7 +13,7 @@ hide:
 
 # martinalmstrom
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/martinalmstrom_52f1e11ce21be4eeec000654) · [GitHub (martingit)](https://github.com/martingit)
 

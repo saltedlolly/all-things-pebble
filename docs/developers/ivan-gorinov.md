@@ -13,7 +13,7 @@ hide:
 
 # Ivan Gorinov
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58924f4e93254a42700009a1/1) · [GitHub (igorinov)](https://github.com/igorinov)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58924f4e93254a4
 <h2 class="app-name" id="app-58a14b0b0dfc32b76100021d"><a href="https://apps.rebble.io/en_US/application/58a14b0b0dfc32b76100021d">Wrist Compass</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/igorinov/pebble_wrist_compass" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-13</span> <span title="Latest release in the app store">Updated 2017-02-27</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-02-13</span> <span title="Latest release in the app store">Updated 2017-02-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Compass with needle and digital indicators</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58924f4e93254a4
 <h2 class="app-name" id="app-589809151985ca59010001aa"><a href="https://apps.rebble.io/en_US/application/589809151985ca59010001aa">Simple Classic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/igorinov/pebble_simple_clasic" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-06</span> <span title="Latest release in the app store">Updated 2017-02-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-02-06</span> <span title="Latest release in the app store">Updated 2017-02-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Color analog watch face with battery indicator.</p>
 </div>

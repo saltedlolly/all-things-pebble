@@ -13,7 +13,7 @@ hide:
 
 # iAbadia
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iabadia_54837f4e0748a15484000144) · [GitHub (iAbadia)](https://github.com/iAbadia) · [Website (iabadia.github.io)](http://iabadia.github.io/Pebble-Public-Transport-Zgz/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iabadia_54837f4e074
 <h2 class="app-name" id="app-5689657664bdb8bfb800001d"><a href="https://apps.repebble.com/5689657664bdb8bfb800001d">Zaragoza Public Transport</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/iAbadia/Pebble-Public-Transport-Zgz" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble app for Zaragoza tram and bus times How to use: For tram times, select between the full list of stops or choose one from your recent searches. For bus times, choose from recent searches or…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iabadia_54837f4e074
 <h2 class="app-name" id="app-56acbb21778c299ff9000025"><a href="https://apps.repebble.com/56acbb21778c299ff9000025">4 Digit numeric keyboard demo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/iAbadia/Pebble-4-Digit-Num-Keyboard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2016-01-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2016-01-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Numeric Keyboard demo, pebble.js source available at my GitHub: iAbadia</p>
 </div>

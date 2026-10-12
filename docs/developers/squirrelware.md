@@ -13,7 +13,7 @@ hide:
 
 # Squirrelware
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/squirrelware_531a67d0eb7a77b7610008ca) · [GitHub (keisisqrl)](https://github.com/keisisqrl) · [Website (hamqsl.com)](http://www.hamqsl.com/solar.html)
 

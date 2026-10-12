@@ -13,7 +13,7 @@ hide:
 
 # Jimmy Timmons
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jimmy-timmons_f97aa2549a33d05d7825987f) · [GitHub (jimmytimmons)](https://github.com/jimmytimmons)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jimmy-timmons_f97aa
 <h2 class="app-name" id="app-17d9e63004874c0b9755c1bc"><a href="https://apps.repebble.com/17d9e63004874c0b9755c1bc">Baseball Scores</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jimmytimmons/pebble-baseball" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Live MLB scores on your wrist. Baseball Scores auto-cycles through up to three of your favorite teams, showing the live score, base runners, the ball-strike-out count, and the inning. On off-days…</p>
 </div>

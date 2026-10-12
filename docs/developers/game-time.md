@@ -13,7 +13,7 @@ hide:
 
 # Game Time
 
-*6 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/game-time_53b317a44f927e319f0000ae) · [GitHub (WinterWinter)](https://github.com/WinterWinter) · [Website (facebook.com)](https://www.facebook.com/gametimewatches)
 

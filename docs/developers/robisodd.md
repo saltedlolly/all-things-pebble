@@ -13,7 +13,7 @@ hide:
 
 # robisodd
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robisodd_530273b74b130b71ef000192) · [GitHub (robisodd)](https://github.com/robisodd) · [Website (reddit.com)](http://reddit.com/r/pebble/comments/2jn888/)
 

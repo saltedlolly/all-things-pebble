@@ -13,7 +13,7 @@ hide:
 
 # n4ru
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/n4ru_52c5a1cc0a89c8025a000049) · [GitLab (n4ru)](https://gitlab.com/n4ru)
 

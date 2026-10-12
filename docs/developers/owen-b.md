@@ -13,7 +13,7 @@ hide:
 
 # Owen B
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/owen-b_535fc8b0cabddcdb760000c1) · [GitHub (obitoo)](https://github.com/obitoo) · [Website (forums.getpebble.com)](https://forums.getpebble.com/discussion/19595/watchface-tide-forecasts-now-worldwide?new=1)
 

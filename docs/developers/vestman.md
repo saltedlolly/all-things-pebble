@@ -13,7 +13,7 @@ hide:
 
 # Vestman
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/553ea9dd435307fdce000089/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/vestman_553ea9dd435307fdce000089) · [GitHub (gitvestman)](https://github.com/gitvestman)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/553ea9dd435307f
 <h2 class="app-name" id="app-5872a8eee09e6393c70006bd"><a href="https://apps.rebble.io/en_US/application/5872a8eee09e6393c70006bd">Soccer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gitvestman/PebbleGlobe" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-01-08</span> <span title="Latest release in the app store">Updated 2017-01-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-01-08</span> <span title="Latest release in the app store">Updated 2017-01-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Spinning football on your wrist with health metrics. The ball spins when you shake your wrist.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/553ea9dd435307f
 <h2 class="app-name" id="app-5824dfdbb62cefe9a70000e0"><a href="https://apps.repebble.com/5824dfdbb62cefe9a70000e0">Pokeball</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gitvestman/PebbleGlobe" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-10</span> <span title="Latest release in the app store">Updated 2016-12-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-10</span> <span title="Latest release in the app store">Updated 2016-12-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Spinning pokeball on your wrist with health metrics. The ball spins when you shake your wrist.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/553ea9dd435307f
 <h2 class="app-name" id="app-5812657346041f5ec5000007"><a href="https://apps.repebble.com/5812657346041f5ec5000007">JackO</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gitvestman/PebbleGlobe/tree/halloween" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-27</span> <span title="Latest release in the app store">Updated 2016-10-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-27</span> <span title="Latest release in the app store">Updated 2016-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Spinning Jack-o&#x27;-lantern for halloween</p>
 </div>

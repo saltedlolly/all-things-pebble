@@ -13,7 +13,7 @@ hide:
 
 # DevEgli
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/devegli_52c041cfb78c878ecf000052) · [GitHub (Deadolus)](https://github.com/Deadolus)
 

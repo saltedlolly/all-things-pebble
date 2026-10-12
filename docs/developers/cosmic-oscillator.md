@@ -13,7 +13,7 @@ hide:
 
 # Cosmic Oscillator
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cosmic-oscillator_8ace9a3153b33ec807dcd6c0) · [GitHub (tew42)](https://github.com/tew42)
 

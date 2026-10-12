@@ -13,7 +13,7 @@ hide:
 
 # lourheroes
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5ff3b52a1e6bb11b9eee5c58/1) · [GitHub (lourheroes)](https://github.com/lourheroes)
 

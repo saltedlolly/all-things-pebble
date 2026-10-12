@@ -13,7 +13,7 @@ hide:
 
 # Josh Lau
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh-lau_7c2f9385ca73b9a97da1a9be) · [Codeberg (joshlau)](https://codeberg.org/joshlau) · [Website (joshlau.xyz)](https://joshlau.xyz/pebble/jane-doe/)
 

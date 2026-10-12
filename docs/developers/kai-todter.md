@@ -13,7 +13,7 @@ hide:
 
 # Kai Tödter
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kai-t-dter_5658971eb1c932105f000036) · [GitHub (toedter)](https://github.com/toedter) · [Website (toedter.com)](http://www.toedter.com)
 

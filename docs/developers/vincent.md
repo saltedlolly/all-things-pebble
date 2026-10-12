@@ -13,7 +13,7 @@ hide:
 
 # Vincent
 
-*1 watchface and 5 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b60fba729f7aece) · [GitHub (vincentezw)](https://github.com/vincentezw)
 

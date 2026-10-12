@@ -13,7 +13,7 @@ hide:
 
 # Matt O&\#x27;Hara
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56c768a156b5d62ca800003b/1) · [GitHub (mattohara)](https://github.com/mattohara)
 

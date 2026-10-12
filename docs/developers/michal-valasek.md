@@ -13,7 +13,7 @@ hide:
 
 # Michal Valášek
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michal-val-ek_531ade5b7e49752f250003a2) · [GitHub (michalvalasek)](https://github.com/michalvalasek) · [Website (cinematik.sk)](http://www.cinematik.sk/)
 

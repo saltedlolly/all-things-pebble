@@ -13,7 +13,7 @@ hide:
 
 # Florencia Tarditti
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/florencia-tarditti_55e2ea2fe1fe97a55c00001c) · [GitHub (formap)](https://github.com/formap)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/florencia-tarditti_
 <h2 class="app-name" id="app-5687ab3322c220343900008e"><a href="https://apps.repebble.com/5687ab3322c220343900008e">Calvin and Hobbes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/formap/pebble-calvin-hobbes-starry-night" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-02</span> <span title="Latest release in the app store">Updated 2016-01-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-02</span> <span title="Latest release in the app store">Updated 2016-01-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Calvin and Hobbes inspired pebble watchface. For issues or requests, you can contact me with the links below or send me a tweet @_formap.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/florencia-tarditti_
 <h2 class="app-name" id="app-55e2ec06c18b95fd44000019"><a href="https://apps.repebble.com/55e2ec06c18b95fd44000019">Pixel Grass</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/formap/pebble-pixel-grass" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-30</span> <span title="Latest release in the app store">Updated 2015-10-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-08-30</span> <span title="Latest release in the app store">Updated 2015-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A pebble watchface featuring a Fez inspired pixel art background. Supports weather in both celsius and fahrenheit and can be configured to emit hourly vibrations. For issues or requests, you can…</p>
 </div>

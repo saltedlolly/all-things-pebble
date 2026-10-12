@@ -13,7 +13,7 @@ hide:
 
 # matou
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matou_53305d39981bcd9580000219) · [GitHub (matou)](https://github.com/matou)
 

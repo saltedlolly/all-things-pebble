@@ -13,7 +13,7 @@ hide:
 
 # Kitsune Gaming
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kitsune-gaming_549c8afa05447249780008c6) · [GitHub (KitsuneGaming)](https://github.com/KitsuneGaming) · [Website (kitsunegaming.com)](http://www.kitsunegaming.com)
 

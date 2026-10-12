@@ -13,7 +13,7 @@ hide:
 
 # Allen B
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5903fcf86ca3872934000243/1) · [GitHub (Allen-B1)](https://github.com/Allen-B1)
 

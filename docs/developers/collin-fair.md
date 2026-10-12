@@ -13,7 +13,7 @@ hide:
 
 # Collin Fair
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/collin-fair_52cb0b00b138287b32000018) · [GitHub (cpfair)](https://github.com/cpfair) · [Website (elbbep.cpfx.ca)](https://elbbep.cpfx.ca)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/collin-fair_52cb0b0
 <h2 class="app-name" id="app-53ab84141d576ea3c30000d6"><a href="https://apps.repebble.com/53ab84141d576ea3c30000d6">Qibla - Prayer Times &amp; Compass</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7</span></h2>
 <a class="app-source" href="https://github.com/cpfair/pebble-qibla" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-26</span> <span title="Latest release in the app store">Updated 2016-09-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-26</span> <span title="Latest release in the app store">Updated 2016-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Prayer times &amp; notifications on your Timeline, plus a Qibla compass for your Pebble. Automatically calculates prayer times based on your location - so make sure &quot;location services&quot; is enabled on…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/collin-fair_52cb0b0
 <h2 class="app-name" id="app-57bc96a6f01b53ce0c000c02"><a href="https://apps.repebble.com/57bc96a6f01b53ce0c000c02">Hebrew and Arabic support for Pebble - elbbeP</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/cpfair/elbbep" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-23</span> <span title="Latest release in the app store">Updated 2016-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-23</span> <span title="Latest release in the app store">Updated 2016-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">elbbeP lets you read Arabic and Hebrew everywhere on your Pebble smartwatch: text messages, calendar alerts, apps &amp; more. Any Pebble can be upgraded to display Hebrew and Arabic, and there&#x27;s no…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/collin-fair_52cb0b0
 <h2 class="app-name" id="app-52f1a4c3c4117252f9000bb8"><a href="https://apps.repebble.com/52f1a4c3c4117252f9000bb8">Authenticator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.11</span></h2>
 <a class="app-source" href="https://github.com/cpfair/pTOTP" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-05</span> <span title="Latest release in the app store">Updated 2016-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-02-05</span> <span title="Latest release in the app store">Updated 2016-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Generate Google Authenticator two-factor authentication codes right from your Pebble! Perfect for use with the most popular two-factor authentication systems, including GMail, Dropbox, LastPass…</p>
 </div>

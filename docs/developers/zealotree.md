@@ -13,7 +13,7 @@ hide:
 
 # Zealotree
 
-*8 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*8 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1db5a405aa4000023) · [GitHub (zealotree)](https://github.com/zealotree)
 

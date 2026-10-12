@@ -13,7 +13,7 @@ hide:
 
 # Luca Innocenti
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58262c63b62cef3e7c0001a1/1) · [Website (debiaonoldcomputers.blogspot.it)](http://debiaonoldcomputers.blogspot.it/)
 

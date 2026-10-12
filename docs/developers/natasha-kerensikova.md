@@ -13,7 +13,7 @@ hide:
 
 # Natasha Kerensikova
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/natasha-kerensikova_55f99a40708b83306b00007f) · [GitHub (faelys)](https://github.com/faelys) · [Website (forums.getpebble.com)](https://forums.getpebble.com/discussion/30503/watchapp-battery)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/natasha-kerensikova
 <h2 class="app-name" id="app-575492f7fa796cdbde00000b"><a href="https://apps.repebble.com/575492f7fa796cdbde00000b">Health Export</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/faelys/pebble-health-export" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2017-03-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">ISC</span> <span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2017-03-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This is a simple application for Pebble Watch that extract all the raw Pebble Health data gathered by the watch and POST it to a user-configured HTTP endpoint. The UI independently tracks the…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/natasha-kerensikova
 <h2 class="app-name" id="app-5682947f94ffb2cd410000a9"><a href="https://apps.repebble.com/5682947f94ffb2cd410000a9">Battery-</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/faelys/battery-minus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-29</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">ISC</span> <span title="First published in the app store">Released 2015-12-29</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Battery- uses the activity tracker slot to gather all battery-related events and store them for further display. This is very similar to Battery+ from Ycleptic Studios, except that data is not…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/natasha-kerensikova
 <h2 class="app-name" id="app-566871e573728bc4c7000057"><a href="https://apps.repebble.com/566871e573728bc4c7000057">Classic Lite</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/faelys/classic-lite" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-09</span> <span title="Latest release in the app store">Updated 2016-01-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-12-09</span> <span title="Latest release in the app store">Updated 2016-01-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a minimalist rewrite of the &quot;Classic&quot; watchface by Łukasz Zalewski, aiming at maximizing battery life. While battery effect is long to measure, and the original &quot;Classic&quot; already quite…</p>
 </div>

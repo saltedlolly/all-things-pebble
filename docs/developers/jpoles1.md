@@ -13,7 +13,7 @@ hide:
 
 # jpoles1
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jpoles1_5675a473d21898266b00003c) · [GitHub (jpoles1)](https://github.com/jpoles1) · [Website (jpoles1.github.io)](http://jpoles1.github.io)
 

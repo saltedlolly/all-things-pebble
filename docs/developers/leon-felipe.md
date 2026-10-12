@@ -13,7 +13,7 @@ hide:
 
 # Leon Felipe
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leon-felipe_550f9acac0455737850000b5) · [GitHub (leonlipe)](https://github.com/leonlipe) · [Website (redleon.net)](http://www.redleon.net)
 

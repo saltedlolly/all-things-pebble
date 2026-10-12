@@ -13,7 +13,7 @@ hide:
 
 # ldnpub
 
-*7 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f2712e9770839) · [GitHub (ldnpub)](https://github.com/ldnpub)
 

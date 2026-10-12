@@ -13,7 +13,7 @@ hide:
 
 # rgarcia
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rgarcia_55b7fcf3aa7edd96a800009d) · [GitHub (rafagarciag)](https://github.com/rafagarciag)
 

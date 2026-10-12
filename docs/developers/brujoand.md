@@ -13,7 +13,7 @@ hide:
 
 # brujoand
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brujoand_52a93e9b79c18f9ede00001d) · [GitHub (brujoand)](https://github.com/brujoand)
 

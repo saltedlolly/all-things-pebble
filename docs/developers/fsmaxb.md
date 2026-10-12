@@ -13,7 +13,7 @@ hide:
 
 # FSMaxB
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fsmaxb_54857e594fe7791e44000071) · [GitHub (FSMaxB)](https://github.com/FSMaxB)
 

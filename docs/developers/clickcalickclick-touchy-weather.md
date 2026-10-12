@@ -13,7 +13,7 @@ hide:
 
 # ClickCalickClick (Touchy Weather)
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clickcalickclick-touchy-weather_703379b8b79fb665a4666945) · [GitHub (ClickCalickClick)](https://github.com/ClickCalickClick)
 

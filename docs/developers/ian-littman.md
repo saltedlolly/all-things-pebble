@@ -13,7 +13,7 @@ hide:
 
 # Ian Littman
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ian-littman_deed3c179606a6a97c66e5ae) · [GitHub (iansltx)](https://github.com/iansltx)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ian-littman_deed3c1
 <h2 class="app-name" id="app-ac26ba2c1d084f72b9181302"><a href="https://apps.repebble.com/ac26ba2c1d084f72b9181302">Loading Cat - Orange Edition</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/iansltx/loadingcat-pebble/tree/orange" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-13</span> <span title="Latest release in the app store">Updated 2026-05-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-13</span> <span title="Latest release in the app store">Updated 2026-05-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A reskin of https://github.com/zbzbw/loadingcat-pebble with 100% more orange cat, calibrated for the Time 2 screen. You definitely don&#x27;t want this on a B&amp;W watch.</p>
 </div>

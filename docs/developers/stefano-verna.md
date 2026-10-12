@@ -13,7 +13,7 @@ hide:
 
 # Stefano Verna
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stefano-verna_c5e307b33ca3e561263b6720) · [GitHub (stefanoverna)](https://github.com/stefanoverna)
 

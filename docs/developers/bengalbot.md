@@ -13,7 +13,7 @@ hide:
 
 # Bengalbot
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52de8fae5d0e57da26000076/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/bengalbot_52de8fae5d0e57da26000076) · [GitHub (carledwards)](https://github.com/carledwards) · [GitHub (petehare)](https://github.com/petehare)
 

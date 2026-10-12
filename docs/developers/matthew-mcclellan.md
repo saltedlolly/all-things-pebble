@@ -13,7 +13,7 @@ hide:
 
 # Matthew McClellan
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-mcclellan_52cbc5afb138282b75000118) · [GitHub (mcclellanmj)](https://github.com/mcclellanmj)
 

@@ -1750,10 +1750,10 @@
   "description": "BETA - Allure is an activity tracker for the Pebble Time 2 that turns your heart rate into color. Pick an activity, start, and glance at your wrist: the screen color shows your effort zone, and the current time stays visible. Inspiration Allure is directly inspired by the official Pebble Workout app. It reuses its idea of a simple, glanceable workout screen, and adds color-coded heart rate…",
   "screenshot_url": "https://assets.repebble.com/screenshots/f0d71e5923bd45c0b05a75b0/emery/5670edb6-3966-4266-a428-a69cf1b2fb27.png",
   "store_updated": {
-   "pebble": "2026-10-10"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "1.0.3",
+  "version": "1.0.6",
   "platforms": [
    "emery"
   ],
@@ -6391,15 +6391,17 @@
   "author": "mrTrueBeliever",
   "source": "https://github.com/mrtruebeliever/Cairn",
   "source_from": "source",
-  "description": "Breathe with the tide. A guided breathing coach with live heart rate. Inhale and the water rises, exhale and it falls. Finish a session, lay a stone. Cairn turns a breathing exercise into a tide. Start a session and the waterline rises while you inhale and falls while you exhale, uncovering a cairn of stones on the shore — no counting, no timer to stare at, just a rhythm to follow. A pulse on…",
-  "screenshot_url": "https://assets.repebble.com/screenshots/707660e759f249eb85df1b04/emery/89538944-7126-4c79-8f75-47e6d6f1c734.png",
+  "description": "Cairn turns a breathing exercise into a tide. Start a session and the waterline rises while you inhale and falls while you exhale, uncovering a cairn of stones on the shore — no counting, no timer to stare at, just a rhythm to follow. A pulse on your wrist marks every phase change — a nudge to breathe in, a double tick to hold, a longer pull to breathe out — so you can follow the rhythm with…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/707660e759f249eb85df1b04/emery/fc078a99-7853-403d-aedc-349a23291698.png",
   "store_updated": {
-   "pebble": "2026-08-13"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.2.0",
+  "version": "1.3.1",
   "platforms": [
-   "emery"
+   "gabbro",
+   "emery",
+   "flint"
   ],
   "developer_ids": {
    "pebble": "5f8814a92a6f109602136f61"
@@ -11809,17 +11811,17 @@
   ],
   "first_seen": "2026-10-06",
   "screenshot": "images/apps/5b595252b47f4f28ae51c39d.png",
-  "title": "Digivice - Alpha build",
+  "title": "Digimon Digivice",
   "author": "Vinayla",
   "source": "https://github.com/vinay1017/Pebble-Digivice",
   "source_from": "source",
-  "description": "A very early, alpha build of a reworked digivice. I wished this existed for the pebble, so I made one for myself. It is NOT anywhere near completion and it's all MY original code. Took some inspiration from the vital bracelet, as well. I liked the idea of fitness goals to help with evolution, but I'm not going to make you do sit-ups to get a greymon. Just some walking. Or heck, skip it and…",
+  "description": "My take on a hybrid digivice + vital bracelet Digimon app! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how to digivolve to something specific. :) Patch notes (0.9): The Beta Build! Large version bump, large amount of changes! This has been worked on for quite a bit and has a bunch of new features I have been really wanting to…",
   "screenshot_url": "https://assets.repebble.com/screenshots/5b595252b47f4f28ae51c39d/emery/7d970576-2d86-43ad-9284-62cbab5a4767.png",
   "store_updated": {
-   "pebble": "2026-10-10"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "0.4",
+  "version": "0.91",
   "platforms": [
    "gabbro",
    "emery"
@@ -15795,16 +15797,15 @@
   "description": "Frogger, but for Pebble! Multiple challenging levels, which get faster as it goes... Can you dodge the cars and hop those logs? You get an extra life for each level you complete.. Good luck! Choose between modern or retro art! Note: Touch screen support is enabled for jumping only. It is only enabled on the new RePebble time 2 for 2026 Special thanks to GitHub user cmbartschat for the graphics…",
   "screenshot_url": "https://assets.repebble.com/screenshots/21268740bc164e18907f66b8/emery/46af38a5-0e77-4dee-918e-5fcbac885bc1.png",
   "store_updated": {
-   "pebble": "2026-09-23"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "5.0.6",
+  "version": "6.2.2",
   "platforms": [
    "gabbro",
    "emery",
    "flint",
    "diorite",
-   "chalk",
    "basalt",
    "aplite"
   ],
@@ -21430,6 +21431,35 @@
    "pebble": "2026-06-05"
   }
  },
+ "839ba878ddd84203a9954aac": {
+  "id": "839ba878ddd84203a9954aac",
+  "type": "watchapp",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/839ba878ddd84203a9954aac.png",
+  "title": "ISS Tracker",
+  "author": "Alfredo Chamberlain",
+  "source": "https://gitlab.com/geckopebble/iss-tracker",
+  "source_from": "source",
+  "description": "Find the International Space Station with your Pebble Time 2. See every ISS pass over the next 3 days, which ones you can actually see and how bright they will be, and get a vibration 5 minutes before the passes you choose, even with the app closed. In the sky view, point your watch at the sky: a polar sky map shows the pass track and the live ISS position, and a compass-driven ring guides you…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/839ba878ddd84203a9954aac/emery/cf45a5d5-2527-4562-b7f6-431ab5aad009.png",
+  "version": "1.0.0",
+  "platforms": [
+   "emery"
+  ],
+  "developer_ids": {
+   "pebble": "bd9db32145c0ee90a26a69a0"
+  },
+  "store_updated": {
+   "pebble": "2026-10-11"
+  },
+  "store_released": {
+   "pebble": "2026-10-11"
+  },
+  "source_online": true
+ },
  "56d6ca7d153e89984a00000f": {
   "id": "56d6ca7d153e89984a00000f",
   "type": "watchapp",
@@ -26949,10 +26979,10 @@
   "description": "MirrorMsg is the most advanced messaging client for Pebble. Log in to your accounts and see all your live conversations in chat threads that scroll through the entire chat, with rich modern features: thumbnail previews, HQ images, animated GIFs, video playback, emoji reactions, threaded replies and more. Works with Google Messages, WhatsApp, Telegram, Discord and Facebook Messenger natively…",
   "screenshot_url": "https://assets.repebble.com/screenshots/a6afc81d58194fa6969f0c34/emery/627bb51c-b8db-4c8b-af7e-f78aed3027bb.gif",
   "store_updated": {
-   "pebble": "2026-10-08"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "0.93.0",
+  "version": "0.94.0",
   "platforms": [
    "emery",
    "basalt"
@@ -27580,6 +27610,36 @@
    "rebble": "2013-12-18"
   },
   "website": "http://www.morpheuz.net/p/instructions.html"
+ },
+ "40186d90c77b46789c25a1e3": {
+  "id": "40186d90c77b46789c25a1e3",
+  "type": "watchapp",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/40186d90c77b46789c25a1e3.png",
+  "title": "Morpheuz Reborn",
+  "author": "Christian Sandmann",
+  "source": "https://github.com/JamesFowler42/morpheuz20",
+  "source_from": "source",
+  "description": "Morpheuz Reborn is a sleep monitor with a smart alarm. It is a ground-up rebuild of the original Morpheuz by James Fowler (MIT licence), whose servers are gone: https://apps.rebble.io/application/52b20a9b05c04688bf000058 (source: https://github.com/JamesFowler42/morpheuz20). The idea is the same, the code is new, and everything that needed a web service is left out. Morpheuz Reborn is an…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/40186d90c77b46789c25a1e3/emery/072c6731-6343-40dd-80ff-81f83b80f897.png",
+  "version": "1.5.1",
+  "platforms": [
+   "gabbro",
+   "emery"
+  ],
+  "developer_ids": {
+   "pebble": "9d2c878e46f2688f42910d40"
+  },
+  "store_updated": {
+   "pebble": "2026-10-12"
+  },
+  "store_released": {
+   "pebble": "2026-10-11"
+  },
+  "source_online": true
  },
  "532eadd24e66a6b2a4000137": {
   "id": "532eadd24e66a6b2a4000137",
@@ -31961,13 +32021,14 @@
   "source": "https://github.com/mrtruebeliever/PBL-7",
   "source_from": "source",
   "description": "A landscape shmup through the solar system. Hold your Pebble Time 2 sideways and fly PBL-7 to Earth. Rise, fire, dodge, and beat a boss on every planet. 11 planets, secrets, 5 languages. PBL-7 is a sideways-held arcade shoot-'em-up for the Pebble Time 2. Turn your watch a quarter turn — the three buttons line up along the bottom and the screen becomes a 228×200 landscape playfield. You are…",
-  "screenshot_url": "https://assets.repebble.com/screenshots/3cbee0195ebb4709be91f6d2/emery/4594c1a9-7472-4a23-8212-4fd58b34b0fc.png",
+  "screenshot_url": "https://assets.repebble.com/screenshots/3cbee0195ebb4709be91f6d2/emery/52c514f7-d7a9-43f0-b155-699f468b1707.png",
   "store_updated": {
-   "pebble": "2026-08-13"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.0.1",
+  "version": "1.2.0",
   "platforms": [
+   "gabbro",
    "emery"
   ],
   "developer_ids": {
@@ -32599,7 +32660,7 @@
   "source_from": "source",
   "description": "Follow live pro golf, leaderboards and player scores right from your wrist. ⛳ Pebble Golf Live brings tournament leaderboards, player scores, schedules and scorecards to your Pebble. Highlights: • Live professional tournament leaderboards • Player round summaries and hole-by-hole scorecards • Upcoming tournament schedules • Historical results • Timeline support",
   "screenshot_url": "https://assets2.rebble.io/200x228/6ac5d5ac836dec0009992f82",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "platforms": [
    "gabbro",
    "emery"
@@ -32608,7 +32669,7 @@
    "rebble": "6ac5d42fff3e88000913c329"
   },
   "store_updated": {
-   "rebble": "2026-10-09"
+   "rebble": "2026-10-11"
   },
   "store_released": {
    "rebble": "2026-10-07"
@@ -32631,7 +32692,7 @@
   "source_from": "source",
   "description": "Follow live pro golf, leaderboards and player scores right from your wrist. ⛳ Pebble Golf Live brings tournament leaderboards, player scores, schedules and scorecards to your Pebble. Highlights: • Live professional tournament leaderboards • Player round summaries and hole-by-hole scorecards • Upcoming tournament schedules • Historical results • Timeline support",
   "screenshot_url": "https://assets.repebble.com/screenshots/80828e5b66b947ed982d4941/emery/24a5adfc-93ed-4397-9716-a16e98ece05d.png",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "platforms": [
    "gabbro",
    "emery"
@@ -32640,7 +32701,7 @@
    "pebble": "1e7cf5109777745902ea406c"
   },
   "store_updated": {
-   "pebble": "2026-10-09"
+   "pebble": "2026-10-11"
   },
   "store_released": {
    "pebble": "2026-10-07"
@@ -32902,8 +32963,8 @@
   "source": "https://github.com/axisdrama/PebblePacer/tree/main",
   "source_from": "source",
   "description": "# PebblePacer A fork of WayeM’s Allure A workout app for the **Pebble Time 2** (platform `emery`): walk, run or train with your heart rate shown live in five colour-coded effort zones. ## Features - Three activities: walk, run, workout, with a 3-second countdown. - Live heart rate. The top half of the screen changes colour with your effort zone (five zones, as a percentage of your estimated…",
-  "screenshot_url": "https://assets.repebble.com/screenshots/5a50a70d9120477db6e41748/emery/e1eea9d0-c81a-4218-ac47-0d74b597b215.png",
-  "version": "1.3.3",
+  "screenshot_url": "https://assets.repebble.com/screenshots/5a50a70d9120477db6e41748/emery/40bb2b18-96f1-4b51-8e70-fe65d4537215.png",
+  "version": "1.3.6",
   "platforms": [
    "emery"
   ],
@@ -32911,10 +32972,40 @@
    "pebble": "1af20955237e32fc90ab831a"
   },
   "store_updated": {
-   "pebble": "2026-10-09"
+   "pebble": "2026-10-12"
   },
   "store_released": {
    "pebble": "2026-10-09"
+  },
+  "source_online": true
+ },
+ "ed51ec43c4a949fe9f265a8b": {
+  "id": "ed51ec43c4a949fe9f265a8b",
+  "type": "watchapp",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/ed51ec43c4a949fe9f265a8b.png",
+  "title": "Pebble Peaks",
+  "author": "mrTrueBeliever",
+  "source": "https://github.com/mrtruebeliever/PebblePeaks",
+  "source_from": "source",
+  "description": "Jump. Climb. Don't freeze! Jump ledge to ledge up a mountain with two buttons while freezing mist rises below. Collect gems, buy gear, plant the flag at 1000 m. Pebble Peaks is a vertical arcade climber for the Pebble Time 2. UP jumps up-left, DOWN jumps up-right — once you're in the air, the arc is fixed, so every jump is a choice. Below you, icy mist keeps rising. Stand still too long and…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/ed51ec43c4a949fe9f265a8b/emery/19ecafdc-3bde-4dce-a0df-219fa06ec7d1.png",
+  "version": "1.1.0",
+  "platforms": [
+   "gabbro",
+   "emery"
+  ],
+  "developer_ids": {
+   "pebble": "5f8814a92a6f109602136f61"
+  },
+  "store_updated": {
+   "pebble": "2026-10-12"
+  },
+  "store_released": {
+   "pebble": "2026-10-12"
   },
   "source_online": true
  },
@@ -33642,10 +33733,10 @@
   "description": "This is a Jezzball clone for the pebble time 2! The classic windows game on your wrist! With touch support! Your goal is to trap all the balls in the smallest boxes that you can. Give it a try!",
   "screenshot_url": "https://assets.repebble.com/screenshots/7a641809d43a4acf813fdea5/emery/ed3ff1ad-a48e-48a7-b56d-8e44c60216ad.png",
   "store_updated": {
-   "pebble": "2026-09-23"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "2.1",
+  "version": "2.2",
   "platforms": [
    "emery"
   ],
@@ -33741,13 +33832,14 @@
   "source": "https://github.com/mrtruebeliever/PebbleDiver",
   "source_from": "source",
   "description": "A one-button deep-sea dive. Hold to swim up, let go to sink. Dodge rocks and jellyfish, grab pearls and air, upgrade your gear, and dive as deep as you dare. PebbleDiver is a one-button arcade dive for the Pebble Time 2. Hold SELECT to swim up, hold DOWN to dive faster, let go to sink — that's the whole control scheme. Dodge rocks and jellyfish on the way down, scoop up pearls and air bubbles…",
-  "screenshot_url": "https://assets.repebble.com/screenshots/d529bfb1bcb14e369c9ac112/emery/adfc3e8c-bc45-4577-9f95-0606097e3a5f.png",
+  "screenshot_url": "https://assets.repebble.com/screenshots/d529bfb1bcb14e369c9ac112/emery/98557990-acc4-4479-b4a0-bb5a601b4142.png",
   "store_updated": {
-   "pebble": "2026-08-13"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.1.0",
+  "version": "1.3.0",
   "platforms": [
+   "gabbro",
    "emery"
   ],
   "developer_ids": {
@@ -33772,12 +33864,14 @@
   "description": "Your Todoist tasks on your wrist — add them by voice. Browse Todoist by list, label or Today, read details and subtasks, tick tasks off, and dictate new ones. Touch on PT2. 5 languages. PebbleDoist puts Todoist on your wrist. The overview opens on a Today row, the lists you picked (each with its open-task count) and your labels. Open a list to see its tasks with their due dates, select one to…",
   "screenshot_url": "https://assets.repebble.com/screenshots/62a96010e98448ebaaa647fb/emery/18f46ec2-f5d7-4cf8-b8b8-ade0a1d6234f.png",
   "store_updated": {
-   "pebble": "2026-08-18"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.6.0",
+  "version": "1.7.0",
   "platforms": [
-   "emery"
+   "gabbro",
+   "emery",
+   "flint"
   ],
   "developer_ids": {
    "pebble": "5f8814a92a6f109602136f61"
@@ -34231,10 +34325,10 @@
   "description": "Track your time in Kimai, straight from your wrist. Start, stop and switch Kimai time tracking from your Pebble. Recent activities in one press. Touch on PT2. 5 languages. PebbleKimai puts your self-hosted Kimai time tracking on your wrist. The home screen is a card: the project you are booking on, the activity you are on, and a big ticking elapsed time — or, when idle, your last activity with…",
   "screenshot_url": "https://assets.repebble.com/screenshots/4ab5c72a6eb74d5581ebcf6d/emery/f2215ad6-959f-446f-9c45-3bbf5bdd6bae.gif",
   "store_updated": {
-   "pebble": "2026-08-18"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "2.8.1",
+  "version": "2.10.0",
   "platforms": [
    "gabbro",
    "emery",
@@ -34263,15 +34357,17 @@
   "author": "mrTrueBeliever",
   "source": "https://github.com/mrtruebeliever/PebbleKuma",
   "source_from": "source",
-  "description": "PebbleKuma brings your Uptime Kuma status pages to your Pebble Time 2. Browse a clean list of your monitors at a glance, a colored dot tells you what's up, down, in maintenance, or pending, with the 24-hour uptime right beside it. Tap a monitor for a full card, color-coded by its status, showing the uptime percentage, current ping (with min/avg/max), monitor type, last check time, the latest…",
+  "description": "Your Uptime Kuma status page, on your wrist. Watch your Uptime Kuma monitors from your Pebble: uptime, ping and heartbeats per monitor, with status-coloured cards. Touch on PT2. PebbleKuma shows the monitors from your own Uptime Kuma status page on a Pebble Time 2. The list is a clean white page: a coloured status dot, the monitor name and its 24-hour uptime, so one glance tells you whether…",
   "screenshot_url": "https://assets.repebble.com/screenshots/81a2a1cef20f45b4935929e7/emery/249b7f4b-f535-47ce-afb5-448fb5fcca59.gif",
   "store_updated": {
-   "pebble": "2026-08-13"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.2.0",
+  "version": "1.3.0",
   "platforms": [
-   "emery"
+   "gabbro",
+   "emery",
+   "flint"
   ],
   "developer_ids": {
    "pebble": "5f8814a92a6f109602136f61"
@@ -34476,13 +34572,13 @@
   "author": "Sacha",
   "source": "https://github.com/optio/PebbleNTN/releases",
   "source_from": "source",
-  "description": "Turn-by-turn directions from your phone's nav app, on your pebble. PebbleNTN reads your navigation app's notifications and shows the next turn, distance, road, and ETA on your Pebble. No need to reach for your phone! - Google Maps supported now, more coming soon - Accent colours, light/dark, and three arrow styles - Backlight (with RGB support) and vibration options - Metric/imperial, left- or…",
+  "description": "Turn-by-turn directions from your phone's nav app, on your Pebble. PebbleNTN reads your navigation app's notifications and shows the next turn, distance, road, and ETA on your Pebble. No need to reach for your phone! - Works with Google Maps, OsmAnd, Organic Maps and CoMaps. More coming soon! - Understands English, German, French, Spanish, Italian, Dutch, Portuguese, Polish and Chinese …",
   "screenshot_url": "https://assets2.rebble.io/200x228/6a5e8cac50bd250008fbc3d3",
   "store_updated": {
-   "rebble": "2026-10-03"
+   "rebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "0.0.49",
+  "version": "0.0.59",
   "platforms": [
    "gabbro",
    "emery",
@@ -34513,13 +34609,13 @@
   "author": "Sacha",
   "source": "https://github.com/optio/PebbleNTN",
   "source_from": "source",
-  "description": "Turn-by-turn directions from your phone's nav app, on your pebble. PebbleNTN reads your navigation app's notifications and shows the next turn, distance, road, and ETA on your Pebble. No need to reach for your phone! - Google Maps supported now, more coming soon - Accent colours, light/dark, and three arrow styles - Metric/imperial, left- or right-hand arrow - Write your own rules, or share…",
+  "description": "Turn-by-turn directions from your phone's nav app, on your Pebble. PebbleNTN reads your navigation app's notifications and shows the next turn, distance, road, and ETA on your Pebble. No need to reach for your phone! - Works with Google Maps, OsmAnd, Organic Maps and CoMaps. More coming soon! - Understands English, German, French, Spanish, Italian, Dutch, Portuguese, Polish and Chinese …",
   "screenshot_url": "https://assets.repebble.com/screenshots/ad4971e345854b909b73b1a9/emery/3b44c90e-cb31-42ce-8957-156f93f34153.png",
   "store_updated": {
-   "pebble": "2026-10-03"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "0.0.49",
+  "version": "0.0.59",
   "platforms": [
    "gabbro",
    "emery",
@@ -35997,10 +36093,10 @@
   "description": "Hexic but for pebble! It's the classic you know and love, optimized for Pebble Time 2 (emery) and Pebble Round 2 (gabbro)",
   "screenshot_url": "https://assets.repebble.com/screenshots/b08db659baf2425c85bcc5aa/emery/56e993d1-d599-4489-9833-1b3d9b7dfb1f.png",
   "store_updated": {
-   "pebble": "2026-09-23"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "3.1",
+  "version": "3.2",
   "platforms": [
    "gabbro",
    "emery"
@@ -37478,10 +37574,10 @@
   "description": "Polly — your talking parrot Press SELECT, speak a sentence, and Polly repeats it out loud through your Pebble Time 2's speaker in real, natural-sounding speech. Powered by Google Cloud Text-to-Speech running on your phone, with dozens of languages and voices to choose from. Between chats, Polly blinks, tilts its head and waits on its branch. Requires a Pebble Time 2 (speaker + microphone) and…",
   "screenshot_url": "https://assets.repebble.com/screenshots/98a5501cdace41fea679452d/emery/5fbaae63-6273-4b41-a4d1-0b52625737de.png",
   "store_updated": {
-   "pebble": "2026-08-13"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.4.0",
+  "version": "1.5.1",
   "platforms": [
    "emery"
   ],
@@ -39541,7 +39637,7 @@
   "source_from": "source",
   "description": "Raise to wake app that allows the pebble backlight to turn on when you raise your wrist and turn off when lowered.",
   "screenshot_url": "https://assets.repebble.com/screenshots/9b20c579b0344422ab8ea24e/basalt/74bb3ec9-773c-4dbd-bff4-f7a87586c261.png",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "platforms": [
    "gabbro",
    "emery",
@@ -39555,7 +39651,7 @@
    "pebble": "3baa3c53d5e0047df0dc5890"
   },
   "store_updated": {
-   "pebble": "2026-10-10"
+   "pebble": "2026-10-11"
   },
   "store_released": {
    "pebble": "2026-10-07"
@@ -41316,7 +41412,7 @@
   "source_from": "source",
   "description": "A worn cover. A ribbon left between the pages. The familiar red words that once helped us find our place. A missal can carry the memory of years spent in prayer, and of the people who sat beside us. Daily Roman Missal brings a little of that familiarity to your Pebble Time 2. The readings for ordinary mornings and great feast days are gathered together on your wrist, ready when the church…",
   "screenshot_url": "https://assets.repebble.com/screenshots/9e466762014d4b1ab248219f/emery/d0bccd38-6914-4cfb-a9db-bca43c71f8eb.png",
-  "version": "1.4.0",
+  "version": "1.4.3",
   "platforms": [
    "emery"
   ],
@@ -41324,7 +41420,7 @@
    "pebble": "c476f03f63cabb0964fbce2e"
   },
   "store_updated": {
-   "pebble": "2026-10-09"
+   "pebble": "2026-10-12"
   },
   "store_released": {
    "pebble": "2026-10-08"
@@ -46529,12 +46625,12 @@
   "source": "https://github.com/ldibuccio/Stocky-hd",
   "source_from": "source",
   "description": "Stocky HD — track your investment portfolios right from your wrist. This is the HD edition, built for the Pebble Time 2 and its larger, higher-resolution display: bigger numbers and more information on every screen, made to be read at a glance. On a Pebble Time 1? Look for \"Stocky\" instead — the same app reworked for the smaller screen, with the information spread across more screens so it…",
-  "screenshot_url": "https://assets.repebble.com/screenshots/b292eadd4d16465eb0c5b133/emery/87dcd38f-d6fc-47d2-89b6-007c44570747.png",
+  "screenshot_url": "https://assets.repebble.com/screenshots/b292eadd4d16465eb0c5b133/emery/9bb59a22-cd5a-4b2a-89c9-ef5b16e23c97.png",
   "store_updated": {
-   "pebble": "2026-06-14"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "1.0.0",
+  "version": "2.0",
   "platforms": [
    "emery"
   ],
@@ -48019,18 +48115,17 @@
   "author": "Philip Reinken",
   "source": "https://github.com/philipreinken/pebble-tandoor-list",
   "source_from": "source",
-  "description": "🏗️ This app is under development. Check your tandoor recipes shopping list on the go 📝 This app connects to a Tandoor instance, loads the current shopping list, and lets you mark items as checked directly from your Pebble watch.",
-  "screenshot_url": "https://assets.repebble.com/screenshots/5996b590bda6450585ae6a6c/emery/07dec73f-e9ea-4d9e-bb4b-a3e1b5d493c2.png",
-  "version": "0.0.1",
+  "description": "Check your tandoor recipes shopping list on the go 📝 This app connects to a Tandoor instance, loads the current shopping list, and lets you mark items as checked directly from your Pebble watch.",
+  "screenshot_url": "https://assets.repebble.com/screenshots/5996b590bda6450585ae6a6c/emery/676bf7a2-ad23-4672-a7fd-2a0155365639.png",
+  "version": "0.0.3",
   "platforms": [
-   "gabbro",
    "emery"
   ],
   "developer_ids": {
    "pebble": "73690dd158662c5e6a6b77f1"
   },
   "store_updated": {
-   "pebble": "2026-10-09"
+   "pebble": "2026-10-11"
   },
   "store_released": {
    "pebble": "2026-10-09"
@@ -54140,12 +54235,12 @@
   "first_seen": "2026-10-11",
   "screenshot": "images/apps/dd43ab18532144fa9a9e002d.png",
   "title": "US Soccer Clubs App",
-  "author": "Copper Moth Software",
+  "author": "PopOff Software",
   "source": "https://coppermothsoftware.com",
   "source_from": "source",
   "description": "Follow your MLS, USL Championship or USL League One club from the app menu. The app version of the US Soccer Clubs watch face, with both views one button press apart. It opens on the screen you choose in the settings. Press Select for the other one, and Back to return: - Team: club logo, position (in your conference, where the league has them), points, W-L-D record and your next match …",
-  "screenshot_url": "https://assets.repebble.com/screenshots/dd43ab18532144fa9a9e002d/emery/1730e9a8-b774-4c6b-ba58-9c3c1f83efba.png",
-  "version": "1.0.0",
+  "screenshot_url": "https://assets.repebble.com/screenshots/dd43ab18532144fa9a9e002d/emery/7e20c4bb-0761-4ef9-ab14-48d001e9e8f1.png",
+  "version": "1.1.0",
   "platforms": [
    "gabbro",
    "emery",
@@ -54158,7 +54253,7 @@
    "pebble": "ab8030369140522ee0ce5a5b"
   },
   "store_updated": {
-   "pebble": "2026-10-09"
+   "pebble": "2026-10-12"
   },
   "store_released": {
    "pebble": "2026-10-09"
@@ -58528,6 +58623,35 @@
    "rebble": "2015-03-28"
   },
   "website": "http://www.kilfer.es"
+ },
+ "e64f7bcd1ef249d092bfb44e": {
+  "id": "e64f7bcd1ef249d092bfb44e",
+  "type": "watchapp",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/e64f7bcd1ef249d092bfb44e.png",
+  "title": "ZenNotes for Pebble",
+  "author": "Unknown",
+  "source": "https://github.com/Rad1ally/pebble-zennotes",
+  "source_from": "source",
+  "description": "Read your ZenNotes on your wrist. ZenNotes for Pebble connects to your self-hosted ZenNotes server (znserver) and shows your Markdown notes on Pebble Time 2. It is read-only, so your vault is never changed. - Browse folders, recent notes and tags - Search note titles by voice - Markdown: headings, lists, checkboxes, quotes, callouts and tables - Code blocks with line numbers and syntax…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/e64f7bcd1ef249d092bfb44e/emery/dfca5247-53a0-4229-a4ff-b9c6a9946b91.png",
+  "version": "0.1.0",
+  "platforms": [
+   "emery"
+  ],
+  "developer_ids": {
+   "pebble": "d03cd6b6993c081f27c2fc87"
+  },
+  "store_updated": {
+   "pebble": "2026-10-12"
+  },
+  "store_released": {
+   "pebble": "2026-10-12"
+  },
+  "source_online": true
  },
  "8a706e64a4f745cc94398e35": {
   "id": "8a706e64a4f745cc94398e35",
@@ -68172,7 +68296,7 @@
   "source": "https://github.com/thunderchild7/big_time_bariol",
   "source_from": "source",
   "description": "Big Time but with the Bariol font and configurable. Can also vibrate at configurable intervals. kudos to Albert Rojo (@albertrojo) based on the Big Time watch by Pebble Technologies. Using the type Bariol Light (http://www.bariol.com) for this smartwatch. Most of the programming credits go to Pebble Technologies. I did some mods on the resource files, and upgraded it to V2.0 SDK",
-  "screenshot_url": "https://assets.repebble.com/screenshots/531b45c62a95cc72b0000523-1.png",
+  "screenshot_url": "https://assets.repebble.com/apps/531b45c62a95cc72b0000523/screenshots/aplite/screenshot-0.png",
   "store_updated": {
    "rebble": "2014-03-27",
    "pebble": "2014-03-27"
@@ -74755,9 +74879,9 @@
   "author": "Edward",
   "source": "https://github.com/ewijaya/pebble-cine",
   "source_from": "source",
-  "description": "CINÉ: Cinema on Your Wrist Sometimes, waiting for the kettle, you check the time and remember a cinema that isn't there anymore. The poster outside. The person beside you. That walk home, still talking about the ending. CINÉ brings a little of that feeling to Pebble Time 2. Metropolis, Vertigo, In the Mood for Love and North by Northwest take turns on your wrist, one full-screen poster each…",
-  "screenshot_url": "https://assets.repebble.com/screenshots/a4aba1597dde497dbb3b66b3/emery/2040c96a-f262-4bef-91ec-8232077e453f.png",
-  "version": "1.1.0",
+  "description": "CINÉ: Cinema on Your Wrist Some films keep their own time. Two hours in a dark room can stay with us for decades. We watch the same scene years later, and it hasn't changed. We have. I can forget why I walked into the kitchen, yet remember the light in a film I saw twenty years ago. CINÉ leaves a little room for that kind of memory on your Pebble Time 2. Eleven full-screen movie posters, from…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/a4aba1597dde497dbb3b66b3/emery/c0b6b7b3-0988-4658-900c-cf1dbec9917d.png",
+  "version": "1.5.0",
   "platforms": [
    "emery"
   ],
@@ -74765,7 +74889,7 @@
    "pebble": "c476f03f63cabb0964fbce2e"
   },
   "store_updated": {
-   "pebble": "2026-10-09"
+   "pebble": "2026-10-11"
   },
   "store_released": {
    "pebble": "2026-10-09"
@@ -81737,15 +81861,17 @@
   "author": "mrTrueBeliever",
   "source": "https://github.com/mrtruebeliever/pebble-demi",
   "source_from": "source",
-  "description": "A vector watchface that tracks whatever matters to you. Bold vector digits with progress bars for steps, daylight, battery or your own JSON stat - plus weather, sunrise/sunset and a light theme. Demi is a configurable watchface for the Pebble Time 2, built around large anti-aliased vector digits and progress bars that stay out of the way until you need them. Track steps, calories, distance…",
+  "description": "A vector watchface that tracks whatever matters to you. Bold vector digits with progress bars for steps, daylight, battery or your own JSON stat - plus weather, sunrise/sunset and a light theme. Demi is a configurable watchface for the Pebble Time 2 (also built for the Pebble Round 2 and Pebble 2 Duo), built around large anti-aliased vector digits and progress bars that stay out of the way…",
   "screenshot_url": "https://assets.repebble.com/screenshots/6d8da4ce71164976855a854e/emery/877975e2-f1be-469d-9266-7c1f397422f5.png",
   "store_updated": {
-   "pebble": "2026-08-13"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.7.0",
+  "version": "1.8.0",
   "platforms": [
-   "emery"
+   "gabbro",
+   "emery",
+   "flint"
   ],
   "developer_ids": {
    "pebble": "5f8814a92a6f109602136f61"
@@ -85775,6 +85901,42 @@
   },
   "website": "https://github.com/HybridAU",
   "forum": "https://forum.rebble.io/t/400"
+ },
+ "69b71728acec7b00092d0954": {
+  "id": "69b71728acec7b00092d0954",
+  "type": "watchface",
+  "stores": [
+   "rebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/69b71728acec7b00092d0954.png",
+  "title": "Eclipse",
+  "author": "astosia",
+  "source": "https://github.com/astosia/Eclipse",
+  "source_from": "source",
+  "description": "Westworld inspired watchface, based on Serac's Rehoboam watch (also looks quite a lot like a Solar Eclipse) Background updates every minute as the Divergence progresses Features: - Auto-detection of 12h/24h based on your watch settings - Date.Month.Battery complication - Custom text below the time Options: - Choose background theme and text colours - Several presets for the background (colour…",
+  "screenshot_url": "https://assets2.rebble.io/200x228/69b7172cacec7b00092d0963",
+  "version": "1.0",
+  "platforms": [
+   "gabbro",
+   "emery",
+   "flint",
+   "diorite",
+   "chalk",
+   "basalt"
+  ],
+  "developer_ids": {
+   "rebble": "58a635d30dfc320dc60003b4"
+  },
+  "store_updated": {
+   "rebble": "2026-03-15"
+  },
+  "store_released": {
+   "rebble": "2026-03-15"
+  },
+  "website": "https://favouritehumandesign.com",
+  "forum": "https://forum.rebble.io/t/774",
+  "source_online": true
  },
  "54250a8d5394589fee0000d3": {
   "id": "54250a8d5394589fee0000d3",
@@ -94352,10 +94514,10 @@
   "description": "Gridlock is a customizable modular dashboard watchface for the Pebble Time 2, with calendar, weather, stocks, heart rate, steps, sleep, Quiet Time, Bluetooth, battery, moon phase, sunrise/sunset, and forecast complications on a drag and drop grid around a digital or analog clock. 🧩 Layout - A grid engine with drag-and-drop editing, up to five rows, and both symmetric and asymmetric panel…",
   "screenshot_url": "https://assets.repebble.com/screenshots/cf60ff6cf2fa45868e4e8a6f/emery/ecb5e5c0-4197-48a9-b393-ae172e1b961f.gif",
   "store_updated": {
-   "pebble": "2026-09-27"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.5.0",
+  "version": "1.5.1",
   "platforms": [
    "emery"
   ],
@@ -94516,10 +94678,10 @@
   "description": "Track time and step counts with Gundam Aerial, Calibarn, GPO2A, Qubeley, Xi, Byarlant, Zeta, Sazabi, and Crossbone. Steps are represented with filling in an arc of vertical lines. When battery is low, it shows a LOW PARTICLE warning at the bottom which replaces the step counter.",
   "screenshot_url": "https://assets.repebble.com/screenshots/db3f6e4f0a904e2894a4b1fa/emery/4b2bf3d4-27ec-46c2-82b7-c4c7479bb8e4.png",
   "store_updated": {
-   "pebble": "2026-10-05"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "1.4.4",
+  "version": "1.5.0",
   "platforms": [
    "gabbro",
    "emery",
@@ -97259,6 +97421,35 @@
    "pebble": "2026-05-17"
   }
  },
+ "168358eb358e48358c693060": {
+  "id": "168358eb358e48358c693060",
+  "type": "watchface",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/168358eb358e48358c693060.gif",
+  "title": "Hol Horse",
+  "author": "howeaj",
+  "source": "https://github.com/howeaj/pebble-hol-horse",
+  "source_from": "source",
+  "description": "Analogue watch used by Hol Horse from Jojo's Bizarre Adventure. Shake to show seconds and 3 custom complications; very configurable! Tags: roman numerals, round, anime, manga, novelty, functional, ornate, fancy, efficient, japanese, 日本語, jjba Configurable features: - Battery meter - Status icons: - Bluetooth disconnection (ゴゴゴ) - Quiet time (しーん) - Complications: - Battery % - Day name or…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/168358eb358e48358c693060/gabbro/ed42b6e6-8118-4014-9f97-2e90922abcd0.gif",
+  "version": "1.0.0",
+  "platforms": [
+   "gabbro"
+  ],
+  "developer_ids": {
+   "pebble": "985832377863a3ae441861fe"
+  },
+  "store_updated": {
+   "pebble": "2026-10-11"
+  },
+  "store_released": {
+   "pebble": "2026-10-11"
+  },
+  "source_online": true
+ },
  "67a908217cb65800093e3c06": {
   "id": "67a908217cb65800093e3c06",
   "type": "watchface",
@@ -98778,10 +98969,10 @@
   "description": "IDE VSCode is a Visual Studio Code-inspired digital watchface for the Pebble Time 2, laid out like a code editor. It shows weather, heart rate, steps, battery, and Bluetooth status, with the hourly vibration silenced during Quiet Time. 🎨 Appearance - Six editor themes with a code editor layout, flexible time and date formats, and Swatch Internet Time (.beats). 🌤️ Weather - Temperature…",
   "screenshot_url": "https://assets.repebble.com/screenshots/620f8b6abe64458caa59fdef/emery/ef4b0f9f-e3c9-455e-832d-cf1b5645e613.png",
   "store_updated": {
-   "pebble": "2026-09-27"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.5.2",
+  "version": "1.5.3",
   "platforms": [
    "emery"
   ],
@@ -103324,10 +103515,10 @@
   "description": "LCARS Stardate is a Star Trek inspired LCARS digital watchface for the Pebble Time 2, with a live stardate under the clock. Pick four panels from 26 readouts, including weather, heart rate, steps, battery, moon phase, sunrise and sunset, a second time zone, and Bluetooth and Quiet Time status. 🧩 Panels - Four pickable panels under the clock and stardate banner, two per column. Any of the 26…",
   "screenshot_url": "https://assets.repebble.com/screenshots/69139dc57a004424b6109c20/emery/0a2a2e52-6f9a-442f-a0e7-2d85fcf6d270.png",
   "store_updated": {
-   "pebble": "2026-09-27"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.13.0",
+  "version": "1.13.1",
   "platforms": [
    "emery"
   ],
@@ -105761,6 +105952,36 @@
    "rebble": "2023-08-10"
   },
   "website": "https://derpibooru.org/profiles/nyrikiri"
+ },
+ "d47105a3c7c1489895b067ff": {
+  "id": "d47105a3c7c1489895b067ff",
+  "type": "watchface",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/d47105a3c7c1489895b067ff.png",
+  "title": "Luped CGM",
+  "author": "Unknown",
+  "source": "https://github.com/dabear/CrimsonBearPebbleWatchFace",
+  "source_from": "source",
+  "description": "A Loop-styled CGM watchface for Pebble Time 2 and Pebble Round 2. Requires a direct watch connection from a supported iPhone app such as Loop or Trio; the watchface has no Pebble app settings and does not fetch glucose data on its own.",
+  "screenshot_url": "https://assets.repebble.com/screenshots/d47105a3c7c1489895b067ff/emery/338ac880-1a4c-4843-a8b4-67194146d8ca.png",
+  "version": "0.1.1",
+  "platforms": [
+   "gabbro",
+   "emery"
+  ],
+  "developer_ids": {
+   "pebble": "6e1072e4037ce66aa33da174"
+  },
+  "store_updated": {
+   "pebble": "2026-10-12"
+  },
+  "store_released": {
+   "pebble": "2026-10-12"
+  },
+  "source_online": true
  },
  "21086d4ccce74bbbbaedd11a": {
   "id": "21086d4ccce74bbbbaedd11a",
@@ -112344,10 +112565,10 @@
   "description": "(NOTE: Still being tested, so bugs might occour) Based on the original Multifunctional 7 Segment watchface by FG. * Fixes config page * Upscaled graphics for Pebble Time 2 * New theme option, that lets you customize each color * Updated to new SDK",
   "screenshot_url": "https://assets.repebble.com/screenshots/24eb98026beb41acbc57b15b/emery/0ea2a84e-6fb9-4f5f-aaaf-e4f5e83bb203.png",
   "store_updated": {
-   "pebble": "2026-06-24"
+   "pebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "platforms": [
    "gabbro",
    "emery",
@@ -112379,10 +112600,10 @@
   "description": "Based on the original Multifunctional 7 Segment watchface by FG. * Fixes config page * Upscaled graphics for Pebble Time 2 * New theme option, that lets you customize each color * Updated to new SDK",
   "screenshot_url": "https://assets2.rebble.io/200x228/698cdfbe451cac0009f17f91",
   "store_updated": {
-   "rebble": "2026-06-24"
+   "rebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "platforms": [
    "gabbro",
    "emery",
@@ -112399,6 +112620,36 @@
    "rebble": "2026-02-11"
   },
   "forum": "https://forum.rebble.io/t/639"
+ },
+ "dec28b0cc5b940b1ac69db7a": {
+  "id": "dec28b0cc5b940b1ac69db7a",
+  "type": "watchface",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/dec28b0cc5b940b1ac69db7a.gif",
+  "title": "My Beloved",
+  "author": "CATEIN",
+  "source": "https://github.com/CATEIN/my-beloved-pebble",
+  "source_from": "source",
+  "description": "The heart locket from the \"my beloved\" memes, on your wrist. Flick your wrist and the locket swings open, frame for frame like the original animation, to show your picture and your message inside. A few seconds later it closes again. The message is drawn onto the locket itself: in perspective, lit like the locket, and hidden by the cover as it swings past. Settings: - Picture: choose a photo…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/dec28b0cc5b940b1ac69db7a/emery/a7fd5379-bcdc-432c-a0a6-14de8dab6702.gif",
+  "version": "1.0.0",
+  "platforms": [
+   "gabbro",
+   "emery"
+  ],
+  "developer_ids": {
+   "pebble": "5451ddc920d58674e460e802"
+  },
+  "store_updated": {
+   "pebble": "2026-10-12"
+  },
+  "store_released": {
+   "pebble": "2026-10-12"
+  },
+  "source_online": true
  },
  "5666e7897201eebdcc00002c": {
   "id": "5666e7897201eebdcc00002c",
@@ -116194,6 +116445,41 @@
   },
   "source_online": true
  },
+ "12b5466ad2f74cb783d761cb": {
+  "id": "12b5466ad2f74cb783d761cb",
+  "type": "watchface",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/12b5466ad2f74cb783d761cb.png",
+  "title": "Old Eyes",
+  "author": "Unknown",
+  "source": "https://github.com/ajack2001my/OldEyes",
+  "source_from": "source",
+  "description": "First Attempt to publish",
+  "screenshot_url": "https://assets.repebble.com/screenshots/12b5466ad2f74cb783d761cb/emery/3bf3d136-9449-4eec-81bd-c77403863953.png",
+  "version": "1.2.0",
+  "platforms": [
+   "gabbro",
+   "emery",
+   "flint",
+   "diorite",
+   "chalk",
+   "basalt",
+   "aplite"
+  ],
+  "developer_ids": {
+   "pebble": "b944d7d3482009db609f13f3"
+  },
+  "store_updated": {
+   "pebble": "2026-10-12"
+  },
+  "store_released": {
+   "pebble": "2026-10-12"
+  },
+  "source_online": true
+ },
  "558782c83ae5e507fc000081": {
   "id": "558782c83ae5e507fc000081",
   "type": "watchface",
@@ -116244,7 +116530,7 @@
   "source_from": "source",
   "description": "Tells time. Show the hour as a number in 24h format, and a line around the watch screen to denote the minutes. A Shake to the wrist with show the weather, temperature in celcius, AQI, and current location name. Update is done every 15 mins, watchface is in black and white, and there is no settings button.",
   "screenshot_url": "https://assets2.rebble.io/200x228/6ac8aed91f607900091116a5",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "platforms": [
    "gabbro",
    "emery",
@@ -116258,7 +116544,7 @@
    "rebble": "52fc850a0b0e80f0dd000162"
   },
   "store_updated": {
-   "rebble": "2026-10-09"
+   "rebble": "2026-10-12"
   },
   "store_released": {
    "rebble": "2026-10-09"
@@ -117070,7 +117356,7 @@
   "source": "https://github.com/thunderchild7/orbitron-d",
   "source_from": "source",
   "description": "A simple digital watch face using the Orbitron font. Includes the day of the week and date. and optional display of seconds. The display can be inverted and can vibrate in 5 minutes intervals up to an hour. The date can be toggled between UK and US format. Language selection English, German, Italian, Spanish, French, Swedish, Danish and Dutch. Has a configurable battery status indicator.",
-  "screenshot_url": "https://assets.repebble.com/screenshots/53243430dbe04d33770001e8-1.png",
+  "screenshot_url": "https://assets.repebble.com/apps/53243430dbe04d33770001e8/screenshots/aplite/screenshot-0.png",
   "store_updated": {
    "rebble": "2014-07-19",
    "pebble": "2014-07-19"
@@ -125968,10 +126254,10 @@
   "description": "Radar Array is a tactical radar-inspired digital watchface for the Pebble Time 2. It shows weather, live GPS coordinates, heart rate, steps, and Bluetooth status, with the hourly vibration silenced during Quiet Time. 🎨 Appearance - Seven radar themes with flexible time and date formats, and Swatch Internet Time (.beats). 🌤️ Weather - Current temperature with live coordinate readouts. Powered…",
   "screenshot_url": "https://assets.repebble.com/screenshots/fdd46e97c301494889bc72d2/emery/e0b14403-a9f8-4f72-b032-548135d8d5b4.png",
   "store_updated": {
-   "pebble": "2026-09-27"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.6.2",
+  "version": "1.6.3",
   "platforms": [
    "emery"
   ],
@@ -127817,10 +128103,10 @@
   "description": "Ridgeline is a hand-drawn style mountain watchface for the Pebble Time 2 and Pebble Round 2. Live weather, the moon phase, a sun that tracks your real sunrise/sunset times, heart rate, steps, and Bluetooth and Quiet Time status are drawn right into the landscape. 🎨 Appearance - Eight hand-drawn style palettes, each with its own night sky, flexible time and date formats, and Swatch Internet…",
   "screenshot_url": "https://assets.repebble.com/screenshots/ca5c8919370b4a24a4b41c92/emery/52ee815c-3ee7-4141-8ab1-ad1738e59892.png",
   "store_updated": {
-   "pebble": "2026-09-27"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.4.2",
+  "version": "1.4.3",
   "platforms": [
    "gabbro",
    "emery"
@@ -130196,9 +130482,9 @@
   "author": "Satsuki Yatoshi",
   "source": "https://github.com/satsukiyatoshi/Peeble-time-2-Satsuki-Retro-LCD-Meteo",
   "source_from": "source",
-  "description": "A retro digital LCD-inspired watchface designed for the Pebble Time 2. Satsuki Retro LCD Meteo combines a highly readable digital clock with weather information and several configurable complications in a colorful retro LCD interface. ## Inspiration and project origins The design of Satsuki Retro LCD Meteo is notably inspired by **Quartz by Dalpek**, a retro LCD watchface for the Pebble Time…",
-  "screenshot_url": "https://assets.repebble.com/screenshots/0deee14e32e54453a975067f/emery/697767ed-c491-4c7a-a523-a59853cb680d.png",
-  "version": "1.1.7",
+  "description": "Inspiration and project origins The design of Satsuki Retro LCD Meteo is notably inspired by Quartz by Dalpek, a retro LCD watchface for the Pebble Time 2: https://apps.repebble.com/quartz-by-dalpek_31cfe29ecd814df4b5ca8bb4 The project also uses the casioc project by sgitaize as a starting point for its codebase: https://github.com/sgitaize/casiocgm The original code has been extensively…",
+  "screenshot_url": "https://assets.repebble.com/screenshots/0deee14e32e54453a975067f/emery/987eacc9-99e7-42c7-bc2f-cfdd354ef2d1.png",
+  "version": "1.2.2",
   "platforms": [
    "emery"
   ],
@@ -130206,7 +130492,7 @@
    "pebble": "3122802131eab586ec96c927"
   },
   "store_updated": {
-   "pebble": "2026-10-10"
+   "pebble": "2026-10-11"
   },
   "store_released": {
    "pebble": "2026-10-08"
@@ -130376,13 +130662,13 @@
    "pebble"
   ],
   "first_seen": "2026-10-06",
-  "screenshot": "images/apps/5348115ae311a6ddb4000076.png",
+  "screenshot": "images/apps/5348115ae311a6ddb4000076.gif",
   "title": "Scarlett Johansson",
   "author": "Oliver Bowe",
   "source": "https://github.com/thunderchild7/ScarJo",
   "source_from": "source",
   "description": "Basic Scarlett Johansson watchface, digital time display, a light tap will briefly show the date, and a battery status indicator.",
-  "screenshot_url": "https://assets.repebble.com/screenshots/5348115ae311a6ddb4000076-0.png",
+  "screenshot_url": "https://assets.repebble.com/apps/5348115ae311a6ddb4000076/screenshots/aplite/screenshot-0.gif",
   "store_updated": {
    "rebble": "2014-04-12",
    "pebble": "2014-04-12"
@@ -132193,10 +132479,10 @@
   "description": "Shoreline is a hand-drawn style coastal watchface for the Pebble Time 2 and Pebble Round 2. A tide that follows the moon, live weather, the moon phase, a sun that tracks your real sunrise/sunset times, heart rate, steps, and Bluetooth and Quiet Time status are drawn right into the beach scene. 🎨 Appearance - Eight hand-drawn style palettes, each with its own night sky, flexible time and date…",
   "screenshot_url": "https://assets.repebble.com/screenshots/6de09ae5e76b4e698057584f/emery/9b113d5a-9acf-41ed-b69d-bfc6276035fa.png",
   "store_updated": {
-   "pebble": "2026-09-27"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.3.2",
+  "version": "1.3.3",
   "platforms": [
    "gabbro",
    "emery"
@@ -132366,10 +132652,10 @@
   "description": "Sidereel is a customizable modular watchface for the Pebble Time 2, with a scrolling minute reel and hour pointer beside a dashboard of heart rate, steps, sleep, weather, Quiet Time, Bluetooth, battery, moon phase, sunrise/sunset, and time zone complications. 🧩 Layout - A two-column panel field to the left of the reel, split into a top band and a bottom band by the hour pointer. Drag-and-drop…",
   "screenshot_url": "https://assets.repebble.com/screenshots/f7ab7761bf5e47b98c717f68/emery/89759b5c-10e8-4122-a641-3e694d274e7f.gif",
   "store_updated": {
-   "pebble": "2026-09-27"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.2.3",
+  "version": "1.2.4",
   "platforms": [
    "emery"
   ],
@@ -142328,13 +142614,13 @@
    "pebble"
   ],
   "first_seen": "2026-10-06",
-  "screenshot": "images/apps/530d4af6d4317149ea00008c.png",
+  "screenshot": "images/apps/530d4af6d4317149ea00008c.gif",
   "title": "Taylor Swift",
   "author": "Oliver Bowe",
   "source": "https://github.com/thunderchild7/TaylorSwift",
   "source_from": "source",
   "description": "Simple Taylor Swift digital watch face, a sharp tap will briefly show the date.",
-  "screenshot_url": "https://assets.repebble.com/screenshots/530d4af6d4317149ea00008c-0.png",
+  "screenshot_url": "https://assets.repebble.com/apps/530d4af6d4317149ea00008c/screenshots/aplite/screenshot-0.gif",
   "store_updated": {
    "rebble": "2014-04-03",
    "pebble": "2014-04-03"
@@ -143011,6 +143297,36 @@
   "store_released": {
    "pebble": "2026-05-31"
   }
+ },
+ "308dab820f1344348f708eb9": {
+  "id": "308dab820f1344348f708eb9",
+  "type": "watchface",
+  "stores": [
+   "pebble"
+  ],
+  "first_seen": "2026-10-12",
+  "screenshot": "images/apps/308dab820f1344348f708eb9.png",
+  "title": "TENET",
+  "author": "tokatonton",
+  "source": "https://github.com/tokatonton360/pebble-tenet-watchface",
+  "source_from": "source",
+  "description": "TENETにインスパイアされて作ったウォッチフェイス",
+  "screenshot_url": "https://assets.repebble.com/screenshots/308dab820f1344348f708eb9/emery/e7b8304a-9ef9-4557-9fba-35a029fe2fb0.png",
+  "version": "1.0.0",
+  "platforms": [
+   "gabbro",
+   "emery"
+  ],
+  "developer_ids": {
+   "pebble": "5c66caad8c20d3e636e50b62"
+  },
+  "store_updated": {
+   "pebble": "2026-10-12"
+  },
+  "store_released": {
+   "pebble": "2026-10-12"
+  },
+  "source_online": true
  },
  "2280e247bce8407980bf9396": {
   "id": "2280e247bce8407980bf9396",
@@ -149207,10 +149523,10 @@
   "description": "Treeline is a hand-drawn style forest watchface for the Pebble Time 2 and Pebble Round 2. Live weather, wind, the moon phase, a sun that tracks your real sunrise/sunset times, heart rate, steps, and Bluetooth and Quiet Time status are drawn right into the woods around a little cabin. 🎨 Appearance - Eight hand-drawn palettes, each with its own night sky, flexible time and date formats, and…",
   "screenshot_url": "https://assets.repebble.com/screenshots/c61b74fbb20946fea1ced5ce/emery/2078b6f7-addf-49e9-b15e-a48cd11d1e6e.png",
   "store_updated": {
-   "pebble": "2026-09-27"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.3.2",
+  "version": "1.3.3",
   "platforms": [
    "gabbro",
    "emery"
@@ -151296,11 +151612,11 @@
   "description": "An analog watchface for Pebble with eight complications you choose yourself. Four gauges curve around the corners, four subdials sit inside the dial, and every one is yours to swap. - Eight slots, your pick. Steps, distance, calories, active minutes, sleep, heart rate, battery, the date in eight formats, week and year progress, temperature, rain, humidity, wind, air quality and UV index (as…",
   "screenshot_url": "https://assets.repebble.com/apps/6abf59c037b3780009304810/screenshots/emery/screenshot-0.gif",
   "store_updated": {
-   "pebble": "2026-10-09",
-   "rebble": "2026-10-09"
+   "pebble": "2026-10-11",
+   "rebble": "2026-10-11"
   },
   "source_online": true,
-  "version": "1.8.0",
+  "version": "1.9.0",
   "platforms": [
    "gabbro",
    "emery"
@@ -151899,16 +152215,16 @@
   "first_seen": "2026-10-06",
   "screenshot": "images/apps/2456a7484f0844c7b7266677.png",
   "title": "US Soccer Clubs",
-  "author": "Copper Moth Software",
+  "author": "PopOff Software",
   "source": "https://coppermothsoftware.com",
   "source_from": "source",
   "description": "Follow your MLS, USL Championship or USL League One club from your wrist. In the settings, pick your league, then your club, then a view: - Team: club logo, position (in your conference, where the league has them), points and W-L-D record - Standings: five rows of your league or conference table around your club, with your club in bold and a dotted line at the playoff cutoff Both views show…",
-  "screenshot_url": "https://assets.repebble.com/screenshots/2456a7484f0844c7b7266677/emery/829fe4a9-8ca2-4125-85a1-ea22db440813.png",
+  "screenshot_url": "https://assets.repebble.com/screenshots/2456a7484f0844c7b7266677/emery/456f5955-14dd-4a5d-9e6e-e541b7282fab.png",
   "store_updated": {
-   "pebble": "2026-10-05"
+   "pebble": "2026-10-12"
   },
   "source_online": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "platforms": [
    "gabbro",
    "emery",

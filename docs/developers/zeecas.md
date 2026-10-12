@@ -13,7 +13,7 @@ hide:
 
 # ZeeCas
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zeecas_5c1856a8a7d0c00001737778) · [GitHub (ZeeCas)](https://github.com/ZeeCas)
 

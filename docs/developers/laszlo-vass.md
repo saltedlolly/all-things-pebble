@@ -13,7 +13,7 @@ hide:
 
 # László Vass
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/l-szl-vass_5610ec745f75c3435a000071) · [GitHub (vassdoki)](https://github.com/vassdoki) · [Website (facebook.com)](https://www.facebook.com/pebbleDartsScore/)
 

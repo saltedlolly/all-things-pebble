@@ -13,7 +13,7 @@ hide:
 
 # Jason Sexauer
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jason-sexauer_48305110983b988fde2d0e5a) · [GitHub (jsexauer)](https://github.com/jsexauer)
 

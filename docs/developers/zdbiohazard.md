@@ -13,7 +13,7 @@ hide:
 
 # ZDBioHazard
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zdbiohazard_530e3c2dc3208aea0a000163) · [GitHub (ZDBioHazard)](https://github.com/ZDBioHazard) · [Website (forum-en.guildwars2.com)](https://forum-en.guildwars2.com/forum/community/links/World-Boss-Timer-Pebble-Watchapp)
 

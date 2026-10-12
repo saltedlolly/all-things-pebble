@@ -13,7 +13,7 @@ hide:
 
 # Stefan &quot;Blixten&quot; Karlsson
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stefan-blixten-karlsson_550c6068783f363ea1000023) · [GitHub (steka)](https://github.com/steka)
 

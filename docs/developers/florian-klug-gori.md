@@ -13,7 +13,7 @@ hide:
 
 # Florian Klug-Göri
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/florian-klug-g-ri_ae55f651e081074fcd7a66e2) · [GitHub (flurl)](https://github.com/flurl)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/florian-klug-g-ri_a
 <h2 class="app-name" id="app-1ea3cd25c8e94d1581b5c0d8"><a href="https://apps.repebble.com/1ea3cd25c8e94d1581b5c0d8">Infoface</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9.0</span></h2>
 <a class="app-source" href="https://github.com/flurl/infoface-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-17</span> <span title="Latest release in the app store">Updated 2026-07-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-17</span> <span title="Latest release in the app store">Updated 2026-07-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Calendar, weather, RSS/Atom feeds, and JSON — up to 4 rotating info panels on your watch face. Infoface turns your watch face into a small live dashboard. Configure up to four independent info…</p>
 </div>

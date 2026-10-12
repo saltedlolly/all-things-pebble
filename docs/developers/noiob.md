@@ -13,7 +13,7 @@ hide:
 
 # Noiob
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57743b6bba2fe5d0c60004ad/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/noiob_57743b6bba2fe5d0c60004ad) · [GitHub (noiob)](https://github.com/noiob) · [Website (twitter.com)](https://twitter.com/n0i0b)
 

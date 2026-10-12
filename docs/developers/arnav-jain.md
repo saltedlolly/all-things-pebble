@@ -13,7 +13,7 @@ hide:
 
 # Arnav Jain
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/arnav-jain_44e6162034646a1055b6b6fd) · [GitHub (myNameArnav)](https://github.com/myNameArnav)
 

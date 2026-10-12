@@ -13,7 +13,7 @@ hide:
 
 # Moaske
 
-*3 watchfaces and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moaske_3f1bf0845ffec82a2a96f91c) · [GitHub (Moaske)](https://github.com/Moaske)
 

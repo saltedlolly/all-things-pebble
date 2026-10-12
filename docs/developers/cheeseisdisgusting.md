@@ -13,7 +13,7 @@ hide:
 
 # cheeseisdisgusting
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cheeseisdisgusting_55fcc1f028dd98074e000037) · [Rebble App Store](https://apps.rebble.io/en_US/developer/55fcc1f028dd98074e000037/1) · [GitHub (cheeseisdisgusting)](https://github.com/cheeseisdisgusting) · [Website (goo.gl)](https://goo.gl/7JTQ7A)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cheeseisdisgusting_
 <h2 class="app-name" id="app-57604008837089081e0000e7"><a href="https://apps.repebble.com/57604008837089081e0000e7">CB Schedule</a> <span class="app-version" title="Latest version" data-search-exclude>v0.54</span></h2>
 <a class="app-source" href="https://github.com/cheeseisdisgusting/cbschedule" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-14</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-06-14</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">NEVER FORGET WHAT CLASS IT IS! (At least if you go to Colonel By.) With CB Schedule, you&#x27;ll be able to: - See the current day and what your next class is with a few clicks of a button! - See your…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cheeseisdisgusting_
 <h2 class="app-name" id="app-59f673bd461a8d8cae00060a"><a href="https://apps.rebble.io/en_US/application/59f673bd461a8d8cae00060a">Poké Ball</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/cheeseisdisgusting/poke-ball-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-10-30</span> <span title="Latest release in the app store">Updated 2018-05-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-10-30</span> <span title="Latest release in the app store">Updated 2018-05-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Gotta catch &#x27;em all! With this watchface, you&#x27;re sure to become the Poké Master in no time - flick your wrist and switch between any of the 27 canonical Poké Balls. View weather, steps, date, and…</p>
 </div>

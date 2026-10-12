@@ -13,7 +13,7 @@ hide:
 
 # James Flores
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-flores_542de1100be493acb500002d) · [GitHub (jamesflores)](https://github.com/jamesflores)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-flores_542de1
 <h2 class="app-name" id="app-5486c0e6e67af55f1800000e"><a href="https://apps.repebble.com/5486c0e6e67af55f1800000e">NodeUsage</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/jamesflores/NodeUsage" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-09</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-09</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">View your Internode usage information on your Pebble. Usage is checked hourly and cached by NodeUsage. Hold the center button to force a refresh.</p>
 </div>

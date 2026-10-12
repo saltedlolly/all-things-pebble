@@ -13,7 +13,7 @@ hide:
 
 # Gordon Weeks
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gordon-weeks_52e2f79547a8e74636000e2b) · [GitHub (bday106)](https://github.com/bday106)
 

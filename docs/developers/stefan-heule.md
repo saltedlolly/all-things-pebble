@@ -13,7 +13,7 @@ hide:
 
 # Stefan Heule
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55ab3ca04f0cf8279e00003c/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/stefan-heule_55ab3ca04f0cf8279e00003c) · [GitHub (stefanheule)](https://github.com/stefanheule) · [Website (stefanheule.com)](https://stefanheule.com/graphite/)
 

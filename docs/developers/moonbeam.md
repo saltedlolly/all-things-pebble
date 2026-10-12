@@ -13,7 +13,7 @@ hide:
 
 # Moonbeam
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moonbeam_558e02ede3975e0e10000033) · [GitHub (tbloncar)](https://github.com/tbloncar)
 

@@ -13,7 +13,7 @@ hide:
 
 # m1k
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67c9fbda899ef10009ea6864/1) · [GitHub (less-ly)](https://github.com/less-ly)
 

@@ -13,7 +13,7 @@ hide:
 
 # MiniMax
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/552ed38c06bedc52c4000050/1) · [GitHub (maximehuran)](https://github.com/maximehuran)
 

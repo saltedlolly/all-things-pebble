@@ -13,7 +13,7 @@ hide:
 
 # rlirette
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rlirette_5690fa0e0da72f6a23000043) · [Website (rlirette.com)](http://rlirette.com/)
 

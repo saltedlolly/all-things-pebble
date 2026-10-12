@@ -13,7 +13,7 @@ hide:
 
 # TripAdvisor LLC
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54cbf5780a912f8eb8000022/1) · [Website (tripadvisor.com)](http://www.tripadvisor.com)
 

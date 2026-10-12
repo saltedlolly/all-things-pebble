@@ -13,7 +13,7 @@ hide:
 
 # Marc Ferrándiz Borràs
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marc-ferr-ndiz-borr-s_52ed929aa482025c23000002) · [GitHub (marcferrandiz)](https://github.com/marcferrandiz) · [Website (marcferrandiz.com)](http://www.marcferrandiz.com)
 

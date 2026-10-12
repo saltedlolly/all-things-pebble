@@ -13,7 +13,7 @@ hide:
 
 # Brad Bazemore
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brad-bazemore_2d642c94cac196c7c7510df0) · [GitHub (sonyccd)](https://github.com/sonyccd)
 

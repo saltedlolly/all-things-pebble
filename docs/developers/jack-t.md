@@ -13,7 +13,7 @@ hide:
 
 # Jack T.
 
-*7 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jack-t_52ea054f156ab45eae00000f) · [GitHub (PanicMan)](https://github.com/PanicMan)
 

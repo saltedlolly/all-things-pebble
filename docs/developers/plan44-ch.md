@@ -13,7 +13,7 @@ hide:
 
 # plan44.ch
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/plan44-ch_52b2a87b8c0815bb5e0000d5) · [GitHub (plan44)](https://github.com/plan44) · [Website (mixwerk.ch)](http://www.mixwerk.ch/ziit_app.php)
 

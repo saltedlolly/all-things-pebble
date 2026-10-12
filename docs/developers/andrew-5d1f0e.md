@@ -13,7 +13,7 @@ hide:
 
 # andrew
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5899351a6d34e3ad97000250/1) · [GitHub (bruhdev1290)](https://github.com/bruhdev1290)
 

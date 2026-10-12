@@ -13,7 +13,7 @@ hide:
 
 # Brian Tran
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brian-tran_57b9aec5f01b53901a0009b4) · [GitHub (bzhtapp)](https://github.com/bzhtapp)
 

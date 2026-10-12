@@ -13,7 +13,7 @@ hide:
 
 # FinBear2
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/finbear2_f07790fac0cf60b0d7835a3b) · [GitHub (Finbear2)](https://github.com/Finbear2) · [Website (finbear.dev)](https://finbear.dev)
 

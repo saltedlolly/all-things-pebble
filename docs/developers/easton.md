@@ -13,7 +13,7 @@ hide:
 
 # Easton
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/easton_54e976960f0bb3f669000025) · [GitHub (snacsnoc)](https://github.com/snacsnoc)
 

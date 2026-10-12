@@ -13,7 +13,7 @@ hide:
 
 # AJ Hawks
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aj-hawks_52d1beae139ef11349000071) · [GitHub (ahawks)](https://github.com/ahawks)
 

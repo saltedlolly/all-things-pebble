@@ -13,7 +13,7 @@ hide:
 
 # Bill Chan
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bill-chan_5506da34ed4085c4ab00000b) · [GitHub (billypchan)](https://github.com/billypchan) · [Website (facebook.com)](https://www.facebook.com/ballballsoft)
 

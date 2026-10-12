@@ -13,7 +13,7 @@ hide:
 
 # Tyler Ouyang
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/551fa6c651d7438f9200000a/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/tyler-ouyang_551fa6c651d7438f9200000a) · [GitHub (tylerwowen)](https://github.com/tylerwowen) · [Website (tylerwowen.github.io)](http://tylerwowen.github.io/wechatbuddy/)
 

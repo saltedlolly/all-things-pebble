@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · **A** · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*55 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*55 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-57542c56d694500794000006"><a href="https://apps.repebble.com/57542c56d694500794000006">A Note</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/fahrstuhl/ANote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/fahrstuhl.html" title="More from this developer">Fahrstuhl</a> · <a href="https://forum.rebble.io/t/507" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">It&#x27;s just A Note on your wrist: The simplest note app I could come up with. Write or paste a note in the settings page, maybe choose a font size and read it on your Pebble. Perfect for shopping…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-576ff6e8ba2fe50eb000018a"><a href="https://apps.repebble.com/576ff6e8ba2fe50eb000018a">aare</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/cheesenoc/aare" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cheese.html" title="More from this developer">Cheese</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-26</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-26</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simply displays the current water temperature of Switzerland’s most beautiful river. Uses data from BAFU via aare.schwumm.ch.</p>
 </div>
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-e00d8d855af1485ea97922f5"><a href="https://apps.repebble.com/e00d8d855af1485ea97922f5">AarePebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/cheesenoc/aarepebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marcel-kessler.html" title="More from this developer">Marcel Kessler</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">Displays the temperature of the Aare River in Bern, Switzerland</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-637920b8c6c24a000a815e61"><a href="https://apps.rebble.io/en_US/application/637920b8c6c24a000a815e61">Activities</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/pebbleactivities" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/john-spahr.html" title="More from this developer">John Spahr</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-19</span> <span title="Latest release in the app store">Updated 2022-11-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-11-19</span> <span title="Latest release in the app store">Updated 2022-11-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Feeling bored? This little PebbleJS app uses the Bored API to suggest activities for you to do! Activities are selected based on the number of participants you choose. Created for Rebble Hackathon…</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-13851ccc1efa4d458b07c060"><a href="https://apps.repebble.com/13851ccc1efa4d458b07c060">ADS-B Radar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/jasonmarquette/pebble-adsb-radar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jason-marquette.html" title="More from this developer">Jason Marquette</a> · <a href="https://forum.rebble.io/t/1149" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-13</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-13</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Live nearby aircraft from ADS-B.fi Phone-based GPS location Adjustable 5, 10, 20, or 40 nautical mile radar range 10 NM default range Watch-button range controls</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-cc90e8a3e8324eb1a31a90cd"><a href="https://apps.repebble.com/cc90e8a3e8324eb1a31a90cd">AeroPress Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.18.2</span></h2>
 <a class="app-source" href="https://github.com/ctsstc/pebble-aeropress-timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cody-swartz.html" title="More from this developer">Cody Swartz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A step-by-step timer for the inverted AeroPress method, made for Pebble Time 2. Pour, bloom, stir, steep, flip and press. Each step tells you what to do, and the two timed steps count down, then…</p>
 </div>
@@ -270,7 +270,7 @@ hide:
 <h2 class="app-name" id="app-6ac8f6b8836dec0008982ccb"><a href="https://apps.repebble.com/6ac8f6b8836dec0008982ccb">AImigo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/javierorp/pebble-aimigo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/javierorp.html" title="More from this developer">Javierorp</a> · <a href="https://forum.rebble.io/t/1414" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Your (small) AI voice assistant, right on your wrist. ⚠️ Requires a NaN.builders API key (https://nan.builders) and the Pebble phone app connected for dictation. Supported watches: ✅ Pebble Time 2…</p>
 </div>
@@ -303,7 +303,7 @@ hide:
 <h2 class="app-name" id="app-54d9be79f296d1e75a000043"><a href="https://apps.repebble.com/54d9be79f296d1e75a000043">Airplane Fuel Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/haykinson/PebbleFuel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ilya-haykinson.html" title="More from this developer">Ilya Haykinson</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-10</span> <span title="Latest release in the app store">Updated 2016-07-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-10</span> <span title="Latest release in the app store">Updated 2016-07-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Are you a pilot with a Pebble? Use this app to keep track of switching between left and right tanks of your airplane. Instructions: use up/down keys to select tank timer interval, then click…</p>
 </div>
@@ -344,10 +344,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f0d71e5923bd45c0b05a75b0" data-search-exclude><img src="../images/apps/f0d71e5923bd45c0b05a75b0.png" alt="Allure" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f0d71e5923bd45c0b05a75b0"><a href="https://apps.repebble.com/f0d71e5923bd45c0b05a75b0">Allure</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<h2 class="app-name" id="app-f0d71e5923bd45c0b05a75b0"><a href="https://apps.repebble.com/f0d71e5923bd45c0b05a75b0">Allure</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.6</span></h2>
 <a class="app-source" href="https://github.com/WayeMelse/allure" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/wayem.html" title="More from this developer">WayeM</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">BETA - Allure is an activity tracker for the Pebble Time 2 that turns your heart rate into color. Pick an activity, start, and glance at your wrist: the screen color shows your effort zone, and…</p>
 </div>
@@ -402,7 +402,7 @@ hide:
 <h2 class="app-name" id="app-6aa60fa0226a3d00096623ec"><a href="https://apps.rebble.io/en_US/application/6aa60fa0226a3d00096623ec">API Trigger</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/hgarbouj/pebble-api-trigger/tree/main" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/elhik.html" title="More from this developer">ElhiK</a> · <a href="https://forum.rebble.io/t/1349" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">API Trigger lets you control APIs and webhooks directly from your Pebble. - Trigger custom webhooks for n8n and Home Assistant. - Control Philips Hue lights through the Hue API. - Send requests to…</p>
 </div>
@@ -435,7 +435,7 @@ hide:
 <h2 class="app-name" id="app-55b5a5e22448b37a56000018"><a href="https://apps.repebble.com/55b5a5e22448b37a56000018">Appleton Recycling Date Checker</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/dhmncivichacks/AppletonPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ross-larson.html" title="More from this developer">Ross Larson</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-27</span> <span title="Latest release in the app store">Updated 2016-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-27</span> <span title="Latest release in the app store">Updated 2016-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Northeast Wisconsin Recycling Date Checker. Checks the next time to take out the recycling.</p>
 </div>
@@ -446,7 +446,7 @@ hide:
 <h2 class="app-name" id="app-52fd83a762f8c411ac00006b"><a href="https://apps.repebble.com/52fd83a762f8c411ac00006b">Appy Bird</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/danielheath/appy_bird" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/daniel-heath.html" title="More from this developer">Daniel Heath</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-14</span> <span title="Latest release in the app store">Updated 2014-05-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-14</span> <span title="Latest release in the app store">Updated 2014-05-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Steer your spaceship deftly to avoid waves of Flappy Birds and Duck Hunt escapees.</p>
 </div>
@@ -479,7 +479,7 @@ hide:
 <h2 class="app-name" id="app-569b8aa5258004de1900003b"><a href="https://apps.repebble.com/569b8aa5258004de1900003b">AQI via aqicn.org (unofficial)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/devvmh/pebblejs-aqi-watchapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/devin-howard.html" title="More from this developer">Devin Howard</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-17</span> <span title="Latest release in the app store">Updated 2016-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-17</span> <span title="Latest release in the app store">Updated 2016-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">aqicn.org is an excellent website for getting smog (air quality) data for cities around the world. I highly recommend using their existing websites and apps! This app is an unofficial wrapper…</p>
 </div>
@@ -578,7 +578,7 @@ hide:
 <h2 class="app-name" id="app-54db33c6097dff17a4000072"><a href="https://apps.repebble.com/54db33c6097dff17a4000072">Australian Radar</a> <span class="app-version" title="Latest version" data-search-exclude>v5</span></h2>
 <a class="app-source" href="https://github.com/futzle/Pebble-Radar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/futzle-industries.html" title="More from this developer">Futzle Industries</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-11</span> <span title="Latest release in the app store">Updated 2015-06-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2015-02-11</span> <span title="Latest release in the app store">Updated 2015-06-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Check for rain from your wrist! This Watchapp displays the latest radar image from one of the more than fifty sites operated by the Australian Bureau of Meteorology. Only useful in Australia…</p>
 </div>
@@ -600,7 +600,7 @@ hide:
 <h2 class="app-name" id="app-52f1a4c3c4117252f9000bb8"><a href="https://apps.repebble.com/52f1a4c3c4117252f9000bb8">Authenticator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.11</span></h2>
 <a class="app-source" href="https://github.com/cpfair/pTOTP" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/collin-fair.html" title="More from this developer">Collin Fair</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-05</span> <span title="Latest release in the app store">Updated 2016-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-02-05</span> <span title="Latest release in the app store">Updated 2016-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Generate Google Authenticator two-factor authentication codes right from your Pebble! Perfect for use with the most popular two-factor authentication systems, including GMail, Dropbox, LastPass…</p>
 </div>

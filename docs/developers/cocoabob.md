@@ -13,7 +13,7 @@ hide:
 
 # CocoaBob
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cocoabob_54edee1596fa9a0127000094) · [GitHub (CocoaBob)](https://github.com/CocoaBob)
 

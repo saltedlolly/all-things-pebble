@@ -13,7 +13,7 @@ hide:
 
 # Dyedgreen
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55740576f5c314a5f0000010/1) · [GitHub (Kuchenm0nster)](https://github.com/Kuchenm0nster)
 

@@ -13,7 +13,7 @@ hide:
 
 # iginoc
 
-*2 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iginoc_b831c2f23c283d5eb0ca1134) · [GitHub (iginoc)](https://github.com/iginoc)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iginoc_b831c2f23c28
 <h2 class="app-name" id="app-bb5bc885bd1f4d469571a699"><a href="https://apps.repebble.com/bb5bc885bd1f4d469571a699">igitimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/iginoc/igitimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-17</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-17</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple and functional timer for Pebble smartwatches, featuring a high-contrast interface and quick controls. Button Functions UP Button Single Press: Adds 1 minute to the timer. Long Press: Adds…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iginoc_b831c2f23c28
 <h2 class="app-name" id="app-df73341019fd4b5fa0f30f17"><a href="https://apps.repebble.com/df73341019fd4b5fa0f30f17">igitimer-graphic-big</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/iginoc/igitimer-graphic-big" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-27</span> <span title="Latest release in the app store">Updated 2026-05-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-27</span> <span title="Latest release in the app store">Updated 2026-05-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Timer with nice animations</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iginoc_b831c2f23c28
 <h2 class="app-name" id="app-008e01e6880644b0abc2abe9"><a href="https://apps.repebble.com/008e01e6880644b0abc2abe9">igi-Assistant</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
 <a class="app-source" href="https://github.com/iginoc/igi-assistant" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-04-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-04-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A comprehensive control interface for Home Assistant on your Pebble smartwatch. Monitor sensors, control lights, manage music, and chat with your home, all from your wrist with a high-contrast…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iginoc_b831c2f23c28
 <h2 class="app-name" id="app-6b5789aa944d4ae8b0d391e1"><a href="https://apps.repebble.com/6b5789aa944d4ae8b0d391e1">igi-anniversary</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/iginoc/pebble-orologio" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A custom watchface for Pebble watches featuring a configurable countdown to specific events, date in Italian, and night mode. Features Digital Clock: Clear time display (supports 12h/24h formats)…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iginoc_b831c2f23c28
 <h2 class="app-name" id="app-541e8a0bf9834be6a17e6c19"><a href="https://apps.repebble.com/541e8a0bf9834be6a17e6c19">igiwatch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/iginoc/igiwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-07</span> <span title="Latest release in the app store">Updated 2026-03-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-07</span> <span title="Latest release in the app store">Updated 2026-03-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A dynamic and minimalist watchface for Pebble smartwatches that adapts to your viewing angle using the accelerometer. Features Smart Orientation: The time display rotates to remain readable…</p>
 </div>

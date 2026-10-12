@@ -13,7 +13,7 @@ hide:
 
 # Paul Bütow
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul-b-tow_879658cff76b318b7b31f6af) · [GitHub (snonux)](https://github.com/snonux)
 

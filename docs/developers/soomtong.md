@@ -13,7 +13,7 @@ hide:
 
 # Soomtong
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soomtong_552d1af58215a22dc100000e) · [GitHub (soomtong)](https://github.com/soomtong)
 

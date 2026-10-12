@@ -13,7 +13,7 @@ hide:
 
 # Maartje Eyskens
 
-*4 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maartje-eyskens_34c02825342440b7eebba982) · [GitHub (meyskens)](https://github.com/meyskens)
 

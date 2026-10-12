@@ -13,7 +13,7 @@ hide:
 
 # vssh
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vssh_54e22b7decca846cee000082) · [GitHub (vssh)](https://github.com/vssh)
 

@@ -13,7 +13,7 @@ hide:
 
 # Riles
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/riles_696b7db386b6e20008d8320c) · [Website (riles.tech)](https://riles.tech/coverage/)
 

@@ -13,7 +13,7 @@ hide:
 
 # clet
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clet_d2bf7c7db293536c99c19ee0) · [GitHub (cletqui)](https://github.com/cletqui) · [Website (tide.pages.dev)](https://tide.pages.dev/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clet_d2bf7c7db29353
 <h2 class="app-name" id="app-01d9cb793d7b4f109ad3a9cc"><a href="https://apps.repebble.com/01d9cb793d7b4f109ad3a9cc">TicDot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.4</span></h2>
 <a class="app-source" href="https://github.com/cletqui/ticdot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">TicDot is a minimalist analog watchface inspired by the iconic TicToc stock face shipped with every Pebble. It keeps the clean two-hand analog design and builds on it by encoding all information…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clet_d2bf7c7db29353
 <h2 class="app-name" id="app-fd32e47ead3d43358a153b8e"><a href="https://apps.repebble.com/fd32e47ead3d43358a153b8e">Strava GPX</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/cletqui/pebble-strava" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-11</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-11</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Strava GPX turns your Pebble Time 2 into a standalone GPX workout recorder for cycling, running, and walking. It captures GPS distance, speed/pace, and heart rate, and saves a GPX file directly to…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clet_d2bf7c7db29353
 <h2 class="app-name" id="app-048b7d4f35024867bc0099e8"><a href="https://apps.repebble.com/048b7d4f35024867bc0099e8">Tide</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/cletqui/pebble-tide" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Tide is a minimalist tide clock for Pebble. A single hand tells you everything: 12 o&#x27;clock is high water, 6 o&#x27;clock is low water — the sweep shows you exactly where you are in the tidal cycle…</p>
 </div>

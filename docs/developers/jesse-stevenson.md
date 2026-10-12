@@ -13,7 +13,7 @@ hide:
 
 # Jesse Stevenson
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-stevenson_554a5bc71c6fe7228500006b) · [GitHub (jessedusty)](https://github.com/jessedusty)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-stevenson_554
 <h2 class="app-name" id="app-57b7ea4fbb85eddc98000910"><a href="https://apps.repebble.com/57b7ea4fbb85eddc98000910">RaceTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jessedusty/RaceTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-20</span> <span title="Latest release in the app store">Updated 2017-10-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-20</span> <span title="Latest release in the app store">Updated 2017-10-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchapp for sailors that want a timer that reminds them of the passage of time during a 5 minute dingy start. Sync to nearest horn with the select button. Advance or regrade by 10 seconds with…</p>
 </div>

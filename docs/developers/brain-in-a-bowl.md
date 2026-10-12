@@ -13,7 +13,7 @@ hide:
 
 # Brain in a Bowl
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brain-in-a-bowl_56fa41f03f944de56b000023) · [GitHub (Quistnix)](https://github.com/Quistnix) · [Website (braininabowl.com)](http://braininabowl.com/)
 

@@ -13,7 +13,7 @@ hide:
 
 # kije-dev
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kije-dev_52b953e7fd4763c452000066) · [GitHub (kije)](https://github.com/kije) · [Website (kije.github.io)](http://kije.github.io/PebblePong-2/)
 

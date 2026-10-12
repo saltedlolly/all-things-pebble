@@ -13,7 +13,7 @@ hide:
 
 # Campbell
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/campbell_55ba7726d7e075209400007b) · [GitHub (Guzunty)](https://github.com/Guzunty)
 

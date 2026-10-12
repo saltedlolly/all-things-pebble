@@ -13,7 +13,7 @@ hide:
 
 # nick1udwig
 
-*1 watchface and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick1udwig_d30aec49b29caa20180a2880) · [GitHub (nick1udwig)](https://github.com/nick1udwig)
 

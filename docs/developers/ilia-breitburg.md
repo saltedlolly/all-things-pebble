@@ -13,7 +13,7 @@ hide:
 
 # Ilia Breitburg
 
-*1 watchface and 5 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ilia-breitburg_5bf5720a24bed3000188e5cd) · [Rebble App Store](https://apps.rebble.io/en_US/developer/5bf5720a24bed3000188e5cd/1) · [GitHub (breitburg)](https://github.com/breitburg) · [GitHub (flipcards)](https://github.com/flipcards) · [Website (breitburg.com)](https://breitburg.com/)
 

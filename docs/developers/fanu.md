@@ -13,7 +13,7 @@ hide:
 
 # Fanu
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fanu_106d07aaa0bc0803240043f1) · [GitHub (f4nu)](https://github.com/f4nu)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fanu_106d07aaa0bc08
 <h2 class="app-name" id="app-0578bf44c3184b82acd4d200"><a href="https://apps.repebble.com/0578bf44c3184b82acd4d200">Ishiki JP</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.0</span></h2>
 <a class="app-source" href="https://github.com/f4nu/ishiki" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Flashcards on your wrist. Flip, grade, repeat. Supports the Japanese language. Review your Anki decks straight from your Core Time 2. Pick a deck, read the front, press to flip, and grade with a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fanu_106d07aaa0bc08
 <h2 class="app-name" id="app-d6892e90080847018c17441c"><a href="https://apps.repebble.com/d6892e90080847018c17441c">Ishiki</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.2</span></h2>
 <a class="app-source" href="https://github.com/f4nu/ishiki" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Ishiki — Anki on your wrist Flashcards on your wrist. Flip, grade, repeat. Review your Anki decks straight from your Core Time 2. Pick a deck, read the front, press to flip, and grade with a…</p>
 </div>

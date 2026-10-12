@@ -13,7 +13,7 @@ hide:
 
 # Pavel Tsybulin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5364a921668e019e1a000162/1) · [GitHub (tsybulin)](https://github.com/tsybulin) · [Website (papasha.kiev.ua)](http://papasha.kiev.ua/gs/en/)
 

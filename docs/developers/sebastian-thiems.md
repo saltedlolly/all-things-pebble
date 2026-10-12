@@ -13,7 +13,7 @@ hide:
 
 # Sebastian Thiems
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sebastian-thiems_55748f21f5c3140cae000059) · [GitHub (Thiedze)](https://github.com/Thiedze) · [Website (42volt.de)](http://42volt.de/)
 

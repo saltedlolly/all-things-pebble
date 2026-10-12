@@ -13,7 +13,7 @@ hide:
 
 # ibrokemy.computer
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ibrokemy-computer_5456d42334f53e473b000007) · [GitHub (ibrokemycomputer)](https://github.com/ibrokemycomputer)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ibrokemy-computer_5
 <h2 class="app-name" id="app-574661d496f915e89f000020"><a href="https://apps.repebble.com/574661d496f915e89f000020">Wunder Weather: Donate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/ibrokemycomputer/wunderweather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-26</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-05-26</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">***FREE for the first 10 people to install it. Simply use the discount code &quot;TRYITOUT&quot; at checkout. Please let me know if you have any problems with using the new KiezelPay feature.*** This is the…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ibrokemy-computer_5
 <h2 class="app-name" id="app-57464e56e8666d30f5000022"><a href="https://apps.repebble.com/57464e56e8666d30f5000022">Wunder Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/ibrokemycomputer/wunderweather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-26</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-05-26</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is the free version of Wunder Weather. Features a minimal vertical battery meter, Wunderground weather (I find it to be more accurate than OpenWeather) with PDC icons, time and date. Settings…</p>
 </div>

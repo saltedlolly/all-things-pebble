@@ -13,7 +13,7 @@ hide:
 
 # Johannes Arnold
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/johannes-arnold_55cba60d184220976c00009e) · [GitHub (j0hax)](https://github.com/j0hax)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/johannes-arnold_55c
 <h2 class="app-name" id="app-55e9cf5892115a698c00002e"><a href="https://apps.repebble.com/55e9cf5892115a698c00002e">Braun</a> <span class="app-version" title="Latest version" data-search-exclude>v3.30</span></h2>
 <a class="app-source" href="https://github.com/j0hax/Braun" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-04</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-04</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Less is More: A readable, yet stylish Watchface paying tribute to the legendary design of Dieter Rams and Dietrich Lubs. Now with improved look and support for Pebble Round and Time 2!</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/johannes-arnold_55c
 <h2 class="app-name" id="app-55f2457fb3b7025e5e00004b"><a href="https://apps.repebble.com/55f2457fb3b7025e5e00004b">Solar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/j0hax/Solar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-11</span> <span title="Latest release in the app store">Updated 2015-09-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-11</span> <span title="Latest release in the app store">Updated 2015-09-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A minimalistic watchface that displays the time using two planets orbiting a sun.</p>
 </div>

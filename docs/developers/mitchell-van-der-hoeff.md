@@ -13,7 +13,7 @@ hide:
 
 # Mitchell Van Der Hoeff
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mitchell-van-der-hoeff_545fac88f520d9d228000086) · [GitHub (mvanderh)](https://github.com/mvanderh)
 

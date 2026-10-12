@@ -13,7 +13,7 @@ hide:
 
 # Filip
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/filip_54edb7500cd3c5625500007b) · [GitHub (anderssonfilip)](https://github.com/anderssonfilip)
 

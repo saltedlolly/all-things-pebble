@@ -13,7 +13,7 @@ hide:
 
 # matejdro
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52b1ea273beaa0cecb00001f/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/matejdro_52b1ea273beaa0cecb00001f) · [GitHub (matejdro)](https://github.com/matejdro)
 

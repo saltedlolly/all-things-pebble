@@ -13,7 +13,7 @@ hide:
 
 # phntxx
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phntxx_541c14dad813567f3c0003c2) · [GitHub (PHNTXX)](https://github.com/PHNTXX)
 

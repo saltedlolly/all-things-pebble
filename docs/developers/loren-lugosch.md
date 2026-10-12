@@ -13,7 +13,7 @@ hide:
 
 # Loren Lugosch
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/loren-lugosch_52c2e955da4287f00c000061) · [GitHub (lorenlugosch)](https://github.com/lorenlugosch)
 

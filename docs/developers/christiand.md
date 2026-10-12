@@ -13,7 +13,7 @@ hide:
 
 # ChristianD
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56a28b05956f0b4d4c000055/1) · [GitHub (laDanz)](https://github.com/laDanz)
 

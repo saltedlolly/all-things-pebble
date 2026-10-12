@@ -13,7 +13,7 @@ hide:
 
 # J\_B
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/j-b_68ecfdbe1c671100088152be) · [GitHub (JunderscoreB)](https://github.com/JunderscoreB) · [Website (community.roonlabs.com)](https://community.roonlabs.com/t/pebble-smartwatch-app-and-corresponding-roon-extension/313874)
 

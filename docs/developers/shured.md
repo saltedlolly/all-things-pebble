@@ -13,7 +13,7 @@ hide:
 
 # SHUred
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shured_7b17544a2d79e1b12db305ca) · [GitHub (SHU-red)](https://github.com/SHU-red)
 

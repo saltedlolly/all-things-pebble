@@ -13,7 +13,7 @@ hide:
 
 # BiDuSoft
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/547fd6328164e16d560000d2/1)
 

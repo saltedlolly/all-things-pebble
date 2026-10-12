@@ -13,7 +13,7 @@ hide:
 
 # Tito
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tito_532034f6138eb909f6000091) · [GitHub (Tito1337)](https://github.com/Tito1337)
 

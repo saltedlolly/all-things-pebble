@@ -13,7 +13,7 @@ hide:
 
 # Achi
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/achi_5b39d75c38e0aa0001e8c763) · [GitHub (michi1996)](https://github.com/michi1996)
 

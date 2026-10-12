@@ -13,7 +13,7 @@ hide:
 
 # realitygaps
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/realitygaps_52f0995ebb342334370020b5) · [GitHub (realitygaps)](https://github.com/realitygaps)
 

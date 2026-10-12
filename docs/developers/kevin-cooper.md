@@ -13,7 +13,7 @@ hide:
 
 # Kevin Cooper
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-cooper_52baa34daac062dcf400005c) · [GitHub (JumpMaster)](https://github.com/JumpMaster)
 

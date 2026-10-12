@@ -13,7 +13,7 @@ hide:
 
 # Christian Ratzenhofer
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christian-ratzenhofer_cf8cc0e01f5fd63901765dc1) · [GitHub (merlin1991)](https://github.com/merlin1991)
 

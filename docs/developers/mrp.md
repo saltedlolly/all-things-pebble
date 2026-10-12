@@ -13,7 +13,7 @@ hide:
 
 # mrp
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67a619488923f30009dc055f/1) · [Codeberg (mrp)](https://codeberg.org/mrp) · [Website (markpenner.space)](https://markpenner.space)
 

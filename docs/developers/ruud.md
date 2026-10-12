@@ -13,7 +13,7 @@ hide:
 
 # Ruud
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ruud_52b9bb7ea1d2df2a9f00009a) · [GitHub (Ruud48)](https://github.com/Ruud48)
 

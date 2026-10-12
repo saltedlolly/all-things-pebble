@@ -13,7 +13,7 @@ hide:
 
 # Chris Berry
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-berry_55c8ff87d0e6da5f0a00002e) · [GitHub (chrisberry4545)](https://github.com/chrisberry4545) · [Website (chrisberry4545.github.io)](http://chrisberry4545.github.io/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-berry_55c8ff8
 <h2 class="app-name" id="app-55c90209d0e6da92ae000036"><a href="https://apps.repebble.com/55c90209d0e6da92ae000036">London TFL Bike Point Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chrisberry4545/BikeTracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-10</span> <span title="Latest release in the app store">Updated 2015-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-10</span> <span title="Latest release in the app store">Updated 2015-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Points the way to the nearest Satander bike point in London. Useful for when you&#x27;re cycling around London.</p>
 </div>

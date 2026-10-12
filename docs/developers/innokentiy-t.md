@@ -13,7 +13,7 @@ hide:
 
 # innokentiy\_t
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/innokentiy-t_68f9c18dd3c6e4000885b8cb) · [GitHub (innokentiyt)](https://github.com/innokentiyt)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/innokentiy-t_68f9c1
 <h2 class="app-name" id="app-6958f4e091ea9d0009ebd756"><a href="https://apps.repebble.com/6958f4e091ea9d0009ebd756">Penger 3D</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/innokentiyt/formula-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/425" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-03</span> <span title="Latest release in the app store">Updated 2026-01-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-01-03</span> <span title="Latest release in the app store">Updated 2026-01-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">It&#x27;s just a simple demo app based on Tsoding&#x27;s &quot;One Formula That Demystifies 3D Graphics&quot; YouTube video for simple perspective-correct 3D rendering using wireframes and one really simple math…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/innokentiy-t_68f9c1
 <h2 class="app-name" id="app-690c15d63e734c0009b9df2a"><a href="https://apps.repebble.com/690c15d63e734c0009b9df2a">Hellboy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/innokentiyt/wf-hellboy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-06</span> <span title="Latest release in the app store">Updated 2025-11-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-11-06</span> <span title="Latest release in the app store">Updated 2025-11-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface for Pebble. Insipred by an illustration from &quot;Hellboy: The Lost Army&quot; novel. Features: - battery meter is a bottom thin line under ⚡ on HB&#x27;s right shoulder; - bt connection…</p>
 </div>

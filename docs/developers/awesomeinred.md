@@ -13,7 +13,7 @@ hide:
 
 # AwesomeInRed
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/awesomeinred_573c6d97c1f35a222900000f) · [GitHub (edward88)](https://github.com/edward88)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/awesomeinred_573c6d
 <h2 class="app-name" id="app-57d2c150ffca491fd200006b"><a href="https://apps.repebble.com/57d2c150ffca491fd200006b">Weathers Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.13</span></h2>
 <a class="app-source" href="https://github.com/edward88/pebbletime-weatherstime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-09</span> <span title="Latest release in the app store">Updated 2016-11-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-09-09</span> <span title="Latest release in the app store">Updated 2016-11-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Watchface features: - Simple, clean and easy to read display - Location based weather info - Multiple choice source for weather data - Battery level display - Customizable colours - Date format…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/awesomeinred_573c6d
 <h2 class="app-name" id="app-57711a746c2104f4b30001af"><a href="https://apps.repebble.com/57711a746c2104f4b30001af">Fuzzy Time Random</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/edward88/pebbletime-fuzzy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-27</span> <span title="Latest release in the app store">Updated 2016-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-06-27</span> <span title="Latest release in the app store">Updated 2016-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays a random of three variations of &quot;fuzzy&quot; time with a minimalist style battery level display Feedback and suggestions are always welcome!</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Shikataganai
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shikataganai_52ffbeb260495fe03c0001ab) · [GitHub (ishepard)](https://github.com/ishepard)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shikataganai_52ffbe
 <h2 class="app-name" id="app-54eb8c6b87bfd3bde300009f"><a href="https://apps.repebble.com/54eb8c6b87bfd3bde300009f">Transmission Torrent</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/ishepard/TransmissionTorrent" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-23</span> <span title="Latest release in the app store">Updated 2015-08-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-02-23</span> <span title="Latest release in the app store">Updated 2015-08-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A remote control for Transmission, with support for the Timeline! Features: - List of torrents - Details for each torrent, such as speed and progress - Start, pause and remove any torrent …</p>
 </div>

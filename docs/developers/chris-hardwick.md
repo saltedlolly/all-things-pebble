@@ -13,7 +13,7 @@ hide:
 
 # Chris Hardwick
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-hardwick_1cae56f6fe053d3fd4e9d111) · [GitHub (widemouth31)](https://github.com/widemouth31) · [Website (ko-fi.com)](https://ko-fi.com/chrishardwick17402)
 

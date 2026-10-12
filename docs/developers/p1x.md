@@ -13,7 +13,7 @@ hide:
 
 # P1X
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/p1x_5410171466e853e34100010f) · [GitHub (w84death)](https://github.com/w84death) · [Website (p1x.in)](http://p1x.in)
 

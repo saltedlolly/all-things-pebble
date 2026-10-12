@@ -13,7 +13,7 @@ hide:
 
 # Antriksh Yadav
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/antriksh-yadav_543d5da8a44ae19e94000015) · [GitHub (Antrikshy)](https://github.com/Antrikshy) · [Website (reddit.com)](http://www.reddit.com/r/AppHookup)
 

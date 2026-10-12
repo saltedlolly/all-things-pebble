@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · **Q** · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*18 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*18 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-53ab84141d576ea3c30000d6"><a href="https://apps.repebble.com/53ab84141d576ea3c30000d6">Qibla - Prayer Times &amp; Compass</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7</span></h2>
 <a class="app-source" href="https://github.com/cpfair/pebble-qibla" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/collin-fair.html" title="More from this developer">Collin Fair</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-26</span> <span title="Latest release in the app store">Updated 2016-09-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-26</span> <span title="Latest release in the app store">Updated 2016-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Prayer times &amp; notifications on your Timeline, plus a Qibla compass for your Pebble. Automatically calculates prayer times based on your location - so make sure &quot;location services&quot; is enabled on…</p>
 </div>
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-69aaf1e62f1bed0009deb65b"><a href="https://apps.repebble.com/69aaf1e62f1bed0009deb65b">Qibla - Prayer Times &amp; Compass (NEW)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11</span></h2>
 <a class="app-source" href="https://github.com/jibraniqbal666/pebble-qibla" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jibran-iqbal.html" title="More from this developer">Jibran Iqbal</a> · <a href="https://forum.rebble.io/t/821" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-06</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-06</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Prayer times &amp; notifications on your Timeline, plus a Qibla compass for your Pebble. Automatically calculates prayer times based on your location - so make sure &quot;location services&quot; is enabled on…</p>
 </div>
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-67ddcf03d8284900098ed1a4"><a href="https://apps.rebble.io/en_US/application/67ddcf03d8284900098ed1a4">QR Generator</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10</span></h2>
 <a class="app-source" href="https://github.com/flynnD273/pebble-qr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/flynn-duniho.html" title="More from this developer">Flynn Duniho</a> · <a href="https://forum.rebble.io/t/547" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-21</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-21</span> <span title="Latest release in the app store">Updated 2026-03-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Display configurable QR codes from your watch</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-63a5cca9f2e945c092123615"><a href="https://apps.repebble.com/63a5cca9f2e945c092123615">QuickTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/jazzabeanie/pebble-timer-quick" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jazzabeanie.html" title="More from this developer">jazzabeanie</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc"># pebble-timer-quick QuickTimer is a timer app for the Pebble Smartwatch, intended to be the fastest way to start a timer or stopwatch. Made for people that think needing 5 seconds to set a…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Kieselleger
 
-*18 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*18 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3fe58879cfd4000013) · [GitHub (ProggroP)](https://github.com/ProggroP)
 

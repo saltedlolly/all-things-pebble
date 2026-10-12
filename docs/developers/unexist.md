@@ -13,7 +13,7 @@ hide:
 
 # unexist
 
-*5 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52b88eac9efe5857ed000041/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/unexist_52b88eac9efe5857ed000041) · [Website (subforge.org)](http://subforge.org)
 

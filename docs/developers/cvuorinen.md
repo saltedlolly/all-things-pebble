@@ -13,7 +13,7 @@ hide:
 
 # cvuorinen
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cvuorinen_e8e19b6fde1bd99a69e5c271) · [GitHub (cvuorinen)](https://github.com/cvuorinen)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cvuorinen_e8e19b6fd
 <h2 class="app-name" id="app-fe490689d3a84fe49f1cbb10"><a href="https://apps.repebble.com/fe490689d3a84fe49f1cbb10">Faceoff Remix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/cvuorinen/pebble-faceoff" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1352" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-3-Clause</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watchface that is a &quot;Remix&quot; of a watchface called &quot;Faceoff&quot; (inspired by &quot;versus&quot; screens) made by ollien. Credits to ollien for the original idea, and for releasing it as open source…</p>
 </div>

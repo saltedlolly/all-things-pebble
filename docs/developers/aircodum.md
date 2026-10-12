@@ -13,7 +13,7 @@ hide:
 
 # AirCodum
 
-*21 watchfaces and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*21 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37d408000a74f7d3) · [GitHub (coredevices)](https://github.com/coredevices) · [GitHub (priyankark)](https://github.com/priyankark) · [Website (priyankar.me)](https://www.priyankar.me/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-66469b18edac433e82715659"><a href="https://apps.repebble.com/66469b18edac433e82715659">Lake Sammamish</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A living Lake Sammamish scene that changes with the time of day — dawn, midday, golden sunset, and a starry moonlit night. The sun and moon arc across the sky, the forested Issaquah-Alps foothills…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-9657a1fd4a6c46119e295779"><a href="https://apps.repebble.com/9657a1fd4a6c46119e295779">Serene Waterfall</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-27</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-27</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A serene animated waterfall cascades through lush jungle and breaks over a mossy boulder with the time carved into it. Shows the day, date and battery, with continuously flowing water, drifting…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-16369ce3ed5248e696f698fa"><a href="https://apps.repebble.com/16369ce3ed5248e696f698fa">Ronin Kata</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A straw-hatted ronin stands before a rising sun. Shake your wrist to unleash a martial-arts kata of single- and dual-sword (nito-ryu) strikes drawn from his hip scabbard, then he freezes in a…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-73d2d5a2cc2c4a7e90cf1090"><a href="https://apps.repebble.com/73d2d5a2cc2c4a7e90cf1090">Meme Stream</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-21</span> <span title="Latest release in the app store">Updated 2026-06-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-21</span> <span title="Latest release in the app store">Updated 2026-06-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Meme Stream shows random captioned memes pulled live from Reddit&#x27;s popular meme communities via the public meme-api.com service. Press any button for the next meme. All content is sourced from…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-9766eeb388bd47fe8d57729e"><a href="https://apps.repebble.com/9766eeb388bd47fe8d57729e">Toucan Perch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A cheerful toucan perched on a jungle branch. The sky follows the time of day: bright and sunny by day, a deep starry night with a crescent moon after dark. The toucan gently bobs, blinks, and…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-b408391bb1c44f589b5297ec"><a href="https://apps.repebble.com/b408391bb1c44f589b5297ec">Circus Clown</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Shake your wrist and a cheerful circus clown springs to life - juggling, balancing a spinning plate, and back-flipping under the big-top spotlight. When idle it&#x27;s a clean, readable watchface with…</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-ca091b35fa40489e82b498c2"><a href="https://apps.repebble.com/ca091b35fa40489e82b498c2">Hokum Fan Art</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-05-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-05-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Vintage horror watchface — a creepy TV station ID with a sinister donkey mascot host, CRT scanlines, and ON AIR badge. Fan art inspired by the 2026 folk-horror film Hokum.</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-64c1c12d7fe74e6bba6f7f94"><a href="https://apps.repebble.com/64c1c12d7fe74e6bba6f7f94">Conan</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-05-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-05-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Detective Conan watchface. Cycles 12 detective scenes — one every minute, tap for random. Battery indicator included.</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-b6d8a42ffe164d959c661501"><a href="https://apps.repebble.com/b6d8a42ffe164d959c661501">Shinchan</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.4</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-16</span> <span title="Latest release in the app store">Updated 2026-05-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-16</span> <span title="Latest release in the app store">Updated 2026-05-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Cartoon kid funny faces watchface. Cycles through 12 silly expressions — one new face every minute. Tap for a random face. Battery indicator in the bottom bar.</p>
 </div>
@@ -142,7 +142,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-b68b8fba9a664893a9d16a25"><a href="https://apps.repebble.com/b68b8fba9a664893a9d16a25">XKCD Daily</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">The current XKCD comic, refreshed hourly. Shake your watch to reveal the alt-text caption - the hover-text joke behind each comic.</p>
 </div>
@@ -153,7 +153,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-560a0f4be93d44fc8d7b42ff"><a href="https://apps.repebble.com/560a0f4be93d44fc8d7b42ff">Voyage</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Set sail on an animated pirate voyage — a ship bobs on the waves with a captain in his iconic straw hat. Shows time, date, and battery.</p>
 </div>
@@ -164,7 +164,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-52ce401057174411a5200265"><a href="https://apps.repebble.com/52ce401057174411a5200265">Ninja Strike</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A fruit-ninja style watchface. Every minute a ninja dashes across the time, katana trailing neon, slicing it in half before the pieces snap back together. Five different slash patterns …</p>
 </div>
@@ -175,7 +175,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-fe6b9da4d64249fd800c779c"><a href="https://apps.repebble.com/fe6b9da4d64249fd800c779c">Langdon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round</div>
 <p class="app-desc">▎ A classic Mickey Mouse analog watchface inspired by Professor Robert Langdon ▎ — the Harvard symbologist from Dan Brown&#x27;s bestselling novels The Da Vinci ▎ Code, Angels &amp; Demons, Inferno, The…</p>
 </div>
@@ -186,7 +186,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-e7b34d918dc643d1b3d0db37"><a href="https://apps.repebble.com/e7b34d918dc643d1b3d0db37">Dragon Fist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Arcade fighter for Pebble Time 2. KENZO vs BLAZE in endless mode — punch, kick, block, and unleash 3 Dragon Blaze chi blasts per round. Survive as many rounds as you can. Share with #pebbledragonfist</p>
 </div>
@@ -197,7 +197,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-625a9f4780fa4c5aadee223f"><a href="https://apps.repebble.com/625a9f4780fa4c5aadee223f">Serene Boater</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A serene watchface featuring a boater with a straw hat rowing calmly on open water. Distant hills and trees on the horizon, shimmering water with ripples, drifting clouds, and two dolphins that…</p>
 </div>
@@ -208,7 +208,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-bd6e3f6122b449188e8faebc"><a href="https://apps.repebble.com/bd6e3f6122b449188e8faebc">Flappy Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Flappy Bird for your Pebble. Tap SELECT (or hold it) to flap through pipes. Gentle physics tuned for small-screen play, persistent high score.</p>
 </div>
@@ -230,7 +230,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-77027484591b482ba8922068"><a href="https://apps.repebble.com/77027484591b482ba8922068">Movers and Shakers</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Dancers on your wrist! Shake to trigger 12 cultural dances from around the world — Irish Tap, Bharatanatyam, Flamenco, Hula, Ballet, Samba, Cossack, Breakdance, Capoeira, Bhangra, Michael Jackson…</p>
 </div>

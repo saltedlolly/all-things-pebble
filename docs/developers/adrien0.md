@@ -13,7 +13,7 @@ hide:
 
 # Adrien0
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/adrien0_b1f8a46227bc6b3950864489) · [GitHub (adrienthiery)](https://github.com/adrienthiery) · [Website (braindump.thiery.io)](https://braindump.thiery.io)
 

@@ -13,7 +13,7 @@ hide:
 
 # Afonso Santos
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/afonso-santos_53c7f761e5c0719320000162) · [GitHub (reciprocum)](https://github.com/reciprocum) · [Website (forums.pebble.com)](https://forums.pebble.com/t/watchapp-sdk4-opensource-ripples3d-interactive-dynamic-math-graphics/23834/2)
 

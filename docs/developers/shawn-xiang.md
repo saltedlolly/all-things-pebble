@@ -13,7 +13,7 @@ hide:
 
 # Shawn Xiang
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shawn-xiang_56ad39de5319ec4ac1000053) · [GitHub (shawnzxiang)](https://github.com/shawnzxiang) · [Website (shawnxiang.com)](http://shawnxiang.com/)
 

@@ -13,7 +13,7 @@ hide:
 
 # AClymer
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aclymer_52a0cb5f2a0bb9c84700002c) · [GitHub (aclymer)](https://github.com/aclymer) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/20771/watchapp-drug-wars-for-pebble#latest)
 

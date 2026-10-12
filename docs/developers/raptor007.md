@@ -13,7 +13,7 @@ hide:
 
 # Raptor007
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/raptor007_5306a54555bea20743000094) · [GitHub (Raptor007)](https://github.com/Raptor007) · [Website (raptor007.com)](http://www.raptor007.com/pebble-watchfaces/)
 

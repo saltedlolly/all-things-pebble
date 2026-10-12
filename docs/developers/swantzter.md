@@ -13,7 +13,7 @@ hide:
 
 # Swantzter
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/swantzter_38e5d794bccd962d453ae6de) · [GitHub (swantzter)](https://github.com/swantzter)
 

@@ -13,7 +13,7 @@ hide:
 
 # Peter Baylies
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/peter-baylies_529a3876129af7c3bd0000bd) · [GitHub (pbaylies)](https://github.com/pbaylies) · [Website (mypebblefaces.com)](http://www.mypebblefaces.com/apps/1058/776/7076/)
 

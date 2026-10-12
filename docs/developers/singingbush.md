@@ -13,7 +13,7 @@ hide:
 
 # singingbush
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/singingbush_559006da66735def77000063) · [GitHub (SingingBush)](https://github.com/SingingBush) · [Website (singingbush.com)](http://singingbush.com)
 

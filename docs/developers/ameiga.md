@@ -13,7 +13,7 @@ hide:
 
 # ameiga
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ameiga_52b5dd8dd2b97a7abc000021) · [GitHub (YagoCarballo)](https://github.com/YagoCarballo) · [Website (ameiga.com)](http://ameiga.com/)
 

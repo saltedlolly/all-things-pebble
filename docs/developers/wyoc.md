@@ -13,7 +13,7 @@ hide:
 
 # Wyoc
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wyoc_6bce85d8ae51db9b0f0f1959) · [Rebble App Store](https://apps.rebble.io/en_US/developer/56327d227d13f9d558000078/1) · [GitHub (Wyoc)](https://github.com/Wyoc)
 

@@ -13,7 +13,7 @@ hide:
 
 # Flo Knödl
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flo-kn-dl_69207a520a015600086f2e44) · [Rebble App Store](https://apps.rebble.io/en_US/developer/69207a520a015600086f2e44/1) · [GitHub (flokndl)](https://github.com/flokndl) · [Website (faceswithlove.framer.ai)](https://faceswithlove.framer.ai/)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flo-kn-dl_69207a520
 <h2 class="app-name" id="app-6948196e16fdf5000991cbc4"><a href="https://apps.repebble.com/6948196e16fdf5000991cbc4">Level</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/flokndl/level-watchapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/330" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-21</span> <span title="Latest release in the app store">Updated 2025-12-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-21</span> <span title="Latest release in the app store">Updated 2025-12-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple Level measuring tool. - Simply tilt the watch to measure - At 0° Level is a subtle nudge vibration</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flo-kn-dl_69207a520
 <h2 class="app-name" id="app-6946aed4da15010009fbaa7c"><a href="https://apps.repebble.com/6946aed4da15010009fbaa7c">Chronograph</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/flokndl/chronograph" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/321" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-20</span> <span title="Latest release in the app store">Updated 2025-12-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-20</span> <span title="Latest release in the app store">Updated 2025-12-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Chronograph Stopwatch based on &#x27;analogue dots&#x27; Watchface. --- - press &#x27;down&#x27; for start/pause/resume - press &#x27;up&#x27; for reset Display: - large hand for &#x27;seconds - small left dial for &#x27;subseconds&#x27; …</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flo-kn-dl_69207a520
 <h2 class="app-name" id="app-69343ba1bd6440000946e487"><a href="https://apps.rebble.io/en_US/application/69343ba1bd6440000946e487">Analogue Dots</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/flokndl/watchface-analogue-dots" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/104" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-06</span> <span title="Latest release in the app store">Updated 2025-12-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-06</span> <span title="Latest release in the app store">Updated 2025-12-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">Simple analoge watchface with two style. -- Now with Chronomode -- Activate it settings -&gt; tap/flick starts seconds&amp;minute stopwatch. -&gt; if persistent mode is active tap/flick resets chrono.</p>
 </div>

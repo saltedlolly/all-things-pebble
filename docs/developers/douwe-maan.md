@@ -13,7 +13,7 @@ hide:
 
 # Douwe Maan
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/douwe-maan_52b1e818c8363d6d8d00000d) · [GitHub (DouweM)](https://github.com/DouweM)
 

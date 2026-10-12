@@ -13,7 +13,7 @@ hide:
 
 # pinguin-wizard
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pinguin-wizard_a70aa800ed123e2b999d2ca3) · [GitLab (pinguin-wizard)](https://gitlab.com/pinguin-wizard)
 

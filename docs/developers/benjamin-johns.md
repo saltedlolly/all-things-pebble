@@ -13,7 +13,7 @@ hide:
 
 # Benjamin Johns
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-johns_531a426deb7a777c2000055f) · [GitHub (theoreticalb)](https://github.com/theoreticalb) · [Website (legendofben.com)](http://www.legendofben.com)
 

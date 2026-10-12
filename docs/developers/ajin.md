@@ -13,7 +13,7 @@ hide:
 
 # Ajin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ajin_5565f30e3986100a91000081) · [GitHub (ajinabraham)](https://github.com/ajinabraham) · [Website (opensecurity.in)](http://opensecurity.in)
 

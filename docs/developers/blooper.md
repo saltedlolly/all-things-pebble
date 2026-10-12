@@ -13,7 +13,7 @@ hide:
 
 # Blooper!
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/blooper_57647c273feaeea10e000008) · [GitHub (hdyar)](https://github.com/hdyar)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/blooper_57647c273fe
 <h2 class="app-name" id="app-5791726850c752e32e0000e1"><a href="https://apps.repebble.com/5791726850c752e32e0000e1">Dice Roller</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/hdyar/pebbleDiceRoller/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-22</span> <span title="Latest release in the app store">Updated 2016-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-22</span> <span title="Latest release in the app store">Updated 2016-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple dice rolling app. Use the top button to cycle through the number of sides on the dice - 2, 3, 4, 6, 8, 10, or 20. Use the bottom button to cycle through the number of dice. 1 - 6. The…</p>
 </div>

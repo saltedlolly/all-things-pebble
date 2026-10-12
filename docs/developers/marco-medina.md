@@ -13,7 +13,7 @@ hide:
 
 # Marco Medina
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marco-medina_52f01d0d6fc2c07858000405) · [GitHub (marcomedina)](https://github.com/marcomedina)
 

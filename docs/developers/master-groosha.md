@@ -13,7 +13,7 @@ hide:
 
 # Master\_Groosha
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/master-groosha_548041afa5302c2ce400001e) · [GitHub (Kondra007)](https://github.com/Kondra007) · [Website (pebble.groosh.pw)](http://pebble.groosh.pw)
 

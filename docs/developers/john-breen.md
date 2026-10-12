@@ -13,7 +13,7 @@ hide:
 
 # John Breen
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-breen_52f955fba6f6c53f2a0004c4) · [GitHub (jvbreen1)](https://github.com/jvbreen1)
 

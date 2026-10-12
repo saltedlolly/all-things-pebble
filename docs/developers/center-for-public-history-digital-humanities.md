@@ -13,7 +13,7 @@ hide:
 
 # Center for Public History + Digital Humanities
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/center-for-public-history-digital-humanities_5511c1a6c496d8094500002c) · [GitHub (ebellempire)](https://github.com/ebellempire) · [Website (clevelandhistorical.org)](http://clevelandhistorical.org/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/center-for-public-h
 <h2 class="app-name" id="app-55aeb453f825d3118100006b"><a href="https://apps.repebble.com/55aeb453f825d3118100006b">Cleveland Historical</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ebellempire/Curatescape-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2015-07-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2015-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The Cleveland Historical Pebble app puts Cleveland history on your wrist, allowing you to quickly access information about nearby historical sites around the city. Developed by the Center for…</p>
 </div>

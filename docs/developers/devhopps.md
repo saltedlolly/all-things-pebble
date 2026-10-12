@@ -13,7 +13,7 @@ hide:
 
 # DevHopps
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/devhopps_5508790a7d3b94d00900004d) · [GitHub (DevHopps)](https://github.com/DevHopps)
 

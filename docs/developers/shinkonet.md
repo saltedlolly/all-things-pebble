@@ -13,7 +13,7 @@ hide:
 
 # ShinkoNet
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shinkonet_3d56e6eebb8d1a10961ee37a) · [GitHub (ShinkoNet)](https://github.com/ShinkoNet) · [Website (ptv.netcavy.net)](https://ptv.netcavy.net/)
 

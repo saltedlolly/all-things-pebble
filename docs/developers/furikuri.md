@@ -13,7 +13,7 @@ hide:
 
 # FuriKuri
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/furikuri_55729b343b1d51d8df000005) · [GitHub (FuriKuri)](https://github.com/FuriKuri)
 

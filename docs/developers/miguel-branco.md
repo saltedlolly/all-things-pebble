@@ -13,7 +13,7 @@ hide:
 
 # Miguel Branco
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/miguel-branco_531a5e8d5ef1cb5a08000307) · [GitHub (Arlanthir)](https://github.com/Arlanthir) · [Website (forum.xda-developers.com)](http://forum.xda-developers.com/pebble/pebble-development/pebby-baby-helper-t2850395)
 

@@ -13,7 +13,7 @@ hide:
 
 # TMunz
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tmunz_55f1ddc12d148e10c8000015) · [GitHub (tmunz)](https://github.com/tmunz)
 

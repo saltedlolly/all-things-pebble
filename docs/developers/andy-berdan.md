@@ -13,7 +13,7 @@ hide:
 
 # Andy Berdan
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andy-berdan_55c28b5e2903efd82a000030) · [GitHub (berdandy)](https://github.com/berdandy) · [Website (twitter.com)](https://twitter.com/urbble)
 

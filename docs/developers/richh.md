@@ -13,7 +13,7 @@ hide:
 
 # richh
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richh_ea22cf01488a101ad8c00794) · [GitHub (horstf)](https://github.com/horstf)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richh_ea22cf01488a1
 <h2 class="app-name" id="app-6a4b5a7435ef42609eedfe72"><a href="https://apps.repebble.com/6a4b5a7435ef42609eedfe72">Divergence</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/horstf/divergence" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A living eclipse on your wrist, inspired by the watch Serac wears in Westworld and by astosia&#x27;s Eclipse watchface. The ring around the disc changes every minute. Storms of &quot;divergence&quot; build at a…</p>
 </div>

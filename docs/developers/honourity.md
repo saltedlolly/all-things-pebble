@@ -13,7 +13,7 @@ hide:
 
 # Honourity
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/honourity_54cdfd96d429c37ba300008d) · [GitHub (jtcgreyfox)](https://github.com/jtcgreyfox)
 

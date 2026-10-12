@@ -13,7 +13,7 @@ hide:
 
 # Andrew Varis
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-varis_545aa6c32a5698fda50000aa) · [GitHub (ndrewv)](https://github.com/ndrewv)
 

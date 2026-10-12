@@ -13,7 +13,7 @@ hide:
 
 # Trevir
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56db39b3d86927b35f00002c/1) · [GitHub (Cellomonster)](https://github.com/Cellomonster) · [Website (twitter.com)](https://twitter.com/trev3d)
 

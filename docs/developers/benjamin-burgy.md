@@ -13,7 +13,7 @@ hide:
 
 # Benjamin Burgy
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-burgy_569540ccc3d5eb67e2000070) · [Rebble App Store](https://apps.rebble.io/en_US/developer/569540ccc3d5eb67e2000070/1) · [GitHub (bburgy)](https://github.com/bburgy) · [GitHub (minidfx)](https://github.com/minidfx)
 

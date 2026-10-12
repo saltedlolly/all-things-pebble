@@ -13,7 +13,7 @@ hide:
 
 # Siliconian
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/siliconian_52f150bd8d40be9ccb0001ef) · [GitHub (jflowers1974)](https://github.com/jflowers1974) · [Website (siliconian.com)](http://www.siliconian.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/siliconian_52f150bd
 <h2 class="app-name" id="app-54f6b25a93d5fbda5b000023"><a href="https://apps.repebble.com/54f6b25a93d5fbda5b000023">Blocktime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jflowers1974/Blocktime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-04</span> <span title="Latest release in the app store">Updated 2015-03-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-04</span> <span title="Latest release in the app store">Updated 2015-03-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Gives the time as well as the current height of the Bitcoin Block Chain. Useful if you are using nLockTime in your Bitcoin transaction builds and need to know the current height (&quot;time&quot;) of the…</p>
 </div>

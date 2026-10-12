@@ -13,7 +13,7 @@ hide:
 
 # Fefe-Vernius
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fefe-vernius_10ca5708f03a2e5eb9458994) · [GitHub (Fefe-Vernius)](https://github.com/Fefe-Vernius)
 

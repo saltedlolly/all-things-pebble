@@ -13,7 +13,7 @@ hide:
 
 # TransSee
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/transsee_2ffdcb53524bc35b242d3209) · [GitHub (doconnoronca)](https://github.com/doconnoronca) · [Website (transsee.ca)](https://www.transsee.ca/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/transsee_2ffdcb5352
 <h2 class="app-name" id="app-f88025a5c8794321acb050e7"><a href="https://apps.repebble.com/f88025a5c8794321acb050e7">TransSee Transit Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.6</span></h2>
 <a class="app-source" href="https://github.com/doconnoronca/toronto-transit-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-09-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Real-time transit arrival predictions for more than 200 transit agencies across Canada, US and around the world. See www.transsee.ca for the complete list. Currently requires TransSee Premium…</p>
 </div>

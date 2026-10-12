@@ -13,7 +13,7 @@ hide:
 
 # Dark
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56003ed5d3ea40832d00006d/1) · [GitHub (lukefor)](https://github.com/lukefor)
 

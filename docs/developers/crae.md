@@ -13,7 +13,7 @@ hide:
 
 # CRAE
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/crae_52efa898593184556400004b) · [GitHub (craedev1)](https://github.com/craedev1)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/crae_52efa898593184
 <h2 class="app-name" id="app-54341c6f79b9e51d360001fa"><a href="https://apps.repebble.com/54341c6f79b9e51d360001fa">LiftSlow</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/craedev1/LiftSlow" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-07</span> <span title="Latest release in the app store">Updated 2014-10-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-10-07</span> <span title="Latest release in the app store">Updated 2014-10-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Struggling to break a plateau? Experiment with slow and deliberate weight lifting. The app features timing for slow up and down lift strokes, and variable rest, warmup and cool down intervals. The…</p>
 </div>

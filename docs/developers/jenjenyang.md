@@ -13,7 +13,7 @@ hide:
 
 # jenjenyang
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/59ec290c461a8d2dd0000362/1) · [GitHub (jellybellyfishmeow)](https://github.com/jellybellyfishmeow)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/59ec290c461a8d2
 <h2 class="app-name" id="app-59ec41ee0dfc329496000354"><a href="https://apps.rebble.io/en_US/application/59ec41ee0dfc329496000354">helpmeh</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jellybellyfishmeow/t2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-10-22</span> <span title="Latest release in the app store">Updated 2017-10-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-10-22</span> <span title="Latest release in the app store">Updated 2017-10-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">asf</p>
 </div>

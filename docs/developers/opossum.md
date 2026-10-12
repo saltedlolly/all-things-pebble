@@ -13,7 +13,7 @@ hide:
 
 # Opossum
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/opossum_5425e90055f4a0b2b200000e) · [GitHub (OpossumGit)](https://github.com/OpossumGit)
 

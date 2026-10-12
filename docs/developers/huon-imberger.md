@@ -13,7 +13,7 @@ hide:
 
 # Huon Imberger
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/huon-imberger_5832618700355ad84800015a) · [GitHub (Plonq)](https://github.com/Plonq)
 

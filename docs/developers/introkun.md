@@ -13,7 +13,7 @@ hide:
 
 # introkun
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/introkun_52f2a1f20da945e49c00007d) · [GitHub (introkun)](https://github.com/introkun)
 

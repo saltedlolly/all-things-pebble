@@ -13,7 +13,7 @@ hide:
 
 # Meep apps
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/meep-apps_afb52ceff8e7b6067c428fea) · [Rebble App Store](https://apps.rebble.io/en_US/developer/69483fa7eea8e40009e75373/1) · [GitHub (only-meeps)](https://github.com/only-meeps)
 

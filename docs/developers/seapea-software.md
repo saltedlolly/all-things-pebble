@@ -13,7 +13,7 @@ hide:
 
 # SeaPea Software
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/seapea-software_52f00ed07a772ced5d0000db) · [GitHub (SeaPea)](https://github.com/SeaPea)
 

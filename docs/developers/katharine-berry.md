@@ -13,7 +13,7 @@ hide:
 
 # Katharine Berry
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52b6e8a9f21b2c24ef000014/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/katharine-berry_52b6e8a9f21b2c24ef000014) · [GitHub (Katharine)](https://github.com/Katharine) · [Website (kathar.in)](https://kathar.in)
 

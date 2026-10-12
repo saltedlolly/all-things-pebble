@@ -13,7 +13,7 @@ hide:
 
 # BoxofDanger
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/boxofdanger_5c70607c37fbb400014e5d33) · [GitHub (zachthebeasty12345-sketch)](https://github.com/zachthebeasty12345-sketch)
 

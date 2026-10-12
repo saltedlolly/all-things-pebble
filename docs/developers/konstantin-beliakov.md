@@ -13,7 +13,7 @@ hide:
 
 # Konstantin Beliakov
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53e9cc82f4772adc670000ae/1) · [GitHub (konstantinbelyakov)](https://github.com/konstantinbelyakov) · [Website (ecliptic-pebble.blogspot.com)](http://ecliptic-pebble.blogspot.com)
 

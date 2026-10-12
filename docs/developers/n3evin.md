@@ -13,7 +13,7 @@ hide:
 
 # N3evin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/n3evin_1e7cf5109777745902ea406c) · [GitHub (N3evin)](https://github.com/N3evin) · [Website (pebblegolflive.n3evin.com)](https://pebblegolflive.n3evin.com/)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/n3evin_1e7cf5109777
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="pebble golf live" data-released="2026-10-07" data-updated="2026-10-09">
+<div class="app-card" data-type="watchapp" data-title="pebble golf live" data-released="2026-10-07" data-updated="2026-10-11">
 <a class="app-shot" href="https://apps.repebble.com/80828e5b66b947ed982d4941" data-search-exclude><img src="../images/apps/80828e5b66b947ed982d4941.png" alt="Pebble Golf Live" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-80828e5b66b947ed982d4941"><a href="https://apps.repebble.com/80828e5b66b947ed982d4941">Pebble Golf Live</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.5</span></h2>
+<h2 class="app-name" id="app-80828e5b66b947ed982d4941"><a href="https://apps.repebble.com/80828e5b66b947ed982d4941">Pebble Golf Live</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.6</span></h2>
 <a class="app-source" href="https://github.com/N3evin/Pebble-Golf-Live" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1411" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Follow live pro golf, leaderboards and player scores right from your wrist. ⛳ Pebble Golf Live brings tournament leaderboards, player scores, schedules and scorecards to your Pebble. Highlights: •…</p>
 </div>

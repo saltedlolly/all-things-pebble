@@ -13,7 +13,7 @@ hide:
 
 # openHAB Foundation
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/openhab-foundation_5541ba7d4b4d96b07500003c) · [GitHub (openhab)](https://github.com/openhab) · [Website (openhab.org)](http://www.openhab.org)
 

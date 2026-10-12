@@ -13,7 +13,7 @@ hide:
 
 # Mango Lazi
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mango-lazi_54b62295a9708ae7e500002a) · [GitHub (mangolazi)](https://github.com/mangolazi)
 

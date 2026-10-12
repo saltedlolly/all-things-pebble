@@ -13,7 +13,7 @@ hide:
 
 # Jamie Holding
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jamie-holding_30b1c336b9f7ddf808f16c5f) · [GitHub (ThemeParks)](https://github.com/ThemeParks) · [Website (themeparks.wiki)](https://themeparks.wiki)
 

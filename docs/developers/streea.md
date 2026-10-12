@@ -13,7 +13,7 @@ hide:
 
 # Streea
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/streea_52ca22bb6126ce0684000035) · [GitHub (streeabarra)](https://github.com/streeabarra) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/4866/watch-face-gallifrey-time-with-real-gallifreyan-language-from-doctor-who-v1-5)
 

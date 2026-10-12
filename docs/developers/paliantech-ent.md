@@ -13,7 +13,7 @@ hide:
 
 # PALIANTech Ent.
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paliantech-ent_52f0139a2de9ffc2430000b7) · [GitHub (dmnd)](https://github.com/dmnd)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paliantech-ent_52f0
 <h2 class="app-name" id="app-55f49e7a3cee5fe1dc00001b"><a href="https://apps.repebble.com/55f49e7a3cee5fe1dc00001b">illusion3</a> <span class="app-version" title="Latest version" data-search-exclude>v3.01</span></h2>
 <a class="app-source" href="https://github.com/dmnd/illudere" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-12</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-12</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Based off of illudere watch face, with configuration options available to choose different colors. The original illudere was one of the reasons I bought an original Pebble and I wanted to see this…</p>
 </div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · **0–9 & other**
 
-*21 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*21 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-5325c3d4ee3b27892f000493"><a href="https://apps.repebble.com/5325c3d4ee3b27892f000493">2048</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/crazy2be/2048-pebble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/crazy2be.html" title="More from this developer">crazy2be</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-16</span> <span title="Latest release in the app store">Updated 2014-03-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-03-16</span> <span title="Latest release in the app store">Updated 2014-03-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A clone of 2048 for the Pebble smartwatch. Tilt the screen to combine adjacent matching tiles. You win when you reach the 2048 tile! Press the middle button to pause/unpause. Press the back button…</p>
 </div>
@@ -105,7 +105,7 @@ hide:
 <h2 class="app-name" id="app-56acbb21778c299ff9000025"><a href="https://apps.repebble.com/56acbb21778c299ff9000025">4 Digit numeric keyboard demo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/iAbadia/Pebble-4-Digit-Num-Keyboard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/iabadia.html" title="More from this developer">iAbadia</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2016-01-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2016-01-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Numeric Keyboard demo, pebble.js source available at my GitHub: iAbadia</p>
 </div>
@@ -127,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-59cae9e8461a8da6ca002084"><a href="https://apps.rebble.io/en_US/application/59cae9e8461a8da6ca002084">52/17</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/howcatsjam/5217" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/brian-933bee.html" title="More from this developer">Brian</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-09-26</span> <span title="Latest release in the app store">Updated 2017-09-27</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-09-26</span> <span title="Latest release in the app store">Updated 2017-09-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">52/17 is a simple productivity timer based on the 52/17 split: 52 minutes working, followed by 17 minutes resting. Single-click select to start and pause the timer. Double-click select to go to…</p>
 </div>
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-82451ba23ca641ab82821fa6"><a href="https://apps.repebble.com/82451ba23ca641ab82821fa6">7day ICS Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Pebble_7_day_ICS_Calendar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is designed to pull the date time and name of the events happening in the next 7 days from any ICS file. I have only tested it using a private google calendar but should work with any.</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-177f26f0ace84ea9bdb29a99"><a href="https://apps.repebble.com/177f26f0ace84ea9bdb29a99">@beat</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
 <a class="app-source" href="https://github.com/jceaser/pebble-beat/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-cherry.html" title="More from this developer">Thomas Cherry</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Initial release of an old Pebble app that I never got around to publishing when Pebble was now, but now that we are here for round 2 I&#x27;m inspired to share what I have. Very basic implementation of…</p>
 </div>
@@ -193,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-56818e4e94ffb216e400001f"><a href="https://apps.repebble.com/56818e4e94ffb216e400001f">ČS ATM</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/jirkachadima/pebble-csas-nearest" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jirka-chadima.html" title="More from this developer">Jirka Chadima</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-28</span> <span title="Latest release in the app store">Updated 2015-12-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-28</span> <span title="Latest release in the app store">Updated 2015-12-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Demo app that shows nearest ATM of CSas</p>
 </div>
@@ -226,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-570707b34ff0c8e47900000a"><a href="https://apps.repebble.com/570707b34ff0c8e47900000a">실시간 검색어</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/imdanboy/RTK" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sappyprg.html" title="More from this developer">SappyPrg</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-08</span> <span title="Latest release in the app store">Updated 2016-08-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-08</span> <span title="Latest release in the app store">Updated 2016-08-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">- It will not display correctly without korean language pack installed. (in that case, do not download it) - 네이버, 다음으로부터 실시간 검색어를 보여줍니다. --- version 2.0 에 추가된 기능 --- * 검색어에 대한 뉴스 데이터를 보여줍니다.</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-5b5c25bdb840489c921b4b23"><a href="https://apps.repebble.com/5b5c25bdb840489c921b4b23">🔦 torch color edition</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/chuckmoritzgg/pebble-torch-color-edition" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/wiegand.html" title="More from this developer">wiegand</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-06-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-06-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Unfortunately dimming brightness is not possible but we can circle a few colors on PT2</p>
 </div>

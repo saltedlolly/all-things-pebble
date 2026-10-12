@@ -13,7 +13,7 @@ hide:
 
 # SIDEffect&\#x27;s
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sideffect-s_a26181dcbfab8c2033428ca1) · [GitHub (n0va-SIDEffects)](https://github.com/n0va-SIDEffects)
 

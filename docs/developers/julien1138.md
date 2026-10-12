@@ -13,7 +13,7 @@ hide:
 
 # Julien1138
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julien1138_9f1fd54dc8c8710b3d1187d7) · [GitHub (Julien1138)](https://github.com/Julien1138)
 

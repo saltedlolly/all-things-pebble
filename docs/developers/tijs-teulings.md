@@ -13,7 +13,7 @@ hide:
 
 # Tijs Teulings
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tijs-teulings_22e904396b7c55fbc3159d97) · [GitHub (tijs)](https://github.com/tijs) · [Website (tijs.org)](https://tijs.org)
 

@@ -13,7 +13,7 @@ hide:
 
 # Qian He
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/qian-he_52b8bd23c066cad7a600000e) · [GitHub (heqian)](https://github.com/heqian) · [Website (on11.mobi)](http://on11.mobi)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/qian-he_52b8bd23c06
 <h2 class="app-name" id="app-55a89c4b0dc1ce64e5000060"><a href="https://apps.repebble.com/55a89c4b0dc1ce64e5000060">On11 Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/heqian/On11" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-17</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-07-17</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Reborn from one of the most famous and earliest activity tracking watchfaces for the original Pebble, On11. On11 Time monitors your physical activity 24/7. It tells you how many steps you took and…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/qian-he_52b8bd23c06
 <h2 class="app-name" id="app-52cb5f5f6e5f7079c80000c6"><a href="https://apps.repebble.com/52cb5f5f6e5f7079c80000c6">On11</a> <span class="app-version" title="Latest version" data-search-exclude>v4.1</span></h2>
 <a class="app-source" href="https://github.com/heqian/On11" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">On11 is an activity tracker app that can monitor your physical activity 24 × 7. It tells you how much time you spent on sitting, walking, jogging, and sleeping. It also works as a pedometer just…</p>
 </div>

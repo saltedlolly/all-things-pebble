@@ -13,7 +13,7 @@ hide:
 
 # abarry
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/abarry_52b8a0d95dfb6ebaec000003) · [GitHub (andybarry)](https://github.com/andybarry) · [Website (abarry.org)](http://abarry.org)
 

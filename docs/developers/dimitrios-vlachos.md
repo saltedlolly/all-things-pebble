@@ -13,7 +13,7 @@ hide:
 
 # Dimitrios Vlachos
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dimitrios-vlachos_296346ae8a735277a71ae4c6) · [GitHub (Mesa-LLC)](https://github.com/Mesa-LLC)
 

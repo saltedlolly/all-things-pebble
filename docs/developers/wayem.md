@@ -13,7 +13,7 @@ hide:
 
 # WayeM
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wayem_e1e668e8c92b6187eb55847d) · [GitHub (WayeMelse)](https://github.com/WayeMelse)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wayem_e1e668e8c92b6
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="allure" data-released="2026-10-03" data-updated="2026-10-10">
+<div class="app-card" data-type="watchapp" data-title="allure" data-released="2026-10-03" data-updated="2026-10-11">
 <a class="app-shot" href="https://apps.repebble.com/f0d71e5923bd45c0b05a75b0" data-search-exclude><img src="../images/apps/f0d71e5923bd45c0b05a75b0.png" alt="Allure" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f0d71e5923bd45c0b05a75b0"><a href="https://apps.repebble.com/f0d71e5923bd45c0b05a75b0">Allure</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<h2 class="app-name" id="app-f0d71e5923bd45c0b05a75b0"><a href="https://apps.repebble.com/f0d71e5923bd45c0b05a75b0">Allure</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.6</span></h2>
 <a class="app-source" href="https://github.com/WayeMelse/allure" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">BETA - Allure is an activity tracker for the Pebble Time 2 that turns your heart rate into color. Pick an activity, start, and glance at your wrist: the screen color shows your effort zone, and…</p>
 </div>

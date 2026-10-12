@@ -13,7 +13,7 @@ hide:
 
 # hiddej2
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hiddej2_67ccd58b3d8dd90009b16f2a) · [GitHub (hiddej2)](https://github.com/hiddej2)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hiddej2_67ccd58b3d8
 <h2 class="app-name" id="app-67cce507d2acb302d5ba8203"><a href="https://apps.repebble.com/67cce507d2acb302d5ba8203">scallop</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/hiddej2/scallop" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-09</span> <span title="Latest release in the app store">Updated 2025-03-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-09</span> <span title="Latest release in the app store">Updated 2025-03-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Android Clock Scallop Widget inspired - customizable watchface. (shows the seconds - not battery life friendly!)</p>
 </div>

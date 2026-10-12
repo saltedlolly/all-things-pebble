@@ -13,7 +13,7 @@ hide:
 
 # Brian Rowe
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brian-rowe_52f00b94f26d97931a000051) · [GitHub (brianrowe)](https://github.com/brianrowe) · [Website (fwdevicelab.com)](http://fwdevicelab.com)
 

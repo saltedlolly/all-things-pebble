@@ -13,7 +13,7 @@ hide:
 
 # small rock design labs!
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/small-rock-design-labs_54c3a91ca64480370e000062)
 

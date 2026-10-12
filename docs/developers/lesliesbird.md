@@ -13,7 +13,7 @@ hide:
 
 # lesliesbird
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lesliesbird_52ed13ae077dd4f458000033) · [GitHub (lesliesbird)](https://github.com/lesliesbird)
 

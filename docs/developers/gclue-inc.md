@@ -13,7 +13,7 @@ hide:
 
 # GClue, Inc.
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gclue-inc_5475831d73fafe48db00002f) · [GitHub (DeviceConnect)](https://github.com/DeviceConnect) · [Website (gclue.io)](http://www.gclue.io/dwa/)
 

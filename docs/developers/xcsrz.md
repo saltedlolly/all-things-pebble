@@ -13,7 +13,7 @@ hide:
 
 # xcsrz
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xcsrz_581f83651c0888f0460002d3) · [GitHub (xcsrz)](https://github.com/xcsrz)
 

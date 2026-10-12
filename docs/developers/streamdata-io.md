@@ -13,7 +13,7 @@ hide:
 
 # Streamdata.io
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/streamdata-io_55704ce1b850f1358f0000ac) · [GitHub (streamdataio)](https://github.com/streamdataio) · [Website (streamdata.io)](http://streamdata.io/)
 

@@ -13,7 +13,7 @@ hide:
 
 # SetPebble
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/setpebble_529a308a129af7e79b0000b3) · [GitHub (SetPebble)](https://github.com/SetPebble) · [Website (setpebble.com)](https://setpebble.com/app/mad-eye)
 

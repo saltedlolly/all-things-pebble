@@ -13,7 +13,7 @@ hide:
 
 # Analog Tick-Tocker
 
-*4 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_eb6b6dc4dbd64c7c7ea32a94) · [GitHub (meded90)](https://github.com/meded90) · [Website (instagram.com)](https://www.instagram.com/tekilla_art)
 

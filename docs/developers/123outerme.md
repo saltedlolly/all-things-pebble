@@ -13,7 +13,7 @@ hide:
 
 # 123outerme
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/123outerme_596a2cc5b67f9f814d001e48) · [Rebble App Store](https://apps.rebble.io/en_US/developer/596a2cc5b67f9f814d001e48/1) · [GitHub (123outerme)](https://github.com/123outerme) · [GitHub (TildaCubed)](https://github.com/TildaCubed) · [Website (123outerme.itch.io)](https://123outerme.itch.io/shards-of-grandeur)
 

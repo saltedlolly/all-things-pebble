@@ -13,7 +13,7 @@ hide:
 
 # Donk Studios
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/donk-studios_53b4d4b0faff49b44300016d) · [GitHub (peperodo)](https://github.com/peperodo)
 

@@ -13,7 +13,7 @@ hide:
 
 # Braci Ltd.
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52c1799a01696bf4a7000050/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/braci-ltd_52c1799a01696bf4a7000050) · [Website (braci.co)](http://www.braci.co)
 

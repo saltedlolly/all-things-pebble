@@ -13,7 +13,7 @@ hide:
 
 # Scott D
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/scott-d_558413a50a225dd5f50000a6) · [GitHub (scottyblizz)](https://github.com/scottyblizz)
 

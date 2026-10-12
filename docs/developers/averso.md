@@ -13,7 +13,7 @@ hide:
 
 # Averso
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5812f6ad46041fb22f00005e/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/averso_5812f6ad46041fb22f00005e) · [GitHub (Averso)](https://github.com/Averso)
 

@@ -13,7 +13,7 @@ hide:
 
 # Tyler Hoffman
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tyler-hoffman_52da8e31889f5d6e23000165) · [GitHub (simonremote)](https://github.com/simonremote) · [Website (simonremote.github.io)](http://simonremote.github.io)
 

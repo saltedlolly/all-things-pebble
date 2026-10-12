@@ -13,7 +13,7 @@ hide:
 
 # Jahdai Cintron
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jahdai-cintron_52b52785d2b97a2c6d00000e) · [GitHub (jahdaic)](https://github.com/jahdaic) · [Website (jahdaicintron.com)](http://jahdaicintron.com/wunderpebble/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jahdai-cintron_52b5
 <h2 class="app-name" id="app-54aabf29ef47e1e246000072"><a href="https://apps.repebble.com/54aabf29ef47e1e246000072">WunderPebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11</span></h2>
 <a class="app-source" href="https://github.com/jahdaic/WunderPebbleJS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-05</span> <span title="Latest release in the app store">Updated 2016-07-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-05</span> <span title="Latest release in the app store">Updated 2016-07-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An elegant and feature-filled Wunderlist client for your Pebble. View Lists and mark Tasks complete right on your wrist. I&#x27;m constantly adding new features. Visit my site and send me suggestions…</p>
 </div>

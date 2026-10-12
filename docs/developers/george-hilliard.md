@@ -13,7 +13,7 @@ hide:
 
 # George Hilliard
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/george-hilliard_565c10e4eae744915f00001c) · [GitHub (thirtythreeforty)](https://github.com/thirtythreeforty)
 

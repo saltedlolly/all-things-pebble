@@ -13,7 +13,7 @@ hide:
 
 # Max Beckett
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max-beckett_547aefed735193e6ce00000c) · [Rebble App Store](https://apps.rebble.io/en_US/developer/547aefed735193e6ce00000c/1) · [GitHub (mlb406)](https://github.com/mlb406)
 

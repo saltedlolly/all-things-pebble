@@ -13,7 +13,7 @@ hide:
 
 # Corrivatus
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/corrivatus_567d7ff30bdc469402000225) · [Website (lambdacreate.com)](https://lambdacreate.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # Tarbonator
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tarbonator_538cc79da9d6be708e00014f) · [GitHub (tylercd100)](https://github.com/tylercd100)
 

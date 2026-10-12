@@ -13,7 +13,7 @@ hide:
 
 # L Trevor Davies
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/l-trevor-davies_52f008e5a0cb6a2298000028) · [GitHub (trevordavies095)](https://github.com/trevordavies095) · [Website (trevordavies095.com)](http://www.trevordavies095.com)
 

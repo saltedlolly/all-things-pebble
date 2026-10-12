@@ -13,7 +13,7 @@ hide:
 
 # Milo Price
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/milo-price_52f871506836e6d4d4000128) · [GitHub (miloprice)](https://github.com/miloprice) · [Website (mil.ooo)](http://mil.ooo)
 

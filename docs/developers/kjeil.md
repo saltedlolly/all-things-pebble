@@ -13,7 +13,7 @@ hide:
 
 # Kjeil
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kjeil_57b13692f01b53ee0c000402) · [GitHub (ikjl)](https://github.com/ikjl)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kjeil_57b13692f01b5
 <h2 class="app-name" id="app-57b13b33bb85eddc980004d0"><a href="https://apps.repebble.com/57b13b33bb85eddc980004d0">Trit-Clock RS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/ikjl/PebbleTritClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-15</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-15</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a balanced ternary watch face for hours and minutes and seconds. The top row is hours past noon. The middle row is minutes past the hour. The bottom row is seconds past the minute. The…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kjeil_57b13692f01b5
 <h2 class="app-name" id="app-57b143d2f01b53901a000449"><a href="https://apps.repebble.com/57b143d2f01b53901a000449">Trit-Clock R</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ikjl/PebbleTritClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-15</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-15</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a balanced ternary watch face for hours and minutes. The top row is hours past noon. The bottom row is minutes past the hour. The figures sets change randomly once an hour: The red symbols…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kjeil_57b13692f01b5
 <h2 class="app-name" id="app-57b14aacf01b53329a000483"><a href="https://apps.repebble.com/57b14aacf01b53329a000483">Trit-Clock PlusS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ikjl/PebbleTritClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-15</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-15</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a balanced ternary watch face for hours and minutes and seconds. The top row is hours past noon. The middle row is minutes past the hour. The bottom row is seconds past the minute. The…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kjeil_57b13692f01b5
 <h2 class="app-name" id="app-57b14bf8bb85eded8e0004ed"><a href="https://apps.repebble.com/57b14bf8bb85eded8e0004ed">Trit-Clock Plus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ikjl/PebbleTritClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-15</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-15</span> <span title="Latest release in the app store">Updated 2016-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a balanced ternary watch face for hours and minutes. The top row is hours past noon. The bottom row is minutes past the hour. The figures are: - for -1 0 for 0 + for 1 Example of how to…</p>
 </div>

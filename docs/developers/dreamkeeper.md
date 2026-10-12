@@ -13,7 +13,7 @@ hide:
 
 # Dreamkeeper
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dreamkeeper_9860df6abfdaeba4fa867442) · [GitHub (Dreamkeeper)](https://github.com/Dreamkeeper) · [Website (dkvasnikov.ru)](https://dkvasnikov.ru/)
 

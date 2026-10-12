@@ -13,7 +13,7 @@ hide:
 
 # redlynr
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/redlynr_53152170b52806dd5f00034a) · [GitHub (redlynr)](https://github.com/redlynr) · [Website (actulife.com)](https://www.actulife.com)
 

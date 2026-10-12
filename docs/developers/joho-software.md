@@ -13,7 +13,7 @@ hide:
 
 # Joho Software
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joho-software_fff3f577a126f422d571b0e6) · [GitHub (johosoft0)](https://github.com/johosoft0)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joho-software_fff3f
 <h2 class="app-name" id="app-5198a3a797fe41ee984ee795"><a href="https://apps.repebble.com/5198a3a797fe41ee984ee795">MyBuddy Pet Sugar Glider (AKA MySuggie)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/johosoft0/mybuddy_virtual_pet" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Have your very own Suggie living on your wrist! Cute simple virtual pet sugar glider ready to enjoy every day. Keep him fed and happy. More features planned for the future!</p>
 </div>

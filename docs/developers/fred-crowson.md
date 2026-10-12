@@ -13,7 +13,7 @@ hide:
 
 # Fred Crowson
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fred-crowson_56efda6bf6ee241df5000035) · [GitHub (fcbsd)](https://github.com/fcbsd)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fred-crowson_56efda
 <h2 class="app-name" id="app-56f1d34bdf91bb2e83000012"><a href="https://apps.repebble.com/56f1d34bdf91bb2e83000012">Simple British Default</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/fcbsd/Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-22</span> <span title="Latest release in the app store">Updated 2016-03-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">ISC</span> <span title="First published in the app store">Released 2016-03-22</span> <span title="Latest release in the app store">Updated 2016-03-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple British Default Watch with Day, Time and Date.</p>
 </div>

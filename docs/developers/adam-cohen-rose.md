@@ -13,7 +13,7 @@ hide:
 
 # Adam Cohen-Rose
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/adam-cohen-rose_52e8f7d4dcc23c69d7000015) · [GitHub (adamcohenrose)](https://github.com/adamcohenrose)
 

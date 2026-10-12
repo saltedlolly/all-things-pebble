@@ -13,7 +13,7 @@ hide:
 
 # Matt Cowger
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-cowger_52dc7e1af3be1c1b6c000038) · [GitHub (mcowger)](https://github.com/mcowger) · [Website (exaforge.com)](http://www.exaforge.com/?page_id=459)
 

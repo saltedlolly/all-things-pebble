@@ -13,7 +13,7 @@ hide:
 
 # Satsuki Yatoshi
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/satsuki-yatoshi_3122802131eab586ec96c927) · [GitHub (satsukiyatoshi)](https://github.com/satsukiyatoshi)
 
@@ -21,15 +21,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/satsuki-yatoshi_312
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="satsuki retro lcd meteo" data-released="2026-10-08" data-updated="2026-10-10">
+<div class="app-card" data-type="watchface" data-title="satsuki retro lcd meteo" data-released="2026-10-08" data-updated="2026-10-11">
 <a class="app-shot" href="https://apps.repebble.com/0deee14e32e54453a975067f" data-search-exclude><img src="../images/apps/0deee14e32e54453a975067f.png" alt="Satsuki Retro LCD Meteo" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-0deee14e32e54453a975067f"><a href="https://apps.repebble.com/0deee14e32e54453a975067f">Satsuki Retro LCD Meteo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.7</span></h2>
+<h2 class="app-name" id="app-0deee14e32e54453a975067f"><a href="https://apps.repebble.com/0deee14e32e54453a975067f">Satsuki Retro LCD Meteo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.2</span></h2>
 <a class="app-source" href="https://github.com/satsukiyatoshi/Peeble-time-2-Satsuki-Retro-LCD-Meteo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A retro digital LCD-inspired watchface designed for the Pebble Time 2. Satsuki Retro LCD Meteo combines a highly readable digital clock with weather information and several configurable…</p>
+<p class="app-desc">Inspiration and project origins The design of Satsuki Retro LCD Meteo is notably inspired by Quartz by Dalpek, a retro LCD watchface for the Pebble Time 2…</p>
 </div>
 </div>
 </div>

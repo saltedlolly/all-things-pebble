@@ -13,7 +13,7 @@ hide:
 
 # meowarex
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/meowarex_a367b02b52abb6fdca6cbe15) · [GitHub (meowarex)](https://github.com/meowarex) · [Website (radiant-lyrics.org)](https://radiant-lyrics.org)
 

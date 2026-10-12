@@ -13,7 +13,7 @@ hide:
 
 # polygon
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/polygon_534076abf1edc8e76a0002a3) · [GitHub (polygonplanet)](https://github.com/polygonplanet) · [Website (polygonpla.net)](http://polygonpla.net/)
 

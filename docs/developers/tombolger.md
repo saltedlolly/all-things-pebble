@@ -13,7 +13,7 @@ hide:
 
 # TomBolger
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tombolger_0e985d2ac18230a88bcbe6b8) · [GitHub (TomBolger)](https://github.com/TomBolger)
 

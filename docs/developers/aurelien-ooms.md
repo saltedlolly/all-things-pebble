@@ -13,7 +13,7 @@ hide:
 
 # Aurélien Ooms
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57dd45002d0cc8c5a400025a/1) · [GitHub (aureooms)](https://github.com/aureooms) · [Website (aureooms.github.io)](https://aureooms.github.io/pebble-stib-mivb)
 

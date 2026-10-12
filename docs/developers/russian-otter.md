@@ -13,7 +13,7 @@ hide:
 
 # Russian Otter
 
-*6 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/549c0abd0544722d37000293/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/russian-otter_549c0abd0544722d37000293)
 

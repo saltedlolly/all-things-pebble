@@ -13,7 +13,7 @@ hide:
 
 # Nick Winans
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-winans_d41cec2e1676d30103d578c3) · [GitHub (Nicell)](https://github.com/Nicell) · [Website (ringview.winans.io)](https://ringview.winans.io)
 

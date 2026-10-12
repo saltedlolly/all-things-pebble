@@ -13,7 +13,7 @@ hide:
 
 # sesio
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sesio_5d9ac4c3c393f5765a69653e)
 

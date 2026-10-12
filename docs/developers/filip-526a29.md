@@ -13,7 +13,7 @@ hide:
 
 # Filip
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/filip_5367bca06e8a8c78bd00004c) · [GitHub (Aare-)](https://github.com/Aare-) · [Website (subfty.com)](http://subfty.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # Peter-Berweiler.de
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/peter-berweiler-de_5299f3a4e627ce4d500000ba) · [GitHub (shutdown27)](https://github.com/shutdown27) · [Website (peter-berweiler.de)](http://www.peter-berweiler.de/pebble.html)
 

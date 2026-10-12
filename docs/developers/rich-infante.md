@@ -13,7 +13,7 @@ hide:
 
 # Rich Infante
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rich-infante_5473f270a7cd72aefe0000e1) · [GitHub (richinfante)](https://github.com/richinfante) · [Website (richinfante.com)](https://richinfante.com)
 

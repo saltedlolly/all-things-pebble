@@ -13,7 +13,7 @@ hide:
 
 # Jory Hatton
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jory-hatton_536e9c4ad87391525600011b) · [GitHub (jphatton)](https://github.com/jphatton) · [Website (jphatton.me)](http://jphatton.me)
 

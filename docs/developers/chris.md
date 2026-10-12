@@ -13,7 +13,7 @@ hide:
 
 # chris
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris_5325af5f8f1b377345000157) · [GitHub (dunamis)](https://github.com/dunamis)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris_5325af5f8f1b3
 <h2 class="app-name" id="app-536e3c760937dee0df0000c6"><a href="https://apps.repebble.com/536e3c760937dee0df0000c6">Dry Until</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/dunamis/pebble/tree/master/watchapps/dryuntil" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-10</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-10</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app shows at what time the next rain shower is expected for your location in, using data from buienradar.nl.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris_5325af5f8f1b3
 <h2 class="app-name" id="app-53666f0114acdb643000007f"><a href="https://apps.repebble.com/53666f0114acdb643000007f">Full Circle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/dunamis/pebble/tree/master/watchfaces/fullcircle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-04</span> <span title="Latest release in the app store">Updated 2014-05-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-04</span> <span title="Latest release in the app store">Updated 2014-05-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A clean and intuitive watchface that shows the minutes as a progressing circle, with the hour in text in the center. Shake or tap your Pebble to view the date instead of the hour.</p>
 </div>

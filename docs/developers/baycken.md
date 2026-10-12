@@ -13,7 +13,7 @@ hide:
 
 # Baycken
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/baycken_52bd3d60b1ce8eb834000061) · [GitHub (Baycken)](https://github.com/Baycken)
 

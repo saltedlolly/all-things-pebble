@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · **E** · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*59 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*60 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-bc53387be05547889beabe73"><a href="https://apps.repebble.com/bc53387be05547889beabe73">E2EE Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jomapp/pebbleface-e2ee-clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jomapp.html" title="More from this developer">jomapp</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Simple watchface featuring an &quot;end-to-end encrypted&quot; (E2EE) style clock! Bold Aesthetic: Four striking digits rendered through a random ciphertext effect. 🔐 Smooth Motion: Easily configurable with…</p>
 </div>
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-f5aa8a5e6f9d457d848ee408"><a href="https://apps.repebble.com/f5aa8a5e6f9d457d848ee408">E2EE Clock (Old Pebbles)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jomapp/pebbleface-e2ee-clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jomapp.html" title="More from this developer">jomapp</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchface featuring an &quot;end-to-end encrypted&quot; (E2EE) style clock! Bold Aesthetic: Four striking digits rendered through a random ciphertext effect. 🔐 I created this watchface to raise…</p>
 </div>
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-52acf23c19ff50d903000024"><a href="https://apps.repebble.com/52acf23c19ff50d903000024">E8 Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v2.6</span></h2>
 <a class="app-source" href="https://github.com/clementGdev/E8_pebble_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/clementg.html" title="More from this developer">ClementG</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-15</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-15</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Configurable : you can choose black or white, if you want to display the battery life... And squares are now Animated ! This watchface was inspired by the E8 watch from Lexon, originally designed…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-56f6fa4191445b2baf000015"><a href="https://apps.repebble.com/56f6fa4191445b2baf000015">Easter Egg</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/groyoh/easter_egg" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gringer-apps.html" title="More from this developer">Gringer Apps</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-26</span> <span title="Latest release in the app store">Updated 2016-03-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-26</span> <span title="Latest release in the app store">Updated 2016-03-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Celebrate Easter with this cute animated watchface (and some chocolate). Shake your wrist to wake up the little chick inside the egg. And… will you be able to find the hidden Easter egg? Designed…</p>
 </div>
@@ -133,6 +133,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/69b71728acec7b00092d0954" data-search-exclude><img src="../images/apps/69b71728acec7b00092d0954.png" alt="Eclipse" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-69b71728acec7b00092d0954"><a href="https://apps.rebble.io/en_US/application/69b71728acec7b00092d0954">Eclipse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<a class="app-source" href="https://github.com/astosia/Eclipse" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/astosia.html" title="More from this developer">astosia</a> · <a href="https://forum.rebble.io/t/774" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-15</span> <span title="Latest release in the app store">Updated 2026-03-15</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Westworld inspired watchface, based on Serac&#x27;s Rehoboam watch (also looks quite a lot like a Solar Eclipse) Background updates every minute as the Divergence progresses Features: - Auto-detection…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/54250a8d5394589fee0000d3" data-search-exclude><img src="../images/apps/54250a8d5394589fee0000d3.png" alt="Ecliptic" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-54250a8d5394589fee0000d3"><a href="https://apps.rebble.io/en_US/application/54250a8d5394589fee0000d3">Ecliptic</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
@@ -160,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-5554094864e9b7248300009d"><a href="https://apps.repebble.com/5554094864e9b7248300009d">Ecolab</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/dmattia/ClashOfClansWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david.html" title="More from this developer">David</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-14</span> <span title="Latest release in the app store">Updated 2015-07-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-14</span> <span title="Latest release in the app store">Updated 2015-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Stock value watchface for the company Ecolab with weather, time, and date along the bottom. Email me at dmattia@nd.edu if you would like to see a similar watchface for your company!</p>
 </div>
@@ -402,7 +413,7 @@ hide:
 <h2 class="app-name" id="app-a47c8da6501f43bb936edbfb"><a href="https://apps.repebble.com/a47c8da6501f43bb936edbfb">Enkel Svensk klocka</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/jole84/swe-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jole84.html" title="More from this developer">jole84</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-07-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-07-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Swedish watchface for Pebble Time 2 and Round 2 written in javascript. Inspired by SweWeek from chrobe.</p>
 </div>
@@ -446,7 +457,7 @@ hide:
 <h2 class="app-name" id="app-558593636b9455d89e0000f0"><a href="https://apps.repebble.com/558593636b9455d89e0000f0">Equaliser</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/chrismwaite/equaliser" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/christopher-waite.html" title="More from this developer">Christopher Waite</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-20</span> <span title="Latest release in the app store">Updated 2015-07-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-20</span> <span title="Latest release in the app store">Updated 2015-07-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Equaliser is a new take on telling the time. It has the following features: - Battery level display - Day of the week and date - Bluetooth connectivity indicator (with vibrate on…</p>
 </div>
@@ -567,7 +578,7 @@ hide:
 <h2 class="app-name" id="app-5e1409743dd3108e69a17718"><a href="https://apps.rebble.io/en_US/application/5e1409743dd3108e69a17718">Etude 4</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8</span></h2>
 <a class="app-source" href="https://github.com/dentonlt/pebble-etude4" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dentonlt.html" title="More from this developer">dentonlt</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-01-07</span> <span title="Latest release in the app store">Updated 2020-04-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2020-01-07</span> <span title="Latest release in the app store">Updated 2020-04-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Etude 4 is a minimal, balanced watchface for Pebble/Rebble. The main time header is displayed in 12h/24h format according to the user&#x27;s system preferences. The background and text colors are…</p>
 </div>
@@ -578,7 +589,7 @@ hide:
 <h2 class="app-name" id="app-529ab1b6d17b5033ba000033"><a href="https://apps.repebble.com/529ab1b6d17b5033ba000033">EVA</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/exe44/pebble-eva" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/exe.html" title="More from this developer">exe</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2013-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2013-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Inspired by Japanese anime &quot;Neon Genesis Evangelion&quot; :D</p>
 </div>

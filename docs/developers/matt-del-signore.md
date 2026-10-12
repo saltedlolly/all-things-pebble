@@ -13,7 +13,7 @@ hide:
 
 # Matt Del Signore
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-del-signore_54baa79905d4eeddf500007f) · [GitHub (toastking)](https://github.com/toastking)
 

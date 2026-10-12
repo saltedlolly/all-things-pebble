@@ -13,7 +13,7 @@ hide:
 
 # Midnight Clocksmith
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/midnight-clocksmith_db7063815e3392824cc53a3e) · [GitHub (the-static)](https://github.com/the-static)
 

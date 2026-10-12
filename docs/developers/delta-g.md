@@ -13,7 +13,7 @@ hide:
 
 # Delta\_G
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/delta-g_ebeb8cc0511fe42af871e833) · [GitHub (MGibson1)](https://github.com/MGibson1)
 

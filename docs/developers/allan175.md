@@ -13,7 +13,7 @@ hide:
 
 # Allan175
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/allan175_529efd9a1a6638c898000050) · [GitHub (allan175)](https://github.com/allan175)
 

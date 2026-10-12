@@ -13,7 +13,7 @@ hide:
 
 # digitalurban
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/68e3f6cf0fd0b500086cea51/1) · [GitHub (digitalurban)](https://github.com/digitalurban) · [Website (digitalurban.org)](http://digitalurban.org)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/68e3f6cf0fd0b50
 <h2 class="app-name" id="app-6aa2c3a676c8d6000a6e5057"><a href="https://apps.rebble.io/en_US/application/6aa2c3a676c8d6000a6e5057">Color Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.0</span></h2>
 <a class="app-source" href="https://github.com/digitalurban/color-weather-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Color Weather delivers real-time weather, step tracking, and smart storm alerts to your wrist. Features background colors based on temperature, weather underground intergration for PWS data, storm…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/68e3f6cf0fd0b50
 <h2 class="app-name" id="app-69034d22d004720008412cf1"><a href="https://apps.rebble.io/en_US/application/69034d22d004720008412cf1">Just Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v3.4</span></h2>
 <a class="app-source" href="https://github.com/digitalurban/just-weather-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/144" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-10-30</span> <span title="Latest release in the app store">Updated 2026-01-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-10-30</span> <span title="Latest release in the app store">Updated 2026-01-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Shows the Time, Location, Pressure (with Trend), Temperature, Conditions, Wind Gust and Rainfall amount from Open Meteo. Units can be configured, and it has an optional &#x27;Vibrate on the Hour&#x27;…</p>
 </div>

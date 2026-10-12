@@ -13,7 +13,7 @@ hide:
 
 # Moondawg
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moondawg_5fb06bdfb0b9e000539df15c) · [GitLab (Ryan-Mooney)](https://gitlab.com/Ryan-Mooney) · [Website (ryan-mooney.com)](https://ryan-mooney.com/pebble-nav-hud)
 

@@ -13,7 +13,7 @@ hide:
 
 # CrabbyDev
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/crabbydev_350fc823f69da343c74a82ac) · [GitHub (LittleCrabby)](https://github.com/LittleCrabby)
 

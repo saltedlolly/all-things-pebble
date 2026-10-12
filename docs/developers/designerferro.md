@@ -13,7 +13,7 @@ hide:
 
 # designerferro
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/designerferro_53c71908165754dfa700004b) · [GitHub (designerferro)](https://github.com/designerferro) · [Website (pouparmelhor.com)](http://www.pouparmelhor.com/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/designerferro_53c71
 <h2 class="app-name" id="app-21e81244431f4889a7211035"><a href="https://apps.repebble.com/21e81244431f4889a7211035">hugenumbers</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/designerferro/hugenumbers" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Flux-inspired Pebble watchface with oversized, independently deformed HH/MM numerals and a rising seconds colour field. This is an original implementation using open-source fonts, not Apple&#x27;s…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/designerferro_53c71
 <h2 class="app-name" id="app-56a3b156eaa02c6a87000033"><a href="https://apps.repebble.com/56a3b156eaa02c6a87000033">PouparMelhor.com</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/designerferro/PouparMelhor-pebble-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-23</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-01-23</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a watchface for our site PouparMelhor.com. It&#x27;s just an adaptation of the Developer tutorials into some logo from our site for now. Still needs some polishing on the new bigger screens…</p>
 </div>

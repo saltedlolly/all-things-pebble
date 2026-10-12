@@ -13,7 +13,7 @@ hide:
 
 # sdiggly
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sdiggly_18b3a774f83e893b69788cb9) · [GitHub (coredevices)](https://github.com/coredevices)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sdiggly_18b3a774f83
 <h2 class="app-name" id="app-5a760bfcc2d74f6abb778db2"><a href="https://apps.repebble.com/5a760bfcc2d74f6abb778db2">Sliding Text - Larger Text</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/sliding-text" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-07-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-07-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">The classic Sliding Text watchface, retuned for the Pebble Time 2. Spells the time in words across three sliding rows. This build enlarges the Gotham type from 50px to 58px with tightened tracking…</p>
 </div>

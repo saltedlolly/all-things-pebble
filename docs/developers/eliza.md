@@ -13,7 +13,7 @@ hide:
 
 # Eliza
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eliza_0554b97fa46644f68f1c3d55) · [GitHub (elizagamedev)](https://github.com/elizagamedev)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eliza_0554b97fa4664
 <h2 class="app-name" id="app-cda79bd5a8184ab686b5cad3"><a href="https://apps.repebble.com/cda79bd5a8184ab686b5cad3">Flexible Alerts</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.2</span></h2>
 <a class="app-source" href="https://github.com/elizagamedev/pebble-alerts" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Show alerts for your Android calendars, contact birthdays, and anniversaries. Allows you to add reminders to subscribed calendars or events without built-in reminders, which is great for ICS…</p>
 </div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · **W** · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*70 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*70 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-544788d2ca36fba9ec00003d"><a href="https://apps.repebble.com/544788d2ca36fba9ec00003d">Wake Me Up</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gavinz0228/WakeUp-pebble-watchapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gavin-zhang.html" title="More from this developer">Gavin Zhang</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-22</span> <span title="Latest release in the app store">Updated 2014-10-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-22</span> <span title="Latest release in the app store">Updated 2014-10-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">It&#x27;s an app that can wake you up by its vibration. The interval of its vibration can be customized. By clicking &#x27;UP&#x27; or ‘Down’, you can adjust the vibrating interval, and you can press the…</p>
 </div>
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-d7730c67fb89412e9c655cfd"><a href="https://apps.repebble.com/d7730c67fb89412e9c655cfd">Wakka Wakka</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/howardpchen/wakka-wakka" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/howardpchen.html" title="More from this developer">howardpchen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-28</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-28</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Wakka Wakka is a compact maze-chase game designed for Pebble Time 2. Guide a quick golden runner through a scrolling stage by tilting your wrist. Clear every energy dot while four colorful rivals…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-69a412a94c5ae70009a92597"><a href="https://apps.repebble.com/69a412a94c5ae70009a92597">Walk Log</a> <span class="app-version" title="Latest version" data-search-exclude>v1.12.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/walk-log" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/725" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-01</span> <span title="Latest release in the app store">Updated 2026-05-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-01</span> <span title="Latest release in the app store">Updated 2026-05-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Walk Log is a Pebble application that tracks the time and steps taken during your walks. Your walk history is stored in the logs view, where you can review past activities and delete entries as…</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-52b11885b0661fb292000004"><a href="https://apps.repebble.com/52b11885b0661fb292000004">watchbot</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/hybridgroup/watchbot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/hybridgroup.html" title="More from this developer">HybridGroup</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-18</span> <span title="Latest release in the app store">Updated 2015-06-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2013-12-18</span> <span title="Latest release in the app store">Updated 2015-06-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble watch app to control robots using Artoo, Cylon.js, or Gobot frameworks</p>
 </div>
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-62572dfbf13e3000e1c60301"><a href="https://apps.rebble.io/en_US/application/62572dfbf13e3000e1c60301">Wean</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/david-s-svedberg/pebble-nicotine" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-s-svedberg-gmail-com.html" title="More from this developer">david.s.svedberg@gmail.com</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-04-13</span> <span title="Latest release in the app store">Updated 2022-04-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-04-13</span> <span title="Latest release in the app store">Updated 2022-04-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Nicotine is an alarm app for spacing out (and hopefully decreasing) the intake of nicotine or other substances.</p>
 </div>
@@ -281,7 +281,7 @@ hide:
 <h2 class="app-name" id="app-62b3e47098768d000911de59"><a href="https://apps.rebble.io/en_US/application/62b3e47098768d000911de59">Western Ideals</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/gameblabla/western_ideals" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gameblabla.html" title="More from this developer">gameblabla</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-06-23</span> <span title="Latest release in the app store">Updated 2022-06-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2022-06-23</span> <span title="Latest release in the app store">Updated 2022-06-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Go on a fantastic journey with Bakaka, your trusty friend ! Witness dramatic events and chat with your friend !</p>
 </div>
@@ -347,7 +347,7 @@ hide:
 <h2 class="app-name" id="app-53e53cfad9e891f46e000179"><a href="https://apps.rebble.io/en_US/application/53e53cfad9e891f46e000179">Who I am for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/expositomarc/Who-I-am-for-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/expositomarc.html" title="More from this developer">expositomarc</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-08</span> <span title="Latest release in the app store">Updated 2014-08-30</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-08</span> <span title="Latest release in the app store">Updated 2014-08-30</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Identify your Pebble as it was your ID. Fill out all the fields using the iOS app and press synchronize to send your info to your Pebble. Don&#x27;t be afraid of losing your Pebble anymore!</p>
 </div>
@@ -413,7 +413,7 @@ hide:
 <h2 class="app-name" id="app-61288080085549ccb302c108"><a href="https://apps.repebble.com/61288080085549ccb302c108">WikiRadar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/danieleldjarn/WikiRadar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/daniel-e-v.html" title="More from this developer">Daniel E V</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-08</span> <span title="Latest release in the app store">Updated 2026-07-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-08</span> <span title="Latest release in the app store">Updated 2026-07-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">WikiRadar shows you Wikipedia articles about the places around you. SCAN — a list of nearby articles with distances, refreshed automatically as you move around. READ — full article intros on your…</p>
 </div>
@@ -501,7 +501,7 @@ hide:
 <h2 class="app-name" id="app-547e7f9ec252df95770000c6"><a href="https://apps.rebble.io/en_US/application/547e7f9ec252df95770000c6">Word Shake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/iamjake648/wordshake_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jake-schultz.html" title="More from this developer">Jake Schultz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-03</span> <span title="Latest release in the app store">Updated 2014-12-06</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-03</span> <span title="Latest release in the app store">Updated 2014-12-06</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Word Shake for Pebble is a great app to quickly learn new vocab in new languages! Simply shake your pebble to see a brand new word! Over 4,000 words to learn and 8 languages!</p>
 </div>
@@ -545,7 +545,7 @@ hide:
 <h2 class="app-name" id="app-571ff77ac46a52b6e9000006"><a href="https://apps.repebble.com/571ff77ac46a52b6e9000006">WorkTime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/crazycoder1999/worktime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dega1999.html" title="More from this developer">dega1999</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-26</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-26</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Do you want to be alerted when you can leave the office? Just 3 screens and you are done! I did it in my spare time.. nothing professional, just for fun!</p>
 </div>
@@ -600,7 +600,7 @@ hide:
 <h2 class="app-name" id="app-7ee7208cdc8c49a280326abd"><a href="https://apps.repebble.com/7ee7208cdc8c49a280326abd">Wrist AI</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
 <a class="app-source" href="https://github.com/deusaw/Pebble-Wrist-AI" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/asterwyn.html" title="More from this developer">Asterwyn</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-07-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-07-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Wrist AI — A Flexible LLM Client for Pebble Wrist AI lets you talk to any Large Language Model directly from your Pebble watch. Speak your question, get a response on your wrist. Your phone…</p>
 </div>
@@ -622,7 +622,7 @@ hide:
 <h2 class="app-name" id="app-58a14b0b0dfc32b76100021d"><a href="https://apps.rebble.io/en_US/application/58a14b0b0dfc32b76100021d">Wrist Compass</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/igorinov/pebble_wrist_compass" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ivan-gorinov.html" title="More from this developer">Ivan Gorinov</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-13</span> <span title="Latest release in the app store">Updated 2017-02-27</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-02-13</span> <span title="Latest release in the app store">Updated 2017-02-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Compass with needle and digital indicators</p>
 </div>
@@ -688,7 +688,7 @@ hide:
 <h2 class="app-name" id="app-6aae5837cf733a0009498c16"><a href="https://apps.repebble.com/6aae5837cf733a0009498c16">Wristcards</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/wristcards" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/1370" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-19</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-19</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">One Pebble watchapp for vocabulary drills, with the deck chosen on the phone. Dutch, French, German, Italian and Spanish are ready-made; any text file of cards will do. Load the app and use…</p>
 </div>
@@ -699,7 +699,7 @@ hide:
 <h2 class="app-name" id="app-c61d68498f25458ebc9a2ec6"><a href="https://apps.repebble.com/c61d68498f25458ebc9a2ec6">Wristcord</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/dot-Justin/Wristcord" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dotjustin.html" title="More from this developer">dotJustin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-06-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-06-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Discord on your wrist! Browse your servers, follow chats, and send a reply with your voice, right from Pebble Time 2. Heads up, Wristcord is a selfbot; by using it you accept that selfbotting is…</p>
 </div>
@@ -732,7 +732,7 @@ hide:
 <h2 class="app-name" id="app-54aabf29ef47e1e246000072"><a href="https://apps.repebble.com/54aabf29ef47e1e246000072">WunderPebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11</span></h2>
 <a class="app-source" href="https://github.com/jahdaic/WunderPebbleJS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jahdai-cintron.html" title="More from this developer">Jahdai Cintron</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-05</span> <span title="Latest release in the app store">Updated 2016-07-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-05</span> <span title="Latest release in the app store">Updated 2016-07-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An elegant and feature-filled Wunderlist client for your Pebble. View Lists and mark Tasks complete right on your wrist. I&#x27;m constantly adding new features. Visit my site and send me suggestions…</p>
 </div>
@@ -754,7 +754,7 @@ hide:
 <h2 class="app-name" id="app-55f3346c1e9927da45000015"><a href="https://apps.repebble.com/55f3346c1e9927da45000015">WWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/chuckwired/WWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chuckwired.html" title="More from this developer">chuckwired</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-11</span> <span title="Latest release in the app store">Updated 2015-09-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-09-11</span> <span title="Latest release in the app store">Updated 2015-09-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Essential stopwatch to keep track of your workout session! Start, stop and resume a session and review up to 5 previous sessions. Stopwatch only goes up to 1 hour maximum to encourage you to…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Steven Schmatz
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/steven-schmatz_52fecd72c7c81b6aaa00001e) · [GitHub (stevenschmatz)](https://github.com/stevenschmatz) · [Website (stevenschmatz.com)](http://www.stevenschmatz.com/)
 

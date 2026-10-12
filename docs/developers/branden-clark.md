@@ -13,7 +13,7 @@ hide:
 
 # Branden Clark
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/branden-clark_54440e55c7733b43f90000e9) · [GitHub (clarkb7)](https://github.com/clarkb7)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/branden-clark_54440
 <h2 class="app-name" id="app-5491ca9da34dfb129d0000fa"><a href="https://apps.repebble.com/5491ca9da34dfb129d0000fa">RPI Shuttle Schedule</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/clarkb7/Pebble_RPI_Shuttle_Schedule" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-17</span> <span title="Latest release in the app store">Updated 2017-02-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-17</span> <span title="Latest release in the app store">Updated 2017-02-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">View the RPI Shuttle Schedule on your Pebble</p>
 </div>

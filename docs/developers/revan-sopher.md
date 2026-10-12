@@ -13,7 +13,7 @@ hide:
 
 # Revan Sopher
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/revan-sopher_5439632ffe01ff7df0000218) · [GitHub (revan)](https://github.com/revan)
 

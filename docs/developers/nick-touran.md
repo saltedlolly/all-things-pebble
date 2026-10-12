@@ -13,7 +13,7 @@ hide:
 
 # Nick Touran
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a7749febaddf70009b25be8/1) · [GitHub (partofthething)](https://github.com/partofthething) · [Website (partofthething.com)](https://partofthething.com)
 

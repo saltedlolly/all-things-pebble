@@ -13,7 +13,7 @@ hide:
 
 # David Schneider
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-schneider_5571d089a5c273c80500004e) · [GitHub (dnschneid)](https://github.com/dnschneid)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-schneider_557
 <h2 class="app-name" id="app-5691bdb1f72963ac6500001a"><a href="https://apps.repebble.com/5691bdb1f72963ac6500001a">Email for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/dnschneid/pebblegmail" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-10</span> <span title="Latest release in the app store">Updated 2016-08-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2016-01-10</span> <span title="Latest release in the app store">Updated 2016-08-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Read email on your wrist! Email for Pebble lets you access your Gmail accounts without having to dig out your phone.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Braiba
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/braiba_5320f4f2c854efe3c6000163) · [GitHub (braiba)](https://github.com/braiba)
 

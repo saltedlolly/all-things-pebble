@@ -13,7 +13,7 @@ hide:
 
 # Tim Erwich
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-erwich_5612251a9af9909626000090) · [GitHub (ThinTim)](https://github.com/ThinTim)
 

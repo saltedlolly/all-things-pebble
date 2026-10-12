@@ -13,7 +13,7 @@ hide:
 
 # BobTheMadCow
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bobthemadcow_52ce95e067e4945a42000033) · [GitHub (BobTheMadCow)](https://github.com/BobTheMadCow)
 

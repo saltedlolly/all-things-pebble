@@ -13,7 +13,7 @@ hide:
 
 # Oscar R.C.
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/oscar-r-c_54885460602bcd8c2a000033) · [GitHub (oscarrc)](https://github.com/oscarrc) · [Website (oscarrc.tk)](http://oscarrc.tk)
 

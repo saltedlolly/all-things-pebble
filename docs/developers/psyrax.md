@@ -13,7 +13,7 @@ hide:
 
 # Psyrax
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/psyrax_54500432ba4430c8b200008a) · [GitHub (psyrax)](https://github.com/psyrax) · [Website (psyrax.github.io)](http://psyrax.github.io/terminalWatch/)
 

@@ -13,7 +13,7 @@ hide:
 
 # Safi
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/safi_5758bcda9bcb707d9c00000a) · [GitHub (apotox)](https://github.com/apotox) · [Website (iotroid.online)](https://www.iotroid.online)
 

@@ -13,7 +13,7 @@ hide:
 
 # lazydevs
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lazydevs_554c4a5c92dfd327380000c4) · [Codeberg (wristotle)](https://codeberg.org/wristotle) · [Website (wristotle.codeberg.page)](https://wristotle.codeberg.page/)
 

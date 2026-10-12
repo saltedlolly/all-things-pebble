@@ -13,7 +13,7 @@ hide:
 
 # Satragno Software
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/satragno-software_53a73e0a574522633400001a) · [GitHub (nicolassatragno)](https://github.com/nicolassatragno) · [Website (satragno.com)](http://satragno.com/dota2timer.html)
 

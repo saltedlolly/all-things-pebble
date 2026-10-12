@@ -13,7 +13,7 @@ hide:
 
 # davv47
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davv47_1e99e01092773fbbf3fc696c) · [GitHub (davv47)](https://github.com/davv47)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davv47_1e99e0109277
 <h2 class="app-name" id="app-b229dc1d5c514592b970629b"><a href="https://apps.repebble.com/b229dc1d5c514592b970629b">Dancing Dino</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/davv47/Pebble_Dino_Dance" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-08</span> <span title="Latest release in the app store">Updated 2026-04-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-08</span> <span title="Latest release in the app store">Updated 2026-04-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Dancing dino app (mostly made for my toddler).</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davv47_1e99e0109277
 <h2 class="app-name" id="app-7aa753337cf04ec89830e08b"><a href="https://apps.repebble.com/7aa753337cf04ec89830e08b">Analogue Time Arc</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/davv47/Analogue_Time_Arc" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-27</span> <span title="Latest release in the app store">Updated 2026-04-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-27</span> <span title="Latest release in the app store">Updated 2026-04-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Watchface that shows public event event calendars in an arc on the perimeter of the screen. Notes: - This only works on public calendar feeds (at the moment). You can create public calendar feeds…</p>
 </div>

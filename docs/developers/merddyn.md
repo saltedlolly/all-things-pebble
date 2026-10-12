@@ -13,7 +13,7 @@ hide:
 
 # Merddyn
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/merddyn_53fb5515994475d7f3000054) · [GitHub (pgbunce)](https://github.com/pgbunce)
 

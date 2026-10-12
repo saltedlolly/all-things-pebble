@@ -13,7 +13,7 @@ hide:
 
 # Ben Combee (@unwiredben)
 
-*3 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-combee-unwiredben_551338e88630986002000039) · [GitHub (unwiredben)](https://github.com/unwiredben) · [Website (combee.net)](https://www.combee.net/)
 

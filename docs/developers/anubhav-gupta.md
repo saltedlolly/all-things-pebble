@@ -13,7 +13,7 @@ hide:
 
 # Anubhav Gupta
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/579c99cf1482cd5d4b00033f/1) · [GitHub (anubhavgupta)](https://github.com/anubhavgupta)
 

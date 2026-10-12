@@ -13,7 +13,7 @@ hide:
 
 # Mark Johnson
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mark-johnson_bfedc85363580901697437a2) · [GitHub (marmarjohnson)](https://github.com/marmarjohnson)
 

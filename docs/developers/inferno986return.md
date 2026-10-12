@@ -13,7 +13,7 @@ hide:
 
 # Inferno986return
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/inferno986return_52f35c04d6907855b2000111) · [GitHub (inferno986return)](https://github.com/inferno986return)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/inferno986return_52
 <h2 class="app-name" id="app-54974a19754bc1c593000024"><a href="https://apps.repebble.com/54974a19754bc1c593000024">Pokétch Digital</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/inferno986return/poketch-digital" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-21</span> <span title="Latest release in the app store">Updated 2014-12-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-21</span> <span title="Latest release in the app store">Updated 2014-12-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pokétch Digital is a Pebble watchface designed to emulate the digital watchface used on the Pokétch watch in Pokémon Diamond/Pearl/Platinum. Currently at V1.0, it displays similarly to the Poketch…</p>
 </div>

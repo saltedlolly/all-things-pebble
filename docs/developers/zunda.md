@@ -13,7 +13,7 @@ hide:
 
 # zunda
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zunda_669dbd4a49087f5ce51c5e89) · [GitHub (zunda-pixel)](https://github.com/zunda-pixel)
 

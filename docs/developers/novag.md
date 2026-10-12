@@ -13,7 +13,7 @@ hide:
 
 # NovaG
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/novag_56a554a6fce0901b0600005d) · [GitHub (NovaGL)](https://github.com/NovaGL) · [Website (mobilenova.wordpress.com)](https://mobilenova.wordpress.com/2016/01/27/pebble-watch-faces/)
 

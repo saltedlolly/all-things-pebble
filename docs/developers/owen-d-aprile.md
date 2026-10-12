@@ -13,7 +13,7 @@ hide:
 
 # Owen D&\#x27;Aprile
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/owen-d-aprile_56b7b8c0ff77465cf7000035) · [GitHub (teddyfrozevelt)](https://github.com/teddyfrozevelt)
 

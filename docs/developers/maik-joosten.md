@@ -13,7 +13,7 @@ hide:
 
 # Maik Joosten
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maik-joosten_52b21995b70e1c762c000082) · [GitHub (MaikJoosten)](https://github.com/MaikJoosten) · [Website (maikjoosten.nl)](http://maikjoosten.nl)
 

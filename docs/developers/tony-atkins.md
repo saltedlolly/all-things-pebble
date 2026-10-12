@@ -13,7 +13,7 @@ hide:
 
 # Tony Atkins
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tony-atkins_679bbba532bc7d0009dd4fdc) · [GitHub (duhrer)](https://github.com/duhrer) · [Website (duhrer.github.io)](https://duhrer.github.io/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tony-atkins_679bbba
 <h2 class="app-name" id="app-67d405d0f4b49d00099ff85d"><a href="https://apps.repebble.com/67d405d0f4b49d00099ff85d">Vertin</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/duhrer/pebble-vertin-c" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-14</span> <span title="Latest release in the app store">Updated 2025-03-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-14</span> <span title="Latest release in the app store">Updated 2025-03-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">The second hand inverts the colours as it moves. The colours are configurable, and there&#x27;s an optional &quot;night mode&quot; you can configure to use different colours at night.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tony-atkins_679bbba
 <h2 class="app-name" id="app-67c9a27dd2acb301d72977c7"><a href="https://apps.repebble.com/67c9a27dd2acb301d72977c7">Sisyphus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/duhrer/pebble-sisyphus-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-06</span> <span title="Latest release in the app store">Updated 2025-03-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-06</span> <span title="Latest release in the app store">Updated 2025-03-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Sisyphus is the second hand, he climbs the mountain every minute, only to fall back below and start over.</p>
 </div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · **J** · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*13 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*13 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-5421ac37c6da7aeb0000018b"><a href="https://apps.repebble.com/5421ac37c6da7aeb0000018b">J&#x27;s Tea Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jarannilsen/PebbleTeaTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jaran-nilsen.html" title="More from this developer">Jaran Nilsen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-23</span> <span title="Latest release in the app store">Updated 2014-10-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2014-09-23</span> <span title="Latest release in the app store">Updated 2014-10-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Tea timer for your Pebble. Select your type of tea and the application will tell you the best temperature for the water and how long you should let your tea steep. Version 1.1: - Custom steeping…</p>
 </div>
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-5529cf1a05b83a307900009e"><a href="https://apps.repebble.com/5529cf1a05b83a307900009e">Jab</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/hongyuchen/jab" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/hongyu-chen.html" title="More from this developer">Hongyu Chen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-12</span> <span title="Latest release in the app store">Updated 2015-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-12</span> <span title="Latest release in the app store">Updated 2015-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Until now, measuring improvement and tracking performance for punch-based athletics were difficult tasks, measured only by the face of your opponents. Now with Jab, an app for the Pebble…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-56a49e1711d0acdd4700002a"><a href="https://apps.repebble.com/56a49e1711d0acdd4700002a">Jebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/edouardkleinhans/jebble_watchapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/edouard-kleinhans.html" title="More from this developer">Edouard Kleinhans</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-24</span> <span title="Latest release in the app store">Updated 2016-11-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-24</span> <span title="Latest release in the app store">Updated 2016-11-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Plugin pour permettre à votre montre Pebble de contrôler Jeedom (www.jeedom.fr)</p>
 </div>
@@ -127,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-55cd00b3197194813b000045"><a href="https://apps.repebble.com/55cd00b3197194813b000045">JumpRopeCounter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/freddiefujiwara/JumpRopeCounter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/fumikazu-fujiwara.html" title="More from this developer">Fumikazu Fujiwara</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-13</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-13</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">You can count your jump rope exercise now!</p>
 </div>

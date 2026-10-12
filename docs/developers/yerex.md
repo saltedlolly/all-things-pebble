@@ -13,7 +13,7 @@ hide:
 
 # yerex
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yerex_a69848ff9a9f1b9aa6b78ef5) · [GitHub (jerechinsky)](https://github.com/jerechinsky)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yerex_a69848ff9a9f1
 <h2 class="app-name" id="app-6f5289e6cd7f4ae7b666cb7f"><a href="https://apps.repebble.com/6f5289e6cd7f4ae7b666cb7f">Loading Cat Digital</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.5</span></h2>
 <a class="app-source" href="https://github.com/jerechinsky/loadingcat-digital" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-08</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-08</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A digital variant of &quot;loading cat&quot; by zbw / zbzbw. Really like the original, just wanted a digital clock too. Thanks to zbw for the watchface and cat artwork! - stacked hours and minutes, with…</p>
 </div>

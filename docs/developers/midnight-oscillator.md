@@ -13,7 +13,7 @@ hide:
 
 # Midnight Oscillator
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/midnight-oscillator_f337572cef4e9221cecbab5c) · [GitHub (coredevices)](https://github.com/coredevices)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/midnight-oscillator
 <h2 class="app-name" id="app-5f69c7104d554a09ac059281"><a href="https://apps.repebble.com/5f69c7104d554a09ac059281">Compass Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A compass-themed watchface where the red hour needle points north and the white minute needle points south. Features N/S/E/W cardinal labels, classic compass bezel with tick marks, and full-screen…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/midnight-oscillator
 <h2 class="app-name" id="app-003f0ed2b7c84ecfa57bca1a"><a href="https://apps.repebble.com/003f0ed2b7c84ecfa57bca1a">Line and Dot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-08</span> <span title="Latest release in the app store">Updated 2026-04-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-08</span> <span title="Latest release in the app store">Updated 2026-04-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Minimalist analog watchface with a white hour hand and red dot orbiting the dial edge. Colors are fully customizable via settings.</p>
 </div>

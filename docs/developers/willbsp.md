@@ -13,7 +13,7 @@ hide:
 
 # willbsp
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/willbsp_5609aa4ebcd03bd488000090) · [GitHub (willbsp)](https://github.com/willbsp)
 

@@ -13,7 +13,7 @@ hide:
 
 # Andrei Markeev
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrei-markeev_55955a42e26351be6b000036) · [Rebble App Store](https://apps.rebble.io/en_US/developer/55955a42e26351be6b000036/1) · [GitHub (andrei-markeev)](https://github.com/andrei-markeev)
 

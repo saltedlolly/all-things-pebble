@@ -13,7 +13,7 @@ hide:
 
 # Jeremy Payne
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/68ec6fc70709b7000797e3f8/1) · [GitHub (moddedBear)](https://github.com/moddedBear)
 

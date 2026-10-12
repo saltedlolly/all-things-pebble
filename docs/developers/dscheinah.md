@@ -13,7 +13,7 @@ hide:
 
 # Dscheinah
 
-*3 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dscheinah_5bef203e74e2a60001cef482) · [GitHub (dscheinah)](https://github.com/dscheinah)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dscheinah_5bef203e7
 <h2 class="app-name" id="app-620187963ea70300099815fa"><a href="https://apps.repebble.com/620187963ea70300099815fa">Pokémon Gamified Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v5.9</span></h2>
 <a class="app-source" href="https://github.com/dscheinah/pkmn-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1228" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-02-07</span> <span title="Latest release in the app store">Updated 2026-08-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2022-02-07</span> <span title="Latest release in the app store">Updated 2026-08-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a fan art inspired by Pokémon. The watch uses the battlefield to render date, time and various health statistics: - Enemy level increases with sleep time. - Own level increases with steps…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dscheinah_5bef203e7
 <h2 class="app-name" id="app-4392f34266ad403eadbe4247"><a href="https://apps.repebble.com/4392f34266ad403eadbe4247">Easter Egg</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/dscheinah/easter-egg-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/835" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Meet Eggy, the Easter Egg! 🥚 What starts as a plain white egg won’t stay that way for long. As you move, rest, and go about your day, Eggy evolves—unlocking new features and surprises along the…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dscheinah_5bef203e7
 <h2 class="app-name" id="app-67cab3bad2acb301fae26dee"><a href="https://apps.repebble.com/67cab3bad2acb301fae26dee">Get active!</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/dscheinah/get-active-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2025-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2025-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This app helps you to reach your health goals. It can be configured to notify you: - If you didn&#x27;t spent enough time active within the last hour - If you are about to not reach your daily step…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dscheinah_5bef203e7
 <h2 class="app-name" id="app-6802c8906b6dee0009d0cc36"><a href="https://apps.repebble.com/6802c8906b6dee0009d0cc36">Artface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/dscheinah/artface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-04-18</span> <span title="Latest release in the app store">Updated 2025-04-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-04-18</span> <span title="Latest release in the app store">Updated 2025-04-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watchface creates a random background out of up to 30 different shapes. It changes one shape every hour.</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dscheinah_5bef203e7
 <h2 class="app-name" id="app-6598a3a2e46ef1043582fff3"><a href="https://apps.repebble.com/6598a3a2e46ef1043582fff3">Metronome</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/dscheinah/metronome-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2024-01-06</span> <span title="Latest release in the app store">Updated 2024-01-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2024-01-06</span> <span title="Latest release in the app store">Updated 2024-01-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a haptic metronome app for Pebble devices. It gives you visual and vibration feedback to display the tempo. It is also possible to configure the time signature and tap in a tempo. The app…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dscheinah_5bef203e7
 <h2 class="app-name" id="app-6503faaa81ffd2007375874c"><a href="https://apps.repebble.com/6503faaa81ffd2007375874c">DQM Gamified Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/dscheinah/dqm-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-09-15</span> <span title="Latest release in the app store">Updated 2023-12-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2023-09-15</span> <span title="Latest release in the app store">Updated 2023-12-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I recently replayed Dragon Quest Monsters (aka Dragon Warrior Monsters) and decided to need a watchface for this. So here it is. It shows various watch related information: time, date, day of…</p>
 </div>

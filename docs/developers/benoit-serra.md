@@ -13,7 +13,7 @@ hide:
 
 # Benoit SERRA
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benoit-serra_5497e525a8c1252f2b0000c5) · [GitHub (Oupsman)](https://github.com/Oupsman)
 

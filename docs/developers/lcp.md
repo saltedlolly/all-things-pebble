@@ -13,7 +13,7 @@ hide:
 
 # LCP
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/60871ca15a17be0054ba8699/1) · [GitHub (hellcp)](https://github.com/hellcp) · [Website (lcp.world)](https://lcp.world)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/60871ca15a17be0
 <h2 class="app-name" id="app-67c83368d2acb30009a3c841"><a href="https://apps.rebble.io/en_US/application/67c83368d2acb30009a3c841">CutieFur</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/hellcp/cutiefur" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1045" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-05</span> <span title="Latest release in the app store">Updated 2026-06-11</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MPL-2.0</span> <span title="First published in the app store">Released 2025-03-05</span> <span title="Latest release in the app store">Updated 2026-06-11</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watchface inspired by waniwatch by Mari Okada, with new set of animals and plenty of customizability.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # dysseus
 
-*4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d55366949234e464067ed224) · [GitHub (dysseus-pascal)](https://github.com/dysseus-pascal)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d5536694923
 <h2 class="app-name" id="app-04848268a8b24e949f4eb832"><a href="https://apps.repebble.com/04848268a8b24e949f4eb832">SupCycle</a> <span class="app-version" title="Latest version" data-search-exclude>v0.14.0</span></h2>
 <a class="app-source" href="https://github.com/dysseus-pascal/SupCycle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Präparate im Blick behalten: was heute ansteht, und wo die zyklischen gerade in ihrem Zyklus stehen. Die Oberfläche folgt der Sprache der Uhr (Deutsch und Englisch, Englisch als Rückfall) und dem…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d5536694923
 <h2 class="app-name" id="app-e5b37daa64c24c5cbe11dd05"><a href="https://apps.repebble.com/e5b37daa64c24c5cbe11dd05">Drinktervall</a> <span class="app-version" title="Latest version" data-search-exclude>v1.19.0</span></h2>
 <a class="app-source" href="https://github.com/dysseus-pascal/Drinktervall" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Drinking reminder app with Timeline integration and a cute animation. Stay Hydrated my friends!</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d5536694923
 <h2 class="app-name" id="app-1f02276078b84a2e861d9e40"><a href="https://apps.repebble.com/1f02276078b84a2e861d9e40">Flynformer</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7.0</span></h2>
 <a class="app-source" href="https://github.com/dysseus-pascal/Flynformer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-14</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-09-14</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Type the flight number on the watch. No hunting through the phone app: two letters, up to four digits, done. It stays until you change it. Meet Flyn — your flight companion. Three pages, in the…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d5536694923
 <h2 class="app-name" id="app-00e60e51de9047b68241bcb0"><a href="https://apps.repebble.com/00e60e51de9047b68241bcb0">ChronoKit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/dysseus-pascal/ChronoKit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Stopwatch and Timer in one app</p>
 </div>

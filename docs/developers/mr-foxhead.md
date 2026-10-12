@@ -13,7 +13,7 @@ hide:
 
 # Mr.Foxhead
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mr-foxhead_55eb67e6cd182cd18d000075) · [GitHub (MrFoxhead)](https://github.com/MrFoxhead)
 

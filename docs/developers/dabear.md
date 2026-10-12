@@ -13,21 +13,37 @@ hide:
 
 # dabear
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_6e1072e4037ce66aa33da174) · [GitHub (dabear)](https://github.com/dabear)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="luped cgm" data-released="2026-10-12" data-updated="2026-10-12">
+<a class="app-shot" href="https://apps.repebble.com/d47105a3c7c1489895b067ff" data-search-exclude><img src="../images/apps/d47105a3c7c1489895b067ff.png" alt="Luped CGM" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d47105a3c7c1489895b067ff"><a href="https://apps.repebble.com/d47105a3c7c1489895b067ff">Luped CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<a class="app-source" href="https://github.com/dabear/CrimsonBearPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A Loop-styled CGM watchface for Pebble Time 2 and Pebble Round 2. Requires a direct watch connection from a supported iPhone app such as Loop or Trio; the watchface has no Pebble app settings and…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="crimsonbear cgm" data-released="2026-08-24" data-updated="2026-09-08">
 <a class="app-shot" href="https://apps.repebble.com/ebc3f63147e6481599da4b8e" data-search-exclude><img src="../images/apps/ebc3f63147e6481599da4b8e.png" alt="CrimsonBear Cgm" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-ebc3f63147e6481599da4b8e"><a href="https://apps.repebble.com/ebc3f63147e6481599da4b8e">CrimsonBear Cgm</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.19</span></h2>
 <a class="app-source" href="https://github.com/dabear/CrimsonBearPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-09-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-09-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A bear-themed Nightscout CGM watchface for Pebble Time 2 and Pebble Round 2, with mg/dL and mmol/L support, configurable thresholds, trend data, battery status, and an optional full-screen glucose…</p>
 </div>

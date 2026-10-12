@@ -13,7 +13,7 @@ hide:
 
 # Yorks0n
 
-*5 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yorks0n_692a907686176a0009926c79) · [GitHub (Yorks0n)](https://github.com/Yorks0n) · [Website (blog.yorks0n.com)](https://blog.yorks0n.com/)
 

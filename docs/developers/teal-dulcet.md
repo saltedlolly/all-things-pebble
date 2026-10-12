@@ -13,7 +13,7 @@ hide:
 
 # Teal Dulcet
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/teal-dulcet_531f58574b9316c44f00032f) · [GitHub (tdulcet)](https://github.com/tdulcet) · [Website (tealdulcet.com)](https://tealdulcet.com/)
 

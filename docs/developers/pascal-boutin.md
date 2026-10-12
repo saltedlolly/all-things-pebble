@@ -13,7 +13,7 @@ hide:
 
 # Pascal Boutin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pascal-boutin_535d35092b05cb4f3f0001ba) · [GitHub (pboutin)](https://github.com/pboutin)
 

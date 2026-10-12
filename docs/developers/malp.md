@@ -13,7 +13,7 @@ hide:
 
 # Malp
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/malp_55b276c33dcdb0c7c5000069) · [GitHub (Malpp)](https://github.com/Malpp)
 

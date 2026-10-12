@@ -13,7 +13,7 @@ hide:
 
 # Bodnár István
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bodn-r-istv-n_5529be3fdb701883320000a7) · [GitHub (bodnaristvan)](https://github.com/bodnaristvan) · [Website (bodnaristvan.github.io)](https://bodnaristvan.github.io/pebble-diet-reminder/)
 

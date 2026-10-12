@@ -13,7 +13,7 @@ hide:
 
 # Brooman Inks
 
-*6 watchfaces and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brooman-inks_44b97418cf47663c00fb67bc) · [GitHub (brooks2564)](https://github.com/brooks2564)
 

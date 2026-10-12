@@ -13,7 +13,7 @@ hide:
 
 # Tjeerd Hans
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tjeerd-hans_54d107b7699bce72d80000bb) · [GitHub (tjeerdhans)](https://github.com/tjeerdhans)
 

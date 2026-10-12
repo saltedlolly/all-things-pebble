@@ -13,7 +13,7 @@ hide:
 
 # David Padilla
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-padilla_52f084b03fbdba0ccb001df8) · [GitHub (dabit)](https://github.com/dabit)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-padilla_52f08
 <h2 class="app-name" id="app-5615bbe67e6126a558000042"><a href="https://apps.repebble.com/5615bbe67e6126a558000042">GymSpotter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/dabit/gymspotter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-08</span> <span title="Latest release in the app store">Updated 2015-12-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-08</span> <span title="Latest release in the app store">Updated 2015-12-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Timer app that helps you manage rest time between sets. Set your preferred rest time and when you are done with your shake the watch a bit and let the timer begin. When the timer is done your…</p>
 </div>

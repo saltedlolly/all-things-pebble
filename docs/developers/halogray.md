@@ -13,7 +13,7 @@ hide:
 
 # Halogray
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/halogray_550dfba660dc26d635000079) · [GitHub (s0j)](https://github.com/s0j) · [Website (halogray.com)](https://halogray.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # DylanGrl
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58e3541c6ca387fc52000959/1) · [GitHub (DylanGrl)](https://github.com/DylanGrl) · [Website (dylangrl.github.io)](https://dylangrl.github.io/Pebble_CoinMarket/)
 

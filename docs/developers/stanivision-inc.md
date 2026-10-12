@@ -13,7 +13,7 @@ hide:
 
 # Stanivision Inc.
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52d4acb6d8d9dfc9e000002a/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/stanivision-inc_52d4acb6d8d9dfc9e000002a) · [GitHub (tertty)](https://github.com/tertty) · [GitHub (TerttyCurlyfries)](https://github.com/TerttyCurlyfries) · [Website (stanivision.com)](https://stanivision.com)
 

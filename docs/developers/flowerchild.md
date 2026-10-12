@@ -13,7 +13,7 @@ hide:
 
 # flowerChild
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flowerchild_55048ccd1744586d5d000090) · [GitHub (DaviesH79)](https://github.com/DaviesH79)
 

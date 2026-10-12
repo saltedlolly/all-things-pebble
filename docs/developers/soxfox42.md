@@ -13,7 +13,7 @@ hide:
 
 # soxfox42
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soxfox42_67de4c3289abe700095df699) · [GitHub (soxfox42)](https://github.com/soxfox42) · [Website (soxfox.me)](https://soxfox.me/)
 

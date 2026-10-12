@@ -13,7 +13,7 @@ hide:
 
 # FG
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fg_53e39e90115605c0220000be) · [GitHub (cfg1)](https://github.com/cfg1)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fg_53e39e90115605c0
 <h2 class="app-name" id="app-5569c2084bebd0b90400000e"><a href="https://apps.repebble.com/5569c2084bebd0b90400000e">Multifunctional 7 Segment</a> <span class="app-version" title="Latest version" data-search-exclude>v16.1</span></h2>
 <a class="app-source" href="https://github.com/cfg1/pebble-mss" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1235" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-30</span> <span title="Latest release in the app store">Updated 2026-08-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-05-30</span> <span title="Latest release in the app store">Updated 2026-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Seven Segment watchface which displays the follwing additional info: - time including seconds (sec. can be disabled or displayed on shaking) - weather (temperature/conditions/wind…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fg_53e39e90115605c0
 <h2 class="app-name" id="app-55d1f737718c7d376900000a"><a href="https://apps.repebble.com/55d1f737718c7d376900000a">Metar 7 Segment for Pilots</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/cfg1/pebble-m7s-wf-metar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-17</span> <span title="Latest release in the app store">Updated 2016-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-17</span> <span title="Latest release in the app store">Updated 2016-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watchface is a branch of Multifunctional 7 Segment which uses METAR weather data from AVWX and openweathermap.org simultanously. It is made mainly for day-to-day usage by pilots. The…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fg_53e39e90115605c0
 <h2 class="app-name" id="app-55cb4982ce49c23880000064"><a href="https://apps.repebble.com/55cb4982ce49c23880000064">Battery Logger</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/cfg1/pebble-battery_logger" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-12</span> <span title="Latest release in the app store">Updated 2015-09-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-12</span> <span title="Latest release in the app store">Updated 2015-09-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">App to measure and log battery runtime on the pebble without the phone.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fg_53e39e90115605c0
 <h2 class="app-name" id="app-557323107d6f3d5c37000067"><a href="https://apps.repebble.com/557323107d6f3d5c37000067">Bookmarks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/cfg1/pebble-bookmarks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-06</span> <span title="Latest release in the app store">Updated 2015-06-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-06-06</span> <span title="Latest release in the app store">Updated 2015-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchapp that can save your page numbers when reading books. No Bluetooth connection required. Book names can be edited.</p>
 </div>

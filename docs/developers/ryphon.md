@@ -13,7 +13,7 @@ hide:
 
 # Ryphon
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryphon_5b55fe4fca1d16000148cff3) · [Website (dragonfruit.dev)](https://dragonfruit.dev)
 

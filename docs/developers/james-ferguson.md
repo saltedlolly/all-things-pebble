@@ -13,7 +13,7 @@ hide:
 
 # James Ferguson
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-ferguson_5596f01af67e4a20bd00007f) · [GitHub (WJCFerguson)](https://github.com/WJCFerguson)
 

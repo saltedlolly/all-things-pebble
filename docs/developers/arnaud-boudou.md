@@ -13,7 +13,7 @@ hide:
 
 # Arnaud Boudou
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/arnaud-boudou_54cd0d4a66e305ca40000002) · [GitHub (aboudou)](https://github.com/aboudou) · [Website (goddess-gate.com)](https://goddess-gate.com/projects/en)
 

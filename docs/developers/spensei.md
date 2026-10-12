@@ -13,7 +13,7 @@ hide:
 
 # spensei
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/690e3048ef7d720008888f2b/1) · [GitHub (MatiPendino)](https://github.com/MatiPendino)
 

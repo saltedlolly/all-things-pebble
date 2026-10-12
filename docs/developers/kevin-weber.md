@@ -13,7 +13,7 @@ hide:
 
 # Kevin Weber
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-weber_53220c40a3f12b6331000032) · [GitHub (profbetis)](https://github.com/profbetis) · [Website (bluevisual.tv)](http://bluevisual.tv)
 

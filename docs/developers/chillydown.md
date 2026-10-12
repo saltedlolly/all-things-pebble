@@ -13,7 +13,7 @@ hide:
 
 # ChillyDown
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chillydown_14ccca880682209b692799c9) · [GitHub (cdlenfert)](https://github.com/cdlenfert)
 

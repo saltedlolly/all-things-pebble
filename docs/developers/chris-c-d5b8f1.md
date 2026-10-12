@@ -13,7 +13,7 @@ hide:
 
 # Chris C
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-c_f072419a7c00b02e2e3351ba) · [GitHub (chrisc123)](https://github.com/chrisc123)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-c_f072419a7c0
 <h2 class="app-name" id="app-702bd7b27ec8456280b5ab7a"><a href="https://apps.repebble.com/702bd7b27ec8456280b5ab7a">CoasterWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/chrisc123/coasterwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-28</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-28</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">CoasterWatch brings live theme park queue times and wait-time trends right to your wrist, powered by Queue-Times.com. Yes, it is vide-coded - sorry-not-sorry 🙂. The app needs to stay open on your…</p>
 </div>

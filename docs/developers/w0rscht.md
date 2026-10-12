@@ -13,7 +13,7 @@ hide:
 
 # W0rscht
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/w0rscht_55f450f5021cb976a2000088) · [GitHub (W0rscht)](https://github.com/W0rscht) · [Website (pr0gramm.com)](http://pr0gramm.com/user/W0rscht)
 

@@ -13,7 +13,7 @@ hide:
 
 # Neale Pickett
 
-*6 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neale-pickett_5550deeae979af7f6f000047) · [GitHub (nealey)](https://github.com/nealey)
 

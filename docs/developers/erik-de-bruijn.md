@@ -13,7 +13,7 @@ hide:
 
 # Erik de Bruijn
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erik-de-bruijn_52f005973fbdba4ebc000018) · [GitHub (ErikDeBruijn)](https://github.com/ErikDeBruijn) · [Website (erikdebruijn.nl)](http://www.erikdebruijn.nl/)
 

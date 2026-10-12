@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · **U** · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*25 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*25 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -69,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6abf59c037b3780009304810" data-search-exclude><img src="../images/apps/6abf59c037b3780009304810.gif" alt="Ultra" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6abf59c037b3780009304810"><a href="https://apps.repebble.com/6abf59c037b3780009304810">Ultra</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
+<h2 class="app-name" id="app-6abf59c037b3780009304810"><a href="https://apps.repebble.com/6abf59c037b3780009304810">Ultra</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/ultra-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/1398" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">An analog watchface for Pebble with eight complications you choose yourself. Four gauges curve around the corners, four subdials sit inside the dial, and every one is yours to swap. - Eight slots…</p>
 </div>
@@ -215,7 +215,7 @@ hide:
 <h2 class="app-name" id="app-6a7686ad1772b200090ffb34"><a href="https://apps.rebble.io/en_US/application/6a7686ad1772b200090ffb34">UQM Pilot Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble_uqm_pilot_face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/daktak.html" title="More from this developer">Daktak</a> · <a href="https://forum.rebble.io/t/1218" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-08</span> <span title="Latest release in the app store">Updated 2026-08-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-08</span> <span title="Latest release in the app store">Updated 2026-08-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface showing pilots from the Ur Quan Masters along with the pilots name. Configurable</p>
 </div>
@@ -226,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-5b01f9eaf385887700000bc2"><a href="https://apps.rebble.io/en_US/application/5b01f9eaf385887700000bc2">UQM Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble_uqm_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/daktak.html" title="More from this developer">Daktak</a> · <a href="https://forum.rebble.io/t/1044" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-05-20</span> <span title="Latest release in the app store">Updated 2026-06-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-05-20</span> <span title="Latest release in the app store">Updated 2026-06-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Ships from The Ur-Quan Masters as second, minute or hour hand. http://sc2.sourceforge.net/</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-c8134a4e1ea84e7293abb0e6"><a href="https://apps.repebble.com/c8134a4e1ea84e7293abb0e6">UQM_Pilot_Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/david-barrett/pebble_uqm_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dabar.html" title="More from this developer">dabar</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-10</span> <span title="Latest release in the app store">Updated 2026-04-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-10</span> <span title="Latest release in the app store">Updated 2026-04-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface showing pilots from the Ur Quan Masters Pilot image changes every minute</p>
 </div>
@@ -256,10 +256,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/2456a7484f0844c7b7266677" data-search-exclude><img src="../images/apps/2456a7484f0844c7b7266677.png" alt="US Soccer Clubs" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2456a7484f0844c7b7266677"><a href="https://apps.repebble.com/2456a7484f0844c7b7266677">US Soccer Clubs</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-2456a7484f0844c7b7266677"><a href="https://apps.repebble.com/2456a7484f0844c7b7266677">US Soccer Clubs</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://coppermothsoftware.com" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/copper-moth-software.html" title="More from this developer">Copper Moth Software</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-dev">by <a href="../developers/popoff-software.html" title="More from this developer">PopOff Software</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Follow your MLS, USL Championship or USL League One club from your wrist. In the settings, pick your league, then your club, then a view: - Team: club logo, position (in your conference, where the…</p>
 </div>

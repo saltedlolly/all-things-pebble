@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · **F** · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*123 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*123 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-4a2a52d2490b4e9a8fd66073"><a href="https://apps.repebble.com/4a2a52d2490b4e9a8fd66073">F-84W</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/chrislewicki/F-84W" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chris-lewicki.html" title="More from this developer">Chris Lewicki</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A (mostly) faithful recreation of the Casio F-84W, the Japan-exclusive, and much better looking, older brother of the classic F-91W. Just like the real watch, it can chime at the top of every…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-fe490689d3a84fe49f1cbb10"><a href="https://apps.repebble.com/fe490689d3a84fe49f1cbb10">Faceoff Remix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/cvuorinen/pebble-faceoff" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cvuorinen.html" title="More from this developer">cvuorinen</a> · <a href="https://forum.rebble.io/t/1352" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-3-Clause</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watchface that is a &quot;Remix&quot; of a watchface called &quot;Faceoff&quot; (inspired by &quot;versus&quot; screens) made by ollien. Credits to ollien for the original idea, and for releasing it as open source…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-55f60597701b3486bd000025"><a href="https://apps.repebble.com/55f60597701b3486bd000025">Fancy Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/johnmillage/FancyFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jmillage.html" title="More from this developer">JMillage</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-13</span> <span title="Latest release in the app store">Updated 2015-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-13</span> <span title="Latest release in the app store">Updated 2015-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A nice looking watchface. Shows time, date, battery life (right circle), compass direction, temperature, amount of cloud cover(left circle), and Bluetooth status (line under pebble emblem). Shake…</p>
 </div>
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-54d05f9f0782b83773000087"><a href="https://apps.repebble.com/54d05f9f0782b83773000087">feel</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/garyduong/feel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gary-duong.html" title="More from this developer">Gary Duong</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-03</span> <span title="Latest release in the app store">Updated 2015-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-03</span> <span title="Latest release in the app store">Updated 2015-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">feel is a simple weather-status watchface. Useful for active atheletes, meteorologists, weather nerds, and anyone who wants to know why the weather feels a certain way. The temperature is shown on…</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-5299a7e6e627ce615300006f"><a href="https://apps.repebble.com/5299a7e6e627ce615300006f">FEZ</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1.0</span></h2>
 <a class="app-source" href="https://github.com/exe44/pebble-fez" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/exe.html" title="More from this developer">exe</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by the logo of wonderful game &quot;FEZ&quot;!</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-52a8bf5bc7faf7590f00000a"><a href="https://apps.repebble.com/52a8bf5bc7faf7590f00000a">Filipino Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/ihtnc/Pebble-FilipinoTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ihtnc.html" title="More from this developer">ihtnc</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-11</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-11</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A text watch face for the Philippine&#x27;s national language -- Filipino. Some settings are configurable via the Pebble phone app.</p>
 </div>
@@ -325,7 +325,7 @@ hide:
 <h2 class="app-name" id="app-556e7b93751615c64c000085"><a href="https://apps.repebble.com/556e7b93751615c64c000085">Fire Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jmlaitpebble/fireface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jeff-lait.html" title="More from this developer">Jeff Lait</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-03</span> <span title="Latest release in the app store">Updated 2015-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-03</span> <span title="Latest release in the app store">Updated 2015-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Displays the time as flames that rise and fade upwards. Yes, this will drain your battery.</p>
 </div>
@@ -369,7 +369,7 @@ hide:
 <h2 class="app-name" id="app-55becb1b505cd70307000096"><a href="https://apps.repebble.com/55becb1b505cd70307000096">FirefoxWatchface-Black</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/j796160836/FireFoxWatchFace-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/johnnyworks.html" title="More from this developer">JohnnyWorks</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-03</span> <span title="Latest release in the app store">Updated 2015-08-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-03</span> <span title="Latest release in the app store">Updated 2015-08-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Firefox style watchface. --- Mozilla produces many products such as the Firefox, Thunderbird, Firefox OS. (Photo sketched by Jon Hicks Nov.2007 concept logo) http://goo.gl/uJxgDU</p>
 </div>
@@ -380,7 +380,7 @@ hide:
 <h2 class="app-name" id="app-55beb74d39209afe4800006c"><a href="https://apps.repebble.com/55beb74d39209afe4800006c">FirefoxWatchface-White</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/j796160836/FireFoxWatchFace-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/johnnyworks.html" title="More from this developer">JohnnyWorks</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-03</span> <span title="Latest release in the app store">Updated 2015-08-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-03</span> <span title="Latest release in the app store">Updated 2015-08-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Firefox style watchface. --- Mozilla produces many products such as the Firefox, Thunderbird, Firefox OS. (Photo sketched by Jon Hicks Nov.2007 concept logo) http://goo.gl/uJxgDU</p>
 </div>
@@ -457,7 +457,7 @@ hide:
 <h2 class="app-name" id="app-55562528078ad333250000bd"><a href="https://apps.repebble.com/55562528078ad333250000bd">FishTank</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/coreyonfire/FishTank" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/coreyonfire.html" title="More from this developer">coreyonfire</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-15</span> <span title="Latest release in the app store">Updated 2015-09-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-15</span> <span title="Latest release in the app store">Updated 2015-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple watchface that&#x27;s designed to look like a fishtank. You can configure the number of goldfish swimming around as well as how fast they swim.</p>
 </div>
@@ -479,7 +479,7 @@ hide:
 <h2 class="app-name" id="app-690e420aafb4ca00099364fe"><a href="https://apps.rebble.io/en_US/application/690e420aafb4ca00099364fe">Fitzface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/devindudeman/fitzface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/fitzsky-inc.html" title="More from this developer">Fitzsky Inc</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-07</span> <span title="Latest release in the app store">Updated 2025-11-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-07</span> <span title="Latest release in the app store">Updated 2025-11-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">FitzFace – High-Density Data Watchface A feature-packed Pebble watchface that brings weather, transit, and environmental data to your wrist in a compact, glanceable format. Displays current…</p>
 </div>
@@ -655,7 +655,7 @@ hide:
 <h2 class="app-name" id="app-276ed3773d8548c09b372204"><a href="https://apps.repebble.com/276ed3773d8548c09b372204">Flipper Zero</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/dnnsmnstrr/pebble-flipper" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dennis-muensterer.html" title="More from this developer">Dennis Muensterer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-07-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-07-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Flipper on your wrist</p>
 </div>
@@ -842,7 +842,7 @@ hide:
 <h2 class="app-name" id="app-55bed9ed39209aec5f000083"><a href="https://apps.repebble.com/55bed9ed39209aec5f000083">Foxmosa Watchface (MozTW)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/j796160836/FoxmosaWatchFace-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/johnnyworks.html" title="More from this developer">JohnnyWorks</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-03</span> <span title="Latest release in the app store">Updated 2015-08-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-03</span> <span title="Latest release in the app store">Updated 2015-08-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Foxmosa is mascot of Mozilla Taiwan Community. Mozilla produces many products such as the Firefox, Thunderbird, Firefox OS. Picture designed by ECBp + Tatit + Indigo + Irvin (cc:by-nc-sa) MozTW…</p>
 </div>
@@ -864,7 +864,7 @@ hide:
 <h2 class="app-name" id="app-5485be77c1f41bcadd00005b"><a href="https://apps.repebble.com/5485be77c1f41bcadd00005b">Fredsistance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dcarryer/fredsistance" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-carryer.html" title="More from this developer">David Carryer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-08</span> <span title="Latest release in the app store">Updated 2014-12-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-12-08</span> <span title="Latest release in the app store">Updated 2014-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Do you play Ingress? Are you a member of the Resistance? You should be. This simple watchface was developed to showcase the Fredericksburg Resistance, a group of dedicated agents centered in…</p>
 </div>
@@ -919,7 +919,7 @@ hide:
 <h2 class="app-name" id="app-d9fc15a8f87746b7ba01f6ca"><a href="https://apps.repebble.com/d9fc15a8f87746b7ba01f6ca">From Here</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/globe-and-atlas/from-here" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/daniel-bally.html" title="More from this developer">Daniel Bally</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Your location is the start. At 10:42 you are 10 degrees 42 minutes away along the direction you chose; the face shows where that is on a map, names the place, and tells you which town comes next…</p>
 </div>
@@ -930,7 +930,7 @@ hide:
 <h2 class="app-name" id="app-53666f0114acdb643000007f"><a href="https://apps.repebble.com/53666f0114acdb643000007f">Full Circle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/dunamis/pebble/tree/master/watchfaces/fullcircle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chris.html" title="More from this developer">chris</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-04</span> <span title="Latest release in the app store">Updated 2014-05-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-04</span> <span title="Latest release in the app store">Updated 2014-05-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A clean and intuitive watchface that shows the minutes as a progressing circle, with the hour in text in the center. Shake or tap your Pebble to view the date instead of the hour.</p>
 </div>
@@ -1007,7 +1007,7 @@ hide:
 <h2 class="app-name" id="app-556d94d2ab161f3ce10000bc"><a href="https://apps.repebble.com/556d94d2ab161f3ce10000bc">futura-gary</a> <span class="app-version" title="Latest version" data-search-exclude>v3.4</span></h2>
 <a class="app-source" href="https://github.com/garysleet/futura-gary" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gary-sleet.html" title="More from this developer">Gary Sleet</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-02</span> <span title="Latest release in the app store">Updated 2015-06-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-02</span> <span title="Latest release in the app store">Updated 2015-06-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Crammed as much information as I could onto the watch face, and added many power management features. The weather symbol next to the date is the current conditions. The 5 symbols along the bottom…</p>
 </div>
@@ -1095,7 +1095,7 @@ hide:
 <h2 class="app-name" id="app-54c512a98e136b17c5000029"><a href="https://apps.repebble.com/54c512a98e136b17c5000029">Fuzzy French modern</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/iznogoud765/Pebble_Face_Fuzzy_FR_Modern" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/iznogoud.html" title="More from this developer">Iznogoud</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-25</span> <span title="Latest release in the app store">Updated 2015-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-01-25</span> <span title="Latest release in the app store">Updated 2015-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Fuzzy time in French, updates every 5 minutes - Shows current time and date in french in the bottom part - Shows current battery level in left upper part, with charging indicator - Shows bluetooth…</p>
 </div>
@@ -1106,7 +1106,7 @@ hide:
 <h2 class="app-name" id="app-54f5b09813cdff8597000036"><a href="https://apps.repebble.com/54f5b09813cdff8597000036">Fuzzy French modern Black</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/iznogoud765/Pebble_Face_Fuzzy_FR_Modern/tree/black" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/iznogoud.html" title="More from this developer">Iznogoud</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-03</span> <span title="Latest release in the app store">Updated 2015-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-03-03</span> <span title="Latest release in the app store">Updated 2015-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Horloge à logique floue ! - heure à 5 minutes près, affichée en texte avec une police sympa. - animation à chaque modification ! - heure précise et date en bas d&#x27;écran - niveau de charge en haut à…</p>
 </div>
@@ -1161,7 +1161,7 @@ hide:
 <h2 class="app-name" id="app-551dc0c7cdee89e0f600007a"><a href="https://apps.repebble.com/551dc0c7cdee89e0f600007a">Fuzzy Modern</a> <span class="app-version" title="Latest version" data-search-exclude>v3.01</span></h2>
 <a class="app-source" href="https://github.com/iznogoud765/Pebble_Face_Fuzzy_Modern_i18n" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/iznogoud.html" title="More from this developer">Iznogoud</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-02</span> <span title="Latest release in the app store">Updated 2015-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-02</span> <span title="Latest release in the app store">Updated 2015-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Fuzzy Time with languages supported by Pebble : English, Spanish, German, French Also supports colors for Pebble Time. settings : - change background (dark or light) - text alignment - 12h/24h for…</p>
 </div>
@@ -1183,7 +1183,7 @@ hide:
 <h2 class="app-name" id="app-52ef7ab0c503c88bdf00001a"><a href="https://apps.repebble.com/52ef7ab0c503c88bdf00001a">Fuzzy Text International</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
 <a class="app-source" href="https://github.com/hallettj/Fuzzy-Text-International" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jesse-hallett.html" title="More from this developer">Jesse Hallett</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2014-02-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2014-02-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Fuzzy Text watchface with support for six languages. The elegance of the Text Watch with the natural language of Fuzzy Time. Supported languages: - English - French - German - Norwegian - Spanish…</p>
 </div>
@@ -1216,7 +1216,7 @@ hide:
 <h2 class="app-name" id="app-a77242a455c04f94a667dbdf"><a href="https://apps.repebble.com/a77242a455c04f94a667dbdf">Fuzzy Text Two</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/gloriousCode/fuzzy-text-international-time2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gloriouscode.html" title="More from this developer">gloriousCode</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-12</span> <span title="Latest release in the app store">Updated 2026-07-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-12</span> <span title="Latest release in the app store">Updated 2026-07-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An updated version of fuzzy text for new watches + colours!</p>
 </div>
@@ -1282,7 +1282,7 @@ hide:
 <h2 class="app-name" id="app-57711a746c2104f4b30001af"><a href="https://apps.repebble.com/57711a746c2104f4b30001af">Fuzzy Time Random</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/edward88/pebbletime-fuzzy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/awesomeinred.html" title="More from this developer">AwesomeInRed</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-27</span> <span title="Latest release in the app store">Updated 2016-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-06-27</span> <span title="Latest release in the app store">Updated 2016-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays a random of three variations of &quot;fuzzy&quot; time with a minimalist style battery level display Feedback and suggestions are always welcome!</p>
 </div>
@@ -1293,7 +1293,7 @@ hide:
 <h2 class="app-name" id="app-52f0e023a0cb6a3d150003e9"><a href="https://apps.repebble.com/52f0e023a0cb6a3d150003e9">Fuzzy Time UK</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/digitalraven/fuzzy_uk" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/stew-wilson.html" title="More from this developer">Stew Wilson</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-04</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-04</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A combination of Fuzzy Time and Simplicity, using UK time descriptions (such as &quot;past&quot; rather than &quot;after&quot;). Based on the &quot;jps British&quot; watchface, converted to SDK 2.0</p>
 </div>
@@ -1348,7 +1348,7 @@ hide:
 <h2 class="app-name" id="app-53f85ecf36d7c0ae190000c9"><a href="https://apps.repebble.com/53f85ecf36d7c0ae190000c9">FuzzyTRwCal</a> <span class="app-version" title="Latest version" data-search-exclude>v7.0</span></h2>
 <a class="app-source" href="https://github.com/ersindurna/FuzzyTurkishWithCalendarLoc" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ersin-durna.html" title="More from this developer">Ersin Durna</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-23</span> <span title="Latest release in the app store">Updated 2015-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-23</span> <span title="Latest release in the app store">Updated 2015-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">New Design with Location and Weather info PLUS Bluetooth connection status icon (if out ouf range vibration), Battery (both as a number and icon) and digital clock</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # JP&\#x27;Studio
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jp-studio_52cb358b6e5f70cd64000085) · [GitHub (jpca)](https://github.com/jpca) · [Website (jppost.fr)](http://www.jppost.fr/jpstudio/jptris)
 

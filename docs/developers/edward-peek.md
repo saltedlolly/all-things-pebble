@@ -13,7 +13,7 @@ hide:
 
 # Edward Peek
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward-peek_52f9cdb957e7c27b29000137) · [GitHub (edpenz)](https://github.com/edpenz) · [Website (edpe.nz)](https://edpe.nz/software/solar)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward-peek_52f9cdb
 <h2 class="app-name" id="app-52f9da3f260ca5d3ab000135"><a href="https://apps.repebble.com/52f9da3f260ca5d3ab000135">Solar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/edpenz/solar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-11</span> <span title="Latest release in the app store">Updated 2014-02-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-11</span> <span title="Latest release in the app store">Updated 2014-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Is it day? Is it night? Now -you- can find out! By utilising billions of dollars&#x27; worth of infrastructure, the Solar watch face now lets you answer this difficult question. iPhone users: You may…</p>
 </div>

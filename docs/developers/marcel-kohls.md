@@ -13,7 +13,7 @@ hide:
 
 # Marcel Kohls
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56a5149511d0ac36df000041/1) · [GitHub (marcelkohl)](https://github.com/marcelkohl)
 

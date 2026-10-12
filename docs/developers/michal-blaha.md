@@ -13,7 +13,7 @@ hide:
 
 # Michal Blaha
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michal-blaha_f32586e2bb368aa0fb2bc8f9) · [GitHub (michalblaha)](https://github.com/michalblaha)
 

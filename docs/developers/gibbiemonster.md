@@ -13,7 +13,7 @@ hide:
 
 # gibbiemonster
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5cdc3a87f518e60001e4c071/1) · [GitHub (blockarchitech)](https://github.com/blockarchitech) · [Website (blockarchitech.com)](https://blockarchitech.com)
 

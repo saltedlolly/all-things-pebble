@@ -13,7 +13,7 @@ hide:
 
 # Octoblu
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/octoblu_542c74017a4316d5be0001c8) · [GitHub (octoblu)](https://github.com/octoblu) · [Website (octoblu.com)](http://octoblu.com)
 

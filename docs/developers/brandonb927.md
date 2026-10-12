@@ -13,7 +13,7 @@ hide:
 
 # brandonb927
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57db11efac56eaed27000106/1) · [GitHub (brandonb927)](https://github.com/brandonb927) · [Website (brandonb.io)](https://brandonb.io/projects)
 

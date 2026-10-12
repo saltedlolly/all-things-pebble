@@ -13,7 +13,7 @@ hide:
 
 # altarr
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/altarr_a3b9b59377bfff3d652e6a00) · [GitHub (altarr)](https://github.com/altarr)
 

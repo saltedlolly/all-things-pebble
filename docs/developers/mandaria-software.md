@@ -13,7 +13,7 @@ hide:
 
 # Mandaria Software
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mandaria-software_52b2157a8c08157629000068) · [GitHub (mandlar)](https://github.com/mandlar) · [Website (twitter.com)](https://twitter.com/mandlar)
 

@@ -13,7 +13,7 @@ hide:
 
 # Hyunjoong Kim
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hyunjoong-kim_5646a183cadadbcca500002c) · [GitHub (82joong)](https://github.com/82joong) · [Website (blog.naver.com)](http://blog.naver.com/82joong/220586543068)
 

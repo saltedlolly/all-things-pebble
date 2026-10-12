@@ -13,7 +13,7 @@ hide:
 
 # AdamShrugged
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/adamshrugged_832adb50b6a34a44da7ef143) · [GitHub (Adamshrugged)](https://github.com/Adamshrugged)
 

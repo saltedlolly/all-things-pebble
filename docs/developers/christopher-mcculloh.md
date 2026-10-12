@@ -13,7 +13,7 @@ hide:
 
 # Christopher McCulloh
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christopher-mcculloh_53876b22ce37d4bb16000160) · [GitHub (cmcculloh)](https://github.com/cmcculloh) · [Website (en.wikipedia.org)](http://en.wikipedia.org/wiki/Monty_Hall_problem)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christopher-mccullo
 <h2 class="app-name" id="app-5389ccd2b773456af50000cc"><a href="https://apps.repebble.com/5389ccd2b773456af50000cc">Monty Hall Problem</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/cmcculloh/pebble-hall" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-31</span> <span title="Latest release in the app store">Updated 2014-05-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-31</span> <span title="Latest release in the app store">Updated 2014-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A goat is hidden behind one of three doors. Select a door and the watch will open one of the two other doors (that doesn&#x27;t have the goat). Now select again. Will you switch doors or keep your…</p>
 </div>

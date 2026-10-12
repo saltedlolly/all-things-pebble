@@ -13,7 +13,7 @@ hide:
 
 # Athene Allen
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/athene-allen_57caf385be5ad0f2d80001bf) · [GitHub (gnargle)](https://github.com/gnargle)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/athene-allen_57caf3
 <h2 class="app-name" id="app-57cea0264a6ad9d300000077"><a href="https://apps.repebble.com/57cea0264a6ad9d300000077">Virtue&#x27;s Last Reward</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/gnargle/VLRWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-06</span> <span title="Latest release in the app store">Updated 2016-09-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-06</span> <span title="Latest release in the app store">Updated 2016-09-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A watchface inspired by Zero Escape: Virtue&#x27;s Last Reward and this face by weaversway. https://apps.getpebble.com/en_US/application/5733bba2f68e7b31a9000002 The big number is the current hour, and…</p>
 </div>

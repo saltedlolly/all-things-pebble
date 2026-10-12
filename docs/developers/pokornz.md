@@ -13,7 +13,7 @@ hide:
 
 # Pokornz
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pokornz_68a13218defdcdea00679f24) · [GitHub (Pokornz)](https://github.com/Pokornz)
 

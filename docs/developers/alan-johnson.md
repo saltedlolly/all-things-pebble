@@ -13,7 +13,7 @@ hide:
 
 # Alan Johnson
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alan-johnson_67a284c581c36f00092a6a3b) · [GitHub (alan-johnson)](https://github.com/alan-johnson) · [Website (handsbreadth.com)](https://handsbreadth.com)
 

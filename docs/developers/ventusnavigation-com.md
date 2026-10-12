@@ -13,7 +13,7 @@ hide:
 
 # ventusnavigation.com
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57c051b15e3c3d64fe000173/1) · [Website (ventusnavigation.com)](https://www.ventusnavigation.com)
 

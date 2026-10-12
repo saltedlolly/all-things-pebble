@@ -13,7 +13,7 @@ hide:
 
 # Dione
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dione_566e8a7aee67e2a813000008) · [GitHub (DioneJM)](https://github.com/DioneJM)
 

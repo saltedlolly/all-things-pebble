@@ -13,7 +13,7 @@ hide:
 
 # Juan Vera
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/juan-vera_5576ea0b691b9b6333000036) · [GitHub (Juanvvc)](https://github.com/Juanvvc)
 

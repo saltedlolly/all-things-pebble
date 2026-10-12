@@ -13,7 +13,7 @@ hide:
 
 # Hoyt Labs
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hoyt-labs_2c7cc63cb80aec6744597cfb) · [GitHub (michaellunzer)](https://github.com/michaellunzer)
 

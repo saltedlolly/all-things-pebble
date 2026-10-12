@@ -13,7 +13,7 @@ hide:
 
 # dezign999
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dezign999_52f03b26a0cb6a3454000dfb) · [GitHub (dezign999)](https://github.com/dezign999) · [GitHub (gregoiresage)](https://github.com/gregoiresage) · [Website (dezign999.com)](http://dezign999.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dezign999_52f03b26a
 <h2 class="app-name" id="app-7e1631e7a96f478f8a9810fc"><a href="https://apps.repebble.com/7e1631e7a96f478f8a9810fc">img999</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/dezign999/img999" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Customizable watch face for Pebble Time, Pebble 2 and Pebble Classic which uses your own images. This uses resources from: Gregoiresage&#x27;s Image Viewer…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dezign999_52f03b26a
 <h2 class="app-name" id="app-55b91f5cd01005e8c600007d"><a href="https://apps.repebble.com/55b91f5cd01005e8c600007d">imageWatch999</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gregoiresage/pebble-image-viewer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-29</span> <span title="Latest release in the app store">Updated 2015-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-29</span> <span title="Latest release in the app store">Updated 2015-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">#watchfacewednesday A simple watch face that will load your external jpg image onto your pebble. Use the settings page to add your image url, all image conversion is done on your phone for added…</p>
 </div>

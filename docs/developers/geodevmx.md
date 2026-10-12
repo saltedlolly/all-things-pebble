@@ -13,7 +13,7 @@ hide:
 
 # GeoDevMx
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/geodevmx_66796279091eda36119d9c4e) · [GitHub (GeoPebbleMx)](https://github.com/GeoPebbleMx)
 

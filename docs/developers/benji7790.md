@@ -13,7 +13,7 @@ hide:
 
 # Benji7790
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benji7790_53207f9eef6e7721150001ad) · [GitHub (Benji7790)](https://github.com/Benji7790)
 

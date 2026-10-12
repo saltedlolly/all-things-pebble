@@ -13,7 +13,7 @@ hide:
 
 # JSystems
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/608059d81342ae003ce73f00/1) · [GitHub (oonqt)](https://github.com/oonqt)
 

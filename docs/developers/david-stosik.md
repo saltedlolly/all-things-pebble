@@ -13,7 +13,7 @@ hide:
 
 # David Stosik
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-stosik_535657c3c822ffc62800014f) · [GitHub (dstosik)](https://github.com/dstosik) · [GitHub (davidstosik)](https://github.com/davidstosik) · [Website (dstosik.github.io)](http://dstosik.github.io/pebblot)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-stosik_535657
 <h2 class="app-name" id="app-5638629377a1ea802e000027"><a href="https://apps.repebble.com/5638629377a1ea802e000027">RemindMe</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/davidstosik/pebble-remind-me" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-03</span> <span title="Latest release in the app store">Updated 2015-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-03</span> <span title="Latest release in the app store">Updated 2015-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Create reminders on your Pebble watch the easiest possible way. ## Idea Dumb, repetitive and mechanical tasks (doing the dishes, taking a shower, driving to work, jogging, what-have-you) are…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-stosik_535657
 <h2 class="app-name" id="app-54dd69ca99d4be95ef000049"><a href="https://apps.repebble.com/54dd69ca99d4be95ef000049">Inkblot</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/dstosik/pebblot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-13</span> <span title="Latest release in the app store">Updated 2015-10-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-13</span> <span title="Latest release in the app store">Updated 2015-10-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watch face inspired of the famous Rorschach test ink blots. The watch face gets its desired look by giving digits a fat, round font, mirroring them, then melting them together. When idle, hours…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-stosik_535657
 <h2 class="app-name" id="app-54f007fa380aa6e5fa00003e"><a href="https://apps.repebble.com/54f007fa380aa6e5fa00003e">60 Shades of Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/dstosik/60-shades-of-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-27</span> <span title="Latest release in the app store">Updated 2015-10-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-27</span> <span title="Latest release in the app store">Updated 2015-10-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The Pebble Time version is now available in the store! You don&#x27;t need to get it from the source link anymore. Now compatible with 1-st generation Pebble watches and the latest Pebble Time Round!…</p>
 </div>

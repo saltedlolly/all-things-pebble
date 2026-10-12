@@ -13,7 +13,7 @@ hide:
 
 # Attila Antal
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/attila-antal_54731e10a3ce2ff2b4000056) · [GitHub (aattila)](https://github.com/aattila)
 

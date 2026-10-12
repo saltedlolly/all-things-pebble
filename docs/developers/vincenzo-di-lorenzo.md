@@ -13,7 +13,7 @@ hide:
 
 # Vincenzo Di Lorenzo
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincenzo-di-lorenzo_573f434ac12e854ea1000010) · [GitHub (vincenzodilorenzo)](https://github.com/vincenzodilorenzo)
 

@@ -13,7 +13,7 @@ hide:
 
 # FLAG Solutions
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flag-solutions_5315d276649865527a000194) · [GitHub (lencorredera)](https://github.com/lencorredera) · [Website (flagsolutions.net)](http://www.flagsolutions.net)
 

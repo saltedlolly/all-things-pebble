@@ -13,7 +13,7 @@ hide:
 
 # tjaart
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tjaart_4639c7101db8c9ad09c3625e) · [GitLab (tjaart)](https://gitlab.com/tjaart)
 

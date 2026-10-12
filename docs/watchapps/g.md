@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · **G** · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*48 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*48 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-35ad80179c4145118edca560"><a href="https://apps.repebble.com/35ad80179c4145118edca560">Game of Go</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/igrek51/pebble-game-of-go" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/igrek51.html" title="More from this developer">igrek51</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">This app brings the game of Go / Baduk / Weiqi to the Pebble Time 2 with a fast, fully-featured engine and a polished interface. Go is the ultimate mental workout for your commute or coffee break…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-55deed717436e680cc000019"><a href="https://apps.repebble.com/55deed717436e680cc000019">Gamification Elements</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/daverage/pebbleCards" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/andrzej-marczewski.html" title="More from this developer">Andrzej Marczewski</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-27</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-27</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a simple app for aimed at those interested in gamification. It displays random gamification elements and mechanics from the Gamified UK Gamification Elements list. Shake to jump to a new…</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-cc4b971bf63c427d8870e526"><a href="https://apps.repebble.com/cc4b971bf63c427d8870e526">Gemini Voice &amp; Text</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.4</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Pebble_Gemini" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This app turns your Pebble Time 2 into a fully functional conversational assistant using Google&#x27;s Gemini with model and voice selection. If you enjoy what I am making don&#x27;t forget to heart the…</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-67cab3bad2acb301fae26dee"><a href="https://apps.repebble.com/67cab3bad2acb301fae26dee">Get active!</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/dscheinah/get-active-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dscheinah.html" title="More from this developer">Dscheinah</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2025-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2025-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This app helps you to reach your health goals. It can be configured to notify you: - If you didn&#x27;t spent enough time active within the last hour - If you are about to not reach your daily step…</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-569fdfd070f369f70f000052"><a href="https://apps.repebble.com/569fdfd070f369f70f000052">GHTV Programming</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/chasepeeler/GHLivePrograms" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chase-peeler.html" title="More from this developer">Chase Peeler</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-20</span> <span title="Latest release in the app store">Updated 2016-04-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-20</span> <span title="Latest release in the app store">Updated 2016-04-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Get the GHTV schedule on your timeline! Subscribe to different categories and get notifications before programs in those categories begin. *Categories are based on keywords in the program titles…</p>
 </div>
@@ -270,7 +270,7 @@ hide:
 <h2 class="app-name" id="app-9b0dacec26c041f688e85e78"><a href="https://apps.repebble.com/9b0dacec26c041f688e85e78">Gist Reader</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/dnnsmnstrr/pebble-gist-reader" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dennis-muensterer.html" title="More from this developer">Dennis Muensterer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Access GitHub Gists on your wrist! - Simple configuration with just a Gist ID - Support for multiple files in one Gist</p>
 </div>
@@ -369,7 +369,7 @@ hide:
 <h2 class="app-name" id="app-52dac915889f5d8253000261"><a href="https://apps.repebble.com/52dac915889f5d8253000261">GoSy Run</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/gotling/GoSy-Run" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marcus-gotling.html" title="More from this developer">Marcus Gotling</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-18</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-18</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Helps you exercise running. - Interval timer with extended rest, warm up and cool down - Ladder timer - Stretch timer with 8 exercises</p>
 </div>
@@ -501,7 +501,7 @@ hide:
 <h2 class="app-name" id="app-e7478392e757413996a8edff"><a href="https://apps.repebble.com/e7478392e757413996a8edff">GymLog</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.2</span></h2>
 <a class="app-source" href="https://github.com/dcmcand/gymlog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dcmcand.html" title="More from this developer">dcmcand</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">See your rest timer and current set on your wrist. Finish a set in the GymLog Android app and the watch shows the exercise, your target weight and reps, and which set you&#x27;re on, with a live rest…</p>
 </div>
@@ -512,7 +512,7 @@ hide:
 <h2 class="app-name" id="app-5615bbe67e6126a558000042"><a href="https://apps.repebble.com/5615bbe67e6126a558000042">GymSpotter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/dabit/gymspotter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-padilla.html" title="More from this developer">David Padilla</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-08</span> <span title="Latest release in the app store">Updated 2015-12-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-08</span> <span title="Latest release in the app store">Updated 2015-12-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Timer app that helps you manage rest time between sets. Set your preferred rest time and when you are done with your shake the watch a bit and let the timer begin. When the timer is done your…</p>
 </div>

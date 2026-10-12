@@ -13,7 +13,7 @@ hide:
 
 # Frank Prins
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frank-prins_5571f66b2cf3a3c2b7000071) · [GitHub (twodogwalker)](https://github.com/twodogwalker)
 

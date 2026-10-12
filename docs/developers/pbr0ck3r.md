@@ -13,7 +13,7 @@ hide:
 
 # pbr0ck3r
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pbr0ck3r_530fd6884e19d22b070005da) · [GitHub (pbr0ck3r)](https://github.com/pbr0ck3r)
 

@@ -13,7 +13,7 @@ hide:
 
 # Andrew Tam
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-tam_541db22fd8805206b200007d) · [GitHub (ahndrewtam)](https://github.com/ahndrewtam) · [Website (ahndrewtam.me)](http://ahndrewtam.me)
 

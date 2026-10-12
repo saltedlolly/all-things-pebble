@@ -13,7 +13,7 @@ hide:
 
 # CFV
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cfv_f3166278faad61e2a9c68c8d) · [GitHub (cfvescovo)](https://github.com/cfvescovo)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cfv_f3166278faad61e
 <h2 class="app-name" id="app-6b4d13c6c40548ddaa5cba8d"><a href="https://apps.repebble.com/6b4d13c6c40548ddaa5cba8d">CTATrack</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/cfvescovo/CTATrack" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-05-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-05-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">CTATrack gives you fast, focused transit info for Chicago right on your wrist. Find nearby CTA train stations and bus stops, then scroll through live arrival times without pulling out your phone…</p>
 </div>

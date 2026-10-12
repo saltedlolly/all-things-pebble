@@ -13,7 +13,7 @@ hide:
 
 # Johnny Dunhin
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/johnny-dunhin_52be95796ecafe8fe0000045) · [Website (dunhindevelopers.wordpress.com)](http://dunhindevelopers.wordpress.com)
 

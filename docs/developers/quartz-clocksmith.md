@@ -13,7 +13,7 @@ hide:
 
 # Quartz Clocksmith
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quartz-clocksmith_408e0031a56070b91136c7c6) · [GitHub (lynxmonkey)](https://github.com/lynxmonkey)
 

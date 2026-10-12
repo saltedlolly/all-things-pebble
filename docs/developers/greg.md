@@ -13,7 +13,7 @@ hide:
 
 # Greg
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg_568fc8e0056c3837c0000061) · [GitHub (phm3)](https://github.com/phm3)
 

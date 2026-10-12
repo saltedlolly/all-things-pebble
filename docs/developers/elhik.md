@@ -13,7 +13,7 @@ hide:
 
 # ElhiK
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a9cb6f14c34b600096e2aba/1) · [GitHub (hgarbouj)](https://github.com/hgarbouj)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a9cb6f14c34b60
 <h2 class="app-name" id="app-6aa60fa0226a3d00096623ec"><a href="https://apps.rebble.io/en_US/application/6aa60fa0226a3d00096623ec">API Trigger</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/hgarbouj/pebble-api-trigger/tree/main" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1349" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">API Trigger lets you control APIs and webhooks directly from your Pebble. - Trigger custom webhooks for n8n and Home Assistant. - Control Philips Hue lights through the Hue API. - Send requests to…</p>
 </div>

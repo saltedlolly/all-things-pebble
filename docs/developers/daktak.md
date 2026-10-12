@@ -13,7 +13,7 @@ hide:
 
 # Daktak
 
-*5 watchfaces and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b2d900006c/1) · [GitHub (daktak)](https://github.com/daktak) · [GitLab (daktak)](https://gitlab.com/daktak)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-6a813cce06c3a00009b85c96"><a href="https://apps.rebble.io/en_US/application/6a813cce06c3a00009b85c96">Intervals.icu</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble_intervals_icu" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1240" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-16</span> <span title="Latest release in the app store">Updated 2026-10-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-16</span> <span title="Latest release in the app store">Updated 2026-10-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Unofficial Intervals.icu app View the weeks activities and summary View your fitness/form graph</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-6a9cbfd2d5f13e000a813cca"><a href="https://apps.rebble.io/en_US/application/6a9cbfd2d5f13e000a813cca">Intervals Wellness Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble-intervals-wellness" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1335" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-06</span> <span title="Latest release in the app store">Updated 2026-09-24</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-06</span> <span title="Latest release in the app store">Updated 2026-09-24</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Push sleep, hr and step data to intervals.icu For HRV, enable in background apps (Pebble Time 2)</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-6a8533eb6b779600084ed8e1"><a href="https://apps.rebble.io/en_US/application/6a8533eb6b779600084ed8e1">KayPS</a> <span class="app-version" title="Latest version" data-search-exclude>v26.9.1</span></h2>
 <a class="app-source" href="https://github.com/daktak/JayPS-WatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1267" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-09-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-09-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Android app required. https://github.com/daktak/JayPS-AndroidApp (formerly known as Pebble Bike/Ventoo/JayPS) KayPS is a GPS sports tracker for your Pebble. It uses your phone&#x27;s GPS to send speed…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-6a7686ad1772b200090ffb34"><a href="https://apps.rebble.io/en_US/application/6a7686ad1772b200090ffb34">UQM Pilot Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble_uqm_pilot_face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1218" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-08</span> <span title="Latest release in the app store">Updated 2026-08-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-08</span> <span title="Latest release in the app store">Updated 2026-08-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface showing pilots from the Ur Quan Masters along with the pilots name. Configurable</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-6a485d66b6d159000952a982"><a href="https://apps.rebble.io/en_US/application/6a485d66b6d159000952a982">Paradroid Takeover</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble_paradroid_takeover" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1117" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-04</span> <span title="Latest release in the app store">Updated 2026-07-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-04</span> <span title="Latest release in the app store">Updated 2026-07-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Takeover droids to reach Captain</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-5b01f9eaf385887700000bc2"><a href="https://apps.rebble.io/en_US/application/5b01f9eaf385887700000bc2">UQM Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble_uqm_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1044" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-05-20</span> <span title="Latest release in the app store">Updated 2026-06-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-05-20</span> <span title="Latest release in the app store">Updated 2026-06-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Ships from The Ur-Quan Masters as second, minute or hour hand. http://sc2.sourceforge.net/</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-6a2fbc2f72de6e00088d251b"><a href="https://apps.rebble.io/en_US/application/6a2fbc2f72de6e00088d251b">Paradroid Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble_paradroid_2000_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1061" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-06-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-06-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Display Paradroid bots Images from https://www.freedroid.org/</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-62ecee85e595b3000a939a36"><a href="https://apps.rebble.io/en_US/application/62ecee85e595b3000a939a36">Minimal Analog3</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/daktak/MinimalAnalog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-08-05</span> <span title="Latest release in the app store">Updated 2022-08-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-08-05</span> <span title="Latest release in the app store">Updated 2022-08-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple analog watchface that includes - weather - cryptocurrency price - bluetooth disconnect notification (optional) - seconds hand (configurable) - low battery indicator - configurable colours…</p>
 </div>

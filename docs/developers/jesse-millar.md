@@ -13,7 +13,7 @@ hide:
 
 # Jesse Millar
 
-*7 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305df1a2f622febf0001cc) · [GitHub (jessemillar)](https://github.com/jessemillar) · [Website (jessemillar.com)](http://www.jessemillar.com/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305d
 <h2 class="app-name" id="app-54becbb57571fb9530000075"><a href="https://apps.repebble.com/54becbb57571fb9530000075">Tuner</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/jessemillar/Pebbling/tree/master/Tuner" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-20</span> <span title="Latest release in the app store">Updated 2015-03-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-20</span> <span title="Latest release in the app store">Updated 2015-03-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple dials that rotate to tell the time. Reminiscent of the smooth, sweet-feeling radio tuners of yesteryear.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305d
 <h2 class="app-name" id="app-54bd47263e50447f5d00005c"><a href="https://apps.repebble.com/54bd47263e50447f5d00005c">Adventure Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jessemillar/Pebbling/tree/master/Adventure-Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-19</span> <span title="Latest release in the app store">Updated 2015-01-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-19</span> <span title="Latest release in the app store">Updated 2015-01-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">With Jake the Dog and Finn the Human, the fun will never end! Shake your wrist to switch characters.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305d
 <h2 class="app-name" id="app-54bd317d54845b5000000043"><a href="https://apps.repebble.com/54bd317d54845b5000000043">Jake the Dog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jessemillar/Pebbling/tree/master/Jake-the-Dog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-19</span> <span title="Latest release in the app store">Updated 2015-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-19</span> <span title="Latest release in the app store">Updated 2015-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple Adventure Time watchface because Jake&#x27;s the best!</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305d
 <h2 class="app-name" id="app-54bd32a23e504409d5000054"><a href="https://apps.repebble.com/54bd32a23e504409d5000054">./Hacked</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jessemillar/Pebbling/tree/master/Hacked" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-19</span> <span title="Latest release in the app store">Updated 2015-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-19</span> <span title="Latest release in the app store">Updated 2015-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A hacked-looking watchface kinda themed after the Watchdogs videogame. &#x27;Nuff said.</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305d
 <h2 class="app-name" id="app-54bc13d135ac298d8900007f"><a href="https://apps.repebble.com/54bc13d135ac298d8900007f">Half and Half</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jessemillar/Pebbling/tree/master/Half-and-Half" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2015-01-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2015-01-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shows the time in an angular, simplistic way. The current hour is displayed in the center. Read current minutes as you would on an analogue clock. Shake to invert the color of the center digit.</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305d
 <h2 class="app-name" id="app-54bb10e105d4ee74760000b2"><a href="https://apps.repebble.com/54bb10e105d4ee74760000b2">Hail Hydra</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jessemillar/Pebbling/tree/master/Hail-Hydra" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2015-01-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2015-01-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Support your favorite anti-bad-guy organization with this sporty watchface. Be warned though, things can get prickly when you shake your wrist. Hail Hydra? Hail, yeah!</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305d
 <h2 class="app-name" id="app-54bb25f95efa476fee0000f4"><a href="https://apps.repebble.com/54bb25f95efa476fee0000f4">Baymax</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jessemillar/Pebbling/tree/master/Baymax" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2015-01-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2015-01-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A cute, Big Hero 6 companion for your watch. He blinks on occasion and even gets drunk when your Pebble is low on power.</p>
 </div>

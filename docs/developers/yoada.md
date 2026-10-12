@@ -13,7 +13,7 @@ hide:
 
 # yoada
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoada_40295452a8505728bae5a632) · [GitLab (piconcely)](https://gitlab.com/piconcely) · [GitHub (yoann54)](https://github.com/yoann54)
 

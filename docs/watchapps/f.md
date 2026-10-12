@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · **F** · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*51 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*51 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-52b5584420fef47f82000011"><a href="https://apps.repebble.com/52b5584420fef47f82000011">Falldown</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/evilrobot69/Falldown" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ari-wilson.html" title="More from this developer">Ari Wilson</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-21</span> <span title="Latest release in the app store">Updated 2015-12-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-21</span> <span title="Latest release in the app store">Updated 2015-12-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Falldown is a game about steering a falling ball around walls of bricks. You steer with the UP and DOWN buttons or, optionally, by flicking your wrist. Your objective is not to let the ball hit…</p>
 </div>
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-396b4d6f5a5643f1bcf8dde0"><a href="https://apps.repebble.com/396b4d6f5a5643f1bcf8dde0">FastWasp</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.0</span></h2>
 <a class="app-source" href="https://github.com/gregolsky/fast-wasp-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gregolsky.html" title="More from this developer">gregolsky</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">FastWasp is a free, native intermittent-fasting tracker for the new Pebble devices from Core Devices. Everything runs on the watch - no companion app, no phone, no accounts, no internet. 6 fasting…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-55af4a94ac7b440eed000040"><a href="https://apps.repebble.com/55af4a94ac7b440eed000040">Feed Me Now!!!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/diegoasef/feed-me-now" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/diego-asef.html" title="More from this developer">Diego Asef</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-22</span> <span title="Latest release in the app store">Updated 2015-07-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-22</span> <span title="Latest release in the app store">Updated 2015-07-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Now supports # Feed Me Now!!! Get food places suggested based on your location and Yelp API. How to use: 1) Open the app and wait to see a suggestion. 2) Shake your pebble to get a new suggestion…</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-545dea1211a9cda2c2000045"><a href="https://apps.repebble.com/545dea1211a9cda2c2000045">Flanders Field Poem</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/connorypebble/Flanders-Field-Poem" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/connor-jewiss.html" title="More from this developer">Connor Jewiss</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-08</span> <span title="Latest release in the app store">Updated 2014-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-11-08</span> <span title="Latest release in the app store">Updated 2014-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is the original Flanders Field poem reformed as a pebble watchapp especially for Remembrance Day and the Royal British Legion. Support the fallen! Use website link below! It is a plain text…</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-bd6e3f6122b449188e8faebc"><a href="https://apps.repebble.com/bd6e3f6122b449188e8faebc">Flappy Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/aircodum.html" title="More from this developer">AirCodum</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Flappy Bird for your Pebble. Tap SELECT (or hold it) to flap through pipes. Gentle physics tuned for small-screen play, persistent high score.</p>
 </div>
@@ -292,7 +292,7 @@ hide:
 <h2 class="app-name" id="app-cda79bd5a8184ab686b5cad3"><a href="https://apps.repebble.com/cda79bd5a8184ab686b5cad3">Flexible Alerts</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.2</span></h2>
 <a class="app-source" href="https://github.com/elizagamedev/pebble-alerts" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eliza.html" title="More from this developer">Eliza</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Show alerts for your Android calendars, contact birthdays, and anniversaries. Allows you to add reminders to subscribed calendars or events without built-in reminders, which is great for ICS…</p>
 </div>
@@ -347,7 +347,7 @@ hide:
 <h2 class="app-name" id="app-564c2acda9379f613e000044"><a href="https://apps.repebble.com/564c2acda9379f613e000044">Flood</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dainglis/flood-pebble-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-inglis.html" title="More from this developer">David Inglis</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-18</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-18</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Fill the board in as few moves as possible. Use the up and down buttons to change colors, and use select to pick. You have 26 moves to fill the board, or else it&#x27;s game over!</p>
 </div>
@@ -380,7 +380,7 @@ hide:
 <h2 class="app-name" id="app-1f02276078b84a2e861d9e40"><a href="https://apps.repebble.com/1f02276078b84a2e861d9e40">Flynformer</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7.0</span></h2>
 <a class="app-source" href="https://github.com/dysseus-pascal/Flynformer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dysseus.html" title="More from this developer">dysseus</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-14</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-09-14</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Type the flight number on the watch. No hunting through the phone app: two letters, up to four digits, done. It stays until you change it. Meet Flyn — your flight companion. Three pages, in the…</p>
 </div>
@@ -402,7 +402,7 @@ hide:
 <h2 class="app-name" id="app-5409b7c7954a63bd410000a0"><a href="https://apps.repebble.com/5409b7c7954a63bd410000a0">food baby</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/cheniel/food-baby" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cheniel.html" title="More from this developer">cheniel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-05</span> <span title="Latest release in the app store">Updated 2014-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-05</span> <span title="Latest release in the app store">Updated 2014-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Part-nutritionist, part-digital pet, Food Baby&#x27;s goal is to motivate healthy dietary choices through the raising of a virtual pet. As such, your healthy habits translate to both your well-being…</p>
 </div>
@@ -413,7 +413,7 @@ hide:
 <h2 class="app-name" id="app-5850eef977324bb64b0004fb"><a href="https://apps.rebble.io/en_US/application/5850eef977324bb64b0004fb">Forbidden Love</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gameblabla/forbidden_love" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gameblabla.html" title="More from this developer">gameblabla</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-14</span> <span title="Latest release in the app store">Updated 2016-12-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-12-14</span> <span title="Latest release in the app store">Updated 2016-12-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watch as two men discover the true meaning of life. (yes, it is very philosophical)</p>
 </div>
@@ -498,11 +498,11 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/21268740bc164e18907f66b8" data-search-exclude><img src="../images/apps/21268740bc164e18907f66b8.png" alt="Froggle" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-21268740bc164e18907f66b8"><a href="https://apps.repebble.com/21268740bc164e18907f66b8">Froggle</a> <span class="app-version" title="Latest version" data-search-exclude>v5.0.6</span></h2>
+<h2 class="app-name" id="app-21268740bc164e18907f66b8"><a href="https://apps.repebble.com/21268740bc164e18907f66b8">Froggle</a> <span class="app-version" title="Latest version" data-search-exclude>v6.2.2</span></h2>
 <a class="app-source" href="https://github.com/Andrew129260/Froggle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/andrew129260.html" title="More from this developer">Andrew129260</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-09-23</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Frogger, but for Pebble! Multiple challenging levels, which get faster as it goes... Can you dodge the cars and hop those logs? You get an extra life for each level you complete.. Good luck!…</p>
 </div>
 </div>
@@ -534,7 +534,7 @@ hide:
 <h2 class="app-name" id="app-54a06048d819e546e6000135"><a href="https://apps.repebble.com/54a06048d819e546e6000135">FTC Match Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/i2robotics/pebble-ftc-timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/alex-davis.html" title="More from this developer">Alex Davis</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-28</span> <span title="Latest release in the app store">Updated 2015-02-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-12-28</span> <span title="Latest release in the app store">Updated 2015-02-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Use your wrist when doing match practice! This app, designed for the FIRST Tech Challenge robotics competition, is basically a countdown timer customized for running FTC Matches. Features: …</p>
 </div>

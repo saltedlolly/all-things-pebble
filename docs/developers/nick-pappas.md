@@ -13,7 +13,7 @@ hide:
 
 # Nick Pappas
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-pappas_55079df5febe68ca0b0000a2) · [GitHub (radicand)](https://github.com/radicand)
 

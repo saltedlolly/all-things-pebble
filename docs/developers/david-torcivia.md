@@ -13,7 +13,7 @@ hide:
 
 # David Torcivia
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-torcivia_29bff781261c3a32c5b9f900) · [GitHub (davidtorcivia)](https://github.com/davidtorcivia)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-torcivia_29bf
 <h2 class="app-name" id="app-bf3aa4e4c7bd4ce5ad8b9392"><a href="https://apps.repebble.com/bf3aa4e4c7bd4ce5ad8b9392">Transit Arrivals</a> <span class="app-version" title="Latest version" data-search-exclude>v1.14</span></h2>
 <a class="app-source" href="https://github.com/davidtorcivia/transit-arrivals" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-09-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-09-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">You&#x27;re three blocks from the platform. Do you run? MTA Arrivals answers the only question that matters to the new yorker on the go: how long until the next train. Pin your stations (Home, Work…</p>
 </div>

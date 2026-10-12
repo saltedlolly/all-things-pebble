@@ -13,7 +13,7 @@ hide:
 
 # Martin Simoneau
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/martin-simoneau_564f055471fb6163e200003a) · [GitHub (msimoneau)](https://github.com/msimoneau) · [Website (msimoneau.github.io)](http://msimoneau.github.io/watch-project/index.html)
 

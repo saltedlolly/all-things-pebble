@@ -13,7 +13,7 @@ hide:
 
 # Stefan Bauwens
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stefan-bauwens_599dee8a461a8d18890012bc) · [GitHub (StefanBauwens)](https://github.com/StefanBauwens)
 

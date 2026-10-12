@@ -13,7 +13,7 @@ hide:
 
 # Sapphire Second-Hand
 
-*6 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sapphire-second-hand_527b6cf8aa4310a44fe95d9d) · [GitHub (shoepaladin)](https://github.com/shoepaladin)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sapphire-second-han
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="gundam and mobile suit sd chibi" data-released="2026-05-26" data-updated="2026-10-05">
+<div class="app-card" data-type="watchface" data-title="gundam and mobile suit sd chibi" data-released="2026-05-26" data-updated="2026-10-11">
 <a class="app-shot" href="https://apps.repebble.com/db3f6e4f0a904e2894a4b1fa" data-search-exclude><img src="../images/apps/db3f6e4f0a904e2894a4b1fa.png" alt="Gundam and Mobile Suit SD Chibi" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-db3f6e4f0a904e2894a4b1fa"><a href="https://apps.repebble.com/db3f6e4f0a904e2894a4b1fa">Gundam and Mobile Suit SD Chibi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.4</span></h2>
+<h2 class="app-name" id="app-db3f6e4f0a904e2894a4b1fa"><a href="https://apps.repebble.com/db3f6e4f0a904e2894a4b1fa">Gundam and Mobile Suit SD Chibi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/shoepaladin/kiwi-cup/tree/main/pebble/gundam_wfm_static_wf" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-26</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-26</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round</div>
 <p class="app-desc">Track time and step counts with Gundam Aerial, Calibarn, GPO2A, Qubeley, Xi, Byarlant, Zeta, Sazabi, and Crossbone. Steps are represented with filling in an arc of vertical lines. When battery is…</p>
 </div>

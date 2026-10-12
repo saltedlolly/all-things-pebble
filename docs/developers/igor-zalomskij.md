@@ -13,7 +13,7 @@ hide:
 
 # Igor Zalomskij
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583c663200355a4bea00030d/1) · [GitHub (kaist)](https://github.com/kaist) · [Website (4pda.ru)](http://4pda.ru/forum/index.php?showtopic=818099)
 

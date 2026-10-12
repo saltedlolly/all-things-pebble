@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · **G** · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*68 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*68 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-52e4ae94561013e64d000122"><a href="https://apps.rebble.io/en_US/application/52e4ae94561013e64d000122">GameBoy for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/edwinfinch/pebbleboy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/edwin-finch.html" title="More from this developer">Edwin Finch</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-26</span> <span title="Latest release in the app store">Updated 2014-11-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-26</span> <span title="Latest release in the app store">Updated 2014-11-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Make your pebble look like a GameBoy! Has 12/24 hour support, the date, and 3 animations. Open source :)</p>
 </div>
@@ -259,7 +259,7 @@ hide:
 <h2 class="app-name" id="app-55540b9264e9b77d990000a9"><a href="https://apps.repebble.com/55540b9264e9b77d990000a9">General Electric</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/dmattia/General-Electric-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david.html" title="More from this developer">David</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-14</span> <span title="Latest release in the app store">Updated 2015-05-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-14</span> <span title="Latest release in the app store">Updated 2015-05-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Stock for General Electric watchface with real-time weather and date. Email me at dmattia@nd.edu if you would like a similar watchface for your company!</p>
 </div>
@@ -358,7 +358,7 @@ hide:
 <h2 class="app-name" id="app-4a193890e40f406b8c5172a7"><a href="https://apps.repebble.com/4a193890e40f406b8c5172a7">Glitch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/david-barrett/pebble_glitch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dabar.html" title="More from this developer">dabar</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-04-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Glitching watchface</p>
 </div>
@@ -424,7 +424,7 @@ hide:
 <h2 class="app-name" id="app-53ac45dfe9ecad8c19000037"><a href="https://apps.repebble.com/53ac45dfe9ecad8c19000037">GOAL</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/iliketocode/GOAL" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/john-gehl.html" title="More from this developer">John Gehl</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-26</span> <span title="Latest release in the app store">Updated 2014-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-26</span> <span title="Latest release in the app store">Updated 2014-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface inspired by the world cup. Every time the minute changes, then the soccer ball does a little animation and the time says GOAL. Also does the animation when you shake your Pebble. Based…</p>
 </div>
@@ -435,7 +435,7 @@ hide:
 <h2 class="app-name" id="app-cc5b253a104742bbbbcc2c2e"><a href="https://apps.repebble.com/cc5b253a104742bbbbcc2c2e">Goldeneye Time 2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/gloriousCode/fuzzy-text-two/tree/codex/gabbro-pebbleeye-hud" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gloriouscode.html" title="More from this developer">gloriousCode</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-06</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-06</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">GabbroEye HUD is a Pebble watchface branch that recreates the feel of the Nintendo 64-era spy watch interface for modern PebbleOS hardware, with the layout tuned for the 260x260 Gabbro display and…</p>
 </div>
@@ -501,7 +501,7 @@ hide:
 <h2 class="app-name" id="app-554e9ea30136b07f42000087"><a href="https://apps.repebble.com/554e9ea30136b07f42000087">Granite</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/furrtek/Granite" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/furrtek.html" title="More from this developer">Furrtek</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-09</span> <span title="Latest release in the app store">Updated 2015-05-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-09</span> <span title="Latest release in the app store">Updated 2015-05-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Time written in simili-3D animated rotating stone blocks, simple as that. Battery counscious and tap aware for added action.</p>
 </div>
@@ -644,7 +644,7 @@ hide:
 <h2 class="app-name" id="app-54b7a043cba63609af000041"><a href="https://apps.repebble.com/54b7a043cba63609af000041">Grid Code</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/degygii/gridcode" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/degygii.html" title="More from this developer">degygii</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2015-02-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2015-02-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Modified Version of the Grid Lite Watchface by Pebble Technology, with a different, lighter typeface.</p>
 </div>
@@ -655,7 +655,7 @@ hide:
 <h2 class="app-name" id="app-5630dfd19c667e7a78000051"><a href="https://apps.repebble.com/5630dfd19c667e7a78000051">Grid Color</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/giatro/Grid-Color" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gianluca-troiani.html" title="More from this developer">Gianluca Troiani</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-28</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-28</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A colourful and customizable watchface based on Grid Lite, now with BT connection monitor.</p>
 </div>
@@ -685,10 +685,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f" data-search-exclude><img src="../images/apps/cf60ff6cf2fa45868e4e8a6f.gif" alt="Gridlock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
+<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.1</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Gridlock is a customizable modular dashboard watchface for the Pebble Time 2, with calendar, weather, stocks, heart rate, steps, sleep, Quiet Time, Bluetooth, battery, moon phase, sunrise/sunset…</p>
 </div>
@@ -710,7 +710,7 @@ hide:
 <h2 class="app-name" id="app-694a99bbfb639a000a570b91"><a href="https://apps.repebble.com/694a99bbfb639a000a570b91">GridSpace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/gridspace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/342" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-23</span> <span title="Latest release in the app store">Updated 2026-07-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-23</span> <span title="Latest release in the app store">Updated 2026-07-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A minimalist Pebble watchface with a distinctive pixel-grid aesthetic. Time, Date, Step Tracker, Weather and Battery Indicator. Access settings through the Pebble app: - Color Options: Background…</p>
 </div>
@@ -721,7 +721,7 @@ hide:
 <h2 class="app-name" id="app-4cb497d2805d4b0b87d70876"><a href="https://apps.repebble.com/4cb497d2805d4b0b87d70876">Groundtrack</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.3</span></h2>
 <a class="app-source" href="https://github.com/huntrontrakkr/groundtrack-watch-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/segfaultgolf.html" title="More from this developer">Segfaultgolf</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Groundtrack draws where the Sun, the Moon or a satellite is over the Earth, and where it goes next, on a flat chart with the time set along the route. Two faces in one. Enroute is an hour chart…</p>
 </div>
@@ -732,7 +732,7 @@ hide:
 <h2 class="app-name" id="app-7e96e11b99aa4f6fb3ba3928"><a href="https://apps.repebble.com/7e96e11b99aa4f6fb3ba3928">Groundtrack Fuller</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.3</span></h2>
 <a class="app-source" href="https://github.com/huntrontrakkr/groundtrack-watch-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/segfaultgolf.html" title="More from this developer">Segfaultgolf</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Groundtrack Fuller draws where the Sun, the Moon or a satellite is over the Earth, and where it goes next, on Buckminster Fuller&#x27;s unfolded globe with the time set along the route. One face. The…</p>
 </div>
@@ -740,10 +740,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/db3f6e4f0a904e2894a4b1fa" data-search-exclude><img src="../images/apps/db3f6e4f0a904e2894a4b1fa.png" alt="Gundam and Mobile Suit SD Chibi" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-db3f6e4f0a904e2894a4b1fa"><a href="https://apps.repebble.com/db3f6e4f0a904e2894a4b1fa">Gundam and Mobile Suit SD Chibi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.4</span></h2>
+<h2 class="app-name" id="app-db3f6e4f0a904e2894a4b1fa"><a href="https://apps.repebble.com/db3f6e4f0a904e2894a4b1fa">Gundam and Mobile Suit SD Chibi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/shoepaladin/kiwi-cup/tree/main/pebble/gundam_wfm_static_wf" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sapphire-second-hand.html" title="More from this developer">Sapphire Second-Hand</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-26</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-26</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round</div>
 <p class="app-desc">Track time and step counts with Gundam Aerial, Calibarn, GPO2A, Qubeley, Xi, Byarlant, Zeta, Sazabi, and Crossbone. Steps are represented with filling in an arc of vertical lines. When battery is…</p>
 </div>

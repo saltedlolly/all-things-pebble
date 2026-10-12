@@ -13,7 +13,7 @@ hide:
 
 # Hamish Downer
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hamish-downer_52a4c8c2c661b67b0f00001a) · [GitHub (foobacca)](https://github.com/foobacca)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hamish-downer_52a4c
 <h2 class="app-name" id="app-52a4d561c661b61d9800002b"><a href="https://apps.repebble.com/52a4d561c661b61d9800002b">Very Fuzzy</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/foobacca/very-fuzzy-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-08</span> <span title="Latest release in the app store">Updated 2013-12-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-12-08</span> <span title="Latest release in the app store">Updated 2013-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">It&#x27;s eleven ... ish. The hours are still given as numbers, but everything else is &quot;five or so&quot;, &quot;past four&quot;, &quot;almost ten&quot; etc. It&#x27;s how I&#x27;d describe time and I&#x27;m British, so it may not fit for others.</p>
 </div>

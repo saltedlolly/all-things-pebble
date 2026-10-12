@@ -13,7 +13,7 @@ hide:
 
 # stosem
 
-*3 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a2a0e690dfc329d17001135/1) · [GitHub (stosem)](https://github.com/stosem)
 

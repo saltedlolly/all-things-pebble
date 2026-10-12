@@ -13,7 +13,7 @@ hide:
 
 # Stanfy
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53612da417c60e02d8000172/1) · [GitHub (bexcite)](https://github.com/bexcite) · [Website (stanfy.com)](http://stanfy.com)
 

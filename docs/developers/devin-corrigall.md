@@ -13,7 +13,7 @@ hide:
 
 # Devin Corrigall
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/devin-corrigall_5656627d884da00953000098) · [GitHub (devinc13)](https://github.com/devinc13)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/devin-corrigall_565
 <h2 class="app-name" id="app-56736a551a9a82d6e800006c"><a href="https://apps.repebble.com/56736a551a9a82d6e800006c">RWBY Qrow Emblem</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/devinc13/PebbleRWBYQrowWatchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-18</span> <span title="Latest release in the app store">Updated 2018-05-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-18</span> <span title="Latest release in the app store">Updated 2018-05-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface based on Qrow&#x27;s emblem from RWBY. Watchface settings allow to select a black or white background by inverting the watchface. Includes battery level indicator, charging indicator, and…</p>
 </div>

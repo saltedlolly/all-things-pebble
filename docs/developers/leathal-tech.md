@@ -13,7 +13,7 @@ hide:
 
 # Leathal Tech
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leathal-tech_536fd9e2ff45c4735f00021f) · [GitHub (Harrisoncolts)](https://github.com/Harrisoncolts)
 

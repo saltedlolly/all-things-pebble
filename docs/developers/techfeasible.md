@@ -13,7 +13,7 @@ hide:
 
 # techfeasible
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techfeasible_52dbd1049ffd8704a300004e) · [GitHub (technicallyfeasible)](https://github.com/technicallyfeasible) · [Website (technicallyfeasible.com)](http://www.technicallyfeasible.com)
 

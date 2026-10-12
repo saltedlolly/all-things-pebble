@@ -13,7 +13,7 @@ hide:
 
 # profweini
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_a6e30a264dc5f351d17e51a8) · [GitHub (profweini)](https://github.com/profweini)
 

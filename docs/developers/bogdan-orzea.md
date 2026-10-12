@@ -13,7 +13,7 @@ hide:
 
 # Bogdan Orzea
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bogdan-orzea_5482eceb0748a15e57000091) · [GitHub (bogdanorzea)](https://github.com/bogdanorzea)
 

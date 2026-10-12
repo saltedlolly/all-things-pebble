@@ -13,7 +13,7 @@ hide:
 
 # drewatk
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drewatk_57597dd706738d271e000020) · [GitHub (drewatk)](https://github.com/drewatk)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drewatk_57597dd7067
 <h2 class="app-name" id="app-577300c2ba2fe566a100040c"><a href="https://apps.repebble.com/577300c2ba2fe566a100040c">Triangles</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/drewatk/triangles" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-28</span> <span title="Latest release in the app store">Updated 2016-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-28</span> <span title="Latest release in the app store">Updated 2016-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Triangles Watchface Image by Vecree.com (CC BY-SA 2.0) Robotech Font by Gustavo Paz (CC BY-SA 4.0)</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drewatk_57597dd7067
 <h2 class="app-name" id="app-57704f8d6c2104d9b1000171"><a href="https://apps.repebble.com/57704f8d6c2104d9b1000171">Clean Stripes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/drewatk/cleanStripes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-26</span> <span title="Latest release in the app store">Updated 2016-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-26</span> <span title="Latest release in the app store">Updated 2016-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchface showing the date and time. Email me if you have a suggestion!</p>
 </div>

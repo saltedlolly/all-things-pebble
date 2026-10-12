@@ -13,7 +13,7 @@ hide:
 
 # Wolfram Rösler
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wolfram-r-sler_5dc34c6ac393f52a76417110) · [GitLab (wolframroesler)](https://gitlab.com/wolframroesler)
 

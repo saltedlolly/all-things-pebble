@@ -13,7 +13,7 @@ hide:
 
 # Jack Vine
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jack-vine_56cd34fb86ce3b1043000008) · [GitHub (jackv24)](https://github.com/jackv24) · [Website (jackvine.com)](http://jackvine.com/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jack-vine_56cd34fb8
 <h2 class="app-name" id="app-56cea301fd7a6b2c8a000016"><a href="https://apps.repebble.com/56cea301fd7a6b2c8a000016">Importance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/jackv24/Importance-Pebble-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-25</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-25</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Importance is a watchface that displays the most basic and important information in an easy to read manner. Includes time, date, battery bar and a Bluetooth disconnection indicator. Seconds are…</p>
 </div>

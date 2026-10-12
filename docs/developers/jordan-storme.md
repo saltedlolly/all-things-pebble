@@ -13,7 +13,7 @@ hide:
 
 # Jordan Storme
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jordan-storme_5e6455b63eb686623206c76f) · [GitHub (jordanfromeverywhere)](https://github.com/jordanfromeverywhere)
 

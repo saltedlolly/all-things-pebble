@@ -13,7 +13,7 @@ hide:
 
 # ECandB
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ecandb_5466cba8b3358634ef00001b) · [GitHub (ethancbarnes)](https://github.com/ethancbarnes)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ecandb_5466cba8b335
 <h2 class="app-name" id="app-5707646961753a9caa00001b"><a href="https://apps.repebble.com/5707646961753a9caa00001b">Low Poly</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ethancbarnes/Pebble-LowPolyFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-08</span> <span title="Latest release in the app store">Updated 2016-04-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-08</span> <span title="Latest release in the app store">Updated 2016-04-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Inspired by the minimalism and simplicity of low poly art, this watchface has three different background colors to choose. The time is clearly displayed in digital format with different options in…</p>
 </div>

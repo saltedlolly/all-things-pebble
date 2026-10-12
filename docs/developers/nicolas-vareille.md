@@ -13,7 +13,7 @@ hide:
 
 # Nicolas VAREILLE
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicolas-vareille_53a5f18106f41c91f700001b) · [GitHub (nvareille)](https://github.com/nvareille)
 

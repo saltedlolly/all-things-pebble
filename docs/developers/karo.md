@@ -13,7 +13,7 @@ hide:
 
 # KaRo
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/karo_54da388a5f4f24af68000090) · [GitHub (Roemke)](https://github.com/Roemke)
 

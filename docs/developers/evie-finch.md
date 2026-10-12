@@ -13,7 +13,7 @@ hide:
 
 # Evie Finch
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/evie-finch_9d5d9f7fccc8a26da37fdbd6) · [GitHub (qt-dork)](https://github.com/qt-dork)
 

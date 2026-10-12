@@ -13,7 +13,7 @@ hide:
 
 # Foxel
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/foxel_52a9613fc0ca935e83000032) · [GitHub (foxel)](https://github.com/foxel)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/foxel_52a9613fc0ca9
 <h2 class="app-name" id="app-5393e248553ec92366000001"><a href="https://apps.repebble.com/5393e248553ec92366000001">Simple F Big</a> <span class="app-version" title="Latest version" data-search-exclude>v1.11</span></h2>
 <a class="app-source" href="https://github.com/foxel/pebble-simple-big" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-08</span> <span title="Latest release in the app store">Updated 2025-09-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-08</span> <span title="Latest release in the app store">Updated 2025-09-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watchface based on simplicity and big watch. Features: * BIG time display * 12/24-h mode * battery-efficient rendering * week day display * battery indicator * bluetooth indicator *…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/foxel_52a9613fc0ca9
 <h2 class="app-name" id="app-54affcb0a1eea169e600009f"><a href="https://apps.repebble.com/54affcb0a1eea169e600009f">Simple F + termopogoda.ru</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/foxel/pebble-simple-termo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-09</span> <span title="Latest release in the app store">Updated 2017-04-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-09</span> <span title="Latest release in the app store">Updated 2017-04-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple F with http://termopogoda.ru weather info. SHOWS ONLY TOMSK WEATHER Features: * BIG time display * 12/24-h mode * battery-efficient rendering * week day display * battery indicator *…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/foxel_52a9613fc0ca9
 <h2 class="app-name" id="app-52a9641079c18f0ed9000048"><a href="https://apps.repebble.com/52a9641079c18f0ed9000048">Simple F</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/foxel/pebble-simplef" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2017-04-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2017-04-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchface based on simplicity. Features: * battery-efficient rendering * week day display * battery indicator * bluetooth indicator * connection break indicator and vibe * easy colors…</p>
 </div>

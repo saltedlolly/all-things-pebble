@@ -13,7 +13,7 @@ hide:
 
 # Matt
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt_e56a0276e82f3b9205e1cfb8) · [GitHub (mattnovelli)](https://github.com/mattnovelli) · [Website (discord.gg)](https://discord.gg/3AR2ypEC9Y)
 

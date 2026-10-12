@@ -13,7 +13,7 @@ hide:
 
 # Sergei Silnov
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sergei-silnov_1c791ef555f197f5c2222b1f) · [GitHub (kumekay)](https://github.com/kumekay)
 

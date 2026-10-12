@@ -13,7 +13,7 @@ hide:
 
 # Eric Migicovsky
 
-*4 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-migicovsky_cef3527f00d692f8c467ca17) · [GitHub (ericmigi)](https://github.com/ericmigi)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-migicovsky_cef
 <h2 class="app-name" id="app-40a625e429a74c9c87df0150"><a href="https://apps.repebble.com/40a625e429a74c9c87df0150">3D Printer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/ericmigi/iso-printer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">My son is obsessed with 3d printing and came up with the idea for this watchface! One other cool thing - it uses your current location and time of year to accurately paint shadows.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-migicovsky_cef
 <h2 class="app-name" id="app-1daacb77279040179e08d435"><a href="https://apps.repebble.com/1daacb77279040179e08d435">Swept Away</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ericmigi/sweptaway" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A Pebble watchface inspired by Dutch artist Maarten Baas&#x27; Sweepers Clock (from his Real Time series), in which two street sweepers spend twelve hours pushing piles of rubbish into the shape of an…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-migicovsky_cef
 <h2 class="app-name" id="app-ed8f618edf134fa09f356a30"><a href="https://apps.repebble.com/ed8f618edf134fa09f356a30">Duel Of The Faces</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/ericmigi/lightsaber-duel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-05-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-05-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A Star Wars-inspired watch face. Luke and Darth Vader &#x27;face&#x27; o quote face off every minute or hour, depending on the configured setting. Sound effects match the animation but are not played during…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-migicovsky_cef
 <h2 class="app-name" id="app-f8ea4d34aa3d4ba594745fac"><a href="https://apps.repebble.com/f8ea4d34aa3d4ba594745fac">Ana-digi Vibez</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ericmigi/anadigi-vibez" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-26</span> <span title="Latest release in the app store">Updated 2026-03-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-26</span> <span title="Latest release in the app store">Updated 2026-03-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Retro ana-digi with Casio vibes! For Pebble Time 2 and Pebble Round 2</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-migicovsky_cef
 <h2 class="app-name" id="app-5394ad79e553f6ec0a000094"><a href="https://apps.repebble.com/5394ad79e553f6ec0a000094">Pebbletron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ericmigi/PebbleTron" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-08</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-08</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Control your Lockitron lock right from your Pebble! Built using Pebble.js and Cloudpebble.net. Thanks Huy and Katharine! No locks? remember to log in: My Pebble -&gt; Pebbletron -&gt; Settings Source…</p>
 </div>

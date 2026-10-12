@@ -13,7 +13,7 @@ hide:
 
 # CGTheLegend
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cgthelegend_54b05ee9478cd30b0c0000f6) · [GitHub (CGTheLegend)](https://github.com/CGTheLegend)
 

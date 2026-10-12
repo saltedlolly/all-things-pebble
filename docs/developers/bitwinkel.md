@@ -13,7 +13,7 @@ hide:
 
 # Bitwinkel
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bitwinkel_5301c0cdd1653b8d5e0003ac) · [GitHub (bitwinkel)](https://github.com/bitwinkel) · [Website (bitwinkel.com)](http://www.bitwinkel.com)
 

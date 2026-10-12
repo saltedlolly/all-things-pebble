@@ -13,7 +13,7 @@ hide:
 
 # dAN-o
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-o_7554f7efe7fa233696d7913a) · [GitHub (killdano)](https://github.com/killdano) · [Website (mirrormap.app)](https://mirrormap.app/mirrormsg)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-o_7554f7efe7fa2
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="mirrormsg" data-released="2026-07-07" data-updated="2026-10-08">
+<div class="app-card" data-type="watchapp" data-title="mirrormsg" data-released="2026-07-07" data-updated="2026-10-11">
 <a class="app-shot" href="https://apps.repebble.com/a6afc81d58194fa6969f0c34" data-search-exclude><img src="../images/apps/a6afc81d58194fa6969f0c34.gif" alt="MirrorMsg" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a6afc81d58194fa6969f0c34"><a href="https://apps.repebble.com/a6afc81d58194fa6969f0c34">MirrorMsg</a> <span class="app-version" title="Latest version" data-search-exclude>v0.93.0</span></h2>
+<h2 class="app-name" id="app-a6afc81d58194fa6969f0c34"><a href="https://apps.repebble.com/a6afc81d58194fa6969f0c34">MirrorMsg</a> <span class="app-version" title="Latest version" data-search-exclude>v0.94.0</span></h2>
 <a class="app-source" href="https://github.com/killdano/mirrormsg" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-07</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-07</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">MirrorMsg is the most advanced messaging client for Pebble. Log in to your accounts and see all your live conversations in chat threads that scroll through the entire chat, with rich modern…</p>
 </div>

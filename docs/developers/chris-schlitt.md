@@ -13,7 +13,7 @@ hide:
 
 # Chris Schlitt
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-schlitt_54cd677466e305202000004d) · [GitHub (chrisschlitt)](https://github.com/chrisschlitt) · [Website (chrisschlitt.com)](https://www.chrisschlitt.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-schlitt_54cd6
 <h2 class="app-name" id="app-559d4a07d106c8dc08000056"><a href="https://apps.repebble.com/559d4a07d106c8dc08000056">MLB Live Face</a> <span class="app-version" title="Latest version" data-search-exclude>v3.11</span></h2>
 <a class="app-source" href="https://github.com/chrisschlitt/MLB-Live-Face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-08</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-08</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">All new for the 2016 season: -Support for Pebble Time Round -Shake to Show Broadcast Information -Improved Battery Life -New Bases Display With MLB live faces you&#x27;ll never miss the action of Major…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Namka
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a061bb94787e50008f7f373/1) · [GitHub (s-titanium-74)](https://github.com/s-titanium-74)
 

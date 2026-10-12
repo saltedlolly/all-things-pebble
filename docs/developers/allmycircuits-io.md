@@ -13,7 +13,7 @@ hide:
 
 # AllMyCircuits.io
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/allmycircuits-io_53da8be0e763e0c122000040) · [GitHub (Alianar)](https://github.com/Alianar) · [Website (allmycircuits.io)](http://www.allmycircuits.io/?utm_source=ArduWatch%20Pebble%20Website&utm_medium=WebReference&utm_campaign=PebbleAppStore)
 

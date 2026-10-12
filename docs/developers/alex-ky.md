@@ -13,7 +13,7 @@ hide:
 
 # Alex Ky
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-ky_54775bfdb64bc9acc0000064) · [GitHub (Taran2ul)](https://github.com/Taran2ul)
 

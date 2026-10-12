@@ -13,7 +13,7 @@ hide:
 
 # Javierorp
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/javierorp_6abfbc8aaef3d700082ad48f) · [GitHub (javierorp)](https://github.com/javierorp) · [Website (javierorp.vercel.app)](https://javierorp.vercel.app/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/javierorp_6abfbc8aa
 <h2 class="app-name" id="app-6ac8f6b8836dec0008982ccb"><a href="https://apps.repebble.com/6ac8f6b8836dec0008982ccb">AImigo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/javierorp/pebble-aimigo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1414" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Your (small) AI voice assistant, right on your wrist. ⚠️ Requires a NaN.builders API key (https://nan.builders) and the Pebble phone app connected for dictation. Supported watches: ✅ Pebble Time 2…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/javierorp_6abfbc8aa
 <h2 class="app-name" id="app-6ac659d64ccfa70009b00593"><a href="https://apps.repebble.com/6ac659d64ccfa70009b00593">Precio Luz PVPC</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/javierorp/pebble-pvpc" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1412" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Consulta el precio de la luz (PVPC*) en España desde tu muñeca. - Los 24 precios del día en €/kWh o €/MWh - Precios de mañana en cuanto los publica REE (sobre las 20:00 h) - Hora en vigor marcada…</p>
 </div>

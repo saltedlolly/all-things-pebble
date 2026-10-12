@@ -13,7 +13,7 @@ hide:
 
 # Eric Gideon
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-gideon_58180d45c68d00fc6c000024) · [GitHub (egid)](https://github.com/egid)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-gideon_58180d4
 <h2 class="app-name" id="app-5830a01b00355a2f3a00004f"><a href="https://apps.repebble.com/5830a01b00355a2f3a00004f">Aeronaut</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8</span></h2>
 <a class="app-source" href="https://github.com/egid/pebbleAnalog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-19</span> <span title="Latest release in the app store">Updated 2017-08-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-19</span> <span title="Latest release in the app store">Updated 2017-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Aeronaut is inspired by pilot&#x27;s watches, with a GMT pointer and the date. Second hand optional. Black and white styles available.</p>
 </div>

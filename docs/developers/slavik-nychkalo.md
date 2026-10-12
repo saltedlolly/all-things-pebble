@@ -13,7 +13,7 @@ hide:
 
 # slavik.nychkalo
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slavik-nychkalo_4e9c4462cbe1def15e9e48e8) · [GitHub (gebeto)](https://github.com/gebeto)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slavik-nychkalo_4e9
 <h2 class="app-name" id="app-2f229539bafd413d8659522e"><a href="https://apps.repebble.com/2f229539bafd413d8659522e">halfy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gebeto/pebble-watchfaces/tree/main/halfy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-20</span> <span title="Latest release in the app store">Updated 2026-01-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-20</span> <span title="Latest release in the app store">Updated 2026-01-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple minimalistic watchface</p>
 </div>

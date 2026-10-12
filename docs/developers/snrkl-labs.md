@@ -13,7 +13,7 @@ hide:
 
 # snrkl labs
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/snrkl-labs_4aece47c3cbfb14d594e6f1b) · [GitHub (snrkl-labs)](https://github.com/snrkl-labs)
 

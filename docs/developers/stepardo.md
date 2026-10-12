@@ -13,7 +13,7 @@ hide:
 
 # stepardo
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58b742146ca387216b000254/1) · [GitHub (stepardo)](https://github.com/stepardo) · [Website (stepardo.de)](https://www.stepardo.de)
 

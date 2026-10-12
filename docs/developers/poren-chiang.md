@@ -13,7 +13,7 @@ hide:
 
 # Poren Chiang
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/poren-chiang_5589492eb0fe0583b00000ba) · [GitHub (rschiang)](https://github.com/rschiang)
 

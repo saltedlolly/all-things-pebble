@@ -13,7 +13,7 @@ hide:
 
 # xorcl
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xorcl_53134ca2bb31cf87cd000254)
 

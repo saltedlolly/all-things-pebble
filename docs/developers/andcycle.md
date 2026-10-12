@@ -13,7 +13,7 @@ hide:
 
 # AndCycle
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andcycle_5612259599362ae2e300007c) · [GitHub (AndCycle)](https://github.com/AndCycle)
 

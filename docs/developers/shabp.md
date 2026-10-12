@@ -13,7 +13,7 @@ hide:
 
 # ShaBP
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f018d9bb3423921000022d/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/shabp_52f018d9bb3423921000022d) · [GitHub (ShaBP)](https://github.com/ShaBP)
 

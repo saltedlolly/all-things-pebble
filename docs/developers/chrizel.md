@@ -13,7 +13,7 @@ hide:
 
 # chrizel
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chrizel_e680f3182a066dc5d559126d) · [GitHub (chrizel)](https://github.com/chrizel)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chrizel_e680f3182a0
 <h2 class="app-name" id="app-e7e6e7aac1e24f90b0c8d43b"><a href="https://apps.repebble.com/e7e6e7aac1e24f90b0c8d43b">Almanac</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/chrizel/Almanac" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-28</span> <span title="Latest release in the app store">Updated 2026-09-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-28</span> <span title="Latest release in the app store">Updated 2026-09-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A calm watchface built around the two things you actually look down for: what&#x27;s coming up, and what the sky is doing. Three blocks on a plain field, nothing else. DATE - weekday and day number…</p>
 </div>

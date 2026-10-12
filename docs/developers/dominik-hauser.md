@@ -13,7 +13,7 @@ hide:
 
 # Dominik Hauser
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dominik-hauser_ab6e7e563a14ef03bb88d9a6) · [GitHub (dasdom)](https://github.com/dasdom)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dominik-hauser_ab6e
 <h2 class="app-name" id="app-5bf51e42121c464ebd50192a"><a href="https://apps.repebble.com/5bf51e42121c464ebd50192a">Poly Numbers One</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dasdom/Pebble_PolyNumbersOne_Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-23</span> <span title="Latest release in the app store">Updated 2026-04-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-23</span> <span title="Latest release in the app store">Updated 2026-04-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">- Support for 12/24 hours - Nice numbers</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dominik-hauser_ab6e
 <h2 class="app-name" id="app-218d8ca4983c4bf2a604589d"><a href="https://apps.repebble.com/218d8ca4983c4bf2a604589d">Coordinates</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dasdom/Pebble_Coordinates_Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Hours are shown on the y-axis and minutes are shown on the x-axis. The watch face gives you a sense of how many minutes have passed this hour and how many hours have passed today. The shape of the…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dominik-hauser_ab6e
 <h2 class="app-name" id="app-8a6bdc2d8d254225b3f437dc"><a href="https://apps.repebble.com/8a6bdc2d8d254225b3f437dc">BarsOne</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/dasdom/pebble_watch_face_bars_one" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-02-20</span> <span title="Latest release in the app store">Updated 2026-02-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-02-20</span> <span title="Latest release in the app store">Updated 2026-02-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watch face for all the bar chart lovers out there.</p>
 </div>

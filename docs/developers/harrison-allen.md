@@ -13,7 +13,7 @@ hide:
 
 # Harrison Allen
 
-*18 watchfaces and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*18 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harrison-allen_5e28ea923dd3109f151c7e08) · [Rebble App Store](https://apps.rebble.io/en_US/developer/5e28ea923dd3109f151c7e08/1) · [GitHub (HarrisonAllen)](https://github.com/HarrisonAllen)
 

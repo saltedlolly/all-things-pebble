@@ -13,7 +13,7 @@ hide:
 
 # Jake Zimmerman
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531fe9fc0f3ef7275900002c/1) · [GitHub (jez)](https://github.com/jez)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531fe9fc0f3ef72
 <h2 class="app-name" id="app-597b8f670dfc32af61001d35"><a href="https://apps.rebble.io/en_US/application/597b8f670dfc32af61001d35">Minimal Black</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/jez/pebble-minimal-black" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-07-28</span> <span title="Latest release in the app store">Updated 2017-07-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-07-28</span> <span title="Latest release in the app store">Updated 2017-07-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Time, battery indicator, and simple date indicator. Also shows &quot;no bluetooth&quot; icon when disconnected.</p>
 </div>

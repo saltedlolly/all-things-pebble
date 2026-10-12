@@ -13,7 +13,7 @@ hide:
 
 # Brian Mock
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54f00fa7c7813174cf00001a/1) · [GitHub (wavebeem)](https://github.com/wavebeem)
 

@@ -13,7 +13,7 @@ hide:
 
 # Adrian Pascu
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/697bed7402360800096afe3b/1) · [GitHub (peblum)](https://github.com/peblum) · [Website (pascu.be)](https://pascu.be)
 

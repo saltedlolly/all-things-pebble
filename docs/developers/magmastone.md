@@ -13,7 +13,7 @@ hide:
 
 # MagmaStone
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/magmastone_52ee9e7ebf4b6279c500003f) · [GitHub (magmapus)](https://github.com/magmapus) · [GitHub (magmastonealex)](https://github.com/magmastonealex)
 

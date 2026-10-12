@@ -13,7 +13,7 @@ hide:
 
 # Ricardo González
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ricardo-gonz-lez_52cbd3a96e5f7017d000011e) · [GitHub (ryck)](https://github.com/ryck) · [Website (ryck.github.io)](http://ryck.github.io/BN0046/)
 

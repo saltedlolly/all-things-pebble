@@ -13,7 +13,7 @@ hide:
 
 # Øyvind Kvangardsnes
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yvind-kvangardsnes_9c8b7e90c261a8055961c2ef) · [GitHub (kvangaball)](https://github.com/kvangaball)
 

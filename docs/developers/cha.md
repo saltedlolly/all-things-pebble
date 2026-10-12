@@ -13,7 +13,7 @@ hide:
 
 # CHA
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cha_5501cf747ed24ab4f200005f) · [GitHub (clemshubs)](https://github.com/clemshubs)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cha_5501cf747ed24ab
 <h2 class="app-name" id="app-5551aaf4cf532cacf50000e4"><a href="https://apps.repebble.com/5551aaf4cf532cacf50000e4">Humble World Map</a> <span class="app-version" title="Latest version" data-search-exclude>v1.07</span></h2>
 <a class="app-source" href="https://github.com/clemshubs/WorldMapWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-12</span> <span title="Latest release in the app store">Updated 2016-01-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-05-12</span> <span title="Latest release in the app store">Updated 2016-01-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watchface shows your position in realtime on the Earth. More to come : Night map, Real stars positions, Clouds maybe, Whatever you suggest and I can put in it !</p>
 </div>

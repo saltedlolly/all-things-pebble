@@ -13,7 +13,7 @@ hide:
 
 # Jessica Yeh
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jessica-yeh_54cbc3b00a912f754500000c) · [GitHub (JessicaYeh)](https://github.com/JessicaYeh)
 

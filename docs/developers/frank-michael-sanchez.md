@@ -13,7 +13,7 @@ hide:
 
 # Frank Michael Sanchez
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frank-michael-sanchez_52f029211ac794870800095d) · [GitHub (fmscode)](https://github.com/fmscode) · [Website (pinballmap.com)](http://pinballmap.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frank-michael-sanch
 <h2 class="app-name" id="app-54c14c00bcd4c7b7ca000069"><a href="https://apps.repebble.com/54c14c00bcd4c7b7ca000069">Pinball Map</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/fmscode/pbm-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-22</span> <span title="Latest release in the app store">Updated 2015-01-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-22</span> <span title="Latest release in the app store">Updated 2015-01-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Find nearby pinball machines! The Pinball Map Pebble App tells you the closest places to play pinball, as well as which machines have been recently added to spots. You can also use it to find…</p>
 </div>

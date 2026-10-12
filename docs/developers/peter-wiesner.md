@@ -13,7 +13,7 @@ hide:
 
 # Peter Wiesner
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/peter-wiesner_5572b4f83b1d516f79000011) · [GitHub (WiesnerPeti)](https://github.com/WiesnerPeti)
 

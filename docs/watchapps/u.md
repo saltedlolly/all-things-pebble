@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · **U** · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*27 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*27 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-56ad0adf9f30b55594000037"><a href="https://apps.repebble.com/56ad0adf9f30b55594000037">Uni Konstanz Mensa</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/duerrsimon/konstanz-pebble-mensa/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/simon-durr.html" title="More from this developer">Simon Dürr</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2016-01-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2016-01-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">App für die Mensa der Universität Konstanz</p>
 </div>
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-54d96e9e63eb4186fc000048"><a href="https://apps.repebble.com/54d96e9e63eb4186fc000048">Unofficial Support for Trello</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/clintoncrick/Unofficial-Support-for-Trello" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/clintoncrick.html" title="More from this developer">clintoncrick</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-10</span> <span title="Latest release in the app store">Updated 2015-12-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-10</span> <span title="Latest release in the app store">Updated 2015-12-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">&quot;Unofficial Support for Trello&quot; is a Pebble app which allows access to your Trello boards. View boards, lists, and individual cards from your Pebble. Change log: *Version 1.4 (2015-12-17) fixes…</p>
 </div>
@@ -127,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-6a98f3c7039ea900095fe2da"><a href="https://apps.repebble.com/6a98f3c7039ea900095fe2da">Unpack</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/unpack-watchapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/1320" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-03</span> <span title="Latest release in the app store">Updated 2026-09-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-03</span> <span title="Latest release in the app store">Updated 2026-09-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A von Neumann probe game for Pebble. You arrive in an uncharted system with a seed payload and no infrastructure. Unpack yourself into power and extraction, work the bodies you find, and build…</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-5468365c32e2d70d26000095"><a href="https://apps.repebble.com/5468365c32e2d70d26000095">uOttawa Card Manager</a> <span class="app-version" title="Latest version" data-search-exclude>v2.05</span></h2>
 <a class="app-source" href="https://github.com/fletchto99/uOttawa-Card-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matt-langlois.html" title="More from this developer">Matt Langlois</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Allows University of Ottawa students to preform various actions on their uOttawa card. Actions include: - Check Flex &amp; Meal plan balance - Check history of last 10 Meal plan purchases - Check…</p>
 </div>
@@ -212,10 +212,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/dd43ab18532144fa9a9e002d" data-search-exclude><img src="../images/apps/dd43ab18532144fa9a9e002d.png" alt="US Soccer Clubs App" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-dd43ab18532144fa9a9e002d"><a href="https://apps.repebble.com/dd43ab18532144fa9a9e002d">US Soccer Clubs App</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-dd43ab18532144fa9a9e002d"><a href="https://apps.repebble.com/dd43ab18532144fa9a9e002d">US Soccer Clubs App</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://coppermothsoftware.com" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/copper-moth-software.html" title="More from this developer">Copper Moth Software</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-dev">by <a href="../developers/popoff-software.html" title="More from this developer">PopOff Software</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Follow your MLS, USL Championship or USL League One club from the app menu. The app version of the US Soccer Clubs watch face, with both views one button press apart. It opens on the screen you…</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-4cd94d569cf74819a2d66816"><a href="https://apps.repebble.com/4cd94d569cf74819a2d66816">US Tidemaps</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
 <a class="app-source" href="https://github.com/jashyotes/us-tidemaps" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jashyotes.html" title="More from this developer">jashyotes</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-07-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-07-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round</div>
 <p class="app-desc"># US Tidemaps Standalone Pebble app showing NOAA tide predictions for a user-configured station. Designed for the Pebble Time 2 (emery). 48-hour hourly window centered on &quot;now&quot; (24 past, 24…</p>
 </div>
@@ -259,7 +259,7 @@ hide:
 <h2 class="app-name" id="app-52e7b8ee217dd0e5bc00000f"><a href="https://apps.repebble.com/52e7b8ee217dd0e5bc00000f">uTorrent Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.3</span></h2>
 <a class="app-source" href="https://github.com/jjv360/uTorrent-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jjv360.html" title="More from this developer">jjv360</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-28</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-28</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple remote control for uTorrent. Features: - List of torrents - View size, speed and ETA - Progress bar to quickly see download progress - Start and stop torrents</p>
 </div>
@@ -292,7 +292,7 @@ hide:
 <h2 class="app-name" id="app-ce83e3b7c2f4491991a5fc19"><a href="https://apps.repebble.com/ce83e3b7c2f4491991a5fc19">UV Guard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/ggogel/pebble-uv-guard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ggogel.html" title="More from this developer">ggogel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-01</span> <span title="Latest release in the app store">Updated 2026-07-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-01</span> <span title="Latest release in the app store">Updated 2026-07-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">UV Guard helps you know when the sun is worth taking seriously. Get a quick, glanceable UV forecast on your Pebble with the information that actually matters: how strong UV will get, when it…</p>
 </div>

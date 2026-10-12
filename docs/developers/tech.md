@@ -13,7 +13,7 @@ hide:
 
 # Tech
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tech_546f37cf5c3354c5f400009e) · [GitHub (pahakorolev)](https://github.com/pahakorolev)
 

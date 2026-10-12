@@ -13,7 +13,7 @@ hide:
 
 # Marc-André Dufresne
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marc-andr-dufresne_52cb0dc545ffdd6893000022) · [GitHub (MarcDufresne)](https://github.com/MarcDufresne)
 

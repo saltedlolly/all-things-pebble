@@ -13,7 +13,7 @@ hide:
 
 # mattmb
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mattmb_52b86238200b9b1de200002d) · [GitHub (mattmb)](https://github.com/mattmb)
 

@@ -13,7 +13,7 @@ hide:
 
 # Sloth8497
 
-*5 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sloth8497_68c4a750647ef000080f0b2d) · [GitHub (ping840907)](https://github.com/ping840907)
 

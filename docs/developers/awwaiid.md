@@ -13,7 +13,7 @@ hide:
 
 # awwaiid
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/awwaiid_a6122c9c814c119e3a27343e) · [GitHub (awwaiid)](https://github.com/awwaiid)
 

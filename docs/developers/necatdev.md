@@ -13,7 +13,7 @@ hide:
 
 # NecatDev
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/necatdev_560c2c9ebc20af3a0d0000af) · [GitHub (madnecat)](https://github.com/madnecat) · [Website (facebook.com)](https://www.facebook.com/NecatDev/)
 

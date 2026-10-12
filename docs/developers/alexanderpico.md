@@ -13,7 +13,7 @@ hide:
 
 # AlexanderPico
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alexanderpico_531ca79f46b8f200dd00028b) · [GitHub (AlexanderPico)](https://github.com/AlexanderPico) · [Website (mypebblefaces.com)](http://www.mypebblefaces.com/apps/8525/6127/)
 

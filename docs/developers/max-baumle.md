@@ -13,7 +13,7 @@ hide:
 
 # Max Bäumle
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/529e272138dd3faefd00001f/1) · [GitHub (maxbaeumle)](https://github.com/maxbaeumle) · [GitHub (JamesFowler42)](https://github.com/JamesFowler42) · [Website (smartwatch.pro)](http://smartwatch.pro)
 

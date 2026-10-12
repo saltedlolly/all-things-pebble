@@ -13,7 +13,7 @@ hide:
 
 # Bayport
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bayport_03559efbed7009e6e0cfe6de) · [GitHub (b-bayport)](https://github.com/b-bayport) · [Website (en.wikipedia.org)](https://en.wikipedia.org/wiki/Expeditus)
 

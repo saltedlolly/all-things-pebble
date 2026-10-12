@@ -13,7 +13,7 @@ hide:
 
 # gogothegogo
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gogothegogo_56e335002526c72e66000023) · [GitHub (gogothegogo)](https://github.com/gogothegogo)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gogothegogo_56e3350
 <h2 class="app-name" id="app-573d93ea5253b12407000009"><a href="https://apps.repebble.com/573d93ea5253b12407000009">A Maze</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gogothegogo/Maze_Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-19</span> <span title="Latest release in the app store">Updated 2016-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-19</span> <span title="Latest release in the app store">Updated 2016-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Cool watchface with maze-like appearance showing time. Shake the watch and you get seconds and date. It is coded to preserve the battery, meaning seconds are not tracked until you shake watch, and…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gogothegogo_56e3350
 <h2 class="app-name" id="app-5727b71aded3576963000013"><a href="https://apps.repebble.com/5727b71aded3576963000013">Simple Square</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/gogothegogo/SimpleSquare_Pebble.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-02</span> <span title="Latest release in the app store">Updated 2016-05-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-02</span> <span title="Latest release in the app store">Updated 2016-05-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchface with square pixel-perfect font with time and date. Completely configurable. You can configure: - time and date font sizes - date on/off - time and date background color …</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gogothegogo_56e3350
 <h2 class="app-name" id="app-56f9230c61a0160aa700002e"><a href="https://apps.repebble.com/56f9230c61a0160aa700002e">TetrisTime_mod</a> <span class="app-version" title="Latest version" data-search-exclude>v3.5</span></h2>
 <a class="app-source" href="https://github.com/gogothegogo/TetrisTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-28</span> <span title="Latest release in the app store">Updated 2016-04-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-28</span> <span title="Latest release in the app store">Updated 2016-04-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Completely based on VFLashM amazing TetrisTime watchface. I did few mods for my needs: -got rid of large date fonts -added option of Croatian dates and weekdays -added additional battery empty…</p>
 </div>

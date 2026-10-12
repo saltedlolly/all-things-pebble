@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · **D** · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*75 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*75 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-b229dc1d5c514592b970629b"><a href="https://apps.repebble.com/b229dc1d5c514592b970629b">Dancing Dino</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/davv47/Pebble_Dino_Dance" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/davv47.html" title="More from this developer">davv47</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-08</span> <span title="Latest release in the app store">Updated 2026-04-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-08</span> <span title="Latest release in the app store">Updated 2026-04-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Dancing dino app (mostly made for my toddler).</p>
 </div>
@@ -171,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-f836d297402b44d7baf12e47"><a href="https://apps.repebble.com/f836d297402b44d7baf12e47">Deadliner</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/cibyr/deadliner" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ian-cullinan.html" title="More from this developer">Ian Cullinan</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-05-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Zeno&#x27;s paradox for alarms</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-52cf84a48fdab54a4b00003d"><a href="https://apps.repebble.com/52cf84a48fdab54a4b00003d">Delay Calculator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/evanstoddard/delay_calculator_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/evan-stoddard.html" title="More from this developer">Evan Stoddard</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-10</span> <span title="Latest release in the app store">Updated 2014-01-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-10</span> <span title="Latest release in the app store">Updated 2014-01-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app is for musicians, sound engineers, or anyone else that works with music. This app allows you to quickly calculate delay times based on the beat that you click in with the middle button…</p>
 </div>
@@ -336,7 +336,7 @@ hide:
 <h2 class="app-name" id="app-556bbaf730850a5fab000089"><a href="https://apps.repebble.com/556bbaf730850a5fab000089">Devboard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/fletchto99/pebble-devboard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matt-langlois.html" title="More from this developer">Matt Langlois</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2016-02-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Enables the ability for pebble developers to view the status of their projects directly from their Pebble!</p>
 </div>
@@ -402,7 +402,7 @@ hide:
 <h2 class="app-name" id="app-5791726850c752e32e0000e1"><a href="https://apps.repebble.com/5791726850c752e32e0000e1">Dice Roller</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/hdyar/pebbleDiceRoller/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/blooper.html" title="More from this developer">Blooper!</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-22</span> <span title="Latest release in the app store">Updated 2016-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-22</span> <span title="Latest release in the app store">Updated 2016-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple dice rolling app. Use the top button to cycle through the number of sides on the dice - 2, 3, 4, 6, 8, 10, or 20. Use the bottom button to cycle through the number of dice. 1 - 6. The…</p>
 </div>
@@ -463,14 +463,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/5b595252b47f4f28ae51c39d" data-search-exclude><img src="../images/apps/5b595252b47f4f28ae51c39d.png" alt="Digivice - Alpha build" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/5b595252b47f4f28ae51c39d" data-search-exclude><img src="../images/apps/5b595252b47f4f28ae51c39d.png" alt="Digimon Digivice" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digivice - Alpha build</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
+<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v0.91</span></h2>
 <a class="app-source" href="https://github.com/vinay1017/Pebble-Digivice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vinayla.html" title="More from this developer">Vinayla</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">A very early, alpha build of a reworked digivice. I wished this existed for the pebble, so I made one for myself. It is NOT anywhere near completion and it&#x27;s all MY original code. Took some…</p>
+<p class="app-desc">My take on a hybrid digivice + vital bracelet Digimon app! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how to digivolve to…</p>
 </div>
 </div>
 <div class="app-card">
@@ -534,7 +534,7 @@ hide:
 <h2 class="app-name" id="app-55b75efd3d39bb179a00003d"><a href="https://apps.repebble.com/55b75efd3d39bb179a00003d">DN for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2</span></h2>
 <a class="app-source" href="https://github.com/ireade/dn-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ire.html" title="More from this developer">Ire</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-28</span> <span title="Latest release in the app store">Updated 2015-08-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-28</span> <span title="Latest release in the app store">Updated 2015-08-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The (unofficial) Designer News App for Pebble. Choose between Top Stories, Recent Stories, and Discussions. View the key information from each story.</p>
 </div>
@@ -600,7 +600,7 @@ hide:
 <h2 class="app-name" id="app-6aa22e17c73fab0009866dfc"><a href="https://apps.repebble.com/6aa22e17c73fab0009866dfc">DownTime: Voice Crosswords</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/hornofabraxas/pebble-crossword" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/omgslaykween.html" title="More from this developer">OmgSlayKween</a> · <a href="https://forum.rebble.io/t/1346" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">DownTime is an offline collection of 200 new crossword puzzles (9,000+ clues), supporting dictation for speech-to-text, or bespoke on-watch typing. It uses a custom crossword engine which displays…</p>
 </div>
@@ -633,7 +633,7 @@ hide:
 <h2 class="app-name" id="app-e7b34d918dc643d1b3d0db37"><a href="https://apps.repebble.com/e7b34d918dc643d1b3d0db37">Dragon Fist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/aircodum.html" title="More from this developer">AirCodum</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Arcade fighter for Pebble Time 2. KENZO vs BLAZE in endless mode — punch, kick, block, and unleash 3 Dragon Blaze chi blasts per round. Survive as many rounds as you can. Share with #pebbledragonfist</p>
 </div>
@@ -655,7 +655,7 @@ hide:
 <h2 class="app-name" id="app-68f274532342a000096820e8"><a href="https://apps.repebble.com/68f274532342a000096820e8">Dribble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/erlog135/dribble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/logan-head.html" title="More from this developer">Logan Head</a> · <a href="https://forum.rebble.io/t/596" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-10-17</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-10-17</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A precipitation &amp; hyperlocal weather app for Pebble. Location access is required for the app to work. When data is loaded, press the up or down buttons to scroll backwards or forwards through the…</p>
 </div>
@@ -688,7 +688,7 @@ hide:
 <h2 class="app-name" id="app-e5b37daa64c24c5cbe11dd05"><a href="https://apps.repebble.com/e5b37daa64c24c5cbe11dd05">Drinktervall</a> <span class="app-version" title="Latest version" data-search-exclude>v1.19.0</span></h2>
 <a class="app-source" href="https://github.com/dysseus-pascal/Drinktervall" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dysseus.html" title="More from this developer">dysseus</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Drinking reminder app with Timeline integration and a cute animation. Stay Hydrated my friends!</p>
 </div>
@@ -732,7 +732,7 @@ hide:
 <h2 class="app-name" id="app-536e3c760937dee0df0000c6"><a href="https://apps.repebble.com/536e3c760937dee0df0000c6">Dry Until</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/dunamis/pebble/tree/master/watchapps/dryuntil" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chris.html" title="More from this developer">chris</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-10</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-10</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app shows at what time the next rain shower is expected for your location in, using data from buienradar.nl.</p>
 </div>
@@ -743,7 +743,7 @@ hide:
 <h2 class="app-name" id="app-55aedba47328a882af000011"><a href="https://apps.repebble.com/55aedba47328a882af000011">DSN Now</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/flyinactor91/DSN-Now-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/michael-dupont.html" title="More from this developer">Michael duPont</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2016-06-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2016-06-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The Deep Space Network on your Pebble. Displays the dishes at various stations that are currently communicating with our deep space probes and the type of link (uplink/downlink). Cards also…</p>
 </div>
@@ -765,7 +765,7 @@ hide:
 <h2 class="app-name" id="app-2a6fe2cb878f4eb4ac9082fc"><a href="https://apps.repebble.com/2a6fe2cb878f4eb4ac9082fc">Dungeon Doors</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/duke0815/pebble-dungeon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/duke.html" title="More from this developer">duke</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Left or right? A pocket roguelike for your wrist. Walk through three dungeons, one door at a time. Above each door you see what waits behind it: a chest, an empty room, the merchant – or a…</p>
 </div>
@@ -820,7 +820,7 @@ hide:
 <h2 class="app-name" id="app-57594fd19bcb70b5bf000014"><a href="https://apps.repebble.com/57594fd19bcb70b5bf000014">DVB Trinity</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
 <a class="app-source" href="https://github.com/iherzdresden/dvb-trinity-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/roboresistance-com.html" title="More from this developer">roboresistance.com</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-09</span> <span title="Latest release in the app store">Updated 2016-09-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-06-09</span> <span title="Latest release in the app store">Updated 2016-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Displays DVB rides from the Trinitatisplatz station in Dresden</p>
 </div>
@@ -831,7 +831,7 @@ hide:
 <h2 class="app-name" id="app-568fc0da40353fbb78000051"><a href="https://apps.repebble.com/568fc0da40353fbb78000051">DVBMonitor</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/eadi/dvbmonitor" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sebastian-schneider.html" title="More from this developer">Sebastian Schneider</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-08</span> <span title="Latest release in the app store">Updated 2016-03-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-01-08</span> <span title="Latest release in the app store">Updated 2016-03-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Supports English and German. Lists the next departures on the closest DVB station (Dresden area). Mark stations as favorites to select them or other nearby stations later. Deutsch Zeigt die…</p>
 </div>

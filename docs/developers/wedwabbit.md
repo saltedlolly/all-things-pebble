@@ -13,7 +13,7 @@ hide:
 
 # wedwabbit
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wedwabbit_52f01d5093a087ad2500041d) · [GitHub (wedwabbit)](https://github.com/wedwabbit)
 

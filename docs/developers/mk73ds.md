@@ -13,7 +13,7 @@ hide:
 
 # MK73DS
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mk73ds_aafd215fb48d30afcabd54eb) · [GitHub (MK73DS)](https://github.com/MK73DS) · [Website (youtube.com)](https://www.youtube.com/playlist?list=PLYrPlgW_OgVk)
 

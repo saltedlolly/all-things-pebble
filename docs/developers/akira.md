@@ -13,7 +13,7 @@ hide:
 
 # Akira
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/akira_55b7f7c7c156bd8af600009e) · [GitHub (Akirakira)](https://github.com/Akirakira)
 

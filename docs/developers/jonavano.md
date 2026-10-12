@@ -13,7 +13,7 @@ hide:
 
 # Jonavano
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jonavano_e7404e2739e216a45fbef3a6) · [GitHub (jonavano)](https://github.com/jonavano)
 

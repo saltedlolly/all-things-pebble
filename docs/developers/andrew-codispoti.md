@@ -13,7 +13,7 @@ hide:
 
 # Andrew Codispoti
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-codispoti_52f0480b1ac79491190011f1) · [GitHub (andrew749)](https://github.com/andrew749)
 

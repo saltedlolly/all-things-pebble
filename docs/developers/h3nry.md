@@ -13,7 +13,7 @@ hide:
 
 # h3nry
 
-*1 watchface and 4 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/h3nry_66430b30a243d294bd0df8c0) · [GitHub (HenryTheAddict)](https://github.com/HenryTheAddict) · [Website (soylent.com)](https://soylent.com/pages/soylent-product-recommendation-quiz)
 

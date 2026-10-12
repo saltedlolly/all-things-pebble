@@ -13,7 +13,7 @@ hide:
 
 # cassidoo
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cassidoo_530153ea87b742d27c000250) · [GitHub (cassidoo)](https://github.com/cassidoo)
 

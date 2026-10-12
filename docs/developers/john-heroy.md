@@ -13,7 +13,7 @@ hide:
 
 # John Heroy
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-heroy_556b2f1c761822fa23000020) · [GitHub (johnheroy)](https://github.com/johnheroy)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-heroy_556b2f1c
 <h2 class="app-name" id="app-5633012f7d83b69b6100004e"><a href="https://apps.repebble.com/5633012f7d83b69b6100004e">Big Blue Bus (unofficial beta)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnheroy/bbb-api" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-30</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-30</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple app to find the nearest bus stops and upcoming arrivals for the Big Blue Bus (transit system in Santa Monica, California).</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # ThePurpleK
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thepurplek_5606dc7f2f167dbd3d000076) · [GitHub (kz)](https://github.com/kz) · [Website (timetablepush.me)](https://timetablepush.me/)
 

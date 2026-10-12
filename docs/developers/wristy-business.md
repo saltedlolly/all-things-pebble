@@ -13,7 +13,7 @@ hide:
 
 # Wristy Business
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wristy-business_52f0096f61b75268a1000052) · [GitHub (hipsterbrown)](https://github.com/hipsterbrown)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wristy-business_52f
 <h2 class="app-name" id="app-5620a39525ef793651000045"><a href="https://apps.repebble.com/5620a39525ef793651000045">Slate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/hipsterbrown/slate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-16</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-16</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Apple has Siri. Microsoft has Cortana. Now Pebble has Slate. Instantly add reminders to your Pebble Timeline simply by telling Slate what you need. Say &quot;Remind me to/about &lt;task&gt; at/on…</p>
 </div>

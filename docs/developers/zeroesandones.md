@@ -13,7 +13,7 @@ hide:
 
 # zeroesandones
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zeroesandones_2e6cca3d47b90f5b14f075bb) · [GitHub (benjaminjgill)](https://github.com/benjaminjgill)
 

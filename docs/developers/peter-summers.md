@@ -13,7 +13,7 @@ hide:
 
 # Peter Summers
 
-*2 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/peter-summers_544f79d4ba44304f8400004c) · [Website (forums.pebble.com)](https://forums.pebble.com/t/watchapp-open-source-get-back-to-navigation-app/15090)
 

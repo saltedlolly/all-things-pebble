@@ -13,7 +13,7 @@ hide:
 
 # drwrose
 
-*6 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e627ce1aff000009) · [GitHub (drwrose)](https://github.com/drwrose)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e62
 <h2 class="app-name" id="app-52999691129af7543000004c"><a href="https://apps.repebble.com/52999691129af7543000004c">Rosewright E</a> <span class="app-version" title="Latest version" data-search-exclude>v5.1.0</span></h2>
 <a class="app-source" href="https://github.com/drwrose/rosewright.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A particularly excellent imitation of a real, physical watchface. Like all Rosewright faces, it is extensively configurable including multiple face options, second hand, hour alert, bluetooth…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e62
 <h2 class="app-name" id="app-529993a5e627cef6e100004b"><a href="https://apps.repebble.com/529993a5e627cef6e100004b">Rosewright Chronograph</a> <span class="app-version" title="Latest version" data-search-exclude>v5.1.0</span></h2>
 <a class="app-source" href="https://github.com/drwrose/rosewright.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog &quot;Chronograph&quot; three-subdial watchface. It&#x27;s a fully functioning stopwatch with start/stop and lap buttons, and 0.1-second resolution. Like all Rosewright faces, it is extensively…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e62
 <h2 class="app-name" id="app-5299958de627ce91ae000053"><a href="https://apps.repebble.com/5299958de627ce91ae000053">Rosewright D</a> <span class="app-version" title="Latest version" data-search-exclude>v5.1.0</span></h2>
 <a class="app-source" href="https://github.com/drwrose/rosewright.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A straightforward analog watchface with clean, white hands on a gray background. Like all Rosewright faces, it is extensively configurable including multiple face options, second hand, hour alert…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e62
 <h2 class="app-name" id="app-57d7678cffca49beb50003c1"><a href="https://apps.repebble.com/57d7678cffca49beb50003c1">Rosewright C</a> <span class="app-version" title="Latest version" data-search-exclude>v5.1.0</span></h2>
 <a class="app-source" href="https://github.com/drwrose/rosewright.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-13</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-13</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a watchface version of Rosewright Chronograph. Please install Rosewright Chronograph (listed among the apps) if you are looking for a functional chonograph watch. Rosewright C is a…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e62
 <h2 class="app-name" id="app-5299743a129af7a144000037"><a href="https://apps.repebble.com/5299743a129af7a144000037">Rosewright B</a> <span class="app-version" title="Latest version" data-search-exclude>v5.1.0</span></h2>
 <a class="app-source" href="https://github.com/drwrose/rosewright.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A clean and elegant analog watch. Like all Rosewright faces, it is extensively configurable including multiple face options, second hand, hour alert, bluetooth, battery, and day/date/month etc. in…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e62
 <h2 class="app-name" id="app-52997231129af73409000033"><a href="https://apps.repebble.com/52997231129af73409000033">Rosewright A</a> <span class="app-version" title="Latest version" data-search-exclude>v5.1.0</span></h2>
 <a class="app-source" href="https://github.com/drwrose/rosewright.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-05-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An elegant analog watchface, with intricate hands made to resemble a classic grandfather clock. Like all Rosewright faces, it is extensively configurable including multiple face options, second…</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e62
 <h2 class="app-name" id="app-529997b1e627ceb4e200005a"><a href="https://apps.repebble.com/529997b1e627ceb4e200005a">The 12 Doctors</a> <span class="app-version" title="Latest version" data-search-exclude>v4.6</span></h2>
 <a class="app-source" href="https://github.com/drwrose/doctors.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2016-11-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2016-11-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">12 Doctors and 12 hours: a different Doctor for each hour of the day. You can read the time by identifying the face of the Doctor for the hour, combined with the minutes displayed in the lower right.</p>
 </div>

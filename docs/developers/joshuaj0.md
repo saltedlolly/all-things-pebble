@@ -13,7 +13,7 @@ hide:
 
 # JoshuaJ0
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joshuaj0_52e91e56a85c63f6b1000034) · [GitHub (JoshuaJ0)](https://github.com/JoshuaJ0) · [Website (joshuajiang.me)](http://joshuajiang.me)
 

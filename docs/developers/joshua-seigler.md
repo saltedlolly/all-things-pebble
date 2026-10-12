@@ -13,7 +13,7 @@ hide:
 
 # Joshua Seigler
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joshua-seigler_d4e1ec90f7b8c03dc2346c14) · [Website (joshua.seigler.net)](https://joshua.seigler.net/)
 

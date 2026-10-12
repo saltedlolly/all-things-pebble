@@ -13,7 +13,7 @@ hide:
 
 # Dark Rock Studios
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dark-rock-studios_52b2051cb70e1c6827000041) · [GitHub (Wavesonics)](https://github.com/Wavesonics) · [Website (play.google.com)](https://play.google.com/store/apps/details?id=com.darkrockstudios.apps.ringmyphone)
 

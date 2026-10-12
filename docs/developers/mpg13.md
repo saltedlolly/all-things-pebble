@@ -13,7 +13,7 @@ hide:
 
 # MPG13
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mpg13_55493e11d6f29a57700000c9) · [GitHub (MPG13)](https://github.com/MPG13)
 

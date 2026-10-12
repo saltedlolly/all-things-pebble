@@ -13,7 +13,7 @@ hide:
 
 # Ish Ot Jr.
 
-*4 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ish-ot-jr_52f1ada1f216769cb90007ca) · [GitHub (ishotjr)](https://github.com/ishotjr) · [GitHub (PebbleA2)](https://github.com/PebbleA2) · [GitHub (HackDads)](https://github.com/HackDads) · [Website (ishotjr.com)](http://ishotjr.com/tag/pw-dos/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ish-ot-jr_52f1ada1f
 <h2 class="app-name" id="app-550f2f3a46cb79c9bc000044"><a href="https://apps.repebble.com/550f2f3a46cb79c9bc000044">PW-DOS Command Line Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/ishotjr/pw-dos" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-22</span> <span title="Latest release in the app store">Updated 2016-11-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-22</span> <span title="Latest release in the app store">Updated 2016-11-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">PW-DOS is a silly watchface for that small niche of individuals who enjoy modern wearable devices yet pine for the days of staring at a blinking command prompt. Day and month are reflected in…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ish-ot-jr_52f1ada1f
 <h2 class="app-name" id="app-5563583a32fe79e321000090"><a href="https://apps.repebble.com/5563583a32fe79e321000090">Cardiff Giant Simulator (inspired by AMC&#x27;s Halt and Catch Fire AKA HCF)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/ishotjr/pw-dos" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-25</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-25</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The Cardiff Giant Simulator is a remix of the PW-DOS Command Line Watchface, in celebration of Halt and Catch Fire Season 2, premiering on May 31st. Unfortunately we had to reduce RAM to save…</p>
 </div>

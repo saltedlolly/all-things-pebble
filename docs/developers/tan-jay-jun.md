@@ -13,7 +13,7 @@ hide:
 
 # Tan Jay Jun
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5311c54d92295dd6710001f7/1) · [GitHub (jayjun)](https://github.com/jayjun)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5311c54d92295dd
 <h2 class="app-name" id="app-531d9a3714708baa95000189"><a href="https://apps.rebble.io/en_US/application/531d9a3714708baa95000189">Contractions</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jayjun/Contractions" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-10</span> <span title="Latest release in the app store">Updated 2014-06-25</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-03-10</span> <span title="Latest release in the app store">Updated 2014-06-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Track labor contractions on your Pebble! Why fumble with smartphones? You can&#x27;t check logs while calling your midwife, and how long will that battery last? Put the log &amp; timer on your wrist. Made…</p>
 </div>

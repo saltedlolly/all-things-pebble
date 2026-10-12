@@ -13,7 +13,7 @@ hide:
 
 # Binam Kayastha
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67ce4aef84758d000924fbef/1) · [GitHub (binamkayastha)](https://github.com/binamkayastha) · [Website (binam.dev)](https://binam.dev)
 

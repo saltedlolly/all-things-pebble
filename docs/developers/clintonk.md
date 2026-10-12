@@ -13,7 +13,7 @@ hide:
 
 # ClintonK
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clintonk_5430520ca2f62248d600017b) · [GitHub (clintka)](https://github.com/clintka) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/17838/watch-face-all-info-as-text)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clintonk_5430520ca2
 <h2 class="app-name" id="app-5468b9fe32e2d7bfbc0000ce"><a href="https://apps.repebble.com/5468b9fe32e2d7bfbc0000ce">All Info As Text</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/clintka/AllInfoAsText.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2015-10-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2015-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">All Info As Text watch face delivers the time, date, current weather, today&#x27;s / tomorrow&#x27;s forecast, and a 2 week calendar. Config options include: week format temperature units wind speed units…</p>
 </div>

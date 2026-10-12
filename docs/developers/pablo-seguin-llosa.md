@@ -13,7 +13,7 @@ hide:
 
 # Pablo Séguin Llosá
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pablo-s-guin-llos_52f28cb488113476a3001720) · [GitHub (PabloLlosa)](https://github.com/PabloLlosa)
 

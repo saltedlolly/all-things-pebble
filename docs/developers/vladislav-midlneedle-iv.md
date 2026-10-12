@@ -13,7 +13,7 @@ hide:
 
 # Vladislav &\#x27;midlneedle&\#x27; Iv
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6914b85a1726d10009f9e745/1) · [GitHub (midlneedle-stack)](https://github.com/midlneedle-stack) · [Website (x.com)](https://x.com/midlneedle)
 

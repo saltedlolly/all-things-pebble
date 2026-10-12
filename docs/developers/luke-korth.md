@@ -13,7 +13,7 @@ hide:
 
 # Luke Korth
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/luke-korth_52c585721e1161ad65000042) · [GitHub (lkorth)](https://github.com/lkorth) · [Website (lukekorth.com)](http://lukekorth.com/blog/pebble-locker/)
 

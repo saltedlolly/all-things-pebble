@@ -13,7 +13,7 @@ hide:
 
 # Dsexton702
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dsexton702_52aa24cc7314ca7a6a000001) · [GitHub (dsexton702)](https://github.com/dsexton702) · [Website (teamacid.co)](http://teamacid.co/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dsexton702_52aa24cc
 <h2 class="app-name" id="app-52aa2b39b8f6c25ce1000003"><a href="https://apps.repebble.com/52aa2b39b8f6c25ce1000003">mAGIC8(accelerometer)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/dsexton702/magic8" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2013-12-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2013-12-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Now have the all the answers to your questions with the flick of a wrist! This app is based off of the magic 8 ball. Contains 20 different answers.</p>
 </div>

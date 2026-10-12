@@ -13,7 +13,7 @@ hide:
 
 # Harpowned
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harpowned_0f798d5c75c6fd85aaeec666) · [GitHub (harpowned)](https://github.com/harpowned)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harpowned_0f798d5c7
 <h2 class="app-name" id="app-e4c9a34638084e30a7e6fbac"><a href="https://apps.repebble.com/e4c9a34638084e30a7e6fbac">HoraAmbEstil</a> <span class="app-version" title="Latest version" data-search-exclude>v7.11.0</span></h2>
 <a class="app-source" href="https://github.com/harpowned/TimeStylePebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">This is a fork of the TimeStyle Pebble Watchface, with a twist. The time is displayed in text, in catalan, instead of in numbers. The rest of the original features of the TimeStyle watchface are…</p>
 </div>

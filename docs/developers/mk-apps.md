@@ -13,7 +13,7 @@ hide:
 
 # MK Apps
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mk-apps_549c3f97ad219e817400051d) · [GitHub (MK2018)](https://github.com/MK2018)
 

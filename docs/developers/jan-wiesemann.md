@@ -13,7 +13,7 @@ hide:
 
 # Jan Wiesemann
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jan-wiesemann_559ed15014e579cf2900005d) · [GitHub (Jan18101997)](https://github.com/Jan18101997) · [Website (janwiesemann.de)](http://janwiesemann.de)
 

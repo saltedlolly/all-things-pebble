@@ -13,7 +13,7 @@ hide:
 
 # Dexif
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dexif_52cfaf52516669ee6b00003a) · [GitHub (dexif)](https://github.com/dexif) · [Website (spitsyn.net)](http://spitsyn.net)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dexif_52cfaf5251666
 <h2 class="app-name" id="app-52f7fd2a14e54a5df20005a6"><a href="https://apps.repebble.com/52f7fd2a14e54a5df20005a6">Day/Night Minsk</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/dexif/DayNightCity" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-09</span> <span title="Latest release in the app store">Updated 2014-02-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-02-09</span> <span title="Latest release in the app store">Updated 2014-02-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">At 6 am/pm starts Day/Night Minsk mode.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dexif_52cfaf5251666
 <h2 class="app-name" id="app-52f7e1067847556b4c0004dd"><a href="https://apps.repebble.com/52f7e1067847556b4c0004dd">Day/Night City</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/dexif/DayNightCity" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-09</span> <span title="Latest release in the app store">Updated 2014-02-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-02-09</span> <span title="Latest release in the app store">Updated 2014-02-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">At 6 am/pm starts Day/Night mode.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dexif_52cfaf5251666
 <h2 class="app-name" id="app-52dc36aa75436b22120000f4"><a href="https://apps.repebble.com/52dc36aa75436b22120000f4">Pebblemous</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/dexif/Pebblemous" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-19</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-19</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble Anonymous watchface</p>
 </div>

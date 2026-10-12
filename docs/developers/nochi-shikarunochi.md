@@ -13,7 +13,7 @@ hide:
 
 # Nochi Shikarunochi
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nochi-shikarunochi_3ecb25cb217534d4bbc7e9c2) · [GitHub (shikarunochi)](https://github.com/shikarunochi)
 

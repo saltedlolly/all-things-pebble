@@ -13,7 +13,7 @@ hide:
 
 # astosia
 
-*23 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*24 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/astosia_58a635d30dfc320dc60003b4) · [Rebble App Store](https://apps.rebble.io/en_US/developer/58a635d30dfc320dc60003b4/1) · [GitHub (astosia)](https://github.com/astosia) · [Website (favouritehumandesign.com)](https://favouritehumandesign.com)
 
@@ -21,7 +21,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/astosia_58a635d30df
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>25</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>23</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>26</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>24</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
@@ -134,6 +134,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/astosia_58a635d30df
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-10-12</span> <span title="Latest release in the app store">Updated 2026-03-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Dual Dial configurable watchface, with zoomed in hours &amp; minutes. Overlapping dials create a DNA-like helix Features: - Optional second timezone using timeapi.io, shows second timezone underneath…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="eclipse" data-released="2026-03-15" data-updated="2026-03-15">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/69b71728acec7b00092d0954" data-search-exclude><img src="../images/apps/69b71728acec7b00092d0954.png" alt="Eclipse" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-69b71728acec7b00092d0954"><a href="https://apps.rebble.io/en_US/application/69b71728acec7b00092d0954">Eclipse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<a class="app-source" href="https://github.com/astosia/Eclipse" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/774" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-15</span> <span title="Latest release in the app store">Updated 2026-03-15</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Westworld inspired watchface, based on Serac&#x27;s Rehoboam watch (also looks quite a lot like a Solar Eclipse) Background updates every minute as the Divergence progresses Features: - Auto-detection…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="elizabeth" data-released="2022-08-06" data-updated="2026-02-22">

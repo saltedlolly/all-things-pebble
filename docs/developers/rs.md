@@ -13,7 +13,7 @@ hide:
 
 # rS
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rs_52f049ef1ac794fac8001087) · [GitHub (ace7196)](https://github.com/ace7196)
 

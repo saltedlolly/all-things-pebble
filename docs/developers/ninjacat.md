@@ -13,7 +13,7 @@ hide:
 
 # Ninjacat
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ninjacat_52f162f9c41172b4470005bd) · [GitHub (uaraven)](https://github.com/uaraven)
 

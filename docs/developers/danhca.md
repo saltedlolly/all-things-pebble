@@ -13,7 +13,7 @@ hide:
 
 # DanHca
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/danhca_530673457f35766a670004cb) · [GitHub (DanHca)](https://github.com/DanHca) · [GitHub (developerforce)](https://github.com/developerforce) · [Website (appexchange.salesforce.com)](https://appexchange.salesforce.com/listingDetail?listingId=a0N3000000B5eUdEAJ)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/danhca_530673457f35
 <h2 class="app-name" id="app-5395fc78c500b46a5b000010"><a href="https://apps.repebble.com/5395fc78c500b46a5b000010">PebbleForce Dashboard for Salesforce</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/developerforce/WearablePack-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-09</span> <span title="Latest release in the app store">Updated 2014-06-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-09</span> <span title="Latest release in the app store">Updated 2014-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Salesforce1 Pebble Dashboard This is an application that can connect to any Salesforce Instance and securely display the totals from your reports on your Pebble using iOS. You simply need to set…</p>
 </div>

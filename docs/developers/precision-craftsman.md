@@ -13,7 +13,7 @@ hide:
 
 # Precision Craftsman
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/precision-craftsman_542860e869f2895d7d000092) · [GitHub (RobOfTheSkyPeople)](https://github.com/RobOfTheSkyPeople)
 

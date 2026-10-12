@@ -13,7 +13,7 @@ hide:
 
 # Mantas Norvaiša
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mantas-norvai-a_5363b3cbc2a5e45ade0000d4) · [GitHub (mntnorv)](https://github.com/mntnorv)
 

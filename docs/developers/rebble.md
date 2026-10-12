@@ -13,7 +13,7 @@ hide:
 
 # Rebble
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/603aa992cee2f013540a42bb/1) · [GitHub (pebble-dev)](https://github.com/pebble-dev) · [Website (bobby.rebble.io)](https://bobby.rebble.io)
 

@@ -13,7 +13,7 @@ hide:
 
 # Jose Troche
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jose-troche_53a0dceb955b4c8acb0000e9) · [GitHub (jose-troche)](https://github.com/jose-troche) · [Website (linkedin.com)](http://www.linkedin.com/in/josetroche)
 

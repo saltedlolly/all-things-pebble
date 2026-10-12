@@ -13,7 +13,7 @@ hide:
 
 # AllesKaese
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alleskaese_03f3b735301f95b167b4f306) · [Codeberg (AllesKaese)](https://codeberg.org/AllesKaese)
 

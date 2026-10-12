@@ -13,7 +13,7 @@ hide:
 
 # Chrstian Marra
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chrstian-marra_549ac366a0bb06d3410000b3) · [GitHub (cmarra)](https://github.com/cmarra)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chrstian-marra_549a
 <h2 class="app-name" id="app-551fa70fd5e5f0cd6500000d"><a href="https://apps.repebble.com/551fa70fd5e5f0cd6500000d">CinemaToday</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/cmarra/cinemaToday" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-04</span> <span title="Latest release in the app store">Updated 2016-03-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-04</span> <span title="Latest release in the app store">Updated 2016-03-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">CinemaToday helps you to find cinema around you directly on your Pebble. See the programming and watch the movie.</p>
 </div>

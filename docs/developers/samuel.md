@@ -13,7 +13,7 @@ hide:
 
 # Samuel
 
-*2 watchfaces and 12 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 12 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41831af0000014) · [GitHub (samuelmr)](https://github.com/samuelmr) · [Website (getback.timelinepush.com)](http://getback.timelinepush.com/)
 

@@ -13,7 +13,7 @@ hide:
 
 # John Spahr
 
-*9 watchfaces and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*9 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660009e8a4db/1) · [GitHub (johnspahr)](https://github.com/johnspahr) · [Website (johnspahr.org)](https://johnspahr.org)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-6293cf9e98768d00095a945f"><a href="https://apps.rebble.io/en_US/application/6293cf9e98768d00095a945f">Laptopman Face 2.0</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/laptopmanface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-05-29</span> <span title="Latest release in the app store">Updated 2022-11-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-05-29</span> <span title="Latest release in the app store">Updated 2022-11-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Meet the new (and improved) Laptopman Face, a watchface featuring a guy with laptop for a head! This updated version introduces a more readable font and a battery meter. Be careful, though, as…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-637920b8c6c24a000a815e61"><a href="https://apps.rebble.io/en_US/application/637920b8c6c24a000a815e61">Activities</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/pebbleactivities" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-19</span> <span title="Latest release in the app store">Updated 2022-11-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-11-19</span> <span title="Latest release in the app store">Updated 2022-11-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Feeling bored? This little PebbleJS app uses the Bored API to suggest activities for you to do! Activities are selected based on the number of participants you choose. Created for Rebble Hackathon…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-6377c82fc6c24a000a815e53"><a href="https://apps.rebble.io/en_US/application/6377c82fc6c24a000a815e53">weezeface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/weezeface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-18</span> <span title="Latest release in the app store">Updated 2022-11-18</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-11-18</span> <span title="Latest release in the app store">Updated 2022-11-18</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The world’s first Weezer watchface for Pebble! Switches between the blue and red album covers depending on your BT connection status. This project was submitted for Rebble’s first hackathon! Be…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-636f0be6fdf3e30009f6394b"><a href="https://apps.rebble.io/en_US/application/636f0be6fdf3e30009f6394b">Disintegration</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/pebbletemplate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-12</span> <span title="Latest release in the app store">Updated 2022-11-12</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-11-12</span> <span title="Latest release in the app store">Updated 2022-11-12</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Simple face based on the classic Disintegration album cover by The Cure.</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-62d07e79635baa0009d782b9"><a href="https://apps.rebble.io/en_US/application/62d07e79635baa0009d782b9">Pet Sounds</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/petsoundsface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-07-14</span> <span title="Latest release in the app store">Updated 2022-07-25</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-07-14</span> <span title="Latest release in the app store">Updated 2022-07-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A simple watch face based on the album cover of The Beach Boys&#x27; &quot;Pet Sounds.&quot; This face was requested by fellow Pebbler Twebe Bebe on Discord. Anyway, enjoy!</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-62ddf692bcc333000908d28d"><a href="https://apps.rebble.io/en_US/application/62ddf692bcc333000908d28d">Mazda RX7</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/mazdarx7face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-07-25</span> <span title="Latest release in the app store">Updated 2022-07-25</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-07-25</span> <span title="Latest release in the app store">Updated 2022-07-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Pebble Time watch face that randomly displays a few different pictures of a Mazda RX7, the date, and the time. Watchface requested by Twebe Bebe of Pebblebot Repairs. (Be sure to check it out!)</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-62b22a46b4b75900091ae637"><a href="https://apps.rebble.io/en_US/application/62b22a46b4b75900091ae637">Cupertino (Updated)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/cupertinoface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-06-21</span> <span title="Latest release in the app store">Updated 2022-06-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-06-21</span> <span title="Latest release in the app store">Updated 2022-06-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A simple and elegant analog watchface with optional date and plenty of other customization options. Built with RockyJS. Note: This is an updated version of an existing face I released here that…</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-62964f20b4b75900091ae62a"><a href="https://apps.rebble.io/en_US/application/62964f20b4b75900091ae62a">Cupertino</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/cupertinoface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-05-31</span> <span title="Latest release in the app store">Updated 2022-06-12</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2022-05-31</span> <span title="Latest release in the app store">Updated 2022-06-12</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A simple and elegant analog watchface with optional date and plenty of other customization options. Built with RockyJS.</p>
 </div>
@@ -153,7 +153,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660
 <h2 class="app-name" id="app-60a3f01f1342ae0091b7e186"><a href="https://apps.rebble.io/en_US/application/60a3f01f1342ae0091b7e186">Compliment Moi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/johnspahr/compliment-moi-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-05-18</span> <span title="Latest release in the app store">Updated 2021-05-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2021-05-18</span> <span title="Latest release in the app store">Updated 2021-05-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Feeling gloomy? If so, perhaps a compliment will brighten up your day! Compliment Moi is a simple little Pebble.js app that compliments you and gives you words of encouragement. With tons of…</p>
 </div>

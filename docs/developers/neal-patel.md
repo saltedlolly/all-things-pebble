@@ -13,7 +13,7 @@ hide:
 
 # Neal Patel
 
-*9 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*9 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neal-patel_528feeab8a8c0b97c8000005) · [GitHub (Neal)](https://github.com/Neal) · [GitHub (Skipstone)](https://github.com/Skipstone) · [Website (ineal.me)](http://ineal.me/pebble/opalx)
 

@@ -13,7 +13,7 @@ hide:
 
 # Analog Escapement
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-escapement_3f393e5013f4edfcb04e2902) · [GitHub (ianhckr)](https://github.com/ianhckr)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-escapement_3
 <h2 class="app-name" id="app-3222bf0e72eb49819acdb7ff"><a href="https://apps.repebble.com/3222bf0e72eb49819acdb7ff">RS-RandomBG</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/ianhckr/RandomBG" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-19</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-09-19</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A watchface with a rotating slideshow of images. Short date, battery meter, and BT status. Open source and welcome to feedback and improvements.</p>
 </div>

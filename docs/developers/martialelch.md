@@ -13,7 +13,7 @@ hide:
 
 # MartialElch
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/martialelch_552d74770835230eb000005d) · [Rebble App Store](https://apps.rebble.io/en_US/developer/552d74770835230eb000005d/1) · [GitHub (MartialElch)](https://github.com/MartialElch)
 

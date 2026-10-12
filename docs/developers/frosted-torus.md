@@ -13,7 +13,7 @@ hide:
 
 # Frosted Torus
 
-*3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frosted-torus_55cf6edfdd278cc045000026) · [GitHub (Frosted-Torus)](https://github.com/Frosted-Torus) · [GitHub (KennethSchlatter)](https://github.com/KennethSchlatter)
 

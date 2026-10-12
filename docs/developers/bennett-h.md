@@ -13,7 +13,7 @@ hide:
 
 # Bennett H
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bennett-h_c59f1585d97607e74a71c3b0) · [GitHub (bennetthermanoff)](https://github.com/bennetthermanoff)
 

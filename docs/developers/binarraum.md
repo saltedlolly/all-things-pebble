@@ -13,7 +13,7 @@ hide:
 
 # binärraum
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bin-rraum_558434f50247ad56ad000040) · [GitHub (binaerraum)](https://github.com/binaerraum)
 

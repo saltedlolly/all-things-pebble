@@ -13,7 +13,7 @@ hide:
 
 # Justin Hamilton
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-hamilton_52b1e952c8363d3367000016) · [GitHub (justinhamilton)](https://github.com/justinhamilton)
 

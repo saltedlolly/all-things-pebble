@@ -13,7 +13,7 @@ hide:
 
 # Tony Erwin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tony-erwin_52f032284ae3633a64000ce9) · [GitHub (aerwin)](https://github.com/aerwin) · [Website (where.mybluemix.net)](https://where.mybluemix.net)
 

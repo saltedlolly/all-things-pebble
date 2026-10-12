@@ -13,7 +13,7 @@ hide:
 
 # James Brown
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-brown_52f009f94ae3630fc1000085) · [GitHub (Roguelazer)](https://github.com/Roguelazer)
 

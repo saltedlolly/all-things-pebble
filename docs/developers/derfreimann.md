@@ -13,7 +13,7 @@ hide:
 
 # derfreimann
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/derfreimann_52dea28d81cae24943000082) · [GitHub (derfreimann)](https://github.com/derfreimann) · [Website (forums.getpebble.com)](https://forums.getpebble.com/discussion/13508/watch-face-pokebattle-v3-0-available-now-fixed-all-crashing-issues-added-new-features)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/derfreimann_52dea28
 <h2 class="app-name" id="app-5390676b9e48a5d169000004"><a href="https://apps.repebble.com/5390676b9e48a5d169000004">PokeBattle</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://github.com/derfreimann/pokebattle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-05</span> <span title="Latest release in the app store">Updated 2016-04-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-05</span> <span title="Latest release in the app store">Updated 2016-04-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Random battles, changing every hour! [30+ different Pokemons] ♥ guaranteed crash free :D - 12h&amp;24h mode - lower HP-bar = Pebble&#x27;s battery - SLP status while disconnected - level up with each…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/derfreimann_52dea28
 <h2 class="app-name" id="app-5399622a798be93078000010"><a href="https://apps.repebble.com/5399622a798be93078000010">tiny doctors</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/derfreimann/tinydoctors" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-12</span> <span title="Latest release in the app store">Updated 2014-09-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-12</span> <span title="Latest release in the app store">Updated 2014-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Features cute, miniature versions of your favorite Doctor Who timelord! ✿ Update v2.3 [Sep.22] - added 1 monster, the burning T-Rex from Ep01S08 (=64 monsters in total) please visit WEBSITE for…</p>
 </div>

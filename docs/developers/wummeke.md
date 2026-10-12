@@ -13,7 +13,7 @@ hide:
 
 # Wummeke
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wummeke_5497211b5970d62abc00012f) · [GitHub (WumsWatchFace)](https://github.com/WumsWatchFace)
 

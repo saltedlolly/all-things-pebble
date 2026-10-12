@@ -13,7 +13,7 @@ hide:
 
 # eslimasec
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eslimasec_570434ebd7fa4e6c96000006) · [GitHub (eslimasec)](https://github.com/eslimasec) · [Website (s0lrider.blogspot.com)](http://s0lrider.blogspot.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eslimasec_570434ebd
 <h2 class="app-name" id="app-5771a0126c210445010002e3"><a href="https://apps.repebble.com/5771a0126c210445010002e3">s0lrider</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/eslimasec/S0lRider/tree/master/pebble/CloudPebble_Sources" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-27</span> <span title="Latest release in the app store">Updated 2016-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-27</span> <span title="Latest release in the app store">Updated 2016-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This app allows you to control s0lrider (solar Knight Rider) robot via voice commands. The robot can be charged by sun and even has the cool red scanner lights! :) more details here…</p>
 </div>

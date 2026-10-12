@@ -13,7 +13,7 @@ hide:
 
 # Colin Murphy
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/colin-murphy_565e17745629c91d9700007a) · [GitHub (c0decat)](https://github.com/c0decat) · [Website (mrtux.org)](http://mrtux.org/projects/commander/)
 

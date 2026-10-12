@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · **V** · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*46 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*46 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-ab41d7c9701c4dafb92c39a2"><a href="https://apps.repebble.com/ab41d7c9701c4dafb92c39a2">Velowatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.33.0</span></h2>
 <a class="app-source" href="https://github.com/genko/velowatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/velowatch.html" title="More from this developer">Velowatch</a> · <a href="https://forum.rebble.io/t/780" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Cycling weather watchface</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-67d405d0f4b49d00099ff85d"><a href="https://apps.repebble.com/67d405d0f4b49d00099ff85d">Vertin</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/duhrer/pebble-vertin-c" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tony-atkins.html" title="More from this developer">Tony Atkins</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-14</span> <span title="Latest release in the app store">Updated 2025-03-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-14</span> <span title="Latest release in the app store">Updated 2025-03-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">The second hand inverts the colours as it moves. The colours are configurable, and there&#x27;s an optional &quot;night mode&quot; you can configure to use different colours at night.</p>
 </div>
@@ -259,7 +259,7 @@ hide:
 <h2 class="app-name" id="app-52a4d561c661b61d9800002b"><a href="https://apps.repebble.com/52a4d561c661b61d9800002b">Very Fuzzy</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/foobacca/very-fuzzy-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/hamish-downer.html" title="More from this developer">Hamish Downer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-08</span> <span title="Latest release in the app store">Updated 2013-12-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-12-08</span> <span title="Latest release in the app store">Updated 2013-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">It&#x27;s eleven ... ish. The hours are still given as numbers, but everything else is &quot;five or so&quot;, &quot;past four&quot;, &quot;almost ten&quot; etc. It&#x27;s how I&#x27;d describe time and I&#x27;m British, so it may not fit for others.</p>
 </div>
@@ -402,7 +402,7 @@ hide:
 <h2 class="app-name" id="app-57cea0264a6ad9d300000077"><a href="https://apps.repebble.com/57cea0264a6ad9d300000077">Virtue&#x27;s Last Reward</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/gnargle/VLRWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/athene-allen.html" title="More from this developer">Athene Allen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-06</span> <span title="Latest release in the app store">Updated 2016-09-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-06</span> <span title="Latest release in the app store">Updated 2016-09-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A watchface inspired by Zero Escape: Virtue&#x27;s Last Reward and this face by weaversway. https://apps.getpebble.com/en_US/application/5733bba2f68e7b31a9000002 The big number is the current hour, and…</p>
 </div>
@@ -435,7 +435,7 @@ hide:
 <h2 class="app-name" id="app-69da689d804ae2000901d42b"><a href="https://apps.repebble.com/69da689d804ae2000901d42b">Void</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/void" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/853" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A sleek and minimalist watch face made with Alloy that displays only the time, date, and steps (if active). The accent color can be customized.</p>
 </div>
@@ -490,7 +490,7 @@ hide:
 <h2 class="app-name" id="app-560a0f4be93d44fc8d7b42ff"><a href="https://apps.repebble.com/560a0f4be93d44fc8d7b42ff">Voyage</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/aircodum.html" title="More from this developer">AirCodum</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Set sail on an animated pirate voyage — a ship bobs on the waves with a captain in his iconic straw hat. Shows time, date, and battery.</p>
 </div>

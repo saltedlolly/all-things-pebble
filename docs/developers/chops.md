@@ -13,7 +13,7 @@ hide:
 
 # chops
 
-*34 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*34 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chops_52d76309bd61272345000001) · [Rebble App Store](https://apps.rebble.io/en_US/developer/52d76309bd61272345000001/1) · [GitHub (mereed)](https://github.com/mereed) · [Website (markreed8.wix.com)](http://markreed8.wix.com/chopspebblefaces)
 

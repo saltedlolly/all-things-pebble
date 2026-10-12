@@ -13,7 +13,7 @@ hide:
 
 # Salmontech
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/salmontech_330048197f0aae446b6560ef) · [GitHub (dev-salmontech)](https://github.com/dev-salmontech)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/salmontech_33004819
 <h2 class="app-name" id="app-2cc96a35a0a94e09bb6d9e1e"><a href="https://apps.repebble.com/2cc96a35a0a94e09bb6d9e1e">CountUpVibe Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://github.com/dev-salmontech/Pebble_CountUpVibe" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-07-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-07-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">**Stay in rhythm without watching the clock.** Count-Up-Vibe Timer counts upward and taps your wrist at the interval you set — great for workouts, focus sprints, hydration nudges, posture checks…</p>
 </div>

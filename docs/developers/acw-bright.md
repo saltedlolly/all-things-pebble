@@ -13,7 +13,7 @@ hide:
 
 # ACW Bright
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/acw-bright_b9b8c4f23559db00c877cab5) · [GitHub (ArcoW2)](https://github.com/ArcoW2)
 

@@ -13,7 +13,7 @@ hide:
 
 # discountdeadcats
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/discountdeadcats_49ab1dae0d8e9c27989a9260) · [GitHub (discountdeadcats)](https://github.com/discountdeadcats)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/discountdeadcats_49
 <h2 class="app-name" id="app-8a706e64a4f745cc94398e35"><a href="https://apps.repebble.com/8a706e64a4f745cc94398e35">Zmanim</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/discountdeadcats/Zmanim-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-27</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-27</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Precise halachic times at a glance. View key zmanim, track the current time period, and stay aware of what’s coming next all in a clean, fast interface designed for Pebble.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/discountdeadcats_49
 <h2 class="app-name" id="app-1c985b1cf2dc4b35bb153231"><a href="https://apps.repebble.com/1c985b1cf2dc4b35bb153231">dune minimalist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/discountdeadcats/Dune-watchface-c" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-16</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-16</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">DUNE style watch app that shows the time and date as well as battery Percent in the style of a sandworm</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Andrew Apperley
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-apperley_52bd0cddb1ce8ec07f00004e) · [GitHub (andrewapperley)](https://github.com/andrewapperley) · [Website (andrewapperley.ca)](http://www.andrewapperley.ca)
 

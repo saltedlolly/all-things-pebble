@@ -13,7 +13,7 @@ hide:
 
 # Bal1
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bal1_55094e0f7d3b947fe50000de) · [GitHub (yyaskiv)](https://github.com/yyaskiv)
 

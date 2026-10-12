@@ -13,7 +13,7 @@ hide:
 
 # Jonathan Wukitsch
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jonathan-wukitsch_549df32c112793b38500040b) · [GitHub (insleep)](https://github.com/insleep) · [Website (insleep.tech)](https://insleep.tech/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jonathan-wukitsch_5
 <h2 class="app-name" id="app-54b84f4e986a2267770000ca"><a href="https://apps.repebble.com/54b84f4e986a2267770000ca">Ice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.31</span></h2>
 <a class="app-source" href="https://github.com/insleep/IceWatchface-Pebble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple watchface that tells the time, date, battery percentage, and whether or not Bluetooth is connected. Supports 12 and 24hr time format.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jonathan-wukitsch_5
 <h2 class="app-name" id="app-54acaf6132203e7e6700003d"><a href="https://apps.repebble.com/54acaf6132203e7e6700003d">Sky</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/insleep/SkyWatchface-Pebble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-07</span> <span title="Latest release in the app store">Updated 2016-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-07</span> <span title="Latest release in the app store">Updated 2016-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple watchface that tells time, date, day of the week, battery percentage, and whether or not Bluetooth is connected. Available in 12 and 24 hour format.</p>
 </div>

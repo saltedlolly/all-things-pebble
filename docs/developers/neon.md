@@ -13,7 +13,7 @@ hide:
 
 # Neon
 
-*7 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neon_5568037a1034b0abf70000a1) · [GitHub (sdneon)](https://github.com/sdneon)
 

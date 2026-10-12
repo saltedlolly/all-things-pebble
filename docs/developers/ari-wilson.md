@@ -13,7 +13,7 @@ hide:
 
 # Ari Wilson
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ari-wilson_52a03c4b2a0bb9b0fb00000d) · [GitHub (evilrobot69)](https://github.com/evilrobot69)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ari-wilson_52a03c4b
 <h2 class="app-name" id="app-52b5584420fef47f82000011"><a href="https://apps.repebble.com/52b5584420fef47f82000011">Falldown</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/evilrobot69/Falldown" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-21</span> <span title="Latest release in the app store">Updated 2015-12-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-21</span> <span title="Latest release in the app store">Updated 2015-12-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Falldown is a game about steering a falling ball around walls of bricks. You steer with the UP and DOWN buttons or, optionally, by flicking your wrist. Your objective is not to let the ball hit…</p>
 </div>

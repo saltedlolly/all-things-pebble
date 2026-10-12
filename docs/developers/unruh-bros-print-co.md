@@ -13,7 +13,7 @@ hide:
 
 # Unruh Bros. Print Co.
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unruh-bros-print-co_b6bfb46eef94f16e84d4cd95) · [GitHub (unruh-bros-print-co)](https://github.com/unruh-bros-print-co)
 

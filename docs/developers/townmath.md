@@ -13,7 +13,7 @@ hide:
 
 # townmath
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/townmath_56df90d4774abcde2800003d) · [GitHub (townmath)](https://github.com/townmath)
 

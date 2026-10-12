@@ -13,7 +13,7 @@ hide:
 
 # Andyco
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andyco_53b4453a03e5c08be5000031) · [GitHub (MadAnthonyWayne)](https://github.com/MadAnthonyWayne)
 

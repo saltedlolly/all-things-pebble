@@ -13,7 +13,7 @@ hide:
 
 # James Downs
 
-*2 watchfaces and 5 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 5 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5308eabf92c45e5f39000503/1) · [GitHub (CometDog)](https://github.com/CometDog) · [GitHub (PiwwowPants)](https://github.com/PiwwowPants)
 

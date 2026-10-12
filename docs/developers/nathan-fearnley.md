@@ -13,7 +13,7 @@ hide:
 
 # Nathan Fearnley
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nathan-fearnley_52c5f95e9a92722dea000018) · [GitHub (nfearnley)](https://github.com/nfearnley)
 

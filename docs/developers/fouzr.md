@@ -13,7 +13,7 @@ hide:
 
 # FouzR
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fouzr_f95df6bca581318f0e221894) · [GitHub (FouzR)](https://github.com/FouzR) · [Website (ko-fi.com)](https://ko-fi.com/FouzR)
 

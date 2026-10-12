@@ -13,7 +13,7 @@ hide:
 
 # Joseph Roque
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joseph-roque_55a1365ba0b1b852fa00003e) · [GitHub (joseph-roque)](https://github.com/joseph-roque)
 

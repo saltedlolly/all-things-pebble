@@ -13,7 +13,7 @@ hide:
 
 # Iznogoud
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iznogoud_52d3ee67cba068af09000013) · [GitHub (iznogoud765)](https://github.com/iznogoud765)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iznogoud_52d3ee67cb
 <h2 class="app-name" id="app-551dc0c7cdee89e0f600007a"><a href="https://apps.repebble.com/551dc0c7cdee89e0f600007a">Fuzzy Modern</a> <span class="app-version" title="Latest version" data-search-exclude>v3.01</span></h2>
 <a class="app-source" href="https://github.com/iznogoud765/Pebble_Face_Fuzzy_Modern_i18n" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-02</span> <span title="Latest release in the app store">Updated 2015-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-02</span> <span title="Latest release in the app store">Updated 2015-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Fuzzy Time with languages supported by Pebble : English, Spanish, German, French Also supports colors for Pebble Time. settings : - change background (dark or light) - text alignment - 12h/24h for…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iznogoud_52d3ee67cb
 <h2 class="app-name" id="app-54f5b09813cdff8597000036"><a href="https://apps.repebble.com/54f5b09813cdff8597000036">Fuzzy French modern Black</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/iznogoud765/Pebble_Face_Fuzzy_FR_Modern/tree/black" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-03</span> <span title="Latest release in the app store">Updated 2015-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-03-03</span> <span title="Latest release in the app store">Updated 2015-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Horloge à logique floue ! - heure à 5 minutes près, affichée en texte avec une police sympa. - animation à chaque modification ! - heure précise et date en bas d&#x27;écran - niveau de charge en haut à…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iznogoud_52d3ee67cb
 <h2 class="app-name" id="app-54c512a98e136b17c5000029"><a href="https://apps.repebble.com/54c512a98e136b17c5000029">Fuzzy French modern</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/iznogoud765/Pebble_Face_Fuzzy_FR_Modern" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-25</span> <span title="Latest release in the app store">Updated 2015-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-01-25</span> <span title="Latest release in the app store">Updated 2015-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Fuzzy time in French, updates every 5 minutes - Shows current time and date in french in the bottom part - Shows current battery level in left upper part, with charging indicator - Shows bluetooth…</p>
 </div>

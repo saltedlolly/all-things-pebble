@@ -13,7 +13,7 @@ hide:
 
 # James Smith (@poeia)
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-smith-poeia_542ddd35d4d52c3f67000012) · [Rebble App Store](https://apps.rebble.io/en_US/developer/542ddd35d4d52c3f67000012/1) · [GitHub (poeia)](https://github.com/poeia) · [Website (about.me)](https://about.me/james-r-smith)
 

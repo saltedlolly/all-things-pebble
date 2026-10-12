@@ -13,7 +13,7 @@ hide:
 
 # Guus H. Beckett
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/guus-h-beckett_5ecdf9beefebcf2dc08bd8b0) · [GitHub (guusbeckett)](https://github.com/guusbeckett)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/guus-h-beckett_5ecd
 <h2 class="app-name" id="app-68f93536504cc500097101b9"><a href="https://apps.repebble.com/68f93536504cc500097101b9">Trein</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
 <a class="app-source" href="https://github.com/guusbeckett/trein-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/597" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-10-22</span> <span title="Latest release in the app store">Updated 2026-05-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2025-10-22</span> <span title="Latest release in the app store">Updated 2026-05-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble smartwatch app that shows live train information from Nederlandse Spoorwegen (Dutch Railways), including countdown to your next train, departure times, and platform information.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Max Schillinger
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max-schillinger_4b3ac51bc36432cad013e146) · [Codeberg (MaxGyver83)](https://codeberg.org/MaxGyver83)
 

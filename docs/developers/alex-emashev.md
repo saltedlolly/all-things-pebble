@@ -13,7 +13,7 @@ hide:
 
 # Alex Emashev
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-emashev_546b614be05288ab960000c6) · [GitHub (AlexEmashev)](https://github.com/AlexEmashev) · [Website (cgrey.deviantart.com)](http://cgrey.deviantart.com)
 

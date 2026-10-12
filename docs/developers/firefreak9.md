@@ -13,7 +13,7 @@ hide:
 
 # Firefreak9
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/firefreak9_d4ca9c1ea40f3cef05627b1e) · [GitHub (firefreak9)](https://github.com/firefreak9)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/firefreak9_d4ca9c1e
 <h2 class="app-name" id="app-24a69d7ca71b4dcf81afeea5"><a href="https://apps.repebble.com/24a69d7ca71b4dcf81afeea5">Punchy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/firefreak9/Punchy/blob/main/README.md?plain=1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-31</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-31</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A versatile time card app to keep track of work hours and earnings more easily. -Track hours by punching in and out -Change data and hours at any time -Adjustable default punch times and automatic…</p>
 </div>

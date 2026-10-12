@@ -13,7 +13,7 @@ hide:
 
 # Abanoub G
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/abanoub-g_542b11719224d4a8ef0001d1) · [GitHub (edwinfinch)](https://github.com/edwinfinch)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/abanoub-g_542b11719
 <h2 class="app-name" id="app-55dc03f469aa9519ea000070"><a href="https://apps.repebble.com/55dc03f469aa9519ea000070">Coptic Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/edwinfinch/coptic-2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-25</span> <span title="Latest release in the app store">Updated 2015-08-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-25</span> <span title="Latest release in the app store">Updated 2015-08-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Ever wish that you can look down at your watch and know what the Coptic Date is? Well now you can. Coptic Time displays the Coptic Date alongside the Gregorian date as well as the time.</p>
 </div>

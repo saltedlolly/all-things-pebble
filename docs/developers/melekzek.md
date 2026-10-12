@@ -13,7 +13,7 @@ hide:
 
 # melekzek
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57e1e80016a229658300013f/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/melekzek_57e1e80016a229658300013f) · [GitHub (melekzek)](https://github.com/melekzek)
 

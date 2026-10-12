@@ -13,7 +13,7 @@ hide:
 
 # AkihiroKawanami
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/690c97353426e30009c601ee/1) · [GitHub (akihirokawanami)](https://github.com/akihirokawanami)
 

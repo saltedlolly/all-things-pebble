@@ -13,7 +13,7 @@ hide:
 
 # OptiGE
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55ab90ef4f0cf8f2f8000059/1) · [GitHub (OptiGE)](https://github.com/OptiGE)
 

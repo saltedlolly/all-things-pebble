@@ -13,7 +13,7 @@ hide:
 
 # BlackDev
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/blackdev_553ba1e97fcaa658d90000d1) · [GitHub (boggyjoe)](https://github.com/boggyjoe) · [Website (wienerlinien.at)](http://www.wienerlinien.at/ogd_realtime/monitor?rbl=1963&sender=rbl)
 

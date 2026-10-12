@@ -13,7 +13,7 @@ hide:
 
 # David Ryan
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-ryan_52f0647ca0cb6af44f001749) · [GitHub (ptcryan)](https://github.com/ptcryan)
 

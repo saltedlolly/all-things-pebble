@@ -13,7 +13,7 @@ hide:
 
 # Spencer Johnson
 
-*6 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*6 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/spencer-johnson_52ac665331a5fa7c25000006) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/5337/watch-face-sdk-2-0-ios-android-pebsona-4-golden)
 

@@ -13,7 +13,7 @@ hide:
 
 # James Roland
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-roland_74b1dca27068ad03cb37e37d) · [GitHub (gli-james-roland)](https://github.com/gli-james-roland)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-roland_74b1dc
 <h2 class="app-name" id="app-de7fc2dccd464e299badc6c0"><a href="https://apps.repebble.com/de7fc2dccd464e299badc6c0">Pebble Tides</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.10</span></h2>
 <a class="app-source" href="https://github.com/gli-james-roland/pebble-tide" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-07-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-07-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble Tides shows the day&#x27;s tides at a glance: a graph of the high and low tides with their exact times and heights, the current water level, whether the tide is rising or falling, and optional…</p>
 </div>

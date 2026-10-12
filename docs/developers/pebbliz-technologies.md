@@ -13,7 +13,7 @@ hide:
 
 # PebbLiz Technologies
 
-*1 watchface and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebbliz-technologies_52b776ad9efe582fb2000002) · [GitHub (pouves)](https://github.com/pouves) · [GitHub (pebble-hacks)](https://github.com/pebble-hacks)
 

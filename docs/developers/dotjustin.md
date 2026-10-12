@@ -13,7 +13,7 @@ hide:
 
 # dotJustin
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dotjustin_4b6299c72480e7810068a64a) · [GitHub (dot-Justin)](https://github.com/dot-Justin)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dotjustin_4b6299c72
 <h2 class="app-name" id="app-ddf9f5400c1e4c62911fcc56"><a href="https://apps.repebble.com/ddf9f5400c1e4c62911fcc56">AQ-800</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/dot-Justin/Pebble-WF-Casio-AQ-800" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-06-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Faithful recreation of the classic 80s ana-digi dual-display watch for Pebble Time 2. Metal hands that catch the light as they sweep, applied markers, grid dial, and a segment-true LCD showing…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dotjustin_4b6299c72
 <h2 class="app-name" id="app-c61d68498f25458ebc9a2ec6"><a href="https://apps.repebble.com/c61d68498f25458ebc9a2ec6">Wristcord</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/dot-Justin/Wristcord" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-06-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-06-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Discord on your wrist! Browse your servers, follow chats, and send a reply with your voice, right from Pebble Time 2. Heads up, Wristcord is a selfbot; by using it you accept that selfbotting is…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dotjustin_4b6299c72
 <h2 class="app-name" id="app-2498bd8fb81f496ebbb3f90b"><a href="https://apps.repebble.com/2498bd8fb81f496ebbb3f90b">Work / Not Work</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/dot-Justin/Pebble-WF-Work-Not-Work" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">The legendary WORK / NOT WORK watch from Bikini Bottom. Propeller hands sweep a red WORK wedge and a green NOT WORK zone. Set your own work hours and days; on days off the whole dial goes green…</p>
 </div>

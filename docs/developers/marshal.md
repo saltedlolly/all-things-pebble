@@ -13,7 +13,7 @@ hide:
 
 # Marshal
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marshal_10cf95530af51400018175cb) · [GitHub (Velzeboer)](https://github.com/Velzeboer)
 

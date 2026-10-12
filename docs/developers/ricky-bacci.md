@@ -13,7 +13,7 @@ hide:
 
 # Ricky Bacci
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ricky-bacci_55bc59dca5c6f34ea700000d) · [GitHub (RickBacci)](https://github.com/RickBacci) · [Website (rickbacci.me)](https://www.rickbacci.me)
 

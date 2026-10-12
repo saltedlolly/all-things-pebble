@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · **V** · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*24 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*24 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-319084c8494c44ae821ccee9"><a href="https://apps.repebble.com/319084c8494c44ae821ccee9">Vacuum</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/dungngminh/pebble_vacuum" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dzung-nguyen.html" title="More from this developer">Dzung Nguyen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-07-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-07-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Put your robot vacuum on your wrist. Vacuum connects your Pebble watch to your robot&#x27;s cloud API, so you can check and control it without reaching for your phone. Built to grow — v1.0 supports…</p>
 </div>
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-5395ed394b51113c8e00000b"><a href="https://apps.repebble.com/5395ed394b51113c8e00000b">Vaper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ericmoritz/pebble-vaper" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-moritz.html" title="More from this developer">Eric Moritz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-09</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-06-09</span> <span title="Latest release in the app store">Updated 2014-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An OHM calculator on your wrist!</p>
 </div>
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-55eb169809fc08b14a000034"><a href="https://apps.repebble.com/55eb169809fc08b14a000034">VastTid</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/davidsvantesson/VastTid" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-svantesson.html" title="More from this developer">David Svantesson</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-05</span> <span title="Latest release in the app store">Updated 2015-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-09-05</span> <span title="Latest release in the app store">Updated 2015-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Public Transport app for West Sweden transport system (Västtrafik), showing the next departures (bus, tram, train and boats) in real time from the selected stop. The app uses the phones gps…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-544cd3fbb8bf900119000055"><a href="https://apps.repebble.com/544cd3fbb8bf900119000055">VATSIM ATC Viewer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/halka/vatsim_atc_for_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/a-halka.html" title="More from this developer">a_halka</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-26</span> <span title="Latest release in the app store">Updated 2016-03-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-26</span> <span title="Latest release in the app store">Updated 2016-03-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Just you can check opening ATC stations on VATSIM. This is unofficial application. source code available on github. https://github.com/halka/vatsim_atc_for_pebble</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-550520f5be287a2e0a000085"><a href="https://apps.repebble.com/550520f5be287a2e0a000085">Velocimeter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jampow/Peb-2-3-4" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gianpaulo-m-soares.html" title="More from this developer">Gianpaulo M. Soares</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-15</span> <span title="Latest release in the app store">Updated 2015-03-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-15</span> <span title="Latest release in the app store">Updated 2015-03-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">It&#x27;s just like a metronome by vibrations to regular walks.</p>
 </div>
@@ -127,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-52f47ee73f5d46cf5c00050b"><a href="https://apps.repebble.com/52f47ee73f5d46cf5c00050b">Vera Scenes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/drewying/VeraPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/peopletech.html" title="More from this developer">PeopleTech</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-07</span> <span title="Latest release in the app store">Updated 2014-02-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-02-07</span> <span title="Latest release in the app store">Updated 2014-02-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Control your micasaverde Vera unit from your Pebble Watch! This allows you to browse through all Vera scenes as well as run them.</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-11c122085392419b8479ce94"><a href="https://apps.repebble.com/11c122085392419b8479ce94">VitalGauge</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.1</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Pebble_Stress_Tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-07-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-07-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Main screen provides a history of hear rate Pressing up takes you to a screen for measuring your heart rate and stress level. EKG simulator using your actual BPM. Scrolling down take you to box…</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-042ca18f3372422d9e07a406"><a href="https://apps.repebble.com/042ca18f3372422d9e07a406">Voice Notes (with calendar)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/dhrme/pebble-apps/tree/main" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dhrme.html" title="More from this developer">dhrme</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Speak a note, save a note, optionally get a calendar event. Dictate a quick note on your wrist and it lands in your Google Calendar — with the date and time parsed from what you said (&quot;call the…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Torivon
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52e7ee4e217dd094a200002f/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/torivon_52e7ee4e217dd094a200002f) · [GitHub (Torivon)](https://github.com/Torivon) · [Website (torivon.github.io)](http://torivon.github.io/MiniAdventure/)
 

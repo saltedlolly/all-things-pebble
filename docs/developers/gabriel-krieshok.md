@@ -13,7 +13,7 @@ hide:
 
 # Gabriel Krieshok
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ac92e62e724800008db2fc5/1) · [GitHub (gabrielkrieshok)](https://github.com/gabrielkrieshok) · [Website (gabrielkrieshok.com)](https://gabrielkrieshok.com)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ac92e62e724800
 <h2 class="app-name" id="app-6ac931717c7c2000098af597"><a href="https://apps.rebble.io/en_US/application/6ac931717c7c2000098af597">Pulse Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.2</span></h2>
 <a class="app-source" href="https://github.com/gabrielkrieshok/pulse-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1417" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Feel the time on your wrist instead of looking at it. Triple-tap your wrist and Pulse Time vibrates the current time in long and short pulses. It works in meetings, in the dark, and while your…</p>
 </div>

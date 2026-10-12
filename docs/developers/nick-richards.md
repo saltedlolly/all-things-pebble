@@ -13,7 +13,7 @@ hide:
 
 # Nick Richards
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-richards_52fe88d575c9b5316e0003e0) · [GitHub (nedrichards)](https://github.com/nedrichards)
 

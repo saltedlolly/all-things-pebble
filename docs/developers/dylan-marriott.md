@@ -13,7 +13,7 @@ hide:
 
 # Dylan Marriott
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dylan-marriott_53c1148506ea4a56ed00012f) · [GitHub (D-32)](https://github.com/D-32) · [Website (sbb.watch)](http://sbb.watch)
 

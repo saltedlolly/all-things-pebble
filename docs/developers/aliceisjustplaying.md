@@ -13,7 +13,7 @@ hide:
 
 # aliceisjustplaying
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6803c1b9653eea00086eee23/1) · [GitHub (aliceisjustplaying)](https://github.com/aliceisjustplaying) · [Website (bsky.app)](http://bsky.app/profile/did:plc:by3jhwdqgbtrcc7q4tkkv3cf)
 

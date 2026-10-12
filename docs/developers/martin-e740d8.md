@@ -13,7 +13,7 @@ hide:
 
 # Martin
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/martin_54e527230dc7cb506a000010) · [GitLab (mestorlx)](https://gitlab.com/mestorlx)
 

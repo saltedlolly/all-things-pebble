@@ -13,7 +13,7 @@ hide:
 
 # Dennis Muensterer
 
-*2 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dennis-muensterer_53cc9927fd8ebf394ae021ca) · [GitHub (dnnsmnstrr)](https://github.com/dnnsmnstrr) · [Website (kode.diy)](https://kode.diy/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dennis-muensterer_5
 <h2 class="app-name" id="app-0b8f41cdbba6456298c9821a"><a href="https://apps.repebble.com/0b8f41cdbba6456298c9821a">Kode Dot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/dnnsmnstrr/kode-dot-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-15</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-15</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Wear the new mascot for Kode Dot on your wrist while waiting for the actual device</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dennis-muensterer_5
 <h2 class="app-name" id="app-276ed3773d8548c09b372204"><a href="https://apps.repebble.com/276ed3773d8548c09b372204">Flipper Zero</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/dnnsmnstrr/pebble-flipper" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-07-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-07-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Flipper on your wrist</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dennis-muensterer_5
 <h2 class="app-name" id="app-9b0dacec26c041f688e85e78"><a href="https://apps.repebble.com/9b0dacec26c041f688e85e78">Gist Reader</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/dnnsmnstrr/pebble-gist-reader" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Access GitHub Gists on your wrist! - Simple configuration with just a Gist ID - Support for multiple files in one Gist</p>
 </div>

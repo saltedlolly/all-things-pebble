@@ -13,7 +13,7 @@ hide:
 
 # Malte Makes
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/malte-makes_896e5405c93e19ac03f3c392)
 

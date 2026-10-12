@@ -13,7 +13,7 @@ hide:
 
 # Leigh Murray
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leigh-murray_52c8e4112b59ec92d2000034) · [GitHub (leighmurray)](https://github.com/leighmurray) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/9687/watchface-sdk2-casio-wv-59-style-w-battery-level-bt-connection-indicator)
 

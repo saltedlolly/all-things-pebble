@@ -13,7 +13,7 @@ hide:
 
 # Niraj Sanghvi
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/niraj-sanghvi_52cfa400f726c8a19f00003d) · [GitHub (op12)](https://github.com/op12)
 

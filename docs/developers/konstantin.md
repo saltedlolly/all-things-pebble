@@ -13,7 +13,7 @@ hide:
 
 # Konstantin
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/konstantin_52c2054401696b65f40000ca) · [Website (plus.google.com)](https://plus.google.com/communities/113697555385343423777)
 

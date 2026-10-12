@@ -13,7 +13,7 @@ hide:
 
 # denden1088
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5b400ea41c219e0001225f49/1) · [GitHub (denden1088)](https://github.com/denden1088)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5b400ea41c219e0
 <h2 class="app-name" id="app-67b7e94c0554c60009698bd8"><a href="https://apps.rebble.io/en_US/application/67b7e94c0554c60009698bd8">Hatsune Miku</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/denden1088/mikuwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-02-21</span> <span title="Latest release in the app store">Updated 2025-02-24</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-02-21</span> <span title="Latest release in the app store">Updated 2025-02-24</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A basic Hatsune Miku watchface. Art is not by me.</p>
 </div>

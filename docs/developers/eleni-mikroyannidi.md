@@ -13,7 +13,7 @@ hide:
 
 # Eleni Mikroyannidi
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eleni-mikroyannidi_5509d86484ad02f9f0000054) · [GitHub (elenimikro)](https://github.com/elenimikro)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eleni-mikroyannidi_
 <h2 class="app-name" id="app-561181e5ce7b4c4a4400001b"><a href="https://apps.repebble.com/561181e5ce7b4c4a4400001b">BBC Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/elenimikro/bbc-weather-pebbleface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-04</span> <span title="Latest release in the app store">Updated 2016-06-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-04</span> <span title="Latest release in the app store">Updated 2016-06-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple pebble watchface that gets BBC weather data of your location. This is not an official BBC weather app.</p>
 </div>

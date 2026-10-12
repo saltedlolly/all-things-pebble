@@ -13,7 +13,7 @@ hide:
 
 # Veselcraft
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6533d557c375090008b0c90b/1) · [GitHub (veselcraft)](https://github.com/veselcraft)
 

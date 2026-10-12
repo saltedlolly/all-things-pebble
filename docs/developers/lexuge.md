@@ -13,7 +13,7 @@ hide:
 
 # LEXUGE
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/59040cbb6ca387f83d000242/1) · [GitHub (LEXUGE)](https://github.com/LEXUGE) · [Website (lexuge.github.io)](https://lexuge.github.io)
 

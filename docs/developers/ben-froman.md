@@ -13,7 +13,7 @@ hide:
 
 # Ben Froman
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-froman_529befccf33e769ff3000007) · [GitHub (Dwarf84396)](https://github.com/Dwarf84396)
 

@@ -13,7 +13,7 @@ hide:
 
 # Andrii Piasetskyi
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrii-piasetskyi_5474f6c314b37f16cc0000a3) · [GitHub (sver40k)](https://github.com/sver40k) · [Website (linkedin.com)](https://www.linkedin.com/in/sver40k)
 

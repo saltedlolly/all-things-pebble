@@ -13,7 +13,7 @@ hide:
 
 # Kurt Lawrence
 
-*2 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kurt-lawrence_55c95471a29d99642d00002d) · [GitHub (kurtlawrence)](https://github.com/kurtlawrence)
 

@@ -13,7 +13,7 @@ hide:
 
 # UnaDeKalamares
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unadekalamares_5572b56e78821113a1000014) · [GitHub (UnaDeKalamares)](https://github.com/UnaDeKalamares)
 

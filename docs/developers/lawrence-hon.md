@@ -13,7 +13,7 @@ hide:
 
 # Lawrence Hon
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lawrence-hon_a158013fa933d51c1f0ab4d8) · [GitHub (lhon)](https://github.com/lhon)
 

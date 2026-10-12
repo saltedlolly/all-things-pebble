@@ -13,7 +13,7 @@ hide:
 
 # Nick P
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/588856c693254abee40004e3/1) · [GitHub (nickpraeger)](https://github.com/nickpraeger)
 

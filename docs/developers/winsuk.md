@@ -13,7 +13,7 @@ hide:
 
 # WinSuk
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/winsuk_52bbf883d438939f0800010c) · [GitHub (WinSuk)](https://github.com/WinSuk) · [Website (winsuk.net)](http://winsuk.net/twistchat.php)
 

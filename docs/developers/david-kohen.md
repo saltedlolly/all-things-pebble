@@ -13,7 +13,7 @@ hide:
 
 # David Kohen
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-kohen_531e040114708b520a00009e) · [GitHub (dudyk)](https://github.com/dudyk)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-kohen_531e040
 <h2 class="app-name" id="app-532b28d8e8829439f200039e"><a href="https://apps.repebble.com/532b28d8e8829439f200039e">Just a Bit More</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/dudyk/peble-jabm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-20</span> <span title="Latest release in the app store">Updated 2014-03-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-03-20</span> <span title="Latest release in the app store">Updated 2014-03-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Based on the sample binary watchface, this version is fully binary (and not binary decimal), accepts the 24h/12h setting and includes a date.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Beecon
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/692767cb1726d100087c26c0/1) · [GitHub (nbeeson2)](https://github.com/nbeeson2) · [Website (bsky.app)](https://bsky.app/profile/pretty-wizard.bsky.social)
 

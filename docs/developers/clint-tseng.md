@@ -13,7 +13,7 @@ hide:
 
 # Clint Tseng
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53ac46e3e9ecada316000030/1) · [GitHub (clint-tseng)](https://github.com/clint-tseng) · [Website (rumline.giantacorn.com)](http://rumline.giantacorn.com)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53ac46e3e9ecada
 <h2 class="app-name" id="app-58802e9a93254a9262000088"><a href="https://apps.rebble.io/en_US/application/58802e9a93254a9262000088">rumline</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/clint-tseng/rumline" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-01-19</span> <span title="Latest release in the app store">Updated 2025-11-25</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-01-19</span> <span title="Latest release in the app store">Updated 2025-11-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Rumline tells you, very simply, which way to go and how far it is to get from here to there. You can preprogram a set of points into your watch, and then at any point pull up distance and bearing…</p>
 </div>

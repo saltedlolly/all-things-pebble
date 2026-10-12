@@ -13,7 +13,7 @@ hide:
 
 # Owen Platt
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/owen-platt_55d24288aedac714d0000039) · [GitHub (ojhp)](https://github.com/ojhp)
 

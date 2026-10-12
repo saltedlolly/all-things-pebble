@@ -13,7 +13,7 @@ hide:
 
 # Anthony Cerruti
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/anthony-cerruti_5702943683140d54f3000030) · [GitHub (firestar115)](https://github.com/firestar115)
 

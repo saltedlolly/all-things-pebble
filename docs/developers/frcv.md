@@ -13,7 +13,7 @@ hide:
 
 # FRCV
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6aa6b066a87c0c0008aa77a4/1) · [GitHub (itsamenathan)](https://github.com/itsamenathan)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6aa6b066a87c0c0
 <h2 class="app-name" id="app-6aa6b6a6e3f54100094b9b13"><a href="https://apps.rebble.io/en_US/application/6aa6b6a6e3f54100094b9b13">Play / Pause</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/itsamenathan/pebble-play-pause" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1353" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A one-click app for Quick Launch. Opening it checks the phone&#x27;s current media state, flips play/pause, then returns to the watchface. Special Instructions: * Android Only * Needs &quot;Use experimental…</p>
 </div>

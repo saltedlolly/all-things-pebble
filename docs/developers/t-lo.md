@@ -13,7 +13,7 @@ hide:
 
 # t-lo
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/690252d458141700081f97b7/1) · [GitHub (t-lo)](https://github.com/t-lo)
 

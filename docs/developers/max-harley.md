@@ -13,7 +13,7 @@ hide:
 
 # Max Harley
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max-harley_544573b72a5191665800012b) · [GitHub (t94j0)](https://github.com/t94j0)
 

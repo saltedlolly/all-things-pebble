@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · **H** · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*67 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*67 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-563139ce2c90c8ecb200000c"><a href="https://apps.repebble.com/563139ce2c90c8ecb200000c">HackerNews Headline Browser</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/chisleu/HackerNewsForPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/joseph-nicholas-yarbrough.html" title="More from this developer">Joseph Nicholas Yarbrough</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-28</span> <span title="Latest release in the app store">Updated 2015-10-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-28</span> <span title="Latest release in the app store">Updated 2015-10-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a simple app to browse Hacker News Headlines.</p>
 </div>
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-5672ef77fa6d41958400001f"><a href="https://apps.repebble.com/5672ef77fa6d41958400001f">Hackerspace.gr</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/hsgr/hsgr-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nikos-roussos.html" title="More from this developer">Nikos Roussos</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-17</span> <span title="Latest release in the app store">Updated 2016-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2015-12-17</span> <span title="Latest release in the app store">Updated 2016-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple app to view Hackerspace.gr status</p>
 </div>
@@ -226,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-9b341cf2753d4ae1a0a359ed"><a href="https://apps.repebble.com/9b341cf2753d4ae1a0a359ed">Hashcat Reactor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/jjsvs/Hashcat-Reactor" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sky.html" title="More from this developer">sky</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-08</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Dashboard for Hashcat-Reactor</p>
 </div>
@@ -270,7 +270,7 @@ hide:
 <h2 class="app-name" id="app-575492f7fa796cdbde00000b"><a href="https://apps.repebble.com/575492f7fa796cdbde00000b">Health Export</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/faelys/pebble-health-export" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/natasha-kerensikova.html" title="More from this developer">Natasha Kerensikova</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2017-03-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">ISC</span> <span title="First published in the app store">Released 2016-06-05</span> <span title="Latest release in the app store">Updated 2017-03-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This is a simple application for Pebble Watch that extract all the raw Pebble Health data gathered by the watch and POST it to a user-configured HTTP endpoint. The UI independently tracks the…</p>
 </div>
@@ -347,7 +347,7 @@ hide:
 <h2 class="app-name" id="app-57bc96a6f01b53ce0c000c02"><a href="https://apps.repebble.com/57bc96a6f01b53ce0c000c02">Hebrew and Arabic support for Pebble - elbbeP</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/cpfair/elbbep" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/collin-fair.html" title="More from this developer">Collin Fair</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-23</span> <span title="Latest release in the app store">Updated 2016-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-23</span> <span title="Latest release in the app store">Updated 2016-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">elbbeP lets you read Arabic and Hebrew everywhere on your Pebble smartwatch: text messages, calendar alerts, apps &amp; more. Any Pebble can be upgraded to display Hebrew and Arabic, and there&#x27;s no…</p>
 </div>
@@ -413,7 +413,7 @@ hide:
 <h2 class="app-name" id="app-59ec41ee0dfc329496000354"><a href="https://apps.rebble.io/en_US/application/59ec41ee0dfc329496000354">helpmeh</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jellybellyfishmeow/t2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jenjenyang.html" title="More from this developer">jenjenyang</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-10-22</span> <span title="Latest release in the app store">Updated 2017-10-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-10-22</span> <span title="Latest release in the app store">Updated 2017-10-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">asf</p>
 </div>
@@ -479,7 +479,7 @@ hide:
 <h2 class="app-name" id="app-6a2ebb3ee24af40009fa5330"><a href="https://apps.repebble.com/6a2ebb3ee24af40009fa5330">Hirake Goma</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/diced-k/hirake-goma" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mowken-apps.html" title="More from this developer">Mowken Apps</a> · <a href="https://forum.rebble.io/t/1056" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-14</span> <span title="Latest release in the app store">Updated 2026-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-14</span> <span title="Latest release in the app store">Updated 2026-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Lock, unlock, and check your SESAME (Candy House) smart lock straight from your Pebble. Pick a lock from the menu, then use the action bar buttons — Up to unlock, Down to lock, and the middle…</p>
 </div>
@@ -512,7 +512,7 @@ hide:
 <h2 class="app-name" id="app-52dc7194f9d8ec503100003c"><a href="https://apps.repebble.com/52dc7194f9d8ec503100003c">Home Alarm Control for RPi</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/hugoender/HomeAlarmRemotePebble/blob/master/README.md" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/hugo.html" title="More from this developer">Hugo</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-20</span> <span title="Latest release in the app store">Updated 2014-01-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-20</span> <span title="Latest release in the app store">Updated 2014-01-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Requirements: Raspberry Pi with Webiopi installed. Allows you to control two GPIO pins on a Raspberry Pi to arm and disarm your home alarm. Each press of a button brings the user specified GPIO…</p>
 </div>
@@ -677,7 +677,7 @@ hide:
 <h2 class="app-name" id="app-698fc9d8086643000aef17a3"><a href="https://apps.repebble.com/698fc9d8086643000aef17a3">Hubble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/erlog135/hubble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/logan-head.html" title="More from this developer">Logan Head</a> · <a href="https://forum.rebble.io/t/655" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-02-14</span> <span title="Latest release in the app store">Updated 2026-02-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-02-14</span> <span title="Latest release in the app store">Updated 2026-02-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An astronomy app for Pebble. It uses the time and your location to obtain the azimuth &amp; altitude of the sun, moon, planets, and various constellations. Eligible bodies will also display their…</p>
 </div>

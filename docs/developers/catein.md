@@ -13,7 +13,7 @@ hide:
 
 # CATEIN
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/catein_5451ddc920d58674e460e802) · [GitHub (CATEIN)](https://github.com/CATEIN)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/catein_5451ddc920d5
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="my beloved" data-released="2026-10-12" data-updated="2026-10-12">
+<a class="app-shot" href="https://apps.repebble.com/dec28b0cc5b940b1ac69db7a" data-search-exclude><img src="../images/apps/dec28b0cc5b940b1ac69db7a.gif" alt="My Beloved" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-dec28b0cc5b940b1ac69db7a"><a href="https://apps.repebble.com/dec28b0cc5b940b1ac69db7a">My Beloved</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/CATEIN/my-beloved-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">The heart locket from the &quot;my beloved&quot; memes, on your wrist. Flick your wrist and the locket swings open, frame for frame like the original animation, to show your picture and your message inside…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="lichess tv" data-released="2026-08-12" data-updated="2026-10-07">
 <a class="app-shot" href="https://apps.repebble.com/42e5e2cf8c1e4dcdac540555" data-search-exclude><img src="../images/apps/42e5e2cf8c1e4dcdac540555.png" alt="Lichess TV" loading="lazy"></a>
 <div class="app-info">

@@ -13,7 +13,7 @@ hide:
 
 # Jo
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jo_964159c0fb993b31086d1da4) · [GitHub (JoLeungGitHub)](https://github.com/JoLeungGitHub) · [Website (napbuster.joleu.ng)](https://napbuster.joleu.ng/)
 

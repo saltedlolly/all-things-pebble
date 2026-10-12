@@ -13,7 +13,7 @@ hide:
 
 # jomapp
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jomapp_49944f6d520b4d28b5720a05) · [GitHub (jomapp)](https://github.com/jomapp)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jomapp_49944f6d520b
 <h2 class="app-name" id="app-f5aa8a5e6f9d457d848ee408"><a href="https://apps.repebble.com/f5aa8a5e6f9d457d848ee408">E2EE Clock (Old Pebbles)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jomapp/pebbleface-e2ee-clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchface featuring an &quot;end-to-end encrypted&quot; (E2EE) style clock! Bold Aesthetic: Four striking digits rendered through a random ciphertext effect. 🔐 I created this watchface to raise…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jomapp_49944f6d520b
 <h2 class="app-name" id="app-bc53387be05547889beabe73"><a href="https://apps.repebble.com/bc53387be05547889beabe73">E2EE Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jomapp/pebbleface-e2ee-clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Simple watchface featuring an &quot;end-to-end encrypted&quot; (E2EE) style clock! Bold Aesthetic: Four striking digits rendered through a random ciphertext effect. 🔐 Smooth Motion: Easily configurable with…</p>
 </div>

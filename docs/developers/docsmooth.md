@@ -13,7 +13,7 @@ hide:
 
 # docsmooth
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/docsmooth_52f2582fc41172eebc00151d) · [GitHub (docsmooth)](https://github.com/docsmooth)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/docsmooth_52f2582fc
 <h2 class="app-name" id="app-5342beed623a497d30000022"><a href="https://apps.repebble.com/5342beed623a497d30000022">Laughing Man</a> <span class="app-version" title="Latest version" data-search-exclude>v2.12</span></h2>
 <a class="app-source" href="https://github.com/docsmooth/laughingman" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-07</span> <span title="Latest release in the app store">Updated 2014-12-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-07</span> <span title="Latest release in the app store">Updated 2014-12-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The Laughing Man logo from Ghost in the Shell (GitS), analog watchface. The spinning words are the minute hand, and the ballcap is the hour hand. Copyright owned by ProductionIG permits personal…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Alex de la Rosa
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-de-la-rosa_5536caed2674255e7c000006) · [GitHub (aletsdelarosa)](https://github.com/aletsdelarosa)
 

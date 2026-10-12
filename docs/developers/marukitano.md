@@ -13,7 +13,7 @@ hide:
 
 # marukitano
 
-*5 watchfaces and 2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff2831479c1011a82df1985d) · [GitHub (marukitano)](https://github.com/marukitano)
 

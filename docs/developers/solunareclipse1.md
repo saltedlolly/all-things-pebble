@@ -13,7 +13,7 @@ hide:
 
 # solunareclipse1
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/solunareclipse1_66993dda99ef950007b711b9) · [Codeberg (solunareclipse1)](https://codeberg.org/solunareclipse1)
 

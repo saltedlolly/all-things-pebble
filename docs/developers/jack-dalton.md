@@ -13,7 +13,7 @@ hide:
 
 # Jack Dalton
 
-*2 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jack-dalton_5539664da7c657c72100004f) · [GitHub (jackdalton)](https://github.com/jackdalton) · [Website (jackdalton.github.io)](http://jackdalton.github.io/patterntime)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jack-dalton_5539664
 <h2 class="app-name" id="app-5543b146bc9d781ce300008a"><a href="https://apps.repebble.com/5543b146bc9d781ce300008a">Split</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/jackdalton/split" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-01</span> <span title="Latest release in the app store">Updated 2015-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-01</span> <span title="Latest release in the app store">Updated 2015-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A minimal watchface with hourly vibrations, split horizontally.</p>
 </div>

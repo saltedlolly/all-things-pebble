@@ -13,7 +13,7 @@ hide:
 
 # n3v3r
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/n3v3r_530276148c218482a6000189) · [GitHub (n3v3r001)](https://github.com/n3v3r001)
 

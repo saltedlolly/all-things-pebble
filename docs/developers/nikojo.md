@@ -13,7 +13,7 @@ hide:
 
 # nikojo
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nikojo_52ba55f7f984680380000018) · [GitHub (nikojo)](https://github.com/nikojo)
 

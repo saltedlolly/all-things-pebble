@@ -13,7 +13,7 @@ hide:
 
 # AzRun
 
-*2 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/592d05870dfc326582000aee/1) · [GitHub (AzzRun)](https://github.com/AzzRun)
 

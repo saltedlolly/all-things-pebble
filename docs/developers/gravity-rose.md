@@ -13,7 +13,7 @@ hide:
 
 # gravity\_rose
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gravity-rose_a89ac83e4a28a87236ff87f8) · [GitHub (gravity-rose)](https://github.com/gravity-rose)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gravity-rose_a89ac8
 <h2 class="app-name" id="app-78e5649f62a84ec593f49110"><a href="https://apps.repebble.com/78e5649f62a84ec593f49110">Pandora Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.2</span></h2>
 <a class="app-source" href="https://github.com/gravity-rose/PandoraRemote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/950" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Control Pandora from your wrist. PandoraRemote lets you manage playback, rate songs, and adjust volume directly from your Pebble watch. FEATURES - Skip tracks, play/pause with a single button…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gravity-rose_a89ac8
 <h2 class="app-name" id="app-033a559f19fe4e9eaea7de9f"><a href="https://apps.repebble.com/033a559f19fe4e9eaea7de9f">Bitter Smart Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/gravity-rose/SmartWatch_Replica" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/951" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Took a challenge from r/pebble, from BitterCherry6, to replicate a watchface from a photo (to improve my vibecoding skills). This is the result. What you see is what you get, no config, but the…</p>
 </div>

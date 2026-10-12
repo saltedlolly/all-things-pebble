@@ -13,7 +13,7 @@ hide:
 
 # Justin Sunseri
 
-*1 watchface and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-sunseri_bc86b00b933f3ca278718653) · [Rebble App Store](https://apps.rebble.io/en_US/developer/60b941541342ae00a7b63a91/1) · [GitHub (jmsunseri)](https://github.com/jmsunseri)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-sunseri_bc86
 <h2 class="app-name" id="app-6f24d81f31bf470ba81139fc"><a href="https://apps.repebble.com/6f24d81f31bf470ba81139fc">Squire</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/jmsunseri/pebble-squire" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Squire is that allows you to communicate with either OpenClaw or Hermes using Telegram</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-sunseri_bc86
 <h2 class="app-name" id="app-60b941551342ae00a7b63a93"><a href="https://apps.rebble.io/en_US/application/60b941551342ae00a7b63a93">Pebble Float</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jmsunseri/pebble-float" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-06-03</span> <span title="Latest release in the app store">Updated 2021-06-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2021-06-03</span> <span title="Latest release in the app store">Updated 2021-06-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Clean watch face displaying time, steps, distance, current temp, date with day of week, and battery bar at the top</p>
 </div>

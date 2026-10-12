@@ -13,7 +13,7 @@ hide:
 
 # cscott
 
-*3 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cscott_53b76b01d773ce09420000e4) · [GitHub (cscott)](https://github.com/cscott)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cscott_53b76b01d773
 <h2 class="app-name" id="app-549739eb3b132dedb500011c"><a href="https://apps.repebble.com/549739eb3b132dedb500011c">Square Dance C4 Flash Cards</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/cscott/pebble-c4" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-21</span> <span title="Latest release in the app store">Updated 2021-08-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-21</span> <span title="Latest release in the app store">Updated 2021-08-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A pebble watchface which displays flashcards for square dance calls at the C4 level.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cscott_53b76b01d773
 <h2 class="app-name" id="app-5497633d83524456ec000039"><a href="https://apps.repebble.com/5497633d83524456ec000039">XO</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/cscott/pebble-xo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-22</span> <span title="Latest release in the app store">Updated 2015-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-22</span> <span title="Latest release in the app store">Updated 2015-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface displaying the One Laptop per Child/Sugar &quot;XO man&quot;.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cscott_53b76b01d773
 <h2 class="app-name" id="app-54974cada8c1257044000023"><a href="https://apps.repebble.com/54974cada8c1257044000023">Nix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/cscott/pebble-nix" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-21</span> <span title="Latest release in the app store">Updated 2015-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-21</span> <span title="Latest release in the app store">Updated 2015-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A &quot;nix&quot; style watchface for pebble. The number of filled squares in each group gives the digits in the current time. Hours are at the top. The pattern of filled squares changes every three seconds.</p>
 </div>

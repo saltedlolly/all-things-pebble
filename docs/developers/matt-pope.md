@@ -13,7 +13,7 @@ hide:
 
 # Matt Pope
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5678b92c0ffe0467d6000075/1) · [GitHub (kaypro4)](https://github.com/kaypro4)
 

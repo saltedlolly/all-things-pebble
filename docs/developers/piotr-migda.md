@@ -13,7 +13,7 @@ hide:
 
 # Piotr Migdał
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/piotr-migda_e7e11c1645c1d7b38d9cb0c0) · [GitHub (stared)](https://github.com/stared)
 

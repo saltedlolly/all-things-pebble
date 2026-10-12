@@ -13,7 +13,7 @@ hide:
 
 # Marcus Edwards
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marcus-edwards_5590749e66735d848b000097) · [GitHub (MackEdweise)](https://github.com/MackEdweise)
 

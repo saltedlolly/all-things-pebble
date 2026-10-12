@@ -13,7 +13,7 @@ hide:
 
 # The Resetter
 
-*12 watchfaces and 1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*12 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5b3b1836712710000164e3ca/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/the-resetter_5415133bbcd1cf9264000081) · [GitHub (GreenHex)](https://github.com/GreenHex) · [Website (forums.pebble.com)](https://forums.pebble.com/t/watchface-anery-and-anery-for-pebble-time-2/)
 

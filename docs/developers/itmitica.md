@@ -13,7 +13,7 @@ hide:
 
 # itmitica
 
-*5 watchfaces · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5721f6ed0676425a62000009/1) · [GitHub (itmitica)](https://github.com/itmitica)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5721f6ed0676425
 <h2 class="app-name" id="app-5a87fd2e461a8de29800275d"><a href="https://apps.rebble.io/en_US/application/5a87fd2e461a8de29800275d">Water</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/itmitica/Pebble-Water.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-02-17</span> <span title="Latest release in the app store">Updated 2018-02-17</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-02-17</span> <span title="Latest release in the app store">Updated 2018-02-17</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Two screens: screenface and watchface. Default is screenface. Shake your wrist to display the watchface: date, marked weekday, time. Screenface returns to display on the minute.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5721f6ed0676425
 <h2 class="app-name" id="app-5a81e2ba0dfc3209070000ef"><a href="https://apps.rebble.io/en_US/application/5a81e2ba0dfc3209070000ef">Tree Hide</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/itmitica/Pebble-TreeHide.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-02-12</span> <span title="Latest release in the app store">Updated 2018-02-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-02-12</span> <span title="Latest release in the app store">Updated 2018-02-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">There are two screens: screenface and watchface. Shake your wrist to bring up the watchface. The screenface will be displayed once again on the minute.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5721f6ed0676425
 <h2 class="app-name" id="app-5a77514d0dfc321c120024d7"><a href="https://apps.rebble.io/en_US/application/5a77514d0dfc321c120024d7">BebasNeue Forque - Silent Assassin Edition</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/itmitica/Pebble-BebasNeue.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-02-04</span> <span title="Latest release in the app store">Updated 2018-02-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-02-04</span> <span title="Latest release in the app store">Updated 2018-02-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Time - The Silent Assassin Shake your wrist to shake off the silent assassin ! Displays date, marked weekday, time BebasNeue and Forque fonts</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5721f6ed0676425
 <h2 class="app-name" id="app-5a717e90461a8da66a00047b"><a href="https://apps.rebble.io/en_US/application/5a717e90461a8da66a00047b">TimeBurner Rave - itmitica</a> <span class="app-version" title="Latest version" data-search-exclude>v1.99</span></h2>
 <a class="app-source" href="https://github.com/itmitica/Pebble-TimeBurnerRave" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-01-31</span> <span title="Latest release in the app store">Updated 2018-02-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-01-31</span> <span title="Latest release in the app store">Updated 2018-02-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays time, date and weekday TimeBurner and Rave thin fonts</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5721f6ed0676425
 <h2 class="app-name" id="app-5a5f9efe461a8d0a97002b8f"><a href="https://apps.rebble.io/en_US/application/5a5f9efe461a8d0a97002b8f">Simple Watch - itmitica</a> <span class="app-version" title="Latest version" data-search-exclude>v1.90</span></h2>
 <a class="app-source" href="https://github.com/itmitica/Pebble-SimpleWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-01-17</span> <span title="Latest release in the app store">Updated 2018-01-27</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-01-17</span> <span title="Latest release in the app store">Updated 2018-01-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Time, date and week day, suitable for one-glance-read. And a nice wallpaper.</p>
 </div>

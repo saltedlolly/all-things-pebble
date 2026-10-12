@@ -13,7 +13,7 @@ hide:
 
 # mjculross
 
-*1 watchface and 3 apps · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mjculross_52998a08e627ced73e000037) · [GitHub (mjculross)](https://github.com/mjculross)
 

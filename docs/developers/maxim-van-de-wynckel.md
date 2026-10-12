@@ -13,7 +13,7 @@ hide:
 
 # Maxim Van de Wynckel
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxim-van-de-wynckel_54636310feade13b43000052) · [GitHub (Maximvdw)](https://github.com/Maximvdw) · [Website (mvdw-software.be)](http://www.mvdw-software.be/)
 

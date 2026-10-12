@@ -13,7 +13,7 @@ hide:
 
 # Drew Hutton (Yoroshi)
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drew-hutton-yoroshi_f5b5d7f2003a693d16ebf63f) · [GitHub (coredevices)](https://github.com/coredevices)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drew-hutton-yoroshi
 <h2 class="app-name" id="app-ed402248906d4478982b0c4d"><a href="https://apps.repebble.com/ed402248906d4478982b0c4d">Claude Code Mascot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/coredevices/pebble-watchface-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An animated watchface featuring the Claude Code mascot — a tiny AI character that walks, runs, thinks, and sleeps across a pixel-art terminal display. Shows time in a chunky orange pixel font with…</p>
 </div>

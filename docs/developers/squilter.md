@@ -13,7 +13,7 @@ hide:
 
 # squilter
 
-*1 app · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/squilter_54d54c5fc0d58f6dba000027) · [GitHub (DroidPlanner)](https://github.com/DroidPlanner)
 

@@ -13,7 +13,7 @@ hide:
 
 # Brandon Coupal
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brandon-coupal_0db1e0062a42c30823b3ab72) · [GitHub (bscoup01)](https://github.com/bscoup01)
 

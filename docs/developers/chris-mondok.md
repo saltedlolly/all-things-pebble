@@ -13,7 +13,7 @@ hide:
 
 # Chris Mondok
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-mondok_c9d0fd35867b0a0b127d4d29) · [GitHub (ChrisMondok)](https://github.com/ChrisMondok)
 

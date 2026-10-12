@@ -13,7 +13,7 @@ hide:
 
 # Alexey Gusev
 
-*1 watchface · Last updated 2026-10-11 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alexey-gusev_558bcdb2295a7dc170000080) · [GitHub (MAD-GooZe)](https://github.com/MAD-GooZe)
 
