@@ -13,7 +13,7 @@ hide:
 
 # jyntran
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jyntran_57d0604f4a6ad94b2b0001bd) · [GitHub (jyntran)](https://github.com/jyntran)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jyntran_57d0604f4a6
 <h2 class="app-name" id="app-5816884a46041f64b000026a"><a href="https://apps.repebble.com/5816884a46041f64b000026a">Rokkenjima</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/jyntran/pebble-rokkenjima" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-30</span> <span title="Latest release in the app store">Updated 2017-02-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-30</span> <span title="Latest release in the app store">Updated 2017-02-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Analog watchface inspired by the clock from When Seagulls Cry (うみねこのなく頃に, Umineko no Naku Koro Ni). Clay configuration is available: - Background colour - Clock colour - Show/hide clock pattern …</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jyntran_57d0604f4a6
 <h2 class="app-name" id="app-5828c7b08c7fff999a00014d"><a href="https://apps.repebble.com/5828c7b08c7fff999a00014d">Brand of Sacrifice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jyntran/pebble-brand-of-sacrifice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-13</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-13</span> <span title="Latest release in the app store">Updated 2016-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple digital watchface inspired by Berserk (ベルセルク). Features: - 12/24 hour support - Battery level drawn in the centre of the brand - Brand changes to Bluetooth symbol on disconnect - Timeline…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jyntran_57d0604f4a6
 <h2 class="app-name" id="app-580c456353c08f476c00013c"><a href="https://apps.repebble.com/580c456353c08f476c00013c">Tojo Clan</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jyntran/pebble-tojo-clan" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-23</span> <span title="Latest release in the app store">Updated 2016-10-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-23</span> <span title="Latest release in the app store">Updated 2016-10-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watchface featuring the crest of the Tojo Clan from the Yakuza (龍が如く, Ryu Ga Gotoku) games by Sega. Customization includes: - Background colour - Time font colour - Black or white crest …</p>
 </div>

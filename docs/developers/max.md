@@ -13,7 +13,7 @@ hide:
 
 # Max
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max_7383942784c5ab4602dd8dc0) · [GitHub (max-tet)](https://github.com/max-tet)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max_7383942784c5ab4
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="metro analog" data-released="2026-09-20" data-updated="2026-09-27">
+<div class="app-card" data-type="watchface" data-title="metro analog" data-released="2026-09-20" data-updated="2026-10-18">
 <a class="app-shot" href="https://apps.repebble.com/7bec989c6c01406e98acfcd2" data-search-exclude><img src="../images/apps/7bec989c6c01406e98acfcd2.png" alt="Metro Analog" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7bec989c6c01406e98acfcd2"><a href="https://apps.repebble.com/7bec989c6c01406e98acfcd2">Metro Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-7bec989c6c01406e98acfcd2"><a href="https://apps.repebble.com/7bec989c6c01406e98acfcd2">Metro Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
 <a class="app-source" href="https://github.com/max-tet/pebble-metro-analog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-20</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-20</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A Metro tile grid for the Pebble Time 2. An analog clock with all twelve numerals fills the top left, and the remaining tiles carry the ISO date with week number, current weather with high and…</p>
 </div>

@@ -13,14 +13,30 @@ hide:
 
 # dimak21
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dimak21_5197d01875c2244ade01662d) · [GitHub (DimaK21)](https://github.com/DimaK21)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="ostanovka" data-released="2026-10-17" data-updated="2026-10-17">
+<a class="app-shot" href="https://apps.repebble.com/ed5a5b30bd474f6fac31f634" data-search-exclude><img src="../images/apps/ed5a5b30bd474f6fac31f634.png" alt="Ostanovka" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ed5a5b30bd474f6fac31f634"><a href="https://apps.repebble.com/ed5a5b30bd474f6fac31f634">Ostanovka</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/DimaK21/Ostanovka" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Open Ostanovka and see when the next buses and trams arrive at the stop nearest to you, from live vehicle positions. Up and Down page through other stops nearby. Save up to 10 stops per city on…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="yanavipeb" data-released="2026-09-24" data-updated="2026-09-24">
 <a class="app-shot" href="https://apps.repebble.com/609c311158bd4a25a409a209" data-search-exclude><img src="../images/apps/609c311158bd4a25a409a209.png" alt="YaNaviPeb" loading="lazy"></a>
 <div class="app-info">

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · **D** · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*75 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*75 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-571188b8c96f2e474e000003"><a href="https://apps.repebble.com/571188b8c96f2e474e000003">Debt Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nmittu/DebtClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mittudev.html" title="More from this developer">MittuDev</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-16</span> <span title="Latest release in the app store">Updated 2016-04-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-16</span> <span title="Latest release in the app store">Updated 2016-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Live US national debt clock.</p>
 </div>
@@ -215,7 +215,7 @@ hide:
 <h2 class="app-name" id="app-5728f7829e9134971d000002"><a href="https://apps.repebble.com/5728f7829e9134971d000002">Decision Maker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/petrolias/Pebble_DecisionMaker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/petrolias-christopher.html" title="More from this developer">Petrolias Christopher</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-03</span> <span title="Latest release in the app store">Updated 2016-05-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-03</span> <span title="Latest release in the app store">Updated 2016-05-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The decision making process was never easy. This pebble app is here to help you out! Whether you are optimistic or pessimistic there is always a quote response for you!</p>
 </div>
@@ -259,7 +259,7 @@ hide:
 <h2 class="app-name" id="app-5704637a0239f18ed9000013"><a href="https://apps.repebble.com/5704637a0239f18ed9000013">Delegate Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nmittu/2016-Delegate-Tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mittudev.html" title="More from this developer">MittuDev</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-06</span> <span title="Latest release in the app store">Updated 2016-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-06</span> <span title="Latest release in the app store">Updated 2016-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Tracks the delegate count of the 2016 presidential candidates.</p>
 </div>
@@ -325,7 +325,7 @@ hide:
 <h2 class="app-name" id="app-53a3df8b694928250f00015e"><a href="https://apps.repebble.com/53a3df8b694928250f00015e">DeskLights128</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/obja/Desklights128" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/alec-harley.html" title="More from this developer">Alec Harley</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-20</span> <span title="Latest release in the app store">Updated 2014-07-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-20</span> <span title="Latest release in the app store">Updated 2014-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Controls a DeskLights 2.0 table with custom commands.</p>
 </div>
@@ -380,7 +380,7 @@ hide:
 <h2 class="app-name" id="app-532323bf60c773c1420000a8"><a href="https://apps.repebble.com/532323bf60c773c1420000a8">Dialer for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://github.com/matejdro/PebbleDialer-Watchapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matejdro.html" title="More from this developer">matejdro</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-14</span> <span title="Latest release in the app store">Updated 2016-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-03-14</span> <span title="Latest release in the app store">Updated 2016-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Answer, decline, mute, make calls from your Pebble.</p>
 </div>
@@ -424,7 +424,7 @@ hide:
 <h2 class="app-name" id="app-ba09dc7f85b14dbc8319d9af"><a href="https://apps.repebble.com/ba09dc7f85b14dbc8319d9af">Dictate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/lordkeynes/Dictate_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/keynes.html" title="More from this developer">Keynes</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Note taking app built in the theme of the Pebble OS Stock weather app. Ability to store Note, To Do List, and a built in Grocery list.</p>
 </div>
@@ -465,12 +465,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5b595252b47f4f28ae51c39d" data-search-exclude><img src="../images/apps/5b595252b47f4f28ae51c39d.png" alt="Digimon Digivice" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v0.91</span></h2>
+<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/vinay1017/Pebble-Digivice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vinayla.html" title="More from this developer">Vinayla</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">My take on a hybrid digivice + vital bracelet Digimon app! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how to digivolve to…</p>
+<p class="app-desc">My take on a hybrid digivice + vital bracelet (VB) Digimon app! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how to digivolve to…</p>
 </div>
 </div>
 <div class="app-card">
@@ -501,7 +501,7 @@ hide:
 <h2 class="app-name" id="app-67cccea5b7a023024b214604"><a href="https://apps.rebble.io/en_US/application/67cccea5b7a023024b214604">Discord Companion</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/jplexer/discord-companion" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jplexer.html" title="More from this developer">JPlexer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2025-03-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2025-03-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Requires https://github.com/jplexer/discord-companion running. This is basically a remote for your discord call! Mute, Deafen, whatever! Icons and Design by Lavender</p>
 </div>
@@ -512,7 +512,7 @@ hide:
 <h2 class="app-name" id="app-5386a0646189a1be8200007a"><a href="https://apps.repebble.com/5386a0646189a1be8200007a">Dislock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/lkorth/pebble-locker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/luke-korth.html" title="More from this developer">Luke Korth</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-29</span> <span title="Latest release in the app store">Updated 2014-05-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-29</span> <span title="Latest release in the app store">Updated 2014-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Control the lock screen of your device right from your Pebble. Set your phone or tablet&#x27;s lock screen to locked, unlocked or automatic. When set to automatic, Dislock will control the lock screen…</p>
 </div>
@@ -578,7 +578,7 @@ hide:
 <h2 class="app-name" id="app-5681f92a94ffb20cb4000072"><a href="https://apps.repebble.com/5681f92a94ffb20cb4000072">Dolce Gusto Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/lordlouis/dolcegustotime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lordlouis.html" title="More from this developer">lordlouis</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-29</span> <span title="Latest release in the app store">Updated 2015-12-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-29</span> <span title="Latest release in the app store">Updated 2015-12-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The Dolce Gusto Time application helps in the preparation of Dolce Gusto beverages in non-automatic coffee machines preparing the beverage using the level indicated in the capsule. Select the…</p>
 </div>
@@ -589,7 +589,7 @@ hide:
 <h2 class="app-name" id="app-53efb1efbb2f684ce7000169"><a href="https://apps.repebble.com/53efb1efbb2f684ce7000169">Dota2Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nicolassatragno/dota2timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/satragno-software.html" title="More from this developer">Satragno Software</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-16</span> <span title="Latest release in the app store">Updated 2014-08-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-08-16</span> <span title="Latest release in the app store">Updated 2014-08-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A timer app for DOTA2. Features: Roshan status - Press a button when Rosh is killed, and you&#x27;ll get a display of its status (dead or alive) or the chances of it having respawned. Optional…</p>
 </div>
@@ -710,7 +710,7 @@ hide:
 <h2 class="app-name" id="app-569e359791e256161800002f"><a href="https://apps.repebble.com/569e359791e256161800002f">DroidPlanner2 for 3DR IRIS+</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ladrower/DroidPlanner-2-Pebble-forked" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/artem.html" title="More from this developer">Artem</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Original DroidPlanner 2 pebble app</p>
 </div>
@@ -809,7 +809,7 @@ hide:
 <h2 class="app-name" id="app-c5a2a3ecd8ac487ab39411d8"><a href="https://apps.repebble.com/c5a2a3ecd8ac487ab39411d8">DVB</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/kiliankoe/dvbpb" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/kilian-koeltzsch.html" title="More from this developer">Kilian Koeltzsch</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Navigate Dresden&#x27;s public transport network from your wrist. This app shows you upcoming departures for stops around you. You can also view and follow a specific trip. On opening the app it shows…</p>
 </div>

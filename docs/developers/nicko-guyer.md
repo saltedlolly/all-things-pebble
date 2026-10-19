@@ -13,7 +13,7 @@ hide:
 
 # Nicko Guyer
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicko-guyer_52f0ef2e61b752a5520029bc) · [GitHub (nguyer)](https://github.com/nguyer)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicko-guyer_52f0ef2
 <h2 class="app-name" id="app-55ff2456ed80fc148d000099"><a href="https://apps.repebble.com/55ff2456ed80fc148d000099">Engineering</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/nguyer/pebble-engineering" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-20</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-20</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A precise, simple, and customizable analog watchface. Includes second hand, current day, and date, as well as current temperature (determined by GPS location). All labels can be turned on or off…</p>
 </div>

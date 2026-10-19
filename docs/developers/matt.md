@@ -13,7 +13,7 @@ hide:
 
 # Matt
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt_e56a0276e82f3b9205e1cfb8) · [GitHub (mattnovelli)](https://github.com/mattnovelli) · [Website (discord.gg)](https://discord.gg/3AR2ypEC9Y)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt_e56a0276e82f3b
 <h2 class="app-name" id="app-05a900301a1642d4a086e782"><a href="https://apps.repebble.com/05a900301a1642d4a086e782">Soundboard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/mattnovelli/soundboard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Pick sounds from your phone. Play them through your Pebble&#x27;s speakers. All-on device. It&#x27;s that simple, folks.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt_e56a0276e82f3b
 <h2 class="app-name" id="app-87448e2399a94cd58d2c8284"><a href="https://apps.repebble.com/87448e2399a94cd58d2c8284">Patch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/mattnovelli/patch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/958" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Harness the power of iOS Automations to send text messages (including iMessages) from your Pebble! No server required. Patch uses Outlook (yes, Outlook!) to send an email to yourself, which…</p>
 </div>

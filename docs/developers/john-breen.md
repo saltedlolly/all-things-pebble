@@ -13,7 +13,7 @@ hide:
 
 # John Breen
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-breen_52f955fba6f6c53f2a0004c4) · [GitHub (jvbreen1)](https://github.com/jvbreen1)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-breen_52f955fb
 <h2 class="app-name" id="app-53029cc99847d17bb600001a"><a href="https://apps.repebble.com/53029cc99847d17bb600001a">Epoch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jvbreen1/epoch_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-17</span> <span title="Latest release in the app store">Updated 2014-02-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-17</span> <span title="Latest release in the app store">Updated 2014-02-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface shows the number of seconds since the Unix Epoch (Jan 1, 1970 00:00:00)</p>
 </div>

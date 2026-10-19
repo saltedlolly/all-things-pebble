@@ -13,7 +13,7 @@ hide:
 
 # Kenny Chen
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kenny-chen_530c50a87cd17ca525000271) · [GitHub (kenny-chen)](https://github.com/kenny-chen)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kenny-chen_530c50a8
 <h2 class="app-name" id="app-55a96f5427eb8ded4c000006"><a href="https://apps.repebble.com/55a96f5427eb8ded4c000006">Path Reborn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/kenny-chen/pebble-path-reborn" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-17</span> <span title="Latest release in the app store">Updated 2015-09-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-17</span> <span title="Latest release in the app store">Updated 2015-09-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A modified version of the Path watch face by corefault for the Pebble Time, with the seconds bar as a battery bar instead, the minutes moved to the side for easier reading, and a slight increase…</p>
 </div>

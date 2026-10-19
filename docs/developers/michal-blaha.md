@@ -13,7 +13,7 @@ hide:
 
 # Michal Blaha
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michal-blaha_f32586e2bb368aa0fb2bc8f9) · [GitHub (michalblaha)](https://github.com/michalblaha)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michal-blaha_f32586
 <h2 class="app-name" id="app-913596b1f09d4dab981805b3"><a href="https://apps.repebble.com/913596b1f09d4dab981805b3">GymClock</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.1</span></h2>
 <a class="app-source" href="https://github.com/michalblaha/GymClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">GymClock — your interval &amp; HIIT timer on the wrist. Build a circuit from your own named exercises, set the work time, rest time and number of rounds, then start training without ever touching your…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michal-blaha_f32586
 <h2 class="app-name" id="app-bc521e1f080841449463f74e"><a href="https://apps.repebble.com/bc521e1f080841449463f74e">Crisp</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/michalblaha/Crisp-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc"># Crisp — Pebble appstore listing copy ## Title Crisp ## Tagline (one line) Clean analog watchface with thin markers and live info in every corner. ## Short description (~140 chars) A customizable…</p>
 </div>

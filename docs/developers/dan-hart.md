@@ -13,7 +13,7 @@ hide:
 
 # Dan Hart
 
-*5 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-hart_52fec0a4756d34a53a0004b6) · [GitHub (dan-hart)](https://github.com/dan-hart) · [GitHub (mizzoudan)](https://github.com/mizzoudan) · [Website (danhart.me)](http://danhart.me/)
 
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-hart_52fec0a475
 <h2 class="app-name" id="app-533b17d8c45ef2bf6b00029b"><a href="https://apps.repebble.com/533b17d8c45ef2bf6b00029b">Simple Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/mizzoudan/SimpleFace1.2-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-01</span> <span title="Latest release in the app store">Updated 2014-04-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-01</span> <span title="Latest release in the app store">Updated 2014-04-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">SimpleFace - By Dan Hart ==================== - Simple Time ( 24 or 12 ) - Color Invert + Vibe on disconnect. - Day of the Week - Date (MM - DD - YYYY) Heavily based on Futura Weather, big thanks…</p>
 </div>

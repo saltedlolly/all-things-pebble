@@ -13,7 +13,7 @@ hide:
 
 # daduke
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daduke_56490a754f9b2993b0000011) · [GitHub (daduke)](https://github.com/daduke)
 

@@ -13,7 +13,7 @@ hide:
 
 # mephissto
 
-*9 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*9 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc2a5e4f05c000021) · [GitHub (mephissto)](https://github.com/mephissto)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-55835eac2f3e32222b00002c"><a href="https://apps.repebble.com/55835eac2f3e32222b00002c">KS moded</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mephissto/ks-clock-face/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-19</span> <span title="Latest release in the app store">Updated 2016-01-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-06-19</span> <span title="Latest release in the app store">Updated 2016-01-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple watchface based on KS Original</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-569e9c94099696ec1500003f"><a href="https://apps.repebble.com/569e9c94099696ec1500003f">MetroWatch Red</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/MetroWatch/tree/red" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Red version of MetroWatch color</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-569e9da6099696e83d00005b"><a href="https://apps.repebble.com/569e9da6099696e83d00005b">MetroWatch Purple</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/MetroWatch/tree/purple" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Purple version of metrowatch color</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-569e9ec480b0d26c48000035"><a href="https://apps.repebble.com/569e9ec480b0d26c48000035">MetroWatch Green</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/MetroWatch/tree/green" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Green version of MetroWatch Color watchface.</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-564a540f5a5002181e000003"><a href="https://apps.repebble.com/564a540f5a5002181e000003">Progressor Color</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/Progressor" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-16</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-16</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">First release</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-564a3d7a406ba6596c00007e"><a href="https://apps.repebble.com/564a3d7a406ba6596c00007e">2Day App Light</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/2day-app-light" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-16</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-16</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">2Day Appl with light color</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-557c61814923dd2fc0000051"><a href="https://apps.repebble.com/557c61814923dd2fc0000051">2Day App</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mephissto/2day-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-13</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-06-13</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple app that display the current day of the weak, day of the month and the month. Sometimes I use a watchface that don&#x27;t have the day of the week or the month, and when you need this…</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-55789a4753e13cba20000061"><a href="https://apps.repebble.com/55789a4753e13cba20000061">Thin moded</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mephissto/thin" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-10</span> <span title="Latest release in the app store">Updated 2015-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-10</span> <span title="Latest release in the app store">Updated 2015-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Based on the Thin watchface made by Chris Lewis. !! New Theme !! - Green - Red - Purple</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-55809a58fc670b738a000062"><a href="https://apps.repebble.com/55809a58fc670b738a000062">MetroWatch Color</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/MetroWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-16</span> <span title="Latest release in the app store">Updated 2015-06-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-16</span> <span title="Latest release in the app store">Updated 2015-06-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Based on Metro Watch by Marc Ferrándiz Borràs</p>
 </div>
@@ -131,7 +131,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-5580297bda86937b5c00001c"><a href="https://apps.repebble.com/5580297bda86937b5c00001c">ChronoCode Color</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mephissto/pebble-chronocode" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-16</span> <span title="Latest release in the app store">Updated 2015-06-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-3-Clause</span> <span title="First published in the app store">Released 2015-06-16</span> <span title="Latest release in the app store">Updated 2015-06-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Based on ChronoCode by rexmac. 3 themes : blue, green &amp; red. And their inverted color.</p>
 </div>
@@ -142,7 +142,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mephissto_5362a57dc
 <h2 class="app-name" id="app-557c085d4923dd0b17000009"><a href="https://apps.repebble.com/557c085d4923dd0b17000009">Simple Digital</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mephissto/simple-digital" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-13</span> <span title="Latest release in the app store">Updated 2015-06-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-06-13</span> <span title="Latest release in the app store">Updated 2015-06-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple digital watchfaces with day of the month and month. Inspired by M360 Digital Watchface. Upcoming features : * Choose date format : DD.MM or MM.DD * Change colors</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # lavendork
 
-*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5dcf62c7c393f5706985a9cb/1) · [GitHub (lavglaab)](https://github.com/lavglaab) · [Website (discord.com)](https://discord.com/channels/221364737269694464/1352777180764966975)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5dcf62c7c393f57
 <h2 class="app-name" id="app-6617645c46ea9f09c2b1558c"><a href="https://apps.rebble.io/en_US/application/6617645c46ea9f09c2b1558c">Minitrix2</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
 <a class="app-source" href="https://github.com/lavglaab/minitrix2-pebble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/989" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2024-04-11</span> <span title="Latest release in the app store">Updated 2026-07-25</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2024-04-11</span> <span title="Latest release in the app store">Updated 2026-07-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The ultimate Ben 10 watch face for Pebble! A successor to my first Pebble watch face, with even cooler looks. Features: - Light changes color for Recharge Mode (low battery) and DNA Scan Mode…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5dcf62c7c393f57
 <h2 class="app-name" id="app-5e9e37043dd3101b10109a01"><a href="https://apps.rebble.io/en_US/application/5e9e37043dd3101b10109a01">Moto Maker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/lavglaab/MotoMakerFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/332" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-04-20</span> <span title="Latest release in the app store">Updated 2026-03-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2020-04-20</span> <span title="Latest release in the app store">Updated 2026-03-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A customizable analog watch face based on the look of the Moto 360, with plenty of color options.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5dcf62c7c393f57
 <h2 class="app-name" id="app-65ee6ce8ea09ac0433d38125"><a href="https://apps.rebble.io/en_US/application/65ee6ce8ea09ac0433d38125">wake up_</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/lavglaab/pebble-signalis-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2024-03-11</span> <span title="Latest release in the app store">Updated 2024-03-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2024-03-11</span> <span title="Latest release in the app store">Updated 2024-03-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A watch face for Pebble Time series watches, based on the title screen of the game SIGNALIS! Features: - 12 and 24 hour digital time - On-screen indicators for low battery, bluetooth disconnected…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5dcf62c7c393f57
 <h2 class="app-name" id="app-5dcf62c8c393f5706985a9cd"><a href="https://apps.rebble.io/en_US/application/5dcf62c8c393f5706985a9cd">Minitrix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/lavglaab/MinitrixPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2019-11-16</span> <span title="Latest release in the app store">Updated 2021-04-26</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2019-11-16</span> <span title="Latest release in the app store">Updated 2021-04-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watch face inspired by the Omnitrix from Ben 10, with modes inspired by the classic series and Omniverse. Features analog and digital time, vibrate on phone disconnect, and changing color for…</p>
 </div>

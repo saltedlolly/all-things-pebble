@@ -13,7 +13,7 @@ hide:
 
 # Grégoire Sage
 
-*3 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b216cf05c04653a9000080) · [GitHub (gregoiresage)](https://github.com/gregoiresage) · [GitHub (pebble)](https://github.com/pebble) · [Website (paypal.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gregoire%2esage%40gmail%2ecom&lc=US&item_name=NetAtmo%20for%20Pebble&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
 
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b21
 <h2 class="app-name" id="app-53ff99c7d08f53676a000043"><a href="https://apps.repebble.com/53ff99c7d08f53676a000043">Pebble Demos</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-28</span> <span title="Latest release in the app store">Updated 2014-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-28</span> <span title="Latest release in the app store">Updated 2014-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">All the Pebble SDK demos in ONE app ! Contains all the watchapps and all the watchfaces</p>
 </div>

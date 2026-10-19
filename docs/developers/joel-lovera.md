@@ -13,7 +13,7 @@ hide:
 
 # Joel Lovera
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joel-lovera_547357817b10bb366d000064) · [GitHub (loverajoel)](https://github.com/loverajoel)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joel-lovera_5473578
 <h2 class="app-name" id="app-54ebb991b0a2e249e20000e9"><a href="https://apps.repebble.com/54ebb991b0a2e249e20000e9">JsConf</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/loverajoel/jsconf-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-23</span> <span title="Latest release in the app store">Updated 2015-02-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-02-23</span> <span title="Latest release in the app store">Updated 2015-02-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">- Events - Talks - Info Beta version Open source project</p>
 </div>

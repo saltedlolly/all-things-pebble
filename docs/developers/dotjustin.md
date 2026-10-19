@@ -13,7 +13,7 @@ hide:
 
 # dotJustin
 
-*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dotjustin_4b6299c72480e7810068a64a) · [GitHub (dot-Justin)](https://github.com/dot-Justin)
 

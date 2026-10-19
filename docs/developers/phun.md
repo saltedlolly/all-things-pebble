@@ -13,7 +13,7 @@ hide:
 
 # phun
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phun_52d8e23db82a9fd7d7000006) · [GitHub (phmagic)](https://github.com/phmagic) · [Website (phun.me)](http://phun.me)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phun_52d8e23db82a9f
 <h2 class="app-name" id="app-53047f5c534d8a0a380001a6"><a href="https://apps.repebble.com/53047f5c534d8a0a380001a6">Snakey</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/phmagic/snakey" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-19</span> <span title="Latest release in the app store">Updated 2014-03-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-19</span> <span title="Latest release in the app store">Updated 2014-03-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Play the classic game of snake with a twist on your Pebble! *Updated* The faster you eat the apple, the more points you get. Play it in the rain, on a train, on a plane, in a house, in a car, in a…</p>
 </div>

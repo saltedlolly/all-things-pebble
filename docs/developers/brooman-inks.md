@@ -13,7 +13,7 @@ hide:
 
 # Brooman Inks
 
-*6 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brooman-inks_44b97418cf47663c00fb67bc) · [GitHub (brooks2564)](https://github.com/brooks2564)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brooman-inks_44b974
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="nfl live scores" data-released="2026-09-14" data-updated="2026-10-19">
+<a class="app-shot" href="https://apps.repebble.com/6c0eeeaeb5484d4f99a1f030" data-search-exclude><img src="../images/apps/6c0eeeaeb5484d4f99a1f030.png" alt="NFL Live Scores" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6c0eeeaeb5484d4f99a1f030"><a href="https://apps.repebble.com/6c0eeeaeb5484d4f99a1f030">NFL Live Scores</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<a class="app-source" href="https://github.com/brooks2564/Pebble-NFL-Live" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-14</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
+<p class="app-desc">NFL Live Scores for Pebble Stuck in a meeting? Can&#x27;t watch the game? Don&#x27;t worry - keep the score on your wrist. NFL Live Scores updates every minute straight from ESPN&#x27;s public scoreboard API, so…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="nhl live scores" data-released="2026-04-18" data-updated="2026-10-03">
 <a class="app-shot" href="https://apps.repebble.com/43c6b549267b48e5abd78dca" data-search-exclude><img src="../images/apps/43c6b549267b48e5abd78dca.png" alt="NHL Live Scores" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +46,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brooman-inks_44b974
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">NHL Scores</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="nfl live scores" data-released="2026-09-14" data-updated="2026-09-14">
-<a class="app-shot" href="https://apps.repebble.com/6c0eeeaeb5484d4f99a1f030" data-search-exclude><img src="../images/apps/6c0eeeaeb5484d4f99a1f030.png" alt="NFL Live Scores" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-6c0eeeaeb5484d4f99a1f030"><a href="https://apps.repebble.com/6c0eeeaeb5484d4f99a1f030">NFL Live Scores</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/brooks2564/Pebble-NFL-Live" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-14</span> <span title="Latest release in the app store">Updated 2026-09-14</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
-<p class="app-desc">NFL Live Scores for Pebble Stuck in a meeting? Can&#x27;t watch the game? Don&#x27;t worry - keep the score on your wrist. NFL Live Scores updates every minute straight from ESPN&#x27;s public scoreboard API, so…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="tinymaker monitor" data-released="2026-09-05" data-updated="2026-09-05">

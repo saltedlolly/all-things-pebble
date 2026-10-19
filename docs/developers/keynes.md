@@ -13,7 +13,7 @@ hide:
 
 # Keynes
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keynes_b9f6a0b2865903bff0747a2b) · [GitHub (lordkeynes)](https://github.com/lordkeynes)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keynes_b9f6a0b28659
 <h2 class="app-name" id="app-ba09dc7f85b14dbc8319d9af"><a href="https://apps.repebble.com/ba09dc7f85b14dbc8319d9af">Dictate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/lordkeynes/Dictate_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Note taking app built in the theme of the Pebble OS Stock weather app. Ability to store Note, To Do List, and a built in Grocery list.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keynes_b9f6a0b28659
 <h2 class="app-name" id="app-2cd6eda817c142dd8467a9c8"><a href="https://apps.repebble.com/2cd6eda817c142dd8467a9c8">Pixel Town</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/lordkeynes/Pixel_town" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time</div>
 <p class="app-desc">A pixel-art small-downtown watchface for Pebble, a full-screen scene whose sky, sun/moon arc, stars and weather all react to the time of day, real sunrise/sunset from Open-Meteo, and current…</p>
 </div>

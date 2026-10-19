@@ -13,7 +13,7 @@ hide:
 
 # Mangla &amp; Co LLC
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a5a2343c423ad0008ec9370/1) · [GitHub (moeed80)](https://github.com/moeed80) · [Website (moeed.com)](https://moeed.com)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a5a2343c423ad0
 <h2 class="app-name" id="app-6a5a328955030a00092d829f"><a href="https://apps.rebble.io/en_US/application/6a5a328955030a00092d829f">Squintless</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/moeed80/squintless" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1164" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-17</span> <span title="Latest release in the app store">Updated 2026-07-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-17</span> <span title="Latest release in the app store">Updated 2026-07-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Squintless is an accessibility-first watch face for Pebble Time 2. It exists for one job: let you tell the time instantly. No date. No weather. No step count. No seconds. No icons. No decorative…</p>
 </div>

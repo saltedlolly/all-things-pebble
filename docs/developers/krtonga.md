@@ -13,7 +13,7 @@ hide:
 
 # krtonga
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5448ff0897cb85037b000081/1) · [GitHub (krtonga)](https://github.com/krtonga)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5448ff0897cb850
 <h2 class="app-name" id="app-5a627fb80dfc322b45002073"><a href="https://apps.rebble.io/en_US/application/5a627fb80dfc322b45002073">NoLostPhone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/krtonga/NoLostPhone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-01-19</span> <span title="Latest release in the app store">Updated 2018-02-01</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-01-19</span> <span title="Latest release in the app store">Updated 2018-02-01</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watchface was inspired by my absent minded tendency to leave my phone behind when I&#x27;m in a hurry. I wanted to be informed when bluetooth disconnects, so I can turn around immediately and go…</p>
 </div>

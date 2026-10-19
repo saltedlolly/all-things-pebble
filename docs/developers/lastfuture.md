@@ -13,7 +13,7 @@ hide:
 
 # lastfuture
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lastfuture_52f00cd8e523d0248c00000d) · [GitHub (lastfuture)](https://github.com/lastfuture) · [Website (git.broken.graphics)](https://git.broken.graphics/alina/Pebble-Time-Watchface-Squared-4.0)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lastfuture_52f00cd8
 <h2 class="app-name" id="app-52f014d342937dc4430000ee"><a href="https://apps.repebble.com/52f014d342937dc4430000ee">Squared 4.0</a> <span class="app-version" title="Latest version" data-search-exclude>v4.15</span></h2>
 <a class="app-source" href="https://github.com/lastfuture/Pebble-Time-Watchface-Squared-4.0" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2016-11-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2016-11-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A slick collection of squares showing you time and date. Customize colors and appearance. Choose any color combination and preview the result right away. You decide on the date format, if you want…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lastfuture_52f00cd8
 <h2 class="app-name" id="app-5647661dcadadbd23900007f"><a href="https://apps.repebble.com/5647661dcadadbd23900007f">Super Simple</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/lastfuture/Pebble-Time-Watchface-Super-Simple" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-14</span> <span title="Latest release in the app store">Updated 2015-12-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-14</span> <span title="Latest release in the app store">Updated 2015-12-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Super Simple watchface with only two analog hands. Configure colors, shadows and tick marks to make it entirely your own.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lastfuture_52f00cd8
 <h2 class="app-name" id="app-564f8291331881d7d1000018"><a href="https://apps.repebble.com/564f8291331881d7d1000018">Arcangle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/lastfuture/Pebble-Time-Watchface-Arcangle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-20</span> <span title="Latest release in the app store">Updated 2015-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-20</span> <span title="Latest release in the app store">Updated 2015-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">A watchface for the hacker spy in you. Made exclusively for Pebble Time Round Examples: 8:01, 5:20, 8:17, 11:52 You read the start and the end of the line like regular watch hands, the piece…</p>
 </div>

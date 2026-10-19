@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · **X** · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*10 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*10 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-55c2f6b2740436377400007d"><a href="https://apps.repebble.com/55c2f6b2740436377400007d">X-wing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.83</span></h2>
 <a class="app-source" href="https://github.com/miloprice/pebble-xwing" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/milo-price.html" title="More from this developer">Milo Price</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-06</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-08-06</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Relive the climactic Trench Run from Star Wars! This watchface features imagery from the final assault on the Death Star from the 1993 X-wing DOS game by LucasArts. Current features: - Time shown…</p>
 </div>
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-692bf93b63df8c000980a4c0"><a href="https://apps.rebble.io/en_US/application/692bf93b63df8c000980a4c0">xclock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/kjy00302/pebble-xclock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/kjy00302.html" title="More from this developer">kjy00302</a> · <a href="https://forum.rebble.io/t/1162" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-30</span> <span title="Latest release in the app store">Updated 2026-07-17</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-11-30</span> <span title="Latest release in the app store">Updated 2026-07-17</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The classic analog clock for X windows system, ported to Pebble watchface.</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-8e71e4d1e67a4f9d8e27fa0e"><a href="https://apps.repebble.com/8e71e4d1e67a4f9d8e27fa0e">xDrip Framework Demo Watch Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/jstevensog/xDrip-Pebble-E/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jstevensogt1d.html" title="More from this developer">JStevensogT1D</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-10-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-10-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a demonstration version of a watch face designed to operate with the xDrip experimental Type 1 Diabetes management phone app. Note that currently this is not supported in the mainstream…</p>
 </div>

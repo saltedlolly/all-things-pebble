@@ -13,7 +13,7 @@ hide:
 
 # inerg
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/inerg_531bd06216c197260300023a) · [GitHub (inerg)](https://github.com/inerg)
 

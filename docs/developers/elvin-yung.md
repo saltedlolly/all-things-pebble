@@ -13,7 +13,7 @@ hide:
 
 # Elvin Yung
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/elvin-yung_533743d90c987fbffe000099) · [GitHub (elvinyung)](https://github.com/elvinyung)
 

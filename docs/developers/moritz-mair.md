@@ -13,7 +13,7 @@ hide:
 
 # Moritz Mair
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ab370f843575a0009d93842/1) · [GitHub (moritzmair)](https://github.com/moritzmair) · [Website (moritzmair.de)](https://www.moritzmair.de)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ab370f843575a0
 <h2 class="app-name" id="app-6ab377e4cf733a0009d76732"><a href="https://apps.rebble.io/en_US/application/6ab377e4cf733a0009d76732">Wortuhr</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/moritzmair/wortuhr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1375" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-09-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-09-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The time in words – a QLOCKTWO-style word clock in English or German. A word clock in the style of QLOCKTWO, in English or German. Instead of digits, the watchface lights up the words in a letter…</p>
 </div>

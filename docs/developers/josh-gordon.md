@@ -13,7 +13,7 @@ hide:
 
 # Josh Gordon
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh-gordon_530a766d60f21fec5f00006f) · [GitHub (joshgordon)](https://github.com/joshgordon) · [Website (blog.joshgordon.net)](http://blog.joshgordon.net/pebble/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh-gordon_530a766
 <h2 class="app-name" id="app-530a781e24c458af7d00011e"><a href="https://apps.repebble.com/530a781e24c458af7d00011e">A Better Bit (Binary)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/joshgordon/better_bit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-23</span> <span title="Latest release in the app store">Updated 2014-02-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-23</span> <span title="Latest release in the app store">Updated 2014-02-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is the pebble default &quot;Just a Bit&quot; watchface modified to use truly binary bits instead of using binary bits to represent base 10 numbers.</p>
 </div>

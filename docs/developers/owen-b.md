@@ -13,7 +13,7 @@ hide:
 
 # Owen B
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/owen-b_535fc8b0cabddcdb760000c1) · [GitHub (obitoo)](https://github.com/obitoo) · [Website (forums.getpebble.com)](https://forums.getpebble.com/discussion/19595/watchface-tide-forecasts-now-worldwide?new=1)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/owen-b_535fc8b0cabd
 <h2 class="app-name" id="app-54980fdd9fa273b3860000a3"><a href="https://apps.repebble.com/54980fdd9fa273b3860000a3">Tides</a> <span class="app-version" title="Latest version" data-search-exclude>v4.2</span></h2>
 <a class="app-source" href="https://github.com/obitoo/PebbleTidesUK" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-22</span> <span title="Latest release in the app store">Updated 2017-01-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-12-22</span> <span title="Latest release in the app store">Updated 2017-01-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Latest tidal graphs on your wrist! Choose from over 4000 ports in 129 countries worldwide. UPDATE Jan 2016: Double tides: Easytide have changed the way they handle double high tides. As a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/owen-b_535fc8b0cabd
 <h2 class="app-name" id="app-554f9bc04e604b446200006d"><a href="https://apps.repebble.com/554f9bc04e604b446200006d">Mondrian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.21</span></h2>
 <a class="app-source" href="https://github.com/obitoo/PebbleMondrian" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2015-09-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2015-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Release 1.2: Added Bluetooth disconnect icon A nerdy little colour watchface. Hours are Blue, Minutes are Yellow, and Red for Both. Can you figure out how it works? (Hint : 5, 3, 2, 1 ,1)</p>
 </div>

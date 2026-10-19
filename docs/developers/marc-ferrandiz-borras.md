@@ -13,7 +13,7 @@ hide:
 
 # Marc Ferrándiz Borràs
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marc-ferr-ndiz-borr-s_52ed929aa482025c23000002) · [GitHub (marcferrandiz)](https://github.com/marcferrandiz) · [Website (marcferrandiz.com)](http://www.marcferrandiz.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marc-ferr-ndiz-borr
 <h2 class="app-name" id="app-5303d8bc7097ac4d3e000359"><a href="https://apps.repebble.com/5303d8bc7097ac4d3e000359">Metro Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/marcferrandiz/MetroWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-18</span> <span title="Latest release in the app store">Updated 2014-12-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-18</span> <span title="Latest release in the app store">Updated 2014-12-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Metro Watch is a awesome new skin watch for all the Pebble family. The big point is the simplicity and minimalism style for an elegant person. 24h or 12h, you choose. Life is clear, clear is Metro…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Merddyn
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/merddyn_53fb5515994475d7f3000054) · [GitHub (pgbunce)](https://github.com/pgbunce)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/merddyn_53fb5515994
 <h2 class="app-name" id="app-550cad5a2fbbaacde3000060"><a href="https://apps.repebble.com/550cad5a2fbbaacde3000060">Binary Time - Waveform</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/pgbunce/wf-binary-time-waveform" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-20</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-20</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shows the time (12 or 24 hour) in binary format, 4 bits per time digit, as a waveform :)</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/merddyn_53fb5515994
 <h2 class="app-name" id="app-5519a59c0f4ab7222e000003"><a href="https://apps.repebble.com/5519a59c0f4ab7222e000003">Binary Time - Grid</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/pgbunce/binaryTimeGrid" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-30</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-30</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shows the time in binary, four bits per time digit, in a grid layout. Time is shown in either 12- or 24-hour mode, as set in the watch settings. There is an &quot;on-shake&quot; animation to show the time…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/merddyn_53fb5515994
 <h2 class="app-name" id="app-550c4830d4c6b4b94e000007"><a href="https://apps.repebble.com/550c4830d4c6b4b94e000007">Binary Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/pgbunce/wf-binary-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-20</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-20</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shows the time in binary, four bits per time digit. Time is shown in either 12- or 24-hour mode, as set in the watch settings.</p>
 </div>

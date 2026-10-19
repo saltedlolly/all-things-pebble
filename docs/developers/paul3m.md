@@ -13,7 +13,7 @@ hide:
 
 # paul3m
 
-*4 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul3m_27ef9d2ded8279c429fce882) · [GitHub (paul-em)](https://github.com/paul-em)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul3m_27ef9d2ded82
 <h2 class="app-name" id="app-2a378472017a4c0098b0e7d9"><a href="https://apps.repebble.com/2a378472017a4c0098b0e7d9">emFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/paul-em/pebble-emFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-02</span> <span title="Latest release in the app store">Updated 2026-09-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-02</span> <span title="Latest release in the app store">Updated 2026-09-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watch face that shows information on 4 corners: Top left: Weather info with bar indicating the max/min temperature of the day and where we are in this range right now Top right: Date Bottom left…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul3m_27ef9d2ded82
 <h2 class="app-name" id="app-a34e76c10ab94a2a9235b6d8"><a href="https://apps.repebble.com/a34e76c10ab94a2a9235b6d8">emFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/paul-em/pebble-emFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-29</span> <span title="Latest release in the app store">Updated 2026-03-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-29</span> <span title="Latest release in the app store">Updated 2026-03-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watch face that shows information on 4 corners: Top left: Weather info with bar indicating the max/min temperature of the day and where we are in this range right now Top right: Date Bottom left…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul3m_27ef9d2ded82
 <h2 class="app-name" id="app-429e6ee5ab3b4c9b9313058c"><a href="https://apps.repebble.com/429e6ee5ab3b4c9b9313058c">emFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/paul-em/pebble-emFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-28</span> <span title="Latest release in the app store">Updated 2026-03-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-28</span> <span title="Latest release in the app store">Updated 2026-03-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watch face that shows information on 4 corners: Top left: Weather info with bar indicating the max/min temperature of the day and where we are in this range right now Top right: Date Bottom left…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul3m_27ef9d2ded82
 <h2 class="app-name" id="app-4b9bac75f03745dcb4d86f25"><a href="https://apps.repebble.com/4b9bac75f03745dcb4d86f25">Android Pixel</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/paul-em/pebble-android-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-26</span> <span title="Latest release in the app store">Updated 2026-03-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-26</span> <span title="Latest release in the app store">Updated 2026-03-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Currently mainly built for Pebble 2 Duo. Pebble Time 2 optimizations will follow</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul3m_27ef9d2ded82
 <h2 class="app-name" id="app-abb6d785901941a3810f7dc4"><a href="https://apps.repebble.com/abb6d785901941a3810f7dc4">fetch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/paul-em/pebble-fetch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-24</span> <span title="Latest release in the app store">Updated 2026-03-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-24</span> <span title="Latest release in the app store">Updated 2026-03-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Send http requests from your watch! Includes config options for up to 3 quick access requests with methods GET POST PUT DELTE PATCH and custom headers</p>
 </div>

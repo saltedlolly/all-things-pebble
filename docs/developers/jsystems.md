@@ -13,7 +13,7 @@ hide:
 
 # JSystems
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/608059d81342ae003ce73f00/1) · [GitHub (oonqt)](https://github.com/oonqt)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/608059d81342ae0
 <h2 class="app-name" id="app-608059da1342ae003ce73f02"><a href="https://apps.rebble.io/en_US/application/608059da1342ae003ce73f02">Pebble Deliveries</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/oonqt/pebble-deliveries" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-04-21</span> <span title="Latest release in the app store">Updated 2021-05-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-04-21</span> <span title="Latest release in the app store">Updated 2021-05-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble Deliveries is an app that makes it easy to track your shipment from dozens of different postal carriers. Simply app your package name and tracking number from the settings page to begin…</p>
 </div>

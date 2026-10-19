@@ -13,7 +13,7 @@ hide:
 
 # Levonn
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/levonn_f316bd30e30eb999711b5614) · [GitHub (levonn-dev)](https://github.com/levonn-dev)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/levonn_f316bd30e30e
 <h2 class="app-name" id="app-5841886baf734898822e2899"><a href="https://apps.repebble.com/5841886baf734898822e2899">Fox Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/levonn-dev/pebble-adventure-wf" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-26</span> <span title="Latest release in the app store">Updated 2026-05-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-26</span> <span title="Latest release in the app store">Updated 2026-05-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A Pebble watchface where the sky follows your weather and a pixel fox keeps you company. The background changes with the current conditions, a fox sits (or walks) on the ground, and the time…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/levonn_f316bd30e30e
 <h2 class="app-name" id="app-d50eaec84a5e410298a3d2c7"><a href="https://apps.repebble.com/d50eaec84a5e410298a3d2c7">Pebble Adventure</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/levonn-dev/pebble-adventure" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-05-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-05-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc"># Pebble Adventure ## Walk further. Level up. Explore the world. One step at a time. --- ## The Game Born from a love of Chao Adventure, Tamagotchi, and Ragnarok Online, Pebble Adventure is a…</p>
 </div>

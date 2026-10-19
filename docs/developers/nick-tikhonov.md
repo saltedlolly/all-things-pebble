@@ -13,7 +13,7 @@ hide:
 
 # Nick Tikhonov
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-tikhonov_53092023fa74421daa0006a5) · [GitHub (nicktikhonov)](https://github.com/nicktikhonov)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-tikhonov_53092
 <h2 class="app-name" id="app-5739ed4cc7050e9150000013"><a href="https://apps.repebble.com/5739ed4cc7050e9150000013">Save Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nicktikhonov/pebble-save-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-16</span> <span title="Latest release in the app store">Updated 2016-05-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-16</span> <span title="Latest release in the app store">Updated 2016-05-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Unofficial RescueTime watchface for your Pebble Time and Time Steel. Keep track of your productivity score and total work time from your wrist!</p>
 </div>

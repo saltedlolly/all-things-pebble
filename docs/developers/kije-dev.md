@@ -13,7 +13,7 @@ hide:
 
 # kije-dev
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kije-dev_52b953e7fd4763c452000066) · [GitHub (kije)](https://github.com/kije) · [Website (kije.github.io)](http://kije.github.io/PebblePong-2/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kije-dev_52b953e7fd
 <h2 class="app-name" id="app-52cb23ccb138287fc8000050"><a href="https://apps.repebble.com/52cb23ccb138287fc8000050">NextTrain</a> <span class="app-version" title="Latest version" data-search-exclude>v1</span></h2>
 <a class="app-source" href="https://github.com/kije/NextTrain" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-06</span> <span title="Latest release in the app store">Updated 2014-05-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">LGPL-3.0</span> <span title="First published in the app store">Released 2014-01-06</span> <span title="Latest release in the app store">Updated 2014-05-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watchface, that shows you the next public transportations (bus, tram, train, etc...) departing from or nearby your current location. It will also notify you about delays and cancelations…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kije-dev_52b953e7fd
 <h2 class="app-name" id="app-52b961505dfb6ed2b400005d"><a href="https://apps.repebble.com/52b961505dfb6ed2b400005d">PebblePong</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.2</span></h2>
 <a class="app-source" href="https://github.com/kije/PebblePong-2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-24</span> <span title="Latest release in the app store">Updated 2014-01-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2013-12-24</span> <span title="Latest release in the app store">Updated 2014-01-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pong for Pebble Now with accelerometer support. Simply control your paddle by turning your wrist. To reset the calibration of the accelerometer during the game, press the select (middle) button on…</p>
 </div>

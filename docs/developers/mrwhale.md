@@ -13,7 +13,7 @@ hide:
 
 # MrWhale
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrwhale_5309702c24c4582908000149) · [GitHub (mrwhale)](https://github.com/mrwhale)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrwhale_5309702c24c
 <h2 class="app-name" id="app-57c24bc35e3c3db4850002af"><a href="https://apps.repebble.com/57c24bc35e3c3db4850002af">CSontheGO</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mrwhale/CS-on-the-GO" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-28</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-28</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble app to display upcoming, live and completed CSGO (Counter Strike Global Offensive) match details Displays all upcoming CSGO match information, as well as completed match information with…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrwhale_5309702c24c
 <h2 class="app-name" id="app-576e0ad06c21042b7b00000e"><a href="https://apps.repebble.com/576e0ad06c21042b7b00000e">Light-Controller (BETA)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/mrwhale/pebble-light-controller" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your LimitelessLED, milight or EasyBulb lights with your pebble! This is currently the BETA build, so only has basic functionality working (on/off) but there is colourful UI to come! (This…</p>
 </div>

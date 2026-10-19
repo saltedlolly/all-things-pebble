@@ -13,7 +13,7 @@ hide:
 
 # Nick Penkov
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53ef190611cff6b7bd000063/1) · [GitHub (npenkov)](https://github.com/npenkov) · [Website (pebslee.com)](http://www.pebslee.com)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53ef190611cff6b
 <h2 class="app-name" id="app-545674f5a13219e58b000099"><a href="https://apps.rebble.io/en_US/application/545674f5a13219e58b000099">Pinsleep</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/npenkov/pebslee-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-02</span> <span title="Latest release in the app store">Updated 2015-11-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-11-02</span> <span title="Latest release in the app store">Updated 2015-11-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Former PebSlee application. Smart sleep alarm and sleep tracking app with free Companion apps for fetching and syncing data with Apple HealthKit and Dropbox. Android and iOS Companion apps are…</p>
 </div>

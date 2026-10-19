@@ -13,7 +13,7 @@ hide:
 
 # Nathan Clisby
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nathan-clisby_88e8beeb5488b9a79d9a262b) · [GitHub (nclisby)](https://github.com/nclisby)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nathan-clisby_88e8b
 <h2 class="app-name" id="app-22ece92835ce4d6f9bb49696"><a href="https://apps.repebble.com/22ece92835ce4d6f9bb49696">Hamiltonian path</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nclisby/hp_pebble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-10</span> <span title="Latest release in the app store">Updated 2026-05-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-10</span> <span title="Latest release in the app store">Updated 2026-05-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Displays a Hamiltonian path on a 6x6 grid, sampled via the so-called backbite algorithm.</p>
 </div>

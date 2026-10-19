@@ -13,7 +13,7 @@ hide:
 
 # exe
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/exe_5299a4c8e627ce050d000068) · [GitHub (exe44)](https://github.com/exe44)
 

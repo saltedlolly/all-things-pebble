@@ -13,7 +13,7 @@ hide:
 
 # Tech
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tech_546f37cf5c3354c5f400009e) · [GitHub (pahakorolev)](https://github.com/pahakorolev)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tech_546f37cf5c3354
 <h2 class="app-name" id="app-548703c6e67af54a04000037"><a href="https://apps.repebble.com/548703c6e67af54a04000037">Noise</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/pahakorolev/pebble_noise" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-09</span> <span title="Latest release in the app store">Updated 2016-02-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-09</span> <span title="Latest release in the app store">Updated 2016-02-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple sample of pebble application which using graphical api</p>
 </div>

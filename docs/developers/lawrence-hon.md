@@ -13,7 +13,7 @@ hide:
 
 # Lawrence Hon
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lawrence-hon_a158013fa933d51c1f0ab4d8) · [GitHub (lhon)](https://github.com/lhon)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lawrence-hon_a15801
 <h2 class="app-name" id="app-95905503800f4e2a9669bb33"><a href="https://apps.repebble.com/95905503800f4e2a9669bb33">SwissCorners</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/lhon/SwissCorners" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Swiss railway watchface with configurable corner complications This project is based on Maartje Eyskens’s ModernSwiss, which brought the classic “Swiss Square” face forward for reborn Pebble…</p>
 </div>

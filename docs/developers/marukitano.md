@@ -13,7 +13,7 @@ hide:
 
 # marukitano
 
-*5 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff2831479c1011a82df1985d) · [GitHub (marukitano)](https://github.com/marukitano)
 
@@ -21,18 +21,29 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>7</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>5</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>8</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>5</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="weighttracker" data-released="2026-10-14" data-updated="2026-10-14">
+<a class="app-shot" href="https://apps.repebble.com/1958c27652f34a59bd08c7d4" data-search-exclude><img src="../images/apps/1958c27652f34a59bd08c7d4.png" alt="WeightTracker" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-1958c27652f34a59bd08c7d4"><a href="https://apps.repebble.com/1958c27652f34a59bd08c7d4">WeightTracker</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<a class="app-source" href="https://github.com/marukitano/weighttracker" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">**WeightTracker – Simple weight tracking on your wrist.** Track your weight directly on your Pebble Time 2 with a clean, minimalist interface and a smooth, interactive chart. Whether you want to…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="nasu" data-released="2026-08-15" data-updated="2026-10-02">
 <a class="app-shot" href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201" data-search-exclude><img src="../images/apps/eccd3b6ffdd2436cbe643201.png" alt="Nasu" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-eccd3b6ffdd2436cbe643201"><a href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201">Nasu</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.5</span></h2>
 <a class="app-source" href="https://github.com/marukitano/Nasu" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Deutsch Nasu ist eine Medikamenten-Erinnerungs-App für die Pebble Time 2 – mit einer kleinen Krankenschwester, die dich auf ihrer Vespa begleitet und daran erinnert, deine Medikamente zu nehmen…</p>
 </div>
@@ -43,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 <h2 class="app-name" id="app-24973dcf491d46fd90e166e1"><a href="https://apps.repebble.com/24973dcf491d46fd90e166e1">Swiss Chronograph</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/marukitano/Swiss-Chronograph" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">English One swipe. That’s it. Are you tired of timer apps where your finger covers exactly what you are trying to set? Or of tapping through menus again and again just to start a simple countdown?…</p>
 </div>
@@ -54,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 <h2 class="app-name" id="app-02a27e35c0a9494a9208e70f"><a href="https://apps.repebble.com/02a27e35c0a9494a9208e70f">OpenLibreLinkUp</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.5</span></h2>
 <a class="app-source" href="https://github.com/marukitano/OpenLibreLinkUp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-26</span> <span title="Latest release in the app store">Updated 2026-08-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-07-26</span> <span title="Latest release in the app store">Updated 2026-08-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">English OpenLibreLinkUp is a glucose-monitoring watchface for the Pebble Time 2. It displays current FreeStyle Libre readings through the unofficial LibreLinkUp API, including glucose value, trend…</p>
 </div>
@@ -65,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 <h2 class="app-name" id="app-fa33ca96a9e1480890a251c2"><a href="https://apps.repebble.com/fa33ca96a9e1480890a251c2">Past-Present-Future</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/marukitano/past-present-future" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-08-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-08-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">English The original design was created by Chris Lewis. With his permission, I adapted and rebuilt it for the new Pebble Time 2, added new animations, themes, weather, configuration options and a…</p>
 </div>
@@ -76,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 <h2 class="app-name" id="app-fafbbd65c0a14e07b37c71ea"><a href="https://apps.repebble.com/fafbbd65c0a14e07b37c71ea">Lavalamp</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
 <a class="app-source" href="https://github.com/marukitano/Lavalamp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-24</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-3-Clause</span> <span title="First published in the app store">Released 2026-07-24</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">English Lavalamp is a binary watchface that displays the current time using animated, organic blobs. The upper blobs represent the hours, while the lower blobs represent the minutes. Each position…</p>
 </div>
@@ -87,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 <h2 class="app-name" id="app-1964d553c3b347d99040ca2a"><a href="https://apps.repebble.com/1964d553c3b347d99040ca2a">Hidden in Perspective</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/marukitano/Hidden_in_Perspective" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Deutsch Perspective verwandelt deine Pebble Time 2 in ein kleines 3D-Display am Handgelenk. Die Uhrzeit besteht aus einer schwebenden Punktwolke, die sich mithilfe des Beschleunigungssensors…</p>
 </div>
@@ -98,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 <h2 class="app-name" id="app-ee9868f8875f4d2c81ebac42"><a href="https://apps.repebble.com/ee9868f8875f4d2c81ebac42">FCK_Gravity</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/marukitano/FCK_Gravity" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-26</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-26</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">##Deutsch ### Kurzbeschreibung Ein schwerkraftgesteuertes Vektor-Ziffernblatt für die Pebble Time 2. ### Beschreibung Gravity ist ein minimalistisches, schwerkraftgesteuertes Ziffernblatt für die…</p>
 </div>

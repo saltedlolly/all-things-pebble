@@ -13,7 +13,7 @@ hide:
 
 # Nikki
 
-*6 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae00755aeb46/1) · [GitHub (not-phoeniix)](https://github.com/not-phoeniix)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae0
 <h2 class="app-name" id="app-67cbd46ed2acb301fae26e30"><a href="https://apps.rebble.io/en_US/application/67cbd46ed2acb301fae26e30">Plurble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.1</span></h2>
 <a class="app-source" href="https://github.com/not-phoeniix/plurble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/285" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2026-08-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2026-08-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A plural management app on your wrist! Plurble is an app designed to help people who are plural/systems manage and keep track of members on the go! This was an app originally made for the Rebble…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae0
 <h2 class="app-name" id="app-637ad305fdf3e30009f639a7"><a href="https://apps.rebble.io/en_US/application/637ad305fdf3e30009f639a7">Pixel</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/not-phoeniix/pixel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2023-01-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2023-01-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pixelated watchface for the Rebble Hackathon #001! Features: - Several background options - Several middle bar options - Full color customization (fg, bg, shadow, and 2 accents!) - Pride background :)</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae0
 <h2 class="app-name" id="app-62479f8931bc3600098fec28"><a href="https://apps.rebble.io/en_US/application/62479f8931bc3600098fec28">Dots</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/not-phoeniix/dots" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-04-02</span> <span title="Latest release in the app store">Updated 2022-09-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2022-04-02</span> <span title="Latest release in the app store">Updated 2022-09-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watchface with dots! Features: Customizable colors, variable number of dots, and an optional pride flag!</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae0
 <h2 class="app-name" id="app-60803d141342ae009528070f"><a href="https://apps.rebble.io/en_US/application/60803d141342ae009528070f">TicToc+</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/not-phoeniix/tictoc_plus/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-04-21</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-04-21</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An extension of the default Pebble Time watchface TicToc, with more features and customization Features: - Almost everything is toggleable! Don&#x27;t like the date? Turn it off! - BT disconnect vibe …</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae0
 <h2 class="app-name" id="app-6188242ac82670000a67ad54"><a href="https://apps.rebble.io/en_US/application/6188242ac82670000a67ad54">Slash</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/not-phoeniix/slash" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-11-07</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-11-07</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The time with a slash through it and a ring around it too. - Customizable time, accent, and background colors - Toggleable date animation - Pride flag ring :)</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae0
 <h2 class="app-name" id="app-6050f9b61342ae00755aeb47"><a href="https://apps.rebble.io/en_US/application/6050f9b61342ae00755aeb47">Pride Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/not-phoeniix/pride-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-03-16</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-03-16</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">An LGBTQ+ pride watchface that has a bunch of different flags and a handful of customization options! Show off your pride :) - 16 different flags!! - custom background color (no flag) - custom…</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6050f9b61342ae0
 <h2 class="app-name" id="app-60ba1ac61342ae021731a3e0"><a href="https://apps.rebble.io/en_US/application/60ba1ac61342ae021731a3e0">Metro+</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/not-phoeniix/metro-plus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-06-04</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-06-04</span> <span title="Latest release in the app store">Updated 2022-03-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Extension of other metro watchfaces on the Pebble store with features like: - customizable colors - animated date - pride flag background :) Heavily inspired by Metro Flip by AngerDanger</p>
 </div>

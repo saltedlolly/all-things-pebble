@@ -13,7 +13,7 @@ hide:
 
 # zszen
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zszen_57586deacbd52b0d51000004) · [GitHub (zszen)](https://github.com/zszen) · [GitHub (pebble-examples)](https://github.com/pebble-examples) · [Website (twitter.com)](http://twitter.com/zszen)
 
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zszen_57586deacbd52
 <h2 class="app-name" id="app-5776a81d66202abc7f0000c7"><a href="https://apps.repebble.com/5776a81d66202abc7f0000c7">ZSteps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/pebble-examples/strider-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-01</span> <span title="Latest release in the app store">Updated 2016-07-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-07-01</span> <span title="Latest release in the app store">Updated 2016-07-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I modify by example app &quot;strider-watchface&quot; And change it to watchface.</p>
 </div>

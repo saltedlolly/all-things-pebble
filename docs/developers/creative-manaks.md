@@ -13,7 +13,7 @@ hide:
 
 # Creative Manaks
 
-*15 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*15 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504fe850dc7e97a445b0a10d) · [GitHub (manaksu)](https://github.com/manaksu)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-284eba70698f4ed88a0b67f4"><a href="https://apps.repebble.com/284eba70698f4ed88a0b67f4">Tread Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.9</span></h2>
 <a class="app-source" href="https://github.com/manaksu/Tread" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-02</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-02</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">in progress</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-3ec735136ee54ed7b9cf4de6"><a href="https://apps.repebble.com/3ec735136ee54ed7b9cf4de6">PyramidWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/manaksu/Pyramid" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">new</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-bff9181191da49d992568e39"><a href="https://apps.repebble.com/bff9181191da49d992568e39">Valve Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.70</span></h2>
 <a class="app-source" href="https://github.com/manaksu/ValveWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-25</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-25</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A fan-made watchface dedicated to Valve Corporation and the Steam Deck — because great design deserves to live on your wrist too. Time is displayed in bold inside a signature red rectangle, a…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-3e32f62748b84166aec7f5ae"><a href="https://apps.repebble.com/3e32f62748b84166aec7f5ae">TypeWriter Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.40</span></h2>
 <a class="app-source" href="https://github.com/manaksu/TypewriterWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A typewriter on your wrist. Paper grain texture, Special Elite font, and the satisfying clack of old-school letterpress — your day, time, city and date typed out exactly as it should be.</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-4301ead109fe41f5b73ef4a0"><a href="https://apps.repebble.com/4301ead109fe41f5b73ef4a0">Rect Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/manaksu/rectwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-11</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-11</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">RectWatch A clean, minimal analog watchface for Pebble Time Steel. Built around a precise rectangular clock face with a cream e-paper texture, RectWatch pairs classic watchmaking with modern data…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-bc1aca03d4f74a079f0b039a"><a href="https://apps.repebble.com/bc1aca03d4f74a079f0b039a">Pink Floyd Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.90</span></h2>
 <a class="app-source" href="https://github.com/manaksu/PinkFloyd" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-20</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-20</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">&quot;And then one day you find, ten years have got behind you.&quot; Time told through the words of Pink Floyd. Every minute, a lyric from the catalogue fills your screen — and somewhere in those words…</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-7eb74e91c4a1462782a203ff"><a href="https://apps.repebble.com/7eb74e91c4a1462782a203ff">Mosaic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.50</span></h2>
 <a class="app-source" href="https://github.com/manaksu/Vangogh" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Van Gogh Watch</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-c0b16641ab934e11b3e57751"><a href="https://apps.repebble.com/c0b16641ab934e11b3e57751">Malayalam Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v4.10</span></h2>
 <a class="app-source" href="https://github.com/manaksu/MalayalamWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Malayalam Clock brings the Malayalam script to your Pebble Time Steel — twelve hand-rendered Malayalam numerals arranged around a clean, cream analog clock face, with Kerala&#x27;s formation date…</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-8ddf0a68bd2a4251b4eab414"><a href="https://apps.repebble.com/8ddf0a68bd2a4251b4eab414">Lofi Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.80</span></h2>
 <a class="app-source" href="https://github.com/manaksu/cozy-day" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-09</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-09</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">New App</p>
 </div>
@@ -131,7 +131,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-a50e74e276f04309ae80f0d3"><a href="https://apps.repebble.com/a50e74e276f04309ae80f0d3">InkCorner Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.35</span></h2>
 <a class="app-source" href="https://github.com/manaksu/ink-corner" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">In progress</p>
 </div>
@@ -142,7 +142,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-da97e8d3d4a3400c87379cde"><a href="https://apps.repebble.com/da97e8d3d4a3400c87379cde">Game Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.50</span></h2>
 <a class="app-source" href="https://github.com/manaksu/GTA-2Watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Inspired by GTA2 Your Pebble Time is now running the GTA2 Industrial Sector. The iconic map fills the screen, authentic HUD bars track your steps, heart rate and battery — just like in-game…</p>
 </div>
@@ -153,7 +153,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-c4baaf223a4542c5b985d048"><a href="https://apps.repebble.com/c4baaf223a4542c5b985d048">DOS VGA</a> <span class="app-version" title="Latest version" data-search-exclude>v1.90</span></h2>
 <a class="app-source" href="https://github.com/manaksu/DOS-VGA" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-07</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-07</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">DOS-RPG Your wrist just rolled a NAT 20 on style. Forget clean. Forget minimal. This is your health data rendered in the glow of a CRT monitor, parsed through a dungeon crawler terminal, and…</p>
 </div>
@@ -164,7 +164,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-888dd564643647808da7d859"><a href="https://apps.repebble.com/888dd564643647808da7d859">Code Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.20</span></h2>
 <a class="app-source" href="https://github.com/manaksu/CodeWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-19</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-19</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Time as code. The watch displays the current time as a Python function — syntax-highlighted in VS Code colours, with JetBrains Mono font. Every minute, the code updates. Read the return value to…</p>
 </div>
@@ -175,7 +175,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-458f35557f90489f8a0967ce"><a href="https://apps.repebble.com/458f35557f90489f8a0967ce">Aptos Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.7</span></h2>
 <a class="app-source" href="https://github.com/manaksu/Aptos-Watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">new</p>
 </div>
@@ -186,7 +186,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/creative-manaks_504
 <h2 class="app-name" id="app-27712bf7eb5f44a1b56a4204"><a href="https://apps.repebble.com/27712bf7eb5f44a1b56a4204">Aldo Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v4.20</span></h2>
 <a class="app-source" href="https://github.com/manaksu/AldoWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Aldo Clean and typographic. Built around the bold geometric character of the Aldo the Apache font, this watchface keeps it minimal — time front and center on a creamy white canvas, with a subtle…</p>
 </div>

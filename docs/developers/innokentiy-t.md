@@ -13,7 +13,7 @@ hide:
 
 # innokentiy\_t
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/innokentiy-t_68f9c18dd3c6e4000885b8cb) · [GitHub (innokentiyt)](https://github.com/innokentiyt)
 

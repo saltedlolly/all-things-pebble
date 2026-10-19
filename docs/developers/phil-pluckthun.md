@@ -13,7 +13,7 @@ hide:
 
 # Phil Plückthun
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phil-pl-ckthun_5301c6682b218d48670003a5) · [GitHub (philplckthun)](https://github.com/philplckthun) · [Website (plckthn.me)](http://plckthn.me)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phil-pl-ckthun_5301
 <h2 class="app-name" id="app-530a2f2b24c458d540000476"><a href="https://apps.repebble.com/530a2f2b24c458d540000476">Barely V2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/philplckthun/pebble-barely-v2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-23</span> <span title="Latest release in the app store">Updated 2014-02-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-02-23</span> <span title="Latest release in the app store">Updated 2014-02-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simplified digits displayed only using horizontal and vertical lines. Four squares for the time, four for the date, and four for the year, filling the whole screen. Also invertable! It doesn&#x27;t use…</p>
 </div>

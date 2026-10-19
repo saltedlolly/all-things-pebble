@@ -13,7 +13,7 @@ hide:
 
 # matou
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matou_53305d39981bcd9580000219) · [GitHub (matou)](https://github.com/matou)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matou_53305d39981bc
 <h2 class="app-name" id="app-5731e16382fa53acfd000019"><a href="https://apps.repebble.com/5731e16382fa53acfd000019">UUlm Mensaplan</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/matou/PebbleMensaplanUUlm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-10</span> <span title="Latest release in the app store">Updated 2016-06-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-10</span> <span title="Latest release in the app store">Updated 2016-06-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This app can fetch and display the &#x27;Mensaplan&#x27; of Ulm University. It can show the menu of UUlm&#x27;s Mensa, Bistro, Cafeteria Nord, Cafeteria West, Mensa Hochschule, Burgerbar SouthSide, and…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # mcongrove
 
-*6 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e2187058f9000011) · [Rebble App Store](https://apps.rebble.io/en_US/developer/52affc34e2187058f9000011/1) · [GitHub (mcongrove)](https://github.com/mcongrove) · [Website (wearewearable.com)](http://www.WeAreWearable.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e
 <h2 class="app-name" id="app-54320b0b106a8c3b05000064"><a href="https://apps.repebble.com/54320b0b106a8c3b05000064">Forekast</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/ForekastPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-06</span> <span title="Latest release in the app store">Updated 2014-10-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-06</span> <span title="Latest release in the app store">Updated 2014-10-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Get today&#x27;s Forekast events right on your wrist. Forekast is a calendar of amazing events happening worldwide, posted and voted on by an international community. Music festivals, rocket launches…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e
 <h2 class="app-name" id="app-52affd2e4002497d9e00000a"><a href="https://apps.repebble.com/52affd2e4002497d9e00000a">Mask</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/PebbleMask" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-17</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2013-12-17</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watch face based on the Mask watch by Filip Slovacek. Each triangle turns to reveal the current time; hour on the outer, minute on the inner. The time is updated in 5-minute increments…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e
 <h2 class="app-name" id="app-52cdd3b70b54db5fb900001b"><a href="https://apps.repebble.com/52cdd3b70b54db5fb900001b">Flying Blind</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/PebbleFlyingBlind" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-08</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-01-08</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watch face that vibrates the time. Optionally vibrates every half or quarter-hour. Shake your wrist to briefly see the time. Colors can be inverted and vibration intervals can be set by…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e
 <h2 class="app-name" id="app-52b010d7e2187074f100001a"><a href="https://apps.repebble.com/52b010d7e2187074f100001a">Extra Normal</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/PebbleExtraNormal" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-17</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2013-12-17</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watch face based on the Extra Normal watch face. Hour hands turn to reveal the current time as it passes overhead. Colors can be inverted by accessing the settings in the Pebble application.</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e
 <h2 class="app-name" id="app-52cdd4a72797163d1a000001"><a href="https://apps.repebble.com/52cdd4a72797163d1a000001">Daylight</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/PebbleDaylight" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-08</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-01-08</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watch face that shows the daylight as it streaks across the globe. Land masses can be shown or hidden by accessing the settings in the Pebble application.</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e
 <h2 class="app-name" id="app-52b3ec30f60b55482b00000c"><a href="https://apps.repebble.com/52b3ec30f60b55482b00000c">Date Countdown</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/PebbleDateCountdown" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-20</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2013-12-20</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watch app for counting down the number of days until an event. Colors can be inverted and the event date, time, and label can be set by accessing the settings in the Pebble application.</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mcongrove_52affc34e
 <h2 class="app-name" id="app-52cdd45efc5bf835cb00001e"><a href="https://apps.repebble.com/52cdd45efc5bf835cb00001e">Big Blocks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/PebbleBigBlocks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-08</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-01-08</span> <span title="Latest release in the app store">Updated 2014-01-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble face where large blocks build up around the edge of the watch as the hours tick along. Colors can be inverted, and display of the full time, hour, or minute can be set by accessing the…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # jpalazz2
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jpalazz2_52feae9f9afd98028300048a) · [GitHub (jpalazz2)](https://github.com/jpalazz2)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jpalazz2_52feae9f9a
 <h2 class="app-name" id="app-547f572e5557e73a6200003b"><a href="https://apps.repebble.com/547f572e5557e73a6200003b">Toothless Animated</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/jpalazz2/toothless-animated" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-03</span> <span title="Latest release in the app store">Updated 2015-06-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-03</span> <span title="Latest release in the app store">Updated 2015-06-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An animated version of Toothless the dragon! Every minute Toothless blinks his eyes and looks around. Features battery level and Bluetooth status indicator.</p>
 </div>

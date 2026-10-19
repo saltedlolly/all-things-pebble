@@ -13,7 +13,7 @@ hide:
 
 # Kieselleger
 
-*18 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*19 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3fe58879cfd4000013) · [GitHub (ProggroP)](https://github.com/ProggroP)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>21</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>18</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>22</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>19</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="lean" data-released="2026-10-13" data-updated="2026-10-14">
+<a class="app-shot" href="https://apps.repebble.com/9eda1a0fa95449318c08467e" data-search-exclude><img src="../images/apps/9eda1a0fa95449318c08467e.png" alt="Lean" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-9eda1a0fa95449318c08467e"><a href="https://apps.repebble.com/9eda1a0fa95449318c08467e">Lean</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Lean" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-13</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Every watch assumes you can turn your arm until the face lies straight in front of you. Not everyone can. A stiff shoulder, a painful wrist, a cast, a wheelchair armrest, a steering wheel - and…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="prism" data-released="2026-10-10" data-updated="2026-10-10">
 <a class="app-shot" href="https://apps.repebble.com/8acbc29865ff44c4a54ba660" data-search-exclude><img src="../images/apps/8acbc29865ff44c4a54ba660.png" alt="Prism" loading="lazy"></a>
 <div class="app-info">

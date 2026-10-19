@@ -13,7 +13,7 @@ hide:
 
 # MiniMax
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/552ed38c06bedc52c4000050/1) · [GitHub (maximehuran)](https://github.com/maximehuran)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/552ed38c06bedc5
 <h2 class="app-name" id="app-5a917af20dfc32115b0003b7"><a href="https://apps.rebble.io/en_US/application/5a917af20dfc32115b0003b7">Pokétch++</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/maximehuran/pebble-watchface-poketch-plus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-02-24</span> <span title="Latest release in the app store">Updated 2018-03-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2018-02-24</span> <span title="Latest release in the app store">Updated 2018-03-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc"># Pokétch++ Pokétch++ is a fork of metakirby5 Pokétch+ ## Last release features : - Add configuration for bluetooth vibration ## Features: - Pebble Round support - Pebble Time color support …</p>
 </div>

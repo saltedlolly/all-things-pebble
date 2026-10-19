@@ -13,7 +13,7 @@ hide:
 
 # Mathew Reiss
 
-*3 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f02483af0eab7af50006d3/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/mathew-reiss_52f02483af0eab7af50006d3) · [GitHub (MathewReiss)](https://github.com/MathewReiss) · [GitHub (pebble-dev)](https://github.com/pebble-dev) · [GitHub (rebootsramblings)](https://github.com/rebootsramblings) · [Website (mydogsnowy.com)](http://www.mydogsnowy.com)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f02483af0eab7
 <h2 class="app-name" id="app-561960c8a1dd2652af00000d"><a href="https://apps.rebble.io/en_US/application/561960c8a1dd2652af00000d">Snowy</a> <span class="app-version" title="Latest version" data-search-exclude>v4.5-rbl1</span></h2>
 <a class="app-source" href="https://github.com/pebble-dev/snowy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-10</span> <span title="Latest release in the app store">Updated 2019-07-24</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-10</span> <span title="Latest release in the app store">Updated 2019-07-24</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Snowy is the most popular personal assistant for Pebble Time. Set reminders, translate sentences, control your home through IFTTT - you name it, and chances are Snowy can help you out. For just…</p>
 </div>

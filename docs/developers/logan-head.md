@@ -13,7 +13,7 @@ hide:
 
 # Logan Head
 
-*2 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/logan-head_5c26a4f727cdec0001c0500d) · [GitHub (erlog135)](https://github.com/erlog135) · [Website (loganhead.net)](https://loganhead.net)
 

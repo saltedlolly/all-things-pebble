@@ -13,7 +13,7 @@ hide:
 
 # Mowken Apps
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mowken-apps_6a2eb28176550100085bc243) · [GitHub (diced-k)](https://github.com/diced-k)
 

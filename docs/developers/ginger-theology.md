@@ -13,7 +13,7 @@ hide:
 
 # Ginger Theology
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ginger-theology_542c2b6382d3c82298000295) · [GitHub (ekimsey)](https://github.com/ekimsey) · [Website (gingertheology.net)](http://www.gingertheology.net)
 

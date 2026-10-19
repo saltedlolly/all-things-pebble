@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*51 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*51 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-5e58f55f941e47b3bed54162"><a href="https://apps.repebble.com/5e58f55f941e47b3bed54162">InfoWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v11.0.0</span></h2>
 <a class="app-source" href="https://github.com/maxharrison/infowatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/maxharrison.html" title="More from this developer">maxharrison</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">private fork of ForecasWatch 2</p>
 </div>
@@ -303,7 +303,7 @@ hide:
 <h2 class="app-name" id="app-568a50ad142c4f161a000048"><a href="https://apps.repebble.com/568a50ad142c4f161a000048">IngressFace</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11</span></h2>
 <a class="app-source" href="https://github.com/lenku/IngressFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lenku.html" title="More from this developer">lenku</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2018-05-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2018-05-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The Ingress-inspired watchface for the Pebble and Pebble Time. An agent&#x27;s best friend! Always available on their wrist can be the most simple and essential of information one might need when going…</p>
 </div>
@@ -336,7 +336,7 @@ hide:
 <h2 class="app-name" id="app-a50e74e276f04309ae80f0d3"><a href="https://apps.repebble.com/a50e74e276f04309ae80f0d3">InkCorner Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.35</span></h2>
 <a class="app-source" href="https://github.com/manaksu/ink-corner" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/creative-manaks.html" title="More from this developer">Creative Manaks</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-30</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">In progress</p>
 </div>
@@ -369,7 +369,7 @@ hide:
 <h2 class="app-name" id="app-a55fb07149164ef5a2ff4c5f"><a href="https://apps.repebble.com/a55fb07149164ef5a2ff4c5f">Intentional</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/maks112v/Intentional" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/maks.html" title="More from this developer">Maks</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-13</span> <span title="Latest release in the app store">Updated 2026-08-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-13</span> <span title="Latest release in the app store">Updated 2026-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Intentional is a configurable watch face that keeps the time clear while showing progress toward the things you care about. Choose from four layouts, multiple color themes, and up to five widgets…</p>
 </div>
@@ -413,7 +413,7 @@ hide:
 <h2 class="app-name" id="app-1683c3912c4a4292a4b4f3b1"><a href="https://apps.repebble.com/1683c3912c4a4292a4b4f3b1">Ion Drift</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/leifenberg-eyal/ion-drift" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lifesim.html" title="More from this developer">LifeSim</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Ion Drift turns the Pebble Time 2 into a compact split-time instrument. Hours and minutes occupy opposing fields around a luminous center spine, keeping the time readable while live telemetry…</p>
 </div>
@@ -479,7 +479,7 @@ hide:
 <h2 class="app-name" id="app-a5543813bd14472f90ff7542"><a href="https://apps.repebble.com/a5543813bd14472f90ff7542">Islet for AndroidAPS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/petrepa/islet-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/petrepa.html" title="More from this developer">petrepa</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-26</span> <span title="Latest release in the app store">Updated 2026-09-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-26</span> <span title="Latest release in the app store">Updated 2026-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Diabetes watchface for AndroidAPS (AAPS) users. Shows glucose, trend arrow, delta, time since reading and insulin on board (IOB) straight from AndroidAPS on your phone. No Nightscout, xDrip+ or…</p>
 </div>

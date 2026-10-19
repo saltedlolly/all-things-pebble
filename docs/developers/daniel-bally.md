@@ -13,7 +13,7 @@ hide:
 
 # Daniel Bally
 
-*2 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a0ff28edd5791d1bced) · [GitHub (globe-and-atlas)](https://github.com/globe-and-atlas)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a
 
 <div class="app-grid dev-apps" data-search-exclude>
 <div class="app-card" data-type="watchface" data-title="pangaea drift" data-released="2026-10-03" data-updated="2026-10-03">
-<a class="app-shot" href="https://apps.repebble.com/490fd055aa9b485c8deced5e" data-search-exclude><img src="../images/apps/490fd055aa9b485c8deced5e.png" alt="Pangaea Drift" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/490fd055aa9b485c8deced5e" data-search-exclude><img src="../images/apps/490fd055aa9b485c8deced5e.gif" alt="Pangaea Drift" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-490fd055aa9b485c8deced5e"><a href="https://apps.repebble.com/490fd055aa9b485c8deced5e">Pangaea Drift</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/globe-and-atlas/pangaea-watch" title="Source code" data-search-exclude>View source</a>
@@ -38,7 +38,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="satellite overpass" data-released="2026-09-28" data-updated="2026-10-02">
-<a class="app-shot" href="https://apps.repebble.com/6e920a2fa6304e45b4644116" data-search-exclude><img src="../images/apps/6e920a2fa6304e45b4644116.png" alt="Satellite Overpass" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/6e920a2fa6304e45b4644116" data-search-exclude><img src="../images/apps/6e920a2fa6304e45b4644116.gif" alt="Satellite Overpass" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-6e920a2fa6304e45b4644116"><a href="https://apps.repebble.com/6e920a2fa6304e45b4644116">Satellite Overpass</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
 <a class="app-source" href="https://github.com/globe-and-atlas/overpass-watch" title="Source code" data-search-exclude>View source</a>
@@ -49,7 +49,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="from here" data-released="2026-09-28" data-updated="2026-10-02">
-<a class="app-shot" href="https://apps.repebble.com/d9fc15a8f87746b7ba01f6ca" data-search-exclude><img src="../images/apps/d9fc15a8f87746b7ba01f6ca.png" alt="From Here" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/d9fc15a8f87746b7ba01f6ca" data-search-exclude><img src="../images/apps/d9fc15a8f87746b7ba01f6ca.gif" alt="From Here" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-d9fc15a8f87746b7ba01f6ca"><a href="https://apps.repebble.com/d9fc15a8f87746b7ba01f6ca">From Here</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/globe-and-atlas/from-here" title="Source code" data-search-exclude>View source</a>
@@ -60,7 +60,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="constellation" data-released="2026-09-28" data-updated="2026-10-02">
-<a class="app-shot" href="https://apps.repebble.com/10f46ae849224d009644f7e8" data-search-exclude><img src="../images/apps/10f46ae849224d009644f7e8.png" alt="Constellation" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/10f46ae849224d009644f7e8" data-search-exclude><img src="../images/apps/10f46ae849224d009644f7e8.gif" alt="Constellation" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-10f46ae849224d009644f7e8"><a href="https://apps.repebble.com/10f46ae849224d009644f7e8">Constellation</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/globe-and-atlas/constellation-watch" title="Source code" data-search-exclude>View source</a>

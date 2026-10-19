@@ -13,7 +13,7 @@ hide:
 
 # MagmaStone
 
-*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/magmastone_52ee9e7ebf4b6279c500003f) · [GitHub (magmapus)](https://github.com/magmapus) · [GitHub (magmastonealex)](https://github.com/magmastonealex)
 
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/magmastone_52ee9e7e
 <h2 class="app-name" id="app-53ef6efd11cff6b7bd0000f7"><a href="https://apps.repebble.com/53ef6efd11cff6b7bd0000f7">Flashcards</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/magmapus/Flashcards" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-16</span> <span title="Latest release in the app store">Updated 2014-08-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2014-08-16</span> <span title="Latest release in the app store">Updated 2014-08-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Flashcards lets you quiz yourself on the go! Have an upcoming test? Study on the way! Have a debate? Review your talking points. You can add all the questions and answers you want in the…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Masa
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5b0cf83c461a8d22e30010bf/1) · [GitHub (masakoodaa)](https://github.com/masakoodaa)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5b0cf83c461a8d2
 <h2 class="app-name" id="app-5b0cf87bf38588a252000e30"><a href="https://apps.rebble.io/en_US/application/5b0cf87bf38588a252000e30">Re:NightFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/masakoodaa/Re-NightFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-05-29</span> <span title="Latest release in the app store">Updated 2018-05-29</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-05-29</span> <span title="Latest release in the app store">Updated 2018-05-29</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A clean room re-implementation of NightFace Pebble watchface (https://apps.getpebble.com/en_US/application/56f9e26f69581dad78000025) with a twist: instead of showing the time when tapped, it shows…</p>
 </div>

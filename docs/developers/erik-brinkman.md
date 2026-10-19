@@ -13,7 +13,7 @@ hide:
 
 # Erik Brinkman
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erik-brinkman_531a5f395af660a8c90009e9) · [GitHub (erikbrinkman)](https://github.com/erikbrinkman)
 

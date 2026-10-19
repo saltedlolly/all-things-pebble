@@ -13,7 +13,7 @@ hide:
 
 # itmitica
 
-*5 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5721f6ed0676425a62000009/1) · [GitHub (itmitica)](https://github.com/itmitica)
 

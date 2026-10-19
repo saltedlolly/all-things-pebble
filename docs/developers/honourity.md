@@ -13,7 +13,7 @@ hide:
 
 # Honourity
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/honourity_54cdfd96d429c37ba300008d) · [GitHub (jtcgreyfox)](https://github.com/jtcgreyfox)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/honourity_54cdfd96d
 <h2 class="app-name" id="app-54e3ee69d412a8ba5100001b"><a href="https://apps.repebble.com/54e3ee69d412a8ba5100001b">Minesweeper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jtcgreyfox/PBMinesweeper" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-18</span> <span title="Latest release in the app store">Updated 2018-02-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-18</span> <span title="Latest release in the app store">Updated 2018-02-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">10 Mines, 64 Locations Controls DOWN - move down UP - move right SELECT - choose square SELECT (long press) - flag square UP (long press) - reset the game Game ends when you have cleared…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/honourity_54cdfd96d
 <h2 class="app-name" id="app-54db4d94d913346bc3000055"><a href="https://apps.repebble.com/54db4d94d913346bc3000055">Just Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/jtcgreyfox/PBWeather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-11</span> <span title="Latest release in the app store">Updated 2016-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-11</span> <span title="Latest release in the app store">Updated 2016-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Gets current weather stats for current location. Update: Added choice of wind speed units in app config. Displays: Closest location weather data was retrieved from Description of weather Humidity…</p>
 </div>

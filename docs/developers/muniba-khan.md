@@ -13,7 +13,7 @@ hide:
 
 # Muniba Khan
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/59922281461a8d9e49000e20/1) · [GitHub (kmuniba98)](https://github.com/kmuniba98)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/59922281461a8d9
 <h2 class="app-name" id="app-5a2421aa0dfc32823d0036e7"><a href="https://apps.rebble.io/en_US/application/5a2421aa0dfc32823d0036e7">Math Facts Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/kmuniba98/math-facts-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-12-03</span> <span title="Latest release in the app store">Updated 2017-12-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-12-03</span> <span title="Latest release in the app store">Updated 2017-12-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A Pebble watch-face displaying math and trivia facts associated with the current time.</p>
 </div>

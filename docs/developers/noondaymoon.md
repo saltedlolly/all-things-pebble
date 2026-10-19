@@ -13,7 +13,7 @@ hide:
 
 # noondaymoon
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noondaymoon_52edfc75ffcd25e2ca000001) · [GitHub (noondaymoon)](https://github.com/noondaymoon)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noondaymoon_52edfc7
 <h2 class="app-name" id="app-543e6f8f6fbfc12dcd00009c"><a href="https://apps.repebble.com/543e6f8f6fbfc12dcd00009c">wifi status</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/noondaymoon/e585" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-15</span> <span title="Latest release in the app store">Updated 2016-10-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-15</span> <span title="Latest release in the app store">Updated 2016-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">display mobile rooter status for huawei e585 (myfi) and hw-01c, gl10p it can display: ・signal level ・network type ・connecting device number ・battery level ・carrier name ・current transfer speed…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noondaymoon_52edfc7
 <h2 class="app-name" id="app-5357a79853dfbf163300004d"><a href="https://apps.repebble.com/5357a79853dfbf163300004d">noondaymoon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/noondaymoon/watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-23</span> <span title="Latest release in the app store">Updated 2015-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-23</span> <span title="Latest release in the app store">Updated 2015-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">It&#x27;s simple watchface. displays time, date, battery, and bluetooth.</p>
 </div>

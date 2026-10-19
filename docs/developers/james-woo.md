@@ -13,7 +13,7 @@ hide:
 
 # James Woo
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a31b9ec0dfc32dba00012da/1) · [GitHub (koredev)](https://github.com/koredev)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a31b9ec0dfc32d
 <h2 class="app-name" id="app-5a36b58b461a8dfe42001479"><a href="https://apps.rebble.io/en_US/application/5a36b58b461a8dfe42001479">kface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/koredev/kface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-12-17</span> <span title="Latest release in the app store">Updated 2017-12-17</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-12-17</span> <span title="Latest release in the app store">Updated 2017-12-17</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Get time, date, weather, battery, and step information</p>
 </div>

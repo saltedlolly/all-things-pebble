@@ -13,7 +13,7 @@ hide:
 
 # Konstantin Beliakov
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53e9cc82f4772adc670000ae/1) · [GitHub (konstantinbelyakov)](https://github.com/konstantinbelyakov) · [Website (ecliptic-pebble.blogspot.com)](http://ecliptic-pebble.blogspot.com)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53e9cc82f4772ad
 <h2 class="app-name" id="app-54250a8d5394589fee0000d3"><a href="https://apps.rebble.io/en_US/application/54250a8d5394589fee0000d3">Ecliptic</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/konstantinbelyakov/ecliptic-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-26</span> <span title="Latest release in the app store">Updated 2015-10-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-09-26</span> <span title="Latest release in the app store">Updated 2015-10-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Do you like astronomy or simply want an unusual watchface? Use Ecliptic - it displays positions of the Sun, the Moon, stars and five brightest planets of the solar system that are visible with the…</p>
 </div>

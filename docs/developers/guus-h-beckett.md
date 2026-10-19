@@ -13,7 +13,7 @@ hide:
 
 # Guus H. Beckett
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/guus-h-beckett_5ecdf9beefebcf2dc08bd8b0) · [GitHub (guusbeckett)](https://github.com/guusbeckett)
 

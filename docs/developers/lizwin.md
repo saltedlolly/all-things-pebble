@@ -13,7 +13,7 @@ hide:
 
 # lizwin
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lizwin_6d0286f5e1095f5001caa51c) · [GitHub (lizwin)](https://github.com/lizwin)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lizwin_6d0286f5e109
 <h2 class="app-name" id="app-e243230ebd4b48c7a20bc87b"><a href="https://apps.repebble.com/e243230ebd4b48c7a20bc87b">tuiface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/lizwin/tuiface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-11</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-11</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">An opinionated, TUI-styled watchface. Time, date, and the data you care about, framed in dashed terminal-style windows. Text over icons, contrast over decoration, utility over hand-holding…</p>
 </div>

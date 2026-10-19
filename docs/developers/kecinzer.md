@@ -13,7 +13,7 @@ hide:
 
 # kecinzer
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kecinzer_5551d20eec8de7dbd300000b) · [GitHub (kecinzer)](https://github.com/kecinzer)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kecinzer_5551d20eec
 <h2 class="app-name" id="app-555dc1f84c2222d9ec00009d"><a href="https://apps.repebble.com/555dc1f84c2222d9ec00009d">czDigiWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/kecinzer/czDigiWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-21</span> <span title="Latest release in the app store">Updated 2015-05-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-21</span> <span title="Latest release in the app store">Updated 2015-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Now supports - Czech. This watchface provides time (including seconds), date and day of the week in digital form. And also namedays for current and next day. If namedays is public holiday, it&#x27;s…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kecinzer_5551d20eec
 <h2 class="app-name" id="app-555dbd964c22228b5e0000c5"><a href="https://apps.repebble.com/555dbd964c22228b5e0000c5">czTxtWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/kecinzer/czTxtWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-21</span> <span title="Latest release in the app store">Updated 2015-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-21</span> <span title="Latest release in the app store">Updated 2015-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Now supports - Czech. This watchface provides time, date and day of the week in textual form. And also current nameday. If nameday is public holiday, it&#x27;s rendered as bold. It&#x27;s only for czech…</p>
 </div>

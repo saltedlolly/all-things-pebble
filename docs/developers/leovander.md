@@ -13,7 +13,7 @@ hide:
 
 # leovander
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leovander_54ef9c482e6a47d04c0000d3) · [GitHub (leovander)](https://github.com/leovander)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leovander_54ef9c482
 <h2 class="app-name" id="app-55543f0864e9b738860000eb"><a href="https://apps.repebble.com/55543f0864e9b738860000eb">Dani</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/leovander/Dani/tree/master" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-14</span> <span title="Latest release in the app store">Updated 2015-06-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-14</span> <span title="Latest release in the app store">Updated 2015-06-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">- Added Config screen - Option to invert background and text (Will be adding color options for Time) - Option for larger text Suggestions? @theleovander Concept submitted by /u/danilouis on reddit.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leovander_54ef9c482
 <h2 class="app-name" id="app-554aa11eee68650e870000af"><a href="https://apps.repebble.com/554aa11eee68650e870000af">Vice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/leovander/vice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Vice is inspired from the colors of Miami Vice logo and the awesome 80&#x27;s.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leovander_54ef9c482
 <h2 class="app-name" id="app-554960c92cfbfca8a20000eb"><a href="https://apps.repebble.com/554960c92cfbfca8a20000eb">Kyokusen JS</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/leovander/Kyokusen-JS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface inspired by Tokyoflash Japan&#x27;s Kyokusen Watch. Be wary, made with PebbleJS not knowing C is preferred. May fail after awhile but you can refresh the face.</p>
 </div>

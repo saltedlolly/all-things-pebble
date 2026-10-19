@@ -13,7 +13,7 @@ hide:
 
 # Pebble
 
-*18 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*18 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8d590d3000029) · [GitHub (pebble)](https://github.com/pebble) · [GitHub (coredevices)](https://github.com/coredevices) · [GitHub (pebble-hacks)](https://github.com/pebble-hacks) · [GitHub (pebble-examples)](https://github.com/pebble-examples) · [Website (getpebble.com)](https://getpebble.com)
 
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-555a3c55c2afa2329c000006"><a href="https://apps.repebble.com/555a3c55c2afa2329c000006">Simple Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/pebble-examples/simple-analog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-18</span> <span title="Latest release in the app store">Updated 2015-12-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-18</span> <span title="Latest release in the app store">Updated 2015-12-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The classic watchface for Pebble and Pebble Steel.</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-555a3b03ae067ddac1000014"><a href="https://apps.repebble.com/555a3b03ae067ddac1000014">Simplicity</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2</span></h2>
 <a class="app-source" href="https://github.com/pebble-examples/simplicity" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-18</span> <span title="Latest release in the app store">Updated 2015-12-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-18</span> <span title="Latest release in the app store">Updated 2015-12-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The classic built-in watchface for Pebble and Pebble Steel.</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-539b9c9edf7043397300004b"><a href="https://apps.repebble.com/539b9c9edf7043397300004b">Sports</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble-hacks/lukasz-projects/tree/master/sports" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-14</span> <span title="Latest release in the app store">Updated 2014-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-14</span> <span title="Latest release in the app store">Updated 2014-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Yahoo Sports RSS feeds on your wrist! Choose your favourite feeds from &#x27;Settings&#x27; menu including World Soccer, MLB, NASCAR, and more! Adjust news update interval time and enjoy latest headline at…</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-539b91cd199eae1e870000ab"><a href="https://apps.repebble.com/539b91cd199eae1e870000ab">Grid Lite</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble-hacks/lukasz-projects/tree/master/gridlite" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-14</span> <span title="Latest release in the app store">Updated 2014-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-14</span> <span title="Latest release in the app store">Updated 2014-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Grid style watchface</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-539b982ddf322d33870000ad"><a href="https://apps.repebble.com/539b982ddf322d33870000ad">Grid Father&#x27;s Day Edition</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble-hacks/lukasz-projects/tree/master/griddad" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-14</span> <span title="Latest release in the app store">Updated 2014-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-14</span> <span title="Latest release in the app store">Updated 2014-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A special edition of the Grid Lite watchface to celebrate Father&#x27;s Day. Shake the Pebble for the hidden message. Share the watchface with the Pebble dads in your life!</p>
 </div>
@@ -131,7 +131,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52e2de2afaa843cafe000d70"><a href="https://apps.repebble.com/52e2de2afaa843cafe000d70">Brains</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/brains" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-24</span> <span title="Latest release in the app store">Updated 2014-01-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-24</span> <span title="Latest release in the app store">Updated 2014-01-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Brains watchface example SDK 2.0 migration by Max Baumle</p>
 </div>
@@ -142,7 +142,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8b9d7aef8d50e88000026"><a href="https://apps.repebble.com/52d8b9d7aef8d50e88000026">Tic Tock Toe</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/tic_tock_toe" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Tic Toc Toe Example Watchface</p>
 </div>
@@ -153,7 +153,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8bc1daef8d50e88000029"><a href="https://apps.repebble.com/52d8bc1daef8d50e88000029">Simple Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/simple_analog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple Analog Example Watchface</p>
 </div>
@@ -164,7 +164,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8bbeb1acbf3738d000030"><a href="https://apps.repebble.com/52d8bbeb1acbf3738d000030">Segment Six</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/segment_six" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Segment Six Example Watchface</p>
 </div>
@@ -175,7 +175,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8bbb0aef8d5c2cd00003d"><a href="https://apps.repebble.com/52d8bbb0aef8d5c2cd00003d">Rumble Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/rumbletime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Rumble Time Example Watchface</p>
 </div>
@@ -186,7 +186,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8bb781acbf3738d00002f"><a href="https://apps.repebble.com/52d8bb781acbf3738d00002f">On the Button</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/onthebutton" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">On the Button Example Watchface</p>
 </div>
@@ -197,7 +197,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8bb0faef8d590d300002f"><a href="https://apps.repebble.com/52d8bb0faef8d590d300002f">Just a Bit</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/just_a_bit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Just a Bit Example Watchface</p>
 </div>
@@ -208,7 +208,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8bad9aef8d5b107000027"><a href="https://apps.repebble.com/52d8bad9aef8d5b107000027">Fuzzy Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/fuzzy_time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Fuzzy Time Example Watchface</p>
 </div>
@@ -219,7 +219,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8baa3aef8d5b107000026"><a href="https://apps.repebble.com/52d8baa3aef8d5b107000026">Drop Zone</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/drop_zone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Drop Zone Example Watchface</p>
 </div>
@@ -230,7 +230,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8ba2baef8d590d300002c"><a href="https://apps.repebble.com/52d8ba2baef8d590d300002c">ClassIO Battery Connection</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/classio-battery-connection" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">ClassIO Battery Connection</p>
 </div>
@@ -241,7 +241,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8ba68aef8d50e88000027"><a href="https://apps.repebble.com/52d8ba68aef8d50e88000027">Classio</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/classio" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Classio Example Watchface</p>
 </div>
@@ -252,7 +252,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 <h2 class="app-name" id="app-52d8b3240bab47f4d5000021"><a href="https://apps.repebble.com/52d8b3240bab47f4d5000021">Big Time</a> <span class="app-version" title="Latest version" data-search-exclude>v6.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/big_time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Big Time Watchface</p>
 </div>

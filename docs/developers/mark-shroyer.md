@@ -13,7 +13,7 @@ hide:
 
 # Mark Shroyer
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/69030941b2e4450008211464/1) · [GitHub (mshroyer)](https://github.com/mshroyer) · [Website (markshroyer.com)](https://markshroyer.com/)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/69030941b2e4450
 <h2 class="app-name" id="app-690a0923ce68bc0009859f56"><a href="https://apps.rebble.io/en_US/application/690a0923ce68bc0009859f56">BCD</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/mshroyer/pebble-bcdface/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-04</span> <span title="Latest release in the app store">Updated 2025-11-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-11-04</span> <span title="Latest release in the app store">Updated 2025-11-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays local time in binary coded decimal (BCD) format</p>
 </div>

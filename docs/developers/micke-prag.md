@@ -13,7 +13,7 @@ hide:
 
 # Micke Prag
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/micke-prag_52b943fe5dfb6e93f4000049) · [GitHub (mickeprag)](https://github.com/mickeprag)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/micke-prag_52b943fe
 <h2 class="app-name" id="app-52cc1a8c45ffdd84b5000146"><a href="https://apps.repebble.com/52cc1a8c45ffdd84b5000146">Telldus Live!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/mickeprag/telldus-live-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2014-01-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2014-01-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble app for connecting to Telldus Live! Control you lights and appliances from your wrist.</p>
 </div>

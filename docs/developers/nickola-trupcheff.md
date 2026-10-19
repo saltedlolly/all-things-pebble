@@ -13,7 +13,7 @@ hide:
 
 # Nickola Trupcheff
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54156ec1bcd1cf9264000131/1) · [GitHub (mapbuh)](https://github.com/mapbuh)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54156ec1bcd1cf9
 <h2 class="app-name" id="app-5419f6dc0193218b2f00021b"><a href="https://apps.rebble.io/en_US/application/5419f6dc0193218b2f00021b">Bulgarian clock / Часовник на български</a> <span class="app-version" title="Latest version" data-search-exclude>v1.17</span></h2>
 <a class="app-source" href="https://github.com/mapbuh/pebble-bg-clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-17</span> <span title="Latest release in the app store">Updated 2016-05-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-17</span> <span title="Latest release in the app store">Updated 2016-05-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The time and date in Bulgarian. Часът и датата с думи, и на български.</p>
 </div>

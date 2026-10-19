@@ -13,7 +13,7 @@ hide:
 
 # Jason Marquette
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jason-marquette_5bee80559abfa407b64d6d00) · [GitHub (jasonmarquette)](https://github.com/jasonmarquette)
 

@@ -13,7 +13,7 @@ hide:
 
 # Alex Karantza
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/584c2477ce45dc59d0000129/1) · [GitHub (karantza)](https://github.com/karantza)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/584c2477ce45dc5
 <h2 class="app-name" id="app-58711a922ee431238100057a"><a href="https://apps.rebble.io/en_US/application/58711a922ee431238100057a">Planets</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/karantza/Planets_PebbleFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-01-07</span> <span title="Latest release in the app store">Updated 2017-01-09</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-01-07</span> <span title="Latest release in the app store">Updated 2017-01-09</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A digital or analog watchface to see what planets are in the sky. Includes a 24-hour weather forecast from Dark Sky, and step count, too.</p>
 </div>

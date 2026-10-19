@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · **J** · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*13 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*13 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-52ff8e23432d1c7d2200012c"><a href="https://apps.repebble.com/52ff8e23432d1c7d2200012c">JP&#x27;Tris</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jpca/pebble-jptris" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jp-studio.html" title="More from this developer">JP&#x27;Studio</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-15</span> <span title="Latest release in the app store">Updated 2014-02-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-3-Clause</span> <span title="First published in the app store">Released 2014-02-15</span> <span title="Latest release in the app store">Updated 2014-02-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a Tetris clone for pebble smart watch, with extra pieces if you exceed 300 points. Instructions : - up button : move left - down button : move right - middle button : rotate - have fun !!…</p>
 </div>
@@ -105,7 +105,7 @@ hide:
 <h2 class="app-name" id="app-54ebb991b0a2e249e20000e9"><a href="https://apps.repebble.com/54ebb991b0a2e249e20000e9">JsConf</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/loverajoel/jsconf-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/joel-lovera.html" title="More from this developer">Joel Lovera</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-23</span> <span title="Latest release in the app store">Updated 2015-02-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-02-23</span> <span title="Latest release in the app store">Updated 2015-02-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">- Events - Talks - Info Beta version Open source project</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-54db4d94d913346bc3000055"><a href="https://apps.repebble.com/54db4d94d913346bc3000055">Just Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/jtcgreyfox/PBWeather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/honourity.html" title="More from this developer">Honourity</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-11</span> <span title="Latest release in the app store">Updated 2016-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-11</span> <span title="Latest release in the app store">Updated 2016-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Gets current weather stats for current location. Update: Added choice of wind speed units in app config. Displays: Closest location weather data was retrieved from Description of weather Humidity…</p>
 </div>

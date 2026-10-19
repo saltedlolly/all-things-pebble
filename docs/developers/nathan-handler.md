@@ -13,7 +13,7 @@ hide:
 
 # Nathan Handler
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nathan-handler_530d1fe7d3b642ac1a000335) · [GitHub (nhandler)](https://github.com/nhandler) · [Website (hackillinois.org)](http://www.hackillinois.org/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nathan-handler_530d
 <h2 class="app-name" id="app-533f81d2cb6cd3fb2b0001b4"><a href="https://apps.repebble.com/533f81d2cb6cd3fb2b0001b4">Pebble CUMTD</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/nhandler/pebble-cumtd" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-05</span> <span title="Latest release in the app store">Updated 2015-03-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-05</span> <span title="Latest release in the app store">Updated 2015-03-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Locate the nearest Champaign-Urbana Mass Transit District (CUMTD) bus stop, and then view upcoming bus departure times.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nathan-handler_530d
 <h2 class="app-name" id="app-533ea3692804d179bb0002e8"><a href="https://apps.repebble.com/533ea3692804d179bb0002e8">HackIllinois</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
 <a class="app-source" href="https://github.com/nhandler/hackillinois" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-04</span> <span title="Latest release in the app store">Updated 2014-04-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-04</span> <span title="Latest release in the app store">Updated 2014-04-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">On April 11th, join several hundred hackers in fostering the creative spirit that’s changing the world. HackIllinois is about creating something you’re passionate about. Come spend 36 hours…</p>
 </div>

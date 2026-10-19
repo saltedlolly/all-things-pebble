@@ -13,7 +13,7 @@ hide:
 
 # SurfnKen
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/surfnken_52f16fc6e21be466e70001c1) · [GitHub (paddlebike)](https://github.com/paddlebike)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/surfnken_52f16fc6e2
 <h2 class="app-name" id="app-5827a80e8c7fff9edf000099"><a href="https://apps.repebble.com/5827a80e8c7fff9edf000099">Riverwatch</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/paddlebike/RiverWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-12</span> <span title="Latest release in the app store">Updated 2016-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-12</span> <span title="Latest release in the app store">Updated 2016-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface for monitoring your favorite USGS stream gauge. - Color coded local air and stream (if available) temperatures in either celsius or fahrenheit. - Stream level in either height or flow…</p>
 </div>

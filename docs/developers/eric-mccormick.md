@@ -13,7 +13,7 @@ hide:
 
 # Eric McCormick
 
-*1 watchface and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-mccormick_7c70eafc41fc666a529a8f07) · [GitHub (ericlmccormick)](https://github.com/ericlmccormick) · [Website (ko-fi.com)](https://ko-fi.com/ericmccormick)
 

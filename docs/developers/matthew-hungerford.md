@@ -13,7 +13,7 @@ hide:
 
 # Matthew Hungerford
 
-*11 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*11 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-hungerford_52bca741d438930a650001b6) · [GitHub (mhungerford)](https://github.com/mhungerford) · [Website (xkcd.com)](http://xkcd.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-hungerford_
 <h2 class="app-name" id="app-52f0253c4ae3633a6400083a"><a href="https://apps.repebble.com/52f0253c4ae3633a6400083a">XKCD Comic</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/mhungerford/png_xkcd" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2015-12-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2015-12-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Update: More comics, now resumes where you left off. XKCD is webcomic about sarcasm, math, technology, and science. XCDK is licensed under the Creative Commons (CC BY-NC 2.5). uPNG ported for &gt;70…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-hungerford_
 <h2 class="app-name" id="app-5592dc3e53d39fc50500006b"><a href="https://apps.repebble.com/5592dc3e53d39fc50500006b">Fireworks (Particle Effects + Glancing)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/mhungerford/pebble_fireworks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-30</span> <span title="Latest release in the app store">Updated 2015-10-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-30</span> <span title="Latest release in the app store">Updated 2015-10-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Fireworks Watchface featuring fireworks created using particle effects with random colors and trajectory and offscreen renderer allowing for composited trails and particle decay. Utilizes…</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-hungerford_
 <h2 class="app-name" id="app-545059ca1c9d3823c0000010"><a href="https://apps.repebble.com/545059ca1c9d3823c0000010">Halloween Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mhungerford/pebble-halloween_time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-29</span> <span title="Latest release in the app store">Updated 2014-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-10-29</span> <span title="Latest release in the app store">Updated 2014-10-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Happy Halloween! Flick your wrist to flip through fun Halloween images. Grim Reaper &amp; Vampire images from clipartlord.com Zombie &amp; Frankenstein images CC-3.0 from Vladimir Zuñiga of Foca.tk…</p>
 </div>
@@ -142,7 +142,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-hungerford_
 <h2 class="app-name" id="app-53960f64261143288500011f"><a href="https://apps.repebble.com/53960f64261143288500011f">PebbleGL 3D</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/mhungerford/PebbleGL" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-09</span> <span title="Latest release in the app store">Updated 2014-07-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-06-09</span> <span title="Latest release in the app store">Updated 2014-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">OpenGL for Pebble. Provides minimal OpenGL 1.1 engine for rendering 3D graphics. Renders STL models in both wireframe and filled with positional lighting sources. Top button changes angle, middle…</p>
 </div>
@@ -175,7 +175,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-hungerford_
 <h2 class="app-name" id="app-5349f76e085291de2e0000fa"><a href="https://apps.repebble.com/5349f76e085291de2e0000fa">OpenGameArt.org</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mhungerford/pebble-OpenGameArt.org" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-13</span> <span title="Latest release in the app store">Updated 2014-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-04-13</span> <span title="Latest release in the app store">Updated 2014-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Flick your wrist to flip through 11 images from OpenGameArt.org. OpenGameArt.org is a site providing art licensed under Creative-Commons. Outline Font is based on the Boxy font also found on…</p>
 </div>
@@ -186,7 +186,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-hungerford_
 <h2 class="app-name" id="app-52eaaa9026dfc38c0e000010"><a href="https://apps.repebble.com/52eaaa9026dfc38c0e000010">Mandelbrot Generator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/mhungerford/pebble-mandelbrot-generator" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-30</span> <span title="Latest release in the app store">Updated 2014-01-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-30</span> <span title="Latest release in the app store">Updated 2014-01-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Renders interesting regions of the Mandelbrot set, regenerating the image at each level. Uses fastmath and direct framebuffer and on watch dithering (4-bit to 1-bit).</p>
 </div>

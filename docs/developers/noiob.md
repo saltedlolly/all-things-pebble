@@ -13,7 +13,7 @@ hide:
 
 # Noiob
 
-*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57743b6bba2fe5d0c60004ad/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/noiob_57743b6bba2fe5d0c60004ad) · [GitHub (noiob)](https://github.com/noiob) · [Website (twitter.com)](https://twitter.com/n0i0b)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57743b6bba2fe5d
 <h2 class="app-name" id="app-586a9a9fe09e637c8c0003a7"><a href="https://apps.rebble.io/en_US/application/586a9a9fe09e637c8c0003a7">Pulse Alert</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/noiob/pulse-alert" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-01-02</span> <span title="Latest release in the app store">Updated 2017-03-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-01-02</span> <span title="Latest release in the app store">Updated 2017-03-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">Need to watch your heart rate? This is the app for you! Pulse Alert runs in the background and notifies you if Pebble Health detects a heart rate higher than your set value. You can set the…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57743b6bba2fe5d
 <h2 class="app-name" id="app-57ee7ab205e4b10205000094"><a href="https://apps.repebble.com/57ee7ab205e4b10205000094">Square Banner</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/noiob/squarebanner" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-11-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-11-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An attempt at creating a square version of Banner (https://apps.getpebble.com/en_US/application/560c2671d96cadb52600007f). Functionality: - Vibrate on Bluetooth Disconnect (respecting quiet time!)</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57743b6bba2fe5d
 <h2 class="app-name" id="app-5832c17200355a8634000185"><a href="https://apps.repebble.com/5832c17200355a8634000185">Portal Sign +💟</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/noiob/portal_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-21</span> <span title="Latest release in the app store">Updated 2016-11-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-11-21</span> <span title="Latest release in the app store">Updated 2016-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">[portal sign plus health] Original can be found at https://apps.getpebble.com/en_US/application/556382a65c83e51dbb000091 A version of degygii&#x27;s Portal themed Watchface, which is made to look like…</p>
 </div>

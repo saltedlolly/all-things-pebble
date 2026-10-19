@@ -13,7 +13,7 @@ hide:
 
 # Charles Meyer
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/charles-meyer_542b8b797a43169188000184) · [GitHub (charles-meyer)](https://github.com/charles-meyer)
 

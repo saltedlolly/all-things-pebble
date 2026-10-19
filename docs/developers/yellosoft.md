@@ -13,7 +13,7 @@ hide:
 
 # YelloSoft
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yellosoft_55c565693948b6a0df00004c) · [GitHub (mcandre)](https://github.com/mcandre)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yellosoft_55c565693
 <h2 class="app-name" id="app-55c636c96b4abea10400000d"><a href="https://apps.repebble.com/55c636c96b4abea10400000d">hextime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mcandre/pebble-hextime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-08</span> <span title="Latest release in the app store">Updated 2015-08-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-08</span> <span title="Latest release in the app store">Updated 2015-08-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The current time, formatted as hexadecimal digits Source: https://github.com/mcandre/pebble-hextime</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Mango Lazi
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mango-lazi_54b62295a9708ae7e500002a) · [GitHub (mangolazi)](https://github.com/mangolazi)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mango-lazi_54b62295
 <h2 class="app-name" id="app-553b05a737596167920000db"><a href="https://apps.repebble.com/553b05a737596167920000db">TechRad</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2</span></h2>
 <a class="app-source" href="https://github.com/mangolazi/TechradPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-25</span> <span title="Latest release in the app store">Updated 2016-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">LGPL-3.0</span> <span title="First published in the app store">Released 2015-04-25</span> <span title="Latest release in the app store">Updated 2016-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A clean and bold watchface inspired by the Rado Integral. Now in color! Choose white or black background, red or blue graphics elements, Celsius/Fahrenheit temperatures, steps/distance walked…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mango-lazi_54b62295
 <h2 class="app-name" id="app-5562f61cd4c5a8c7cb00004a"><a href="https://apps.repebble.com/5562f61cd4c5a8c7cb00004a">Roundy</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/mangolazi/RoundyPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-25</span> <span title="Latest release in the app store">Updated 2016-02-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-25</span> <span title="Latest release in the app store">Updated 2016-02-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple analog clock inspired by a radar screen, now with color! Weather data loaded from Openweathermap at 1 hour intervals. Icons from TimeStyle by freakified, many thanks. Info: - battery…</p>
 </div>

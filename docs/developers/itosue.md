@@ -13,7 +13,7 @@ hide:
 
 # itosue
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/itosue_5338d616e3d5e7c0d6000124) · [GitHub (itosue)](https://github.com/itosue)
 

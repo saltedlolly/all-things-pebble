@@ -13,7 +13,7 @@ hide:
 
 # Case
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/case_e47ae62c235d9214790daedc) · [GitHub (tomrav)](https://github.com/tomrav)
 
@@ -26,26 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/case_e47ae62c235d92
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="photo face" data-released="2026-08-06" data-updated="2026-09-28">
+<div class="app-card" data-type="watchface" data-title="photo face" data-released="2026-08-06" data-updated="2026-10-15">
 <a class="app-shot" href="https://apps.repebble.com/c1609136e0a3430bb1bf52b1" data-search-exclude><img src="../images/apps/c1609136e0a3430bb1bf52b1.gif" alt="Photo Face" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c1609136e0a3430bb1bf52b1"><a href="https://apps.repebble.com/c1609136e0a3430bb1bf52b1">Photo Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.8</span></h2>
+<h2 class="app-name" id="app-c1609136e0a3430bb1bf52b1"><a href="https://apps.repebble.com/c1609136e0a3430bb1bf52b1">Photo Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
 <a class="app-source" href="https://github.com/tomrav/pebble-image-faces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-06</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Photo Face turns your Pebble Time 2 into a photo frame with a clock, filled with your own photos. Your photos: - Add as many as you like from the settings page and arrange them into galleries you…</p>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-06</span> <span title="Latest release in the app store">Updated 2026-10-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Photo Face turns your Pebble Time 2 or Pebble Round 2 into a photo frame with a clock, filled with your own photos. Your photos: - Add as many as you like from the settings page and arrange them…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchface" data-title="ghibli time" data-released="2026-08-08" data-updated="2026-09-28">
+<div class="app-card" data-type="watchface" data-title="ghibli time" data-released="2026-08-08" data-updated="2026-10-15">
 <a class="app-shot" href="https://apps.repebble.com/fc26309e8f9a44f9b70fbc9d" data-search-exclude><img src="../images/apps/fc26309e8f9a44f9b70fbc9d.gif" alt="Ghibli Time" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-fc26309e8f9a44f9b70fbc9d"><a href="https://apps.repebble.com/fc26309e8f9a44f9b70fbc9d">Ghibli Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.6</span></h2>
+<h2 class="app-name" id="app-fc26309e8f9a44f9b70fbc9d"><a href="https://apps.repebble.com/fc26309e8f9a44f9b70fbc9d">Ghibli Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
 <a class="app-source" href="https://github.com/tomrav/pebble-image-faces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-08</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Studio Ghibli&#x27;s friends, films and paintings drift past your wrist. The collection: - 67 images: 44 characters, film posters, official key art - Choose what rotates on the settings page; a new…</p>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-08</span> <span title="Latest release in the app store">Updated 2026-10-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Studio Ghibli&#x27;s friends, films and paintings drift past your wrist. For Pebble Time 2 and Pebble Round 2, with every image cut from the original art for each screen. The collection: - 67 images…</p>
 </div>
 </div>
 </div>

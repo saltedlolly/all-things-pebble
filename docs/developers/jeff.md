@@ -13,7 +13,7 @@ hide:
 
 # Jeff
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jeff_52e6726f14a5c963d8000025) · [GitHub (obihann)](https://github.com/obihann)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jeff_52e6726f14a5c9
 <h2 class="app-name" id="app-53cab0926c9b69335b00014f"><a href="https://apps.repebble.com/53cab0926c9b69335b00014f">Beer O&#x27;Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/obihann/Beer-O-Clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-07-19</span> <span title="Latest release in the app store">Updated 2014-07-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-07-19</span> <span title="Latest release in the app store">Updated 2014-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">5PM... What is their to say? The time that we all count down until, the time we dream of, the time we ditch our suits and ties and partake in the drink of the gods, BEER! Yes, if you are a simple…</p>
 </div>

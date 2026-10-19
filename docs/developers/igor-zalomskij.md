@@ -13,7 +13,7 @@ hide:
 
 # Igor Zalomskij
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583c663200355a4bea00030d/1) · [GitHub (kaist)](https://github.com/kaist) · [Website (4pda.ru)](http://4pda.ru/forum/index.php?showtopic=818099)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583c663200355a4
 <h2 class="app-name" id="app-58ec86dd6ca3872acd0005d2"><a href="https://apps.rebble.io/en_US/application/58ec86dd6ca3872acd0005d2">Шепот</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2-rbl1</span></h2>
 <a class="app-source" href="https://github.com/kaist/shepot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-04-11</span> <span title="Latest release in the app store">Updated 2019-07-24</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2017-04-11</span> <span title="Latest release in the app store">Updated 2019-07-24</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">The application only in Russian language! Делайте заметки и напоминания голосом на ваших pebble на русском языке. Приложение понимает фразы: Напомни (запомни, джарвис) через час (20 минут, 2 часа)…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583c663200355a4
 <h2 class="app-name" id="app-5859480706e776ae7200039f"><a href="https://apps.rebble.io/en_US/application/5859480706e776ae7200039f">InstAPP</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/kaist/instapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-20</span> <span title="Latest release in the app store">Updated 2017-08-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-12-20</span> <span title="Latest release in the app store">Updated 2017-08-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">!!! Its work again!!! InstApp is the app to view instagram timeline on PebbleTime. Attention! The app works with my server. This means that ALL communication goes through a third party site…</p>
 </div>

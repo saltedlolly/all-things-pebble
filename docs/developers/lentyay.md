@@ -13,7 +13,7 @@ hide:
 
 # Lentyay
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lentyay_534679bcff5c0324d3000210) · [GitHub (lentyay)](https://github.com/lentyay)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lentyay_534679bcff5
 <h2 class="app-name" id="app-55d333ef704e469e27000001"><a href="https://apps.repebble.com/55d333ef704e469e27000001">Soviet Posters</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/lentyay/soviet-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-18</span> <span title="Latest release in the app store">Updated 2016-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-18</span> <span title="Latest release in the app store">Updated 2016-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Soviet posters watchface. Posters changes randomly on each watchface load.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lentyay_534679bcff5
 <h2 class="app-name" id="app-54a1169143ae82b64b000089"><a href="https://apps.repebble.com/54a1169143ae82b64b000089">Flip Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://github.com/lentyay/flip-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-29</span> <span title="Latest release in the app store">Updated 2016-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-29</span> <span title="Latest release in the app store">Updated 2016-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Fully adjustable double screen watchface with a little bit of Steampunk flavour, inspired by retro flip clock. Code based on tmnhy 7-segment watchface. Features: - Colored and Black&amp;White versions…</p>
 </div>

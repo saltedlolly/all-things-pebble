@@ -13,7 +13,7 @@ hide:
 
 # MrBlue
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrblue_56dc9f89296282ad2e000034) · [GitHub (mrbluue)](https://github.com/mrbluue)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrblue_56dc9f892962
 <h2 class="app-name" id="app-693b187bd8c67a0009650e91"><a href="https://apps.repebble.com/693b187bd8c67a0009650e91">Pebbletris Redux</a> <span class="app-version" title="Latest version" data-search-exclude>v2.30</span></h2>
 <a class="app-source" href="https://github.com/mrbluue/Tetris-PebbleTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/225" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-11</span> <span title="Latest release in the app store">Updated 2026-06-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-2-Clause</span> <span title="First published in the app store">Released 2025-12-11</span> <span title="Latest release in the app store">Updated 2026-06-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A new version of the classic game for the future of Pebbles! Inspired by Tetris, this is a fork of the original Tebbletris app by WRansohoff, keeping the same core game and features but with some…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrblue_56dc9f892962
 <h2 class="app-name" id="app-596e2e79461a8d34f600006c"><a href="https://apps.repebble.com/596e2e79461a8d34f600006c">Counter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/mrbluue/CounterPebble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-07-18</span> <span title="Latest release in the app store">Updated 2017-07-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-07-18</span> <span title="Latest release in the app store">Updated 2017-07-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Count using the up and down buttons. You can set a limit to how far you want to count. You can also save your counts by long pressing select on the counting screen. (It is not currently possible…</p>
 </div>

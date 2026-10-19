@@ -13,7 +13,7 @@ hide:
 
 # Comfortably Numb
 
-*37 watchfaces and 5 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*37 watchfaces and 6 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52f547605101128b2200005a) · [GitHub (ygalanter)](https://github.com/ygalanter)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>42</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>37</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>5</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>43</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>37</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>6</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="block crush" data-released="2026-10-12" data-updated="2026-10-17">
+<a class="app-shot" href="https://apps.repebble.com/a3850951f1bc4734b24f4ce3" data-search-exclude><img src="../images/apps/a3850951f1bc4734b24f4ce3.gif" alt="Block Crush" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a3850951f1bc4734b24f4ce3"><a href="https://apps.repebble.com/a3850951f1bc4734b24f4ce3">Block Crush</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<a class="app-source" href="https://github.com/ygalanter/block-crush-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/1430" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">The addictive block puzzle, on your wrist. Place three pieces at a time on an 8x8 board and fill rows or columns to crush them. The game ends when nothing fits. Clear several lines at once, or…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="simple striped" data-released="2015-04-13" data-updated="2026-10-10">
 <a class="app-shot" href="https://apps.repebble.com/552b12499c306b05a000008e" data-search-exclude><img src="../images/apps/552b12499c306b05a000008e.gif" alt="Simple Striped" loading="lazy"></a>
 <div class="app-info">

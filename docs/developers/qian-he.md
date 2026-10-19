@@ -13,7 +13,7 @@ hide:
 
 # Qian He
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/qian-he_52b8bd23c066cad7a600000e) · [GitHub (heqian)](https://github.com/heqian) · [Website (on11.mobi)](http://on11.mobi)
 

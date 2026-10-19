@@ -13,7 +13,7 @@ hide:
 
 # Donk Studios
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/donk-studios_53b4d4b0faff49b44300016d) · [GitHub (peperodo)](https://github.com/peperodo)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/donk-studios_53b4d4
 <h2 class="app-name" id="app-53dfd081107b2280a00000fa"><a href="https://apps.repebble.com/53dfd081107b2280a00000fa">First of Them</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/peperodo/first-of-them" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-04</span> <span title="Latest release in the app store">Updated 2014-08-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-04</span> <span title="Latest release in the app store">Updated 2014-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Follow the cursor moving along a meter at the bottom of the screen. Press when the cursor is in the zone of the black area of the meter. This will allow your character to trigger his rifle to…</p>
 </div>

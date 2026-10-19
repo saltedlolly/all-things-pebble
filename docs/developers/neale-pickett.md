@@ -13,7 +13,7 @@ hide:
 
 # Neale Pickett
 
-*6 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*6 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neale-pickett_5550deeae979af7f6f000047) · [GitHub (nealey)](https://github.com/nealey)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neale-pickett_5550d
 <h2 class="app-name" id="app-567daaad0bdc466e39000346"><a href="https://apps.repebble.com/567daaad0bdc466e39000346">Twatch Fonts</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/nealey/TwatchFonts" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-25</span> <span title="Latest release in the app store">Updated 2016-10-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-12-25</span> <span title="Latest release in the app store">Updated 2016-10-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I love well-hinted fonts. This face features a selectable collection of my favorite free fonts: Helvetica, Avería, and Ubuntu. Features selectable color themes and Bluetooth dropout notification.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neale-pickett_5550d
 <h2 class="app-name" id="app-573221b582fa531249000023"><a href="https://apps.repebble.com/573221b582fa531249000023">Twatch Chalice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/nealey/TwatchChalice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-10</span> <span title="Latest release in the app store">Updated 2016-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-10</span> <span title="Latest release in the app store">Updated 2016-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A blocky face with the date and Bluetooth dropout notification. Inspired by Sam Jerichow&#x27;s super-cool &quot;Soto X&quot; face</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neale-pickett_5550d
 <h2 class="app-name" id="app-573635af9ec4c104c9000021"><a href="https://apps.repebble.com/573635af9ec4c104c9000021">Twatch Toik</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/nealey/TwatchToik" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-13</span> <span title="Latest release in the app store">Updated 2016-05-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-13</span> <span title="Latest release in the app store">Updated 2016-05-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">tick tock tick tock tick tock</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neale-pickett_5550d
 <h2 class="app-name" id="app-567de93d0bdc46ec540003ff"><a href="https://apps.repebble.com/567de93d0bdc46ec540003ff">Twatch Rings</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/nealey/TwatchRings" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-26</span> <span title="Latest release in the app store">Updated 2016-05-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-12-26</span> <span title="Latest release in the app store">Updated 2016-05-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A clone of Pebble&#x27;s Color Rings face, with date, seconds, and vibration when you walk away from your phone.</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neale-pickett_5550d
 <h2 class="app-name" id="app-559b3050071c85eea80000ab"><a href="https://apps.repebble.com/559b3050071c85eea80000ab">Twatch Gamma</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nealey/Twatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-07</span> <span title="Latest release in the app store">Updated 2015-07-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-07</span> <span title="Latest release in the app store">Updated 2015-07-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My very first Analog watch face. I hate it, but some people seem to like it. Maybe you&#x27;re one of them!</p>
 </div>

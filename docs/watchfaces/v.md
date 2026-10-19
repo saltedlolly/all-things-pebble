@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · **V** · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*46 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*46 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-596f09ff0dfc323e110000d3"><a href="https://apps.rebble.io/en_US/application/596f09ff0dfc323e110000d3">vague text with hr</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/melekzek/pebble-text-with-hr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/melekzek.html" title="More from this developer">melekzek</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-07-19</span> <span title="Latest release in the app store">Updated 2017-07-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-07-19</span> <span title="Latest release in the app store">Updated 2017-07-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Vague text-based watchface with hr support on pebble2. Double tap to temporarily switch to digital display for accurate time and hr.</p>
 </div>
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-bff9181191da49d992568e39"><a href="https://apps.repebble.com/bff9181191da49d992568e39">Valve Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.70</span></h2>
 <a class="app-source" href="https://github.com/manaksu/ValveWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/creative-manaks.html" title="More from this developer">Creative Manaks</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-25</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-25</span> <span title="Latest release in the app store">Updated 2026-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A fan-made watchface dedicated to Valve Corporation and the Steam Deck — because great design deserves to live on your wrist too. Time is displayed in bold inside a signature red rectangle, a…</p>
 </div>
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-4ae142201d714846a1fab3d7"><a href="https://apps.repebble.com/4ae142201d714846a1fab3d7">Van Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.16</span></h2>
 <a class="app-source" href="https://github.com/kvark/van-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/dzmitry-malyshau.html" title="More from this developer">Dzmitry Malyshau</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-02</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-02</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Rotating Vangers mechos on a turntable, with the time below. Cycles through 14 vehicles (Iron Shadow to Excorps) by day, by wrist-raise/tap, or pinned via settings. Inspired by the in-game shop…</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-693625b95434b00008eff112"><a href="https://apps.repebble.com/693625b95434b00008eff112">Varv</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/varve-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a> · <a href="https://forum.rebble.io/t/164" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-08</span> <span title="Latest release in the app store">Updated 2026-07-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-08</span> <span title="Latest release in the app store">Updated 2026-07-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Digital watchface with analog time feeling Features: * Huge text for the hour * Minute digits move vertically * Great battery life (updates once per minute) * Font inspired by Super S, optimized…</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-6951762424ba4b0009dc92c5"><a href="https://apps.repebble.com/6951762424ba4b0009dc92c5">Vault</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/peerdavid/pebble-vault" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-peer.html" title="More from this developer">David Peer</a> · <a href="https://forum.rebble.io/t/366" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-28</span> <span title="Latest release in the app store">Updated 2025-12-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2025-12-28</span> <span title="Latest release in the app store">Updated 2025-12-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A fallout inspired open-source watch face which shows the date, time as well as the number of steps and the battery level. Disclaimer: This project is an open-source, fan-made creation and is not…</p>
 </div>
@@ -215,7 +215,7 @@ hide:
 <h2 class="app-name" id="app-5597be3a6e32ca686800001e"><a href="https://apps.repebble.com/5597be3a6e32ca686800001e">Verbose Watchface for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.30</span></h2>
 <a class="app-source" href="https://github.com/marcellobrivio/Pebble-Verbose-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marcello-brivio.html" title="More from this developer">Marcello Brivio</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-04</span> <span title="Latest release in the app store">Updated 2016-02-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-04</span> <span title="Latest release in the app store">Updated 2016-02-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">In this watchface you won&#x27;t find beautiful graphics or cool typography to please your eyes: only data, displayed with a terminal-inspired look &amp; feel for the little nerd living inside everyone of…</p>
 </div>
@@ -336,7 +336,7 @@ hide:
 <h2 class="app-name" id="app-554aa11eee68650e870000af"><a href="https://apps.repebble.com/554aa11eee68650e870000af">Vice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/leovander/vice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/leovander.html" title="More from this developer">leovander</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Vice is inspired from the colors of Miami Vice logo and the awesome 80&#x27;s.</p>
 </div>
@@ -424,7 +424,7 @@ hide:
 <h2 class="app-name" id="app-52dc9be5f3be1c381d000062"><a href="https://apps.repebble.com/52dc9be5f3be1c381d000062">VMAX IO</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/mcowger/vmaxv2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matt-cowger.html" title="More from this developer">Matt Cowger</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-20</span> <span title="Latest release in the app store">Updated 2014-01-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-20</span> <span title="Latest release in the app store">Updated 2014-01-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shows the live IO on a EMC VMAX</p>
 </div>

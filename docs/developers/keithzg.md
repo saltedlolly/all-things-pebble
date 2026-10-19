@@ -13,7 +13,7 @@ hide:
 
 # keithzg
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keithzg_52d9c139b82a9f04f2000024) · [GitHub (keithzg)](https://github.com/keithzg)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keithzg_52d9c139b82
 <h2 class="app-name" id="app-56bedba7f65c491cd4000068"><a href="https://apps.repebble.com/56bedba7f65c491cd4000068">LCARS v3 Colored</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/keithzg/LCARS-1-SDK-3.0-colored" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-02-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-02-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">LCARS watchface, updated for Time with some colors</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keithzg_52d9c139b82
 <h2 class="app-name" id="app-56c26237b710f6e1da000013"><a href="https://apps.repebble.com/56c26237b710f6e1da000013">Concentricity-24hr</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/keithzg/concentricity" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-15</span> <span title="Latest release in the app store">Updated 2016-02-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-02-15</span> <span title="Latest release in the app store">Updated 2016-02-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Concentricity watchface from https://github.com/pebble-examples/concentricity, modified to use a 24-hour cycle rather than a 12-hour cycle.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keithzg_52d9c139b82
 <h2 class="app-name" id="app-541768c2d8eb58ee1a000003"><a href="https://apps.repebble.com/541768c2d8eb58ee1a000003">Fuzzier Fuzzy Text International</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/keithzg/Fuzzier-Fuzzy-Text-International" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-15</span> <span title="Latest release in the app store">Updated 2014-09-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-15</span> <span title="Latest release in the app store">Updated 2014-09-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A dirty hack of Fuzzy Text International for folks like myself who felt all of the existing &quot;fuzzy&quot; watchfaces were still too specific. If you want to wake up and have your watch tell you it&#x27;s…</p>
 </div>

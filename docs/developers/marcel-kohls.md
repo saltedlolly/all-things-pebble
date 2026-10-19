@@ -13,7 +13,7 @@ hide:
 
 # Marcel Kohls
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56a5149511d0ac36df000041/1) · [GitHub (marcelkohl)](https://github.com/marcelkohl)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56a5149511d0ac3
 <h2 class="app-name" id="app-57cd93babe5ad0720c00037d"><a href="https://apps.rebble.io/en_US/application/57cd93babe5ad0720c00037d">Currency Exchange</a> <span class="app-version" title="Latest version" data-search-exclude>v3.4</span></h2>
 <a class="app-source" href="https://github.com/marcelkohl/pebbleCurrencyExchangeApp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-05</span> <span title="Latest release in the app store">Updated 2025-10-31</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-09-05</span> <span title="Latest release in the app store">Updated 2025-10-31</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">World Currency Exchange Converter. Up to 33 currencies.</p>
 </div>

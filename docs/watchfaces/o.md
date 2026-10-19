@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · **O** · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*43 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*43 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-562cba73b56e5d005400008f"><a href="https://apps.repebble.com/562cba73b56e5d005400008f">Oblique Strategies</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/konsumer/obliqe_strategies_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-konsumer.html" title="More from this developer">David Konsumer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-01-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-01-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This adds the 3rd edition of Oblique Strategies by Brian Eno and Peter Schmidt to your Pebble watch. It can be used to break a deadlock or dilemma situation. Shake to get a new strategy. Shake…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-538b828673742659360000a1"><a href="https://apps.repebble.com/538b828673742659360000a1">OBS de Molshoop</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/pieterjm/Pebble-Molshoop" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pieter-meulenhoff.html" title="More from this developer">Pieter Meulenhoff</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-01</span> <span title="Latest release in the app store">Updated 2014-06-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-01</span> <span title="Latest release in the app store">Updated 2014-06-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface met een afteltimer voor het aantal dagen dat OBS de Molshoop, openbare basischool in Noordhorn, nog bestaat.</p>
 </div>
@@ -157,10 +157,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/12b5466ad2f74cb783d761cb" data-search-exclude><img src="../images/apps/12b5466ad2f74cb783d761cb.png" alt="Old Eyes" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-12b5466ad2f74cb783d761cb"><a href="https://apps.repebble.com/12b5466ad2f74cb783d761cb">Old Eyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-12b5466ad2f74cb783d761cb"><a href="https://apps.repebble.com/12b5466ad2f74cb783d761cb">Old Eyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
 <a class="app-source" href="https://github.com/ajack2001my/OldEyes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ajack2001my.html" title="More from this developer">ajack2001my</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">First Attempt to publish</p>
 </div>
@@ -179,12 +179,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/6ac8aed81f607900091116a0" data-search-exclude><img src="../images/apps/6ac8aed81f607900091116a0.png" alt="OldEyes" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6ac8aed81f607900091116a0"><a href="https://apps.rebble.io/en_US/application/6ac8aed81f607900091116a0">OldEyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-6ac8aed81f607900091116a0"><a href="https://apps.rebble.io/en_US/application/6ac8aed81f607900091116a0">OldEyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
 <a class="app-source" href="https://www.facebook.com/groups/pebble.junkies/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/adrian-chiang.html" title="More from this developer">Adrian Chiang</a> · <a href="https://forum.rebble.io/t/1413" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-12</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Tells time. Show the hour as a number in 24h format, and a line around the watch screen to denote the minutes. A Shake to the wrist with show the weather, temperature in celcius, AQI, and current…</p>
+<p class="app-desc">Old Eyes — a clean, classic Pebble watchface that stays out of your way. The face is stripped down to what matters: a large, easy-to-read hour, the date, and your daily step count. A slim line…</p>
 </div>
 </div>
 <div class="app-card">
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-52d8bb781acbf3738d00002f"><a href="https://apps.repebble.com/52d8bb781acbf3738d00002f">On the Button</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/pebble/pebble-sdk-examples/tree/master/watchfaces/onthebutton" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pebble.html" title="More from this developer">Pebble</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-17</span> <span title="Latest release in the app store">Updated 2014-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">On the Button Example Watchface</p>
 </div>
@@ -259,7 +259,7 @@ hide:
 <h2 class="app-name" id="app-67f68f5cc6733d0009b2916d"><a href="https://apps.repebble.com/67f68f5cc6733d0009b2916d">One Minute Hand</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/pebble-one-handed-minute/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-04-09</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-04-09</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A minimalist watchface with a digital hour number and an analog minute hand. Features: * Configurable color scheme * Great battery life (update once per minute) * Support 12h or 24h for hour…</p>
 </div>
@@ -303,7 +303,7 @@ hide:
 <h2 class="app-name" id="app-5349f76e085291de2e0000fa"><a href="https://apps.repebble.com/5349f76e085291de2e0000fa">OpenGameArt.org</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mhungerford/pebble-OpenGameArt.org" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matthew-hungerford.html" title="More from this developer">Matthew Hungerford</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-13</span> <span title="Latest release in the app store">Updated 2014-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-04-13</span> <span title="Latest release in the app store">Updated 2014-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Flick your wrist to flip through 11 images from OpenGameArt.org. OpenGameArt.org is a site providing art licensed under Creative-Commons. Outline Font is based on the Boxy font also found on…</p>
 </div>
@@ -314,7 +314,7 @@ hide:
 <h2 class="app-name" id="app-02a27e35c0a9494a9208e70f"><a href="https://apps.repebble.com/02a27e35c0a9494a9208e70f">OpenLibreLinkUp</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.5</span></h2>
 <a class="app-source" href="https://github.com/marukitano/OpenLibreLinkUp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marukitano.html" title="More from this developer">marukitano</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-26</span> <span title="Latest release in the app store">Updated 2026-08-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-07-26</span> <span title="Latest release in the app store">Updated 2026-08-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">English OpenLibreLinkUp is a glucose-monitoring watchface for the Pebble Time 2. It displays current FreeStyle Libre readings through the unofficial LibreLinkUp API, including glucose value, trend…</p>
 </div>
@@ -402,7 +402,7 @@ hide:
 <h2 class="app-name" id="app-67ca03d5b7a023018e36ffb0"><a href="https://apps.rebble.io/en_US/application/67ca03d5b7a023018e36ffb0">Orbital RE</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/less-ly/orbital_re" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/m1k.html" title="More from this developer">m1k</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-06</span> <span title="Latest release in the app store">Updated 2025-03-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-06</span> <span title="Latest release in the app store">Updated 2025-03-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Reverse engineered from Orbital watchface by Software Logix LLC. Original description: &quot; An elegant watch face featuring planets orbiting as the watch hands. The outer planet is represents to…</p>
 </div>

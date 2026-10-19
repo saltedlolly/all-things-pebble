@@ -13,7 +13,7 @@ hide:
 
 # LostQuasar
 
-*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5aee23cff3858853b8000896/1) · [GitHub (LostQuasar)](https://github.com/LostQuasar) · [Website (lostquasar.dev)](https://lostquasar.dev)
 
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5aee23cff385885
 <h2 class="app-name" id="app-67d5931aa15bc400098c821e"><a href="https://apps.rebble.io/en_US/application/67d5931aa15bc400098c821e">Rebblatro</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/lostquasar/rebblatro" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-15</span> <span title="Latest release in the app store">Updated 2025-03-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-15</span> <span title="Latest release in the app store">Updated 2025-03-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A Balatro Themed Watchface so you never have to leave home without balatro</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # astosia
 
-*24 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*24 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/astosia_58a635d30dfc320dc60003b4) · [Rebble App Store](https://apps.rebble.io/en_US/developer/58a635d30dfc320dc60003b4/1) · [GitHub (astosia)](https://github.com/astosia) · [Website (favouritehumandesign.com)](https://favouritehumandesign.com)
 
@@ -21,11 +21,33 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/astosia_58a635d30df
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>26</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>24</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>27</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>24</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="find my iphone or android" data-released="2026-10-18" data-updated="2026-10-18">
+<a class="app-shot" href="https://apps.repebble.com/6ad530777779df0009463ac4" data-search-exclude><img src="../images/apps/6ad530777779df0009463ac4.png" alt="Find my iPhone or Android" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6ad530777779df0009463ac4"><a href="https://apps.repebble.com/6ad530777779df0009463ac4">Find my iPhone or Android</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<a class="app-source" href="https://github.com/astosia/FindmyPhone" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/1443" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Simple watchapp that makes your Phone ring when you press a button - Works on iOS for iPhone Uses iOS alert notifications pushed via either the Pushover or Bark Apps. Because it uses iOS Critical…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="tangent" data-released="2026-08-10" data-updated="2026-10-16">
+<a class="app-shot" href="https://apps.repebble.com/6a7a1b2ebb2e890009f6b103" data-search-exclude><img src="../images/apps/6a7a1b2ebb2e890009f6b103.gif" alt="Tangent" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6a7a1b2ebb2e890009f6b103"><a href="https://apps.repebble.com/6a7a1b2ebb2e890009f6b103">Tangent</a> <span class="app-version" title="Latest version" data-search-exclude>v4.8.2</span></h2>
+<a class="app-source" href="https://github.com/astosia/tangent" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1224" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Inspired by the Tangente watch by Nomos Features: - Fully configurable colours, with presets or custom colours - Numbers or Roman Numerals on the dial - Configurable hand widths &amp; lengths - Vibe &amp;…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="hybrid weather" data-released="2026-04-04" data-updated="2026-10-06">
 <a class="app-shot" href="https://apps.repebble.com/5006a236677b4457a6f76364" data-search-exclude><img src="../images/apps/5006a236677b4457a6f76364.gif" alt="Hybrid Weather" loading="lazy"></a>
 <div class="app-info">
@@ -46,17 +68,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/astosia_58a635d30df
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-04</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Evolution of the excellent original by SeaPea software This version adds: - Native Layouts for PT2 and PR2 - Alarm Sounds for PT2 and P2Duo - multiple options including some of the system options…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="tangent" data-released="2026-08-10" data-updated="2026-09-27">
-<a class="app-shot" href="https://apps.repebble.com/6a7a1b2ebb2e890009f6b103" data-search-exclude><img src="../images/apps/6a7a1b2ebb2e890009f6b103.gif" alt="Tangent" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-6a7a1b2ebb2e890009f6b103"><a href="https://apps.repebble.com/6a7a1b2ebb2e890009f6b103">Tangent</a> <span class="app-version" title="Latest version" data-search-exclude>v4.3.0</span></h2>
-<a class="app-source" href="https://github.com/astosia/tangent" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1224" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Inspired by the Tangente watch by Nomos Features: - Fully configurable colours, with presets or custom colours - Numbers or Roman Numerals on the dial - Configurable hand widths &amp; lengths - Vibe &amp;…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="monolith" data-released="2026-09-18" data-updated="2026-09-21">

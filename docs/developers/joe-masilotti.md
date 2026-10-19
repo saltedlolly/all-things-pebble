@@ -13,7 +13,7 @@ hide:
 
 # Joe Masilotti
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joe-masilotti_52a92b8179c18fd92c000005) · [GitHub (joemasilotti)](https://github.com/joemasilotti)
 

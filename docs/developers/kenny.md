@@ -13,7 +13,7 @@ hide:
 
 # Kenny
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kenny_550c6b9edeb0ad13ce00002d) · [GitHub (kennydo)](https://github.com/kennydo)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kenny_550c6b9edeb0a
 <h2 class="app-name" id="app-55ee43ca2b0b31d03c000083"><a href="https://apps.repebble.com/55ee43ca2b0b31d03c000083">Sakuya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/kennydo/sakuya-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-08</span> <span title="Latest release in the app store">Updated 2015-09-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-09-08</span> <span title="Latest release in the app store">Updated 2015-09-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple watchface that shows you the time, the date, and a small calendar.</p>
 </div>

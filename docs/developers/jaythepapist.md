@@ -13,7 +13,7 @@ hide:
 
 # JayThePapist
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jaythepapist_56b3d3daed001be08f000040) · [GitHub (jherforth)](https://github.com/jherforth) · [Website (oremus.candidly.us)](http://oremus.candidly.us)
 

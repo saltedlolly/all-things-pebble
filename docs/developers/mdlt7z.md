@@ -13,7 +13,7 @@ hide:
 
 # mdlt7z
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mdlt7z_dd1c5ad7d92a5dd3acb1e367) · [GitHub (mdlt7z)](https://github.com/mdlt7z) · [Website (mdlt7z.com)](https://mdlt7z.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mdlt7z_dd1c5ad7d92a
 <h2 class="app-name" id="app-e7546ae4120f414d9c7014b0"><a href="https://apps.repebble.com/e7546ae4120f414d9c7014b0">7dots</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mdlt7z/7dots" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Minimalist information display using 7 dots ;) ## Dot Features - 📅 Day of the week - 👟 Step goal progress - ☁️ Weather forecast - ☀️ Sunrise/Sunset - 🔋 Battery The colors give you a &quot;feel&quot; for…</p>
 </div>

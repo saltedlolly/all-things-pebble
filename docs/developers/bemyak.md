@@ -13,7 +13,7 @@ hide:
 
 # bemyak
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bemyak_9256eb89addd27c58ee5b339) · [GitHub (bemyak)](https://github.com/bemyak) · [Website (blog.bemyak.net)](https://blog.bemyak.net)
 
@@ -21,15 +21,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bemyak_9256eb89addd
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="nostalgic commander" data-released="2026-08-01" data-updated="2026-08-30">
+<div class="app-card" data-type="watchface" data-title="nostalgic commander" data-released="2026-08-01" data-updated="2026-10-18">
 <a class="app-shot" href="https://apps.repebble.com/d19443a35c6240ccaca492f5" data-search-exclude><img src="../images/apps/d19443a35c6240ccaca492f5.gif" alt="Nostalgic Commander" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d19443a35c6240ccaca492f5"><a href="https://apps.repebble.com/d19443a35c6240ccaca492f5">Nostalgic Commander</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.0</span></h2>
+<h2 class="app-name" id="app-d19443a35c6240ccaca492f5"><a href="https://apps.repebble.com/d19443a35c6240ccaca492f5">Nostalgic Commander</a> <span class="app-version" title="Latest version" data-search-exclude>v1.11.0</span></h2>
 <a class="app-source" href="https://github.com/bemyak/nostalgic_commander" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1198" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-08-01</span> <span title="Latest release in the app store">Updated 2026-08-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-08-01</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Your watch, circa 1992. Nostalgic Commander turns your Pebble Time 2 into a DOS-era panel: cyan frames over Norton blue, an IBM VGA bitmap font, caption-titled status bars, solid block-glyph…</p>
+<p class="app-desc">What if a Pebble Time 2 watchface was designed in 1992? Could it be not only beautiful, but customizable, functional and performant? Just perfect for everyday use! Feast your eyes on five glorious…</p>
 </div>
 </div>
 </div>

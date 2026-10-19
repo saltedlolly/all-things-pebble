@@ -13,7 +13,7 @@ hide:
 
 # Mitchell Van Der Hoeff
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mitchell-van-der-hoeff_545fac88f520d9d228000086) · [GitHub (mvanderh)](https://github.com/mvanderh)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mitchell-van-der-ho
 <h2 class="app-name" id="app-54694ee5bfc6a28d0300004f"><a href="https://apps.repebble.com/54694ee5bfc6a28d0300004f">PebbleGRT</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/mvanderh/PebbleGRT/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-17</span> <span title="Latest release in the app store">Updated 2014-11-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-17</span> <span title="Latest release in the app store">Updated 2014-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Check real time bus times and distances for GRT in the Kitchener/Waterloo area! - Click on a Nearby Bus to see Delay and Upcoming Stops - Click on a Nearby Stop to see Upcoming Buses</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Filcuk
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/filcuk_ca14dda8e44031072403fd6a) · [GitHub (filcuk)](https://github.com/filcuk)
 

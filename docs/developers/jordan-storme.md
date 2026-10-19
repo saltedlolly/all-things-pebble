@@ -13,7 +13,7 @@ hide:
 
 # Jordan Storme
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jordan-storme_5e6455b63eb686623206c76f) · [GitHub (jordanfromeverywhere)](https://github.com/jordanfromeverywhere)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jordan-storme_5e645
 <h2 class="app-name" id="app-7e8fda844ba74051a0f32b71"><a href="https://apps.repebble.com/7e8fda844ba74051a0f32b71">PrintWrist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/jordanfromeverywhere/printwrist" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-25</span> <span title="Latest release in the app store">Updated 2026-09-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-09-25</span> <span title="Latest release in the app store">Updated 2026-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Your Bambu Lab printer, on your wrist, from anywhere. PrintWrist shows your print&#x27;s progress, time left, temperatures, fans, speed and AMS filament on your Pebble Time 2, over Bambu Cloud, so it…</p>
 </div>

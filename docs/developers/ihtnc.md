@@ -13,7 +13,7 @@ hide:
 
 # ihtnc
 
-*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ihtnc_529a3cd3e627ce820a000106) · [GitHub (ihtnc)](https://github.com/ihtnc)
 

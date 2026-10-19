@@ -13,7 +13,7 @@ hide:
 
 # mlv
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mlv_54635f27feade1b04300004b) · [GitHub (mlv)](https://github.com/mlv)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mlv_54635f27feade1b
 <h2 class="app-name" id="app-54c9beb965fbc10a9e0000aa"><a href="https://apps.repebble.com/54c9beb965fbc10a9e0000aa">ToothTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mlv/ToothTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-29</span> <span title="Latest release in the app store">Updated 2015-03-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-01-29</span> <span title="Latest release in the app store">Updated 2015-03-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Timer that times (in 15 second intervals per section of the mouth) the brushing of teeth.</p>
 </div>

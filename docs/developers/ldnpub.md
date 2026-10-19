@@ -13,7 +13,7 @@ hide:
 
 # ldnpub
 
-*7 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f2712e9770839) · [GitHub (ldnpub)](https://github.com/ldnpub)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f
 <h2 class="app-name" id="app-106d7f75a81a4e8592ad7f51"><a href="https://apps.repebble.com/106d7f75a81a4e8592ad7f51">FlipBoard STIPPLE</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.1</span></h2>
 <a class="app-source" href="https://github.com/ldnpub/FlipBoard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Dot-matrix departure board watchface for Pebble Time 2. Doto pixel digits on a stippled e-paper field: steps with colour ramp, big clock, date and battery. Shake to toggle FR/EN labels. Part of…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f
 <h2 class="app-name" id="app-0a3d20f9c1574bc59142da32"><a href="https://apps.repebble.com/0a3d20f9c1574bc59142da32">FlipBoard QUAI</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.1</span></h2>
 <a class="app-source" href="https://github.com/ldnpub/FlipBoard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Amber 7-segment platform display watchface for Pebble Time 2. DSEG7 LCD digits with authentic ghost segments: departures header with weekday, big station clock, steps with colour ramp, date and…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f
 <h2 class="app-name" id="app-14d05b5cd0234f1d8e804887"><a href="https://apps.repebble.com/14d05b5cd0234f1d8e804887">FlipBoard LUMEN</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.1</span></h2>
 <a class="app-source" href="https://github.com/ldnpub/FlipBoard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">An LED dot-matrix departure board for the Pebble Time 2. Lit dots glow over a faint ghost grid; the time, your steps (colour-coded to your goal), the date and the battery sit in clean rows. Phone…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f
 <h2 class="app-name" id="app-a3ff5397d9184a778cded553"><a href="https://apps.repebble.com/a3ff5397d9184a778cded553">FlipBoard CONCOURSE</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.1</span></h2>
 <a class="app-source" href="https://github.com/ldnpub/FlipBoard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Bilingual departure-board watchface for Pebble Time 2. DSEG14 segment display in an airport grid: steps with goal percentage, time with ON TIME status, date with weekday, battery with health…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f
 <h2 class="app-name" id="app-80bfb32c92eb4f86a91c941c"><a href="https://apps.repebble.com/80bfb32c92eb4f86a91c941c">FlipBoard APOLLO</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.1</span></h2>
 <a class="app-source" href="https://github.com/ldnpub/FlipBoard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Aerospace console terminal watchface for Pebble Time 2. VT323 phosphor type: SYS-OK status line, step counter with goal progress bar, big mission-clock, date and battery readouts. Shake to toggle…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f
 <h2 class="app-name" id="app-59d86b580d9b4071a1bf0c1f"><a href="https://apps.repebble.com/59d86b580d9b4071a1bf0c1f">FlipBoard SOLARI</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
 <a class="app-source" href="https://github.com/ldnpub/FlipBoard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Split-flap airport board watchface for Pebble Time 2. Every character sits on its own mechanical flap tile with a fold seam, Silkscreen pixel type: departures header, steps with colour ramp, big…</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ldnpub_9ad3573dde3f
 <h2 class="app-name" id="app-bdffc25bf0694de68ee6015c"><a href="https://apps.repebble.com/bdffc25bf0694de68ee6015c">FlipBoard IVOIRE</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
 <a class="app-source" href="https://github.com/ldnpub/FlipBoard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Flip-clock watchface for Pebble Time 2. Two ivory split-flap tiles with bold Oswald digits on a dark field: steps with colour ramp, date and battery. Shake to toggle FR/EN labels. Part of the…</p>
 </div>

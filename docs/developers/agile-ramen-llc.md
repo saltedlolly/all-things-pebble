@@ -13,7 +13,7 @@ hide:
 
 # Agile Ramen LLC
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/agile-ramen-llc_546950dbecee195d8400005b) · [GitHub (jakeatwork)](https://github.com/jakeatwork) · [Website (agileramen.com)](http://www.agileramen.com)
 

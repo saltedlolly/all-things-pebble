@@ -13,7 +13,7 @@ hide:
 
 # oliben10
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/oliben10_3f84a76582738ea27551ffa7) · [GitHub (oliverano95)](https://github.com/oliverano95)
 
@@ -26,26 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/oliben10_3f84a76582
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="gymtracker" data-released="2026-04-09" data-updated="2026-10-16">
+<a class="app-shot" href="https://apps.repebble.com/0664a987078943a28f196064" data-search-exclude><img src="../images/apps/0664a987078943a28f196064.png" alt="GymTracker" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-0664a987078943a28f196064"><a href="https://apps.repebble.com/0664a987078943a28f196064">GymTracker</a> <span class="app-version" title="Latest version" data-search-exclude>v6.18.0</span></h2>
+<a class="app-source" href="https://github.com/oliverano95/GymTracker" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/931" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Leave your phone in your locker. A fully-featured, standalone workout tracker with smart rest timers, haptic coaching, and automatic data export. Transform your Pebble into the ultimate gym…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="wyrd loom" data-released="2026-04-14" data-updated="2026-09-06">
 <a class="app-shot" href="https://apps.repebble.com/f4e0bd13e8b14f2b8728ff22" data-search-exclude><img src="../images/apps/f4e0bd13e8b14f2b8728ff22.gif" alt="Wyrd Loom" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-f4e0bd13e8b14f2b8728ff22"><a href="https://apps.repebble.com/f4e0bd13e8b14f2b8728ff22">Wyrd Loom</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/oliverano95/WyrdLoom" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Initial release</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="gymtracker" data-released="2026-04-09" data-updated="2026-08-24">
-<a class="app-shot" href="https://apps.repebble.com/0664a987078943a28f196064" data-search-exclude><img src="../images/apps/0664a987078943a28f196064.png" alt="GymTracker" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-0664a987078943a28f196064"><a href="https://apps.repebble.com/0664a987078943a28f196064">GymTracker</a> <span class="app-version" title="Latest version" data-search-exclude>v6.16.1</span></h2>
-<a class="app-source" href="https://github.com/oliverano95/GymTracker" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App · <a href="https://forum.rebble.io/t/931" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Leave your phone in your locker. A fully-featured, standalone workout tracker with smart rest timers, haptic coaching, and automatic data export. Transform your Pebble into the ultimate gym…</p>
 </div>
 </div>
 </div>

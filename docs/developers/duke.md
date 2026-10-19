@@ -13,7 +13,7 @@ hide:
 
 # duke
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/duke_d48f949b70fcaefd4e29e5cb) · [GitHub (duke0815)](https://github.com/duke0815)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/duke_d48f949b70fcae
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="minesweeper" data-released="2026-10-12" data-updated="2026-10-13">
+<a class="app-shot" href="https://apps.repebble.com/5e0ed9c95d3a413c971c2ac2" data-search-exclude><img src="../images/apps/5e0ed9c95d3a413c971c2ac2.png" alt="Minesweeper" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5e0ed9c95d3a413c971c2ac2"><a href="https://apps.repebble.com/5e0ed9c95d3a413c971c2ac2">Minesweeper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/duke0815/pebble_minesweeper" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-13</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Minesweeper, rebuilt from scratch for Pebble Time 2. Clear an 8×8 minefield right on your wrist – with your finger or with the buttons. TOUCH (Pebble Time 2) • Tap a cell to open it, hold it to…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="dungeon doors" data-released="2026-10-01" data-updated="2026-10-01">
 <a class="app-shot" href="https://apps.repebble.com/2a6fe2cb878f4eb4ac9082fc" data-search-exclude><img src="../images/apps/2a6fe2cb878f4eb4ac9082fc.png" alt="Dungeon Doors" loading="lazy"></a>
 <div class="app-info">

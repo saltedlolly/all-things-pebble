@@ -13,14 +13,30 @@ hide:
 
 # Arron
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/arron_524aee3521fec8fbd71a5a3f) · [GitHub (MrArron)](https://github.com/MrArron)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="wrist assistant" data-released="2026-10-17" data-updated="2026-10-17">
+<a class="app-shot" href="https://apps.repebble.com/7dd73348eb6f49599a964d85" data-search-exclude><img src="../images/apps/7dd73348eb6f49599a964d85.gif" alt="Wrist Assistant" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7dd73348eb6f49599a964d85"><a href="https://apps.repebble.com/7dd73348eb6f49599a964d85">Wrist Assistant</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
+<a class="app-source" href="https://github.com/MrArron/Wrist-Assistant" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Ask Claude, Anthropic&#x27;s AI, a question by voice and read a short answer on your wrist. Wrist Assistant is designed to work only with Claude. It needs your own Anthropic API key (from…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="lovense remote" data-released="2026-09-16" data-updated="2026-09-20">
 <a class="app-shot" href="https://apps.repebble.com/4a1b7995c8d142f099d98dbb" data-search-exclude><img src="../images/apps/4a1b7995c8d142f099d98dbb.gif" alt="Lovense Remote" loading="lazy"></a>
 <div class="app-info">

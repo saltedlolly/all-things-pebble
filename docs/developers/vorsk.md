@@ -13,7 +13,7 @@ hide:
 
 # vorsk
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vorsk_5494f31f210576e99c00005a) · [GitHub (lanrat)](https://github.com/lanrat) · [Website (lanrat.com)](https://lanrat.com/projects/minimalin-reborn/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vorsk_5494f31f21057
 <h2 class="app-name" id="app-63792649c6c24a000a815e70"><a href="https://apps.repebble.com/63792649c6c24a000a815e70">Minimalin Reborn</a> <span class="app-version" title="Latest version" data-search-exclude>v2.12.0</span></h2>
 <a class="app-source" href="https://github.com/lanrat/minimalin-reborn" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/760" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-19</span> <span title="Latest release in the app store">Updated 2026-09-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2022-11-19</span> <span title="Latest release in the app store">Updated 2026-09-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Minimalin is a fully customizable watchface that blends analog and digital for a modern and elegant look.Minimalin uses Nupe, a custom font with numbers and icons, optimized with bitmap mapping to…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vorsk_5494f31f21057
 <h2 class="app-name" id="app-6df87b64b7174448a065ef54"><a href="https://apps.repebble.com/6df87b64b7174448a065ef54">2048 Touch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/lanrat/pebble-2048-touch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/973" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Play the classic 2048 sliding-tile puzzle on your Pebble. Combine matching numbered tiles to add them together and work your way up to the 2048 tile — and beyond. Swipe to move on touch-capable…</p>
 </div>

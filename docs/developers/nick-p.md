@@ -13,7 +13,7 @@ hide:
 
 # Nick P
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/588856c693254abee40004e3/1) · [GitHub (nickpraeger)](https://github.com/nickpraeger)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/588856c693254ab
 <h2 class="app-name" id="app-5a60f9b5461a8d72e8002002"><a href="https://apps.rebble.io/en_US/application/5a60f9b5461a8d72e8002002">Tank Day Date</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/nickpraeger/tank" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-01-18</span> <span title="Latest release in the app store">Updated 2018-02-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-01-18</span> <span title="Latest release in the app store">Updated 2018-02-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A classic watch face inspired by a Cartier Tank watch. Includes full day, date and second hand. Sub dial for battery charge and a bluetooth connection indicator (the I numeral changes to white…</p>
 </div>

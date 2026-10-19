@@ -13,7 +13,7 @@ hide:
 
 # mincoshi
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/59f2d2270dfc323bd0002c12/1) · [GitHub (mijinc0)](https://github.com/mijinc0)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/59f2d2270dfc323
 <h2 class="app-name" id="app-5a4c169c0dfc323bd000428c"><a href="https://apps.rebble.io/en_US/application/5a4c169c0dfc323bd000428c">NEM_HARVESTING_WATCHER</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/mijinc0/PebbleNEM" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-01-02</span> <span title="Latest release in the app store">Updated 2018-01-06</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-01-02</span> <span title="Latest release in the app store">Updated 2018-01-06</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">NEMのハーベスティングの状態を監視できる簡単なWatchFaceです。スマホの設定画面でセットしたNEMアドレスの委任ハーベストの状態(active,inactive)を監視できます。このアプリが正常に動作するためにはbluetoothによりpebbleとスマホを接続し、スマホはインターネットに接続されている必要があります。表示が &quot;?&quot;…</p>
 </div>

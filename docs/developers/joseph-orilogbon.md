@@ -13,7 +13,7 @@ hide:
 
 # Joseph Orilogbon
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joseph-orilogbon_531a428eaf83c17f1e000515) · [GitHub (logbon72)](https://github.com/logbon72) · [Website (pbmovies.orilogbon.me)](http://pbmovies.orilogbon.me)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joseph-orilogbon_53
 <h2 class="app-name" id="app-532eadd24e66a6b2a4000137"><a href="https://apps.repebble.com/532eadd24e66a6b2a4000137">Movie Times</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7</span></h2>
 <a class="app-source" href="https://github.com/logbon72/pebble-movies" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-23</span> <span title="Latest release in the app store">Updated 2016-01-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-03-23</span> <span title="Latest release in the app store">Updated 2016-01-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Movie Times (formerly Pebble Movies) allows you to browse movie showtimes in cinemas near you. It also provides you with a QRCode (for some movie times) to make ticket purchase. You can browse by…</p>
 </div>

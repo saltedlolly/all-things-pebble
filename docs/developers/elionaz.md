@@ -13,7 +13,7 @@ hide:
 
 # elionaz
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/elionaz_788e308d3feb9c022684d3b9) · [GitHub (elionaz)](https://github.com/elionaz)
 

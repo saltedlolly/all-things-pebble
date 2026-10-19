@@ -13,7 +13,7 @@ hide:
 
 # JPlexer
 
-*1 watchface and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jplexer_66d9e31d281f8a000981862f) · [Rebble App Store](https://apps.rebble.io/en_US/developer/66d9e31d281f8a000981862f/1) · [GitHub (jplexer)](https://github.com/jplexer) · [Website (funnyna.me)](https://funnyna.me)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jplexer_66d9e31d281
 <h2 class="app-name" id="app-c03747b390094828979e6aa7"><a href="https://apps.repebble.com/c03747b390094828979e6aa7">BreakerBrick</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/jplexer/breakerbrick" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-27</span> <span title="Latest release in the app store">Updated 2026-05-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-27</span> <span title="Latest release in the app store">Updated 2026-05-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A breakout clone using touch and speaker</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jplexer_66d9e31d281
 <h2 class="app-name" id="app-66efa9769c3343808eefed19"><a href="https://apps.repebble.com/66efa9769c3343808eefed19">Portal Sign (Alloy)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jplexer/portal-sign-alloy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-28</span> <span title="Latest release in the app store">Updated 2026-03-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-28</span> <span title="Latest release in the app store">Updated 2026-03-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Rewrite of Portal Sign, written in Alloy for Pebble Time 2</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jplexer_66d9e31d281
 <h2 class="app-name" id="app-66e9f326960bb300094251fc"><a href="https://apps.repebble.com/66e9f326960bb300094251fc">OpenMensa</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/jplexer/OpenMensa" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2024-09-17</span> <span title="Latest release in the app store">Updated 2025-11-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2024-09-17</span> <span title="Latest release in the app store">Updated 2025-11-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Your local Mensa, right on your Pebble! Compatible with any Mensa on https://openmensa.org</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jplexer_66d9e31d281
 <h2 class="app-name" id="app-67cccea5b7a023024b214604"><a href="https://apps.rebble.io/en_US/application/67cccea5b7a023024b214604">Discord Companion</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/jplexer/discord-companion" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2025-03-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2025-03-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Requires https://github.com/jplexer/discord-companion running. This is basically a remote for your discord call! Mute, Deafen, whatever! Icons and Design by Lavender</p>
 </div>

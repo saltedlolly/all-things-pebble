@@ -13,7 +13,7 @@ hide:
 
 # MPG13
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mpg13_55493e11d6f29a57700000c9) · [GitHub (MPG13)](https://github.com/MPG13)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mpg13_55493e11d6f29
 <h2 class="app-name" id="app-56f9b1a869581dad78000013"><a href="https://apps.repebble.com/56f9b1a869581dad78000013">Crash Simulator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mpg13/crashface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-28</span> <span title="Latest release in the app store">Updated 2016-03-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-28</span> <span title="Latest release in the app store">Updated 2016-03-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Meant to simulate a crash, this pretends to not be able to load your watch face! No harm is done to your Pebble, 100% guarantee. Also, this doesn&#x27;t tell the time. hehe.</p>
 </div>

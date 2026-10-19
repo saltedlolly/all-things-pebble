@@ -13,7 +13,7 @@ hide:
 
 # Jonathon Lundy
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jonathon-lundy_557f322d71b570794600005b) · [GitHub (jon-lundy)](https://github.com/jon-lundy)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jonathon-lundy_557f
 <h2 class="app-name" id="app-55b6f9731802644be9000023"><a href="https://apps.repebble.com/55b6f9731802644be9000023">Bullets</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jon-lundy/pebble-bullets" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-28</span> <span title="Latest release in the app store">Updated 2015-08-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-28</span> <span title="Latest release in the app store">Updated 2015-08-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">In printed text, a bullet refers to a heavy dot. In this watchface, bullets will show you the time and your battery level. - A different colored bullet for every digit. - Toggle between 12 and 24…</p>
 </div>

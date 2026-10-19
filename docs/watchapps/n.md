@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · **N** · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*43 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*43 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-eccd3b6ffdd2436cbe643201"><a href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201">Nasu</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.5</span></h2>
 <a class="app-source" href="https://github.com/marukitano/Nasu" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marukitano.html" title="More from this developer">marukitano</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Deutsch Nasu ist eine Medikamenten-Erinnerungs-App für die Pebble Time 2 – mit einer kleinen Krankenschwester, die dich auf ihrer Vespa begleitet und daran erinnert, deine Medikamente zu nehmen…</p>
 </div>
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-52c9b69ed088ea378f00000a"><a href="https://apps.repebble.com/52c9b69ed088ea378f00000a">Nearby Specials</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/leejaew/pebble_nearby_specials" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/leejaew.html" title="More from this developer">leejaew</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-05</span> <span title="Latest release in the app store">Updated 2014-01-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-05</span> <span title="Latest release in the app store">Updated 2014-01-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Get Nearby Specials from the nearest venue listed on Foursquare.</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-5579cfbfc8061af31f000051"><a href="https://apps.repebble.com/5579cfbfc8061af31f000051">Neko</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/markbush/pebble-neko" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mark-bush.html" title="More from this developer">Mark Bush</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-11</span> <span title="Latest release in the app store">Updated 2015-06-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-06-11</span> <span title="Latest release in the app store">Updated 2015-06-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Neko, that lovable rascal, is back, and this time, she&#x27;s on your wrist! Tilt the watch to move the mouse and Neko will chase after it. When she catches it, she gets bored and falls asleep. If the…</p>
 </div>
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-5716e62fe0e8f34571000001"><a href="https://apps.repebble.com/5716e62fe0e8f34571000001">News</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nmittu/Pebble-News" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mittudev.html" title="More from this developer">MittuDev</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-20</span> <span title="Latest release in the app store">Updated 2016-04-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-20</span> <span title="Latest release in the app store">Updated 2016-04-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">View most popular news from the New York Times API. -API keys are needed from http://developer.nytimes.com/docs</p>
 </div>
@@ -292,7 +292,7 @@ hide:
 <h2 class="app-name" id="app-600c4b4584db46f18783250e"><a href="https://apps.repebble.com/600c4b4584db46f18783250e">NirvanaHQ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jsexauer/nirvanahq_pebble_app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jason-sexauer.html" title="More from this developer">Jason Sexauer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-15</span> <span title="Latest release in the app store">Updated 2026-05-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-15</span> <span title="Latest release in the app store">Updated 2026-05-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">NirvanaHQ The ultimate Getting Things Done® (GTD) companion for your wrist. Manage your NirvanaHQ tasks right from your Pebble! Designed specifically for the Getting Things Done methodology, this…</p>
 </div>
@@ -303,7 +303,7 @@ hide:
 <h2 class="app-name" id="app-550301bc458f26e1ef00003b"><a href="https://apps.repebble.com/550301bc458f26e1ef00003b">Nivel de Polen en Castilla y León</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/lencorredera/polencyl_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/flag-solutions.html" title="More from this developer">FLAG Solutions</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-13</span> <span title="Latest release in the app store">Updated 2016-01-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-13</span> <span title="Latest release in the app store">Updated 2016-01-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Muestra los niveles de polen actual y previstos para Castilla y León. La información procede del servicio de Datos Abiertos de la Junta de Castilla y León</p>
 </div>
@@ -325,7 +325,7 @@ hide:
 <h2 class="app-name" id="app-548703c6e67af54a04000037"><a href="https://apps.repebble.com/548703c6e67af54a04000037">Noise</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/pahakorolev/pebble_noise" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tech.html" title="More from this developer">Tech</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-09</span> <span title="Latest release in the app store">Updated 2016-02-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-09</span> <span title="Latest release in the app store">Updated 2016-02-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple sample of pebble application which using graphical api</p>
 </div>
@@ -336,7 +336,7 @@ hide:
 <h2 class="app-name" id="app-5688f71d3f3554829f00008a"><a href="https://apps.repebble.com/5688f71d3f3554829f00008a">nordbahn</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/mhutzsch/nrdbhn" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marco-hutzsch.html" title="More from this developer">Marco Hutzsch</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-01-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-01-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">German: Überprüfe die Verspätungen der Nordbahn (www.nordbahn.de), Start Bahnhöfe können ausgewählt werden (Settings auf der pebble App am Handy). Klicke auf &#x27;Select&#x27; um die Angaben zu…</p>
 </div>
@@ -413,7 +413,7 @@ hide:
 <h2 class="app-name" id="app-69c000c26d8fa50009bffa61"><a href="https://apps.rebble.io/en_US/application/69c000c26d8fa50009bffa61">Notification Center</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10</span></h2>
 <a class="app-source" href="https://github.com/matejdro/PebbleNotificationCenter2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matejdro.html" title="More from this developer">matejdro</a> · <a href="https://forum.rebble.io/t/788" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-09-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-09-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A complete replacement app for Pebble notifications with more features and wider customisation. Click &quot;Website Link&quot; below for more information. (Thanks to the LCP for the help with the banner)</p>
 </div>

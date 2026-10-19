@@ -13,7 +13,7 @@ hide:
 
 # danigili
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_1d0816face36d1d60e4c110d) · [GitHub (danigili)](https://github.com/danigili)
 

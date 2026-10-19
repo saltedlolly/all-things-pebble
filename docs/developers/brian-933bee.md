@@ -13,7 +13,7 @@ hide:
 
 # Brian
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55d9e82e69aa1802f70000c7/1) · [GitHub (howcatsjam)](https://github.com/howcatsjam)
 

@@ -13,7 +13,7 @@ hide:
 
 # Simon Jackson
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/simon-jackson_53b089fdb9bff86310000009) · [GitHub (jackokring)](https://github.com/jackokring) · [Website (jackokring.github.io)](http://jackokring.github.io/pebble-sdk-examples/)
 

@@ -13,7 +13,7 @@ hide:
 
 # Alec Harley
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alec-harley_531aa3b0af83c14a12000200) · [GitHub (obja)](https://github.com/obja)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alec-harley_531aa3b
 <h2 class="app-name" id="app-53a3df8b694928250f00015e"><a href="https://apps.repebble.com/53a3df8b694928250f00015e">DeskLights128</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/obja/Desklights128" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-20</span> <span title="Latest release in the app store">Updated 2014-07-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-20</span> <span title="Latest release in the app store">Updated 2014-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Controls a DeskLights 2.0 table with custom commands.</p>
 </div>

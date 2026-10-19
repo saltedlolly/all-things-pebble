@@ -13,19 +13,30 @@ hide:
 
 # Freakified
 
-*4 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/freakified_534d74f861fcaa8033000263) · [Rebble App Store](https://apps.rebble.io/en_US/developer/534d74f861fcaa8033000263/1) · [GitHub (freakified)](https://github.com/freakified)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/freakified_534d74f861fcaa8033000263) · [GitHub (freakified)](https://github.com/freakified)
 
 </div>
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>8</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>4</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>4</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>7</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>4</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="time traveler - world clock" data-released="2026-04-06" data-updated="2026-10-13">
+<a class="app-shot" href="https://apps.repebble.com/50caf7145cc2474da2aaf6cc" data-search-exclude><img src="../images/apps/50caf7145cc2474da2aaf6cc.gif" alt="Time Traveler - World Clock" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-50caf7145cc2474da2aaf6cc"><a href="https://apps.repebble.com/50caf7145cc2474da2aaf6cc">Time Traveler - World Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
+<a class="app-source" href="https://github.com/freakified/time-traveler/" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/836" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-10-13</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Remember the old days, when your digital watch would come preloaded with 49 cities of the world, and a world map prominently displayed on the screen? Wasn&#x27;t it fun to just scroll through all those…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="checklist" data-released="2015-10-16" data-updated="2026-10-07">
 <a class="app-shot" href="https://apps.repebble.com/5620e876768e7ada4e00007a" data-search-exclude><img src="../images/apps/5620e876768e7ada4e00007a.png" alt="Checklist" loading="lazy"></a>
 <div class="app-info">
@@ -68,28 +79,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/freakified_534d74f8
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-15</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Digital. Readable. Completely customizable. *** New for 2026: Full support for Time 2 and Round 2! *** The Timeline handles the past and the future: let TimeStyle handle your present! • Time you…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="time traveler - world clock" data-released="2026-04-06" data-updated="2026-05-22">
-<a class="app-shot" href="https://apps.repebble.com/50caf7145cc2474da2aaf6cc" data-search-exclude><img src="../images/apps/50caf7145cc2474da2aaf6cc.gif" alt="Time Traveler - World Clock" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-50caf7145cc2474da2aaf6cc"><a href="https://apps.repebble.com/50caf7145cc2474da2aaf6cc">Time Traveler - World Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
-<a class="app-source" href="https://github.com/freakified/time-traveler/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-05-22</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Remember the old days, when your digital watch would come preloaded with 49 cities of the world, and a world map prominently displayed on the screen? Wasn&#x27;t it fun to just scroll through all those…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="time traveler" data-released="2026-04-06" data-updated="2026-05-22">
-<a class="app-shot" href="https://apps.rebble.io/en_US/application/69d3a680a6ffe6000a092d42" data-search-exclude><img src="../images/apps/69d3a680a6ffe6000a092d42.png" alt="Time Traveler" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-69d3a680a6ffe6000a092d42"><a href="https://apps.rebble.io/en_US/application/69d3a680a6ffe6000a092d42">Time Traveler</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
-<a class="app-source" href="https://github.com/freakified/time-traveler/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App · <a href="https://forum.rebble.io/t/836" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-05-22</span> <span>Rebble App Store</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Remember the old days, when your digital watch would come preloaded with 49 cities of the world, and a world map prominently displayed on the screen? Wasn&#x27;t it fun to just scroll through all those…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="japanese date &amp; time practice" data-released="2026-04-12" data-updated="2026-04-13">

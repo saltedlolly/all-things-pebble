@@ -13,7 +13,7 @@ hide:
 
 # jpdesigns
 
-*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jpdesigns_531a21865af660f5fd00034f) · [GitHub (dewguzzler)](https://github.com/dewguzzler) · [Website (dewguzzler.github.io)](http://dewguzzler.github.io/)
 

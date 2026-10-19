@@ -13,7 +13,7 @@ hide:
 
 # frogamic
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frogamic_55015e7e7ed24a01d400000c) · [GitHub (frogamic)](https://github.com/frogamic)
 

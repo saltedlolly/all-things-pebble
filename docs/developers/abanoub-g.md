@@ -13,7 +13,7 @@ hide:
 
 # Abanoub G
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/abanoub-g_542b11719224d4a8ef0001d1) · [GitHub (edwinfinch)](https://github.com/edwinfinch)
 

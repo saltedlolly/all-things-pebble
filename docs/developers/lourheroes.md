@@ -13,7 +13,7 @@ hide:
 
 # lourheroes
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5ff3b52a1e6bb11b9eee5c58/1) · [GitHub (lourheroes)](https://github.com/lourheroes)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5ff3b52a1e6bb11
 <h2 class="app-name" id="app-5ff3b52b1e6bb11b9eee5c5a"><a href="https://apps.rebble.io/en_US/application/5ff3b52b1e6bb11b9eee5c5a">Pebblify</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/lourheroes/pebblify" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-01-05</span> <span title="Latest release in the app store">Updated 2021-01-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2021-01-05</span> <span title="Latest release in the app store">Updated 2021-01-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebblify is a full featured Spotify app for your Pebble. Control your Spotify session on any devices, directly from your wrist. Authorize Pebblify to access your Spotify account from the app…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Eli Spiro
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eli-spiro_52e6722f92c527f41a000030) · [GitHub (espire)](https://github.com/espire)
 

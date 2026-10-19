@@ -13,7 +13,7 @@ hide:
 
 # Liam Friel
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/liam-friel_573f71028ca543f135000015) · [GitHub (liamf)](https://github.com/liamf)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/liam-friel_573f7102
 <h2 class="app-name" id="app-583231338c7ffffa9800011d"><a href="https://apps.repebble.com/583231338c7ffffa9800011d">Fuzzy Irish Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/liamf/fuzzytime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-20</span> <span title="Latest release in the app store">Updated 2016-11-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-20</span> <span title="Latest release in the app store">Updated 2016-11-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Tells the time in Hiberno-English</p>
 </div>

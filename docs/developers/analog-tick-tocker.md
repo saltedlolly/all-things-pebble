@@ -13,7 +13,7 @@ hide:
 
 # Analog Tick-Tocker
 
-*4 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_eb6b6dc4dbd64c7c7ea32a94) · [GitHub (meded90)](https://github.com/meded90) · [Website (instagram.com)](https://www.instagram.com/tekilla_art)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_
 <h2 class="app-name" id="app-d2ccde5d2187490085b44f8e"><a href="https://apps.repebble.com/d2ccde5d2187490085b44f8e">Mosaic Grid</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Mosaic Grid turns the Pebble Time 2 display into a compact modernist poster. A smooth launch animation builds the grid from a red canvas: the time panel slides in from the left, then the lower…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_
 <h2 class="app-name" id="app-7ffae9b84d714b9882f7a40f"><a href="https://apps.repebble.com/7ffae9b84d714b9882f7a40f">Find My iPhone</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.4</span></h2>
 <a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces/tree/main/find-my-iphone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Ring your iPhone directly from Pebble Time 2. Open the watch app, select an iPhone with the Up and Down buttons, then hold Select for 650 ms to send the sound command. The app runs through Pebble…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_
 <h2 class="app-name" id="app-27f48d86803e471a83b93dfe"><a href="https://apps.repebble.com/27f48d86803e471a83b93dfe">Codex Weekly</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.11</span></h2>
 <a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Codex Weekly places an oversized pixel clock above your remaining weekly Codex quota, reset countdown, and a GitHub-style 12-week personal usage heatmap. Data syncs through a private local bridge…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_
 <h2 class="app-name" id="app-a1c61f1227144535accbf53c"><a href="https://apps.repebble.com/a1c61f1227144535accbf53c">Zodiac: Gemini</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces/tree/main/zodiac-gemini" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-11</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-11</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Zodiac: Gemini pairs a vivid twin portrait with large, rounded black numerals designed for the 200×228 Pebble Time 2 display. Hours and minutes are stacked in the upper-left corner without a frame…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_
 <h2 class="app-name" id="app-d9b87c9f10a74d718db82b06"><a href="https://apps.repebble.com/d9b87c9f10a74d718db82b06">Flip Board</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
 <a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces/tree/main/flip-board" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-08-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-08-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A mechanical-style pixel flip clock with animated digits, date and battery.</p>
 </div>

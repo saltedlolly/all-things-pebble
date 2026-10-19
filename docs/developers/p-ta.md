@@ -13,7 +13,7 @@ hide:
 
 # P-ta
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5c73e4c559a745000118875f/1) · [GitHub (p-ta)](https://github.com/p-ta)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5c73e4c559a7450
 <h2 class="app-name" id="app-68740a7365207500093d5a9f"><a href="https://apps.rebble.io/en_US/application/68740a7365207500093d5a9f">Skagen</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/p-ta/Skagen_Pebble_Watchface.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-07-13</span> <span title="Latest release in the app store">Updated 2025-07-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-07-13</span> <span title="Latest release in the app store">Updated 2025-07-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A simple watch face like the one from the Skagen Falster series. With time, date, weather, battery, and phone battery. And Stepmeter to 10000.</p>
 </div>

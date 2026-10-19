@@ -13,7 +13,7 @@ hide:
 
 # hiddej2
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hiddej2_67ccd58b3d8dd90009b16f2a) · [GitHub (hiddej2)](https://github.com/hiddej2)
 

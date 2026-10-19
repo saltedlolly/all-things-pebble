@@ -13,7 +13,7 @@ hide:
 
 # Nicoplv
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicoplv_542a54bff96784ad2a00004b) · [GitHub (nicoplv)](https://github.com/nicoplv)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicoplv_542a54bff96
 <h2 class="app-name" id="app-542d22099e034a9542000193"><a href="https://apps.repebble.com/542d22099e034a9542000193">Minimalist Text Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/nicoplv/minimalist-text-watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-02</span> <span title="Latest release in the app store">Updated 2014-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-02</span> <span title="Latest release in the app store">Updated 2014-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A minimalist text watchface with time, date and battery display</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicoplv_542a54bff96
 <h2 class="app-name" id="app-5430e9adec1644f8b70000de"><a href="https://apps.repebble.com/5430e9adec1644f8b70000de">Shifumi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nicoplv/shifumi-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-05</span> <span title="Latest release in the app store">Updated 2014-10-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-05</span> <span title="Latest release in the app store">Updated 2014-10-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple shifumi game for pebble Use Up, Select and Down buttons to select your choice, and shake your wrist to show the selection to your opponent.</p>
 </div>

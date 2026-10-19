@@ -13,7 +13,7 @@ hide:
 
 # Pantelis Christofi
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pantelis-christofi_531ae13caf83c1bfbb0002fd) · [GitHub (oranjepig)](https://github.com/oranjepig)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pantelis-christofi_
 <h2 class="app-name" id="app-5370944873825a03f20000bd"><a href="https://apps.repebble.com/5370944873825a03f20000bd">Greek Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/oranjepig/GreekFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-12</span> <span title="Latest release in the app store">Updated 2014-05-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-05-12</span> <span title="Latest release in the app store">Updated 2014-05-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Tells the time in Greek! A first attempt at a text watch working around the unicode limitations. Based on the default text watchface. This is the very first version, please provide your feedback!</p>
 </div>

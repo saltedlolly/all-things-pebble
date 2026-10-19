@@ -13,7 +13,7 @@ hide:
 
 # Kaneti
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kaneti_5312152e6c80b1643c00030a) · [GitHub (kalugny)](https://github.com/kalugny)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kaneti_5312152e6c80
 <h2 class="app-name" id="app-53307d6b508fcc814700026d"><a href="https://apps.repebble.com/53307d6b508fcc814700026d">Hebrew Text Time Display</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/kalugny/heb-text-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-24</span> <span title="Latest release in the app store">Updated 2014-03-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-03-24</span> <span title="Latest release in the app store">Updated 2014-03-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a simple text description of the time - in Hebrew. (for firmware 1.x - kalugny, adjustments for 2.x - kaneti)</p>
 </div>

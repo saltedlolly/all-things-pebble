@@ -13,7 +13,7 @@ hide:
 
 # High Panda
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/high-panda_55f757969020d6ea05000016) · [GitHub (mikea)](https://github.com/mikea)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/high-panda_55f75796
 <h2 class="app-name" id="app-57f1dc9405e4b1be61000122"><a href="https://apps.repebble.com/57f1dc9405e4b1be61000122">Today Is</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/mikea/pebble-current-date-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-03</span> <span title="Latest release in the app store">Updated 2016-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-03</span> <span title="Latest release in the app store">Updated 2016-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Current date at a glance and in the app. Configurable formats.</p>
 </div>

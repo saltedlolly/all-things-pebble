@@ -13,7 +13,7 @@ hide:
 
 # Øyvind Kvangardsnes
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yvind-kvangardsnes_9c8b7e90c261a8055961c2ef) · [GitHub (kvangaball)](https://github.com/kvangaball)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yvind-kvangardsnes_
 <h2 class="app-name" id="app-99ff53f1e5474a2686e66ac7"><a href="https://apps.repebble.com/99ff53f1e5474a2686e66ac7">Step Forest</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.3</span></h2>
 <a class="app-source" href="https://github.com/kvangaball/aforestofsteps" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-01</span> <span title="Latest release in the app store">Updated 2026-06-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-01</span> <span title="Latest release in the app store">Updated 2026-06-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A landscape with trees where you get more trees based on your step count</p>
 </div>

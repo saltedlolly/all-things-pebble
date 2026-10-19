@@ -13,7 +13,7 @@ hide:
 
 # Rebble
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/603aa992cee2f013540a42bb/1) · [GitHub (pebble-dev)](https://github.com/pebble-dev) · [Website (bobby.rebble.io)](https://bobby.rebble.io)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/603aa992cee2f01
 <h2 class="app-name" id="app-67c3afe7d2acb30009a3c7c2"><a href="https://apps.rebble.io/en_US/application/67c3afe7d2acb30009a3c7c2">Bobby</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/pebble-dev/bobby-assistant" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/111" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-02</span> <span title="Latest release in the app store">Updated 2026-05-01</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2025-03-02</span> <span title="Latest release in the app store">Updated 2026-05-01</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Bobby is a new voice assistant for Pebble, powered by large language models. Bobby can: - Answer questions about general knowledge - Do calculations for you - Tell you the weather - Set timers and…</p>
 </div>

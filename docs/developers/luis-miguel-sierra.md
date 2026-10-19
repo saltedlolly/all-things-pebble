@@ -13,7 +13,7 @@ hide:
 
 # Luis Miguel Sierra
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/luis-miguel-sierra_532ec3204e66a6500300012d) · [GitHub (lmsierra)](https://github.com/lmsierra)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/luis-miguel-sierra_
 <h2 class="app-name" id="app-533ffab3b8a7e587d2000322"><a href="https://apps.repebble.com/533ffab3b8a7e587d2000322">Halo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/lmsierra/Halo-Watchface/tree/master" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-05</span> <span title="Latest release in the app store">Updated 2015-01-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-05</span> <span title="Latest release in the app store">Updated 2015-01-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Halo watchface (Halo logo and font) with bluetooth connection, battery state (image and percentage), time (24 hours), day and month. Bluetooth image not visible while it is not connected. Invert…</p>
 </div>

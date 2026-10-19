@@ -13,7 +13,7 @@ hide:
 
 # IniPage Software
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/inipage-software_53a1e088d130a4d1cf000094) · [GitHub (maclyn)](https://github.com/maclyn)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/inipage-software_53
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="teensy city" data-released="2026-07-12" data-updated="2026-07-12">
+<div class="app-card" data-type="watchface" data-title="teensy city" data-released="2026-07-12" data-updated="2026-10-13">
 <a class="app-shot" href="https://apps.repebble.com/54b31c54663d4f4f8daaad6d" data-search-exclude><img src="../images/apps/54b31c54663d4f4f8daaad6d.png" alt="Teensy City" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54b31c54663d4f4f8daaad6d"><a href="https://apps.repebble.com/54b31c54663d4f4f8daaad6d">Teensy City</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5.1</span></h2>
+<h2 class="app-name" id="app-54b31c54663d4f4f8daaad6d"><a href="https://apps.repebble.com/54b31c54663d4f4f8daaad6d">Teensy City</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5.2</span></h2>
 <a class="app-source" href="https://github.com/maclyn/proc-gen-city-wf-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-10-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A real-time procedurally generated cityscape with animated traffic and water. * Three times of day (day, night, dawn/dusk) based on your current location * Current weather indicator with…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/inipage-software_53
 <h2 class="app-name" id="app-546c09e80b356e51bb000040"><a href="https://apps.repebble.com/546c09e80b356e51bb000040">HexaTransit</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.1</span></h2>
 <a class="app-source" href="https://github.com/maclyn/hexatransit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-19</span> <span title="Latest release in the app store">Updated 2026-07-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-11-19</span> <span title="Latest release in the app store">Updated 2026-07-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface with optional hexadecimal time presentation where the numbers move across the screen, leaving ghosts in their wake. Shows the date in hex as well, along with the seconds as lines…</p>
 </div>

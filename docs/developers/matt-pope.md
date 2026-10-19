@@ -13,7 +13,7 @@ hide:
 
 # Matt Pope
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5678b92c0ffe0467d6000075/1) · [GitHub (kaypro4)](https://github.com/kaypro4)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5678b92c0ffe046
 <h2 class="app-name" id="app-5b1d5c07fbaf9a36ee0001f3"><a href="https://apps.rebble.io/en_US/application/5b1d5c07fbaf9a36ee0001f3">Frankie G</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/kaypro4/frankieg" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-06-10</span> <span title="Latest release in the app store">Updated 2018-06-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2018-06-10</span> <span title="Latest release in the app store">Updated 2018-06-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">A Pebble Watchface app to replicate my beloved Frank Gehry Fossil watch on my Pebble. Tells time in a format like &quot;half past midnight&quot; and &quot;16 til 8&quot;.</p>
 </div>

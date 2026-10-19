@@ -13,7 +13,7 @@ hide:
 
 # iginoc
 
-*2 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iginoc_b831c2f23c283d5eb0ca1134) · [GitHub (iginoc)](https://github.com/iginoc)
 

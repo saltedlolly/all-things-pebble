@@ -13,7 +13,7 @@ hide:
 
 # Fingalo
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fingalo_538888906ef2f2762300012b) · [GitHub (fingalo)](https://github.com/fingalo)
 

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · **T** · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*158 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*158 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-532611eadac14132e900003f"><a href="https://apps.repebble.com/532611eadac14132e900003f">Tabata Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/nalcire/pebble_tabata_timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nalcire.html" title="More from this developer">nalcire</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-16</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-03-16</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple configurable high-intensity interval training timer for Pebble. up - start/pause timer select - configure timer down - reset timer</p>
 </div>
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-56899e10142c4f815500002b"><a href="https://apps.repebble.com/56899e10142c4f815500002b">TabiTabi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/jrmobley/pebble-wanikani-tabitabi" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jr-mobley.html" title="More from this developer">JR Mobley</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-02-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-02-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Keep track of your WaniKani review schedule on your Pebble timeline. WaniKani (https://www.wanakani.com) is an awesome Japanese Kanji learning website, and this app will help you keep up with your…</p>
 </div>
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-57c180145e3c3ddfb8000236"><a href="https://apps.repebble.com/57c180145e3c3ddfb8000236">Table Tennis</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/nippysaurus/table_tennis" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nippysaurus.html" title="More from this developer">nippysaurus</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-27</span> <span title="Latest release in the app store">Updated 2016-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-08-27</span> <span title="Latest release in the app store">Updated 2016-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Track your table tennis scoring during play. Features: - Play to 11 or 21. - Overtime serving rules (when game reaches 10:10 or 20:20). - Choose vibration options for player serve, serve change…</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-5996b590bda6450585ae6a6c"><a href="https://apps.repebble.com/5996b590bda6450585ae6a6c">Tandoor Recipes Shopping List</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.3</span></h2>
 <a class="app-source" href="https://github.com/philipreinken/pebble-tandoor-list" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/philip-reinken.html" title="More from this developer">Philip Reinken</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Check your tandoor recipes shopping list on the go 📝 This app connects to a Tandoor instance, loads the current shopping list, and lets you mark items as checked directly from your Pebble watch.</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-56bcec5ea4f2533892000021"><a href="https://apps.repebble.com/56bcec5ea4f2533892000021">Tea&#x27;s Ready</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8</span></h2>
 <a class="app-source" href="https://github.com/leomike/tea" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/leomike-hebert.html" title="More from this developer">Léomike Hébert</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-11</span> <span title="Latest release in the app store">Updated 2016-02-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-11</span> <span title="Latest release in the app store">Updated 2016-02-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Ever forgot to take the tea bag out of your cup? Wondered what temperature the water should be at for green tea? What is the recommended steeping time for rooibos tea? Well this is your day, I…</p>
 </div>
@@ -292,7 +292,7 @@ hide:
 <h2 class="app-name" id="app-556b6580e42ea406d8000049"><a href="https://apps.repebble.com/556b6580e42ea406d8000049">Techinc State</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mattronix/pebble-techinc-app/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matthew-frost.html" title="More from this developer">Matthew Frost</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-31</span> <span title="Latest release in the app store">Updated 2015-05-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-31</span> <span title="Latest release in the app store">Updated 2015-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app was made to show if the Amsterdam Hackerspace Techinc is open or closed.</p>
 </div>
@@ -311,12 +311,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/64c41a2069e54ac7a980478c" data-search-exclude><img src="../images/apps/64c41a2069e54ac7a980478c.png" alt="Telegram Voice" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-64c41a2069e54ac7a980478c"><a href="https://apps.repebble.com/64c41a2069e54ac7a980478c">Telegram Voice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-64c41a2069e54ac7a980478c"><a href="https://apps.repebble.com/64c41a2069e54ac7a980478c">Telegram Voice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/altarr/pebble-telegram-voice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/altarr.html" title="More from this developer">altarr</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Use your Pebble watch to speak to your Telegram bot. Press SELECT, say what&#x27;s on your mind, and read your bot&#x27;s reply on your wrist. Connect your own compatible AI assistant or automation bot for…</p>
+<p class="app-desc">Use your Pebble watch to speak to your Telegram bot. Press SELECT, speak, and read your bot&#x27;s reply on your wrist. Connect your own compatible AI assistant or automation bot for questions, notes…</p>
 </div>
 </div>
 <div class="app-card">
@@ -325,7 +325,7 @@ hide:
 <h2 class="app-name" id="app-52cc1a8c45ffdd84b5000146"><a href="https://apps.repebble.com/52cc1a8c45ffdd84b5000146">Telldus Live!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/mickeprag/telldus-live-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/micke-prag.html" title="More from this developer">Micke Prag</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2014-01-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2014-01-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble app for connecting to Telldus Live! Control you lights and appliances from your wrist.</p>
 </div>
@@ -424,7 +424,7 @@ hide:
 <h2 class="app-name" id="app-6a3cc9bccd52370009f40d2d"><a href="https://apps.rebble.io/en_US/application/6a3cc9bccd52370009f40d2d">Text Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/matejdro/PebbleTextSync" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matejdro.html" title="More from this developer">matejdro</a> · <a href="https://forum.rebble.io/t/1083" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-08-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-08-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Show your text/markdown files on the watch. Click &quot;Website Link&quot; below for more information.</p>
 </div>
@@ -446,7 +446,7 @@ hide:
 <h2 class="app-name" id="app-87f0ec7418924c2aa843a159"><a href="https://apps.repebble.com/87f0ec7418924c2aa843a159">tg</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/nick1udwig/tg-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nick1udwig.html" title="More from this developer">nick1udwig</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-16</span> <span title="Latest release in the app store">Updated 2026-07-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-16</span> <span title="Latest release in the app store">Updated 2026-07-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Telegram interface for Pebble (unofficial). Read your messages and send with dictation. Message your friends -- or your OpenClaw -- all from your Pebble!</p>
 </div>
@@ -512,7 +512,7 @@ hide:
 <h2 class="app-name" id="app-5420cf45a2bee9baf7000021"><a href="https://apps.repebble.com/5420cf45a2bee9baf7000021">ThermoPebbleStat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jose-troche/PebbleThermostatSetter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jose-troche.html" title="More from this developer">Jose Troche</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-23</span> <span title="Latest release in the app store">Updated 2014-09-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-09-23</span> <span title="Latest release in the app store">Updated 2014-09-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watch application to set the temperature of multiple thermostats.</p>
 </div>
@@ -633,7 +633,7 @@ hide:
 <h2 class="app-name" id="app-21194297071144f9a9b946b1"><a href="https://apps.repebble.com/21194297071144f9a9b946b1">TickTick Timeline</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/pascaloon/TickTickTimeline" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pascaloon.html" title="More from this developer">pascaloon</a> · <a href="https://forum.rebble.io/t/1273" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-23</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-23</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Unofficial TickTick integration for the Pebble Watch. This app is not affiliated with the official TickTick team. This is a community project because I love Pebble and I love TickTick! Key…</p>
 </div>
@@ -644,7 +644,7 @@ hide:
 <h2 class="app-name" id="app-530e9f7f306a45f5bc00003f"><a href="https://apps.repebble.com/530e9f7f306a45f5bc00003f">Tide Aware</a> <span class="app-version" title="Latest version" data-search-exclude>v3.11</span></h2>
 <a class="app-source" href="https://github.com/md100play/PebbleTides-WatchApp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mike-dombrowski.html" title="More from this developer">Mike Dombrowski</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-27</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-02-27</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">**US Only** Tide Aware is the incredibly simple way to check the closest tides based on GPS, ZIP Codes, or city and state input by the user through the Pebble configuration feature. Now includes…</p>
 </div>
@@ -655,7 +655,7 @@ hide:
 <h2 class="app-name" id="app-5360443e43c553e46a000023"><a href="https://apps.repebble.com/5360443e43c553e46a000023">Tide Aware (Non-US)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11</span></h2>
 <a class="app-source" href="https://github.com/md100play/PebbleTides-Non-US" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mike-dombrowski.html" title="More from this developer">Mike Dombrowski</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-30</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-04-30</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Tide Aware now supports thousands of locations outside of the US. Tide Aware is the incredibly simple way to check the closest tides based on locations input by the user through the Pebble…</p>
 </div>
@@ -663,10 +663,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5dd24e3290e8451781d0df7c" data-search-exclude><img src="../images/apps/5dd24e3290e8451781d0df7c.png" alt="TidePebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5dd24e3290e8451781d0df7c"><a href="https://apps.repebble.com/5dd24e3290e8451781d0df7c">TidePebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-5dd24e3290e8451781d0df7c"><a href="https://apps.repebble.com/5dd24e3290e8451781d0df7c">TidePebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/gordonbazeley/tidepebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/modusapps.html" title="More from this developer">ModusApps</a> · <a href="https://forum.rebble.io/t/1079" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-23</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-23</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">TidePebble puts the local tide forecast on your wrist. It uses your phone’s location to find the nearest available marine forecast and displays the next 24 hours as a clear tide-height chart on…</p>
 </div>
@@ -721,7 +721,7 @@ hide:
 <h2 class="app-name" id="app-552d0cb20835233ebf00000d"><a href="https://apps.repebble.com/552d0cb20835233ebf00000d">Time To Feierabend</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/njesse/TimeToFeierabend" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/niesse.html" title="More from this developer">niesse</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-14</span> <span title="Latest release in the app store">Updated 2017-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-14</span> <span title="Latest release in the app store">Updated 2017-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Deutsch: Die App zeigt die relevanten Uhrzeiten entsprechend dem deutschen Arbeitszeitgesetz an. Dazu gehören Arbeitsbeginn, Arbeitsende, eine 30 Minuten Pause nach 6h, eine 15 Minuten Pause nach…</p>
 </div>
@@ -738,23 +738,12 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.rebble.io/en_US/application/69d3a680a6ffe6000a092d42" data-search-exclude><img src="../images/apps/69d3a680a6ffe6000a092d42.png" alt="Time Traveler" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-69d3a680a6ffe6000a092d42"><a href="https://apps.rebble.io/en_US/application/69d3a680a6ffe6000a092d42">Time Traveler</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
-<a class="app-source" href="https://github.com/freakified/time-traveler/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/freakified.html" title="More from this developer">Freakified</a> · <a href="https://forum.rebble.io/t/836" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-05-22</span> <span>Rebble App Store</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Remember the old days, when your digital watch would come preloaded with 49 cities of the world, and a world map prominently displayed on the screen? Wasn&#x27;t it fun to just scroll through all those…</p>
-</div>
-</div>
-<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/50caf7145cc2474da2aaf6cc" data-search-exclude><img src="../images/apps/50caf7145cc2474da2aaf6cc.gif" alt="Time Traveler - World Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-50caf7145cc2474da2aaf6cc"><a href="https://apps.repebble.com/50caf7145cc2474da2aaf6cc">Time Traveler - World Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
+<h2 class="app-name" id="app-50caf7145cc2474da2aaf6cc"><a href="https://apps.repebble.com/50caf7145cc2474da2aaf6cc">Time Traveler - World Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/freakified/time-traveler/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/freakified.html" title="More from this developer">Freakified</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-05-22</span></div>
+<div class="app-dev">by <a href="../developers/freakified.html" title="More from this developer">Freakified</a> · <a href="https://forum.rebble.io/t/836" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-10-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Remember the old days, when your digital watch would come preloaded with 49 cities of the world, and a world map prominently displayed on the screen? Wasn&#x27;t it fun to just scroll through all those…</p>
 </div>
@@ -798,7 +787,7 @@ hide:
 <h2 class="app-name" id="app-52cded9b279716a25400001f"><a href="https://apps.repebble.com/52cded9b279716a25400001f">timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mpwh/pebble-stopwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mpwh.html" title="More from this developer">mpwh</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-09</span> <span title="Latest release in the app store">Updated 2014-01-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-09</span> <span title="Latest release in the app store">Updated 2014-01-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">simple stopwatch</p>
 </div>
@@ -809,7 +798,7 @@ hide:
 <h2 class="app-name" id="app-8b210e928160473495d2fc80"><a href="https://apps.repebble.com/8b210e928160473495d2fc80">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/nichols-t/timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nichols-t.html" title="More from this developer">nichols-t</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-09</span> <span title="Latest release in the app store">Updated 2026-05-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-09</span> <span title="Latest release in the app store">Updated 2026-05-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A minimal timer application inspired by physical rotational timers.</p>
 </div>
@@ -823,6 +812,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-28</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble&#x27;s first official timer! Set up to eight different timers and watch them run down. Timers longer than fifteen minutes also push a pin to your timeline.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/6ad237457779df00097701d0" data-search-exclude><img src="../images/apps/6ad237457779df00097701d0.png" alt="Timer" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6ad237457779df00097701d0"><a href="https://apps.rebble.io/en_US/application/6ad237457779df00097701d0">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v0.12.0</span></h2>
+<a class="app-source" href="https://github.com/strohbinsky/pebble-timer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/str-o.html" title="More from this developer">STR_O</a> · <a href="https://forum.rebble.io/t/1437" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-16</span> <span title="Latest release in the app store">Updated 2026-10-16</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A fun Timer and Stopwatch with an animated Sky Diver. Alternative and a bit more serious skin available in the menu.</p>
 </div>
 </div>
 <div class="app-card">
@@ -886,7 +886,7 @@ hide:
 <h2 class="app-name" id="app-651226388f4f4e8989e1f1f2"><a href="https://apps.repebble.com/651226388f4f4e8989e1f1f2">TimeReader</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/magnetz/timereader-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/magnetz.html" title="More from this developer">Magnetz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-27</span> <span title="Latest release in the app store">Updated 2026-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-27</span> <span title="Latest release in the app store">Updated 2026-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Reading stopwatch: time each session, track pages/hour and ETA.</p>
 </div>
@@ -941,7 +941,7 @@ hide:
 <h2 class="app-name" id="app-562a89497480835e51000090"><a href="https://apps.repebble.com/562a89497480835e51000090">Timetable Pusher</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/kz/timetable-pusher-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thepurplek.html" title="More from this developer">ThePurpleK</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2018-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2018-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Push your class timetable to your timeline with Timetable Pusher. Simply visit https://timetablepush.me/, enter your timetables, install the app and get started! Questions? Reach out to me at…</p>
 </div>
@@ -974,7 +974,7 @@ hide:
 <h2 class="app-name" id="app-68c60a4e361d4900088efa99"><a href="https://apps.rebble.io/en_US/application/68c60a4e361d4900088efa99">Timezone Traveler</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/kinncj/pebble-traveler" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/kinncj.html" title="More from this developer">kinncj</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-09-14</span> <span title="Latest release in the app store">Updated 2025-09-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-09-14</span> <span title="Latest release in the app store">Updated 2025-09-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A clean and modern GMT watch face with simple functionality. Tap to seamlessly switch between your configured time zones. More details at http://github.com/kinncj/pebble-traveler. PS: Looking for…</p>
 </div>
@@ -1106,7 +1106,7 @@ hide:
 <h2 class="app-name" id="app-55ca3971688a90d0850000a9"><a href="https://apps.repebble.com/55ca3971688a90d0850000a9">TipCalc</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/joseph-roque/tip-calc" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/joseph-roque.html" title="More from this developer">Joseph Roque</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-11</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-11</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Quickly calculate the tip on your bill based on the quality of service you feel you received! Between great, average, and poor service, the values you define are saved for when you come back so…</p>
 </div>
@@ -1128,7 +1128,7 @@ hide:
 <h2 class="app-name" id="app-57f1dc9405e4b1be61000122"><a href="https://apps.repebble.com/57f1dc9405e4b1be61000122">Today Is</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/mikea/pebble-current-date-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/high-panda.html" title="More from this developer">High Panda</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-03</span> <span title="Latest release in the app store">Updated 2016-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-03</span> <span title="Latest release in the app store">Updated 2016-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Current date at a glance and in the app. Configurable formats.</p>
 </div>
@@ -1139,7 +1139,7 @@ hide:
 <h2 class="app-name" id="app-5674333b1caa14bc3500003e"><a href="https://apps.repebble.com/5674333b1caa14bc3500003e">ToDoIt</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/michalkow/pebble-ToDoIt" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/michal-kowalkowski.html" title="More from this developer">Michal Kowalkowski</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-18</span> <span title="Latest release in the app store">Updated 2015-12-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-18</span> <span title="Latest release in the app store">Updated 2015-12-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">ToDoIt is a a checklist app with daily reminders. You can customize few times a day, when you want to be reminded about planned tasks. You can use voice to add new tasks. Easily track what you…</p>
 </div>
@@ -1161,7 +1161,7 @@ hide:
 <h2 class="app-name" id="app-568addb26518afb63600002a"><a href="https://apps.repebble.com/568addb26518afb63600002a">Toll Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mehmetakalin/Toll-Tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/animadverto.html" title="More from this developer">animadverto</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Toll Tracking prototype app for bridges over the Bosphorus sea in Turkey https://en.wikipedia.org/wiki/Category:Bridges_in_Istanbul</p>
 </div>
@@ -1227,7 +1227,7 @@ hide:
 <h2 class="app-name" id="app-54c9beb965fbc10a9e0000aa"><a href="https://apps.repebble.com/54c9beb965fbc10a9e0000aa">ToothTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mlv/ToothTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mlv.html" title="More from this developer">mlv</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-29</span> <span title="Latest release in the app store">Updated 2015-03-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-01-29</span> <span title="Latest release in the app store">Updated 2015-03-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Timer that times (in 15 second intervals per section of the mouth) the brushing of teeth.</p>
 </div>
@@ -1271,7 +1271,7 @@ hide:
 <h2 class="app-name" id="app-b4eb7f620ba64bc6b7c56e02"><a href="https://apps.repebble.com/b4eb7f620ba64bc6b7c56e02">Toroidal Tic-Tac-Toe</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/lynxmonkey/Tic-Tac-Tor_Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/quartz-clocksmith.html" title="More from this developer">Quartz Clocksmith</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round</div>
 <p class="app-desc">tic-tac-toe game, but on a 3D torus. A very simple game where every box is a center and the edges all wrap around.</p>
 </div>
@@ -1403,7 +1403,7 @@ hide:
 <h2 class="app-name" id="app-56bf7fac7711eec73f00002b"><a href="https://apps.repebble.com/56bf7fac7711eec73f00002b">Tracks for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/modrzew/tracks-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tomasz-modrzynski.html" title="More from this developer">Tomasz Modrzyński</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Unofficial client application for Tracks - an excellent Getting Things Done implementation. What it does: - displays list of active todos, together with due dates, - toggles between done and…</p>
 </div>
@@ -1447,7 +1447,7 @@ hide:
 <h2 class="app-name" id="app-ee2719042ba540b9a8b48408"><a href="https://apps.repebble.com/ee2719042ba540b9a8b48408">Training Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/krisgesling/pebble-training-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/kris-gesling.html" title="More from this developer">Kris Gesling</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">app for running kids soccer training sessions. Build a session plan on your phone, then work through it on your wrist - activity by activity, with countdown timers, haptic alerts, and on-the-fly…</p>
 </div>
@@ -1700,7 +1700,7 @@ hide:
 <h2 class="app-name" id="app-3c13fa7a4d7144ae98bba3c6"><a href="https://apps.repebble.com/3c13fa7a4d7144ae98bba3c6">Twebble for Twitch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/outadoc/pebble-twitch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/outadoc.html" title="More from this developer">outadoc</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-04-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-04-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Twebble is a Pebble app to see what the streamers you follow are currently playing on Twitch!</p>
 </div>
@@ -1711,7 +1711,7 @@ hide:
 <h2 class="app-name" id="app-5620481225ef793e5a00001a"><a href="https://apps.repebble.com/5620481225ef793e5a00001a">Twibble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/navies/Twibble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/e-poon-i-gollish.html" title="More from this developer">E. Poon &amp; I. Gollish</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-16</span> <span title="Latest release in the app store">Updated 2016-11-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Zlib</span> <span title="First published in the app store">Released 2015-10-16</span> <span title="Latest release in the app store">Updated 2016-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Keep up to all your favorite streamers with Twibble, the Twitch Pebble app! Features include: - Checking which of your followed streamers is online by signing in through app settings on your phone…</p>
 </div>
@@ -1733,7 +1733,7 @@ hide:
 <h2 class="app-name" id="app-6a4ad2f55118a30009e22787"><a href="https://apps.repebble.com/6a4ad2f55118a30009e22787">Twist It!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/nubbybubby/pebble-twist-it" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nubbybubby.html" title="More from this developer">nubbybubby</a> · <a href="https://forum.rebble.io/t/1123" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-05</span> <span title="Latest release in the app store">Updated 2026-08-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-05</span> <span title="Latest release in the app store">Updated 2026-08-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">bop it twist it pull it pull it bop it clone that uses the speaker controls: up: twist (volume up if the game isn&#x27;t active) select: bop down: pull (volume down if the game isn&#x27;t active) touch…</p>
 </div>

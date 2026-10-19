@@ -13,7 +13,7 @@ hide:
 
 # James Flores
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-flores_542de1100be493acb500002d) · [GitHub (jamesflores)](https://github.com/jamesflores)
 

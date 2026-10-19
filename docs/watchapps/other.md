@@ -8,16 +8,16 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · **0–9 & other**
 
-*21 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*21 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6719b421d889454cb28ac745" data-search-exclude><img src="../images/apps/6719b421d889454cb28ac745.png" alt="(P)ermes" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6719b421d889454cb28ac745"><a href="https://apps.repebble.com/6719b421d889454cb28ac745">(P)ermes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<h2 class="app-name" id="app-6719b421d889454cb28ac745"><a href="https://apps.repebble.com/6719b421d889454cb28ac745">(P)ermes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/kumekay/pblpg" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sergei-silnov.html" title="More from this developer">Sergei Silnov</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-10-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Talk to your self-hosted Hermes agent from your Pebble.</p>
 </div>
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-6df87b64b7174448a065ef54"><a href="https://apps.repebble.com/6df87b64b7174448a065ef54">2048 Touch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/lanrat/pebble-2048-touch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vorsk.html" title="More from this developer">vorsk</a> · <a href="https://forum.rebble.io/t/973" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Play the classic 2048 sliding-tile puzzle on your Pebble. Combine matching numbered tiles to add them together and work your way up to the 2048 tile — and beyond. Swipe to move on touch-capable…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-557c61814923dd2fc0000051"><a href="https://apps.repebble.com/557c61814923dd2fc0000051">2Day App</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mephissto/2day-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mephissto.html" title="More from this developer">mephissto</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-13</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-06-13</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple app that display the current day of the weak, day of the month and the month. Sometimes I use a watchface that don&#x27;t have the day of the week or the month, and when you need this…</p>
 </div>
@@ -94,7 +94,7 @@ hide:
 <h2 class="app-name" id="app-564a3d7a406ba6596c00007e"><a href="https://apps.repebble.com/564a3d7a406ba6596c00007e">2Day App Light</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mephissto/2day-app-light" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mephissto.html" title="More from this developer">mephissto</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-16</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-16</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">2Day Appl with light color</p>
 </div>
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-6891dd78069d3e0009f9f825"><a href="https://apps.repebble.com/6891dd78069d3e0009f9f825">5/3/1 Training</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/louwers/531-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/bart-fcf23e.html" title="More from this developer">Bart</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-08-05</span> <span title="Latest release in the app store">Updated 2025-08-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2025-08-05</span> <span title="Latest release in the app store">Updated 2025-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Calculates weights and sets based on Jim Wendler&#x27;s 5/3/1 barbell training program so your next lifts are always available right on your wrist.</p>
 </div>
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-58ec86dd6ca3872acd0005d2"><a href="https://apps.rebble.io/en_US/application/58ec86dd6ca3872acd0005d2">Шепот</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2-rbl1</span></h2>
 <a class="app-source" href="https://github.com/kaist/shepot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/igor-zalomskij.html" title="More from this developer">Igor Zalomskij</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-04-11</span> <span title="Latest release in the app store">Updated 2019-07-24</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2017-04-11</span> <span title="Latest release in the app store">Updated 2019-07-24</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">The application only in Russian language! Делайте заметки и напоминания голосом на ваших pebble на русском языке. Приложение понимает фразы: Напомни (запомни, джарвис) через час (20 минут, 2 часа)…</p>
 </div>
@@ -215,7 +215,7 @@ hide:
 <h2 class="app-name" id="app-550da15ead788c5858000012"><a href="https://apps.rebble.io/en_US/application/550da15ead788c5858000012">今日美剧</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/legendtired/PebbleATS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/legend.html" title="More from this developer">legend</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-21</span> <span title="Latest release in the app store">Updated 2015-03-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-21</span> <span title="Latest release in the app store">Updated 2015-03-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">美剧播出时刻表（北京时间）</p>
 </div>

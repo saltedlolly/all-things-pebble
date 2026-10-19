@@ -13,7 +13,7 @@ hide:
 
 # dtoth
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dtoth_b855fb454106c7a9a8d5f6f5) · [GitHub (dantoth24)](https://github.com/dantoth24)
 

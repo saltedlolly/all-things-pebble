@@ -13,7 +13,7 @@ hide:
 
 # Jnm
 
-*13 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*13 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jnm_529994c0e627ce7ba1000050) · [GitHub (Jnmattern)](https://github.com/Jnmattern) · [Website (download.famillemattern.com)](http://download.famillemattern.com/public/pebble/Upright/)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jnm_529994c0e627ce7
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="blockslide" data-released="2013-11-30" data-updated="2026-10-19">
+<a class="app-shot" href="https://apps.repebble.com/52999773129af794a2000052" data-search-exclude><img src="../images/apps/52999773129af794a2000052.gif" alt="BlockSlide" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-52999773129af794a2000052"><a href="https://apps.repebble.com/52999773129af794a2000052">BlockSlide</a> <span class="app-version" title="Latest version" data-search-exclude>v3.22</span></h2>
+<a class="app-source" href="https://github.com/Jnmattern/Blockslide" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/358" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Now also available in color for Pebble Time! Simple and eye catching display with some kind of twist when digits change! Display is configurable from the Pebble Phone App, where you can choose the…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="ruler watch reloaded" data-released="2014-01-18" data-updated="2026-09-29">
 <a class="app-shot" href="https://apps.repebble.com/52da7ee9889f5dade50000fc" data-search-exclude><img src="../images/apps/52da7ee9889f5dade50000fc.png" alt="Ruler Watch Reloaded" loading="lazy"></a>
 <div class="app-info">
@@ -57,17 +68,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jnm_529994c0e627ce7
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-27</span> <span title="Latest release in the app store">Updated 2026-03-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple design watchface showing hour and minutes. Tap or twist your wrist to sequentially display the date, the battery percentage, the phone connection status and the time in digits. Use the…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="blockslide" data-released="2013-11-30" data-updated="2026-03-01">
-<a class="app-shot" href="https://apps.repebble.com/52999773129af794a2000052" data-search-exclude><img src="../images/apps/52999773129af794a2000052.gif" alt="BlockSlide" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-52999773129af794a2000052"><a href="https://apps.repebble.com/52999773129af794a2000052">BlockSlide</a> <span class="app-version" title="Latest version" data-search-exclude>v3.20</span></h2>
-<a class="app-source" href="https://github.com/Jnmattern/Blockslide" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/358" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-03-01</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Now also available in color for Pebble Time! Simple and eye catching display with some kind of twist when digits change! Display is configurable from the Pebble Phone App, where you can choose the…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="pcal" data-released="2013-12-27" data-updated="2016-02-17">

@@ -13,7 +13,7 @@ hide:
 
 # kennedn
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5eac48e120940a03976c6b05/1) · [GitHub (kennedn)](https://github.com/kennedn) · [Website (kennedn.com)](https://kennedn.com/)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5eac48e120940a0
 <h2 class="app-name" id="app-637ae1c6c6c24a000a815eb2"><a href="https://apps.rebble.io/en_US/application/637ae1c6c6c24a000a815eb2">find-o-matic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/kennedn/find-o-matic/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2023-02-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2023-02-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A compass that points at the thing you desire most. Be it booze, a big mac or anything in between. Uses the DuckDuckGo Nearest Places API to drive a compass pointer. Configure a search term in the…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5eac48e120940a0
 <h2 class="app-name" id="app-6242c8b5f13e30000921d65a"><a href="https://apps.rebble.io/en_US/application/6242c8b5f13e30000921d65a">Stateful</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/kennedn/Stateful" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-03-29</span> <span title="Latest release in the app store">Updated 2022-07-12</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2022-03-29</span> <span title="Latest release in the app store">Updated 2022-07-12</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Automate with state! Stateful is a watch app with one goal: to make interacting with IoT devices and RESTful API&#x27;s as seamless as possible. At its core, Stateful has the ability to send arbitrary…</p>
 </div>

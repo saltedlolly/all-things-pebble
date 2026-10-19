@@ -13,21 +13,37 @@ hide:
 
 # A.C.3
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/a-c-3_fbba2962004e15952989eb15) · [GitHub (AC3Productions)](https://github.com/AC3Productions)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="persona 5" data-released="2026-07-29" data-updated="2026-07-29">
+<div class="app-card" data-type="watchface" data-title="undertale waterfall" data-released="2026-10-18" data-updated="2026-10-18">
+<a class="app-shot" href="https://apps.repebble.com/b366fc9a849b46ff861297a4" data-search-exclude><img src="../images/apps/b366fc9a849b46ff861297a4.png" alt="Undertale Waterfall" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b366fc9a849b46ff861297a4"><a href="https://apps.repebble.com/b366fc9a849b46ff861297a4">Undertale Waterfall</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/AC3Productions/pebble-undertale-waterfall" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A watchface based on a particular scene from Undertale. The sprites are based on the game assets, color-adjusted using dithering to achieve better color accuracy on the actual watch. Features a…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="persona 5" data-released="2026-07-29" data-updated="2026-10-18">
 <a class="app-shot" href="https://apps.repebble.com/86a7ca488b8848c4b9053ddf" data-search-exclude><img src="../images/apps/86a7ca488b8848c4b9053ddf.png" alt="Persona 5" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-86a7ca488b8848c4b9053ddf"><a href="https://apps.repebble.com/86a7ca488b8848c4b9053ddf">Persona 5</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-86a7ca488b8848c4b9053ddf"><a href="https://apps.repebble.com/86a7ca488b8848c4b9053ddf">Persona 5</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/AC3Productions/persona5-watchface/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A Watchface inspired by the UI of Persona 5. Features: - Calendar display from the game using local weather conditions - Calling Card-style font for time - Dynamic Background (switches between day…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Michael Stewart
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-stewart_8b863fbff5abc42502e4b419) · [GitHub (mcstew)](https://github.com/mcstew)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-stewart_8b8
 <h2 class="app-name" id="app-1a140e697b1741e6ab6dce5f"><a href="https://apps.repebble.com/1a140e697b1741e6ab6dce5f">DVD Time</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/mcstew/dvd-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-04-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-04-11</span> <span title="Latest release in the app store">Updated 2026-04-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc"># DVD Time A non-commercial parody / nostalgia watchface. Not affiliated with DVD FLLC. --- The iconic bouncing DVD Video logo, now on your wrist. The time sits quietly in the center while the…</p>
 </div>

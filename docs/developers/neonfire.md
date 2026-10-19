@@ -13,7 +13,7 @@ hide:
 
 # Neonfire
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neonfire_eb9220b4f504a68bcfd99cec) · [GitHub (neonfire42)](https://github.com/neonfire42)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neonfire_eb9220b4f5
 <h2 class="app-name" id="app-2d83367c2e4a408a807bd2e5"><a href="https://apps.repebble.com/2d83367c2e4a408a807bd2e5">qnote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.2</span></h2>
 <a class="app-source" href="https://github.com/neonfire42/qnote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-02</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-09-02</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Speak a note into your Pebble. It&#x27;s on your phone before you lower your wrist. Opening qnote starts dictation immediately - no menu, no button to find first. Speak, confirm the transcription, and…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neonfire_eb9220b4f5
 <h2 class="app-name" id="app-23692844dacf4630bbd80f96"><a href="https://apps.repebble.com/23692844dacf4630bbd80f96">PebbleTalk</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/neonfire42/pebbletalk" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-09</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-09</span> <span title="Latest release in the app store">Updated 2026-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A tiny retro speech synthesizer that talks through the Pebble Time 2 speaker. Fully algorithmic MacinTalk-style formant synthesis: no samples, no internet, just math. Press Select to hear the…</p>
 </div>

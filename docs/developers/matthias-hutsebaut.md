@@ -13,7 +13,7 @@ hide:
 
 # Matthias Hutsebaut
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57c9ffdfbe5ad0936b000114/1) · [GitHub (mhtsbt)](https://github.com/mhtsbt)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57c9ffdfbe5ad09
 <h2 class="app-name" id="app-5a4533bf461a8d60350019d9"><a href="https://apps.rebble.io/en_US/application/5a4533bf461a8d60350019d9">HomeAssistant</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mhtsbt/PebbleHomeAssistant" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-12-28</span> <span title="Latest release in the app store">Updated 2017-12-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-12-28</span> <span title="Latest release in the app store">Updated 2017-12-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This app allows to trigger home-assistant scripts on your watch!</p>
 </div>

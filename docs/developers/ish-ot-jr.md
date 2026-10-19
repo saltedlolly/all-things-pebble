@@ -13,7 +13,7 @@ hide:
 
 # Ish Ot Jr.
 
-*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ish-ot-jr_52f1ada1f216769cb90007ca) · [GitHub (ishotjr)](https://github.com/ishotjr) · [GitHub (PebbleA2)](https://github.com/PebbleA2) · [GitHub (HackDads)](https://github.com/HackDads) · [Website (ishotjr.com)](http://ishotjr.com/tag/pw-dos/)
 

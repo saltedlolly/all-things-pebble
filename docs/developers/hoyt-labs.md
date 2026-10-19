@@ -13,7 +13,7 @@ hide:
 
 # Hoyt Labs
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hoyt-labs_2c7cc63cb80aec6744597cfb) · [GitHub (michaellunzer)](https://github.com/michaellunzer)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hoyt-labs_2c7cc63cb
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="lcd worldtime" data-released="2026-07-27" data-updated="2026-07-27">
+<div class="app-card" data-type="watchface" data-title="lcd worldtime" data-released="2026-07-27" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/8202d29e6aea4d93ab507208" data-search-exclude><img src="../images/apps/8202d29e6aea4d93ab507208.png" alt="LCD Worldtime" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-8202d29e6aea4d93ab507208"><a href="https://apps.repebble.com/8202d29e6aea4d93ab507208">LCD Worldtime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-8202d29e6aea4d93ab507208"><a href="https://apps.repebble.com/8202d29e6aea4d93ab507208">LCD Worldtime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/michaellunzer/pebble-lcd-worldtime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-07-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">LCD Worldtime A Casio-flavored LCD watchface with a live day/night world map. Watch the sun&#x27;s terminator sweep across the globe in real time, with a marker on your home city and the subsolar point…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hoyt-labs_2c7cc63cb
 <h2 class="app-name" id="app-db88f247deb24c56bf7794f2"><a href="https://apps.repebble.com/db88f247deb24c56bf7794f2">Baby StoneFruit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/michaellunzer/babystonefruit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-12</span> <span title="Latest release in the app store">Updated 2026-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-12</span> <span title="Latest release in the app store">Updated 2026-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">This is the Huckleberry baby tracking app on you Pebble! It uses the Home Assistant Huckleberry Integration as a proxy since a pebble watch can&#x27;t communicate with Huckleberry directly. It&#x27;s a…</p>
 </div>

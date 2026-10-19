@@ -13,7 +13,7 @@ hide:
 
 # PixelSoup
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pixelsoup_5351d58a0fdc9b998f00006a) · [GitHub (jorgerdz)](https://github.com/jorgerdz)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pixelsoup_5351d58a0
 <h2 class="app-name" id="app-552f7a8c06bedc3ef70000cd"><a href="https://apps.repebble.com/552f7a8c06bedc3ef70000cd">LIFxPebble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6</span></h2>
 <a class="app-source" href="https://github.com/jorgerdz/lifxpebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-16</span> <span title="Latest release in the app store">Updated 2015-07-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-16</span> <span title="Latest release in the app store">Updated 2015-07-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble app for controlling your LIFX apps using the Cloud API. PayPal contributions are welcome at mail@jorgerdz.com, thanks! Reddit thread…</p>
 </div>

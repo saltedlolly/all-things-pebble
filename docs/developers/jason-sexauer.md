@@ -13,7 +13,7 @@ hide:
 
 # Jason Sexauer
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jason-sexauer_48305110983b988fde2d0e5a) · [GitHub (jsexauer)](https://github.com/jsexauer)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jason-sexauer_48305
 <h2 class="app-name" id="app-600c4b4584db46f18783250e"><a href="https://apps.repebble.com/600c4b4584db46f18783250e">NirvanaHQ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jsexauer/nirvanahq_pebble_app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-15</span> <span title="Latest release in the app store">Updated 2026-05-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-15</span> <span title="Latest release in the app store">Updated 2026-05-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">NirvanaHQ The ultimate Getting Things Done® (GTD) companion for your wrist. Manage your NirvanaHQ tasks right from your Pebble! Designed specifically for the Getting Things Done methodology, this…</p>
 </div>

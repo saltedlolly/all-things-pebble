@@ -13,7 +13,7 @@ hide:
 
 # KJ Lawrence
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kj-lawrence_54fbb88ba3892f6af2000053) · [GitHub (kjlaw89)](https://github.com/kjlaw89)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kj-lawrence_54fbb88
 <h2 class="app-name" id="app-550e454cad788cf90b0000ad"><a href="https://apps.repebble.com/550e454cad788cf90b0000ad">AndroidHome</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/kjlaw89/Pebble-AndroidHome" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-22</span> <span title="Latest release in the app store">Updated 2015-03-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-22</span> <span title="Latest release in the app store">Updated 2015-03-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface that takes visual cues from Android&#x27;s lockscreen. AndroidHome provides weather and bluetooth/battery statuses. Weather is provided by Forecast.io and needs an API key that can…</p>
 </div>

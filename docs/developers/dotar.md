@@ -13,7 +13,7 @@ hide:
 
 # dotar
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dotar_528fdbd9a92e1f3bea000021) · [GitHub (dotar)](https://github.com/dotar)
 

@@ -13,7 +13,7 @@ hide:
 
 # dhrme
 
-*4 watchfaces and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dhrme_069a96fda19388b2bd028bfa) · [GitHub (dhrme)](https://github.com/dhrme) · [GitHub (in-dhr)](https://github.com/in-dhr) · [Website (dhrme.nl)](https://dhrme.nl/apps)
 

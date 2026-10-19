@@ -13,7 +13,7 @@ hide:
 
 # John Costik
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-costik_52f910e662c1d7aa0d0003a6) · [GitHub (hackingtype1)](https://github.com/hackingtype1) · [Website (nightscout.info)](http://www.nightscout.info/wiki/labs/pebble-pebble-time-watchface-wshare-support)
 

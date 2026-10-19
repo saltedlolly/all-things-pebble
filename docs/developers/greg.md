@@ -13,7 +13,7 @@ hide:
 
 # Greg
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg_568fc8e0056c3837c0000061) · [GitHub (phm3)](https://github.com/phm3)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg_568fc8e0056c38
 <h2 class="app-name" id="app-569f365ab1ee3588bc000039"><a href="https://apps.repebble.com/569f365ab1ee3588bc000039">YAWF</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/phm3/YAWF" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-20</span> <span title="Latest release in the app store">Updated 2016-01-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-20</span> <span title="Latest release in the app store">Updated 2016-01-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">My personal watchface inspired by DINTime and TimeStyle and own experience. Meant for low light level conditions. Green bar (battery indicator) turns red when battery drops below 20% (orange when…</p>
 </div>

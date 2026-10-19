@@ -13,7 +13,7 @@ hide:
 
 # Keelan C
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keelan-c_529eb0fc1a66380531000038) · [GitHub (keelanc)](https://github.com/keelanc)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keelan-c_529eb0fc1a
 <h2 class="app-name" id="app-52bf33276ecafe7e4c000094"><a href="https://apps.repebble.com/52bf33276ecafe7e4c000094">Text Watch 2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/keelanc/text_watch_2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-28</span> <span title="Latest release in the app store">Updated 2014-02-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-28</span> <span title="Latest release in the app store">Updated 2014-02-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A &#x27;better&#x27; version of the default &#x27;Text Watch&#x27; watchface by Pebble Tech. Tap/shake the watch for date and weather info. Choose °C or °F from the mobile app. Added ‘o’ prefix for single-digit…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keelan-c_529eb0fc1a
 <h2 class="app-name" id="app-52b37160b06f4ba1dd00000a"><a href="https://apps.repebble.com/52b37160b06f4ba1dd00000a">Sworcery</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/keelanc/sworcery" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-19</span> <span title="Latest release in the app store">Updated 2014-01-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-19</span> <span title="Latest release in the app store">Updated 2014-01-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An animated watchface based on the excellent game &#x27;Sword &amp; Sworcery&#x27; by Superbrothers and Capybara Games. There are a few animations: on app launch, every 15 seconds, on the minute change, and…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keelan-c_529eb0fc1a
 <h2 class="app-name" id="app-529ebd1ed7894b5946000028"><a href="https://apps.repebble.com/529ebd1ed7894b5946000028">Hobbit Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/keelanc/hobbit_time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-04</span> <span title="Latest release in the app store">Updated 2014-01-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-04</span> <span title="Latest release in the app store">Updated 2014-01-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">I&#x27;d like to think hobbits tell time by the grumbling in their tummies. Starting at 5am (and &#x27;sleep&#x27; otherwise): almost breakfast, breakfast, seven-ish, almost second breakfast, second breakfast…</p>
 </div>

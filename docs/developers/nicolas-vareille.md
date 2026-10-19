@@ -13,7 +13,7 @@ hide:
 
 # Nicolas VAREILLE
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicolas-vareille_53a5f18106f41c91f700001b) · [GitHub (nvareille)](https://github.com/nvareille)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicolas-vareille_53
 <h2 class="app-name" id="app-54c75f12c5de00257c0000bb"><a href="https://apps.repebble.com/54c75f12c5de00257c0000bb">Khelljyr Framework Example (Keyboard Scene)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nvareille/KhelljyrExamples/tree/master/simple_keyboard_demo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-27</span> <span title="Latest release in the app store">Updated 2015-01-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-27</span> <span title="Latest release in the app store">Updated 2015-01-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is an example made with Khelljyr Pebble Framework The topic of this example is the Keyboard scene feature. /!\This is a code example for pebble. Unless you are a developer, this application…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicolas-vareille_53
 <h2 class="app-name" id="app-54b7e81f986a22be1a000072"><a href="https://apps.repebble.com/54b7e81f986a22be1a000072">Khelljyr Framework Example (garbage collector)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nvareille/Khelljyr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2015-01-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2015-01-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is an example made with Khelljyr Pebble Framework The topic of this example is the garbage collector feature. /!\This is a code example for pebble. Unless you are a developer, this…</p>
 </div>

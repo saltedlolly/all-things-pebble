@@ -13,7 +13,7 @@ hide:
 
 # KENZ
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kenz_5575c40abea9ccece200004e) · [GitHub (kenz-gelsoft)](https://github.com/kenz-gelsoft)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kenz_5575c40abea9cc
 <h2 class="app-name" id="app-5589df9efb51554a7e000025"><a href="https://apps.repebble.com/5589df9efb51554a7e000025">@WATCH</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/kenz-gelsoft/atWATCH.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-23</span> <span title="Latest release in the app store">Updated 2015-07-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-06-23</span> <span title="Latest release in the app store">Updated 2015-07-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface inspired by Apple&#x27;s one. You can watch time, calendar, battery and weather at a glance. By shaking your watch you can look at current time easily.</p>
 </div>

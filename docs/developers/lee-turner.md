@@ -13,7 +13,7 @@ hide:
 
 # Lee Turner
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lee-turner_53058c84b704cb5227000071) · [GitHub (lvx3)](https://github.com/lvx3) · [Website (xyz.li)](http://xyz.li/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lee-turner_53058c84
 <h2 class="app-name" id="app-54310cabf1565e72f30000fc"><a href="https://apps.repebble.com/54310cabf1565e72f30000fc">Hong Kong Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/lvx3/hkface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-05</span> <span title="Latest release in the app store">Updated 2014-10-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-05</span> <span title="Latest release in the app store">Updated 2014-10-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays current weather warning, current air quality, current temperature for Hong Kong. Leave suggestions or bug reports in the source link! :-) I hope you find this watch face useful</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lee-turner_53058c84
 <h2 class="app-name" id="app-53e63c5340d3d35e2700009a"><a href="https://apps.repebble.com/53e63c5340d3d35e2700009a">Saltire</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/lvx3/pebble-saltire" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-09</span> <span title="Latest release in the app store">Updated 2014-08-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-09</span> <span title="Latest release in the app store">Updated 2014-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Scotland&#x27;s national flag, on your wrist.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lee-turner_53058c84
 <h2 class="app-name" id="app-53e618b7a9f4de431500008b"><a href="https://apps.repebble.com/53e618b7a9f4de431500008b">China AQI Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/lvx3/china_aqi_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-09</span> <span title="Latest release in the app store">Updated 2014-08-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-09</span> <span title="Latest release in the app store">Updated 2014-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Gives the Displays the Air Quality Index (AQI) of the current Chinese city you are in on the bottom right of the screen and the current temperature in the bottom left. Data for AQI is from…</p>
 </div>

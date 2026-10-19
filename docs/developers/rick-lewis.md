@@ -13,7 +13,7 @@ hide:
 
 # Rick Lewis
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rick-lewis_5541bb8d25cbe39ea900003e) · [GitHub (kid-c-plus)](https://github.com/kid-c-plus)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rick-lewis_5541bb8d
 <h2 class="app-name" id="app-56cbe864dba61e0fb600000d"><a href="https://apps.repebble.com/56cbe864dba61e0fb600000d">Life Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/kid-c-plus/LifeTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-23</span> <span title="Latest release in the app store">Updated 2016-02-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-23</span> <span title="Latest release in the app store">Updated 2016-02-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Most of the times I check my watch, I don&#x27;t really want to know the time. I just want to know how long it&#x27;s been since the last time I checked my watch. This watchface helps with that. The default…</p>
 </div>

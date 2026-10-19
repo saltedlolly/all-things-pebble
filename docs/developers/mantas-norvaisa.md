@@ -13,7 +13,7 @@ hide:
 
 # Mantas Norvaiša
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mantas-norvai-a_5363b3cbc2a5e45ade0000d4) · [GitHub (mntnorv)](https://github.com/mntnorv)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mantas-norvai-a_536
 <h2 class="app-name" id="app-537d7877daa33217dc000072"><a href="https://apps.repebble.com/537d7877daa33217dc000072">Space Digits</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/mntnorv/spacedigits" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-22</span> <span title="Latest release in the app store">Updated 2014-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-22</span> <span title="Latest release in the app store">Updated 2014-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Read left to right for time (19:35) and top to bottom for date (05/21). Based on concept by slayer1551: http://www.mypebblefaces.com/concepts/1/60/ Concept is based on the TokioFlash Kisai Space…</p>
 </div>

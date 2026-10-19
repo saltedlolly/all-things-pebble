@@ -13,7 +13,7 @@ hide:
 
 # Jakerusch
 
-*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jakerusch_5744715f00693fd87600000b) · [GitHub (jakerusch)](https://github.com/jakerusch)
 

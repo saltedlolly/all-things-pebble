@@ -13,7 +13,7 @@ hide:
 
 # julpel8
 
-*3 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julpel8_4832e5dc5bcac873d9cd9ff7) · [GitHub (julpel8)](https://github.com/julpel8)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julpel8_4832e5dc5bc
 <h2 class="app-name" id="app-765f2b6ef02b4cb6ac656d2e"><a href="https://apps.repebble.com/765f2b6ef02b4cb6ac656d2e">Earth</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.2</span></h2>
 <a class="app-source" href="https://github.com/julpel8/solar-earth" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-19</span> <span title="Latest release in the app store">Updated 2026-09-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-19</span> <span title="Latest release in the app store">Updated 2026-09-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A living day/night Earth globe behind the time, with city lights after dark</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julpel8_4832e5dc5bc
 <h2 class="app-name" id="app-629300609a284e1fab80a763"><a href="https://apps.repebble.com/629300609a284e1fab80a763">Bars 2</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.0</span></h2>
 <a class="app-source" href="https://github.com/julpel8/pebble-bars-2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-24</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-24</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Because ELEQUENT’s Bars doesn’t work on the Pebble Time 2 and because it’s such a lovely watchface, I decided to recreate it for the new generation of Pebble watches</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julpel8_4832e5dc5bc
 <h2 class="app-name" id="app-781c85791d034faf952c68ac"><a href="https://apps.repebble.com/781c85791d034faf952c68ac">Breathing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.2</span></h2>
 <a class="app-source" href="https://github.com/julpel8/breathing" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Guided breathing for Pebble: follow an animated circle through inhale/hold/exhale with per-phase vibrations. Choose a rhythm (Box, 4-7-8, Coherent…) and the number of cycles, see the time it…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julpel8_4832e5dc5bc
 <h2 class="app-name" id="app-f3eecfb630754c8ab295a1a5"><a href="https://apps.repebble.com/f3eecfb630754c8ab295a1a5">Template</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.1</span></h2>
 <a class="app-source" href="https://github.com/julpel8/pebble-watchface-template" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A minimal, configurable Pebble watchface starter template — time + info lines, weather, night theme, i18n.</p>
 </div>

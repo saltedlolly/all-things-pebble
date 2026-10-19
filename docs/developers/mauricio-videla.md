@@ -13,7 +13,7 @@ hide:
 
 # Mauricio Videla
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mauricio-videla_67eeb625653eea00086eedd3) · [GitHub (mvidelatraduc)](https://github.com/mvidelatraduc)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mauricio-videla_67e
 <h2 class="app-name" id="app-6850959f48a55300094e9032"><a href="https://apps.repebble.com/6850959f48a55300094e9032">Colectivos</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mvidelatraduc/colectivos-de-rosario-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/716" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-06-16</span> <span title="Latest release in the app store">Updated 2026-02-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-06-16</span> <span title="Latest release in the app store">Updated 2026-02-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Una aplicación para el sistema urbano de transporte público de Rosario, Argentina. Se muestran las paradas de colectivos cercanas y, tras seleccionar una, pueden verse los próximos arribos…</p>
 </div>

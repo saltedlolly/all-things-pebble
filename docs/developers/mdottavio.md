@@ -13,7 +13,7 @@ hide:
 
 # mdottavio
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mdottavio_56353e969ac02bbf3700000f) · [GitHub (mdottavio)](https://github.com/mdottavio)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mdottavio_56353e969
 <h2 class="app-name" id="app-5648ba2982267d5caa00006c"><a href="https://apps.repebble.com/5648ba2982267d5caa00006c">PHuntFeed</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mdottavio/pebblehunt" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-15</span> <span title="Latest release in the app store">Updated 2015-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-11-15</span> <span title="Latest release in the app store">Updated 2015-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Get the latests 10 posts from ProductHunt.</p>
 </div>

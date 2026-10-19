@@ -13,7 +13,7 @@ hide:
 
 # clreinki
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clreinki_5572c8837d6f3db94c00001a) · [GitHub (clreinki)](https://github.com/clreinki)
 

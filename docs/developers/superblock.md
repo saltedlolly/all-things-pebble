@@ -13,7 +13,7 @@ hide:
 
 # Superblock
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/superblock_52f07759bb34233437001b7b) · [GitHub (jcs)](https://github.com/jcs)
 

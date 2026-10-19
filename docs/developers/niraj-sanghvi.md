@@ -13,7 +13,7 @@ hide:
 
 # Niraj Sanghvi
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/niraj-sanghvi_52cfa400f726c8a19f00003d) · [GitHub (op12)](https://github.com/op12)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/niraj-sanghvi_52cfa
 <h2 class="app-name" id="app-52cfa8e44680afff3300004e"><a href="https://apps.repebble.com/52cfa8e44680afff3300004e">Polar Clock Lite 2.0</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.1</span></h2>
 <a class="app-source" href="https://github.com/op12/PolarClockLite2.0" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-10</span> <span title="Latest release in the app store">Updated 2014-01-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-10</span> <span title="Latest release in the app store">Updated 2014-01-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A polar clock that displays the time using rings to represent the hour and minute with optional digital time and date display (see Polar Clock for the version of this with animated seconds..this…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/niraj-sanghvi_52cfa
 <h2 class="app-name" id="app-52cfa6a14680afc56f00004b"><a href="https://apps.repebble.com/52cfa6a14680afc56f00004b">Polar Clock 2.0</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.1</span></h2>
 <a class="app-source" href="https://github.com/op12/PolarClock2.0" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-10</span> <span title="Latest release in the app store">Updated 2014-01-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-10</span> <span title="Latest release in the app store">Updated 2014-01-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A polar clock that displays the time using rings to represent the hour, minute, and second with optional digital time and date display (for less battery drain/animation, use Polar Clock Lite which…</p>
 </div>

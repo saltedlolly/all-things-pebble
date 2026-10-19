@@ -13,7 +13,7 @@ hide:
 
 # Sergey Kotsur
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5601715225a99dbfe7000074/1) · [GitHub (joker512)](https://github.com/joker512)
 

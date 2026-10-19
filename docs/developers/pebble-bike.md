@@ -13,7 +13,7 @@ hide:
 
 # Pebble Bike
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble-bike_528d06f11fdcc0ebd7000006) · [GitHub (pebble-bike)](https://github.com/pebble-bike) · [Website (pebblebike.com)](http://www.pebblebike.com/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble-bike_528d06f
 <h2 class="app-name" id="app-529289cee07df1fa76000009"><a href="https://apps.repebble.com/529289cee07df1fa76000009">Ventoo - GPS sports tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v2.91</span></h2>
 <a class="app-source" href="https://github.com/pebble-bike/PebbleBike-AndroidApp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-24</span> <span title="Latest release in the app store">Updated 2017-07-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-11-24</span> <span title="Latest release in the app store">Updated 2017-07-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">(formerly known as Pebble Bike) Ventoo is a GPS sports tracker for your Pebble. It uses your phone&#x27;s GPS to send speed, distance and altitude data to your Pebble. You can automatically upload your…</p>
 </div>

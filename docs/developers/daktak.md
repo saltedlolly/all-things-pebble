@@ -13,7 +13,7 @@ hide:
 
 # Daktak
 
-*5 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b2d900006c/1) · [GitHub (daktak)](https://github.com/daktak) · [GitLab (daktak)](https://gitlab.com/daktak)
 
@@ -26,6 +26,17 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="intervals wellness sync" data-released="2026-09-06" data-updated="2026-10-18">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/6a9cbfd2d5f13e000a813cca" data-search-exclude><img src="../images/apps/6a9cbfd2d5f13e000a813cca.png" alt="Intervals Wellness Sync" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6a9cbfd2d5f13e000a813cca"><a href="https://apps.rebble.io/en_US/application/6a9cbfd2d5f13e000a813cca">Intervals Wellness Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
+<a class="app-source" href="https://github.com/daktak/pebble-intervals-wellness" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/1335" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-06</span> <span title="Latest release in the app store">Updated 2026-10-18</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Push sleep, hr and step data to intervals.icu For HRV, enable in background apps (Pebble Time 2)</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="intervals.icu" data-released="2026-08-16" data-updated="2026-10-02">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/6a813cce06c3a00009b85c96" data-search-exclude><img src="../images/apps/6a813cce06c3a00009b85c96.png" alt="Intervals.icu" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +46,6 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-16</span> <span title="Latest release in the app store">Updated 2026-10-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Unofficial Intervals.icu app View the weeks activities and summary View your fitness/form graph</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="intervals wellness sync" data-released="2026-09-06" data-updated="2026-09-24">
-<a class="app-shot" href="https://apps.rebble.io/en_US/application/6a9cbfd2d5f13e000a813cca" data-search-exclude><img src="../images/apps/6a9cbfd2d5f13e000a813cca.png" alt="Intervals Wellness Sync" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-6a9cbfd2d5f13e000a813cca"><a href="https://apps.rebble.io/en_US/application/6a9cbfd2d5f13e000a813cca">Intervals Wellness Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
-<a class="app-source" href="https://github.com/daktak/pebble-intervals-wellness" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App · <a href="https://forum.rebble.io/t/1335" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-06</span> <span title="Latest release in the app store">Updated 2026-09-24</span> <span>Rebble App Store</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Push sleep, hr and step data to intervals.icu For HRV, enable in background apps (Pebble Time 2)</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="kayps" data-released="2026-08-19" data-updated="2026-09-08">

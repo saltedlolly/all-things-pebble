@@ -13,7 +13,7 @@ hide:
 
 # dcmcand
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dcmcand_e5d1645ced4da580ea8c0470) · [GitHub (dcmcand)](https://github.com/dcmcand)
 

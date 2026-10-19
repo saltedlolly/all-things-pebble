@@ -13,7 +13,7 @@ hide:
 
 # David Konsumer
 
-*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-konsumer_52bcf29983ed912283000028) · [GitHub (konsumer)](https://github.com/konsumer) · [Website (en.wikipedia.org)](https://en.wikipedia.org/wiki/Oblique_Strategies)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-konsumer_52bc
 <h2 class="app-name" id="app-32871ae08d244c0abcbeae94"><a href="https://apps.repebble.com/32871ae08d244c0abcbeae94">I Ching</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/konsumer/pebble_iching" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Get I Ching reading on your watch!</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-konsumer_52bc
 <h2 class="app-name" id="app-99279aadf6df4c0fadfdb39a"><a href="https://apps.repebble.com/99279aadf6df4c0fadfdb39a">Maps Nav</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/konsumer/pebble-map-android" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-29</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-29</span> <span title="Latest release in the app store">Updated 2026-06-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">ONLY ON ANDROID I wanted a nice &amp; simple nav app that starts when I get directions in Google Maps. Totally open-source, and simple. Check the github for more complete directions (requires…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-konsumer_52bc
 <h2 class="app-name" id="app-562cba73b56e5d005400008f"><a href="https://apps.repebble.com/562cba73b56e5d005400008f">Oblique Strategies</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/konsumer/obliqe_strategies_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-01-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-01-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This adds the 3rd edition of Oblique Strategies by Brian Eno and Peter Schmidt to your Pebble watch. It can be used to break a deadlock or dilemma situation. Shake to get a new strategy. Shake…</p>
 </div>

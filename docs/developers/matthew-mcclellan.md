@@ -13,7 +13,7 @@ hide:
 
 # Matthew McClellan
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-mcclellan_52cbc5afb138282b75000118) · [GitHub (mcclellanmj)](https://github.com/mcclellanmj)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-mcclellan_5
 <h2 class="app-name" id="app-56cbf445ad30ff6e3b00000e"><a href="https://apps.repebble.com/56cbf445ad30ff6e3b00000e">Express Forecast</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mcclellanmj/pebble-quick-weather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-23</span> <span title="Latest release in the app store">Updated 2016-06-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-02-23</span> <span title="Latest release in the app store">Updated 2016-06-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A straight-to-the-point watchapp for getting the weather. Will give the next 10 days forecast as soon as its opened. The intention of this app was to answer the question &quot;What&#x27;s the weather like…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Morten F. Amundsen
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/morten-f-amundsen_3dc49eda3e8998859607e9dd) · [GitHub (mortenfyhn)](https://github.com/mortenfyhn)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/morten-f-amundsen_3
 <h2 class="app-name" id="app-b785c22984c843299e95bba0"><a href="https://apps.repebble.com/b785c22984c843299e95bba0">Morten&#x27;s Glucose</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/mortenfyhn/pebble-glucose-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is my blood glucose watchface. It can work with any glucose data source. COMPANION APP This watchface uses a generic Pebble Glucose Protocol, and can therefore be made to work with any data…</p>
 </div>

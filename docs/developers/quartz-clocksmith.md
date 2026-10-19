@@ -13,7 +13,7 @@ hide:
 
 # Quartz Clocksmith
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quartz-clocksmith_408e0031a56070b91136c7c6) · [GitHub (lynxmonkey)](https://github.com/lynxmonkey)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quartz-clocksmith_4
 <h2 class="app-name" id="app-b4eb7f620ba64bc6b7c56e02"><a href="https://apps.repebble.com/b4eb7f620ba64bc6b7c56e02">Toroidal Tic-Tac-Toe</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/lynxmonkey/Tic-Tac-Tor_Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round</div>
 <p class="app-desc">tic-tac-toe game, but on a 3D torus. A very simple game where every box is a center and the edges all wrap around.</p>
 </div>

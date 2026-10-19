@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · **V** · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*24 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*24 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -105,7 +105,7 @@ hide:
 <h2 class="app-name" id="app-529289cee07df1fa76000009"><a href="https://apps.repebble.com/529289cee07df1fa76000009">Ventoo - GPS sports tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v2.91</span></h2>
 <a class="app-source" href="https://github.com/pebble-bike/PebbleBike-AndroidApp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pebble-bike.html" title="More from this developer">Pebble Bike</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-24</span> <span title="Latest release in the app store">Updated 2017-07-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-11-24</span> <span title="Latest release in the app store">Updated 2017-07-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">(formerly known as Pebble Bike) Ventoo is a GPS sports tracker for your Pebble. It uses your phone&#x27;s GPS to send speed, distance and altitude data to your Pebble. You can automatically upload your…</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-934da6babfa94dbcba0fdf14"><a href="https://apps.repebble.com/934da6babfa94dbcba0fdf14">Verse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/ledenis/pebble-verse" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ledenis.html" title="More from this developer">ledenis</a> · <a href="https://forum.rebble.io/t/1285" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple app to get a verse of the day Powered by ourmanna.com API</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-4e5ef67664e84cb49c9025d9"><a href="https://apps.repebble.com/4e5ef67664e84cb49c9025d9">Voice Relay</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/maxmaxme/pebble-voice-relay" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/maxim-lepekha.html" title="More from this developer">Maxim Lepekha</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-09-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-09-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Dictate on your wrist, relay to your own endpoint</p>
 </div>

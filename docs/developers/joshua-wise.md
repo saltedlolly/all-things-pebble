@@ -13,7 +13,7 @@ hide:
 
 # Joshua Wise
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531aa3fb7e49755eab000f7b/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/joshua-wise_531aa3fb7e49755eab000f7b) · [GitHub (jwise)](https://github.com/jwise) · [Website (joshuawise.com)](https://joshuawise.com/)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531aa3fb7e49755
 <h2 class="app-name" id="app-6a3382f39d979d0009ccecd2"><a href="https://apps.rebble.io/en_US/application/6a3382f39d979d0009ccecd2">ReSimplicity</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.0</span></h2>
 <a class="app-source" href="https://github.com/jwise/resimplicity" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1065" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-18</span> <span title="Latest release in the app store">Updated 2026-06-18</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-18</span> <span title="Latest release in the app store">Updated 2026-06-18</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The classic built-in watchface for Pebble and Pebble Steel, now available for Pebble Time, Pebble Time Steel and Pebble Time Round, and with a native upscale for Core Time 2.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531aa3fb7e49755
 <h2 class="app-name" id="app-61751d9ff3f019000a8c1408"><a href="https://apps.rebble.io/en_US/application/61751d9ff3f019000a8c1408">Tunnel demo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jwise/pebble-demo/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/100" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-10-24</span> <span title="Latest release in the app store">Updated 2025-12-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2021-10-24</span> <span title="Latest release in the app store">Updated 2025-12-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Perhaps this ought be a watchapp, but it is what it is, and anyway, I cannot be bothered to update it now! A simple demo effect.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/531aa3fb7e49755
 <h2 class="app-name" id="app-531c39d3edcc18d065000167"><a href="https://apps.repebble.com/531c39d3edcc18d065000167">Dali Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/jwise/dalipebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-09</span> <span title="Latest release in the app store">Updated 2014-03-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-03-09</span> <span title="Latest release in the app store">Updated 2014-03-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Dali Clock displays a digital clock; when a digit changes, it &quot;melts&quot; into its new shape. Bring a dose of surrealism to your wrist with this port of jwz&#x27;s famous xdaliclock. (Animation looks much…</p>
 </div>

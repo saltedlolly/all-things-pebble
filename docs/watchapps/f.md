@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · **F** · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*51 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*52 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-5866a69f2ee4312381000245"><a href="https://apps.rebble.io/en_US/application/5866a69f2ee4312381000245">Feedble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/lapitzasclub/Feedble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lander-laparra.html" title="More from this developer">Lander Laparra</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-30</span> <span title="Latest release in the app store">Updated 2017-01-18</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-12-30</span> <span title="Latest release in the app store">Updated 2017-01-18</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A CommaFeed (https://www.commafeed.com) news reader (RSS) for Pebble.</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-abb6d785901941a3810f7dc4"><a href="https://apps.repebble.com/abb6d785901941a3810f7dc4">fetch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/paul-em/pebble-fetch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/paul3m.html" title="More from this developer">paul3m</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-24</span> <span title="Latest release in the app store">Updated 2026-03-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-24</span> <span title="Latest release in the app store">Updated 2026-03-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Send http requests from your watch! Includes config options for up to 3 quick access requests with methods GET POST PUT DELTE PATCH and custom headers</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-7ffae9b84d714b9882f7a40f"><a href="https://apps.repebble.com/7ffae9b84d714b9882f7a40f">Find My iPhone</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.4</span></h2>
 <a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces/tree/main/find-my-iphone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/analog-tick-tocker.html" title="More from this developer">Analog Tick-Tocker</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Ring your iPhone directly from Pebble Time 2. Open the watch app, select an iPhone with the Up and Down buttons, then hold Select for 650 ms to send the sound command. The app runs through Pebble…</p>
 </div>
@@ -152,6 +152,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">Trigger the real Apple Find My Play Sound alert for your configured iPhone from a Pebble watch through your self-hosted backend</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6ad530777779df0009463ac4" data-search-exclude><img src="../images/apps/6ad530777779df0009463ac4.png" alt="Find my iPhone or Android" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6ad530777779df0009463ac4"><a href="https://apps.repebble.com/6ad530777779df0009463ac4">Find my iPhone or Android</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<a class="app-source" href="https://github.com/astosia/FindmyPhone" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/astosia.html" title="More from this developer">astosia</a> · <a href="https://forum.rebble.io/t/1443" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Simple watchapp that makes your Phone ring when you press a button - Works on iOS for iPhone Uses iOS alert notifications pushed via either the Pushover or Bark Apps. Because it uses iOS Critical…</p>
 </div>
 </div>
 <div class="app-card">
@@ -171,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-d6c906fae28743d8be2aa4c0"><a href="https://apps.repebble.com/d6c906fae28743d8be2aa4c0">Find Watch 2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/merlin1991/pebble-findwatch2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/christian-ratzenhofer.html" title="More from this developer">Christian Ratzenhofer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-08-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-08-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Can&#x27;t find your Pebble? If it is still within bluetooth reach and your phone/pad is connected to your watch, installing this app will make your watch vibrate, flash, and beep (on watches with…</p>
 </div>
@@ -182,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-637ae1c6c6c24a000a815eb2"><a href="https://apps.rebble.io/en_US/application/637ae1c6c6c24a000a815eb2">find-o-matic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/kennedn/find-o-matic/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/kennedn.html" title="More from this developer">kennedn</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2023-02-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2023-02-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A compass that points at the thing you desire most. Be it booze, a big mac or anything in between. Uses the DuckDuckGo Nearest Places API to drive a compass pointer. Configure a search term in the…</p>
 </div>
@@ -215,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-53dfd081107b2280a00000fa"><a href="https://apps.repebble.com/53dfd081107b2280a00000fa">First of Them</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/peperodo/first-of-them" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/donk-studios.html" title="More from this developer">Donk Studios</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-04</span> <span title="Latest release in the app store">Updated 2014-08-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-04</span> <span title="Latest release in the app store">Updated 2014-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Follow the cursor moving along a meter at the bottom of the screen. Press when the cursor is in the zone of the black area of the meter. This will allow your character to trigger his rifle to…</p>
 </div>
@@ -270,7 +281,7 @@ hide:
 <h2 class="app-name" id="app-53ef6efd11cff6b7bd0000f7"><a href="https://apps.repebble.com/53ef6efd11cff6b7bd0000f7">Flashcards</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/magmapus/Flashcards" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/magmastone.html" title="More from this developer">MagmaStone</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-16</span> <span title="Latest release in the app store">Updated 2014-08-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2014-08-16</span> <span title="Latest release in the app store">Updated 2014-08-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Flashcards lets you quiz yourself on the go! Have an upcoming test? Study on the way! Have a debate? Review your talking points. You can add all the questions and answers you want in the…</p>
 </div>
@@ -435,7 +446,7 @@ hide:
 <h2 class="app-name" id="app-54320b0b106a8c3b05000064"><a href="https://apps.repebble.com/54320b0b106a8c3b05000064">Forekast</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mcongrove/ForekastPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mcongrove.html" title="More from this developer">mcongrove</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-06</span> <span title="Latest release in the app store">Updated 2014-10-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-06</span> <span title="Latest release in the app store">Updated 2014-10-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Get today&#x27;s Forekast events right on your wrist. Forekast is a calendar of amazing events happening worldwide, posted and voted on by an international community. Music festivals, rocket launches…</p>
 </div>
@@ -479,7 +490,7 @@ hide:
 <h2 class="app-name" id="app-573462bdf68e7b0562000010"><a href="https://apps.repebble.com/573462bdf68e7b0562000010">Freebox Telec</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jpb31/PeebleFreeboxTelec" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jpb31.html" title="More from this developer">jpb31</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-12</span> <span title="Latest release in the app store">Updated 2016-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-05-12</span> <span title="Latest release in the app store">Updated 2016-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Remote for French Freebox Revolution player Télécommande Freebox Revolution 3 modes : Volume, Programme, et Pavé directionnel (SELECT pour permuter) Appuis long : Play/pause, Marche/Arrêt, Muet…</p>
 </div>
@@ -567,7 +578,7 @@ hide:
 <h2 class="app-name" id="app-5566a0df8c932249a4000014"><a href="https://apps.repebble.com/5566a0df8c932249a4000014">Futbolive</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/marcomedina/futbolive-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marco-medina.html" title="More from this developer">Marco Medina</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-28</span> <span title="Latest release in the app store">Updated 2015-05-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-28</span> <span title="Latest release in the app store">Updated 2015-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Soccer Live Results / Resultados de Futbol en Vivo Liga Mx, Libertadores, La Liga</p>
 </div>

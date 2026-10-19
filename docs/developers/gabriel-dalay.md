@@ -13,7 +13,7 @@ hide:
 
 # Gabriel Dalay
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gabriel-dalay_557dd869d8339ab46f00007e) · [GitHub (jebrial)](https://github.com/jebrial)
 

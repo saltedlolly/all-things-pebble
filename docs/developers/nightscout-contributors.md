@@ -13,7 +13,7 @@ hide:
 
 # Nightscout contributors
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nightscout-contributors_53810824528fbe7c5f000187) · [GitHub (nightscout)](https://github.com/nightscout) · [Website (nightscout.github.io)](http://nightscout.github.io/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nightscout-contribu
 <h2 class="app-name" id="app-543bfcf6495b343315000227"><a href="https://apps.repebble.com/543bfcf6495b343315000227">Slot2 Nightscout</a> <span class="app-version" title="Latest version" data-search-exclude>v7.4</span></h2>
 <a class="app-source" href="https://github.com/nightscout/cgm-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-13</span> <span title="Latest release in the app store">Updated 2015-11-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-2-Clause</span> <span title="First published in the app store">Released 2014-10-13</span> <span title="Latest release in the app store">Updated 2015-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Display Nightscout data on your pebble watch. Support for mg/dL and mmol units.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nightscout-contribu
 <h2 class="app-name" id="app-543bfbbcecc29baad0000007"><a href="https://apps.repebble.com/543bfbbcecc29baad0000007">Nightscout</a> <span class="app-version" title="Latest version" data-search-exclude>v7.4</span></h2>
 <a class="app-source" href="https://github.com/nightscout/cgm-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-13</span> <span title="Latest release in the app store">Updated 2015-11-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-2-Clause</span> <span title="First published in the app store">Released 2014-10-13</span> <span title="Latest release in the app store">Updated 2015-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Display Nightscout data on your pebble watch. Support for mg/dL and mmol units.</p>
 </div>

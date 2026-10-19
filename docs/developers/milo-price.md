@@ -13,7 +13,7 @@ hide:
 
 # Milo Price
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/milo-price_52f871506836e6d4d4000128) · [GitHub (miloprice)](https://github.com/miloprice) · [Website (mil.ooo)](http://mil.ooo)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/milo-price_52f87150
 <h2 class="app-name" id="app-55c2f6b2740436377400007d"><a href="https://apps.repebble.com/55c2f6b2740436377400007d">X-wing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.83</span></h2>
 <a class="app-source" href="https://github.com/miloprice/pebble-xwing" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-06</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-08-06</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Relive the climactic Trench Run from Star Wars! This watchface features imagery from the final assault on the Death Star from the 1993 X-wing DOS game by LucasArts. Current features: - Time shown…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/milo-price_52f87150
 <h2 class="app-name" id="app-534c852bf32d10439600002f"><a href="https://apps.repebble.com/534c852bf32d10439600002f">Earth Daylight Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/miloprice/pebblearth" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-15</span> <span title="Latest release in the app store">Updated 2014-07-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-15</span> <span title="Latest release in the app store">Updated 2014-07-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">View the approximate location of daylight on Earth, updated hourly! Optional features: - Turn day/date on and off - Set time zone (default is PST)</p>
 </div>

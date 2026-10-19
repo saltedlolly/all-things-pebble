@@ -13,7 +13,7 @@ hide:
 
 # Qwert Zuiopü
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/qwert-zuiop_eae89cc7ca0f5c7682c8139c) · [GitHub (landostock)](https://github.com/landostock) · [Website (landostock.github.io)](https://landostock.github.io/brilliant-hydration/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/qwert-zuiop_eae89cc
 <h2 class="app-name" id="app-ef2689374d2e450697b75c96"><a href="https://apps.repebble.com/ef2689374d2e450697b75c96">Brilliant Hydration</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9.0</span></h2>
 <a class="app-source" href="https://github.com/landostock/brilliant-hydration" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MPL-2.0</span> <span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Brilliant Hydration is a simple, thoughtfully designed water tracker for your Pebble. Controls: • Up: Log a drink • Down: Correct the amount • Select: Open 7-day and 30-day statistics • Hold…</p>
 </div>

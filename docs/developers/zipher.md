@@ -13,7 +13,7 @@ hide:
 
 # Zipher
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zipher_5f78873e17c3f000c7858898) · [GitHub (Zipher04)](https://github.com/Zipher04)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zipher_5f78873e17c3
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="simple watch face" data-released="2026-02-21" data-updated="2026-02-25">
+<div class="app-card" data-type="watchface" data-title="simple watch face" data-released="2026-02-21" data-updated="2026-10-13">
 <a class="app-shot" href="https://apps.repebble.com/6999ade2f387ef000995cae5" data-search-exclude><img src="../images/apps/6999ade2f387ef000995cae5.png" alt="Simple Watch Face" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6999ade2f387ef000995cae5"><a href="https://apps.repebble.com/6999ade2f387ef000995cae5">Simple Watch Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
+<h2 class="app-name" id="app-6999ade2f387ef000995cae5"><a href="https://apps.repebble.com/6999ade2f387ef000995cae5">Simple Watch Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
 <a class="app-source" href="https://github.com/Zipher04/SimpleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/695" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-02-21</span> <span title="Latest release in the app store">Updated 2026-02-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-02-21</span> <span title="Latest release in the app store">Updated 2026-10-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simpe watch face modified from the default Kickstart watchface came with pebble time. The added inforinformation are: 1. ISO date. 2. Weekday 3. Step 4. Current weather data from OpenWeatherMap…</p>
 </div>

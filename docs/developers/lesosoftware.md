@@ -13,7 +13,7 @@ hide:
 
 # Lesosoftware
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5f3ee4ac3dd310431df1c5e5/1) · [GitHub (leso-kn)](https://github.com/leso-kn)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5f3ee4ac3dd3104
 <h2 class="app-name" id="app-5f3ee4ad3dd310431df1c5e7"><a href="https://apps.rebble.io/en_US/application/5f3ee4ad3dd310431df1c5e7">Locator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/leso-kn/Pebble.Locator" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-08-20</span> <span title="Latest release in the app store">Updated 2023-06-27</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2020-08-20</span> <span title="Latest release in the app store">Updated 2023-06-27</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This app simply displays the user&#x27;s current location! Credits go to Campion Fellin. This is a continuation of his work over at…</p>
 </div>

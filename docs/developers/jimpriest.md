@@ -13,7 +13,7 @@ hide:
 
 # jimpriest
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_351569775d80d46f9fc0a7df) · [GitHub (jimpriest)](https://github.com/jimpriest)
 

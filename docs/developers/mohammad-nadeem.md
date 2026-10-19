@@ -13,7 +13,7 @@ hide:
 
 # Mohammad Nadeem
 
-*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mohammad-nadeem_16c160e1b9ed917af4fc90cc) · [Rebble App Store](https://apps.rebble.io/en_US/developer/595eb39bb67f9f43f80019a4/1) · [GitHub (mnadev)](https://github.com/mnadev)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mohammad-nadeem_16c
 <h2 class="app-name" id="app-2e82bbee93a2452d872b7aad"><a href="https://apps.repebble.com/2e82bbee93a2452d872b7aad">Stochastic Fists</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/mnadev/stochastic_fists" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Stochastic Fists turns your Pebble into a silent corner coach for shadowboxing. Instead of audio callouts, it uses custom vibration patterns to call out real boxing combos — so you can train to…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mohammad-nadeem_16c
 <h2 class="app-name" id="app-c7673ccc115f4cea9c5194d8"><a href="https://apps.repebble.com/c7673ccc115f4cea9c5194d8">NineLives</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/mnadev/ninelives" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-11</span> <span title="Latest release in the app store">Updated 2026-06-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-11</span> <span title="Latest release in the app store">Updated 2026-06-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Step or Ded is a Pebble watchface that turns your daily steps into a virtual pet survival game. Your cat lives on your wrist — and it only survives if you keep moving. Each day, your cat reacts to…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mohammad-nadeem_16c
 <h2 class="app-name" id="app-599dc335461a8d8fd10011ed"><a href="https://apps.rebble.io/en_US/application/599dc335461a8d8fd10011ed">RU Bus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mnadev/RUBus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-08-23</span> <span title="Latest release in the app store">Updated 2017-08-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-08-23</span> <span title="Latest release in the app store">Updated 2017-08-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble Watch App that lets you see Rutgers Bus Times on your Pebble.</p>
 </div>

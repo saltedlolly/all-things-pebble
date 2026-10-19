@@ -13,7 +13,7 @@ hide:
 
 # klejnov
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5adb79f5461a8d1f9e000849/1) · [GitHub (klejnov)](https://github.com/klejnov) · [Website (vk.com)](https://vk.com/klejnov)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5adb79f5461a8d1
 <h2 class="app-name" id="app-5aee3639f38588014500083b"><a href="https://apps.rebble.io/en_US/application/5aee3639f38588014500083b">Bobruisk info</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/klejnov/Pebble-Bobruisk-info" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-05-05</span> <span title="Latest release in the app store">Updated 2018-05-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-05-05</span> <span title="Latest release in the app store">Updated 2018-05-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Актуальная погода в Бобруйске и свежие курсы валют всегда у вас на руке :) Беларусь. Бобруйск</p>
 </div>

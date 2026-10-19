@@ -13,7 +13,7 @@ hide:
 
 # Poppodi
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/poppodi_9295c819841fb75ce47331b4) · [GitHub (metuuu)](https://github.com/metuuu)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/poppodi_9295c819841
 <h2 class="app-name" id="app-bb6ffbee520f4c4cafc2b424"><a href="https://apps.repebble.com/bb6ffbee520f4c4cafc2b424">Mölkky scorekeeper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/metuuu/pebble-molkky-scorekeeper" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Keep score for Mölkky on your Pebble. Add up to 16 players, record each throw, undo mistakes, and view past games and player stats. Includes optional three-miss and final-round rules, offline…</p>
 </div>

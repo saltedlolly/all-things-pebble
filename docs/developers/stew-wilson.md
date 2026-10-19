@@ -13,7 +13,7 @@ hide:
 
 # Stew Wilson
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stew-wilson_52f0ba86af0eab46cf002466) · [GitHub (digitalraven)](https://github.com/digitalraven)
 

@@ -13,7 +13,7 @@ hide:
 
 # Tomasz Modrzyński
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tomasz-modrzy-ski_564079c9ae3ac6afa2000037) · [GitHub (modrzew)](https://github.com/modrzew)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tomasz-modrzy-ski_5
 <h2 class="app-name" id="app-56bf7fac7711eec73f00002b"><a href="https://apps.repebble.com/56bf7fac7711eec73f00002b">Tracks for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/modrzew/tracks-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-02-13</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Unofficial client application for Tracks - an excellent Getting Things Done implementation. What it does: - displays list of active todos, together with due dates, - toggles between done and…</p>
 </div>

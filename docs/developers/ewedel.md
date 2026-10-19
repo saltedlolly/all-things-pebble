@@ -13,7 +13,7 @@ hide:
 
 # ewedel
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ewedel_52b2503ecd4183bea30000a3) · [GitHub (ewedel)](https://github.com/ewedel) · [Website (ewedel.github.io)](http://ewedel.github.io/pebble-sunclock/)
 

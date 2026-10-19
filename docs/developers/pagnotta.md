@@ -13,7 +13,7 @@ hide:
 
 # pagnotta
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pagnotta_68e2cbd07e5b5d7763ad27dd) · [GitHub (pagnotta)](https://github.com/pagnotta)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pagnotta_68e2cbd07e
 <h2 class="app-name" id="app-b1ff884434e84d3191c8bac2"><a href="https://apps.repebble.com/b1ff884434e84d3191c8bac2">Squeeze Lyrion LMS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pagnotta/pebble-squeeze-lms" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1213" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A native, touch-first remote for Squeezebox, squeezelite, and Lyrion Music Server — the server formerly known as Logitech Media Server (LMS) or SlimServer — tailored for the Pebble Time 2 and…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pagnotta_68e2cbd07e
 <h2 class="app-name" id="app-6a69d2c781cc78000918bee2"><a href="https://apps.repebble.com/6a69d2c781cc78000918bee2">Line Dash</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/pagnotta/pebble-line-dash/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1195" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A stylish, minimalist one-hand analog watchface for the Pebble Time 2 and Round 2. Designed for intuitive timekeeping, Line Dash features curated typography and a strictly functional, clutter-free…</p>
 </div>

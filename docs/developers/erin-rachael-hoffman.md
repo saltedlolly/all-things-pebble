@@ -13,7 +13,7 @@ hide:
 
 # Erin Rachael Hoffman
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erin-rachael-hoffman_54ec1588d7de2fc37500002f) · [GitHub (hoffm386)](https://github.com/hoffm386)
 

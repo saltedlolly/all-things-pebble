@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · **R** · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*76 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*76 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-02b779dcf9084fecb0375df1"><a href="https://apps.repebble.com/02b779dcf9084fecb0375df1">Radiant Lyrics</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/meowarex/rl-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/meowarex.html" title="More from this developer">meowarex</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-17</span> <span title="Latest release in the app store">Updated 2026-09-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-17</span> <span title="Latest release in the app store">Updated 2026-09-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Relays Radiant Lyrics to your Pebble Time 2!</p>
 </div>
@@ -69,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9b20c579b0344422ab8ea24e" data-search-exclude><img src="../images/apps/9b20c579b0344422ab8ea24e.png" alt="Raise to Wake" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9b20c579b0344422ab8ea24e"><a href="https://apps.repebble.com/9b20c579b0344422ab8ea24e">Raise to Wake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<h2 class="app-name" id="app-9b20c579b0344422ab8ea24e"><a href="https://apps.repebble.com/9b20c579b0344422ab8ea24e">Raise to Wake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/lucaboox/pebble-raise-to-wake" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lucaboox.html" title="More from this developer">Lucaboox</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Raise to wake app that allows the pebble backlight to turn on when you raise your wrist and turn off when lowered.</p>
 </div>
@@ -269,7 +269,7 @@ hide:
 <h2 class="app-name" id="app-562cfbeab56e5de360000091"><a href="https://apps.repebble.com/562cfbeab56e5de360000091">Remote for LIFX</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/kz/lifx-pebble-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thepurplek.html" title="More from this developer">ThePurpleK</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Toggle your LIFX lights and activate your scenes using Remote for LIFX. Suggestions? Bugs? Feel free to get in touch! Disclaimer: Remote for LIFX is an unofficial app and is not affiliated with…</p>
 </div>
@@ -335,7 +335,7 @@ hide:
 <h2 class="app-name" id="app-552d2c598215a262c0000018"><a href="https://apps.repebble.com/552d2c598215a262c0000018">Rest Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/mattd/rest-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matt-dawson.html" title="More from this developer">Matt Dawson</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-14</span> <span title="Latest release in the app store">Updated 2015-12-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2015-04-14</span> <span title="Latest release in the app store">Updated 2015-12-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble app that reminds you to rest.</p>
 </div>
@@ -599,7 +599,7 @@ hide:
 <h2 class="app-name" id="app-567050ba2e7c0c788700003d"><a href="https://apps.repebble.com/567050ba2e7c0c788700003d">Roll</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nonproftechie/roll" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/josh.html" title="More from this developer">Josh</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-15</span> <span title="Latest release in the app store">Updated 2016-03-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-15</span> <span title="Latest release in the app store">Updated 2016-03-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Want to play a game that requires rolling a die, but you lost it? Have no fear, Roll app is near! Wiggle your Pebble or push one of the buttons to get your lucky number!</p>
 </div>
@@ -607,10 +607,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9e466762014d4b1ab248219f" data-search-exclude><img src="../images/apps/9e466762014d4b1ab248219f.png" alt="Roman Missal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9e466762014d4b1ab248219f"><a href="https://apps.repebble.com/9e466762014d4b1ab248219f">Roman Missal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.3</span></h2>
+<h2 class="app-name" id="app-9e466762014d4b1ab248219f"><a href="https://apps.repebble.com/9e466762014d4b1ab248219f">Roman Missal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.2</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/pebble-daily-mass" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/edward.html" title="More from this developer">Edward</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A worn cover. A ribbon left between the pages. The familiar red words that once helped us find our place. A missal can carry the memory of years spent in prayer, and of the people who sat beside…</p>
 </div>
@@ -665,7 +665,7 @@ hide:
 <h2 class="app-name" id="app-68a759a7652aec0009f26c41"><a href="https://apps.repebble.com/68a759a7652aec0009f26c41">Rozkład jazdy pociągów Polish Trains</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.2</span></h2>
 <a class="app-source" href="https://github.com/merito/rozklad_jazdy_pociagow" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/merito.html" title="More from this developer">merito</a> · <a href="https://forum.rebble.io/t/837" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-08-21</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-08-21</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Never miss your train again! The app shows the closest stations and departures with delays, platform and track numbers. It primarily uses the custom backend in `rozklad_backend/` directory, which…</p>
 </div>
@@ -687,7 +687,7 @@ hide:
 <h2 class="app-name" id="app-541086d676c551c5790001f2"><a href="https://apps.repebble.com/541086d676c551c5790001f2">RPi-Monitor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/kropochev/RPi-Monitor-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/alexander-kropochev.html" title="More from this developer">Alexander Kropochev</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-10</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-10</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">App to monitor the status Raspberri Pi. Changelog of version 1.4: - Added support for basic authentication (Oscar R.C.) Important. You must install the RPi-Monitor…</p>
 </div>
@@ -709,7 +709,7 @@ hide:
 <h2 class="app-name" id="app-599dc335461a8d8fd10011ed"><a href="https://apps.rebble.io/en_US/application/599dc335461a8d8fd10011ed">RU Bus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mnadev/RUBus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mohammad-nadeem.html" title="More from this developer">Mohammad Nadeem</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-08-23</span> <span title="Latest release in the app store">Updated 2017-08-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-08-23</span> <span title="Latest release in the app store">Updated 2017-08-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble Watch App that lets you see Rutgers Bus Times on your Pebble.</p>
 </div>
@@ -786,7 +786,7 @@ hide:
 <h2 class="app-name" id="app-52f1fa11b9d04556a636bb3c"><a href="https://apps.repebble.com/52f1fa11b9d04556a636bb3c">Run Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/marian42/pebble-run-tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marian-kleineberg.html" title="More from this developer">Marian Kleineberg</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a run / walk tracker for Pebble with a focus on simplicity. It doesn&#x27;t require a companion app but it does require a connection to a phone for GPS. The app shows the time, distance and…</p>
 </div>
@@ -830,7 +830,7 @@ hide:
 <h2 class="app-name" id="app-57c2bbc3f69d1d18de0002d3"><a href="https://apps.repebble.com/57c2bbc3f69d1d18de0002d3">Ruter Departures</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pebblejtkarlsen/RuterDepartures" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jan-karlsen.html" title="More from this developer">Jan Karlsen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-28</span> <span title="Latest release in the app store">Updated 2016-08-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-28</span> <span title="Latest release in the app store">Updated 2016-08-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Ruter Departures is an app for finding the departures of bus, tram, train and boats managed by the company Ruter. The app will locate the closest stops from your current location and when…</p>
 </div>

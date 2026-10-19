@@ -13,7 +13,7 @@ hide:
 
 # Josh
 
-*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh_562aeeb815ecb9261c00001f) · [GitHub (nonproftechie)](https://github.com/nonproftechie)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh_562aeeb815ecb9
 <h2 class="app-name" id="app-56dcd972042803d6fd00003d"><a href="https://apps.repebble.com/56dcd972042803d6fd00003d">Scorekeeper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/nonproftechie/scorekeeper" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-07</span> <span title="Latest release in the app store">Updated 2016-03-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-07</span> <span title="Latest release in the app store">Updated 2016-03-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple scorekeeper for 2 teams. Pressing the top and bottom buttons changes the score for the upper and lower scores, respectively. Pressing the middle button toggles positive/negative scoring…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh_562aeeb815ecb9
 <h2 class="app-name" id="app-56ef7a44b07e3534cb000043"><a href="https://apps.repebble.com/56ef7a44b07e3534cb000043">Calorie Counter Beta</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nonproftechie/calorie-counter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-21</span> <span title="Latest release in the app store">Updated 2016-03-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-21</span> <span title="Latest release in the app store">Updated 2016-03-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Digital face with your current progress towards today&#x27;s 3000-calorie goal.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh_562aeeb815ecb9
 <h2 class="app-name" id="app-567050ba2e7c0c788700003d"><a href="https://apps.repebble.com/567050ba2e7c0c788700003d">Roll</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nonproftechie/roll" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-15</span> <span title="Latest release in the app store">Updated 2016-03-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-15</span> <span title="Latest release in the app store">Updated 2016-03-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Want to play a game that requires rolling a die, but you lost it? Have no fear, Roll app is near! Wiggle your Pebble or push one of the buttons to get your lucky number!</p>
 </div>

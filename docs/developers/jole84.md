@@ -13,7 +13,7 @@ hide:
 
 # jole84
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jole84_36face5c2d9f7d232d52d02e) · [GitHub (jole84)](https://github.com/jole84)
 

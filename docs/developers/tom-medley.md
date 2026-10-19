@@ -13,7 +13,7 @@ hide:
 
 # Tom Medley
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-medley_53206910deec0c9bdd0001ab) · [GitHub (fredley)](https://github.com/fredley) · [Website (mamota.net)](https://mamota.net)
 

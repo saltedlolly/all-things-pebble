@@ -13,7 +13,7 @@ hide:
 
 # Marcel Kessler
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marcel-kessler_26a4932578b7487bc4654aea) · [GitHub (cheesenoc)](https://github.com/cheesenoc)
 

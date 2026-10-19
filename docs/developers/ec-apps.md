@@ -13,7 +13,7 @@ hide:
 
 # EC Apps
 
-*16 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*16 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ec-apps_6818b3bd53899000082d25a4) · [GitHub (eduardochiaro)](https://github.com/eduardochiaro) · [Website (eduardochiaro.com)](https://www.eduardochiaro.com)
 

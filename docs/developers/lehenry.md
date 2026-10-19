@@ -13,7 +13,7 @@ hide:
 
 # lehenry
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lehenry_54f7573d3aeaed913500008a) · [GitHub (lehenry)](https://github.com/lehenry)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lehenry_54f7573d3ae
 <h2 class="app-name" id="app-56c8e1571261184eef000048"><a href="https://apps.repebble.com/56c8e1571261184eef000048">ScoreCards</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/lehenry/ScoreCards" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-20</span> <span title="Latest release in the app store">Updated 2016-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-20</span> <span title="Latest release in the app store">Updated 2016-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">ScoreCards is a simple score tracking application for your dice/cards or boardgames - Set and order players in settings - Activate/Deactivate players - Choose first player (long select in &#x27;Set…</p>
 </div>

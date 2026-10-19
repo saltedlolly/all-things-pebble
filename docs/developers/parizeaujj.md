@@ -13,7 +13,7 @@ hide:
 
 # parizeaujj
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_032087392acdc1478509066d) · [GitHub (parizeaujj)](https://github.com/parizeaujj)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_032087392ac
 <h2 class="app-name" id="app-3d68f2f6e539487f98d58540"><a href="https://apps.repebble.com/3d68f2f6e539487f98d58540">Neo Morph</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/parizeaujj/neo-morph" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A neumorphic watchface with two bevel-frame tiles that fill clockwise to show the time. Configurable top and bottom rows display battery, date, or live health stats — steps, heart rate, sleep…</p>
 </div>

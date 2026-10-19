@@ -13,7 +13,7 @@ hide:
 
 # Clint Tseng
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53ac46e3e9ecada316000030/1) · [GitHub (clint-tseng)](https://github.com/clint-tseng) · [Website (rumline.giantacorn.com)](http://rumline.giantacorn.com)
 

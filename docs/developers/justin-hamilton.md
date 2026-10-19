@@ -13,7 +13,7 @@ hide:
 
 # Justin Hamilton
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-hamilton_52b1e952c8363d3367000016) · [GitHub (justinhamilton)](https://github.com/justinhamilton)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-hamilton_52b
 <h2 class="app-name" id="app-55613ebafd8f4b535b00001d"><a href="https://apps.repebble.com/55613ebafd8f4b535b00001d">Complications</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/justinhamilton/complications" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-24</span> <span title="Latest release in the app store">Updated 2015-08-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-24</span> <span title="Latest release in the app store">Updated 2015-08-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">An analog watchface with 4 slots for customizable complications, so it can be as basic or as complicated as you want. Now includes color customization! Current list of complications: - Seconds…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-hamilton_52b
 <h2 class="app-name" id="app-553aeb897fcaa61d4f00006f"><a href="https://apps.repebble.com/553aeb897fcaa61d4f00006f">Codec</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/justinhamilton/codec" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-25</span> <span title="Latest release in the app store">Updated 2015-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-25</span> <span title="Latest release in the app store">Updated 2015-04-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface based off the Codec from Metal Gear Solid. Instead of the frequency, the time is displayed. The bars on the left represent seconds (in increments of 10), &quot;PTT&quot; is your bluetooth…</p>
 </div>

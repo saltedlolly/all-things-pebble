@@ -13,7 +13,7 @@ hide:
 
 # Geoffrey Gallaway
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/geoffrey-gallaway_52f3e35840e790d9fd000091) · [GitHub (geoffeg)](https://github.com/geoffeg) · [Website (av-wx.com)](http://av-wx.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # Bengalbot
 
-*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52de8fae5d0e57da26000076/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/bengalbot_52de8fae5d0e57da26000076) · [GitHub (carledwards)](https://github.com/carledwards) · [GitHub (petehare)](https://github.com/petehare)
 
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52de8fae5d0e57d
 <h2 class="app-name" id="app-52c63d7c7bf7b8d841000029"><a href="https://apps.repebble.com/52c63d7c7bf7b8d841000029">Bible</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/petehare/Bible" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-03</span> <span title="Latest release in the app store">Updated 2015-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-03</span> <span title="Latest release in the app store">Updated 2015-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The full Bible strapped to your wrist. Navigate the entire Bible using fast book and chapter selection. Read chapters of the Bible right on your Pebble. Bible version is the New English…</p>
 </div>

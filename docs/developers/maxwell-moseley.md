@@ -13,7 +13,7 @@ hide:
 
 # Maxwell Moseley
 
-*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxwell-moseley_57afcb76bb85ed5f9b0003fc) · [GitHub (maxmoseley23)](https://github.com/maxmoseley23)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxwell-moseley_57a
 <h2 class="app-name" id="app-582482ccb62cef78520000ad"><a href="https://apps.repebble.com/582482ccb62cef78520000ad">WeeklyRing</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/maxmoseley23/DailyRing1/tree/weekly-ring" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-10</span> <span title="Latest release in the app store">Updated 2016-11-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-10</span> <span title="Latest release in the app store">Updated 2016-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">See a full week pass with WeeklyRing! A full 7-day week is expressed as a circle starting on Sunday, while the hours, minutes, day of week, and date is expressed digitally. After 6PM, the dark…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxwell-moseley_57a
 <h2 class="app-name" id="app-581cd8db9cbbafc558000127"><a href="https://apps.repebble.com/581cd8db9cbbafc558000127">Basic 1</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/maxmoseley23/Basic-1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-04</span> <span title="Latest release in the app store">Updated 2016-11-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-04</span> <span title="Latest release in the app store">Updated 2016-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Back to basics. Battery friendly and lightweight. Just the time and date. Configure every colour. Set it to vibrate on top of the hour. Use military time instead of 12 hr. The choice is yours.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxwell-moseley_57a
 <h2 class="app-name" id="app-57f4043e3c754a8b010000d7"><a href="https://apps.repebble.com/57f4043e3c754a8b010000d7">Selina Int</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/maxmoseley23/Selina1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-04</span> <span title="Latest release in the app store">Updated 2016-10-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-04</span> <span title="Latest release in the app store">Updated 2016-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watchface I made for my Sister. Bare essentials only - time, date, weekday, battery, and connection state. The Watch will vibrate upon disconnection and the OK status will disappear. Languages…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxwell-moseley_57a
 <h2 class="app-name" id="app-57afcbd0f01b53329a00037f"><a href="https://apps.repebble.com/57afcbd0f01b53329a00037f">DailyRing</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/maxmoseley23/DailyRing1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-14</span> <span title="Latest release in the app store">Updated 2016-10-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-14</span> <span title="Latest release in the app store">Updated 2016-10-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">See a full day pass with DailyRing! A full 24-hour day is expressed as a circle, while the hours, minutes, day of week, and date is expressed digitally. After 6PM, the dark theme is enabled for…</p>
 </div>

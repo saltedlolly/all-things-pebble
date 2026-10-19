@@ -13,7 +13,7 @@ hide:
 
 # Olivella
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/olivella_54d8ba0a514b484678000085) · [GitHub (dasca)](https://github.com/dasca) · [Website (olivella.se)](http://www.olivella.se)
 

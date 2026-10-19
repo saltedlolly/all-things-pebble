@@ -13,7 +13,7 @@ hide:
 
 # Maks
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maks_70a4bdd1c32fe473b02726b7) · [GitHub (maks112v)](https://github.com/maks112v)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maks_70a4bdd1c32fe4
 <h2 class="app-name" id="app-a55fb07149164ef5a2ff4c5f"><a href="https://apps.repebble.com/a55fb07149164ef5a2ff4c5f">Intentional</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/maks112v/Intentional" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-13</span> <span title="Latest release in the app store">Updated 2026-08-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-13</span> <span title="Latest release in the app store">Updated 2026-08-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Intentional is a configurable watch face that keeps the time clear while showing progress toward the things you care about. Choose from four layouts, multiple color themes, and up to five widgets…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # PebbLiz Technologies
 
-*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebbliz-technologies_52b776ad9efe582fb2000002) · [GitHub (pouves)](https://github.com/pouves) · [GitHub (pebble-hacks)](https://github.com/pebble-hacks)
 
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebbliz-technologie
 <h2 class="app-name" id="app-52b786db9efe58231f000006"><a href="https://apps.repebble.com/52b786db9efe58231f000006">W&amp;L Amino Acids</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pebble-hacks/watch_and_learn" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-23</span> <span title="Latest release in the app store">Updated 2014-01-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-23</span> <span title="Latest release in the app store">Updated 2014-01-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watch &amp; Learn Flashcards show the structures of the 20 common amino acids and their 1-letter code on the front. A flick of the wrist turns the card to the back, showing the name, 3-letter code…</p>
 </div>

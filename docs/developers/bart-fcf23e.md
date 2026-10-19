@@ -13,7 +13,7 @@ hide:
 
 # Bart
 
-*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bart_677816f9a89c5300085e541a) · [Codeberg (louwers)](https://codeberg.org/louwers) · [GitHub (louwers)](https://github.com/louwers)
 
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bart_677816f9a89c53
 <h2 class="app-name" id="app-6891dd78069d3e0009f9f825"><a href="https://apps.repebble.com/6891dd78069d3e0009f9f825">5/3/1 Training</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/louwers/531-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-08-05</span> <span title="Latest release in the app store">Updated 2025-08-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2025-08-05</span> <span title="Latest release in the app store">Updated 2025-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Calculates weights and sets based on Jim Wendler&#x27;s 5/3/1 barbell training program so your next lifts are always available right on your wrist.</p>
 </div>

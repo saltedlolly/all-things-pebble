@@ -13,7 +13,7 @@ hide:
 
 # Velowatch
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/velowatch_d2ff647235eea4e02d6a2f4b) · [GitHub (genko)](https://github.com/genko)
 

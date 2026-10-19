@@ -13,7 +13,7 @@ hide:
 
 # Max Bäumle
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/529e272138dd3faefd00001f/1) · [GitHub (maxbaeumle)](https://github.com/maxbaeumle) · [GitHub (JamesFowler42)](https://github.com/JamesFowler42) · [Website (smartwatch.pro)](http://smartwatch.pro)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/529e272138dd3fa
 <h2 class="app-name" id="app-52ac94f731a5fa35c500001d"><a href="https://apps.rebble.io/en_US/application/52ac94f731a5fa35c500001d">Smartwatch Pro</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/maxbaeumle/smartwatchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-14</span> <span title="Latest release in the app store">Updated 2016-09-23</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-14</span> <span title="Latest release in the app store">Updated 2016-09-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Provides useful additional functionality with your Pebble watch including displaying upcoming calendar events, your Twitter timeline, step count and more. &quot;Best Technical Achievement&quot; - Pebble…</p>
 </div>

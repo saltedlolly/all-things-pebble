@@ -13,7 +13,7 @@ hide:
 
 # nalcire
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nalcire_531ad61e5af66009a100071d) · [GitHub (nalcire)](https://github.com/nalcire)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nalcire_531ad61e5af
 <h2 class="app-name" id="app-532611eadac14132e900003f"><a href="https://apps.repebble.com/532611eadac14132e900003f">Tabata Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/nalcire/pebble_tabata_timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-16</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-03-16</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple configurable high-intensity interval training timer for Pebble. up - start/pause timer select - configure timer down - reset timer</p>
 </div>

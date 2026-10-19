@@ -13,7 +13,7 @@ hide:
 
 # Keatr0n
 
-*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keatr0n_2a36dcefb2ef947e811561d5) · [GitHub (Keatr0n)](https://github.com/Keatr0n)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keatr0n_2a36dcefb2e
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="pebble_deck" data-released="2026-07-28" data-updated="2026-10-17">
+<a class="app-shot" href="https://apps.repebble.com/648bfbf405594a0b99b99445" data-search-exclude><img src="../images/apps/648bfbf405594a0b99b99445.png" alt="pebble_deck" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-648bfbf405594a0b99b99445"><a href="https://apps.repebble.com/648bfbf405594a0b99b99445">pebble_deck</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<a class="app-source" href="https://github.com/Keatr0n/pebble_deck" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1193" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-28</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">pebble_deck is designed to emulate a terminal interface with 8 customizable complication slots. You can pick from any of the following: - Date - Battery - Free heap memory - Compass (only updates…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="nav aid" data-released="2026-09-17" data-updated="2026-10-04">
 <a class="app-shot" href="https://apps.repebble.com/5e0010ad98264c2cb90174d5" data-search-exclude><img src="../images/apps/5e0010ad98264c2cb90174d5.png" alt="Nav Aid" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +46,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keatr0n_2a36dcefb2e
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-17</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Nav Aid is designed to be a glanceable supplemental information system for navigation and situational awareness in the air. Mostly for GA pilots, but useful for anyone operating in the air…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="pebble_deck" data-released="2026-07-28" data-updated="2026-09-03">
-<a class="app-shot" href="https://apps.repebble.com/648bfbf405594a0b99b99445" data-search-exclude><img src="../images/apps/648bfbf405594a0b99b99445.png" alt="pebble_deck" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-648bfbf405594a0b99b99445"><a href="https://apps.repebble.com/648bfbf405594a0b99b99445">pebble_deck</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
-<a class="app-source" href="https://github.com/Keatr0n/pebble_deck" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1193" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-28</span> <span title="Latest release in the app store">Updated 2026-09-03</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">pebble_deck is designed to emulate a terminal interface with 8 customizable complication slots. You can pick from any of the following: - Date - Battery - Free heap memory - Compass (only updates…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="ai girlfriend" data-released="2026-08-06" data-updated="2026-08-07">

@@ -13,7 +13,7 @@ hide:
 
 # Dark
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56003ed5d3ea40832d00006d/1) · [GitHub (lukefor)](https://github.com/lukefor)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56003ed5d3ea408
 <h2 class="app-name" id="app-5b2bf021fbaf9ae33400044d"><a href="https://apps.rebble.io/en_US/application/5b2bf021fbaf9ae33400044d">watsface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/lukefor/watsface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-06-21</span> <span title="Latest release in the app store">Updated 2021-11-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2018-06-21</span> <span title="Latest release in the app store">Updated 2021-11-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Works as is shown in the screenshots, with no configuration. Font is Oswald from Google Fonts. Displays charging status, vibrates on disconnect, all that good stuff. Developed with battery life as…</p>
 </div>

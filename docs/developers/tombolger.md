@@ -13,7 +13,7 @@ hide:
 
 # TomBolger
 
-*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*5 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tombolger_0e985d2ac18230a88bcbe6b8) · [GitHub (TomBolger)](https://github.com/TomBolger)
 
@@ -21,11 +21,44 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tombolger_0e985d2ac
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>4</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>5</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="pixel dungeon" data-released="2026-10-14" data-updated="2026-10-17">
+<a class="app-shot" href="https://apps.repebble.com/1cc9e39ecf6c436aa22de8fb" data-search-exclude><img src="../images/apps/1cc9e39ecf6c436aa22de8fb.gif" alt="Pixel Dungeon" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-1cc9e39ecf6c436aa22de8fb"><a href="https://apps.repebble.com/1cc9e39ecf6c436aa22de8fb">Pixel Dungeon</a> <span class="app-version" title="Latest version" data-search-exclude>v0.90.0</span></h2>
+<a class="app-source" href="https://github.com/TomBolger/PixelDungeon" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">This is a meticulously faithful port/rewrite of the original Pixel Dungeon, my favorite mobile game of all time. Mechanically, this is 99.9% the same game* as the original, crammed into PebbleOS!…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="pebble maps" data-released="2026-10-07" data-updated="2026-10-14">
+<a class="app-shot" href="https://apps.repebble.com/30bec15e3f1949deae98f21d" data-search-exclude><img src="../images/apps/30bec15e3f1949deae98f21d.png" alt="Pebble Maps" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-30bec15e3f1949deae98f21d"><a href="https://apps.repebble.com/30bec15e3f1949deae98f21d">Pebble Maps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.21.2</span></h2>
+<a class="app-source" href="https://github.com/TomBolger/PebbleMaps" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Pebble Maps Google Maps on your wrist. Search for places, browse what&#x27;s nearby and get turn-by-turn directions by car, on foot, by bike or by transit, all from your Pebble. You don&#x27;t need an extra…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="billy" data-released="2026-10-07" data-updated="2026-10-14">
+<a class="app-shot" href="https://apps.repebble.com/0d3a55a0696e4bc38724f369" data-search-exclude><img src="../images/apps/0d3a55a0696e4bc38724f369.png" alt="Billy" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-0d3a55a0696e4bc38724f369"><a href="https://apps.repebble.com/0d3a55a0696e4bc38724f369">Billy</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6</span></h2>
+<a class="app-source" href="https://github.com/TomBolger/Billy" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Billy is a spiritual successor to the legendary Bobby, itself an homage to the mythical Snowy the Dog. Katherine Berry has stepped away from Pebble development, but she generously left Bobby open…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="pebblegram" data-released="2026-04-29" data-updated="2026-10-07">
 <a class="app-shot" href="https://apps.repebble.com/3f9cfd3aefd84e59a0128849" data-search-exclude><img src="../images/apps/3f9cfd3aefd84e59a0128849.png" alt="Pebblegram" loading="lazy"></a>
 <div class="app-info">
@@ -37,17 +70,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tombolger_0e985d2ac
 <p class="app-desc">A Telegram client for Pebble. Currently relies on a service that runs on a computer and requires some setup, and that service needs to be running for the app to work. All data and access is…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="pebble maps" data-released="2026-10-07" data-updated="2026-10-07">
-<a class="app-shot" href="https://apps.repebble.com/30bec15e3f1949deae98f21d" data-search-exclude><img src="../images/apps/30bec15e3f1949deae98f21d.png" alt="Pebble Maps" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-30bec15e3f1949deae98f21d"><a href="https://apps.repebble.com/30bec15e3f1949deae98f21d">Pebble Maps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.19.1</span></h2>
-<a class="app-source" href="https://github.com/TomBolger/PebbleMaps" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Pebble Maps Google Maps on your wrist. Search for places, browse what&#x27;s nearby and get turn-by-turn directions by car, on foot, by bike or by transit, all from your Pebble. You don&#x27;t need an extra…</p>
-</div>
-</div>
 <div class="app-card" data-type="watchapp" data-title="notification sync" data-released="2026-10-07" data-updated="2026-10-07">
 <a class="app-shot" href="https://apps.repebble.com/f93c30c5c5f544db8caee226" data-search-exclude><img src="../images/apps/f93c30c5c5f544db8caee226.png" alt="Notification Sync" loading="lazy"></a>
 <div class="app-info">
@@ -57,17 +79,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tombolger_0e985d2ac
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Have you ever been annoyed that your watch notifications were a separate storage bucket of stale notices you may have already seen on your phone? Ever swap to an Android watch and miss the…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="billy" data-released="2026-10-07" data-updated="2026-10-07">
-<a class="app-shot" href="https://apps.repebble.com/0d3a55a0696e4bc38724f369" data-search-exclude><img src="../images/apps/0d3a55a0696e4bc38724f369.png" alt="Billy" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-0d3a55a0696e4bc38724f369"><a href="https://apps.repebble.com/0d3a55a0696e4bc38724f369">Billy</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4</span></h2>
-<a class="app-source" href="https://github.com/TomBolger/Billy" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Billy is a spiritual successor to the legendary Bobby, itself an homage to the mythical Snowy the Dog. Katherine Berry has stepped away from Pebble development, but she generously left Bobby open…</p>
 </div>
 </div>
 </div>

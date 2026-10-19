@@ -13,7 +13,7 @@ hide:
 
 # E. Poon &amp; I. Gollish
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/e-poon-i-gollish_559605ae7f824311f10000d1) · [GitHub (navies)](https://github.com/navies)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/e-poon-i-gollish_55
 <h2 class="app-name" id="app-5620481225ef793e5a00001a"><a href="https://apps.repebble.com/5620481225ef793e5a00001a">Twibble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/navies/Twibble/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-16</span> <span title="Latest release in the app store">Updated 2016-11-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Zlib</span> <span title="First published in the app store">Released 2015-10-16</span> <span title="Latest release in the app store">Updated 2016-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Keep up to all your favorite streamers with Twibble, the Twitch Pebble app! Features include: - Checking which of your followed streamers is online by signing in through app settings on your phone…</p>
 </div>

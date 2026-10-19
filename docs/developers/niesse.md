@@ -13,7 +13,7 @@ hide:
 
 # niesse
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/niesse_5525791c0629e25fdf00004e) · [GitHub (njesse)](https://github.com/njesse)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/niesse_5525791c0629
 <h2 class="app-name" id="app-552d0cb20835233ebf00000d"><a href="https://apps.repebble.com/552d0cb20835233ebf00000d">Time To Feierabend</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/njesse/TimeToFeierabend" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-14</span> <span title="Latest release in the app store">Updated 2017-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-14</span> <span title="Latest release in the app store">Updated 2017-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Deutsch: Die App zeigt die relevanten Uhrzeiten entsprechend dem deutschen Arbeitszeitgesetz an. Dazu gehören Arbeitsbeginn, Arbeitsende, eine 30 Minuten Pause nach 6h, eine 15 Minuten Pause nach…</p>
 </div>

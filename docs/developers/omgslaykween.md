@@ -13,19 +13,30 @@ hide:
 
 # OmgSlayKween
 
-*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/omgslaykween_6a8876179a73d00009ee3f1a) · [GitHub (hornofabraxas)](https://github.com/hornofabraxas) · [Website (reddit.com)](https://www.reddit.com/user/OmgSlayKween/)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/omgslaykween_6a8876179a73d00009ee3f1a) · [GitHub (hornofabraxas)](https://github.com/hornofabraxas) · [Website (reddit.com)](https://www.reddit.com/u/omgslaykween)
 
 </div>
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="pointer planetarium" data-released="2026-10-14" data-updated="2026-10-14">
+<a class="app-shot" href="https://apps.repebble.com/6acf00399e820a000980b267" data-search-exclude><img src="../images/apps/6acf00399e820a000980b267.png" alt="Pointer Planetarium" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6acf00399e820a000980b267"><a href="https://apps.repebble.com/6acf00399e820a000980b267">Pointer Planetarium</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
+<a class="app-source" href="https://github.com/hornofabraxas/pointer-planetarium" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/1432" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Point at almost anything in the sky, and Pointer Planetarium will tell you what it is, and often includes an interesting fact. Categories the app knows about: Planes (private, commercial…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="parallax weather" data-released="2026-09-29" data-updated="2026-10-02">
 <a class="app-shot" href="https://apps.repebble.com/6abc2c15139b70000a509eb9" data-search-exclude><img src="../images/apps/6abc2c15139b70000a509eb9.png" alt="Parallax Weather" loading="lazy"></a>
 <div class="app-info">

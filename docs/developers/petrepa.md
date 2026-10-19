@@ -13,7 +13,7 @@ hide:
 
 # petrepa
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/petrepa_6444ceb8513eb4512ac26246) · [GitHub (petrepa)](https://github.com/petrepa)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/petrepa_6444ceb8513
 <h2 class="app-name" id="app-a5543813bd14472f90ff7542"><a href="https://apps.repebble.com/a5543813bd14472f90ff7542">Islet for AndroidAPS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/petrepa/islet-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-26</span> <span title="Latest release in the app store">Updated 2026-09-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-26</span> <span title="Latest release in the app store">Updated 2026-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Diabetes watchface for AndroidAPS (AAPS) users. Shows glucose, trend arrow, delta, time since reading and insulin on board (IOB) straight from AndroidAPS on your phone. No Nightscout, xDrip+ or…</p>
 </div>

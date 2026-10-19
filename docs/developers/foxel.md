@@ -13,7 +13,7 @@ hide:
 
 # Foxel
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/foxel_52a9613fc0ca935e83000032) · [GitHub (foxel)](https://github.com/foxel)
 

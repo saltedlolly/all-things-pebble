@@ -13,7 +13,7 @@ hide:
 
 # Nate Walck
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nate-walck_548288410a62debed8000040) · [GitHub (natewalck)](https://github.com/natewalck)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nate-walck_54828841
 <h2 class="app-name" id="app-56620a47e7a5f692eb000088"><a href="https://apps.repebble.com/56620a47e7a5f692eb000088">Triforce Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/natewalck/PebbleTimeTriforce" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-04</span> <span title="Latest release in the app store">Updated 2017-05-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-04</span> <span title="Latest release in the app store">Updated 2017-05-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Triforce Advanced update for the Pebble and Pebble Time.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nate-walck_54828841
 <h2 class="app-name" id="app-54a9f5caae94cf312800010d"><a href="https://apps.repebble.com/54a9f5caae94cf312800010d">Two</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/natewalck/PebbleFaceTwo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-05</span> <span title="Latest release in the app store">Updated 2015-01-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-01-05</span> <span title="Latest release in the app store">Updated 2015-01-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watchface with a trippy pattern. Shows the date, temp outside (using GPS) and battery life.</p>
 </div>

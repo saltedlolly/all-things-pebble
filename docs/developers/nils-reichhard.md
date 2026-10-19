@@ -13,7 +13,7 @@ hide:
 
 # Nils Reichhard
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nils-reichhard_4ec083c4ed06a2ef058e98ab) · [GitHub (nilsreichhard)](https://github.com/nilsreichhard)
 
@@ -21,15 +21,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nils-reichhard_4ec0
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="carbon ion" data-released="2026-09-09" data-updated="2026-09-28">
+<div class="app-card" data-type="watchface" data-title="carbon ion" data-released="2026-09-09" data-updated="2026-10-16">
 <a class="app-shot" href="https://apps.repebble.com/a93e14bc57624e368e156ab6" data-search-exclude><img src="../images/apps/a93e14bc57624e368e156ab6.gif" alt="Carbon Ion" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a93e14bc57624e368e156ab6"><a href="https://apps.repebble.com/a93e14bc57624e368e156ab6">Carbon Ion</a> <span class="app-version" title="Latest version" data-search-exclude>v2.6.6</span></h2>
+<h2 class="app-name" id="app-a93e14bc57624e368e156ab6"><a href="https://apps.repebble.com/a93e14bc57624e368e156ab6">Carbon Ion</a> <span class="app-version" title="Latest version" data-search-exclude>v2.9.1</span></h2>
 <a class="app-source" href="https://github.com/nilsreichhard/carbon-ion" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Carbon Ion is a high-precision, weather-focused watchface engineered exclusively for Pebble Time 2 / Emery (emery, 200×228 color display). Other platforms are not build targets. Live…</p>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Short summary: A precise weather timeline watchface with temperature, rain, clouds, daylight, calendar and battery on one rolling track. Carbon Ion Carbon Ion turns your Pebble into a compact…</p>
 </div>
 </div>
 </div>

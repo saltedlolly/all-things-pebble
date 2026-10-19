@@ -13,7 +13,7 @@ hide:
 
 # Kjeil
 
-*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kjeil_57b13692f01b53ee0c000402) · [GitHub (ikjl)](https://github.com/ikjl)
 

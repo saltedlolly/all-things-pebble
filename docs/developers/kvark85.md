@@ -13,7 +13,7 @@ hide:
 
 # Kvark85
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5d3164fa299bf40001a6fa58/1) · [GitHub (kvark85)](https://github.com/kvark85)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5d3164fa299bf40
 <h2 class="app-name" id="app-619d52d0535326000935a5be"><a href="https://apps.rebble.io/en_US/application/619d52d0535326000935a5be">Nume-rebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/kvark85/nume-rebble_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-11-23</span> <span title="Latest release in the app store">Updated 2021-11-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2021-11-23</span> <span title="Latest release in the app store">Updated 2021-11-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface with big wonderful numbers</p>
 </div>

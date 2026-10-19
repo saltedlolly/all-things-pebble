@@ -13,7 +13,7 @@ hide:
 
 # Patrick Catanzariti
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/patrick-catanzariti_531cf3993d915c15f000041b) · [GitHub (patcat)](https://github.com/patcat) · [Website (patcat.com)](http://www.patcat.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/patrick-catanzariti
 <h2 class="app-name" id="app-542a6a017352297c17000017"><a href="https://apps.repebble.com/542a6a017352297c17000017">Find Me Anything</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/patcat/FindMeAnything" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-30</span> <span title="Latest release in the app store">Updated 2014-09-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-30</span> <span title="Latest release in the app store">Updated 2014-09-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface that uses the Foursquare API and your Pebble&#x27;s location to let you know at all times where your nearest place of interest is. By default, it&#x27;ll tell you where the nearest Starbucks is…</p>
 </div>

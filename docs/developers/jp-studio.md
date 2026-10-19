@@ -13,7 +13,7 @@ hide:
 
 # JP&\#x27;Studio
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jp-studio_52cb358b6e5f70cd64000085) · [GitHub (jpca)](https://github.com/jpca) · [Website (jppost.fr)](http://www.jppost.fr/jpstudio/jptris)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jp-studio_52cb358b6
 <h2 class="app-name" id="app-52ff8e23432d1c7d2200012c"><a href="https://apps.repebble.com/52ff8e23432d1c7d2200012c">JP&#x27;Tris</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/jpca/pebble-jptris" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-15</span> <span title="Latest release in the app store">Updated 2014-02-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-3-Clause</span> <span title="First published in the app store">Released 2014-02-15</span> <span title="Latest release in the app store">Updated 2014-02-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a Tetris clone for pebble smart watch, with extra pieces if you exceed 300 points. Instructions : - up button : move left - down button : move right - middle button : rotate - have fun !!…</p>
 </div>

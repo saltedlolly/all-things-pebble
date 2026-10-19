@@ -13,7 +13,7 @@ hide:
 
 # Simon Dürr
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/simon-d-rr_542fa717e47c05228e000029) · [GitHub (duerrsimon)](https://github.com/duerrsimon) · [Website (simonduerr.eu)](https://simonduerr.eu)
 

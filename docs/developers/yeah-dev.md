@@ -13,7 +13,7 @@ hide:
 
 # Yeah!Dev
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yeah-dev_531a3a5205c740cd0f000723) · [GitHub (flashback2k14)](https://github.com/flashback2k14) · [Website (yeahdeveloping.blogspot.com)](http://yeahdeveloping.blogspot.com)
 

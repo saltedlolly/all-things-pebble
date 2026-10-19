@@ -13,7 +13,7 @@ hide:
 
 # Brain Dance Designs
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brain-dance-designs_53664d5e93215eaec70001ad) · [GitHub (krnrnee)](https://github.com/krnrnee) · [Website (braindancedesigns.com)](http://braindancedesigns.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brain-dance-designs
 <h2 class="app-name" id="app-53713631e5768ed34f000032"><a href="https://apps.repebble.com/53713631e5768ed34f000032">PrimeTime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/krnrnee/pebble-primetime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-12</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-12</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Latest update now available on IOS! Analog watch face using only prime numbers on the dial. If you look closely you will see that the numbers form an interesting pattern on the dial. Features …</p>
 </div>

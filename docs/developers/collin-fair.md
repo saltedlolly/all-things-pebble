@@ -13,7 +13,7 @@ hide:
 
 # Collin Fair
 
-*3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/collin-fair_52cb0b00b138287b32000018) · [GitHub (cpfair)](https://github.com/cpfair) · [Website (elbbep.cpfx.ca)](https://elbbep.cpfx.ca)
 

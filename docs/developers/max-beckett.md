@@ -13,7 +13,7 @@ hide:
 
 # Max Beckett
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max-beckett_547aefed735193e6ce00000c) · [Rebble App Store](https://apps.rebble.io/en_US/developer/547aefed735193e6ce00000c/1) · [GitHub (mlb406)](https://github.com/mlb406)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max-beckett_547aefe
 <h2 class="app-name" id="app-56d222421f7ad629b6000041"><a href="https://apps.repebble.com/56d222421f7ad629b6000041">Circular Plus v2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/mlb406/circular-v2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-27</span> <span title="Latest release in the app store">Updated 2016-03-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-27</span> <span title="Latest release in the app store">Updated 2016-03-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Circular Plus v2 is a follow up of my watchface Circular+. It has been completely rewritten with SDK 3.x and has been optimised for the latest firmware. Unfortunately, not all features have yet…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max-beckett_547aefe
 <h2 class="app-name" id="app-55f9c3d9acde1796ce000084"><a href="https://apps.rebble.io/en_US/application/55f9c3d9acde1796ce000084">Timetable Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mlb406/Timetable_Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-16</span> <span title="Latest release in the app store">Updated 2015-09-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-16</span> <span title="Latest release in the app store">Updated 2015-09-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Timetable Time is a watchface designed for students. You can enter your timetable for each day, and it will pop up for the day it is. It also has a battery display and the date Features planned: …</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max-beckett_547aefe
 <h2 class="app-name" id="app-55b393357d33ce09d8000059"><a href="https://apps.repebble.com/55b393357d33ce09d8000059">CircularPlus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/mlb406/CircularFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-25</span> <span title="Latest release in the app store">Updated 2015-07-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-25</span> <span title="Latest release in the app store">Updated 2015-07-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Meet CircularPlus. CircularPlus is a watchface for Pebble, that has several configurable options. Although tested predominantly on Pebble Original, the face should also work on Pebble Time and…</p>
 </div>

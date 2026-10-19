@@ -13,7 +13,7 @@ hide:
 
 # Benjamin Burgy
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-burgy_569540ccc3d5eb67e2000070) · [Rebble App Store](https://apps.rebble.io/en_US/developer/569540ccc3d5eb67e2000070/1) · [GitHub (bburgy)](https://github.com/bburgy) · [GitHub (minidfx)](https://github.com/minidfx)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-burgy_5695
 <h2 class="app-name" id="app-56f6b6f614325b254b000053"><a href="https://apps.rebble.io/en_US/application/56f6b6f614325b254b000053">ClockLight</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/minidfx/ClockLight" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-26</span> <span title="Latest release in the app store">Updated 2016-10-11</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-26</span> <span title="Latest release in the app store">Updated 2016-10-11</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface displaying date, time, the day of week, the battery level and the bluetooth status with your phone when your are disconnected.</p>
 </div>

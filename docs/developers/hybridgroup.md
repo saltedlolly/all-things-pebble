@@ -13,7 +13,7 @@ hide:
 
 # HybridGroup
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hybridgroup_55369ca99c0e1410bb0000b5) · [GitHub (hybridgroup)](https://github.com/hybridgroup) · [Website (watchbot.io)](http://watchbot.io)
 

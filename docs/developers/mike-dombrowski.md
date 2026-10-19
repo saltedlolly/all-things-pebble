@@ -13,7 +13,7 @@ hide:
 
 # Mike Dombrowski
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mike-dombrowski_52f147b9537d3070a3000148) · [GitHub (md100play)](https://github.com/md100play) · [Website (mikedombrowski.com)](http://mikedombrowski.com/projects/pebbletides-pebble-smartwatch-app/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mike-dombrowski_52f
 <h2 class="app-name" id="app-5360443e43c553e46a000023"><a href="https://apps.repebble.com/5360443e43c553e46a000023">Tide Aware (Non-US)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.11</span></h2>
 <a class="app-source" href="https://github.com/md100play/PebbleTides-Non-US" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-30</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-04-30</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Tide Aware now supports thousands of locations outside of the US. Tide Aware is the incredibly simple way to check the closest tides based on locations input by the user through the Pebble…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mike-dombrowski_52f
 <h2 class="app-name" id="app-530e9f7f306a45f5bc00003f"><a href="https://apps.repebble.com/530e9f7f306a45f5bc00003f">Tide Aware</a> <span class="app-version" title="Latest version" data-search-exclude>v3.11</span></h2>
 <a class="app-source" href="https://github.com/md100play/PebbleTides-WatchApp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-27</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-02-27</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">**US Only** Tide Aware is the incredibly simple way to check the closest tides based on GPS, ZIP Codes, or city and state input by the user through the Pebble configuration feature. Now includes…</p>
 </div>

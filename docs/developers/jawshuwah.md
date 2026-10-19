@@ -13,7 +13,7 @@ hide:
 
 # jawshuwah
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jawshuwah_52f018a6bb34231cf300026b) · [GitHub (jawshuwah)](https://github.com/jawshuwah)
 

@@ -13,7 +13,7 @@ hide:
 
 # Greg Lockwood
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg-lockwood_548443cf9b0ef2e77e000070) · [GitHub (greglockwood)](https://github.com/greglockwood)
 

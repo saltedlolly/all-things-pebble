@@ -13,7 +13,7 @@ hide:
 
 # jerroh
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/63daefc81e4c55000844f045/1) · [GitHub (jrohall)](https://github.com/jrohall)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/63daefc81e4c550
 <h2 class="app-name" id="app-63fa50f863414f0009a4ca34"><a href="https://apps.rebble.io/en_US/application/63fa50f863414f0009a4ca34">Habs: A Minimal Habit Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/jrohall/Habs" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-02-25</span> <span title="Latest release in the app store">Updated 2023-02-25</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2023-02-25</span> <span title="Latest release in the app store">Updated 2023-02-25</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">==== BETA 1.0 ==== This app is a beta release of a minimal habit tracker that allows users to set custom habits on the pebble app, which will update the pebble application. Once the user logs a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/63daefc81e4c550
 <h2 class="app-name" id="app-63e5862363414f0008704a6e"><a href="https://apps.rebble.io/en_US/application/63e5862363414f0008704a6e">Spike Cowboy Bebop Watch Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/jrohall/spike_pebble_watchface/blob/master/README.md" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-02-09</span> <span title="Latest release in the app store">Updated 2023-02-12</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2023-02-09</span> <span title="Latest release in the app store">Updated 2023-02-12</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">pebble time round watchface for cowboy bebop fans!</p>
 </div>

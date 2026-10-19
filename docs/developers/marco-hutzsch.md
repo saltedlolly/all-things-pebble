@@ -13,7 +13,7 @@ hide:
 
 # Marco Hutzsch
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marco-hutzsch_567c24078dba1f775c000040) · [GitHub (mhutzsch)](https://github.com/mhutzsch)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marco-hutzsch_567c2
 <h2 class="app-name" id="app-5688f71d3f3554829f00008a"><a href="https://apps.repebble.com/5688f71d3f3554829f00008a">nordbahn</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/mhutzsch/nrdbhn" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-01-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-01-03</span> <span title="Latest release in the app store">Updated 2016-01-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">German: Überprüfe die Verspätungen der Nordbahn (www.nordbahn.de), Start Bahnhöfe können ausgewählt werden (Settings auf der pebble App am Handy). Klicke auf &#x27;Select&#x27; um die Angaben zu…</p>
 </div>

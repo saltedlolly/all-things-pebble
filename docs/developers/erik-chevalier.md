@@ -13,7 +13,7 @@ hide:
 
 # Erik Chevalier
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erik-chevalier_a35d2d43d45b920efe05ec14) · [GitHub (kaineone)](https://github.com/kaineone) · [Website (kaine.one)](https://www.kaine.one)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/erik-chevalier_a35d
 <h2 class="app-name" id="app-7beca89f985f493dbccbd9bd"><a href="https://apps.repebble.com/7beca89f985f493dbccbd9bd">Entity</a> <span class="app-version" title="Latest version" data-search-exclude>v26.2</span></h2>
 <a class="app-source" href="https://github.com/kaineone/entity-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Time Round, Time</div>
 <p class="app-desc">Entity is online. A simple, minimal watchface: the time in big block numbers, with a red scanner along the bottom, or around the edge on round watches. Totally free. No premium version, no…</p>
 </div>

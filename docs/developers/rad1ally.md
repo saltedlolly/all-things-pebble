@@ -13,7 +13,7 @@ hide:
 
 # Rad1ally
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_d03cd6b6993c081f27c2fc87) · [GitHub (Rad1ally)](https://github.com/Rad1ally)
 

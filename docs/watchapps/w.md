@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · **W** · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*70 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*72 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -254,6 +254,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/1958c27652f34a59bd08c7d4" data-search-exclude><img src="../images/apps/1958c27652f34a59bd08c7d4.png" alt="WeightTracker" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-1958c27652f34a59bd08c7d4"><a href="https://apps.repebble.com/1958c27652f34a59bd08c7d4">WeightTracker</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<a class="app-source" href="https://github.com/marukitano/weighttracker" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/marukitano.html" title="More from this developer">marukitano</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">**WeightTracker – Simple weight tracking on your wrist.** Track your weight directly on your Pebble Time 2 with a clean, minimalist interface and a smooth, interactive chart. Whether you want to…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54c1918d146d67002f000096" data-search-exclude><img src="../images/apps/54c1918d146d67002f000096.png" alt="WeightTracker" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-54c1918d146d67002f000096"><a href="https://apps.repebble.com/54c1918d146d67002f000096">WeightTracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
@@ -380,7 +391,7 @@ hide:
 <h2 class="app-name" id="app-543e6f8f6fbfc12dcd00009c"><a href="https://apps.repebble.com/543e6f8f6fbfc12dcd00009c">wifi status</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/noondaymoon/e585" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/noondaymoon.html" title="More from this developer">noondaymoon</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-15</span> <span title="Latest release in the app store">Updated 2016-10-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-15</span> <span title="Latest release in the app store">Updated 2016-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">display mobile rooter status for huawei e585 (myfi) and hw-01c, gl10p it can display: ・signal level ・network type ・connecting device number ・battery level ・carrier name ・current transfer speed…</p>
 </div>
@@ -468,7 +479,7 @@ hide:
 <h2 class="app-name" id="app-67cde4b6d2acb303aedd4aa8"><a href="https://apps.repebble.com/67cde4b6d2acb303aedd4aa8">WMATA Times</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/latonis/wmata-timetables" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jacob-latonis.html" title="More from this developer">Jacob Latonis</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-09</span> <span title="Latest release in the app store">Updated 2025-03-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-09</span> <span title="Latest release in the app store">Updated 2025-03-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">View real-time WMATA prediction times for trains.</p>
 </div>
@@ -534,7 +545,7 @@ hide:
 <h2 class="app-name" id="app-5455d6147871924620000045"><a href="https://apps.repebble.com/5455d6147871924620000045">Workmate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/keanulee/workmate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/keanu-lee.html" title="More from this developer">Keanu Lee</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-02</span> <span title="Latest release in the app store">Updated 2015-03-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-02</span> <span title="Latest release in the app store">Updated 2015-03-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Workmate lets you preview and manage Gmail messages, see your Google Calendar events, and manage your Google Tasks.</p>
 </div>
@@ -567,7 +578,7 @@ hide:
 <h2 class="app-name" id="app-546e1e2813159fbb420000bb"><a href="https://apps.repebble.com/546e1e2813159fbb420000bb">WoT Adjutant</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/kropochev/WoT-Adjutant" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/alexander-kropochev.html" title="More from this developer">Alexander Kropochev</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-20</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-20</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watch your achievements the game World of Tanks with Pebble</p>
 </div>
@@ -578,7 +589,7 @@ hide:
 <h2 class="app-name" id="app-57bbb7b5bb85edbc76000b33"><a href="https://apps.repebble.com/57bbb7b5bb85edbc76000b33">Wrastle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nategraf/wrastle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sirfry.html" title="More from this developer">Sirfry</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-23</span> <span title="Latest release in the app store">Updated 2016-08-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-23</span> <span title="Latest release in the app store">Updated 2016-08-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An arm wrestling referee, score keeper and excuse to challenge your friends! Download this app if you ever arm wrestle so many people that you lose track of score, or if you want to walk up to…</p>
 </div>
@@ -603,6 +614,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-07-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Wrist AI — A Flexible LLM Client for Pebble Wrist AI lets you talk to any Large Language Model directly from your Pebble watch. Speak your question, get a response on your wrist. Your phone…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/7dd73348eb6f49599a964d85" data-search-exclude><img src="../images/apps/7dd73348eb6f49599a964d85.gif" alt="Wrist Assistant" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7dd73348eb6f49599a964d85"><a href="https://apps.repebble.com/7dd73348eb6f49599a964d85">Wrist Assistant</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
+<a class="app-source" href="https://github.com/MrArron/Wrist-Assistant" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/arron.html" title="More from this developer">Arron</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Ask Claude, Anthropic&#x27;s AI, a question by voice and read a short answer on your wrist. Wrist Assistant is designed to work only with Claude. It needs your own Anthropic API key (from…</p>
 </div>
 </div>
 <div class="app-card">

@@ -13,7 +13,7 @@ hide:
 
 # Midnight Oscillator
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/midnight-oscillator_f337572cef4e9221cecbab5c) · [GitHub (coredevices)](https://github.com/coredevices)
 

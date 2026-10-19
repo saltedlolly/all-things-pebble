@@ -13,7 +13,7 @@ hide:
 
 # Kipling Inscore
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kipling-inscore_531a35dd4969a2a00e0005f3) · [GitHub (kinscore)](https://github.com/kinscore)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kipling-inscore_531
 <h2 class="app-name" id="app-53e8e537d20a0aacc700001e"><a href="https://apps.repebble.com/53e8e537d20a0aacc700001e">Big Datetime</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/kinscore/big_datetime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-11</span> <span title="Latest release in the app store">Updated 2014-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-08-11</span> <span title="Latest release in the app store">Updated 2014-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shows date and time in a format similar to Big Time. Top line is year, middle line is month (left two digits) and day (right two digits). Bottom line is hour and minute. Day of week in…</p>
 </div>

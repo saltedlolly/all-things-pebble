@@ -13,7 +13,7 @@ hide:
 
 # Kilian Koeltzsch
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kilian-koeltzsch_56a0fcf7a7d3b05d2609ce61) · [GitHub (kiliankoe)](https://github.com/kiliankoe)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kilian-koeltzsch_56
 <h2 class="app-name" id="app-c5a2a3ecd8ac487ab39411d8"><a href="https://apps.repebble.com/c5a2a3ecd8ac487ab39411d8">DVB</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/kiliankoe/dvbpb" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Navigate Dresden&#x27;s public transport network from your wrist. This app shows you upcoming departures for stops around you. You can also view and follow a specific trip. On opening the app it shows…</p>
 </div>

@@ -13,19 +13,41 @@ hide:
 
 # Andreas Varotsis
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andreas-varotsis_021ad35e7c7a1d61ceaac484) · [GitHub (AndreasThinks)](https://github.com/AndreasThinks)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andreas-varotsis_021ad35e7c7a1d61ceaac484) · [GitHub (AndreasThinks)](https://github.com/AndreasThinks) · [Website (andreasthinks.github.io)](https://andreasthinks.github.io/pebble-sentinel-docs/)
 
 </div>
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="sentinel" data-released="2026-10-18" data-updated="2026-10-18">
+<a class="app-shot" href="https://apps.repebble.com/fe6550c8c87c49cbbc9d8cba" data-search-exclude><img src="../images/apps/fe6550c8c87c49cbbc9d8cba.png" alt="Sentinel" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-fe6550c8c87c49cbbc9d8cba"><a href="https://apps.repebble.com/fe6550c8c87c49cbbc9d8cba">Sentinel</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<a class="app-source" href="https://github.com/AndreasThinks/pebble-sentinel" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Sentinel is an experimental, on-watch wellness monitor for Pebble Time 2. Enable background monitoring once, then keep using your normal watchface. Sentinel attempts short overnight heart-rate and…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="terminal dogma" data-released="2026-06-06" data-updated="2026-10-17">
+<a class="app-shot" href="https://apps.repebble.com/83a45005b95f438590f63b26" data-search-exclude><img src="../images/apps/83a45005b95f438590f63b26.png" alt="Terminal Dogma" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-83a45005b95f438590f63b26"><a href="https://apps.repebble.com/83a45005b95f438590f63b26">Terminal Dogma</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.21</span></h2>
+<a class="app-source" href="https://github.com/AndreasThinks/terminal-dogma" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Terminal Dogma is a NERV-inspired Pebble Time 2 (Emery) watchface with a MAGI-style HUD and live battery, phone-link, health, steps and weather status. Shake to open a three-hour heart-rate graph…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="squire plus" data-released="2026-10-10" data-updated="2026-10-10">
 <a class="app-shot" href="https://apps.repebble.com/dd12fd7290054f6aaaa4e41f" data-search-exclude><img src="../images/apps/dd12fd7290054f6aaaa4e41f.png" alt="Squire Plus" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andreas-varotsis_02
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Squire Plus puts your own AI agent on your Pebble. Press SELECT, ask a question out loud, and your agent&#x27;s answer appears on your watch. It connects to an agent you already run, such as Hermes or…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="terminal dogma" data-released="2026-06-06" data-updated="2026-06-08">
-<a class="app-shot" href="https://apps.repebble.com/83a45005b95f438590f63b26" data-search-exclude><img src="../images/apps/83a45005b95f438590f63b26.png" alt="Terminal Dogma" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-83a45005b95f438590f63b26"><a href="https://apps.repebble.com/83a45005b95f438590f63b26">Terminal Dogma</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.16</span></h2>
-<a class="app-source" href="https://github.com/AndreasThinks/pebble-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-06</span> <span title="Latest release in the app store">Updated 2026-06-08</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A tactical terminal-inspired Pebble Time 2 watchface with configurable format, datamodules, and Evangelion inspired status chevrons.</p>
 </div>
 </div>
 </div>

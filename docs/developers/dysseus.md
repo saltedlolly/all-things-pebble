@@ -13,7 +13,7 @@ hide:
 
 # dysseus
 
-*4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d55366949234e464067ed224) · [GitHub (dysseus-pascal)](https://github.com/dysseus-pascal)
 

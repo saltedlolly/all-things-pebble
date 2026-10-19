@@ -13,7 +13,7 @@ hide:
 
 # Dennis Bednarz
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dennis-bednarz_58061cb19392fff80200021e) · [GitHub (pebble-hacks)](https://github.com/pebble-hacks)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dennis-bednarz_5806
 <h2 class="app-name" id="app-580a13ade195684f5a000132"><a href="https://apps.repebble.com/580a13ade195684f5a000132">Block World</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pebble-hacks/block-world" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-21</span> <span title="Latest release in the app store">Updated 2016-10-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-10-21</span> <span title="Latest release in the app store">Updated 2016-10-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Simple &#x27;block-builder&#x27; game for Pebble SDK 3.0. Uses modified PGE and isometric libraries to show a grid of 16 x 16 x 14 blocks that can be placed by the user. Made by Pebble Hacks.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # crims0n
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/68f926c8b2e4450009362a34/1) · [GitHub (crims0n)](https://github.com/crims0n) · [Website (x.com)](https://x.com/crims0n)
 

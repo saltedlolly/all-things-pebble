@@ -13,7 +13,7 @@ hide:
 
 # Murat Mukhtarov
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/murat-mukhtarov_56dbcb65f92cb6a1a4000003) · [GitHub (murat1985)](https://github.com/murat1985)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/murat-mukhtarov_56d
 <h2 class="app-name" id="app-574bec916037e86f0c000002"><a href="https://apps.repebble.com/574bec916037e86f0c000002">PagerDuty JS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/murat1985/pebblejs-pagerduty" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-30</span> <span title="Latest release in the app store">Updated 2016-05-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2016-05-30</span> <span title="Latest release in the app store">Updated 2016-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Receive incidents and view them as cards on your Pebble Watch; Acknowledge an incident when you received it; Acknowledge all incidents; App will show you how long you are going to be on-call - and…</p>
 </div>

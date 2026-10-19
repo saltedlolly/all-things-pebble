@@ -13,7 +13,7 @@ hide:
 
 # altarr
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/altarr_a3b9b59377bfff3d652e6a00) · [GitHub (altarr)](https://github.com/altarr)
 
@@ -21,15 +21,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/altarr_a3b9b59377bf
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="telegram voice" data-released="2026-09-13" data-updated="2026-09-13">
+<div class="app-card" data-type="watchapp" data-title="telegram voice" data-released="2026-09-13" data-updated="2026-10-17">
 <a class="app-shot" href="https://apps.repebble.com/64c41a2069e54ac7a980478c" data-search-exclude><img src="../images/apps/64c41a2069e54ac7a980478c.png" alt="Telegram Voice" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-64c41a2069e54ac7a980478c"><a href="https://apps.repebble.com/64c41a2069e54ac7a980478c">Telegram Voice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-64c41a2069e54ac7a980478c"><a href="https://apps.repebble.com/64c41a2069e54ac7a980478c">Telegram Voice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/altarr/pebble-telegram-voice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Use your Pebble watch to speak to your Telegram bot. Press SELECT, say what&#x27;s on your mind, and read your bot&#x27;s reply on your wrist. Connect your own compatible AI assistant or automation bot for…</p>
+<p class="app-desc">Use your Pebble watch to speak to your Telegram bot. Press SELECT, speak, and read your bot&#x27;s reply on your wrist. Connect your own compatible AI assistant or automation bot for questions, notes…</p>
 </div>
 </div>
 </div>

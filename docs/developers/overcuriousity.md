@@ -13,7 +13,7 @@ hide:
 
 # overcuriousity
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/overcuriousity_886814d700febfcda1ee2bcf) · [GitHub (overcuriousity)](https://github.com/overcuriousity)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/overcuriousity_8868
 <h2 class="app-name" id="app-6b991b92d1d24fefa357e22d"><a href="https://apps.repebble.com/6b991b92d1d24fefa357e22d">CalDAV Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/overcuriousity/pebble-caldav-calendar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">This is a fork of Eric McCormick&#x27;s 7day ICS Calendar (https://apps.repebble.com/7day-ics-calendar_82451ba23ca641ab82821fa6). Your Calendar, at a Glance. Leave your phone in your pocket. CalDAV…</p>
 </div>

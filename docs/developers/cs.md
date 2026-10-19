@@ -13,7 +13,7 @@ hide:
 
 # cS
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cs_5453716ff44f6aceb9000061) · [GitHub (chms)](https://github.com/chms) · [Website (blog.chschmid.com)](http://blog.chschmid.com/?p=1873)
 

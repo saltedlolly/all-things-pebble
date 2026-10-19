@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · **Z** · [0–9 & other](other.md)
 
-*21 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*21 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-5733bba2f68e7b31a9000002"><a href="https://apps.repebble.com/5733bba2f68e7b31a9000002">Zero Escape</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/offoxsmind/zeroescape" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/weaversway.html" title="More from this developer">weaversway</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-11</span> <span title="Latest release in the app store">Updated 2016-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-11</span> <span title="Latest release in the app store">Updated 2016-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Zero Hour watch face with colors that change on the hour. Displays the hour on the main watch face, and then a shake of the wrist will show the full time.</p>
 </div>
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-68ee48a13e917c00090b923c"><a href="https://apps.repebble.com/68ee48a13e917c00090b923c">zh-TW_Pixel</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.2</span></h2>
 <a class="app-source" href="https://github.com/ping840907/zh-TW_Pixel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sloth8497.html" title="More from this developer">Sloth8497</a> · <a href="https://forum.rebble.io/t/401" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-10-14</span> <span title="Latest release in the app store">Updated 2026-06-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-10-14</span> <span title="Latest release in the app store">Updated 2026-06-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A pixel-style pebble watch face with a full Chinese display, striking a balance between colloquialism and literary sense. In order to accommodate the Chinese way of reading time and the aesthetics…</p>
 </div>
@@ -171,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-a1c61f1227144535accbf53c"><a href="https://apps.repebble.com/a1c61f1227144535accbf53c">Zodiac: Gemini</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces/tree/main/zodiac-gemini" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/analog-tick-tocker.html" title="More from this developer">Analog Tick-Tocker</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-11</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-11</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Zodiac: Gemini pairs a vivid twin portrait with large, rounded black numerals designed for the 200×228 Pebble Time 2 display. Hours and minutes are stacked in the upper-left corner without a frame…</p>
 </div>
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-5776a81d66202abc7f0000c7"><a href="https://apps.repebble.com/5776a81d66202abc7f0000c7">ZSteps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/pebble-examples/strider-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zszen.html" title="More from this developer">zszen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-01</span> <span title="Latest release in the app store">Updated 2016-07-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-07-01</span> <span title="Latest release in the app store">Updated 2016-07-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I modify by example app &quot;strider-watchface&quot; And change it to watchface.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Connor Jewiss
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/connor-jewiss_544b469dd68d8fe20a000045) · [GitHub (connorypebble)](https://github.com/connorypebble) · [Website (britishlegion.org.uk)](http://www.britishlegion.org.uk/make-a-donation)
 

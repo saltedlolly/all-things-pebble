@@ -13,7 +13,7 @@ hide:
 
 # zefuru
 
-*3 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zefuru_6190e1008e31f0a6d6aba7af) · [GitHub (fumi6625)](https://github.com/fumi6625)
 
@@ -21,20 +21,31 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zefuru_6190e1008e31
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>3</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>3</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="mountain moon" data-released="2026-06-24" data-updated="2026-10-03">
+<div class="app-card" data-type="watchface" data-title="mountain moon" data-released="2026-06-24" data-updated="2026-10-17">
 <a class="app-shot" href="https://apps.repebble.com/c00e658c460d44b4a11a94eb" data-search-exclude><img src="../images/apps/c00e658c460d44b4a11a94eb.png" alt="Mountain Moon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c00e658c460d44b4a11a94eb"><a href="https://apps.repebble.com/c00e658c460d44b4a11a94eb">Mountain Moon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<h2 class="app-name" id="app-c00e658c460d44b4a11a94eb"><a href="https://apps.repebble.com/c00e658c460d44b4a11a94eb">Mountain Moon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/fumi6625/pebble-watch-face-moon-faces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Mountain Moon A landscape watch face. Features ・Automatic day/night switching — Detects sunrise and sunset times. Transitions from sunrise → daytime → sunset → moonlit night ・Moon phase display —…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="liquid color" data-released="2026-10-17" data-updated="2026-10-17">
+<a class="app-shot" href="https://apps.repebble.com/a0c538fa9eed4ebbaa3727ee" data-search-exclude><img src="../images/apps/a0c538fa9eed4ebbaa3727ee.png" alt="Liquid Color" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a0c538fa9eed4ebbaa3727ee"><a href="https://apps.repebble.com/a0c538fa9eed4ebbaa3727ee">Liquid Color</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/fumi6625/Flying-Time" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Liquid Color turns your Pebble Time 2 into a pool of liquid paint. Drip colour onto a black canvas, or start from one of five ready-made patterns in randomly chosen colours. Then just move. Tilt…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="more-recomo" data-released="2026-06-24" data-updated="2026-10-03">

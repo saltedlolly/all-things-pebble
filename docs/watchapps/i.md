@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*33 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*33 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-32871ae08d244c0abcbeae94"><a href="https://apps.repebble.com/32871ae08d244c0abcbeae94">I Ching</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/konsumer/pebble_iching" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-konsumer.html" title="More from this developer">David Konsumer</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Get I Ching reading on your watch!</p>
 </div>
@@ -171,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-5859480706e776ae7200039f"><a href="https://apps.rebble.io/en_US/application/5859480706e776ae7200039f">InstAPP</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/kaist/instapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/igor-zalomskij.html" title="More from this developer">Igor Zalomskij</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-20</span> <span title="Latest release in the app store">Updated 2017-08-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-12-20</span> <span title="Latest release in the app store">Updated 2017-08-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">!!! Its work again!!! InstApp is the app to view instagram timeline on PebbleTime. Attention! The app works with my server. This means that ALL communication goes through a third party site…</p>
 </div>
@@ -223,10 +223,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/6a9cbfd2d5f13e000a813cca" data-search-exclude><img src="../images/apps/6a9cbfd2d5f13e000a813cca.png" alt="Intervals Wellness Sync" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a9cbfd2d5f13e000a813cca"><a href="https://apps.rebble.io/en_US/application/6a9cbfd2d5f13e000a813cca">Intervals Wellness Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
+<h2 class="app-name" id="app-6a9cbfd2d5f13e000a813cca"><a href="https://apps.rebble.io/en_US/application/6a9cbfd2d5f13e000a813cca">Intervals Wellness Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
 <a class="app-source" href="https://github.com/daktak/pebble-intervals-wellness" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/daktak.html" title="More from this developer">Daktak</a> · <a href="https://forum.rebble.io/t/1335" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-06</span> <span title="Latest release in the app store">Updated 2026-09-24</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-06</span> <span title="Latest release in the app store">Updated 2026-10-18</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Push sleep, hr and step data to intervals.icu For HRV, enable in background apps (Pebble Time 2)</p>
 </div>
@@ -281,7 +281,7 @@ hide:
 <h2 class="app-name" id="app-54b7e129986a229c5700004c"><a href="https://apps.repebble.com/54b7e129986a229c5700004c">IRKit Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/makotokw/pebble-irkit-remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/makoto-kawasaki.html" title="More from this developer">Makoto Kawasaki</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2016-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2016-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Send IR signal to IRKit. (IRKit device is IR remote controller and is seller in only Japan) Japanese IRkitに赤外線コマンドを送信します。設定方法はWEBSITEを確認してください。</p>
 </div>
@@ -289,10 +289,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6c34b655b63f4f8a918844a8" data-search-exclude><img src="../images/apps/6c34b655b63f4f8a918844a8.png" alt="Iron" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6c34b655b63f4f8a918844a8"><a href="https://apps.repebble.com/6c34b655b63f4f8a918844a8">Iron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.2</span></h2>
+<h2 class="app-name" id="app-6c34b655b63f4f8a918844a8"><a href="https://apps.repebble.com/6c34b655b63f4f8a918844a8">Iron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.5</span></h2>
 <a class="app-source" href="https://github.com/hag1987haaa/Iron-for-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/1987haaa.html" title="More from this developer">1987haaa</a> · <a href="https://forum.rebble.io/t/1113" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-23</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-23</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Iron - Workout Companion for Pebble Iron is a high-performance, open-source sports tracker for your Pebble smartwatch. Designed for runners and fitness enthusiasts, it tracks your real-time…</p>
 </div>
@@ -369,7 +369,7 @@ hide:
 <h2 class="app-name" id="app-55b5bdfe5e07169f58000022"><a href="https://apps.repebble.com/55b5bdfe5e07169f58000022">iTunesify Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/macecchi/pebble-itunesify-remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mario-cecchi.html" title="More from this developer">Mario Cecchi</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-27</span> <span title="Latest release in the app store">Updated 2016-07-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-07-27</span> <span title="Latest release in the app store">Updated 2016-07-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control iTunes and Spotify on your Mac using your Pebble, just like the Music app! You&#x27;ll need to run &#x27;iTunesify Remote for Pebble&#x27; on your Mac. On your Mac, go to bit.ly/pebble-itunes-mac and…</p>
 </div>

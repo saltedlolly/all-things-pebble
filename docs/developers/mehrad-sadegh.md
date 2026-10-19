@@ -13,7 +13,7 @@ hide:
 
 # Mehrad Sadegh
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57dca89e2d0cc879db000178/1) · [GitHub (mehradoo)](https://github.com/mehradoo)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57dca89e2d0cc87
 <h2 class="app-name" id="app-598591e30dfc32dd140009ba"><a href="https://apps.rebble.io/en_US/application/598591e30dfc32dd140009ba">Farsi Time</a> <span class="app-version" title="Latest version" data-search-exclude>v6.0</span></h2>
 <a class="app-source" href="https://github.com/mehradoo/big-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-08-05</span> <span title="Latest release in the app store">Updated 2017-08-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-08-05</span> <span title="Latest release in the app store">Updated 2017-08-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Minimalist digital watchface with Farsi digits for Pebble Time</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # swansswansswansswanssosoft
 
-*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5e65d05a3dd3108f341c08ea/1) · [GitHub (pauleeeeee)](https://github.com/pauleeeeee)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5e65d05a3dd3108
 <h2 class="app-name" id="app-5f682eb451c0ff2d3f0f28d8"><a href="https://apps.rebble.io/en_US/application/5f682eb451c0ff2d3f0f28d8">Dexcom Share CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/pauleeeeee/pebble-dexcom-share-cgm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-09-21</span> <span title="Latest release in the app store">Updated 2021-12-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2020-09-21</span> <span title="Latest release in the app store">Updated 2021-12-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Updated Dexcom Share CGM watch face for the Pebble smart watch. Replaces Simple CGM which broke in September of 2020. This is a watch face that people with Type 1 Diabetes can use to monitor blood…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5e65d05a3dd3108
 <h2 class="app-name" id="app-5ff3bb3c1e6bb18626ced4cb"><a href="https://apps.rebble.io/en_US/application/5ff3bb3c1e6bb18626ced4cb">Ticker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pauleeeeee/pebble-stock-ticker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-01-05</span> <span title="Latest release in the app store">Updated 2021-01-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2021-01-05</span> <span title="Latest release in the app store">Updated 2021-01-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Display the current and historical price of most cryptocurrencies as well as most publicly traded stocks on the major exchanges. Unfortunately, real-time data is not currently available for stocks…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5e65d05a3dd3108
 <h2 class="app-name" id="app-5e7449b43dd3109103feea94"><a href="https://apps.rebble.io/en_US/application/5e7449b43dd3109103feea94">Nightscout Double Vision</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/pauleeeeee/nightscout-double-vision" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-03-20</span> <span title="Latest release in the app store">Updated 2021-01-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2020-03-20</span> <span title="Latest release in the app store">Updated 2021-01-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Nightscout Double Vision allows you to track two people with Type-1 Diabetes (T1D) and display their Nightscout information on one Pebble watchface. Double Vision was originally modeled after the…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5e65d05a3dd3108
 <h2 class="app-name" id="app-5e9be8613dd31033ee19420e"><a href="https://apps.rebble.io/en_US/application/5e9be8613dd31033ee19420e">The Green Lantern</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pauleeeeee/the-green-lantern-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2020-04-19</span> <span title="Latest release in the app store">Updated 2020-04-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2020-04-19</span> <span title="Latest release in the app store">Updated 2020-04-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">The Green Lantern symbol on your wrist.</p>
 </div>

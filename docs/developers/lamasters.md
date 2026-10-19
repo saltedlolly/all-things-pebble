@@ -13,7 +13,7 @@ hide:
 
 # lamasters
 
-*3 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lamasters_5ca7f156835c6200017635d5) · [Rebble App Store](https://apps.rebble.io/en_US/developer/5ca7f156835c6200017635d5/1) · [GitHub (lamasters)](https://github.com/lamasters)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lamasters_5ca7f1568
 <h2 class="app-name" id="app-67c3a3e6d2acb30009a3c7ba"><a href="https://apps.repebble.com/67c3a3e6d2acb30009a3c7ba">Pebblsky</a> <span class="app-version" title="Latest version" data-search-exclude>v1.97</span></h2>
 <a class="app-source" href="https://github.com/lamasters/pebblsky" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1291" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-02</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-02</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Browse your pinned feeds and stay up to date with what people are talking about with the latest trending topics from Bluesky. Support my work https://ko-fi.com/lamasters Thanks to denden1088 in…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lamasters_5ca7f1568
 <h2 class="app-name" id="app-67cb26bdb7a02301b9a6e426"><a href="https://apps.repebble.com/67cb26bdb7a02301b9a6e426">Modulus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.27</span></h2>
 <a class="app-source" href="https://github.com/lamasters/modulus-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/971" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple face with weather and fitness tracking. Customize it to match your colours! Inspired by the Apple Watch Modular face. Support my work https://ko-fi.com/lamasters The outer fitness ring is…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lamasters_5ca7f1568
 <h2 class="app-name" id="app-67bb8c49691e55000aa48cd8"><a href="https://apps.repebble.com/67bb8c49691e55000aa48cd8">Wrist Rocket</a> <span class="app-version" title="Latest version" data-search-exclude>v1.22</span></h2>
 <a class="app-source" href="https://github.com/lamasters/wrist-rocket" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-02-23</span> <span title="Latest release in the app store">Updated 2025-09-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-02-23</span> <span title="Latest release in the app store">Updated 2025-09-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Wrist Rocket gives you a countdown to the next rocket that will be launched into space! See when it will be launched and what type of rocket it is. Support my work https://ko-fi.com/lamasters</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lamasters_5ca7f1568
 <h2 class="app-name" id="app-67c34f7fd2acb30009a3c7a5"><a href="https://apps.rebble.io/en_US/application/67c34f7fd2acb30009a3c7a5">Curiosity Climate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.22</span></h2>
 <a class="app-source" href="https://github.com/lamasters/curiosity-climate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-01</span> <span title="Latest release in the app store">Updated 2025-09-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-01</span> <span title="Latest release in the app store">Updated 2025-09-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Ever wondered what those little robots are up to on Mars? Get the latest weather updates from the curiosity rover while you watch Mars orbit the sun every hour.</p>
 </div>

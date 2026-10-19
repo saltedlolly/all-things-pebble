@@ -13,7 +13,7 @@ hide:
 
 # davidjoho
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davidjoho_534d84d47670329d05000255) · [GitHub (dweinberger)](https://github.com/dweinberger)
 

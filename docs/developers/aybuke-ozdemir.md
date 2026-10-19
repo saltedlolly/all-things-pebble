@@ -13,7 +13,7 @@ hide:
 
 # aybuke ozdemir
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aybuke-ozdemir_535e5fec91c4a6f10d0001f6) · [GitHub (pebble-tr)](https://github.com/pebble-tr)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aybuke-ozdemir_535e
 <h2 class="app-name" id="app-542bf2247a4316d5be000051"><a href="https://apps.repebble.com/542bf2247a4316d5be000051">Magic Button</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/pebble-tr/Magic-Button" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-01</span> <span title="Latest release in the app store">Updated 2014-11-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-01</span> <span title="Latest release in the app store">Updated 2014-11-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A magic button that makes everything OK. Insprired by http://make-everything-ok.com</p>
 </div>

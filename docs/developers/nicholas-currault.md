@@ -13,7 +13,7 @@ hide:
 
 # Nicholas Currault
 
-*6 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*6 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicholas-currault_52c908c66025fc11fa00003a) · [GitHub (nicktendo64)](https://github.com/nicktendo64)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicholas-currault_5
 <h2 class="app-name" id="app-54168166247a034d440000be"><a href="https://apps.repebble.com/54168166247a034d440000be">Not Sure if AM or PM</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/nicktendo64/not-sure-if/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-15</span> <span title="Latest release in the app store">Updated 2015-12-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-09-15</span> <span title="Latest release in the app store">Updated 2015-12-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watchface is based on the &quot;not sure if&quot; Internet meme, which is in turn based on the TV series Futurama. Inspired by a reddit post: http://redd.it/2g6igt Made with CloudPebble.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicholas-currault_5
 <h2 class="app-name" id="app-565e1d8f5629c976ea00007c"><a href="https://apps.repebble.com/565e1d8f5629c976ea00007c">tempus latinum</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nicktendo64/tempus-latinum" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-01</span> <span title="Latest release in the app store">Updated 2015-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-01</span> <span title="Latest release in the app store">Updated 2015-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface displays the current time and date in the format that Ancient Romans would have used. All numbers are in Latin/Roman Numerals, the months and days are in Latin, and dates are…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicholas-currault_5
 <h2 class="app-name" id="app-541781d497ecd489f0000020"><a href="https://apps.repebble.com/541781d497ecd489f0000020">World Time: 9-5</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nicktendo64/World-Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-16</span> <span title="Latest release in the app store">Updated 2015-07-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-09-16</span> <span title="Latest release in the app store">Updated 2015-07-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This app, based on http://xkcd.com/1335/, shows where in the world it&#x27;s business hours. It is only available on color watches because the older watches&#x27; operating systems only know local time.</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicholas-currault_5
 <h2 class="app-name" id="app-54167f6b9796f6619d0000a8"><a href="https://apps.repebble.com/54167f6b9796f6619d0000a8">Such Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/nicktendo64/such-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-15</span> <span title="Latest release in the app store">Updated 2015-03-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-15</span> <span title="Latest release in the app store">Updated 2015-03-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface based on Doge, an Internet sensation. Made with CloudPebble</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicholas-currault_5
 <h2 class="app-name" id="app-54177f240ba7a964af000020"><a href="https://apps.repebble.com/54177f240ba7a964af000020">Party time!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nicktendo64/party-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-16</span> <span title="Latest release in the app store">Updated 2014-09-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-16</span> <span title="Latest release in the app store">Updated 2014-09-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface flashes once per second and contains both the current time and the text &quot;Party Time!&quot;.</p>
 </div>

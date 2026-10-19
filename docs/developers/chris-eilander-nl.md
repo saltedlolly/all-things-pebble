@@ -13,7 +13,7 @@ hide:
 
 # Chris Eilander.nl
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-eilander-nl_546da3e6e2a84b10b200006a) · [GitHub (chriseilander)](https://github.com/chriseilander) · [Website (chriseilander.nl)](https://chriseilander.nl)
 

@@ -13,7 +13,7 @@ hide:
 
 # Marcello Brivio
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marcello-brivio_5580881261728733a4000055) · [GitHub (marcellobrivio)](https://github.com/marcellobrivio) · [Website (marcellobrivio.com)](http://www.marcellobrivio.com/pebble-verbose-watchface)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marcello-brivio_558
 <h2 class="app-name" id="app-5597be3a6e32ca686800001e"><a href="https://apps.repebble.com/5597be3a6e32ca686800001e">Verbose Watchface for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.30</span></h2>
 <a class="app-source" href="https://github.com/marcellobrivio/Pebble-Verbose-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-04</span> <span title="Latest release in the app store">Updated 2016-02-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-04</span> <span title="Latest release in the app store">Updated 2016-02-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">In this watchface you won&#x27;t find beautiful graphics or cool typography to please your eyes: only data, displayed with a terminal-inspired look &amp; feel for the little nerd living inside everyone of…</p>
 </div>

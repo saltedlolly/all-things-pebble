@@ -13,7 +13,7 @@ hide:
 
 # Felix
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/felix_550d49d4783f36b3940000c1) · [GitHub (f3lan)](https://github.com/f3lan)
 

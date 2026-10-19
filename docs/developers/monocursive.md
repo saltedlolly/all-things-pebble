@@ -13,7 +13,7 @@ hide:
 
 # monocursive
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/monocursive_01645bfab8089ddfbae5abb0) · [GitHub (monocursive)](https://github.com/monocursive) · [Website (pond.monocursive.com)](https://pond.monocursive.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/monocursive_01645bf
 <h2 class="app-name" id="app-9101f10632be4625b5db4655"><a href="https://apps.repebble.com/9101f10632be4625b5db4655">Pond</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.4</span></h2>
 <a class="app-source" href="https://github.com/monocursive/pond" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-07</span> <span title="Latest release in the app store">Updated 2026-09-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-07</span> <span title="Latest release in the app store">Updated 2026-09-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I had a Pebble Time years ago. Now I have a Time 2, and I wanted to make a little something for the community that brought these watches back. So I made Pond. It’s a watchface with a smiling stone…</p>
 </div>

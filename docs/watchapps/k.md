@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*32 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*32 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-558697acf14558ea410000a0"><a href="https://apps.repebble.com/558697acf14558ea410000a0">Kart</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/matt-williams/pebble-kart" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matt-williams.html" title="More from this developer">Matt Williams</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-21</span> <span title="Latest release in the app store">Updated 2015-06-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-21</span> <span title="Latest release in the app store">Updated 2015-06-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A kart-racing game for the Pebble Watch, controlled using the built-in accelerometer. Now working in colour on Pebble Time as well as original Pebble!</p>
 </div>
@@ -94,7 +94,7 @@ hide:
 <h2 class="app-name" id="app-53bbd8c7c22300d74600018a"><a href="https://apps.repebble.com/53bbd8c7c22300d74600018a">Keboola Stats</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/keboola/pebble-watchapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/keboola.html" title="More from this developer">Keboola</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-07-08</span> <span title="Latest release in the app store">Updated 2014-08-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-07-08</span> <span title="Latest release in the app store">Updated 2014-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The most important BI metric at your fingertips (literally). “Keboola Stats” connects with your data to deliver business insights on the go. Whether it&#x27;s a report on GoodData.com or just data…</p>
 </div>
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-54f249a4150dd1f8120000ab"><a href="https://apps.repebble.com/54f249a4150dd1f8120000ab">KEXP Now Playing</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ludwick/pebble-kexp-now-playing" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/rachael-ludwick.html" title="More from this developer">Rachael Ludwick</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-28</span> <span title="Latest release in the app store">Updated 2015-02-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-02-28</span> <span title="Latest release in the app store">Updated 2015-02-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">KEXP Now Playing shows at application start the currently playing song on the radio station KEXP (http://kexp.org/). Force it to refresh by pressing the center &quot;SELECT&quot; button. Track information…</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-54b7e81f986a22be1a000072"><a href="https://apps.repebble.com/54b7e81f986a22be1a000072">Khelljyr Framework Example (garbage collector)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nvareille/Khelljyr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nicolas-vareille.html" title="More from this developer">Nicolas VAREILLE</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2015-01-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2015-01-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is an example made with Khelljyr Pebble Framework The topic of this example is the garbage collector feature. /!\This is a code example for pebble. Unless you are a developer, this…</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-54c75f12c5de00257c0000bb"><a href="https://apps.repebble.com/54c75f12c5de00257c0000bb">Khelljyr Framework Example (Keyboard Scene)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nvareille/KhelljyrExamples/tree/master/simple_keyboard_demo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nicolas-vareille.html" title="More from this developer">Nicolas VAREILLE</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-27</span> <span title="Latest release in the app store">Updated 2015-01-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-27</span> <span title="Latest release in the app store">Updated 2015-01-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is an example made with Khelljyr Pebble Framework The topic of this example is the Keyboard scene feature. /!\This is a code example for pebble. Unless you are a developer, this application…</p>
 </div>
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-edd90fe5fe5f47cd91e8cb68"><a href="https://apps.repebble.com/edd90fe5fe5f47cd91e8cb68">Kick Off</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/krisgesling/pebble-kick-off" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/kris-gesling.html" title="More from this developer">Kris Gesling</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A simple football (soccer) game tracking app, perfect for kids game day.</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-56e3a8485d0b2e499d000037"><a href="https://apps.repebble.com/56e3a8485d0b2e499d000037">Knibble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/kaveet/knibble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/indika-informatics.html" title="More from this developer">Indika Informatics</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2016-03-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2016-03-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">NiftyKnit is reborn as Knibble! Keep track of your knitting row and repeat counts from the convenience of your wrist. Knibble even remembers where you left off--the counters are always saved to…</p>
 </div>
@@ -358,7 +358,7 @@ hide:
 <h2 class="app-name" id="app-52bb592c530bf4dc60000018"><a href="https://apps.repebble.com/52bb592c530bf4dc60000018">KVV.live</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/lluchs/kvv.live" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/luchs.html" title="More from this developer">luchs</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2016-12-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2016-12-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shows live departure data from Karlsruhe&#x27;s public transit (KVV). Configure your frequented stops on the phone, then view departure information on Pebble. Data is taken from live.kvv.de Deutsch…</p>
 </div>

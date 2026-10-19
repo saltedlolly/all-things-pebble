@@ -13,7 +13,7 @@ hide:
 
 # Null Syntax
 
-*8 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*9 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/null-syntax_089fa8f469578884846bff5a) · [GitHub (AKlitbo)](https://github.com/AKlitbo) · [Website (andrewklitbo.com)](https://andrewklitbo.com/pebble)
 
@@ -21,18 +21,40 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/null-syntax_089fa8f
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>8</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>8</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>9</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>9</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="treeline" data-released="2026-07-31" data-updated="2026-10-12">
-<a class="app-shot" href="https://apps.repebble.com/c61b74fbb20946fea1ced5ce" data-search-exclude><img src="../images/apps/c61b74fbb20946fea1ced5ce.png" alt="Treeline" loading="lazy"></a>
+<div class="app-card" data-type="watchface" data-title="sketchbook horizon" data-released="2026-10-17" data-updated="2026-10-17">
+<a class="app-shot" href="https://apps.repebble.com/36830cf6f39645b9a91d5e12" data-search-exclude><img src="../images/apps/36830cf6f39645b9a91d5e12.gif" alt="Sketchbook Horizon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c61b74fbb20946fea1ced5ce"><a href="https://apps.repebble.com/c61b74fbb20946fea1ced5ce">Treeline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.3</span></h2>
+<h2 class="app-name" id="app-36830cf6f39645b9a91d5e12"><a href="https://apps.repebble.com/36830cf6f39645b9a91d5e12">Sketchbook Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Sketchbook Horizon is a hand-drawn style watchface for the Pebble Time 2 and Pebble Round 2. It carries four scenes in one face, a mountain ridge, a shoreline, a city bridge, and a forest…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="lcars stardate" data-released="2026-06-15" data-updated="2026-10-16">
+<a class="app-shot" href="https://apps.repebble.com/69139dc57a004424b6109c20" data-search-exclude><img src="../images/apps/69139dc57a004424b6109c20.png" alt="LCARS Stardate" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.14.0</span></h2>
+<a class="app-source" href="https://github.com/AKlitbo/pebble-watchface-lcars" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">LCARS Stardate is a Star Trek inspired LCARS digital watchface for the Pebble Time 2, with a live stardate under the clock. Pick four panels from 26 readouts, including weather, heart rate, steps…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="treeline" data-released="2026-07-31" data-updated="2026-10-12">
+<a class="app-shot" href="https://github.com/AKlitbo/pebble-watchfaces" data-search-exclude><img src="../images/apps/c61b74fbb20946fea1ced5ce.png" alt="Treeline" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c61b74fbb20946fea1ced5ce"><a href="https://github.com/AKlitbo/pebble-watchfaces">Treeline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.3</span></h2>
+<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-10-12</span> <span>No longer in the app stores</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Treeline is a hand-drawn style forest watchface for the Pebble Time 2 and Pebble Round 2. Live weather, wind, the moon phase, a sun that tracks your real sunrise/sunset times, heart rate, steps…</p>
 </div>
@@ -49,23 +71,23 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/null-syntax_089fa8f
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="shoreline" data-released="2026-07-31" data-updated="2026-10-12">
-<a class="app-shot" href="https://apps.repebble.com/6de09ae5e76b4e698057584f" data-search-exclude><img src="../images/apps/6de09ae5e76b4e698057584f.png" alt="Shoreline" loading="lazy"></a>
+<a class="app-shot" href="https://github.com/AKlitbo/pebble-watchfaces" data-search-exclude><img src="../images/apps/6de09ae5e76b4e698057584f.png" alt="Shoreline" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6de09ae5e76b4e698057584f"><a href="https://apps.repebble.com/6de09ae5e76b4e698057584f">Shoreline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.3</span></h2>
+<h2 class="app-name" id="app-6de09ae5e76b4e698057584f"><a href="https://github.com/AKlitbo/pebble-watchfaces">Shoreline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.3</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-10-12</span> <span>No longer in the app stores</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Shoreline is a hand-drawn style coastal watchface for the Pebble Time 2 and Pebble Round 2. A tide that follows the moon, live weather, the moon phase, a sun that tracks your real sunrise/sunset…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="ridgeline" data-released="2026-07-29" data-updated="2026-10-12">
-<a class="app-shot" href="https://apps.repebble.com/ca5c8919370b4a24a4b41c92" data-search-exclude><img src="../images/apps/ca5c8919370b4a24a4b41c92.png" alt="Ridgeline" loading="lazy"></a>
+<a class="app-shot" href="https://github.com/AKlitbo/pebble-watchfaces" data-search-exclude><img src="../images/apps/ca5c8919370b4a24a4b41c92.png" alt="Ridgeline" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ca5c8919370b4a24a4b41c92"><a href="https://apps.repebble.com/ca5c8919370b4a24a4b41c92">Ridgeline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.3</span></h2>
+<h2 class="app-name" id="app-ca5c8919370b4a24a4b41c92"><a href="https://github.com/AKlitbo/pebble-watchfaces">Ridgeline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.3</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-10-12</span> <span>No longer in the app stores</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Ridgeline is a hand-drawn style mountain watchface for the Pebble Time 2 and Pebble Round 2. Live weather, the moon phase, a sun that tracks your real sunrise/sunset times, heart rate, steps, and…</p>
 </div>
@@ -79,17 +101,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/null-syntax_089fa8f
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-22</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Radar Array is a tactical radar-inspired digital watchface for the Pebble Time 2. It shows weather, live GPS coordinates, heart rate, steps, and Bluetooth status, with the hourly vibration…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="lcars stardate" data-released="2026-06-15" data-updated="2026-10-12">
-<a class="app-shot" href="https://apps.repebble.com/69139dc57a004424b6109c20" data-search-exclude><img src="../images/apps/69139dc57a004424b6109c20.png" alt="LCARS Stardate" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.13.1</span></h2>
-<a class="app-source" href="https://github.com/AKlitbo/pebble-watchface-lcars" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">LCARS Stardate is a Star Trek inspired LCARS digital watchface for the Pebble Time 2, with a live stardate under the clock. Pick four panels from 26 readouts, including weather, heart rate, steps…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="ide vscode" data-released="2026-06-26" data-updated="2026-10-12">

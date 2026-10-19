@@ -13,7 +13,7 @@ hide:
 
 # Fanu
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fanu_106d07aaa0bc0803240043f1) · [GitHub (f4nu)](https://github.com/f4nu)
 

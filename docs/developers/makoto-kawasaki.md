@@ -13,7 +13,7 @@ hide:
 
 # Makoto Kawasaki
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/makoto-kawasaki_531f1484433d09be900001b5) · [GitHub (makotokw)](https://github.com/makotokw) · [Website (makotokw.com)](http://makotokw.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/makoto-kawasaki_531
 <h2 class="app-name" id="app-568aa41c6518afe93f000012"><a href="https://apps.repebble.com/568aa41c6518afe93f000012">Mineclock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/makotokw/pebble-mineclock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/948" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Analog/Digital watch that looks like a Minecraft clock.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/makoto-kawasaki_531
 <h2 class="app-name" id="app-54b7e129986a229c5700004c"><a href="https://apps.repebble.com/54b7e129986a229c5700004c">IRKit Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/makotokw/pebble-irkit-remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2016-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2016-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Send IR signal to IRKit. (IRKit device is IR remote controller and is seller in only Japan) Japanese IRkitに赤外線コマンドを送信します。設定方法はWEBSITEを確認してください。</p>
 </div>

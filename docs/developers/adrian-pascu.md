@@ -13,7 +13,7 @@ hide:
 
 # Adrian Pascu
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/697bed7402360800096afe3b/1) · [GitHub (peblum)](https://github.com/peblum) · [Website (pascu.be)](https://pascu.be)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/697bed740236080
 <h2 class="app-name" id="app-6a9eaa93c73fab000922277c"><a href="https://apps.rebble.io/en_US/application/6a9eaa93c73fab000922277c">Maps Navigation for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/peblum/maps-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1339" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-07</span> <span title="Latest release in the app store">Updated 2026-09-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">EUPL-1.2</span> <span title="First published in the app store">Released 2026-09-07</span> <span title="Latest release in the app store">Updated 2026-09-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Google Maps walking and cycling directions on your wrist, with a map. Start directions in Google Maps on your Android phone and Maps Navigation opens on the watch: Google&#x27;s own turn arrow, the…</p>
 </div>

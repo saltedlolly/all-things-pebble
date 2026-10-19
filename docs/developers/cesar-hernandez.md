@@ -13,7 +13,7 @@ hide:
 
 # Cesar Hernandez
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cesar-hernandez_caddaac1097dcb3aed14d135) · [GitHub (chernandezba)](https://github.com/chernandezba)
 

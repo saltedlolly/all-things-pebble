@@ -13,7 +13,7 @@ hide:
 
 # &quot;Cowboy&quot; Ben Alman
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cowboy-ben-alman_54de325a99d4be185d0000a3) · [GitHub (cowboy)](https://github.com/cowboy) · [Website (benalman.com)](http://benalman.com)
 

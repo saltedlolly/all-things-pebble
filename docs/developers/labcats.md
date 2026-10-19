@@ -13,7 +13,7 @@ hide:
 
 # Labcats
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/labcats_533b1f5e74415b8fca00004c) · [GitHub (mnemex)](https://github.com/mnemex)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/labcats_533b1f5e744
 <h2 class="app-name" id="app-533b222eee460a4a16000064"><a href="https://apps.repebble.com/533b222eee460a4a16000064">BitStack</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.0</span></h2>
 <a class="app-source" href="https://github.com/mnemex/bitstack" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-01</span> <span title="Latest release in the app store">Updated 2014-04-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-01</span> <span title="Latest release in the app store">Updated 2014-04-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A vertical, -fully- binary watch (also based on &quot;Just a Bit&quot;). Because it&#x27;s vertical, there&#x27;s no wasted space and the circles are nice and bright. Also, in 12 hour time, the hour shrinks down to…</p>
 </div>

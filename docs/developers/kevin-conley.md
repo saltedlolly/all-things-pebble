@@ -13,7 +13,7 @@ hide:
 
 # Kevin Conley
 
-*1 watchface and 2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-conley_52ef236f282306c38f00000d) · [GitHub (kevincon)](https://github.com/kevincon)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-conley_52ef23
 <h2 class="app-name" id="app-530db564ae03dcd9cf00024d"><a href="https://apps.repebble.com/530db564ae03dcd9cf00024d">SoberUp</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/kevincon/SoberUp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-26</span> <span title="Latest release in the app store">Updated 2024-01-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-26</span> <span title="Latest release in the app store">Updated 2024-01-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Count your drinks, estimate your BAC, and learn about the effects of alcohol on your body.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-conley_52ef23
 <h2 class="app-name" id="app-56a727ff6178cf2f01000020"><a href="https://apps.repebble.com/56a727ff6178cf2f01000020">Goal Star</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/kevincon/goal_star" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-26</span> <span title="Latest release in the app store">Updated 2016-08-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-26</span> <span title="Latest release in the app store">Updated 2016-08-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A simple Pebble app that lets you set a daily health goal and get notified with vibrations and a popup when you reach it. Goal Star runs in the background so you can get notified even if you&#x27;re…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-conley_52ef23
 <h2 class="app-name" id="app-56340c46716fdbf1a600002c"><a href="https://apps.repebble.com/56340c46716fdbf1a600002c">Sprinkles</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/kevincon/sprinkles" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-31</span> <span title="Latest release in the app store">Updated 2016-03-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-31</span> <span title="Latest release in the app store">Updated 2016-03-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog Homer Simpson watch face that supports every Pebble watch, from the Pebble Classic to the Pebble Time Round. Homer&#x27;s eyes follow a sprinkled donut on either the minute or seconds hand…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # chocholom
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chocholom_6a4a52b1b297de00081b9f7b) · [GitHub (chocholom)](https://github.com/chocholom)
 

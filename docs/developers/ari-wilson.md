@@ -13,7 +13,7 @@ hide:
 
 # Ari Wilson
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ari-wilson_52a03c4b2a0bb9b0fb00000d) · [GitHub (evilrobot69)](https://github.com/evilrobot69)
 

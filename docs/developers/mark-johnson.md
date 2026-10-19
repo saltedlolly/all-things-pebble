@@ -13,7 +13,7 @@ hide:
 
 # Mark Johnson
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mark-johnson_bfedc85363580901697437a2) · [GitHub (marmarjohnson)](https://github.com/marmarjohnson)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mark-johnson_bfedc8
 <h2 class="app-name" id="app-47976912ba4c4d42b127b368"><a href="https://apps.repebble.com/47976912ba4c4d42b127b368">Moderne</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/marmarjohnson/moderne" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">Moderne is an elegant, highly configurable watchface for the Pebble Round 2, built on a clean Art Deco-inspired numeral face (Poiret One) with day/night-aware backgrounds. - *Sun-arc weather…</p>
 </div>

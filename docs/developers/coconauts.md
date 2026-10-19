@@ -13,7 +13,7 @@ hide:
 
 # Coconauts
 
-*1 watchface and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/coconauts_1e79b46fb4a32ceee9259940) · [GitHub (coconauts)](https://github.com/coconauts) · [GitHub (rephus)](https://github.com/rephus)
 

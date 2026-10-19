@@ -13,7 +13,7 @@ hide:
 
 # ThePurpleK
 
-*2 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thepurplek_5606dc7f2f167dbd3d000076) · [GitHub (kz)](https://github.com/kz) · [Website (timetablepush.me)](https://timetablepush.me/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thepurplek_5606dc7f
 <h2 class="app-name" id="app-562a89497480835e51000090"><a href="https://apps.repebble.com/562a89497480835e51000090">Timetable Pusher</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/kz/timetable-pusher-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2018-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2018-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Push your class timetable to your timeline with Timetable Pusher. Simply visit https://timetablepush.me/, enter your timetables, install the app and get started! Questions? Reach out to me at…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thepurplek_5606dc7f
 <h2 class="app-name" id="app-562cfbeab56e5de360000091"><a href="https://apps.repebble.com/562cfbeab56e5de360000091">Remote for LIFX</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/kz/lifx-pebble-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Toggle your LIFX lights and activate your scenes using Remote for LIFX. Suggestions? Bugs? Feel free to get in touch! Disclaimer: Remote for LIFX is an unofficial app and is not affiliated with…</p>
 </div>

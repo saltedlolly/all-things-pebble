@@ -13,7 +13,7 @@ hide:
 
 # DLevine.us
 
-*2 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54106f95816f735f200001ba/1) · [GitHub (djlevine)](https://github.com/djlevine)
 

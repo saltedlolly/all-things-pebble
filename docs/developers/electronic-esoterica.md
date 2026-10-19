@@ -13,7 +13,7 @@ hide:
 
 # Electronic Esoterica
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/electronic-esoterica_a7debaf5ee7f795688f3e475) · [GitHub (jimbruges)](https://github.com/jimbruges)
 

@@ -13,7 +13,7 @@ hide:
 
 # Beathoven
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/beathoven_3258bdad5543670134a5be03) · [GitHub (msteinhoefel)](https://github.com/msteinhoefel)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/beathoven_3258bdad5
 <h2 class="app-name" id="app-8e797a6fa67645d49c14d62d"><a href="https://apps.repebble.com/8e797a6fa67645d49c14d62d">Neon IO X Eclipse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/msteinhoefel/NeonIOXEclipse" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">The old neon tube classic, but even more abstract. Like my other watchface, Neon IO X Reborn, this is, in essence, a remake of Sam Jerichow&#x27;s popular Neon IO X. But unlike those two, this one is…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/beathoven_3258bdad5
 <h2 class="app-name" id="app-12874117325c4b84b85f31f8"><a href="https://apps.repebble.com/12874117325c4b84b85f31f8">Neon IO X Reborn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/msteinhoefel/NeonIOXReborn" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-07-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-07-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">The popular neon tube classic - now fully customizable! The original Neon IO X by Sam Jerichow is my favorite watch face by far. Unfortunately, I didn&#x27;t quite like how it looked on the bigger…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Andrew Nagle
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-nagle_52b1f7fc05c046fdd100001e) · [GitHub (kabili207)](https://github.com/kabili207)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-nagle_52b1f7
 <h2 class="app-name" id="app-52b2344405c046123000009a"><a href="https://apps.repebble.com/52b2344405c046123000009a">BitWatcher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/kabili207/BitWatcher" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-18</span> <span title="Latest release in the app store">Updated 2016-09-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-18</span> <span title="Latest release in the app store">Updated 2016-09-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Displays the current price of bitcoin using BitcoinAverage price index. * Support for numerous currencies and exchanges * Currency average Donations: 14VNMYGQbaNZ4og3YmTMTpHs8zVsakrENB</p>
 </div>

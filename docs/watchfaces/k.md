@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*35 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*35 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -47,10 +47,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/72d449bfbbf145b7a2d163d4" data-search-exclude><img src="../images/apps/72d449bfbbf145b7a2d163d4.png" alt="Kanji watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-72d449bfbbf145b7a2d163d4"><a href="https://apps.repebble.com/72d449bfbbf145b7a2d163d4">Kanji watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-72d449bfbbf145b7a2d163d4"><a href="https://apps.repebble.com/72d449bfbbf145b7a2d163d4">Kanji watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/jonavano/Pebble-Kanji-watch-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jonavano.html" title="More from this developer">Jonavano</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">This is a simple Japanese watch face with Kanji It is was made for the Time 2 but does work on the round. This was made with claude</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-5a36b58b461a8dfe42001479"><a href="https://apps.rebble.io/en_US/application/5a36b58b461a8dfe42001479">kface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/koredev/kface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/james-woo.html" title="More from this developer">James Woo</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-12-17</span> <span title="Latest release in the app store">Updated 2017-12-17</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-12-17</span> <span title="Latest release in the app store">Updated 2017-12-17</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Get time, date, weather, battery, and step information</p>
 </div>
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-da0dc9441cf34e9dba801da6"><a href="https://apps.repebble.com/da0dc9441cf34e9dba801da6">kface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/kooscode/kface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/kpebble.html" title="More from this developer">kPebble</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-08-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-08-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">kface — A clean, minimal watchface for Pebble Time 2. Time and date up top, a battery meter, live weather (temp, condition, and city — pulled via your phone&#x27;s location and Open-Meteo), your heart…</p>
 </div>
@@ -193,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/pebble-watchface-digilog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Kingfisher is a colorful digital watchface with the sun moving through the day, night, and twilight arcs. Features: * Great battery life * Uses phone location for sunrise/sunset with a fallback to…</p>
 </div>
@@ -215,7 +215,7 @@ hide:
 <h2 class="app-name" id="app-5482ee118f806fbe68000055"><a href="https://apps.repebble.com/5482ee118f806fbe68000055">Kirby Black</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/metakirby5.html" title="More from this developer">metakirby5</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My first watchface! When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage…</p>
 </div>
@@ -226,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-5482f502571fcff35400005f"><a href="https://apps.repebble.com/5482f502571fcff35400005f">Kirby Day/Night</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby-daynight" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/metakirby5.html" title="More from this developer">metakirby5</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage to that :) FEATURES…</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-5482eca6571fcf3114000051"><a href="https://apps.repebble.com/5482eca6571fcf3114000051">Kirby White</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/metakirby5.html" title="More from this developer">metakirby5</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My first watchface! When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage…</p>
 </div>
@@ -358,7 +358,7 @@ hide:
 <h2 class="app-name" id="app-55835eac2f3e32222b00002c"><a href="https://apps.repebble.com/55835eac2f3e32222b00002c">KS moded</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/mephissto/ks-clock-face/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mephissto.html" title="More from this developer">mephissto</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-19</span> <span title="Latest release in the app store">Updated 2016-01-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-06-19</span> <span title="Latest release in the app store">Updated 2016-01-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple watchface based on KS Original</p>
 </div>
@@ -391,7 +391,7 @@ hide:
 <h2 class="app-name" id="app-554960c92cfbfca8a20000eb"><a href="https://apps.repebble.com/554960c92cfbfca8a20000eb">Kyokusen JS</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/leovander/Kyokusen-JS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/leovander.html" title="More from this developer">leovander</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-06</span> <span title="Latest release in the app store">Updated 2015-05-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface inspired by Tokyoflash Japan&#x27;s Kyokusen Watch. Be wary, made with PebbleJS not knowing C is preferred. May fail after awhile but you can refresh the face.</p>
 </div>

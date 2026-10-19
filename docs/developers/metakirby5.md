@@ -13,7 +13,7 @@ hide:
 
 # metakirby5
 
-*4 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/metakirby5_54821dc0f9821f8829000017) · [GitHub (metakirby5)](https://github.com/metakirby5)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/metakirby5_54821dc0
 <h2 class="app-name" id="app-54d779a1aa0287d88100008d"><a href="https://apps.repebble.com/54d779a1aa0287d88100008d">Pokétch+</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-poketch-plus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-08</span> <span title="Latest release in the app store">Updated 2015-12-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-02-08</span> <span title="Latest release in the app store">Updated 2015-12-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pokétch+ Pokétch+ is a fork of Pokétch Digital - a Pebble watchface designed to emulate the digital watchface used on the Pokétch watch in Pokémon Diamond/Pearl/Platinum. Added Features: - Pebble…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/metakirby5_54821dc0
 <h2 class="app-name" id="app-5482f502571fcff35400005f"><a href="https://apps.repebble.com/5482f502571fcff35400005f">Kirby Day/Night</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby-daynight" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage to that :) FEATURES…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/metakirby5_54821dc0
 <h2 class="app-name" id="app-5482eca6571fcf3114000051"><a href="https://apps.repebble.com/5482eca6571fcf3114000051">Kirby White</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My first watchface! When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/metakirby5_54821dc0
 <h2 class="app-name" id="app-5482ee118f806fbe68000055"><a href="https://apps.repebble.com/5482ee118f806fbe68000055">Kirby Black</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/metakirby5/pebble-watchface-kirby" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-06</span> <span title="Latest release in the app store">Updated 2014-12-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My first watchface! When Kirby swallows two enemies with abilities at once, he gets the &quot;mix&quot; ability, which allows him to select an ability from a very fast roulette. This is meant to pay homage…</p>
 </div>

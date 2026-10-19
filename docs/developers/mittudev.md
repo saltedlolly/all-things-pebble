@@ -13,7 +13,7 @@ hide:
 
 # MittuDev
 
-*2 watchfaces and 3 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mittudev_5659e669c1b6ceb64b000081) · [GitHub (nmittu)](https://github.com/nmittu) · [Website (mittudev.com)](http://www.mittudev.com/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mittudev_5659e669c1
 <h2 class="app-name" id="app-571ee254b38a7d445b000014"><a href="https://apps.repebble.com/571ee254b38a7d445b000014">Starry</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/nmittu/starry" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-26</span> <span title="Latest release in the app store">Updated 2016-04-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-26</span> <span title="Latest release in the app store">Updated 2016-04-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface that shows you images of stars. Shows a different image every time the watchface reloads.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mittudev_5659e669c1
 <h2 class="app-name" id="app-571bf97f19c7adbfc5000017"><a href="https://apps.repebble.com/571bf97f19c7adbfc5000017">Nixie Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/nmittu/Nixie-Watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-23</span> <span title="Latest release in the app store">Updated 2016-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-23</span> <span title="Latest release in the app store">Updated 2016-04-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Nixie watchface for the pebble. You can make the watchface vibrate after a certain amount of time in the config page. Includes a connection indicator, battery indicator, and step counter…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mittudev_5659e669c1
 <h2 class="app-name" id="app-5716e62fe0e8f34571000001"><a href="https://apps.repebble.com/5716e62fe0e8f34571000001">News</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nmittu/Pebble-News" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-20</span> <span title="Latest release in the app store">Updated 2016-04-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-20</span> <span title="Latest release in the app store">Updated 2016-04-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">View most popular news from the New York Times API. -API keys are needed from http://developer.nytimes.com/docs</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mittudev_5659e669c1
 <h2 class="app-name" id="app-571188b8c96f2e474e000003"><a href="https://apps.repebble.com/571188b8c96f2e474e000003">Debt Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nmittu/DebtClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-16</span> <span title="Latest release in the app store">Updated 2016-04-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-16</span> <span title="Latest release in the app store">Updated 2016-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Live US national debt clock.</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mittudev_5659e669c1
 <h2 class="app-name" id="app-5704637a0239f18ed9000013"><a href="https://apps.repebble.com/5704637a0239f18ed9000013">Delegate Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/nmittu/2016-Delegate-Tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-06</span> <span title="Latest release in the app store">Updated 2016-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-06</span> <span title="Latest release in the app store">Updated 2016-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Tracks the delegate count of the 2016 presidential candidates.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # King Pi
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/king-pi_5299671fe627cef8d7000011) · [GitHub (pi-king)](https://github.com/pi-king)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/king-pi_5299671fe62
 <h2 class="app-name" id="app-52996cdc129af72b9d00002b"><a href="https://apps.repebble.com/52996cdc129af72b9d00002b">Maneki Neko Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10</span></h2>
 <a class="app-source" href="https://github.com/pi-king/manekineko" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2016-12-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2016-12-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Cute maneki neko(lucky cat) on your watch and bring good luck to you:) Beckoning and move mouth every minute. Through configuration page, user can - set background color - set text color - enable…</p>
 </div>

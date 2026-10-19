@@ -13,7 +13,7 @@ hide:
 
 # mc0e
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mc0e_ad6881d847504c23a06d9ecb) · [GitHub (mc0e)](https://github.com/mc0e)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mc0e_ad6881d847504c
 <h2 class="app-name" id="app-61b1a39099e740eabd674088"><a href="https://apps.repebble.com/61b1a39099e740eabd674088">BT Guard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/mc0e/BT-Guard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-27</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-09-27</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Keeps your phone on a tight leash. The app runs as a background app, monitoring the bluetooth connection to your phone. If the bluetooth connection is lost, it will buzz you, and keep on buzzing…</p>
 </div>

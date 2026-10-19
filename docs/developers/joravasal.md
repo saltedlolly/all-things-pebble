@@ -13,7 +13,7 @@ hide:
 
 # joravasal
 
-*2 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joravasal_54f9046252794e6bd900009b) · [GitHub (joravasal)](https://github.com/joravasal)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joravasal_54f904625
 <h2 class="app-name" id="app-56067556e3fed40eba000042"><a href="https://apps.repebble.com/56067556e3fed40eba000042">Spocks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/joravasal/SpocksWF" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-26</span> <span title="Latest release in the app store">Updated 2015-09-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-09-26</span> <span title="Latest release in the app store">Updated 2015-09-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Spocks (short for SPinning clOCKS, not related with the character from StarTrek, although I like to think he&#x27;d enjoy the watchface!) fills your Pebble screen with small analog watches that will…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joravasal_54f904625
 <h2 class="app-name" id="app-555a16fbb038d475ea0000de"><a href="https://apps.repebble.com/555a16fbb038d475ea0000de">HourWindow</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/joravasal/HourWindowWF" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-18</span> <span title="Latest release in the app store">Updated 2015-07-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-05-18</span> <span title="Latest release in the app store">Updated 2015-07-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A minimalistic analog watchface that will show only the actual hour and the minute hand. It can be fully customized, the options include: · Bluetooth status, it can be shown with an icon or by…</p>
 </div>

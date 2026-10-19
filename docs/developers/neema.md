@@ -13,7 +13,7 @@ hide:
 
 # Neema
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neema_acf4d290d5c2f2f1938365ed) · [GitHub (leeja328)](https://github.com/leeja328)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neema_acf4d290d5c2f
 <h2 class="app-name" id="app-62b4e87511724b988c0a8b02"><a href="https://apps.repebble.com/62b4e87511724b988c0a8b02">Momentous</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/leeja328/momentous" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watch face was inspired by Moment, created by Luke Harris. I love the block style that gives excellent readability and contrast, but I was sad that its settings page no longer worked and that…</p>
 </div>

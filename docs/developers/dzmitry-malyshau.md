@@ -13,7 +13,7 @@ hide:
 
 # Dzmitry Malyshau
 
-*1 watchface · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dzmitry-malyshau_00a174b857287af42e3ed3c5) · [GitHub (kvark)](https://github.com/kvark)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dzmitry-malyshau_00
 <h2 class="app-name" id="app-4ae142201d714846a1fab3d7"><a href="https://apps.repebble.com/4ae142201d714846a1fab3d7">Van Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.16</span></h2>
 <a class="app-source" href="https://github.com/kvark/van-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-02</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-02</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Rotating Vangers mechos on a turntable, with the time below. Cycles through 14 vehicles (Iron Shadow to Excorps) by day, by wrist-raise/tap, or pinned via settings. Inspired by the in-game shop…</p>
 </div>

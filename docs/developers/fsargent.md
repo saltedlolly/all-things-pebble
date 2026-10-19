@@ -13,7 +13,7 @@ hide:
 
 # fsargent
 
-*3 watchfaces · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fsargent_69d2beb9ad4f0800081a309d) · [GitHub (fsargent)](https://github.com/fsargent) · [Website (felixsargent.com)](https://felixsargent.com)
 

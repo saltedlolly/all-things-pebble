@@ -13,7 +13,7 @@ hide:
 
 # Harrison Allen
 
-*18 watchfaces and 4 apps · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*18 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harrison-allen_5e28ea923dd3109f151c7e08) · [Rebble App Store](https://apps.rebble.io/en_US/developer/5e28ea923dd3109f151c7e08/1) · [GitHub (HarrisonAllen)](https://github.com/HarrisonAllen)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harrison-allen_5e28
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="witching hour" data-released="2025-10-24" data-updated="2026-10-18">
+<a class="app-shot" href="https://apps.repebble.com/68faf1b725e7530009b78af2" data-search-exclude><img src="../images/apps/68faf1b725e7530009b78af2.gif" alt="Witching Hour" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-68faf1b725e7530009b78af2"><a href="https://apps.repebble.com/68faf1b725e7530009b78af2">Witching Hour</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
+<a class="app-source" href="https://github.com/HarrisonAllen/witching-hour" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1442" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-10-24</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">A cozy animated, live weather watchface for the Halloween season. Features: * Live weather via Open Meteo (witch changes outfits + accessories (customizable), clouds/weather conditions appear) *…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="tears of the kingdom" data-released="2023-06-11" data-updated="2026-10-09">
 <a class="app-shot" href="https://apps.repebble.com/6485ede3143b6504957bcfd5" data-search-exclude><img src="../images/apps/6485ede3143b6504957bcfd5.png" alt="Tears of the Kingdom" loading="lazy"></a>
 <div class="app-info">
@@ -79,17 +90,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harrison-allen_5e28
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2020-01-23</span> <span title="Latest release in the app store">Updated 2026-01-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Put the power of the Sheikah on your wrist! Based on the Sheikah Slate from the Legend of Zelda: Breath of the Wild, this watchface features: -Time and Date Display --Supports both 12 and 24 hour…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="witching hour" data-released="2025-10-24" data-updated="2025-10-28">
-<a class="app-shot" href="https://apps.repebble.com/68faf1b725e7530009b78af2" data-search-exclude><img src="../images/apps/68faf1b725e7530009b78af2.gif" alt="Witching Hour" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-68faf1b725e7530009b78af2"><a href="https://apps.repebble.com/68faf1b725e7530009b78af2">Witching Hour</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
-<a class="app-source" href="https://github.com/HarrisonAllen/witching-hour" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-10-24</span> <span title="Latest release in the app store">Updated 2025-10-28</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">A cozy animated, live weather watchface for the Halloween season. Features: * Live weather via Open Meteo (witch changes outfits + accessories (customizable), clouds/weather conditions appear) *…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="demonic descent" data-released="2025-05-18" data-updated="2025-05-18">

@@ -13,7 +13,7 @@ hide:
 
 # Travis La Marr
 
-*1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/travis-la-marr_52d0e98574a38e910b0000ee) · [GitHub (exiva)](https://github.com/exiva) · [Website (travis.lamarr.me)](http://travis.lamarr.me)
 

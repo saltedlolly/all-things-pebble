@@ -13,7 +13,7 @@ hide:
 
 # sgitaize
 
-*3 watchfaces and 1 app · Last updated 2026-10-12 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sgitaize_67c0d9b131804900097db57a) · [GitHub (sgitaize)](https://github.com/sgitaize)
 
@@ -26,15 +26,37 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sgitaize_67c0d9b131
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="casiocgm" data-released="2026-09-26" data-updated="2026-10-05">
+<div class="app-card" data-type="watchface" data-title="nightscout supercgm" data-released="2025-09-13" data-updated="2026-10-15">
+<a class="app-shot" href="https://apps.repebble.com/68c5e8d5474b97000932ae2c" data-search-exclude><img src="../images/apps/68c5e8d5474b97000932ae2c.png" alt="Nightscout Supercgm" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-68c5e8d5474b97000932ae2c"><a href="https://apps.repebble.com/68c5e8d5474b97000932ae2c">Nightscout Supercgm</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7</span></h2>
+<a class="app-source" href="https://github.com/sgitaize/Nightscout-supercgm" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/588" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-09-13</span> <span title="Latest release in the app store">Updated 2026-10-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">The ultimate Nightscout watchface for every Pebble. Five fully configurable rows — each independently set to any data source you need, in your color. ROWS (pick any per slot) • Nightscout BG —…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="casiocgm" data-released="2026-09-26" data-updated="2026-10-15">
 <a class="app-shot" href="https://apps.repebble.com/58fcfcc22c37487f815520db" data-search-exclude><img src="../images/apps/58fcfcc22c37487f815520db.png" alt="CasioCGM" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-58fcfcc22c37487f815520db"><a href="https://apps.repebble.com/58fcfcc22c37487f815520db">CasioCGM</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.6</span></h2>
+<h2 class="app-name" id="app-58fcfcc22c37487f815520db"><a href="https://apps.repebble.com/58fcfcc22c37487f815520db">CasioCGM</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5.0</span></h2>
 <a class="app-source" href="https://github.com/sgitaize/casiocgm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-26</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-26</span> <span title="Latest release in the app store">Updated 2026-10-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Casio-style LCD watchface for Pebble Time 2 with live Nightscout CGM (blood glucose). As a diabetic you want a cool watchface too – that&#x27;s why CasioCGM exists. - Glucose value with trend arrow in…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="91 dub cgm" data-released="2026-09-28" data-updated="2026-10-15">
+<a class="app-shot" href="https://apps.repebble.com/49c4f560ff4141548025f29f" data-search-exclude><img src="../images/apps/49c4f560ff4141548025f29f.png" alt="91 Dub CGM" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-49c4f560ff4141548025f29f"><a href="https://apps.repebble.com/49c4f560ff4141548025f29f">91 Dub CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/sgitaize/dubv4cgm" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-10-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">The classic 91 Dub look for Pebble Time 2 – now with live Nightscout CGM (blood glucose). As a diabetic you want a cool watchface too. - Glucose value with trend arrow and delta in the panel…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="watchietalkie2" data-released="2026-09-28" data-updated="2026-10-04">
@@ -46,28 +68,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sgitaize_67c0d9b131
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Walkie-talkie for your Pebble – with text. Pick a friend, press SELECT, speak: your words arrive as a text message on their watch. End-to-end encrypted, open source, and you can run your own…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="nightscout supercgm" data-released="2025-09-13" data-updated="2026-09-28">
-<a class="app-shot" href="https://apps.repebble.com/68c5e8d5474b97000932ae2c" data-search-exclude><img src="../images/apps/68c5e8d5474b97000932ae2c.png" alt="Nightscout Supercgm" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-68c5e8d5474b97000932ae2c"><a href="https://apps.repebble.com/68c5e8d5474b97000932ae2c">Nightscout Supercgm</a> <span class="app-version" title="Latest version" data-search-exclude>v2.6</span></h2>
-<a class="app-source" href="https://github.com/sgitaize/Nightscout-supercgm" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/588" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-09-13</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">The ultimate Nightscout watchface for every Pebble. Five fully configurable rows — each independently set to any data source you need, in your color. ROWS (pick any per slot) • Nightscout BG —…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="91 dub cgm" data-released="2026-09-28" data-updated="2026-09-28">
-<a class="app-shot" href="https://apps.repebble.com/49c4f560ff4141548025f29f" data-search-exclude><img src="../images/apps/49c4f560ff4141548025f29f.png" alt="91 Dub CGM" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-49c4f560ff4141548025f29f"><a href="https://apps.repebble.com/49c4f560ff4141548025f29f">91 Dub CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
-<a class="app-source" href="https://github.com/sgitaize/dubv4cgm" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">The classic 91 Dub look for Pebble Time 2 – now with live Nightscout CGM (blood glucose). As a diabetic you want a cool watchface too. - Glucose value with trend arrow and delta in the panel…</p>
 </div>
 </div>
 </div>
