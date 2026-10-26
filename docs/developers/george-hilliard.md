@@ -13,7 +13,7 @@ hide:
 
 # George Hilliard
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/george-hilliard_565c10e4eae744915f00001c) · [GitHub (thirtythreeforty)](https://github.com/thirtythreeforty)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/george-hilliard_565
 <h2 class="app-name" id="app-567312691a9a82d62800003d"><a href="https://apps.repebble.com/567312691a9a82d62800003d">Consensus</a> <span class="app-version" title="Latest version" data-search-exclude>v11.0</span></h2>
 <a class="app-source" href="https://github.com/thirtythreeforty/consensus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-17</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2015-12-17</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Consensus is an elegant, informative watchface that displays information from a variety of sources. You can aggregate information into your choice of complications that display behind the main…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Swantzter
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/swantzter_38e5d794bccd962d453ae6de) · [GitHub (swantzter)](https://github.com/swantzter)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/swantzter_38e5d794b
 <h2 class="app-name" id="app-c28d55850fee42f3a80d66cc"><a href="https://apps.repebble.com/c28d55850fee42f3a80d66cc">Macro Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/swantzter/PebbleMacroClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1019" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-03</span> <span title="Latest release in the app store">Updated 2026-06-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A version of shamHu&#x27;s Macro Clock that works on the new core devices app and the newer watches&#x27; larger screens. This clock features a zoomed in clock face where you only see the hour-hand…</p>
 </div>

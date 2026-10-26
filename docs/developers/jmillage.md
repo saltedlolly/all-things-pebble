@@ -13,7 +13,7 @@ hide:
 
 # JMillage
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jmillage_559f0fdb468257aee3000095) · [GitHub (johnmillage)](https://github.com/johnmillage)
 

@@ -13,7 +13,7 @@ hide:
 
 # Vadim Podlesov
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vadim-podlesov_531ae737c5f2c54076000094) · [GitHub (voseldop)](https://github.com/voseldop)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vadim-podlesov_531a
 <h2 class="app-name" id="app-581896d9c68d0087f800005f"><a href="https://apps.repebble.com/581896d9c68d0087f800005f">Shards</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/voseldop/shards" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-01</span> <span title="Latest release in the app store">Updated 2016-11-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-11-01</span> <span title="Latest release in the app store">Updated 2016-11-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Summary: Watchface with battery meter, digital and analog time and weather. The digital time, weather conditions and current temperature is displayed in the center of watchface. The circle in…</p>
 </div>

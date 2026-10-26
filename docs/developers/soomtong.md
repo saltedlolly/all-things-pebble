@@ -13,7 +13,7 @@ hide:
 
 # Soomtong
 
-*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soomtong_552d1af58215a22dc100000e) · [GitHub (soomtong)](https://github.com/soomtong)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soomtong_552d1af582
 <h2 class="app-name" id="app-5598b2766e86ef1b190000cd"><a href="https://apps.repebble.com/5598b2766e86ef1b190000cd">HannaClock</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/soomtong/HannaClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-05</span> <span title="Latest release in the app store">Updated 2015-12-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-05</span> <span title="Latest release in the app store">Updated 2015-12-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple Watchface using Hanna font for Pebble Time - Update Screen Every 5 min Original Designed by @suapapa Hanna Font Created &amp; Published by Woowahan.com</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soomtong_552d1af582
 <h2 class="app-name" id="app-559f949e93ff77bebd000013"><a href="https://apps.repebble.com/559f949e93ff77bebd000013">HannaCalendar</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/soomtong/HannaCalendar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-10</span> <span title="Latest release in the app store">Updated 2015-12-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-10</span> <span title="Latest release in the app store">Updated 2015-12-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple Watch-app using Hanna font for Pebble Time - Up and Down button for change Calendar - Select button for this month</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soomtong_552d1af582
 <h2 class="app-name" id="app-55b34b29deeaa3c469000035"><a href="https://apps.repebble.com/55b34b29deeaa3c469000035">HannaTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/soomtong/HannaTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-25</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-25</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc"># HannaTimer simple stopwatch for time-flow event. this app has two mode, that remember previous mode. change mode `long up click` action. ## LAP TIMER - time with interval(gap) each stopwatch…</p>
 </div>

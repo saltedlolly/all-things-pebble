@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · **Z** · [0–9 & other](other.md)
 
-*21 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*21 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-5abf41ee461a8d6af400030c"><a href="https://apps.rebble.io/en_US/application/5abf41ee461a8d6af400030c">Zen Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/stosem/pebble-wf-ZenTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/stosem.html" title="More from this developer">stosem</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-03-31</span> <span title="Latest release in the app store">Updated 2018-04-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-03-31</span> <span title="Latest release in the app store">Updated 2018-04-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Zen time is eternal NOW. But you can also read approximate mental time by detecting position of zen-circle (hour) and dot around this circle (minute). In screenshots it is a 11:00, 6:45, 3:30. To…</p>
 </div>
@@ -127,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-52b2a9c28c081503ed0000d6"><a href="https://apps.repebble.com/52b2a9c28c081503ed0000d6">Ziit</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/plan44/ziit_pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/plan44-ch.html" title="More from this developer">plan44.ch</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-19</span> <span title="Latest release in the app store">Updated 2015-10-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-12-19</span> <span title="Latest release in the app store">Updated 2015-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Swiss German text clock</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-52f29c665dbf7e5bcb0000be"><a href="https://apps.repebble.com/52f29c665dbf7e5bcb0000be">Zingy Animated</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/rhortal/ZingyAnimated" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/roberto-hortal.html" title="More from this developer">Roberto Hortal</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-05</span> <span title="Latest release in the app store">Updated 2014-02-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-05</span> <span title="Latest release in the app store">Updated 2014-02-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Animated watchface featuring Zingy dancing on your screen</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-584de168ce45dc2706000242"><a href="https://apps.rebble.io/en_US/application/584de168ce45dc2706000242">ZWF</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/stark-dev/ZWF" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/stark-dev.html" title="More from this developer">stark-dev</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-11</span> <span title="Latest release in the app store">Updated 2016-12-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-12-11</span> <span title="Latest release in the app store">Updated 2016-12-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Simple watchface. Shows date, bluetooth status, quiet mode and battery level. Hours: white; Minutes: red; Bluetooth dot is blue when connected, red when disconnected. The leftmost dot is red when…</p>
 </div>

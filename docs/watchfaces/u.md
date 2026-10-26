@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · **U** · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*26 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*27 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -69,12 +69,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6abf59c037b3780009304810" data-search-exclude><img src="../images/apps/6abf59c037b3780009304810.gif" alt="Ultra" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6abf59c037b3780009304810"><a href="https://apps.repebble.com/6abf59c037b3780009304810">Ultra</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.0</span></h2>
+<h2 class="app-name" id="app-6abf59c037b3780009304810"><a href="https://apps.repebble.com/6abf59c037b3780009304810">Ultra</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/ultra-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/1398" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">An analog watchface for Pebble with eight complications you choose yourself. Four gauges curve around the corners, four subdials sit inside the dial, and every one is yours to swap. - Eight slots…</p>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">An analog watchface for Pebble with eight complications you choose yourself. Four gauges curve around the corners, four subdials sit inside the dial, and every one is yours to swap. Join two…</p>
 </div>
 </div>
 <div class="app-card">
@@ -111,12 +111,23 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/c977d7b7e07b49298007a427" data-search-exclude><img src="../images/apps/c977d7b7e07b49298007a427.png" alt="Underground" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c977d7b7e07b49298007a427"><a href="https://apps.repebble.com/c977d7b7e07b49298007a427">Underground</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.6</span></h2>
+<a class="app-source" href="https://github.com/LiamCordelle/pebble-underground" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Your day as a transit map. Follow daylight, steps, heart rate and UV along colourful routes on cream paper. Tap or flick for a seven-line Service status board. Includes rolling rain forecasts, a…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/564e744e86b141f0c300000f" data-search-exclude><img src="../images/apps/564e744e86b141f0c300000f.png" alt="undertale" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-564e744e86b141f0c300000f"><a href="https://apps.repebble.com/564e744e86b141f0c300000f">undertale</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/rickr/undertale" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/rickr.html" title="More from this developer">RickR</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-20</span> <span title="Latest release in the app store">Updated 2015-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-20</span> <span title="Latest release in the app store">Updated 2015-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Watchface created by Sako based on the hit RPG Undertale. Time is displayed in the dialog box. Battery remaining is displayed as HP.</p>
 </div>
@@ -127,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-31982194f0bb4f248a6a44fd"><a href="https://apps.repebble.com/31982194f0bb4f248a6a44fd">Undertale - Still You</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/salim-benhamadi/Pebble-Undertale" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/salim-benhamadi.html" title="More from this developer">Salim Benhamadi</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-29</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-29</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Undertale&#x27;s &quot;Despite everything, it&#x27;s still you.&quot; typed out in pixel letters, rewriting itself every minute.</p>
 </div>
@@ -138,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-562aa454948d06fc92000007"><a href="https://apps.repebble.com/562aa454948d06fc92000007">Undertale Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/rileybrazell/UndertaleWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/riley-brazell.html" title="More from this developer">Riley Brazell</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2016-03-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2016-03-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple Undertale-themed watchface for Pebble Classic and Pebble Steel! Shows local time, date, and temperature in Fahrenheit! Tap/shake the watch to get a wink from your good buddy Sans!</p>
 </div>
@@ -160,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-565fdd4a0ea7f7eaa9000008"><a href="https://apps.repebble.com/565fdd4a0ea7f7eaa9000008">Undertime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/turnervink/undertime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/turner-vink.html" title="More from this developer">Turner Vink</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-03</span> <span title="Latest release in the app store">Updated 2017-01-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-03</span> <span title="Latest release in the app store">Updated 2017-01-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Checking the time... it fills you with DETERMINATION. A new Undertale character every hour or every time you launch the watchface. The health bar empties if your watch disconnects from your phone…</p>
 </div>
@@ -182,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-5618284f1d9c8c20f900001b"><a href="https://apps.repebble.com/5618284f1d9c8c20f900001b">Unix style</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/twodogwalker/PebbleFace_Ux" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/frank-prins.html" title="More from this developer">Frank Prins</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-09</span> <span title="Latest release in the app store">Updated 2015-11-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-09</span> <span title="Latest release in the app store">Updated 2015-11-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A first playing around face, inspired by Unix interfacing. It is quite like the other you will find around here, named Terminal etc. Oh, and yes, I am aware the unix commands shown are not valid…</p>
 </div>
@@ -193,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-f5049ca6ebfd485aa8595b60"><a href="https://apps.repebble.com/f5049ca6ebfd485aa8595b60">Upcoming Calendar Cards</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/sbrueckl/upcoming-calendar-cards" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sojocha.html" title="More from this developer">Sojocha</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">The watchface shows digital time, the next upcoming Google Calendar event as a sliding card, live weather, date, battery, and Bluetooth status. This watchface was heavily inspired by Ester…</p>
 </div>

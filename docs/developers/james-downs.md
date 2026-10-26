@@ -13,9 +13,9 @@ hide:
 
 # James Downs
 
-*2 watchfaces and 5 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
-Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5308eabf92c45e5f39000503/1) · [GitHub (CometDog)](https://github.com/CometDog) · [GitHub (PiwwowPants)](https://github.com/PiwwowPants)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-downs_5308eabf92c45e5f39000503) · [Rebble App Store](https://apps.rebble.io/en_US/developer/5308eabf92c45e5f39000503/1) · [GitHub (CometDog)](https://github.com/CometDog) · [GitHub (PiwwowPants)](https://github.com/PiwwowPants)
 
 </div>
 </div>
@@ -26,26 +26,26 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5308eabf92c45e5
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="pixel pastures" data-released="2026-04-05" data-updated="2026-07-10">
-<a class="app-shot" href="https://apps.rebble.io/en_US/application/69d28981b11d33000a28cc13" data-search-exclude><img src="../images/apps/69d28981b11d33000a28cc13.png" alt="Pixel Pastures" loading="lazy"></a>
+<div class="app-card" data-type="watchface" data-title="pixel pastures" data-released="2026-04-12" data-updated="2026-10-24">
+<a class="app-shot" href="https://apps.repebble.com/26bf7ec828cc4c3e909647cb" data-search-exclude><img src="../images/apps/26bf7ec828cc4c3e909647cb.gif" alt="Pixel Pastures" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69d28981b11d33000a28cc13"><a href="https://apps.rebble.io/en_US/application/69d28981b11d33000a28cc13">Pixel Pastures</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10.0</span></h2>
+<h2 class="app-name" id="app-26bf7ec828cc4c3e909647cb"><a href="https://apps.repebble.com/26bf7ec828cc4c3e909647cb">Pixel Pastures</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10.0</span></h2>
 <a class="app-source" href="https://github.com/CometDog/pebble-pixel-pastures-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/830" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-07-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Bring the cozy farm clock to your wrist This watchface recreates the look and feel of the beloved farming game with Pebble-ready pixel art inspired by the original. How to use: - Configure showing…</p>
+<p class="app-desc">Bring the cozy farm clock to your wrist This watchface recreates the look and feel of the beloved farming game with Pebble-ready pixel art inspired by the original. Features: - Digital date and…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="kagi news" data-released="2025-11-29" data-updated="2026-06-18">
-<a class="app-shot" href="https://apps.rebble.io/en_US/application/692b3f0549be450009b545ce" data-search-exclude><img src="../images/apps/692b3f0549be450009b545ce.png" alt="Kagi News" loading="lazy"></a>
+<div class="app-card" data-type="watchapp" data-title="kagi news" data-released="2025-11-29" data-updated="2026-10-24">
+<a class="app-shot" href="https://apps.repebble.com/692b3f0549be450009b545ce" data-search-exclude><img src="../images/apps/692b3f0549be450009b545ce.png" alt="Kagi News" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-692b3f0549be450009b545ce"><a href="https://apps.rebble.io/en_US/application/692b3f0549be450009b545ce">Kagi News</a> <span class="app-version" title="Latest version" data-search-exclude>v1.27.2</span></h2>
+<h2 class="app-name" id="app-692b3f0549be450009b545ce"><a href="https://apps.repebble.com/692b3f0549be450009b545ce">Kagi News</a> <span class="app-version" title="Latest version" data-search-exclude>v1.27.2</span></h2>
 <a class="app-source" href="https://github.com/CometDog/pebble-kite" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/85" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2025-11-29</span> <span title="Latest release in the app store">Updated 2026-06-18</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2025-11-29</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Unofficial front-end for Kagi News. About the App: !NEW! Now supports touch-based navigation on Pebble Time 2 and Pebble Round 2. Scroll up and down on menus and stories. Scroll left and right to…</p>
+<p class="app-desc">App Name: Kagi News — Category: Daily — Description: About the App: Unofficial Pebble front end for Kagi News. Daily press review from Kagi News with support for all features practical on the…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="tap tap" data-released="2026-01-25" data-updated="2026-01-31">

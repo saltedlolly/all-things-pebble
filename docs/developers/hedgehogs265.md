@@ -13,7 +13,7 @@ hide:
 
 # Hedgehogs265
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hedgehogs265_53ada5606b4f8e25c50003b2) · [GitHub (sethruji)](https://github.com/sethruji)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hedgehogs265_53ada5
 <h2 class="app-name" id="app-558cb4fcdf1af0306e000044"><a href="https://apps.repebble.com/558cb4fcdf1af0306e000044">Megaman Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/sethruji/MegamanTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-26</span> <span title="Latest release in the app store">Updated 2015-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-26</span> <span title="Latest release in the app store">Updated 2015-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">*Currently there is a bug that causes the face to not properly stay at the selected boss and power up. I will get to this issue as soon as I have the chance but I&#x27;m limited on time currently…</p>
 </div>

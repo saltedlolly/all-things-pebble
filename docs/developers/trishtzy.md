@@ -13,7 +13,7 @@ hide:
 
 # trishtzy
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/trishtzy_7f804afab74d6b22653f0e98) · [GitHub (trishtzy)](https://github.com/trishtzy)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/trishtzy_7f804afab7
 <h2 class="app-name" id="app-3973ba5aa4a04256a384422d"><a href="https://apps.repebble.com/3973ba5aa4a04256a384422d">Moonphase</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/trishtzy/pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog watchface with day/night mode: a blue sky with clouds and sun by day, a starry sky with a live moon phase subdial by night.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/trishtzy_7f804afab7
 <h2 class="app-name" id="app-9d2ad00e3f5f439a9396316c"><a href="https://apps.repebble.com/9d2ad00e3f5f439a9396316c">Meow O&#x27;Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/trishtzy/pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1286" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-28</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-28</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A playful watchface featuring an animated kitten that switches between playtime and sleeping mode based on the time of day, with clean time and date display. Includes battery status indicator with…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/trishtzy_7f804afab7
 <h2 class="app-name" id="app-78297d14b6bd426799b7d759"><a href="https://apps.repebble.com/78297d14b6bd426799b7d759">Lemming Brothers</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/trishtzy/pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-29</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-29</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">The Lemming Brothers bank is open for business — and time is money. A tiny analog clock is set into the facade of the venerable Lemming Brothers bank, keeping the hours with proper hands on a…</p>
 </div>

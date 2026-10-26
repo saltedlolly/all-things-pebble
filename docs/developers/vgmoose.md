@@ -13,7 +13,7 @@ hide:
 
 # VGMoose
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vgmoose_52d0f6d63b9c7ba25e0000e6) · [GitHub (vgmoose)](https://github.com/vgmoose) · [Website (rickyayoub.com)](http://rickyayoub.com/pebble/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vgmoose_52d0f6d63b9
 <h2 class="app-name" id="app-52d1305b2fb69516c7000017"><a href="https://apps.repebble.com/52d1305b2fb69516c7000017">Notepad (Tertiary Text)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/vgmoose/tertiary_text" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-11</span> <span title="Latest release in the app store">Updated 2014-01-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-11</span> <span title="Latest release in the app store">Updated 2014-01-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Notepad allows you to take notes directly on the Pebble! Using Tertiary Text it is possible to quickly type complete and full messages directly on your Pebble. Visit the site for more information…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Justin Loew
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-loew_532c9dd542be7ef387000098) · [GitHub (jloloew)](https://github.com/jloloew)
 

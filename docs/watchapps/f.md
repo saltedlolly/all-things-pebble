@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · **F** · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*52 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*54 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -23,12 +23,23 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/d06e1a02933f4f05b959b41a" data-search-exclude><img src="../images/apps/d06e1a02933f4f05b959b41a.png" alt="Fantasy Football" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d06e1a02933f4f05b959b41a"><a href="https://apps.repebble.com/d06e1a02933f4f05b959b41a">Fantasy Football</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/michaellunzer/pebble-fantasy-football" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/hoyt-labs.html" title="More from this developer">Hoyt Labs</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Every Sleeper Fantasy Football League on your wrist: live scores, who&#x27;s left to play, and win odds from projections. 👀 Made for a quick check-in 🏆 Every league at once — most people are in…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/a488436292ad4eb69d2a61d8" data-search-exclude><img src="../images/apps/a488436292ad4eb69d2a61d8.png" alt="FastForge" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-a488436292ad4eb69d2a61d8"><a href="https://apps.repebble.com/a488436292ad4eb69d2a61d8">FastForge</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/snonux/fastforge" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/paul-butow.html" title="More from this developer">Paul Bütow</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Track intermittent fasting from your wrist. Start and monitor fasts with a clear timer, use quick presets for common schedules, and review history and streak-friendly stats when you need context…</p>
 </div>
@@ -89,6 +100,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/a50f133015ae4259af4f19a1" data-search-exclude><img src="../images/apps/a50f133015ae4259af4f19a1.jpg" alt="FHIR Sync" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a50f133015ae4259af4f19a1"><a href="https://apps.repebble.com/a50f133015ae4259af4f19a1">FHIR Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.3</span></h2>
+<a class="app-source" href="https://github.com/wildflowerhealthio/Wildflower/tree/main/apps/fhir-sync-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/wildflowerhealth-io.html" title="More from this developer">WildflowerHealth.io</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-27</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Sync your Pebble&#x27;s health activities and health data minute by minute with a SMART on FHIR compatible server.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6a7a0321bb2e890009f6b0f8" data-search-exclude><img src="../images/apps/6a7a0321bb2e890009f6b0f8.png" alt="Film Devle" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-6a7a0321bb2e890009f6b0f8"><a href="https://apps.repebble.com/6a7a0321bb2e890009f6b0f8">Film Devle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
@@ -105,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-a9e4acfbf46844e6b1a880df"><a href="https://apps.repebble.com/a9e4acfbf46844e6b1a880df">Finamp Remote (Jellyfin)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/tannermeade/finamp-remote-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tanner-meade.html" title="More from this developer">Tanner Meade</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble companion for Finamp, the Jellyfin music player. This requires some changes that I&#x27;ve made to finamp as well. I&#x27;ll be making a pull request to try to get them accepted into the official…</p>
 </div>
@@ -116,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-540ca9ef1120350bc20001e0"><a href="https://apps.repebble.com/540ca9ef1120350bc20001e0">Find Cache - geocaching</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-findcache" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/samuel.html" title="More from this developer">Samuel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-07</span> <span title="Latest release in the app store">Updated 2016-05-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-07</span> <span title="Latest release in the app store">Updated 2016-05-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Geocache companion for Pebble! Configure to set multiple cache locations. Use a simple menu to choose a cache and follow easy directions to find it. Your heading (the white dot) is estimated from…</p>
 </div>
@@ -149,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-d71d5cfc5ec6470ebe8745d2"><a href="https://apps.repebble.com/d71d5cfc5ec6470ebe8745d2">Find My iPhone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/serogaq/PebbleFindMyiPhone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/serogaq.html" title="More from this developer">serogaq</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">Trigger the real Apple Find My Play Sound alert for your configured iPhone from a Pebble watch through your self-hosted backend</p>
 </div>
@@ -157,12 +179,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6ad530777779df0009463ac4" data-search-exclude><img src="../images/apps/6ad530777779df0009463ac4.png" alt="Find my iPhone or Android" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6ad530777779df0009463ac4"><a href="https://apps.repebble.com/6ad530777779df0009463ac4">Find my iPhone or Android</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<h2 class="app-name" id="app-6ad530777779df0009463ac4"><a href="https://apps.repebble.com/6ad530777779df0009463ac4">Find my iPhone or Android</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/astosia/FindmyPhone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/astosia.html" title="More from this developer">astosia</a> · <a href="https://forum.rebble.io/t/1443" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Simple watchapp that makes your Phone ring when you press a button - Works on iOS for iPhone Uses iOS alert notifications pushed via either the Pushover or Bark Apps. Because it uses iOS Critical…</p>
+<p class="app-desc">Simple watchapp that makes your Phone ring when you press a button - iOS for iPhone or iPad Uses iOS alert notifications pushed via either the Pushover or Bark Apps. Because it uses iOS Critical…</p>
 </div>
 </div>
 <div class="app-card">
@@ -171,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-52ed0fe86ccd08de6200004d"><a href="https://apps.repebble.com/52ed0fe86ccd08de6200004d">Find Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-findwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/samuel.html" title="More from this developer">Samuel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-01</span> <span title="Latest release in the app store">Updated 2016-10-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-02-01</span> <span title="Latest release in the app store">Updated 2016-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Can&#x27;t find your Pebble? If it is still within bluetooth reach and your phone/pad is connected to your watch, installing this app will make your watch vibrate and flash. The app counts minutes and…</p>
 </div>
@@ -270,7 +292,7 @@ hide:
 <h2 class="app-name" id="app-6929da3470731e00092debea"><a href="https://apps.repebble.com/6929da3470731e00092debea">Flashback F1 Results</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
 <a class="app-source" href="https://github.com/thementalgoose/pebble-flashback" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jordan-fisher.html" title="More from this developer">Jordan Fisher</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-28</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-28</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Get info on the current F1 Formula 1 Season - Current calendar + weekend schedule in your local timezone - Timeline pins for each event per weekend - Drivers Standings - Team Standings</p>
 </div>
@@ -347,7 +369,7 @@ hide:
 <h2 class="app-name" id="app-4a1c9ef57e924ac596115328"><a href="https://apps.repebble.com/4a1c9ef57e924ac596115328">Flipstone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/weagertron/Flipstone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/weagertron.html" title="More from this developer">Weagertron</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Flipstone is a roguelike built for the Pebble Time smartwatch, where every combat turn resolves with a coin flip. Heads deals damage, tails misses, and a rare edge landing crits for double…</p>
 </div>
@@ -369,7 +391,7 @@ hide:
 <h2 class="app-name" id="app-57b3722fbb85eddc98000636"><a href="https://apps.repebble.com/57b3722fbb85eddc98000636">FloodWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/smart-facility/cognicity-floodwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tomas-holderness.html" title="More from this developer">Tomas Holderness</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-16</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-08-16</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">On-Hand Flood Alerts FloodWatch is a Pebble app that shows nearby reports of flooding in Jakarta, Indonesia. Reports are collected from the open source flood map PetaJakarta.org. The app lists…</p>
 </div>
@@ -380,7 +402,7 @@ hide:
 <h2 class="app-name" id="app-e20547568e884f868586e419"><a href="https://apps.repebble.com/e20547568e884f868586e419">Fluid Sim</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/quantumwaffles/pebble-fluid-sim" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/michael-rex.html" title="More from this developer">Michael Rex</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-31</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-31</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Fluid Sim runs a real-time Navier–Stokes fluid solver on your Pebble. Dye is advected through a velocity field with diffusion and incompressible projection, producing continuous swirling…</p>
 </div>
@@ -435,7 +457,7 @@ hide:
 <h2 class="app-name" id="app-bf411784b2584f118a4035d0"><a href="https://apps.repebble.com/bf411784b2584f118a4035d0">ForeCasWatCompanion</a> <span class="app-version" title="Latest version" data-search-exclude>v1.34.6</span></h2>
 <a class="app-source" href="https://github.com/the-static/forcaswatch3" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/midnight-clocksmith.html" title="More from this developer">Midnight Clocksmith</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">I made a version of the forecaswatch2 watchface that runs as an app, so you can interact with it and have different info. I found that binding the app to a quicklaunch button helps it feel like a…</p>
 </div>
@@ -479,7 +501,7 @@ hide:
 <h2 class="app-name" id="app-546884448103a24f52000094"><a href="https://apps.repebble.com/546884448103a24f52000094">Franponator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pinkguy/franponator" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/martin-a1bedb.html" title="More from this developer">Martin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2014-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2014-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Générateur de Franponais, La langue française est très utilisée comme décoration au Japon. Retrouvez ici un générateur qui se chargera de faire cette dure besogne pour vous.</p>
 </div>
@@ -523,7 +545,7 @@ hide:
 <h2 class="app-name" id="app-82fc69b2d0964fe28e2520c3"><a href="https://apps.repebble.com/82fc69b2d0964fe28e2520c3">Fruit Chop</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-fruit-chop" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zhang-qichuan.html" title="More from this developer">Zhang Qichuan</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-08-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-08-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Swipe across the screen to slice the fruit — just watch out for the bombs. That&#x27;s all it takes to play Fruit Chop, a fast, fun fruit-slicing game built right for your wrist. This game needs a…</p>
 </div>

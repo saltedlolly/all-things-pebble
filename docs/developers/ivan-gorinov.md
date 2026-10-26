@@ -13,7 +13,7 @@ hide:
 
 # Ivan Gorinov
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58924f4e93254a42700009a1/1) · [GitHub (igorinov)](https://github.com/igorinov)
 

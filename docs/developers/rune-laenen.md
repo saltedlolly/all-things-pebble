@@ -13,7 +13,7 @@ hide:
 
 # Rune Laenen
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rune-laenen_54535818133890a624000077) · [GitHub (runelaenen)](https://github.com/runelaenen) · [Website (runelaenen.be)](http://runelaenen.be)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rune-laenen_5453581
 <h2 class="app-name" id="app-54690692ecee196dde000019"><a href="https://apps.repebble.com/54690692ecee196dde000019">MijnLijn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/runelaenen/MijnLijnPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2015-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2015-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Volg je bus op je Pebble. Deze app stelt je in staat je bus van De Lijn te volgen. Geen koude handen meer om je gsm uit je broekzak te halen! Dit is géén officiele app van De Lijn. Eventuele…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rune-laenen_5453581
 <h2 class="app-name" id="app-547c7a652dc8d2eb7f000018"><a href="https://apps.repebble.com/547c7a652dc8d2eb7f000018">Tweakers.net</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/runelaenen/TweakersPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-01</span> <span title="Latest release in the app store">Updated 2014-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-01</span> <span title="Latest release in the app store">Updated 2014-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Tweakers.net app voor Pebble. De 10 laatste headlines op je horloge. (dit is geen officiele app)</p>
 </div>

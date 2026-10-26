@@ -13,7 +13,7 @@ hide:
 
 # Ross Gardiner
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ross-gardiner_c9373569fe7360f24a6b1a70) · [GitHub (rossng)](https://github.com/rossng) · [Website (rossng.eu)](http://www.rossng.eu/pebble-watchfaces/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ross-gardiner_c9373
 <h2 class="app-name" id="app-da990f30581f4c9aaaa6fb6d"><a href="https://apps.repebble.com/da990f30581f4c9aaaa6fb6d">Graphics Gems</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.9</span></h2>
 <a class="app-source" href="https://github.com/rossng/pebble-watchfaces/tree/main/watchfaces/graphics-gems" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-27</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-27</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A native Pebble watchface that renders the classics of computer-graphics research — the Utah teapot, the Stanford bunny, an icosphere and a torus knot — with a from-scratch software rasterizer…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ross-gardiner_c9373
 <h2 class="app-name" id="app-828038d2a34d45eb8b3daa37"><a href="https://apps.repebble.com/828038d2a34d45eb8b3daa37">Passing Trains</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/rossng/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-18</span> <span title="Latest release in the app store">Updated 2026-06-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-18</span> <span title="Latest release in the app store">Updated 2026-06-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A native Pebble C watchface that slowly pans along a random Dutch (NS) train, minute by minute, scaled to fill the screen. A subtle type label floats above each train; the time sits in a bottom…</p>
 </div>

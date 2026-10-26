@@ -13,7 +13,7 @@ hide:
 
 # Zhang Qichuan
 
-*1 watchface and 5 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zhang-qichuan_53043485117485c22f0000cf) · [GitHub (qichuan)](https://github.com/qichuan) · [Website (zhangqichuan.com)](https://zhangqichuan.com/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zhang-qichuan_53043
 <h2 class="app-name" id="app-b29dcf9df26f41888a420a31"><a href="https://apps.repebble.com/b29dcf9df26f41888a420a31">Parcel Tracking</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-parcel-tracking" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-09-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Wondering if any parcel is arriving today? This app answers that question in an instant. Open any shipment to check its current status, location, estimated delivery time, and complete past…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zhang-qichuan_53043
 <h2 class="app-name" id="app-68b7d031bd624a9ebaeb9102"><a href="https://apps.repebble.com/68b7d031bd624a9ebaeb9102">Rockbeat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-rockbeat" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A simple rhythm game. Just hit the UP or SELECT button to the melody! Right now you can play the following songs: Never Gonna Give You Up — Rick Astley You Are Not Alone — M. Jackson Golden —…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zhang-qichuan_53043
 <h2 class="app-name" id="app-82fc69b2d0964fe28e2520c3"><a href="https://apps.repebble.com/82fc69b2d0964fe28e2520c3">Fruit Chop</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-fruit-chop" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-08-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-08-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Swipe across the screen to slice the fruit — just watch out for the bombs. That&#x27;s all it takes to play Fruit Chop, a fast, fun fruit-slicing game built right for your wrist. This game needs a…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zhang-qichuan_53043
 <h2 class="app-name" id="app-7c8d451e7cf148988d11cd11"><a href="https://apps.repebble.com/7c8d451e7cf148988d11cd11">Majulah SG</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-watchface-singapore" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-08-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-29</span> <span title="Latest release in the app store">Updated 2026-08-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Majulah Singapura! The Singapore flag on your wrist. Works on every Pebble — round or square, colour or black-and-white. Install it and celebrate 9 August together!</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zhang-qichuan_53043
 <h2 class="app-name" id="app-7f8d2c5153c8436abdada1eb"><a href="https://apps.repebble.com/7f8d2c5153c8436abdada1eb">SG Bus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-sg-bus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-24</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-24</span> <span title="Latest release in the app store">Updated 2026-07-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Singapore bus arrival times on your wrist. Find bus stops near you using your phone&#x27;s location, or open a favourite stop to see live arrival times. Tap a bus service for the next few buses…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zhang-qichuan_53043
 <h2 class="app-name" id="app-427683454738466d9aff642a"><a href="https://apps.repebble.com/427683454738466d9aff642a">SG Toto &amp; 4D</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-sg-toto-4d" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-05</span> <span title="Latest release in the app store">Updated 2026-07-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-05</span> <span title="Latest release in the app store">Updated 2026-07-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Huat ah! 🎉 Feeling lucky? SG Toto &amp; 4D puts the latest Singapore Pools results right on your wrist. Results are updated shortly after every draw — TOTO on Monday &amp; Thursday, 4D on Wednesday…</p>
 </div>

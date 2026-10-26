@@ -13,7 +13,7 @@ hide:
 
 # Poren Chiang
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/poren-chiang_5589492eb0fe0583b00000ba) · [GitHub (rschiang)](https://github.com/rschiang)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/poren-chiang_558949
 <h2 class="app-name" id="app-55c5e92f3948b666a2000089"><a href="https://apps.repebble.com/55c5e92f3948b666a2000089">Metro</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/rschiang/pebble-metro" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-08</span> <span title="Latest release in the app store">Updated 2015-08-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-08-08</span> <span title="Latest release in the app store">Updated 2015-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Metro is a Taipei Metro-inspired watchface for Pebble. It&#x27;s clean, elegant, and free as in freedom -- just like what you would expect on subway system wayfinding signs; and would rotate its color…</p>
 </div>

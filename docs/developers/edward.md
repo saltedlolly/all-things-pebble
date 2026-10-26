@@ -13,7 +13,7 @@ hide:
 
 # Edward
 
-*3 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63cabb0964fbce2e) · [GitHub (ewijaya)](https://github.com/ewijaya)
 
@@ -26,6 +26,28 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63ca
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="roman missal" data-released="2026-10-08" data-updated="2026-10-25">
+<a class="app-shot" href="https://apps.repebble.com/9e466762014d4b1ab248219f" data-search-exclude><img src="../images/apps/9e466762014d4b1ab248219f.png" alt="Roman Missal" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-9e466762014d4b1ab248219f"><a href="https://apps.repebble.com/9e466762014d4b1ab248219f">Roman Missal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.3</span></h2>
+<a class="app-source" href="https://github.com/ewijaya/pebble-daily-mass" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A worn cover. A ribbon left between the pages. The familiar red words that once helped us find our place. A missal can carry the memory of years spent in prayer, and of the people who sat beside…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="kasugabus" data-released="2026-10-01" data-updated="2026-10-21">
+<a class="app-shot" href="https://apps.repebble.com/f63e6ed24301414a95909564" data-search-exclude><img src="../images/apps/f63e6ed24301414a95909564.png" alt="KasugaBus" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-f63e6ed24301414a95909564"><a href="https://apps.repebble.com/f63e6ed24301414a95909564">KasugaBus</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
+<a class="app-source" href="https://github.com/ewijaya/kasugabus-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Local buses for Minami-kasugaoka, Ibaraki, Osaka, Japan. KasugaBus shows the next scheduled Kintetsu and Hankyu buses at eight stops around Minami-kasugaoka: Kasugaoka Koen, Toge, Midorigaoka…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="thin+" data-released="2026-10-19" data-updated="2026-10-19">
 <a class="app-shot" href="https://apps.repebble.com/b0a4b28dbe9440c3b19f68e3" data-search-exclude><img src="../images/apps/b0a4b28dbe9440c3b19f68e3.png" alt="Thin+" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63ca
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Thin, plus: a clean analog watchface with splashes of color and the information you choose. Keep it minimal: hide the date and leave any or all complication slots empty. - Three complication…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="roman missal" data-released="2026-10-08" data-updated="2026-10-14">
-<a class="app-shot" href="https://apps.repebble.com/9e466762014d4b1ab248219f" data-search-exclude><img src="../images/apps/9e466762014d4b1ab248219f.png" alt="Roman Missal" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-9e466762014d4b1ab248219f"><a href="https://apps.repebble.com/9e466762014d4b1ab248219f">Roman Missal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.2</span></h2>
-<a class="app-source" href="https://github.com/ewijaya/pebble-daily-mass" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A worn cover. A ribbon left between the pages. The familiar red words that once helped us find our place. A missal can carry the memory of years spent in prayer, and of the people who sat beside…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="ciné" data-released="2026-10-09" data-updated="2026-10-11">
@@ -79,17 +90,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63ca
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-06</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Old-school charm. Right on time. Popeye G&amp;W Clock is a nostalgic LCD watchface with an active harbour scene. Olive Oyl throws, Popeye moves and catches, and Brutus joins the action in crisp…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="kasugabus" data-released="2026-10-01" data-updated="2026-10-02">
-<a class="app-shot" href="https://apps.repebble.com/f63e6ed24301414a95909564" data-search-exclude><img src="../images/apps/f63e6ed24301414a95909564.png" alt="KasugaBus" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-f63e6ed24301414a95909564"><a href="https://apps.repebble.com/f63e6ed24301414a95909564">KasugaBus</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.2</span></h2>
-<a class="app-source" href="https://github.com/ewijaya/kasugabus-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Local buses for Minami-kasugaoka, Ibaraki, Osaka, Japan. KasugaBus shows the next scheduled Kintetsu and Hankyu buses at eight stops around Minami-kasugaoka: Kasugaoka Koen, Toge, Midorigaoka…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="orationes" data-released="2026-09-03" data-updated="2026-09-30">

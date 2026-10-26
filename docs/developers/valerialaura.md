@@ -13,7 +13,7 @@ hide:
 
 # valerialaura
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/valerialaura_53a46235694928d8ef0001b2) · [GitHub (valerialaura)](https://github.com/valerialaura)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/valerialaura_53a462
 <h2 class="app-name" id="app-69c9ca0340411f0009fd69a9"><a href="https://apps.repebble.com/69c9ca0340411f0009fd69a9">Simple coffee ratio calculator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/valerialaura/pebble-coffee-ratio" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-30</span> <span title="Latest release in the app store">Updated 2026-09-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-30</span> <span title="Latest release in the app store">Updated 2026-09-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A coffee-to-water ratio calculator for your wrist. Set your brewing ratio once, then dial in coffee or water to get the matching amount instantly. Perfect for pour-over, when you weigh your beans…</p>
 </div>

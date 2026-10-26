@@ -13,7 +13,7 @@ hide:
 
 # James Price
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-price_55f727d18a2e8a3e64000009) · [GitHub (rockjob)](https://github.com/rockjob)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-price_55f727d
 <h2 class="app-name" id="app-56043577c5cd6f571300009a"><a href="https://apps.repebble.com/56043577c5cd6f571300009a">Sunrise-set</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/rockjob/PebbleSunrise-set" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-24</span> <span title="Latest release in the app store">Updated 2016-10-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-24</span> <span title="Latest release in the app store">Updated 2016-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Time, current temperature, daily maximum and minimum temperatures and the sunrise and sunset times all in one watchface. Battery meter line. Supports Celsius and Fahrenheit. Location by manual…</p>
 </div>

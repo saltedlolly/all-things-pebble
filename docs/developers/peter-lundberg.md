@@ -13,7 +13,7 @@ hide:
 
 # Peter Lundberg
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/peter-lundberg_52f0b6fc3be620c78000237b) · [GitHub (xdjinnx)](https://github.com/xdjinnx)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/peter-lundberg_52f0
 <h2 class="app-name" id="app-5320c36f53fab421d000003a"><a href="https://apps.repebble.com/5320c36f53fab421d000003a">Slebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.9</span></h2>
 <a class="app-source" href="https://github.com/xdjinnx/Slebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-12</span> <span title="Latest release in the app store">Updated 2016-09-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-03-12</span> <span title="Latest release in the app store">Updated 2016-09-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Public transportation watchapp for sweden. Save your favorite stations and check the arrival time of them. Supports: Stockholms Lokaltrafik (SL), Västtrafik, Skånetrafiken and more. Network…</p>
 </div>

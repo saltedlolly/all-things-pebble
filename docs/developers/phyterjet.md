@@ -13,7 +13,7 @@ hide:
 
 # PhyterJet
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phyterjet_473c0d58fc686ee11f114ecd) · [Rebble App Store](https://apps.rebble.io/en_US/developer/684ab4c03c425500087af075/1) · [GitHub (rcrimp)](https://github.com/rcrimp)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phyterjet_473c0d58f
 <h2 class="app-name" id="app-3df9451de73c47a7a8e3279d"><a href="https://apps.repebble.com/3df9451de73c47a7a8e3279d">bigTime with Date</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/rcrimp/bigTime-Pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Displays the time in a large format. Easy readability. Date is shown too, with a clear battery bar.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phyterjet_473c0d58f
 <h2 class="app-name" id="app-684d64c733c87e00090b43a6"><a href="https://apps.rebble.io/en_US/application/684d64c733c87e00090b43a6">bigTime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/rcrimp/bigTime-Pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-06-14</span> <span title="Latest release in the app store">Updated 2025-06-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-06-14</span> <span title="Latest release in the app store">Updated 2025-06-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Time in LARGE digits. Date shown Top line is battery bar</p>
 </div>

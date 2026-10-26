@@ -13,7 +13,7 @@ hide:
 
 # Philipp Schuler
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/philipp-schuler_56acc5219f30b57e3c000023) · [GitHub (irgusite)](https://github.com/irgusite)
 

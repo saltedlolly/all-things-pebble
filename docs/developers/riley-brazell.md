@@ -13,7 +13,7 @@ hide:
 
 # Riley Brazell
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/riley-brazell_54a6025c4c4f6c4ec7000101) · [GitHub (rileybrazell)](https://github.com/rileybrazell)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/riley-brazell_54a60
 <h2 class="app-name" id="app-562aa454948d06fc92000007"><a href="https://apps.repebble.com/562aa454948d06fc92000007">Undertale Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/rileybrazell/UndertaleWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2016-03-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2016-03-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple Undertale-themed watchface for Pebble Classic and Pebble Steel! Shows local time, date, and temperature in Fahrenheit! Tap/shake the watch to get a wink from your good buddy Sans!</p>
 </div>

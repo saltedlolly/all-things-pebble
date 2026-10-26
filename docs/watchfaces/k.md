@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*35 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*35 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -292,7 +292,7 @@ hide:
 <h2 class="app-name" id="app-5a183f5a0dfc323bd000344e"><a href="https://apps.rebble.io/en_US/application/5a183f5a0dfc323bd000344e">KnightsFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/KnightsFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-stoeckert.html" title="More from this developer">Thomas Stoeckert</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-11-24</span> <span title="Latest release in the app store">Updated 2017-11-26</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-11-24</span> <span title="Latest release in the app store">Updated 2017-11-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Show your Knight Pride with this watchface, with both analog and digital time display. It also has several different icons to fit your mood.</p>
 </div>

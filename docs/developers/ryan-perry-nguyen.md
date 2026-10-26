@@ -13,7 +13,7 @@ hide:
 
 # Ryan Perry-Nguyen
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryan-perry-nguyen_5567c51b95889755d8000092) · [GitHub (rperryng)](https://github.com/rperryng)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryan-perry-nguyen_5
 <h2 class="app-name" id="app-56cbab646e84e5d684000054"><a href="https://apps.repebble.com/56cbab646e84e5d684000054">Chrono Ring</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/rperryng/pebble-chrono-ring" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-23</span> <span title="Latest release in the app store">Updated 2016-03-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-23</span> <span title="Latest release in the app store">Updated 2016-03-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">🌺 Minimalist and practical round design. Made with love. Something missing? Reach out and let me know.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Afonso Santos
 
-*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/afonso-santos_53c7f761e5c0719320000162) · [GitHub (reciprocum)](https://github.com/reciprocum) · [Website (forums.pebble.com)](https://forums.pebble.com/t/watchapp-sdk4-opensource-ripples3d-interactive-dynamic-math-graphics/23834/2)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/afonso-santos_53c7f
 <h2 class="app-name" id="app-5784dc246c2104f3ad0007ce"><a href="https://apps.repebble.com/5784dc246c2104f3ad0007ce">FlipClock 3D</a> <span class="app-version" title="Latest version" data-search-exclude>v4.5</span></h2>
 <a class="app-source" href="https://github.com/reciprocum/Pebble-SDK4-WatchFace-FlipClock3D" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-12</span> <span title="Latest release in the app store">Updated 2017-01-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-12</span> <span title="Latest release in the app store">Updated 2017-01-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Gravity &amp; gesture aware interactive 3D flipping clock. STEADY mode: - TWIST : DYNAMIC mode DYNAMIC mode: - TWIST : spin up Will fallback to STEADY mode after 5s not spinning.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/afonso-santos_53c7f
 <h2 class="app-name" id="app-57ca36d1f69d1da5f5000382"><a href="https://apps.repebble.com/57ca36d1f69d1da5f5000382">Ripples 3D</a> <span class="app-version" title="Latest version" data-search-exclude>v4.2</span></h2>
 <a class="app-source" href="https://github.com/reciprocum/Pebble-SDK4-WatchApp-Ripples3D" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-03</span> <span title="Latest release in the app store">Updated 2017-01-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-03</span> <span title="Latest release in the app store">Updated 2017-01-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An interactive 3D math function demo. *** BUTTONS *** UP : colorization (Monochromatic,Distance). SELECT: pattern (Dots,Lines,Stripes,Grid). DOWN : oscillator (Anchored,Floating,Bouncing). long…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/afonso-santos_53c7f
 <h2 class="app-name" id="app-54579b9c34f53e93c6000067"><a href="https://apps.repebble.com/54579b9c34f53e93c6000067">Accelerometer</a> <span class="app-version" title="Latest version" data-search-exclude>v4.3</span></h2>
 <a class="app-source" href="https://github.com/reciprocum/Pebble-SDK4-WatchApp-Accelerometer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-03</span> <span title="Latest release in the app store">Updated 2017-01-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-03</span> <span title="Latest release in the app store">Updated 2017-01-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A real-time, auto-scrolling auto-scalling accelerometer readings plotter Buttons: - SELECT: toggle the axis (X/Y/Z) being plotted. - (2x) UP/DOWN: (jump) scroll left/right - 2x SELECT: vibrate …</p>
 </div>

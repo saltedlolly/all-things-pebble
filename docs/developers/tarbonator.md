@@ -13,7 +13,7 @@ hide:
 
 # Tarbonator
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tarbonator_538cc79da9d6be708e00014f) · [GitHub (tylercd100)](https://github.com/tylercd100)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tarbonator_538cc79d
 <h2 class="app-name" id="app-5797f0c322f5994a8f00001c"><a href="https://apps.repebble.com/5797f0c322f5994a8f00001c">Sun and Moon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/tylercd100/pebble-watchface-sun-and-moon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-26</span> <span title="Latest release in the app store">Updated 2016-07-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-26</span> <span title="Latest release in the app store">Updated 2016-07-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A watchface for pebble time and pebble round that depicts the sun and the moon&#x27;s position in the sky. In order to calculate the Sun/Moon rise and set times location services will need to be…</p>
 </div>

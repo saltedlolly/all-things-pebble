@@ -13,7 +13,7 @@ hide:
 
 # Branden Clark
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/branden-clark_54440e55c7733b43f90000e9) · [GitHub (clarkb7)](https://github.com/clarkb7)
 

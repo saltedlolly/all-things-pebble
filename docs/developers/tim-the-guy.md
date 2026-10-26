@@ -13,7 +13,7 @@ hide:
 
 # Tim the Guy
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-the-guy_53062ff921336c2d470002de) · [GitHub (timtheguy)](https://github.com/timtheguy) · [Website (timtheguy.com)](http://www.timtheguy.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-the-guy_53062ff
 <h2 class="app-name" id="app-57daef49ac56ea936d0000d6"><a href="https://apps.repebble.com/57daef49ac56ea936d0000d6">Color Ticker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/timtheguy/color-picker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-15</span> <span title="Latest release in the app store">Updated 2016-10-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-15</span> <span title="Latest release in the app store">Updated 2016-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Color Ticker (a play on &#x27;color picker&#x27;) is the most straight-forward hex-color watchface designed by a web developer, for web developers. Every minute, a random hex color will be generated and the…</p>
 </div>

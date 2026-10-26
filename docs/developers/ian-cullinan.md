@@ -13,7 +13,7 @@ hide:
 
 # Ian Cullinan
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ian-cullinan_c64ad7a493789f44d3cdef49) · [GitHub (cibyr)](https://github.com/cibyr)
 

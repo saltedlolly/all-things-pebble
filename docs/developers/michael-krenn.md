@@ -13,7 +13,7 @@ hide:
 
 # Michael Krenn
 
-*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/582d964f36ac5a946d000406/1) · [GitHub (wiesel81)](https://github.com/wiesel81)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/582d964f36ac5a9
 <h2 class="app-name" id="app-5864c9fb0e3a494b820002c4"><a href="https://apps.rebble.io/en_US/application/5864c9fb0e3a494b820002c4">UmpireClock (American Football)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/wiesel81/pebble-umpireclock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-29</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-12-29</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Clock for American Football Umpires working as on-field timekeeper based on the NCAA Rules 2016. With this watchapp it is possible to measure the timeouts (even a 30-second timeout) and 1-minute…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/582d964f36ac5a9
 <h2 class="app-name" id="app-5849c27777324bcbcc0000bb"><a href="https://apps.rebble.io/en_US/application/5849c27777324bcbcc0000bb">PlayClock (American Football)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/wiesel81/pebble-playclock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-08</span> <span title="Latest release in the app store">Updated 2017-03-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-12-08</span> <span title="Latest release in the app store">Updated 2017-03-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Playclock for American Football officials working as on-field timekeeper based on the NCAA Rules 2016. With this watchapp it is possible to operate the 40/25 on the field without taking a look at…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/582d964f36ac5a9
 <h2 class="app-name" id="app-58b20b3e0dfc320dc600090e"><a href="https://apps.rebble.io/en_US/application/58b20b3e0dfc320dc600090e">GameClock (American Football)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/wiesel81/pebble-gameclock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-25</span> <span title="Latest release in the app store">Updated 2017-03-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-02-25</span> <span title="Latest release in the app store">Updated 2017-03-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Gameclock for American Football officials working as on-field timekeeper based on the NCAA Rules 2016. With this watchapp it is possible to operate the gameclock on the field without taking a look…</p>
 </div>

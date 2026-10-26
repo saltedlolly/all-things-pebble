@@ -13,7 +13,7 @@ hide:
 
 # Cory Hughart
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cory-hughart_447f1d8a99b640fbc10d36ae) · [GitHub (cr0ybot)](https://github.com/cr0ybot) · [Website (cr0ybot.com)](https://cr0ybot.com/project/pebble-watchface-carbon/)
 

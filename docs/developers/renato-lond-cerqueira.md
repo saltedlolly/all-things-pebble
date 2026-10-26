@@ -13,7 +13,7 @@ hide:
 
 # Renato &quot;Lond&quot; Cerqueira
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/renato-lond-cerqueira_531cf0b25c082c77a800042b) · [GitHub (renatolond)](https://github.com/renatolond)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/renato-lond-cerquei
 <h2 class="app-name" id="app-55c61d58205929bf98000016"><a href="https://apps.repebble.com/55c61d58205929bf98000016">Lond&#x27;s Color Polar Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/renatolond/pebble-color-polar-clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-08</span> <span title="Latest release in the app store">Updated 2015-08-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-08</span> <span title="Latest release in the app store">Updated 2015-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Lond&#x27;s Polar Clock is a watchface that shows the hour and minutes using a polar representation that changes the color according to the time. Inspired by pixelbreaker&#x27;s polarclock, nirajsanghvi&#x27;s…</p>
 </div>

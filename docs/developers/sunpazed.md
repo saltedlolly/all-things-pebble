@@ -13,7 +13,7 @@ hide:
 
 # sunpazed
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [GitHub (sunpazed)](https://github.com/sunpazed)
 
@@ -27,7 +27,7 @@ Links: [GitHub (sunpazed)](https://github.com/sunpazed)
 <h2 class="app-name" id="app-5822f80d34da21ff12000122"><a href="https://apps.repebble.com/5822f80d34da21ff12000122">Stopwatch+</a></h2>
 <a class="app-source" href="https://github.com/sunpazed/Pebble-Stopwatch-Plus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="Latest release in the app store">Updated unknown</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="Latest release in the app store">Updated unknown</span></div>
 <p class="app-desc">An updated Stopwatch that tracks your running stats. Measure and track Distance and Pace - all without a companion app on your phone.</p>
 </div>
 </div>

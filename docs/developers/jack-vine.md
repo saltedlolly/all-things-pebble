@@ -13,7 +13,7 @@ hide:
 
 # Jack Vine
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jack-vine_56cd34fb86ce3b1043000008) · [GitHub (jackv24)](https://github.com/jackv24) · [Website (jackvine.com)](http://jackvine.com/)
 

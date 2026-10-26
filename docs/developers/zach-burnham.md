@@ -13,7 +13,7 @@ hide:
 
 # Zach Burnham
 
-*7 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*7 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce698485e86de8b11f7ae) · [GitHub (thejambi)](https://github.com/thejambi) · [Website (burnsoftware.wordpress.com)](https://burnsoftware.wordpress.com/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-401e8eb5432341dcb8ea111d"><a href="https://apps.repebble.com/401e8eb5432341dcb8ea111d">Emberline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.3</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Sparkline_Faces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Your hour drawn as landscape - and last night&#x27;s sleep, before you get up. The bottom of the screen is the last sixty minutes: one column a minute, standing on the very bottom edge, with a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-3022b32401cd44e2a59e05a0"><a href="https://apps.repebble.com/3022b32401cd44e2a59e05a0">BrewSession</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/thejambi/BrewSession-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A tea timer that knows which infusion you&#x27;re on. Set a custom steep time as fast as the stock timer - no tea database, no menu asking which infusion this is. Hit Start and pour during the felt…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-a4d14d8c1e7140e79a4f588d"><a href="https://apps.repebble.com/a4d14d8c1e7140e79a4f588d">Solfarer Atlas</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Solfarer-Atlas-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Travel where you like. Solfarer Atlas is the Local Bubble as a place you can walk around: 2,236 real star systems within 100 light-years of Sol - Proxima Centauri, Barnard&#x27;s Star, Wolf 359…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-0f939bb26a844658a731280c"><a href="https://apps.repebble.com/0f939bb26a844658a731280c">Solfarer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Solfarer-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-25</span> <span title="Latest release in the app store">Updated 2026-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-25</span> <span title="Latest release in the app store">Updated 2026-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Wander the real stars. Every morning your ship starts at Sol, and every hour it hops to a nearby star - real ones, from the Hipparcos catalog: Proxima Centauri, Barnard&#x27;s Star, Wolf 359, Tureis…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-9420a2e218e54ce986c7c871"><a href="https://apps.repebble.com/9420a2e218e54ce986c7c871">Lighthaul</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.2</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Lighthaul-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Haul cargo and passengers between the stars at a hair under lightspeed - and let special relativity be the economy. Deadlines run on universe time. You and your passengers age on ship time. The…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-a5874b2f337249e58d31353d"><a href="https://apps.repebble.com/a5874b2f337249e58d31353d">Lighthaul Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Lighthaul-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-22</span> <span title="Latest release in the app store">Updated 2026-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">The Lighthaul star map as a watchface - and your ship flies itself. Every day a new procedurally-generated cluster arrives, seeded by the date: every pilot wearing this face flies the same galaxy…</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-932411b4b5ba45ce839ff833"><a href="https://apps.repebble.com/932411b4b5ba45ce839ff833">ActiveHour2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.1</span></h2>
 <a class="app-source" href="https://github.com/thejambi/ActiveHour" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-07-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-07-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This watchface uses Pebble Health data to show the time along with a visual display of how active you are every minute of the hour. It is inspired by a Fitbit watchface. Includes the following…</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-f6413c1d19c442cc8e6d5602"><a href="https://apps.repebble.com/f6413c1d19c442cc8e6d5602">Trekv3 TimeSteel</a> <span class="app-version" title="Latest version" data-search-exclude>v5.2.0</span></h2>
 <a class="app-source" href="https://github.com/thejambi/trekv3-timesteel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An LCARS-style watchface with a large clock, day-of-week strip, date, week number, battery meter and step count. Highly configurable: multiple colour themes, invert, 12/24h, seconds or AM/PM, week…</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce6
 <h2 class="app-name" id="app-56b6bb3c0b97730da600002e"><a href="https://apps.repebble.com/56b6bb3c0b97730da600002e">Active Hour</a> <span class="app-version" title="Latest version" data-search-exclude>v1.20</span></h2>
 <a class="app-source" href="https://github.com/thejambi/ActiveHour" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-07</span> <span title="Latest release in the app store">Updated 2016-10-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-07</span> <span title="Latest release in the app store">Updated 2016-10-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This watchface uses Pebble Health data to show the time along with a visual display of how active you are every minute of the hour. It is inspired by a Fitbit watchface. Includes the following…</p>
 </div>

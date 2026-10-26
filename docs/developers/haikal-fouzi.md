@@ -13,7 +13,7 @@ hide:
 
 # Haikal Fouzi
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5dd7dbf5651caf0001add4f6/1) · [GitHub (haikalfouzi)](https://github.com/haikalfouzi) · [Website (twitter.com)](https://twitter.com/trndbtd)
 

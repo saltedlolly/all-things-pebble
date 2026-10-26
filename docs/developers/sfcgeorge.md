@@ -13,7 +13,7 @@ hide:
 
 # sfcgeorge
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sfcgeorge_550b448b6aa5339b85000076) · [GitHub (sfcgeorge)](https://github.com/sfcgeorge)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sfcgeorge_550b448b6
 <h2 class="app-name" id="app-55d91423391704d7e600004a"><a href="https://apps.repebble.com/55d91423391704d7e600004a">c11s-a</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/sfcgeorge/c11s-a" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-23</span> <span title="Latest release in the app store">Updated 2015-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-08-23</span> <span title="Latest release in the app store">Updated 2015-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Complications-Analogue. A highly customizable watchface yet with minimal design and fast code. Each corner has a &quot;complication&quot; with 2 customizable slots—you can show 8 pieces of data! There are…</p>
 </div>

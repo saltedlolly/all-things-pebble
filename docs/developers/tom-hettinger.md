@@ -13,7 +13,7 @@ hide:
 
 # Tom Hettinger
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-hettinger_530cbe1ee3375428fa0003c8) · [GitHub (tomhettinger)](https://github.com/tomhettinger)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-hettinger_530cb
 <h2 class="app-name" id="app-53e92b66d145e76860000069"><a href="https://apps.repebble.com/53e92b66d145e76860000069">Natural</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/tomhettinger/natural" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-11</span> <span title="Latest release in the app store">Updated 2015-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-08-11</span> <span title="Latest release in the app store">Updated 2015-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays day/night cycle, phases, and positions using a natural &quot;horizon&quot; style 24-hour analog face. • Sunrise / Sunset times from OpenWeatherMap.org • Calculated lunar phases • Approximates the…</p>
 </div>

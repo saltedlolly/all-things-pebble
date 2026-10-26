@@ -13,7 +13,7 @@ hide:
 
 # Alexander Teinum
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alexander-teinum_6963ccc2cc35bb000808bce4) · [GitHub (alexanderteinum)](https://github.com/alexanderteinum)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alexander-teinum_69
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="inset" data-released="2026-10-19" data-updated="2026-10-23">
+<a class="app-shot" href="https://apps.repebble.com/4fe6074d08c84d7099713016" data-search-exclude><img src="../images/apps/4fe6074d08c84d7099713016.gif" alt="Inset" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4fe6074d08c84d7099713016"><a href="https://apps.repebble.com/4fe6074d08c84d7099713016">Inset</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.1</span></h2>
+<a class="app-source" href="https://github.com/alexanderteinum/pebble-inset" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">A minimal Pebble watchface, neatly inset from the edge. Right-aligned time and date with a slim battery indicator. Follows your 12/24-hour setting, with icons for Bluetooth disconnection and Quiet…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="type" data-released="2026-01-16" data-updated="2026-03-23">
 <a class="app-shot" href="https://apps.repebble.com/69698b8bb5bbe70008631f86" data-search-exclude><img src="../images/apps/69698b8bb5bbe70008631f86.png" alt="Type" loading="lazy"></a>
 <div class="app-info">

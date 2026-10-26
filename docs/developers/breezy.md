@@ -13,7 +13,7 @@ hide:
 
 # breezy
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/breezy_a9ed8f2b80eaaf6c033c87f0) · [GitHub (shan-srini)](https://github.com/shan-srini)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/breezy_a9ed8f2b80ea
 <h2 class="app-name" id="app-da6fc48e443c49ebbc9d5ff0"><a href="https://apps.repebble.com/da6fc48e443c49ebbc9d5ff0">PebbleTasks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/shan-srini/PebbleTasks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-05-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-05-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc"># 📋 PebbleTasks — Google Tasks on your wrist ⌚ Your to-dos, right on your Pebble. 📱➡️⌚ Open lists, tick things off, and stay organised without pulling out your phone. 🎯 --- ## ✨ Getting started…</p>
 </div>

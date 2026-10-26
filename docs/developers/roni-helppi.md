@@ -13,7 +13,7 @@ hide:
 
 # Roni Helppi
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/roni-helppi_54ecb43fb5dab6350500009c) · [GitHub (ronijaakkola)](https://github.com/ronijaakkola)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/roni-helppi_54ecb43
 <h2 class="app-name" id="app-579e0b101482cd0515000491"><a href="https://apps.repebble.com/579e0b101482cd0515000491">Vuoro</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
 <a class="app-source" href="https://github.com/ronijaakkola/trebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-31</span> <span title="Latest release in the app store">Updated 2026-07-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-07-31</span> <span title="Latest release in the app store">Updated 2026-07-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Vuoro finds the nearest public transport stops in Finland using your phone&#x27;s GPS and shows the next departing lines with real-time predictions. Pin your favourite stops, see your city and zone at…</p>
 </div>

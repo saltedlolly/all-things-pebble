@@ -13,7 +13,7 @@ hide:
 
 # Stefan Heule
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55ab3ca04f0cf8279e00003c/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/stefan-heule_55ab3ca04f0cf8279e00003c) · [GitHub (stefanheule)](https://github.com/stefanheule) · [Website (stefanheule.com)](https://stefanheule.com/graphite/)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55ab3ca04f0cf82
 <h2 class="app-name" id="app-58a64c9c6ca3877261000466"><a href="https://apps.rebble.io/en_US/application/58a64c9c6ca3877261000466">Graphite</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/stefanheule/graphite" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-17</span> <span title="Latest release in the app store">Updated 2017-05-11</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2017-02-17</span> <span title="Latest release in the app store">Updated 2017-05-11</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Free and open source watchapp for the Pebble Time and Pebble Time Steel. It&#x27;s simple, elegant and highly configurable. Features include: - 24h rain preview: Shows an hourly chance of percipitation…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/55ab3ca04f0cf82
 <h2 class="app-name" id="app-55ee57da2b0b31132c00008b"><a href="https://apps.repebble.com/55ee57da2b0b31132c00008b">Obsidian</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://github.com/stefanheule/obsidian" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-08</span> <span title="Latest release in the app store">Updated 2017-02-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-09-08</span> <span title="Latest release in the app store">Updated 2017-02-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a usable and elegant analog watchface for the Pebble Time. It&#x27;s designed such that the watch hands never cover the date or weather information. It&#x27;s main features are: - High contrast…</p>
 </div>

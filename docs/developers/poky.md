@@ -13,7 +13,7 @@ hide:
 
 # Poky
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/poky_af85a82856b5e15002a15c95) · [GitHub (pokemonrocks9)](https://github.com/pokemonrocks9)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/poky_af85a82856b5e1
 <h2 class="app-name" id="app-35cdbc13265648f39324c4ef"><a href="https://apps.repebble.com/35cdbc13265648f39324c4ef">Pokétch+ Updated</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2</span></h2>
 <a class="app-source" href="https://github.com/pokemonrocks9/pebble-watchface-poketch-plus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An updated version of the Poketch + Watchface by metakirby 5. This version fixes a bug that started on Pebble watchfaces made for the Pebble Time that had not been converted to work on the Pebble…</p>
 </div>

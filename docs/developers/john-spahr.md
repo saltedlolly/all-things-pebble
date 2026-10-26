@@ -13,7 +13,7 @@ hide:
 
 # John Spahr
 
-*9 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*9 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609801a58324660009e8a4db/1) · [GitHub (johnspahr)](https://github.com/johnspahr) · [Website (johnspahr.org)](https://johnspahr.org)
 

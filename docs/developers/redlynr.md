@@ -13,7 +13,7 @@ hide:
 
 # redlynr
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/redlynr_53152170b52806dd5f00034a) · [GitHub (redlynr)](https://github.com/redlynr) · [Website (actulife.com)](https://www.actulife.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/redlynr_53152170b52
 <h2 class="app-name" id="app-56faa800d83b44cc0400004c"><a href="https://apps.repebble.com/56faa800d83b44cc0400004c">WeatherStep - Lite</a> <span class="app-version" title="Latest version" data-search-exclude>v5.12</span></h2>
 <a class="app-source" href="https://github.com/redlynr/WeatherStep-Lite" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-29</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-29</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Choices of weather provider = Open Weather, Yahoo Weather, and Weather Underground if you have your own API key. Every time a weather update is made, a timeline pin will be created containing…</p>
 </div>

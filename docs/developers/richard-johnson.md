@@ -13,7 +13,7 @@ hide:
 
 # Richard Johnson
 
-*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richard-johnson_52f0112a949454fbcc00012f) · [GitHub (rajid)](https://github.com/rajid)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richard-johnson_52f
 <h2 class="app-name" id="app-562c0dbdb5a93208f1000014"><a href="https://apps.repebble.com/562c0dbdb5a93208f1000014">AlarmNote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.20</span></h2>
 <a class="app-source" href="https://github.com/rajid/pebble_alarmnote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1405" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-24</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-24</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Daily alarms with custom notes, automatically rescheduled to the next day. Great for taking various different pills on a daily basis. (Do not rely totally on these reminders. Bugs may be present…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richard-johnson_52f
 <h2 class="app-name" id="app-558dbbc4a6c6cced76000004"><a href="https://apps.repebble.com/558dbbc4a6c6cced76000004">Backlight</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/rajid/pebble_backlight" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-26</span> <span title="Latest release in the app store">Updated 2018-02-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-26</span> <span title="Latest release in the app store">Updated 2018-02-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple program to automatically control your backlight. It sits in the background, allowing you to use whatever watch face you like. When you raise your arm to look at your watch, it will…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richard-johnson_52f
 <h2 class="app-name" id="app-5556f77b2696c7fb270000a6"><a href="https://apps.repebble.com/5556f77b2696c7fb270000a6">Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/rajid/pebble_tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-16</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-16</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple time tracking program for up to five projects. You can edit the project names and times using &quot;Settings&quot; on the phone. It&#x27;s ok to run a different application while a project is being…</p>
 </div>

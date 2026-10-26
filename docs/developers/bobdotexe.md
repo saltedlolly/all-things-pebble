@@ -13,7 +13,7 @@ hide:
 
 # BOBdotEXE
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bobdotexe_54f5238c89900e4bb10000cf) · [GitHub (BOBdotEXE)](https://github.com/BOBdotEXE) · [Website (blog-dot-exe.blogspot.com)](http://blog-dot-exe.blogspot.com/)
 

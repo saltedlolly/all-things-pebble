@@ -13,7 +13,7 @@ hide:
 
 # Christoph Bartschat
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christoph-bartschat_6b0fa772f962342b8f5dd140) · [GitHub (cmbartschat)](https://github.com/cmbartschat) · [Website (64cor.es)](https://www.64cor.es)
 

@@ -13,7 +13,7 @@ hide:
 
 # Segfaultgolf
 
-*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/segfaultgolf_7b8611af506d76669d94d52b) · [GitHub (huntrontrakkr)](https://github.com/huntrontrakkr) · [Website (huntrontrakkr.github.io)](https://huntrontrakkr.github.io/dymaxion-watch-face/)
 

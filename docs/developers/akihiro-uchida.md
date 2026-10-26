@@ -13,7 +13,7 @@ hide:
 
 # Akihiro Uchida
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/akihiro-uchida_567155e246ebac9661000023) · [GitHub (uchida)](https://github.com/uchida)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/akihiro-uchida_5671
 <h2 class="app-name" id="app-569061bfd5ba00104e000016"><a href="https://apps.repebble.com/569061bfd5ba00104e000016">Limone</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/uchida/limone-watchapp/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-09</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2016-01-09</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple pomodoro timer for Pebble, to notify 25 minutes work finished and after take 5 minutes break. Optionally supports to trigger IFTTT Maker channel and show today&#x27;s tasks in Todoist.</p>
 </div>

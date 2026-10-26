@@ -13,7 +13,7 @@ hide:
 
 # rigel314
 
-*3 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rigel314_529aa0fad17b50707b00001d) · [GitHub (rigel314)](https://github.com/rigel314) · [Website (computingeureka.com)](http://computingeureka.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rigel314_529aa0fad1
 <h2 class="app-name" id="app-529aa8d5d17b5078d7000025"><a href="https://apps.repebble.com/529aa8d5d17b5078d7000025">System Info</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/rigel314/pebbleSystemInfo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2015-08-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2015-08-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Hexeditor and Disassembler for your watch. This is a DANGEROUS tool, not a toy. Be careful with it. Misuse could brick your Pebble. Some areas of memory are not allowed to be read. If you try, the…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rigel314_529aa0fad1
 <h2 class="app-name" id="app-5300d1fdd1653b1dec0000b1"><a href="https://apps.repebble.com/5300d1fdd1653b1dec0000b1">Chordinator</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/rigel314/pebbleChordinator" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-16</span> <span title="Latest release in the app store">Updated 2015-06-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-02-16</span> <span title="Latest release in the app store">Updated 2015-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays guitar chord finger positions. Now shows chords for ukulele and piano too! This data in this app was found by searching Google for chords. The chords may be entirely wrong. If you find an…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rigel314_529aa0fad1
 <h2 class="app-name" id="app-52cb4b946e5f703b140000aa"><a href="https://apps.repebble.com/52cb4b946e5f703b140000aa">TextWatch24</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.3</span></h2>
 <a class="app-source" href="https://github.com/rigel314/pebbleTextWatch24" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2014-03-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2014-03-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays the time like the default text watch, but in 24 hour time. Has options for showing the date and the display for a leading zero in the minutes. &quot; oh &quot; or &quot; o&#x27; &quot;. The watchface animates a…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rigel314_529aa0fad1
 <h2 class="app-name" id="app-529aad25d17b501dcd00002b"><a href="https://apps.repebble.com/529aad25d17b501dcd00002b">Sine Wave</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/rigel314/pebbleSineWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">To read: The number of nodes is the number of hours. At one o&#x27;clock, there is only half a cycle showing. The number of minutes is shown by looking at the top end of the wave. The antinodes are 30…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rigel314_529aa0fad1
 <h2 class="app-name" id="app-529aab4a16952349bb000027"><a href="https://apps.repebble.com/529aab4a16952349bb000027">Antichamber</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/rigel314/pebbleAntichamber" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2013-12-01</span> <span title="Latest release in the app store">Updated 2014-02-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watchface inspired by the map in the amazing game, Antichamber.</p>
 </div>

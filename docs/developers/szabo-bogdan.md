@@ -13,7 +13,7 @@ hide:
 
 # Szabo Bogdan
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/szabo-bogdan_5549266430d29cf83b00009d) · [GitHub (gedaiu)](https://github.com/gedaiu)
 

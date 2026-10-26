@@ -13,7 +13,7 @@ hide:
 
 # Ben Combee (@unwiredben)
 
-*3 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-combee-unwiredben_551338e88630986002000039) · [GitHub (unwiredben)](https://github.com/unwiredben) · [Website (combee.net)](https://www.combee.net/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-combee-unwiredb
 <h2 class="app-name" id="app-5956db8bf1aa4474af893ed3"><a href="https://apps.repebble.com/5956db8bf1aa4474af893ed3">Oregon Ho!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/unwiredben/oregon-ho-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1394" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Inspired by Oregon Trail, watch your wagon move across the US while your party encounters windfalls and trails.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-combee-unwiredb
 <h2 class="app-name" id="app-08dcdb573df44de99a9978ed"><a href="https://apps.repebble.com/08dcdb573df44de99a9978ed">Streaming Village</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/unwiredben/streamingvillage-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1347" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">It&#x27;s a parallax-scrolling purple-tinged city rolling by on your wrist, with billboards showing the time passing by in the foreground. Adjusts for 12 or 24-hour time display preferences, handles…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-combee-unwiredb
 <h2 class="app-name" id="app-1e6c5bbde96f4e6ca3497194"><a href="https://apps.repebble.com/1e6c5bbde96f4e6ca3497194">Kablooey!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/unwiredben/kablooey-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1368" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Scarry Kablam is at it again, and you and your bucket brigade are what stands in the way of devastation. Use your touch-enabled Pebble Time 2 to catch the bombs before they hit the bottom of the…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-combee-unwiredb
 <h2 class="app-name" id="app-55561ff444dad6e1470000df"><a href="https://apps.repebble.com/55561ff444dad6e1470000df">Resistor Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/unwiredben/resistor-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-15</span> <span title="Latest release in the app store">Updated 2020-05-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-15</span> <span title="Latest release in the app store">Updated 2020-05-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Are you an electrical engineer or a electronics hobbyist? Need some training in recognizing resistor color codes? Resistor Time is the answer, showing the current time and date via the magic of…</p>
 </div>

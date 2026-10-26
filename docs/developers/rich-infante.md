@@ -13,7 +13,7 @@ hide:
 
 # Rich Infante
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rich-infante_5473f270a7cd72aefe0000e1) · [GitHub (richinfante)](https://github.com/richinfante) · [Website (richinfante.com)](https://richinfante.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rich-infante_5473f2
 <h2 class="app-name" id="app-5504e0338d3907b61e00004e"><a href="https://apps.repebble.com/5504e0338d3907b61e00004e">Dimension</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/richinfante/dimension-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-15</span> <span title="Latest release in the app store">Updated 2025-02-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-15</span> <span title="Latest release in the app store">Updated 2025-02-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple watchface that displays the current time, in block letters. It updates the screen once a minute to save battery. It includes a configuration screen to customize the appearance of the…</p>
 </div>

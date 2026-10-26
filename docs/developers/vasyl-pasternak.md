@@ -13,7 +13,7 @@ hide:
 
 # Vasyl Pasternak
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vasyl-pasternak_5319c49a05c740cd0f000084) · [GitHub (vasylp)](https://github.com/vasylp)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vasyl-pasternak_531
 <h2 class="app-name" id="app-539c8fd657e2cccdad000036"><a href="https://apps.repebble.com/539c8fd657e2cccdad000036">MyNotes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/vasylp/pebblenotes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-14</span> <span title="Latest release in the app store">Updated 2014-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-14</span> <span title="Latest release in the app store">Updated 2014-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An easy to use notes app, that could contain up to 5 notes and stores them in the watch internal memory. So you won&#x27;t need to sync the application with your phone, or even connect to it.</p>
 </div>

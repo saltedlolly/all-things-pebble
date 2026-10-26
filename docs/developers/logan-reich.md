@@ -13,7 +13,7 @@ hide:
 
 # Logan Reich
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/567d6020c247f825a900011c/1) · [GitHub (sumdudelr)](https://github.com/sumdudelr) · [Website (oucsace.cs.ohiou.edu)](http://oucsace.cs.ohiou.edu/~lreich/)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/567d6020c247f82
 <h2 class="app-name" id="app-5921c1810dfc323a3f0013fb"><a href="https://apps.rebble.io/en_US/application/5921c1810dfc323a3f0013fb">Ohio Bobcats Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/sumdudelr/bobcat-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-05-21</span> <span title="Latest release in the app store">Updated 2017-05-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-05-21</span> <span title="Latest release in the app store">Updated 2017-05-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An unofficial pebble watchface for OU fans. Shows the date, time, daily steps, and your average daily steps through the current time.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # FRCV
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6aa6b066a87c0c0008aa77a4/1) · [GitHub (itsamenathan)](https://github.com/itsamenathan)
 

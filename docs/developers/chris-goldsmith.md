@@ -13,7 +13,7 @@ hide:
 
 # Chris Goldsmith
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-goldsmith_5490cdca5842ae572400001e) · [GitHub (chrisg67)](https://github.com/chrisg67)
 

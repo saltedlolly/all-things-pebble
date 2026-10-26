@@ -13,7 +13,7 @@ hide:
 
 # Timehop
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/timehop_54cbdda3203b30873d00001c) · [GitHub (timehop)](https://github.com/timehop) · [Website (timehop.com)](http://www.timehop.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/timehop_54cbdda3203
 <h2 class="app-name" id="app-562d08339e0d46216c0000a2"><a href="https://apps.repebble.com/562d08339e0d46216c0000a2">Timehop ABE</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/timehop/pebble-time-watch-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2015-11-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2015-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">ABE is your friend. He will accompany you throughout the day! https://twitter.com/abe http://timehop.com/about</p>
 </div>

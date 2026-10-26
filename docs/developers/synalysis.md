@@ -13,7 +13,7 @@ hide:
 
 # Synalysis
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/synalysis_cc7bd1a5efe5d342dddfb4a7) · [GitHub (synalysis)](https://github.com/synalysis) · [Website (elm-pebble.dev)](https://elm-pebble.dev)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/synalysis_cc7bd1a5e
 <h2 class="app-name" id="app-affc96ec1b9a4016a9ec54f6"><a href="https://apps.repebble.com/affc96ec1b9a4016a9ec54f6">Classic Motivate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/synalysis/classic-motivate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-20</span> <span title="Latest release in the app store">Updated 2026-08-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-20</span> <span title="Latest release in the app store">Updated 2026-08-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Analog watchface with a companion-configurable motivational quote that alternates with the clock.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/synalysis_cc7bd1a5e
 <h2 class="app-name" id="app-872cc49a3c5c4e359d9f9e2c"><a href="https://apps.repebble.com/872cc49a3c5c4e359d9f9e2c">Yes Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
 <a class="app-source" href="https://github.com/synalysis/yes-watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/451" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-04</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-04</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">The watchface resembles the Yes Watch and has features like sun rise / sun set, moon rise / moon set, moon phase, 24 h hand, and, of course, the time. The computations are done on the phone in…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/synalysis_cc7bd1a5e
 <h2 class="app-name" id="app-e5117a814489481197412acf"><a href="https://apps.repebble.com/e5117a814489481197412acf">Tangram</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.6</span></h2>
 <a class="app-source" href="https://github.com/synalysis/elm-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-19</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-19</span> <span title="Latest release in the app store">Updated 2026-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Watchface showing changing Tangram shapes loaded online</p>
 </div>

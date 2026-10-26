@@ -13,7 +13,7 @@ hide:
 
 # ClementG
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clementg_52a9594cc0ca93c0b6000031) · [GitHub (clementGdev)](https://github.com/clementGdev)
 

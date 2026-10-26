@@ -13,7 +13,7 @@ hide:
 
 # Dominik Hauser
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dominik-hauser_ab6e7e563a14ef03bb88d9a6) · [GitHub (dasdom)](https://github.com/dasdom)
 

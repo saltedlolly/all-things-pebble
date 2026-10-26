@@ -13,7 +13,7 @@ hide:
 
 # h3nry
 
-*1 watchface and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/h3nry_66430b30a243d294bd0df8c0) · [GitHub (HenryTheAddict)](https://github.com/HenryTheAddict) · [Website (soylent.com)](https://soylent.com/pages/soylent-product-recommendation-quiz)
 
@@ -34,7 +34,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/h3nry_66430b30a243d
 <div class="app-dev">Watchface</div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
-<p class="app-desc">Soylent Bottle Inspired Watchface. Me and my friend (burger ten thousand) were joking about this as an idea, i&#x27;m not going to say what but it sounded funny in my head to make one, plus this is my…</p>
+<p class="app-desc">Soylent Bottle Inspired Watchface. THE INVENTOR: Me and my friend (burger ten thousand) were joking about this as an idea, i&#x27;m not going to say what but it sounded funny in my head to make one…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="gabagool." data-released="2026-07-04" data-updated="2026-07-16">

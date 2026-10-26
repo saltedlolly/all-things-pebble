@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · **Y** · [Z](z.md) · [0–9 & other](other.md)
 
-*7 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*7 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-55711f9ce1777eac3c000072"><a href="https://apps.repebble.com/55711f9ce1777eac3c000072">Yard Waste Week</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/s0j/yardwasteweek" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/halogray.html" title="More from this developer">Halogray</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-05</span> <span title="Latest release in the app store">Updated 2016-03-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-05</span> <span title="Latest release in the app store">Updated 2016-03-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Yard Waste Week is a simple application that quickly informs you if &quot;this week&quot; is yard waste week. Using the Yard Waste Schedule published by the Region of Waterloo, you have the option to select…</p>
 </div>
@@ -58,10 +58,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/abc5ed3b095e4bd380de6909" data-search-exclude><img src="../images/apps/abc5ed3b095e4bd380de6909.gif" alt="YarraTrak" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-abc5ed3b095e4bd380de6909"><a href="https://apps.repebble.com/abc5ed3b095e4bd380de6909">YarraTrak</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
+<h2 class="app-name" id="app-abc5ed3b095e4bd380de6909"><a href="https://apps.repebble.com/abc5ed3b095e4bd380de6909">YarraTrak</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/ShinkoNet/YarraTrak" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/shinkonet.html" title="More from this developer">ShinkoNet</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Real-time Melbourne public transport departures on your Pebble smartwatch. YarraTrak shows live train, tram, and V/Line departure times directly on your wrist. Configure your favourite stations…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-56e4693181ff036ba9000020"><a href="https://apps.repebble.com/56e4693181ff036ba9000020">You Cannot Go Back!</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/timboe/YouCannotGoBack" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tim-martin.html" title="More from this developer">Tim Martin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A fiendish challenge awaits you, an adventure of puzzle solving, memory and skill. Just remember dungeoneer - the only way is onwards; you cannot go back! Version 2 is now out for Time 2, Round 2…</p>
 </div>

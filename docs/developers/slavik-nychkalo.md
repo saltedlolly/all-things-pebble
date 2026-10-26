@@ -13,7 +13,7 @@ hide:
 
 # slavik.nychkalo
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slavik-nychkalo_4e9c4462cbe1def15e9e48e8) · [GitHub (gebeto)](https://github.com/gebeto)
 

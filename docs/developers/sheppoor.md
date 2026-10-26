@@ -13,7 +13,7 @@ hide:
 
 # sheppoor
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sheppoor_412a498a797c10f09b9da5a7) · [GitHub (sheppoor)](https://github.com/sheppoor)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sheppoor_412a498a79
 <h2 class="app-name" id="app-75a3c14b89724bd8b9c42be6"><a href="https://apps.repebble.com/75a3c14b89724bd8b9c42be6">SimonTime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/sheppoor/SimonTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-07-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Classic pattern memory game with touch and sound. High score. Up button to see/change speaker on/off state. Select button or center tap to start a new game. Designed for Pebble Time 2, looks even…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sheppoor_412a498a79
 <h2 class="app-name" id="app-917ae403a3024a9d979c57d7"><a href="https://apps.repebble.com/917ae403a3024a9d979c57d7">Touch Tone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/sheppoor/touch-tone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Plays the touch tone classic sounds on an old 12-button telephone. Experience those dulcet tones from the before times.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Val Packett
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/val-packett_52f4bc5cc19ddfde8300060e) · [GitHub (valpackett)](https://github.com/valpackett)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/val-packett_52f4bc5
 <h2 class="app-name" id="app-52fd08542ace7afe350001de"><a href="https://apps.repebble.com/52fd08542ace7afe350001de">Classy Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/valpackett/classyclock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-13</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-13</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watchface that shows time to your next class (or time to the end of your current class). Must have for students. + Backup and restore your schedule to/from any notes app / text editor / whatever…</p>
 </div>

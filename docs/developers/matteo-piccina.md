@@ -13,7 +13,7 @@ hide:
 
 # Matteo Piccina
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matteo-piccina_52f10e8d3be6208c1f0020a5) · [GitHub (cipi1965)](https://github.com/cipi1965) · [GitHub (realguarroman)](https://github.com/realguarroman) · [Website (twitter.com)](http://twitter.com/guarroman)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matteo-piccina_52f1
 <h2 class="app-name" id="app-573dbd6d0d6148012f00000b"><a href="https://apps.repebble.com/573dbd6d0d6148012f00000b">Doom Guy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/realguarroman/doomguy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-19</span> <span title="Latest release in the app store">Updated 2016-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-19</span> <span title="Latest release in the app store">Updated 2016-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">At last! Doomguy goes with you on your wrist! You can choose from two behaviors: - Doomguy health decreases as your Pebble&#x27;s battery runs out - Doomguy tracks your activity. If you don&#x27;t move Doom…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Eric Sauer
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-sauer_532b8853ab060abd7d000044) · [GitHub (ericmsauer)](https://github.com/ericmsauer) · [Website (ericsauer.com)](http://ericsauer.com/)
 

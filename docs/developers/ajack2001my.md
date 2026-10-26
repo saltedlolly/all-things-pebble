@@ -13,7 +13,7 @@ hide:
 
 # ajack2001my
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_b944d7d3482009db609f13f3) · [GitHub (ajack2001my)](https://github.com/ajack2001my)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_b944d7d3482
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="old eyes" data-released="2026-10-12" data-updated="2026-10-19">
+<div class="app-card" data-type="watchface" data-title="old eyes" data-released="2026-10-12" data-updated="2026-10-21">
 <a class="app-shot" href="https://apps.repebble.com/12b5466ad2f74cb783d761cb" data-search-exclude><img src="../images/apps/12b5466ad2f74cb783d761cb.png" alt="Old Eyes" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-12b5466ad2f74cb783d761cb"><a href="https://apps.repebble.com/12b5466ad2f74cb783d761cb">Old Eyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
+<h2 class="app-name" id="app-12b5466ad2f74cb783d761cb"><a href="https://apps.repebble.com/12b5466ad2f74cb783d761cb">Old Eyes</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/ajack2001my/OldEyes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">First Attempt to publish</p>
 </div>

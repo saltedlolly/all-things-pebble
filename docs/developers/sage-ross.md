@@ -13,7 +13,7 @@ hide:
 
 # Sage Ross
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sage-ross_57801d326c21044501000e1d) · [GitHub (ragesoss)](https://github.com/ragesoss)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sage-ross_57801d326
 <h2 class="app-name" id="app-57dc94602a6ea665510000f0"><a href="https://apps.repebble.com/57dc94602a6ea665510000f0">Diderot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/ragesoss/diderot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-17</span> <span title="Latest release in the app store">Updated 2016-12-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-17</span> <span title="Latest release in the app store">Updated 2016-12-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Diderot shows you the nearest unphotographed Wikipedia article to you, along with the distance and direction. You&#x27;ll also get a notification whenever you&#x27;re near an unphotographed location that is…</p>
 </div>

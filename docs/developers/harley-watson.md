@@ -13,7 +13,7 @@ hide:
 
 # Harley Watson
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harley-watson_52b1e71c6ba927524b00000f) · [GitHub (unlobito)](https://github.com/unlobito)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harley-watson_52b1e
 <h2 class="app-name" id="app-553aaf29bf1a5965020000c8"><a href="https://apps.repebble.com/553aaf29bf1a5965020000c8">skunk</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/unlobito/skunk" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/927" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-24</span> <span title="Latest release in the app store">Updated 2026-04-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-04-24</span> <span title="Latest release in the app store">Updated 2026-04-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Skunk allows easy access to up to eight store cards and other barcodes. Linear Barcodes: Codabar, Code 39, Code 128, EAN-8, EAN-13, Interleaved 2 of 5 (ITF), UPC-A Matrix Barcodes: Aztec, Data…</p>
 </div>

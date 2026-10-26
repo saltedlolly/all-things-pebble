@@ -13,7 +13,7 @@ hide:
 
 # Unruh Bros. Print Co.
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unruh-bros-print-co_b6bfb46eef94f16e84d4cd95) · [GitHub (unruh-bros-print-co)](https://github.com/unruh-bros-print-co)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unruh-bros-print-co
 <h2 class="app-name" id="app-723a7e89e3624f45a3e323b5"><a href="https://apps.repebble.com/723a7e89e3624f45a3e323b5">Anticipate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/unruh-bros-print-co/anticipate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Anticipate! All the basic information you need to be prepared for the day ahead! Features - Today&#x27;s date - Step Count - Forecasted high temperature - Current temperature - Forecasted low…</p>
 </div>

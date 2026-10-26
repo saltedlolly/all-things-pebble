@@ -13,7 +13,7 @@ hide:
 
 # Warren Fernandes
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/warren-fernandes_56a5aa16ed368bdaa3000012) · [GitHub (wfernandes)](https://github.com/wfernandes)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/warren-fernandes_56
 <h2 class="app-name" id="app-5830b6418c7fff66e1000061"><a href="https://apps.repebble.com/5830b6418c7fff66e1000061">Scripple</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/wfernandes/scripple" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-19</span> <span title="Latest release in the app store">Updated 2016-11-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-19</span> <span title="Latest release in the app store">Updated 2016-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A pebble app the scribes spontaneous thoughts, ideas and yes, also to-do items. It uses the dictation service and can store up to ten items.</p>
 </div>

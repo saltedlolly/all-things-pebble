@@ -13,7 +13,7 @@ hide:
 
 # Sri
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sri_7c75f01e664967c864c29c29) · [GitHub (sriganesh)](https://github.com/sriganesh) · [Website (catapult.watch)](https://catapult.watch)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sri_7c75f01e664967c
 <h2 class="app-name" id="app-f70991dc45774994abe6d832"><a href="https://apps.repebble.com/f70991dc45774994abe6d832">Catapult</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.0</span></h2>
 <a class="app-source" href="https://github.com/sriganesh/catapult-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-27</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-09-27</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Publish any atproto record, in any lexicon, from your Pebble. - Post to Bluesky - Set your Statusphere status - Dictate posts and voice notes (alpha) - Keep private notes in permissioned spaces…</p>
 </div>

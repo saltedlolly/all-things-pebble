@@ -13,7 +13,7 @@ hide:
 
 # rukari / @hidea
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rukari-hidea_5584ba687ecc11b67700005c) · [GitHub (hidea)](https://github.com/hidea) · [Website (bsky.app)](https://bsky.app/profile/hidea.bsky.social)
 

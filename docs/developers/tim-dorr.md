@@ -13,7 +13,7 @@ hide:
 
 # Tim Dorr
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-dorr_54ef8788565f03ae8e0000ba) · [GitHub (timdorr)](https://github.com/timdorr)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-dorr_54ef878856
 <h2 class="app-name" id="app-559d32659bd78d3bc1000032"><a href="https://apps.repebble.com/559d32659bd78d3bc1000032">Tesla Time</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/timdorr/tesla-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-08</span> <span title="Latest release in the app store">Updated 2017-05-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-08</span> <span title="Latest release in the app store">Updated 2017-05-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Monitor and control your Tesla Model S from your wrist. **IMPORTANT** Make sure you visit the settings from your Pebble or Pebble Time app first. The app won&#x27;t work without it! - Check your range…</p>
 </div>

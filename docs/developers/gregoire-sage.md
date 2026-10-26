@@ -13,7 +13,7 @@ hide:
 
 # Grégoire Sage
 
-*3 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gr-goire-sage_52b216cf05c04653a9000080) · [GitHub (gregoiresage)](https://github.com/gregoiresage) · [GitHub (pebble)](https://github.com/pebble) · [Website (paypal.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gregoire%2esage%40gmail%2ecom&lc=US&item_name=NetAtmo%20for%20Pebble&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)
 

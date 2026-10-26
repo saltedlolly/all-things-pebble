@@ -13,7 +13,7 @@ hide:
 
 # Moaske
 
-*3 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moaske_3f1bf0845ffec82a2a96f91c) · [GitHub (Moaske)](https://github.com/Moaske)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moaske_3f1bf0845ffe
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="hackers95" data-released="2026-08-12" data-updated="2026-10-21">
+<a class="app-shot" href="https://apps.repebble.com/38c21e95638449e5a7eedb8d" data-search-exclude><img src="../images/apps/38c21e95638449e5a7eedb8d.gif" alt="Hackers95" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-38c21e95638449e5a7eedb8d"><a href="https://apps.repebble.com/38c21e95638449e5a7eedb8d">Hackers95</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.2</span></h2>
+<a class="app-source" href="https://github.com/Moaske/PebbleHackers95" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-12</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Hackers &#x27;95 fan watch face featuring nine wallpapers from the movie 😎💾 Hack the planet!! Clock and date follow localisation settings and at bottom: steps, sleep and battery. (Time 2 / Emery only)…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="metro wp8" data-released="2026-08-07" data-updated="2026-10-09">
 <a class="app-shot" href="https://apps.repebble.com/b406d87ebcd144ff9cd278a3" data-search-exclude><img src="../images/apps/b406d87ebcd144ff9cd278a3.gif" alt="Metro WP8" loading="lazy"></a>
 <div class="app-info">
@@ -46,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moaske_3f1bf0845ffe
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-13</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A Pebble nearby fuel station finder for Europe with price check, which kindly and gratefully uses the ANWB© fuel prices api. Watch compatibilty: Basalt, Diorite, Emery and Flint. Features: ⛽ Main…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="hackers95" data-released="2026-08-12" data-updated="2026-09-19">
-<a class="app-shot" href="https://apps.repebble.com/38c21e95638449e5a7eedb8d" data-search-exclude><img src="../images/apps/38c21e95638449e5a7eedb8d.gif" alt="Hackers95" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-38c21e95638449e5a7eedb8d"><a href="https://apps.repebble.com/38c21e95638449e5a7eedb8d">Hackers95</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.1</span></h2>
-<a class="app-source" href="https://github.com/Moaske/PebbleHackers95" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-12</span> <span title="Latest release in the app store">Updated 2026-09-19</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Hackers &#x27;95 fan watch face featuring nine wallpapers from the movie 😎💾 Hack the planet!! Clock and date follow localisation settings and at bottom: steps, sleep and battery. (Time 2 / Emery only)…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="scalemates" data-released="2026-09-05" data-updated="2026-09-06">

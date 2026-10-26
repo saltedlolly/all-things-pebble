@@ -13,7 +13,7 @@ hide:
 
 # Gold Software
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gold-software_5355d92ff35dc9c167000264) · [GitHub (jgoldst)](https://github.com/jgoldst)
 

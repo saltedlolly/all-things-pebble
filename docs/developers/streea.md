@@ -13,7 +13,7 @@ hide:
 
 # Streea
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/streea_52ca22bb6126ce0684000035) · [GitHub (streeabarra)](https://github.com/streeabarra) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/4866/watch-face-gallifrey-time-with-real-gallifreyan-language-from-doctor-who-v1-5)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/streea_52ca22bb6126
 <h2 class="app-name" id="app-544d9c63e7900e8606000009"><a href="https://apps.repebble.com/544d9c63e7900e8606000009">Gallifrey Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/streeabarra/gallifreyan-watch-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-27</span> <span title="Latest release in the app store">Updated 2014-11-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-27</span> <span title="Latest release in the app store">Updated 2014-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Original watchface designed by SzathmaryDominik, code by Bobert Perry, edited by me. Cleaned up the watchface and added indicators more like the original.</p>
 </div>

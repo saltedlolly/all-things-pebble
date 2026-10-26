@@ -13,7 +13,7 @@ hide:
 
 # t-lo
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/690252d458141700081f97b7/1) · [GitHub (t-lo)](https://github.com/t-lo)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/690252d45814170
 <h2 class="app-name" id="app-69065ea495dc89000831c084"><a href="https://apps.rebble.io/en_US/application/69065ea495dc89000831c084">Wrist Light</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/t-lo/pebble-wristlight" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-01</span> <span title="Latest release in the app store">Updated 2025-11-01</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2025-11-01</span> <span title="Latest release in the app store">Updated 2025-11-01</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Very basic wrist light app for pebble. Turn your pebble into a wrist light at the press of a button. This app is open source. Please report issues and feel free to submit PRs here to the app&#x27;s…</p>
 </div>

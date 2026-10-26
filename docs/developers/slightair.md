@@ -13,7 +13,7 @@ hide:
 
 # slightair
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slightair_545b71f53ee6124b3b000059) · [GitHub (slightair)](https://github.com/slightair)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slightair_545b71f53
 <h2 class="app-name" id="app-54703ce10ad7b44334000049"><a href="https://apps.repebble.com/54703ce10ad7b44334000049">CA2D</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/slightair/Pebble-CA2D" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-22</span> <span title="Latest release in the app store">Updated 2015-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-22</span> <span title="Latest release in the app store">Updated 2015-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Display multi state 2D Cellular Automata animation(345/2/4, star wars rule).</p>
 </div>

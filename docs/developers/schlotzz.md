@@ -13,7 +13,7 @@ hide:
 
 # schlotzz
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56d2f6f9eb3b9775c6000011/1) · [GitHub (schlotzz)](https://github.com/schlotzz)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56d2f6f9eb3b977
 <h2 class="app-name" id="app-58392d9900355abe6600058b"><a href="https://apps.rebble.io/en_US/application/58392d9900355abe6600058b">Octowatch2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/schlotzz/octowatch2/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-26</span> <span title="Latest release in the app store">Updated 2016-12-09</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2016-11-26</span> <span title="Latest release in the app store">Updated 2016-12-09</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Use your Pebble watch to monitor and control 3D printers that use the excellent Octoprint host software. Octowatch2 is heavily inspired by Octowatch, but completely rewritten from scratch to…</p>
 </div>

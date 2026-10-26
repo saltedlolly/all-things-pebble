@@ -13,7 +13,7 @@ hide:
 
 # Schwittmann
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/schwittmann_5434faf0b3b950845a00016c) · [GitHub (schwittmann)](https://github.com/schwittmann)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/schwittmann_5434faf
 <h2 class="app-name" id="app-54476f1335d2bcae86000035"><a href="https://apps.repebble.com/54476f1335d2bcae86000035">Checklists for Trello</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2</span></h2>
 <a class="app-source" href="https://github.com/schwittmann/pebble-trello2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-22</span> <span title="Latest release in the app store">Updated 2017-08-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">BSD-3-Clause</span> <span title="First published in the app store">Released 2014-10-22</span> <span title="Latest release in the app store">Updated 2017-08-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Mark your Trello todos on your wrist! Disclaimer: We are not affiliated, associated, authorized, endorsed by or in any way officially connected to Trello, Inc. (www.trello.com).</p>
 </div>

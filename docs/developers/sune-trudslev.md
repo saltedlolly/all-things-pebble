@@ -13,7 +13,7 @@ hide:
 
 # Sune Trudslev
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sune-trudslev_52ca62f4d088ea10c600004e) · [GitHub (trudslev)](https://github.com/trudslev)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sune-trudslev_52ca6
 <h2 class="app-name" id="app-52d63db30af1f59810000001"><a href="https://apps.repebble.com/52d63db30af1f59810000001">Islenskur Texti</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/trudslev/DanskTekst/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2015-05-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2015-05-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a watchface that uses natural Icelandic language to display the time, using animation to change every minute, highlighting the hour.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sune-trudslev_52ca6
 <h2 class="app-name" id="app-52d63495f19630cbfb000005"><a href="https://apps.repebble.com/52d63495f19630cbfb000005">Dansk Tekst</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/trudslev/DanskTekst" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2015-05-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2015-05-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a watchface that uses natural danish language to display the time, using animation to change every minute, highlighting the hour.</p>
 </div>

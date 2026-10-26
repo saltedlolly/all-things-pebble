@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · **D** · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*75 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*76 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-5821192334da21b8b400001e"><a href="https://apps.repebble.com/5821192334da21b8b400001e">Darts Score</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/vassdoki/pebble-darts-counter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/laszlo-vass.html" title="More from this developer">László Vass</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-08</span> <span title="Latest release in the app store">Updated 2016-11-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-11-08</span> <span title="Latest release in the app store">Updated 2016-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Just play your favorite X01 darts game, and keep the score using your pebble.</p>
 </div>
@@ -193,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-3e7189da80634db7b3989d1a"><a href="https://apps.repebble.com/3e7189da80634db7b3989d1a">Debate Timer for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.1</span></h2>
 <a class="app-source" href="https://github.com/thinkhome-org/DebateTimerForPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thinkhome-s-r-o.html" title="More from this developer">ThinkHome s.r.o.</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-08-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-08-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A dedicated timer for British Parliamentary debating. Track speeches, POI periods and speaker order directly from your wrist. Features: 7-minute BP speech timer POI period from 1:00 to 6:00…</p>
 </div>
@@ -314,7 +314,7 @@ hide:
 <h2 class="app-name" id="app-55002392bab0598ad60000b9"><a href="https://apps.repebble.com/55002392bab0598ad60000b9">Design Jobs Wales</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/stevehalford/DJWPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/steve-halford.html" title="More from this developer">Steve Halford</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-11</span> <span title="Latest release in the app store">Updated 2015-03-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-11</span> <span title="Latest release in the app store">Updated 2015-03-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays the latest jobs from Design Jobs Wales</p>
 </div>
@@ -391,7 +391,7 @@ hide:
 <h2 class="app-name" id="app-52b301a2cd4183347d0000eb"><a href="https://apps.repebble.com/52b301a2cd4183347d0000eb">Dice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/vvzvlad/Pebble-Dice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vvzvlad.html" title="More from this developer">vvzvlad</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-19</span> <span title="Latest release in the app store">Updated 2014-12-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-19</span> <span title="Latest release in the app store">Updated 2014-12-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Dice your watch. Shake the clock to roll a die!</p>
 </div>
@@ -413,7 +413,7 @@ hide:
 <h2 class="app-name" id="app-70e12ae720f54b7a8666cfc8"><a href="https://apps.repebble.com/70e12ae720f54b7a8666cfc8">Dice Roller</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/theLittleBigZ/Pebble-dice-roller" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/the403-devs.html" title="More from this developer">the403 Devs</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-06</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An app that lets you cycle through then roll a d2, d3, d4, d6, d8, d10, d12, d20, d100. can be used as a companion to DnD or if you just need to roll a dice</p>
 </div>
@@ -465,10 +465,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5b595252b47f4f28ae51c39d" data-search-exclude><img src="../images/apps/5b595252b47f4f28ae51c39d.png" alt="Digimon Digivice" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/vinay1017/Pebble-Digivice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vinayla.html" title="More from this developer">Vinayla</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">My take on a hybrid digivice + vital bracelet (VB) Digimon app! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how to digivolve to…</p>
 </div>
@@ -523,7 +523,7 @@ hide:
 <h2 class="app-name" id="app-5939fe5d0dfc32af610003df"><a href="https://apps.repebble.com/5939fe5d0dfc32af610003df">Disney Parks Fuel Rod Locator</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/fuelRodLocator" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-stoeckert.html" title="More from this developer">Thomas Stoeckert</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-06-09</span> <span title="Latest release in the app store">Updated 2017-06-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-06-09</span> <span title="Latest release in the app store">Updated 2017-06-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This app lets you find Fuel Rod rechargeable battery swap kiosks at any Disney park in North America. Pressing select will toggle between Walt Disney World locations and Disneyland locations…</p>
 </div>
@@ -556,7 +556,7 @@ hide:
 <h2 class="app-name" id="app-53cd0f6765c7dc83c90000d7"><a href="https://apps.repebble.com/53cd0f6765c7dc83c90000d7">DogeRain ALPHA</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/sodoku/pebble-dogerain" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/philip-stewart.html" title="More from this developer">Philip Stewart</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-07-21</span> <span title="Latest release in the app store">Updated 2014-07-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-07-21</span> <span title="Latest release in the app store">Updated 2014-07-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">EARLY ALPHA. This may crash, make your watch explode and kill all your shibes. Press the button to create a dogecoin rain. Others nearby having the app open can collect. #makeitrain Tweet @sodoku…</p>
 </div>
@@ -606,12 +606,23 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/d05929dec0a64e5e9fcdf2cc" data-search-exclude><img src="../images/apps/d05929dec0a64e5e9fcdf2cc.png" alt="DPS Field" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d05929dec0a64e5e9fcdf2cc"><a href="https://apps.repebble.com/d05929dec0a64e5e9fcdf2cc">DPS Field</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/dps-field" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/ac1rv.html" title="More from this developer">AC1RV</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-23</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">DPS Field is a Pebble watch companion for the DPS field controller running on the same phone. The watch uses the same dark layout as HF Bands: black background, yellow titles, and white figures…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/567468a0a81715e9a0000048" data-search-exclude><img src="../images/apps/567468a0a81715e9a0000048.png" alt="DR Nyheder" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-567468a0a81715e9a0000048"><a href="https://apps.repebble.com/567468a0a81715e9a0000048">DR Nyheder</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/thomasrosted/PebbleDRNyheder" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-piil-rosted.html" title="More from this developer">Thomas Piil Rosted</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-18</span> <span title="Latest release in the app store">Updated 2015-12-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-18</span> <span title="Latest release in the app store">Updated 2015-12-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Latest news from DR Nyheder in danish.</p>
 </div>
@@ -666,7 +677,7 @@ hide:
 <h2 class="app-name" id="app-554b93a25fa04f7f3f000058"><a href="https://apps.repebble.com/554b93a25fa04f7f3f000058">Drink Counter</a> <span class="app-version" title="Latest version" data-search-exclude>v7.1-rbl1</span></h2>
 <a class="app-source" href="https://github.com/reini1305/drinkcounter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/christian-reinbacher.html" title="More from this developer">Christian Reinbacher</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-07</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-07</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Drink Counter allows you to keep track of your alcohol, water and cigarette consumption. It even estimates the blood alcohol level based on your gender, weight and number of drinks. Remember…</p>
 </div>
@@ -699,7 +710,7 @@ hide:
 <h2 class="app-name" id="app-54b2708e6357ce9213000061"><a href="https://apps.repebble.com/54b2708e6357ce9213000061">Driver Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/sephallen/DriverTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/joseph-allen.html" title="More from this developer">Joseph Allen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-11</span> <span title="Latest release in the app store">Updated 2015-02-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-11</span> <span title="Latest release in the app store">Updated 2015-02-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Driver Timer keeps track of your HGV driving hours for UK truck/lorry drivers. It should also be compatible with other countries that adhere to the EU Driving Laws. As of version 1.1, the…</p>
 </div>
@@ -754,7 +765,7 @@ hide:
 <h2 class="app-name" id="app-529a56991695234d81000004"><a href="https://apps.repebble.com/529a56991695234d81000004">Dual Scorekeeper</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.3</span></h2>
 <a class="app-source" href="https://github.com/saintnicster/Pebble-Projects/tree/sdk2/dual_scorekeeper" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nick-fajardo.html" title="More from this developer">Nick Fajardo</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2013-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2013-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Keep track of 2 player&#x27;s scores with this app on your watch. Scores are saved to the watch when switching apps Select button (middle click) to select which counter is being toggled. Hold down…</p>
 </div>

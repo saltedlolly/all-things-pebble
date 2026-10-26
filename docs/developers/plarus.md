@@ -13,7 +13,7 @@ hide:
 
 # plarus
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57c31d1d5e3c3de160000338/1) · [GitHub (plarus)](https://github.com/plarus)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57c31d1d5e3c3de
 <h2 class="app-name" id="app-5a48b54f0dfc32823d0041d5"><a href="https://apps.rebble.io/en_US/application/5a48b54f0dfc32823d0041d5">TimeStyle BB</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/plarus/TimeStyleBBPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-12-31</span> <span title="Latest release in the app store">Updated 2021-02-02</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-12-31</span> <span title="Latest release in the app store">Updated 2021-02-02</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by the visual language of the Timeline found on the Pebble Time, TimeStyle BB is designed as the “present” to complement the Timeline’s “past” and “future”. Various display options: Up to…</p>
 </div>

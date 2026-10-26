@@ -13,7 +13,7 @@ hide:
 
 # Flo Knödl
 
-*1 watchface and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flo-kn-dl_69207a520a015600086f2e44) · [Rebble App Store](https://apps.rebble.io/en_US/developer/69207a520a015600086f2e44/1) · [GitHub (flokndl)](https://github.com/flokndl) · [Website (faceswithlove.framer.ai)](https://faceswithlove.framer.ai/)
 

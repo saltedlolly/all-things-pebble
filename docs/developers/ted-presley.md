@@ -13,7 +13,7 @@ hide:
 
 # Ted Presley
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ted-presley_53508e68dfb1642804000077) · [GitHub (tapresle)](https://github.com/tapresle) · [Website (tapresle.github.io)](http://tapresle.github.io)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ted-presley_53508e6
 <h2 class="app-name" id="app-53b34536977c65eb0d000092"><a href="https://apps.repebble.com/53b34536977c65eb0d000092">Bounce</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/tapresle/Bounce" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-07-01</span> <span title="Latest release in the app store">Updated 2014-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-07-01</span> <span title="Latest release in the app store">Updated 2014-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface built using the accelerometer demo that was posted to github a while back. Also features the helvetica neue font.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ted-presley_53508e6
 <h2 class="app-name" id="app-53554676c55d5a399e000058"><a href="https://apps.repebble.com/53554676c55d5a399e000058">SAO2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/tapresle/SAO2Face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-21</span> <span title="Latest release in the app store">Updated 2014-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-21</span> <span title="Latest release in the app store">Updated 2014-04-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My second watch face featuring artwork from Sword Art Online. Enjoy!</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ted-presley_53508e6
 <h2 class="app-name" id="app-5353b54022d5a159d3000114"><a href="https://apps.repebble.com/5353b54022d5a159d3000114">Sword Art Online Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tapresle/SAOFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-20</span> <span title="Latest release in the app store">Updated 2014-04-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-20</span> <span title="Latest release in the app store">Updated 2014-04-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Just a simple Sword Art Online watch face I made for myself and figured others would like it too. Features a small Elucidator separating the time and date!</p>
 </div>

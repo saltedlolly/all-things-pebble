@@ -13,7 +13,7 @@ hide:
 
 # Zach Bruggeman
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-bruggeman_52cb4995e2dd02c7e0000099) · [GitHub (remixz)](https://github.com/remixz)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-bruggeman_52cb
 <h2 class="app-name" id="app-52cb4d8e6e5f70bf6d0000b0"><a href="https://apps.repebble.com/52cb4d8e6e5f70bf6d0000b0">Trekkie</a> <span class="app-version" title="Latest version" data-search-exclude>v4.1</span></h2>
 <a class="app-source" href="https://github.com/remixz/trekkie" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2015-02-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-07</span> <span title="Latest release in the app store">Updated 2015-02-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An LCARS-inspired Pebble watchface. Boldly going where no Pebble watchface has gone before! Displays the time, date, stardate, battery level and bluetooth status. Developed by Zach Bruggeman…</p>
 </div>

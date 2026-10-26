@@ -13,7 +13,7 @@ hide:
 
 # duke
 
-*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/duke_d48f949b70fcaefd4e29e5cb) · [GitHub (duke0815)](https://github.com/duke0815)
 

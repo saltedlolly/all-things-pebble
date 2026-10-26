@@ -13,7 +13,7 @@ hide:
 
 # greater\_nemo
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greater-nemo_55f8a3921e01e9c144000015) · [GitHub (greaternemo)](https://github.com/greaternemo)
 

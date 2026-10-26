@@ -13,7 +13,7 @@ hide:
 
 # willbsp
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/willbsp_5609aa4ebcd03bd488000090) · [GitHub (willbsp)](https://github.com/willbsp)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/willbsp_5609aa4ebcd
 <h2 class="app-name" id="app-a363f7be311a4480831ab357"><a href="https://apps.repebble.com/a363f7be311a4480831ab357">Klipper Monitor</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/willbsp/klipper-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-05-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Monitor your Klipper 3D printer</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/willbsp_5609aa4ebcd
 <h2 class="app-name" id="app-562c9639b5a9327f9d000065"><a href="https://apps.repebble.com/562c9639b5a9327f9d000065">Simple Retro</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/willbsp/Simple-Retro-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-03-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-25</span> <span title="Latest release in the app store">Updated 2016-03-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple Retro is a simple open-source Pebble watchface that can show Bluetooth status, battery level, time and date.</p>
 </div>

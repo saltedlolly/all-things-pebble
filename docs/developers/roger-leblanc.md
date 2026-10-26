@@ -13,7 +13,7 @@ hide:
 
 # Roger Leblanc
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/roger-leblanc_52b59af6d2b97a3c0a000016) · [GitHub (RodgerLeblanc)](https://github.com/RodgerLeblanc)
 

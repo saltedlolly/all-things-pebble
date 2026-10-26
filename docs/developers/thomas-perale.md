@@ -13,7 +13,7 @@ hide:
 
 # Thomas Perale
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-perale_5672e766542be03aeb000038) · [GitHub (thomacer)](https://github.com/thomacer)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-perale_5672e
 <h2 class="app-name" id="app-5712b0e918b16185ee000020"><a href="https://apps.repebble.com/5712b0e918b16185ee000020">Open Bike Sharing</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/thomacer/pebble-villo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-16</span> <span title="Latest release in the app store">Updated 2016-08-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-04-16</span> <span title="Latest release in the app store">Updated 2016-08-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Use your local bike sharing system with Open Bike Sharing to find the closest station according to your position. Open Bike Sharing use an easy to use design to look after stations in a glance…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-perale_5672e
 <h2 class="app-name" id="app-57a269a31482cdecc7000203"><a href="https://apps.repebble.com/57a269a31482cdecc7000203">Hackerspace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/thomacer/pebble-hackerspace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-03</span> <span title="Latest release in the app store">Updated 2016-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-08-03</span> <span title="Latest release in the app store">Updated 2016-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">&quot;Hackerspace&quot; is the application to use with your local hackerspace or smart home spaceAPI. It give you on your wrist all the information from a spaceAPI so you can check them in a glance. The…</p>
 </div>

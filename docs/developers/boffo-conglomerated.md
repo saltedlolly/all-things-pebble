@@ -13,7 +13,7 @@ hide:
 
 # Boffo Conglomerated
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/boffo-conglomerated_5491f686b7c25336ba00001f) · [GitHub (pnf)](https://github.com/pnf)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/boffo-conglomerated
 <h2 class="app-name" id="app-54a708610cd93626c90000da"><a href="https://apps.repebble.com/54a708610cd93626c90000da">Clunky Old Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pnf/pebble-sdk-examples/tree/master/watchfaces/crappy_analog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-02</span> <span title="Latest release in the app store">Updated 2015-01-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-02</span> <span title="Latest release in the app store">Updated 2015-01-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Be transported to magical olden times when you strap on this beauty. This watch loses or gains several minutes a day, depending on how much it&#x27;s been wound, where winding is accomplished by…</p>
 </div>

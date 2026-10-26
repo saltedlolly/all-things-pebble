@@ -13,7 +13,7 @@ hide:
 
 # rohitchannazhi
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_b5c50c2e25385f0ffa3d6c2a) · [GitHub (rohitchannazhi)](https://github.com/rohitchannazhi)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_b5c50c2e253
 <h2 class="app-name" id="app-98018ad0eadb4fbdabff017b"><a href="https://apps.repebble.com/98018ad0eadb4fbdabff017b">Old digital watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/rohitchannazhi/pebble-lcd221EX" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-09</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Only for Time 2. Considering all of the font and margin intricacies. This is a supercharged version of the LCD 221 watch face available from Kicou…</p>
 </div>

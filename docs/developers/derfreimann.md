@@ -13,7 +13,7 @@ hide:
 
 # derfreimann
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/derfreimann_52dea28d81cae24943000082) · [GitHub (derfreimann)](https://github.com/derfreimann) · [Website (forums.getpebble.com)](https://forums.getpebble.com/discussion/13508/watch-face-pokebattle-v3-0-available-now-fixed-all-crashing-issues-added-new-features)
 

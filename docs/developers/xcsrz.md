@@ -13,7 +13,7 @@ hide:
 
 # xcsrz
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xcsrz_581f83651c0888f0460002d3) · [GitHub (xcsrz)](https://github.com/xcsrz)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xcsrz_581f83651c088
 <h2 class="app-name" id="app-581f83d89cbbaf5d7200030c"><a href="https://apps.repebble.com/581f83d89cbbaf5d7200030c">Jeep Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/xcsrz/pebble-jeep-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-06</span> <span title="Latest release in the app store">Updated 2016-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-06</span> <span title="Latest release in the app store">Updated 2016-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A Pebble Time watchface themed for jeep folk. Currently there is only one model (1941 MB), but more are coming. Configurable options include: - full customized color for body, time and background…</p>
 </div>

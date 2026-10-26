@@ -13,7 +13,7 @@ hide:
 
 # RHuffy
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rhuffy_52cb1fe8e2dd020cb1000044) · [GitHub (rhuffy)](https://github.com/rhuffy) · [Website (forum.xda-developers.com)](http://forum.xda-developers.com/pebble/pebble-development/competition-school-schedule-how-time-t2852455)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rhuffy_52cb1fe8e2dd
 <h2 class="app-name" id="app-540a3b12c7980ced84000021"><a href="https://apps.repebble.com/540a3b12c7980ced84000021">School Schedule</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/rhuffy/School-Schedule/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-05</span> <span title="Latest release in the app store">Updated 2014-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-05</span> <span title="Latest release in the app store">Updated 2014-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface allows you to enter in your daily schedule, and it displays how much time is remaining in the current time block. A quick glance at your Pebble will tell you exactly how much time…</p>
 </div>

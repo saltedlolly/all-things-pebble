@@ -13,7 +13,7 @@ hide:
 
 # dybm
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dybm_550c124986a646389c00007e) · [GitHub (dybm)](https://github.com/dybm)
 

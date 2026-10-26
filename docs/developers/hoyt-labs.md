@@ -13,7 +13,7 @@ hide:
 
 # Hoyt Labs
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hoyt-labs_2c7cc63cb80aec6744597cfb) · [GitHub (michaellunzer)](https://github.com/michaellunzer)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hoyt-labs_2c7cc63cb
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="fantasy football" data-released="2026-10-24" data-updated="2026-10-24">
+<a class="app-shot" href="https://apps.repebble.com/d06e1a02933f4f05b959b41a" data-search-exclude><img src="../images/apps/d06e1a02933f4f05b959b41a.png" alt="Fantasy Football" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d06e1a02933f4f05b959b41a"><a href="https://apps.repebble.com/d06e1a02933f4f05b959b41a">Fantasy Football</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/michaellunzer/pebble-fantasy-football" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Every Sleeper Fantasy Football League on your wrist: live scores, who&#x27;s left to play, and win odds from projections. 👀 Made for a quick check-in 🏆 Every league at once — most people are in…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="lcd worldtime" data-released="2026-07-27" data-updated="2026-10-12">
 <a class="app-shot" href="https://apps.repebble.com/8202d29e6aea4d93ab507208" data-search-exclude><img src="../images/apps/8202d29e6aea4d93ab507208.png" alt="LCD Worldtime" loading="lazy"></a>
 <div class="app-info">

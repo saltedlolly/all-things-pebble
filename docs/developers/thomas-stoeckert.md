@@ -13,7 +13,7 @@ hide:
 
 # Thomas Stoeckert
 
-*3 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-stoeckert_55e827430a081ae5f9000009) · [Rebble App Store](https://apps.rebble.io/en_US/developer/55e827430a081ae5f9000009/1) · [GitHub (thomasstoeckert)](https://github.com/thomasstoeckert) · [Website (thomasstoeckert.us)](https://thomasstoeckert.us/projects/pebble-wait-times)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-stoeckert_55
 <h2 class="app-name" id="app-60cdd1811342ae86c897beab"><a href="https://apps.repebble.com/60cdd1811342ae86c897beab">Wait Times</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/waittimes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-06-19</span> <span title="Latest release in the app store">Updated 2025-09-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2021-06-19</span> <span title="Latest release in the app store">Updated 2025-09-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A pebble watchapp to conveniently organize the live wait-time information for attractions at various theme parks around the world - including those at Walt Disney World, Universal Orlando Resort…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-stoeckert_55
 <h2 class="app-name" id="app-637a4c21fdf3e30009f6395d"><a href="https://apps.repebble.com/637a4c21fdf3e30009f6395d">Perihelion</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/local-launch-library" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2022-11-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2022-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This app displays the names, dates, and times of the next 10 rocket launches from around the world, using data provided by LaunchLibrary. Made as part of the first Rebble Hackathon</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-stoeckert_55
 <h2 class="app-name" id="app-5a183f5a0dfc323bd000344e"><a href="https://apps.rebble.io/en_US/application/5a183f5a0dfc323bd000344e">KnightsFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/KnightsFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-11-24</span> <span title="Latest release in the app store">Updated 2017-11-26</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-11-24</span> <span title="Latest release in the app store">Updated 2017-11-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Show your Knight Pride with this watchface, with both analog and digital time display. It also has several different icons to fit your mood.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-stoeckert_55
 <h2 class="app-name" id="app-5939fe5d0dfc32af610003df"><a href="https://apps.repebble.com/5939fe5d0dfc32af610003df">Disney Parks Fuel Rod Locator</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/fuelRodLocator" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-06-09</span> <span title="Latest release in the app store">Updated 2017-06-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-06-09</span> <span title="Latest release in the app store">Updated 2017-06-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This app lets you find Fuel Rod rechargeable battery swap kiosks at any Disney park in North America. Pressing select will toggle between Walt Disney World locations and Disneyland locations…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-stoeckert_55
 <h2 class="app-name" id="app-5611916f9af990f8ce00002f"><a href="https://apps.repebble.com/5611916f9af990f8ce00002f">VHS Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/vhsface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-04</span> <span title="Latest release in the app store">Updated 2015-11-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-04</span> <span title="Latest release in the app store">Updated 2015-11-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An analog watchface made for Viera High School. Has the 2015-2016 school clock schedule, including short schedules for wednesdays. Features: - Analog and digital display - Time remaining in…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-stoeckert_55
 <h2 class="app-name" id="app-55ff1b8f4d083dbfea0000a0"><a href="https://apps.repebble.com/55ff1b8f4d083dbfea0000a0">Spaceship Earth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.50</span></h2>
 <a class="app-source" href="https://github.com/thomasstoeckert/spaceshipearth" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-20</span> <span title="Latest release in the app store">Updated 2015-09-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-20</span> <span title="Latest release in the app store">Updated 2015-09-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">My first watchface, inspired by the spaceship earth globe found in Epcot in Disney World. Features: - Time, formatted for both 12 and 24 hours - PM/AM icon and label - Battery level bar - Animated…</p>
 </div>

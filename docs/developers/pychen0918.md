@@ -13,7 +13,7 @@ hide:
 
 # pychen0918
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pychen0918_553a4f254e14b4f4d1000070) · [GitHub (pychen0918)](https://github.com/pychen0918) · [Website (pychen0918.blogspot.tw)](http://pychen0918.blogspot.tw/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pychen0918_553a4f25
 <h2 class="app-name" id="app-55dd6d104374cb930300000d"><a href="https://apps.repebble.com/55dd6d104374cb930300000d">Where to Eat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/pychen0918/pebble-where-to-eat" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-26</span> <span title="Latest release in the app store">Updated 2015-10-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-26</span> <span title="Latest release in the app store">Updated 2015-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">NEW v1.1 release! Supports Pebble Time Round and more features! Cannot decide where to eat? This app discovers nearby restaurants, and picks one for you! Specify the restaurant types and range to…</p>
 </div>

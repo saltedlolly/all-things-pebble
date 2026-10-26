@@ -13,7 +13,7 @@ hide:
 
 # Brandon Coupal
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brandon-coupal_0db1e0062a42c30823b3ab72) · [GitHub (bscoup01)](https://github.com/bscoup01)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brandon-coupal_0db1
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="pebblechat" data-released="2026-09-01" data-updated="2026-09-02">
+<div class="app-card" data-type="watchface" data-title="pebblechat" data-released="2026-09-01" data-updated="2026-10-22">
 <a class="app-shot" href="https://apps.repebble.com/1d034effa03a4d10b41b6556" data-search-exclude><img src="../images/apps/1d034effa03a4d10b41b6556.png" alt="PebbleChat" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-1d034effa03a4d10b41b6556"><a href="https://apps.repebble.com/1d034effa03a4d10b41b6556">PebbleChat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-1d034effa03a4d10b41b6556"><a href="https://apps.repebble.com/1d034effa03a4d10b41b6556">PebbleChat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/bscoup01/PebbleChat" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A watchface for the Pebble Time 2 inspired by Pictochat on the Nintendo DS!</p>
 </div>

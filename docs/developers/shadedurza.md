@@ -13,7 +13,7 @@ hide:
 
 # shadedurza
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shadedurza_b1e7b48840fc81f98a4daaac) · [GitHub (shadedurza)](https://github.com/shadedurza)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/shadedurza_b1e7b488
 <h2 class="app-name" id="app-32d78a4ded604ff6a4222f0b"><a href="https://apps.repebble.com/32d78a4ded604ff6a4222f0b">Clean and Smart with seconds</a> <span class="app-version" title="Latest version" data-search-exclude>v2.54.0</span></h2>
 <a class="app-source" href="https://github.com/shadedurza/Clean_and_Smart_seconds" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Orignal watchface designed by Paul Joel and coded by Comfortably Numb. This version simply adds seconds.</p>
 </div>

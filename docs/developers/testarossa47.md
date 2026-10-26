@@ -13,7 +13,7 @@ hide:
 
 # testarossa47
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/testarossa47_6426420d77da5f9b46d1169a) · [GitHub (testarossa47)](https://github.com/testarossa47)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/testarossa47_642642
 <h2 class="app-name" id="app-672b1221aeef4d30897a361c"><a href="https://apps.repebble.com/672b1221aeef4d30897a361c">JW Daily Text</a> <span class="app-version" title="Latest version" data-search-exclude>v2.8.0</span></h2>
 <a class="app-source" href="https://github.com/testarossa47/jw-daily-text" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Read today&#x27;s Bible text and commentary on your Pebble. Works offline, preselects your watch language, with color UI, smooth day animations and touch scrolling.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Paradox13
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paradox13_531b62da6b9bbe83a0000507) · [GitHub (grep-awesome)](https://github.com/grep-awesome)
 

@@ -13,7 +13,7 @@ hide:
 
 # Kelby
 
-*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kelby_55b13e5fd53410746c000090) · [GitHub (tripleplay369)](https://github.com/tripleplay369)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kelby_55b13e5fd5341
 <h2 class="app-name" id="app-56b175d810121e0f58000003"><a href="https://apps.repebble.com/56b175d810121e0f58000003">Disco</a> <span class="app-version" title="Latest version" data-search-exclude>v1.01</span></h2>
 <a class="app-source" href="https://github.com/tripleplay369/pebble-disco" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-03</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-03</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Hybrid digital/analog watchface designed specifically for the Pebble Time Round. Let the beautiful patterns of rand() take you to another dimension.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kelby_55b13e5fd5341
 <h2 class="app-name" id="app-55da378a6323c5cc54000029"><a href="https://apps.repebble.com/55da378a6323c5cc54000029">Color Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/tripleplay369/pebble-color-calendar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-23</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-23</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A simple, easy to read calendar designed specifically for the Pebble Time. Up and down buttons scroll between months, select button returns to today. Long select button press toggles between…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kelby_55b13e5fd5341
 <h2 class="app-name" id="app-55bd604da5c6f3772200008c"><a href="https://apps.repebble.com/55bd604da5c6f3772200008c">Ambient</a> <span class="app-version" title="Latest version" data-search-exclude>v1.07</span></h2>
 <a class="app-source" href="https://github.com/tripleplay369/PebbleAmbient" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-02</span> <span title="Latest release in the app store">Updated 2015-08-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-02</span> <span title="Latest release in the app store">Updated 2015-08-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple analog watchface that includes the location of the 8 planets, and the moon (sorry Pluto, no room). Background color gradually changes from black to light blue based on the time of day.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # sionyx
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sionyx_55f7e56e913b98cdf200004f) · [GitHub (sionyx)](https://github.com/sionyx)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sionyx_55f7e56e913b
 <h2 class="app-name" id="app-564cdd04435b21d2ec000020"><a href="https://apps.repebble.com/564cdd04435b21d2ec000020">ZWay Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/sionyx/pebble_zway_time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-18</span> <span title="Latest release in the app store">Updated 2016-01-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-11-18</span> <span title="Latest release in the app store">Updated 2016-01-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">ZWay Time application allows you to control your RaZberry based smart home. It supports controls: - on-off switches; - dimmers; - RGB switches; and sensors: - motion; - humidity; - light; …</p>
 </div>

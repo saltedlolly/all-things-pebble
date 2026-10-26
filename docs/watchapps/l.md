@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · **L** · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*47 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*47 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-576e0cf5ba2fe50eb0000018"><a href="https://apps.repebble.com/576e0cf5ba2fe50eb0000018">Lap counter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/qwqert/Pebble_apps" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/qwqert.html" title="More from this developer">qwqert</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-06-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-06-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple lap counter for runner or swimmer.</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-a3b06903fd6f46f5b9b8780b"><a href="https://apps.repebble.com/a3b06903fd6f46f5b9b8780b">Letterfall</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/letterfall-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/comfortably-numb.html" title="More from this developer">Comfortably Numb</a> · <a href="https://forum.rebble.io/t/942" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">TEST YOUR BOOKWORM SKILLS! 📝 &quot;Letterfall&quot; is a word-building game. The longer word you make the more scoring points you get. As you add points - you advance in ranks. ⛓️ To create a word - tap…</p>
 </div>
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-54af21b5f663710a2d000102"><a href="https://apps.repebble.com/54af21b5f663710a2d000102">LifeGame</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/taturou/pebble_LifeGameWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/taturou.html" title="More from this developer">taturou</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-09</span> <span title="Latest release in the app store">Updated 2015-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-09</span> <span title="Latest release in the app store">Updated 2015-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">THE UNIVERSE IS ON YOUR WRIST. This app has four selectable modes. 1. Clock 2. Glider 3. Spaceship 4. R-pentomino</p>
 </div>
@@ -303,7 +303,7 @@ hide:
 <h2 class="app-name" id="app-82c00d2a1a234861a5039b6f"><a href="https://apps.repebble.com/82c00d2a1a234861a5039b6f">Lightdash</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/rephus/pebble-lightdash-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/javier-rengel.html" title="More from this developer">Javier Rengel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watchapp that rotates through your [Lightdash](https://www.lightdash.com/) saved charts. Glance at your BI numbers from your wrist. No phone needed once the tiles load.</p>
 </div>
@@ -314,7 +314,7 @@ hide:
 <h2 class="app-name" id="app-9420a2e218e54ce986c7c871"><a href="https://apps.repebble.com/9420a2e218e54ce986c7c871">Lighthaul</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.2</span></h2>
 <a class="app-source" href="https://github.com/thejambi/Lighthaul-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zach-burnham.html" title="More from this developer">Zach Burnham</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Haul cargo and passengers between the stars at a hair under lightspeed - and let special relativity be the economy. Deadlines run on universe time. You and your passengers age on ship time. The…</p>
 </div>
@@ -325,7 +325,7 @@ hide:
 <h2 class="app-name" id="app-569061bfd5ba00104e000016"><a href="https://apps.repebble.com/569061bfd5ba00104e000016">Limone</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/uchida/limone-watchapp/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/akihiro-uchida.html" title="More from this developer">Akihiro Uchida</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-09</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2016-01-09</span> <span title="Latest release in the app store">Updated 2016-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple pomodoro timer for Pebble, to notify 25 minutes work finished and after take 5 minutes break. Optionally supports to trigger IFTTT Maker channel and show today&#x27;s tasks in Todoist.</p>
 </div>
@@ -336,7 +336,7 @@ hide:
 <h2 class="app-name" id="app-55e1a222eec9a4e4d9000030"><a href="https://apps.repebble.com/55e1a222eec9a4e4d9000030">Linux remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/susundberg/pebble-linux-remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/susundberg.html" title="More from this developer">susundberg</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-29</span> <span title="Latest release in the app store">Updated 2015-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-08-29</span> <span title="Latest release in the app store">Updated 2015-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This open source remote allows you to run shell commands in your linux by pressing Pebble buttons. You can use it for presentation slide changer or for example to lock your screen with single…</p>
 </div>
@@ -380,7 +380,7 @@ hide:
 <h2 class="app-name" id="app-554ec47cecdc00f8140000c6"><a href="https://apps.repebble.com/554ec47cecdc00f8140000c6">Liveblog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tomthecarrot/PebbleTimeLiveblog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-suarez.html" title="More from this developer">Thomas Suarez</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Liveblog tracker for Pebble Time, utilizing the new Timeline functionality. 1. Before (or during) a live event, install the app on your Pebble Time. 2. Once the app is installed on your Pebble…</p>
 </div>

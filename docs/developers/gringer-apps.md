@@ -13,7 +13,7 @@ hide:
 
 # Gringer Apps
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gringer-apps_560c4f952dd2f15e90000009) · [GitHub (groyoh)](https://github.com/groyoh)
 

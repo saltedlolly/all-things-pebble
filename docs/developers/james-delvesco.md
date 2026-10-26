@@ -13,7 +13,7 @@ hide:
 
 # James DelVesco
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-delvesco_45ad03d5bf2d276b8fb69cff) · [GitHub (realslimjd)](https://github.com/realslimjd)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-delvesco_45ad
 <h2 class="app-name" id="app-fbb7263a84a349ad8c45cbb9"><a href="https://apps.repebble.com/fbb7263a84a349ad8c45cbb9">Essence</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/realslimjd/pebble-essence" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-16</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-16</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">This is a watchface made in the style of the Ressence Type 3. It has indicators for minutes, hours, battery level, and the outside temperature.</p>
 </div>

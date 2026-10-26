@@ -13,7 +13,7 @@ hide:
 
 # Laurent Dinclaux
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/laurent-dinclaux_9496cb13574a3964b0079f36) · [GitHub (loxK)](https://github.com/loxK)
 
@@ -21,15 +21,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/laurent-dinclaux_94
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="moon phase" data-released="2026-06-30" data-updated="2026-08-23">
-<a class="app-shot" href="https://apps.repebble.com/86a2d34ade9646dfb84d51af" data-search-exclude><img src="../images/apps/86a2d34ade9646dfb84d51af.png" alt="Moon Phase" loading="lazy"></a>
+<div class="app-card" data-type="watchapp" data-title="moon phase" data-released="2026-06-30" data-updated="2026-10-20">
+<a class="app-shot" href="https://apps.repebble.com/86a2d34ade9646dfb84d51af" data-search-exclude><img src="../images/apps/86a2d34ade9646dfb84d51af.gif" alt="Moon Phase" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-86a2d34ade9646dfb84d51af"><a href="https://apps.repebble.com/86a2d34ade9646dfb84d51af">Moon Phase</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<h2 class="app-name" id="app-86a2d34ade9646dfb84d51af"><a href="https://apps.repebble.com/86a2d34ade9646dfb84d51af">Moon Phase</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/loxK/Pebble-Moon-Phase" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">See the Moon exactly as it looks in the sky tonight — right on your wrist. Moon Phase draws the Moon the way you&#x27;d actually see it — the real illuminated shape, oriented for your hemisphere — then…</p>
+<p class="app-desc">See the Moon exactly as it looks in the sky tonight, right on your wrist. Moon Phase draws the Moon the way you&#x27;d actually see it: the real illuminated shape, oriented for your hemisphere. Then it…</p>
 </div>
 </div>
 </div>

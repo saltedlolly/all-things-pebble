@@ -13,7 +13,7 @@ hide:
 
 # astosia
 
-*24 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*24 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/astosia_58a635d30dfc320dc60003b4) · [Rebble App Store](https://apps.rebble.io/en_US/developer/58a635d30dfc320dc60003b4/1) · [GitHub (astosia)](https://github.com/astosia) · [Website (favouritehumandesign.com)](https://favouritehumandesign.com)
 
@@ -26,15 +26,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/astosia_58a635d30df
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="find my iphone or android" data-released="2026-10-18" data-updated="2026-10-18">
+<div class="app-card" data-type="watchapp" data-title="find my iphone or android" data-released="2026-10-18" data-updated="2026-10-19">
 <a class="app-shot" href="https://apps.repebble.com/6ad530777779df0009463ac4" data-search-exclude><img src="../images/apps/6ad530777779df0009463ac4.png" alt="Find my iPhone or Android" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6ad530777779df0009463ac4"><a href="https://apps.repebble.com/6ad530777779df0009463ac4">Find my iPhone or Android</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<h2 class="app-name" id="app-6ad530777779df0009463ac4"><a href="https://apps.repebble.com/6ad530777779df0009463ac4">Find my iPhone or Android</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/astosia/FindmyPhone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1443" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Simple watchapp that makes your Phone ring when you press a button - Works on iOS for iPhone Uses iOS alert notifications pushed via either the Pushover or Bark Apps. Because it uses iOS Critical…</p>
+<p class="app-desc">Simple watchapp that makes your Phone ring when you press a button - iOS for iPhone or iPad Uses iOS alert notifications pushed via either the Pushover or Bark Apps. Because it uses iOS Critical…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="tangent" data-released="2026-08-10" data-updated="2026-10-16">

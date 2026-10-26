@@ -13,7 +13,7 @@ hide:
 
 # Nochi Shikarunochi
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nochi-shikarunochi_3ecb25cb217534d4bbc7e9c2) · [GitHub (shikarunochi)](https://github.com/shikarunochi)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nochi-shikarunochi_
 <h2 class="app-name" id="app-e274ceede0b440fd8045ad7b"><a href="https://apps.repebble.com/e274ceede0b440fd8045ad7b">PEBBLE-TONE</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/shikarunochi/PebbleTone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A simple piano app for Pebble Time 2. You can play one octave of notes.</p>
 </div>

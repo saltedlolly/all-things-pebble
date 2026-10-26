@@ -13,7 +13,7 @@ hide:
 
 # quillford
 
-*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quillford_54977fc0754bc13c3f00005e) · [GitHub (quillford)](https://github.com/quillford)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quillford_54977fc07
 <h2 class="app-name" id="app-5551874ce979af0c360000d7"><a href="https://apps.repebble.com/5551874ce979af0c360000d7">Simple Colors</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/quillford/SimpleColor-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-12</span> <span title="Latest release in the app store">Updated 2015-05-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-12</span> <span title="Latest release in the app store">Updated 2015-05-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This is a simple watchface that gets a random color for the time and background every minute.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quillford_54977fc07
 <h2 class="app-name" id="app-553dbc0dbdf9b3ae8c000025"><a href="https://apps.repebble.com/553dbc0dbdf9b3ae8c000025">SmoothieControl</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/quillford/SmoothieControl-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-27</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-04-27</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Control your Smoothieware powered device with your watch! You can do things such as homing axes, jogging, and fan control.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quillford_54977fc07
 <h2 class="app-name" id="app-553d8acde95db472f8000021"><a href="https://apps.repebble.com/553d8acde95db472f8000021">OctoControl - Control your 3D printer with your watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/quillford/OctoControl-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-27</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-04-27</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">OctoControl allows you to use your watch to control your 3D printer. You can do things such as jogging, homing, controlling fans, and turning the motors off. Note: This requires that you have…</p>
 </div>

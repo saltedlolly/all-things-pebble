@@ -13,7 +13,7 @@ hide:
 
 # somlaigabor
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_ea5ecce7c082e34723a09652) · [GitHub (somlaigabor)](https://github.com/somlaigabor)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_ea5ecce7c08
 <h2 class="app-name" id="app-4e2096c555b940458a7f2fea"><a href="https://apps.repebble.com/4e2096c555b940458a7f2fea">Aeropress 442</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/somlaigabor/pebble_aeropress" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-16</span> <span title="Latest release in the app store">Updated 2026-08-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-16</span> <span title="Latest release in the app store">Updated 2026-08-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A timer set to 4-4-2 minutes for making coffee with an AeroPress</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_ea5ecce7c08
 <h2 class="app-name" id="app-8a5a974138f44bffb13dc056"><a href="https://apps.repebble.com/8a5a974138f44bffb13dc056">Red Fuji Binary</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/somlaigabor/red_fuji.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Fine Wind, Clear Morning</p>
 </div>

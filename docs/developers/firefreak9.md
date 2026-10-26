@@ -13,7 +13,7 @@ hide:
 
 # Firefreak9
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/firefreak9_d4ca9c1ea40f3cef05627b1e) · [GitHub (firefreak9)](https://github.com/firefreak9)
 

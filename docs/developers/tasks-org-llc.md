@@ -13,7 +13,7 @@ hide:
 
 # Tasks.org, LLC
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tasks-org-llc_e695d583988d356bd2ec81e0) · [GitHub (tasks)](https://github.com/tasks) · [Website (tasks.org)](https://tasks.org)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tasks-org-llc_e695d
 <h2 class="app-name" id="app-13e39c547aee442eb19a4755"><a href="https://apps.repebble.com/13e39c547aee442eb19a4755">Tasks.org</a> <span class="app-version" title="Latest version" data-search-exclude>v15.6</span></h2>
 <a class="app-source" href="https://github.com/tasks/tasks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/803" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-26</span> <span title="Latest release in the app store">Updated 2026-03-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-03-26</span> <span title="Latest release in the app store">Updated 2026-03-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The official companion app for Tasks.org. Manage your CalDAV, Google Tasks, and Microsoft To Do lists directly from your wrist.</p>
 </div>

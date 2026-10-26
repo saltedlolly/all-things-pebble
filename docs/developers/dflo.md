@@ -13,7 +13,7 @@ hide:
 
 # dflo
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dflo_b8221aa0c9a8dfb3f3a9ab91) · [Codeberg (dflo)](https://codeberg.org/dflo)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dflo_b8221aa0c9a8df
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="91 dub v5 plus" data-released="2026-08-18" data-updated="2026-09-17">
+<div class="app-card" data-type="watchface" data-title="91 dub v5 plus" data-released="2026-08-18" data-updated="2026-10-25">
 <a class="app-shot" href="https://apps.repebble.com/faedd501f8994eb3ba771475" data-search-exclude><img src="../images/apps/faedd501f8994eb3ba771475.png" alt="91 Dub v5 plus" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-faedd501f8994eb3ba771475"><a href="https://apps.repebble.com/faedd501f8994eb3ba771475">91 Dub v5 plus</a> <span class="app-version" title="Latest version" data-search-exclude>v6.0.21</span></h2>
+<h2 class="app-name" id="app-faedd501f8994eb3ba771475"><a href="https://apps.repebble.com/faedd501f8994eb3ba771475">91 Dub v5 plus</a> <span class="app-version" title="Latest version" data-search-exclude>v6.0.25</span></h2>
 <a class="app-source" href="https://codeberg.org/dflo/91-dub-v5-plus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-18</span> <span title="Latest release in the app store">Updated 2026-09-17</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-18</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">91 Dub v5 plus A fork of 91 Dub v5 by lightrush[2] ( which is A fork of the great 91 Dub v4.0 watchface by Orviwan[1], rebuilt for the Pebble Time 2. ) Fully configurable colors New in v5 plus: …</p>
 </div>

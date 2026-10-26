@@ -13,7 +13,7 @@ hide:
 
 # Tony Atkins
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tony-atkins_679bbba532bc7d0009dd4fdc) · [GitHub (duhrer)](https://github.com/duhrer) · [Website (duhrer.github.io)](https://duhrer.github.io/)
 

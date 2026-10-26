@@ -13,7 +13,7 @@ hide:
 
 # Rob Garth
 
-*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rob-garth_52f1fc5b7247497b640000dc) · [Rebble App Store](https://apps.rebble.io/en_US/developer/52f1fc5b7247497b640000dc/1) · [GitHub (rgarth)](https://github.com/rgarth)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rob-garth_52f1fc5b7
 <h2 class="app-name" id="app-5547cb2a85905014430000a5"><a href="https://apps.repebble.com/5547cb2a85905014430000a5">Digital Power</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/rgarth/PebbleDigitalPower" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-04</span> <span title="Latest release in the app store">Updated 2017-11-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-04</span> <span title="Latest release in the app store">Updated 2017-11-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">LCD/Alarm-Clock inspired watch-face. Color can either change depending on battery power (Green/Orange/Red), or it can be configured to any of the 64 colors available on the Pebble Time.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rob-garth_52f1fc5b7
 <h2 class="app-name" id="app-54ed0fceb5dab64c3f000106"><a href="https://apps.repebble.com/54ed0fceb5dab64c3f000106">Close enough</a> <span class="app-version" title="Latest version" data-search-exclude>v3.9</span></h2>
 <a class="app-source" href="https://github.com/rgarth/PebbleCloseEnough" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-24</span> <span title="Latest release in the app store">Updated 2016-08-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-02-24</span> <span title="Latest release in the app store">Updated 2016-08-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Human readable watch-face which gives the time in increments of five minutes. Tells the time the same way that you do. Shake/Tap to wake-up. Accurate, digital time will then be displayed, followed…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rob-garth_52f1fc5b7
 <h2 class="app-name" id="app-55592159b038d48f6e000040"><a href="https://apps.repebble.com/55592159b038d48f6e000040">Mouseketeer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/rgarth/PebbleMouse" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-17</span> <span title="Latest release in the app store">Updated 2015-05-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-17</span> <span title="Latest release in the app store">Updated 2015-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A color Mickey Mouse watch-face</p>
 </div>

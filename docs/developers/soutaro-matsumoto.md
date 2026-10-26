@@ -13,7 +13,7 @@ hide:
 
 # Soutaro Matsumoto
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soutaro-matsumoto_5444ae052a5191123d000056) · [GitHub (soutaro)](https://github.com/soutaro)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/soutaro-matsumoto_5
 <h2 class="app-name" id="app-54703777762f64feae000039"><a href="https://apps.repebble.com/54703777762f64feae000039">Magellan Server Monitoring</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/soutaro/magellan" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-22</span> <span title="Latest release in the app store">Updated 2014-11-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-22</span> <span title="Latest release in the app store">Updated 2014-11-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This Watchface helps you to keep monitoring your web app&#x27;s status through New Relic API.</p>
 </div>

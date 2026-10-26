@@ -13,7 +13,7 @@ hide:
 
 # Maksym Motornyy
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maksym-motornyy_547fe1aac30d374b01000111) · [GitHub (mmotorny)](https://github.com/mmotorny) · [Website (motornyy.com)](http://www.motornyy.com/)
 

@@ -13,7 +13,7 @@ hide:
 
 # willyb321
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/willyb321_54fe3b87807d278084000062) · [GitHub (willyb321)](https://github.com/willyb321) · [Website (tehsuperwilly.tech)](https://tehsuperwilly.tech)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/willyb321_54fe3b878
 <h2 class="app-name" id="app-581d55cb1c0888f2a400016f"><a href="https://apps.repebble.com/581d55cb1c0888f2a400016f">Elite Status</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/willyb321/pebble-edsm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-05</span> <span title="Latest release in the app store">Updated 2016-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-05</span> <span title="Latest release in the app store">Updated 2016-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Check your stats in Elite: Dangerous. Uses EDSM.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/willyb321_54fe3b878
 <h2 class="app-name" id="app-565260877984de09c6000008"><a href="https://apps.repebble.com/565260877984de09c6000008">TimeTable</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/willyb321/pebble-timetable_c" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-23</span> <span title="Latest release in the app store">Updated 2016-02-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-23</span> <span title="Latest release in the app store">Updated 2016-02-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Made this for my friend.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Drew Hutton (Yoroshi)
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drew-hutton-yoroshi_f5b5d7f2003a693d16ebf63f) · [GitHub (coredevices)](https://github.com/coredevices)
 

@@ -13,7 +13,7 @@ hide:
 
 # Jesse Millar
 
-*7 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-millar_54305df1a2f622febf0001cc) · [GitHub (jessemillar)](https://github.com/jessemillar) · [Website (jessemillar.com)](http://www.jessemillar.com/)
 

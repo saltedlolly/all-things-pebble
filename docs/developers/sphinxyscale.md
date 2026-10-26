@@ -13,7 +13,7 @@ hide:
 
 # SphinxyScale
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/598af13e0dfc3275e2000b5a/1) · [GitHub (sensi277)](https://github.com/sensi277)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/598af13e0dfc327
 <h2 class="app-name" id="app-5b220db9f38588be6b001117"><a href="https://apps.rebble.io/en_US/application/5b220db9f38588be6b001117">Web Services Shutdown Countdown</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/sensi277/pebbleWebServicesCountdown" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-06-14</span> <span title="Latest release in the app store">Updated 2018-06-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2018-06-14</span> <span title="Latest release in the app store">Updated 2018-06-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Counts down the amount of time to the Pebble Web Services shutdown. Based on https://github.com/kernel-sanders/Time-Until-Pebble</p>
 </div>

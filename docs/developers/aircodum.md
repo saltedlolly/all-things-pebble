@@ -13,7 +13,7 @@ hide:
 
 # AirCodum
 
-*21 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*21 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37d408000a74f7d3) · [GitHub (coredevices)](https://github.com/coredevices) · [GitHub (priyankark)](https://github.com/priyankark) · [Website (priyankar.me)](https://www.priyankar.me/)
 
@@ -131,7 +131,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-b626e39712aa46adb6d09fe1"><a href="https://apps.repebble.com/b626e39712aa46adb6d09fe1">XKCD Reader</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/priyankark/xkcd-reader-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/892" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Interactive XKCD comic reader. Controls: SELECT loads a random comic. UP/DOWN scrolls the comic manually. Long-press SELECT or shake the watch to reveal the alt-text caption. BACK exits.</p>
 </div>
@@ -219,7 +219,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-7865e440b1bc45749db1b0e9"><a href="https://apps.repebble.com/7865e440b1bc45749db1b0e9">Memento Mori</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/priyankark/pebble-wf-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-04-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-04-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A particle-dust skull with glowing red eyes that watches over your wrist.</p>
 </div>
@@ -241,7 +241,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-696cecb7fd11fd00098d82f8"><a href="https://apps.repebble.com/696cecb7fd11fd00098d82f8">The Bat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/priyankark/pebble-wf-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/520" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-18</span> <span title="Latest release in the app store">Updated 2026-01-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-18</span> <span title="Latest release in the app store">Updated 2026-01-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Transform your Pebble into the iconic Bat Signal! Watch as the searchlight sweeps across Gotham&#x27;s night sky, illuminating the legendary bat symbol with a dramatic glow.</p>
 </div>
@@ -252,7 +252,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-696bde8afd11fd00098d82e8"><a href="https://apps.repebble.com/696bde8afd11fd00098d82e8">Pocket Garden</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/priyankark/pebble-wf-agent-skill" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-17</span> <span title="Latest release in the app store">Updated 2026-01-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-17</span> <span title="Latest release in the app store">Updated 2026-01-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Grow a virtual plant on your wrist - with wrist exercises! Pocket Garden is an interactive watchface where you nurture a virtual plant throughout the day. Your plant grows from a tiny seed to a…</p>
 </div>
@@ -263,7 +263,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-67fbabbd8b96250009ecfabe"><a href="https://apps.repebble.com/67fbabbd8b96250009ecfabe">Aqua (Animated)</a> <span class="app-version" title="Latest version" data-search-exclude>v6.0</span></h2>
 <a class="app-source" href="https://github.com/priyankark/aqua-pbw" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-04-13</span> <span title="Latest release in the app store">Updated 2025-04-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-04-13</span> <span title="Latest release in the app store">Updated 2025-04-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A live aquarium on your wrist!</p>
 </div>
@@ -274,7 +274,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-67c5bd94b7a02300092ba0aa"><a href="https://apps.repebble.com/67c5bd94b7a02300092ba0aa">Gears of Time (Animated)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/priyankark/gears-of-time-pbw" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2025-03-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2025-03-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A clean and elegant watchface featuring smooth rotating spiral animations. Displays time, date, and battery level with a unique spiral theme, creating an engaging visual experience while…</p>
 </div>
@@ -285,7 +285,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-67c3d858d2acb30009a3c7cf"><a href="https://apps.repebble.com/67c3d858d2acb30009a3c7cf">Pebble Particles (Animated)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/priyankark/pebble-particles-pbw" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-02</span> <span title="Latest release in the app store">Updated 2025-03-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-02</span> <span title="Latest release in the app store">Updated 2025-03-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Experience time in a mesmerizing new way with Pebble Particles! This elegant watchface transforms your Pebble into a dynamic particle system where time flows through beautiful animated particles…</p>
 </div>
@@ -296,7 +296,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37
 <h2 class="app-name" id="app-67bd32a7691e55000aa48cde"><a href="https://apps.repebble.com/67bd32a7691e55000aa48cde">Player 456</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/priyankark/squidgames-pbw-1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-02-25</span> <span title="Latest release in the app store">Updated 2025-02-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-02-25</span> <span title="Latest release in the app store">Updated 2025-02-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Transform your Pebble into an iconic Squid Game guard with this striking watchface. Featuring the distinctive guard mask with its signature white triangle symbol, this watchface brings the intense…</p>
 </div>

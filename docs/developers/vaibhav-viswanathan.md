@@ -13,7 +13,7 @@ hide:
 
 # Vaibhav Viswanathan
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vaibhav-viswanathan_536c0359bcec8f44c7000013) · [GitHub (vaibhavviswanathan)](https://github.com/vaibhavviswanathan)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vaibhav-viswanathan
 <h2 class="app-name" id="app-53e911811f0b5142030000f1"><a href="https://apps.repebble.com/53e911811f0b5142030000f1">Minimal</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/vaibhavviswanathan/minimal" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-11</span> <span title="Latest release in the app store">Updated 2014-09-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-11</span> <span title="Latest release in the app store">Updated 2014-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Now with QuickTap Plus! This is a minimal watchface design. Shows the 24 hour time and the date in a light font. It notifies you when the Bluetooth is disconnected.. Shake your wrist to see more…</p>
 </div>

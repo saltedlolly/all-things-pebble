@@ -13,7 +13,7 @@ hide:
 
 # VilleV
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/villev_5410911c047a6dc4e000020d) · [GitHub (vviskari)](https://github.com/vviskari)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/villev_5410911c047a
 <h2 class="app-name" id="app-a53edc8542dc454281c4f366"><a href="https://apps.repebble.com/a53edc8542dc454281c4f366">Spotti</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/vviskari/spotti-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-15</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-15</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Shows current and upcoming Finnish electricity spot prices as a bar chart. Prices include VAT. Scroll the chart with up/down buttons or drag with touch screen. Select button brings you back to…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/villev_5410911c047a
 <h2 class="app-name" id="app-58b516160dfc329c0100017e"><a href="https://apps.repebble.com/58b516160dfc329c0100017e">Simple TCS</a> <span class="app-version" title="Latest version" data-search-exclude>v2.29</span></h2>
 <a class="app-source" href="https://github.com/vviskari/SimpleTCS" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-28</span> <span title="Latest release in the app store">Updated 2018-04-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-02-28</span> <span title="Latest release in the app store">Updated 2018-04-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">100 Hearts! Wow! Thanks for your support and feedback. Lets celebrate with an animation! Calendar and forecast switch is now animated and you can schedule the switch to happen every minute. Shows…</p>
 </div>

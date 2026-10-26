@@ -13,7 +13,7 @@ hide:
 
 # Chris Schlitt
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-schlitt_54cd677466e305202000004d) · [GitHub (chrisschlitt)](https://github.com/chrisschlitt) · [Website (chrisschlitt.com)](https://www.chrisschlitt.com)
 

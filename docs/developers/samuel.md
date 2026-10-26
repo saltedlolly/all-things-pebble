@@ -13,7 +13,7 @@ hide:
 
 # Samuel
 
-*2 watchfaces and 12 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 12 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41831af0000014) · [GitHub (samuelmr)](https://github.com/samuelmr) · [Website (getback.timelinepush.com)](http://getback.timelinepush.com/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-5552100eec8de733ba00003f"><a href="https://apps.repebble.com/5552100eec8de733ba00003f">Track Mood</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-trackmood" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-12</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-12</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Record your emotional state to your timeline and find happiness! You can rate your mood any time you like. The app will push a corresponding pin to your timeline. You can later browse your…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-54ae740485dd6760e7000077"><a href="https://apps.repebble.com/54ae740485dd6760e7000077">Hack Portal - Ingress companion</a> <span class="app-version" title="Latest version" data-search-exclude>v3.18</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-hackportal" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-08</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-08</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Reminds you to hack your portals when they cool down. Remembers your hacks and knows when the portals burn down. Configurable Heat Sinks and Multi-hacks. You can configure up to 20 portals. Shows…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-55243c3fc190e01045000062"><a href="https://apps.repebble.com/55243c3fc190e01045000062">Work Out</a> <span class="app-version" title="Latest version" data-search-exclude>v1.13</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-workout" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-07</span> <span title="Latest release in the app store">Updated 2016-10-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-07</span> <span title="Latest release in the app store">Updated 2016-10-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A work out timer. Work out for 90 seconds, rest for 30 seconds. Repeat. Vibrations every 30 seconds. Customize your own workout routines and times.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-553329021b2b662f5b000069"><a href="https://apps.repebble.com/553329021b2b662f5b000069">Get Back in Time</a> <span class="app-version" title="Latest version" data-search-exclude>v3.25</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-getbackintime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-19</span> <span title="Latest release in the app store">Updated 2016-10-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">ISC</span> <span title="First published in the app store">Released 2015-04-19</span> <span title="Latest release in the app store">Updated 2016-10-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Save your locations to the Pebble Timeline. See where you have been and when. Choose a location you want to return to. Your Pebble will show you the compass heading and distance. You can push…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-52ed0fe86ccd08de6200004d"><a href="https://apps.repebble.com/52ed0fe86ccd08de6200004d">Find Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-findwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-01</span> <span title="Latest release in the app store">Updated 2016-10-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-02-01</span> <span title="Latest release in the app store">Updated 2016-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Can&#x27;t find your Pebble? If it is still within bluetooth reach and your phone/pad is connected to your watch, installing this app will make your watch vibrate and flash. The app counts minutes and…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-52ed4e58e2b7d722a400000a"><a href="https://apps.repebble.com/52ed4e58e2b7d722a400000a">Suunnillee</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-suunnillee" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-01</span> <span title="Latest release in the app store">Updated 2016-10-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-02-01</span> <span title="Latest release in the app store">Updated 2016-10-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Kellonaika niinku sä ite sen sanoisit. Fuzzy time in Finnish street language.</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-55688648073e045f3e000015"><a href="https://apps.repebble.com/55688648073e045f3e000015">Solve It</a> <span class="app-version" title="Latest version" data-search-exclude>v2.9</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-solveit" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-29</span> <span title="Latest release in the app store">Updated 2016-10-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-29</span> <span title="Latest release in the app store">Updated 2016-10-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">See the hours and minutes (optionally also day, month and steps walked today) presented as mathematical expressions. The difficulty level is configurable. Just shake your wrist for solutions.</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-52b1f7b8cd41839a69000015"><a href="https://apps.repebble.com/52b1f7b8cd41839a69000015">Count Down</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-countdown" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-18</span> <span title="Latest release in the app store">Updated 2016-10-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-12-18</span> <span title="Latest release in the app store">Updated 2016-10-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Customizable timer with vibration notifications at specified times. Giving a talk? Training in the gym? Want to know how time passes without constantly looking at your watch? Let Count Down help!…</p>
 </div>
@@ -120,7 +120,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-53ed0a2367c0df00930000ea"><a href="https://apps.repebble.com/53ed0a2367c0df00930000ea">Get Bus - HSL stops</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-getbus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-14</span> <span title="Latest release in the app store">Updated 2016-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-14</span> <span title="Latest release in the app store">Updated 2016-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Näe silmäyksellä lähimmät pysäkit ja seuraavat lähdöt. Lisää pysäkkejä suosikkeihin. Tarkastele pysäkkiaikatauluja. Katso kävelyohjeet pysäkille. English summary Find nearest bus stops and…</p>
 </div>
@@ -131,7 +131,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-540ca9ef1120350bc20001e0"><a href="https://apps.repebble.com/540ca9ef1120350bc20001e0">Find Cache - geocaching</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-findcache" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-07</span> <span title="Latest release in the app store">Updated 2016-05-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-07</span> <span title="Latest release in the app store">Updated 2016-05-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Geocache companion for Pebble! Configure to set multiple cache locations. Use a simple menu to choose a cache and follow easy directions to find it. Your heading (the white dot) is estimated from…</p>
 </div>
@@ -142,7 +142,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-54b3cfebd5587f3596000056"><a href="https://apps.repebble.com/54b3cfebd5587f3596000056">Test Location</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-testlocation" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-12</span> <span title="Latest release in the app store">Updated 2016-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-12</span> <span title="Latest release in the app store">Updated 2016-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Test location functionality of your Pebble. You can test if your Pebble can get your current location or track your location while you are moving.</p>
 </div>
@@ -153,7 +153,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-560c32454bf0ac0115000095"><a href="https://apps.repebble.com/560c32454bf0ac0115000095">Know everything</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-knoweverything" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-30</span> <span title="Latest release in the app store">Updated 2016-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-30</span> <span title="Latest release in the app store">Updated 2016-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Encyclopedia always at hand. Long press select, speak a term and get the Wikipedia definition to your watch. Get random articles from Wikipedia with a flick of the wrist.</p>
 </div>
@@ -164,7 +164,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-54cb8d42cccc995fa900002f"><a href="https://apps.repebble.com/54cb8d42cccc995fa900002f">Public Transit Navigator (beta)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-navitia" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-30</span> <span title="Latest release in the app store">Updated 2015-02-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-30</span> <span title="Latest release in the app store">Updated 2015-02-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Find nearby stops and get route directions to your favorite places. Works in parts of France, Germany, the Netherlands, Spain and the United States. Feedback appreciated!</p>
 </div>
@@ -175,7 +175,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/samuel_52b1f68fcd41
 <h2 class="app-name" id="app-52cae46a6126ce093f000064"><a href="https://apps.repebble.com/52cae46a6126ce093f000064">Get Back - directions to a set location</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-getback" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-06</span> <span title="Latest release in the app store">Updated 2015-02-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-06</span> <span title="Latest release in the app store">Updated 2015-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app shows you distance and heading to a stored location. Find your way back from the wilderness - or simply find your parked car! You can also measure distances between two locations…</p>
 </div>

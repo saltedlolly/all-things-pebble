@@ -13,7 +13,7 @@ hide:
 
 # Cosmic Tinkerer 🚀
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cosmic-tinkerer_1602b6d66a7992941d2ab9cb) · [GitHub (romanimm)](https://github.com/romanimm)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cosmic-tinkerer_160
 <h2 class="app-name" id="app-6ab08b4fc3174945bc89d239"><a href="https://apps.repebble.com/6ab08b4fc3174945bc89d239">Happy Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.47</span></h2>
 <a class="app-source" href="https://github.com/romanimm/happy1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A little sunshine. A little attitude. Happy Weather gives your Pebble Time 2 a face to match the forecast. Choose Happy for cheerful weather characters or Angry for scowling suns and grumpy…</p>
 </div>

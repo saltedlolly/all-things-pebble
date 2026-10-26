@@ -13,7 +13,7 @@ hide:
 
 # Tony H
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tony-h_52ea86ff413d61820f000053) · [GitHub (thotchen)](https://github.com/thotchen)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tony-h_52ea86ff413d
 <h2 class="app-name" id="app-581c64209cbbafcd640000b6"><a href="https://apps.repebble.com/581c64209cbbafcd640000b6">T Time color</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10</span></h2>
 <a class="app-source" href="https://github.com/thotchen/t_time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-04</span> <span title="Latest release in the app store">Updated 2016-11-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-04</span> <span title="Latest release in the app store">Updated 2016-11-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">NOW IN COLOR - Fuzzy time clone with connection and battery notifications. Text inverts with vibe alert when bluetooth connection is dropped. Battery charge level is displayed on watchface once it…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tony-h_52ea86ff413d
 <h2 class="app-name" id="app-52ee524fe75bd2b3f5000014"><a href="https://apps.repebble.com/52ee524fe75bd2b3f5000014">T Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/thotchen/t_time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-02</span> <span title="Latest release in the app store">Updated 2014-02-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-02</span> <span title="Latest release in the app store">Updated 2014-02-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Fuzzy time clone with connection and battery notifications. Text inverts with vibe alert when bluetooth connection is dropped. Battery charge level is displayed on watchface once it drops below…</p>
 </div>

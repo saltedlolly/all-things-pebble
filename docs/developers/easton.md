@@ -13,7 +13,7 @@ hide:
 
 # Easton
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/easton_54e976960f0bb3f669000025) · [GitHub (snacsnoc)](https://github.com/snacsnoc)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/easton_54e976960f0b
 <h2 class="app-name" id="app-550ef6e8e0b81de83c00000c"><a href="https://apps.repebble.com/550ef6e8e0b81de83c00000c">Night Switch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.31</span></h2>
 <a class="app-source" href="https://github.com/snacsnoc/nightswitch-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-22</span> <span title="Latest release in the app store">Updated 2015-07-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-03-22</span> <span title="Latest release in the app store">Updated 2015-07-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watch face that inverts at night and in the morning. At night the watch face shows white text and black background for easier reading, then inverts the colours in the morning. Also a cute sun…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Quentin Monagle
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quentin-monagle_23d70dbde1f8d619a24b316c) · [GitHub (qmonagle)](https://github.com/qmonagle)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quentin-monagle_23d
 <h2 class="app-name" id="app-f0b97c77cced465aa69b5044"><a href="https://apps.repebble.com/f0b97c77cced465aa69b5044">River Depth</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6</span></h2>
 <a class="app-source" href="https://github.com/qmonagle/RiverData" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app pulls depth data from river monitoring locations tracked by USGS. It then plots the last week of data, scaling automatically to your screen. The ID will default to a location near…</p>
 </div>

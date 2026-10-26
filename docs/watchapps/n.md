@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · **N** · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*43 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*43 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-2a3821196720411081d3dfc9"><a href="https://apps.repebble.com/2a3821196720411081d3dfc9">Nashki</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/nashki-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/comfortably-numb.html" title="More from this developer">Comfortably Numb</a> · <a href="https://forum.rebble.io/t/932" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-01</span> <span title="Latest release in the app store">Updated 2026-05-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-01</span> <span title="Latest release in the app store">Updated 2026-05-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Nashki is a sliding puzzle game tests your visual, logic, and memory skills. Shuffle the pic then try to restore it by tapping on tiles next to empty space to slide them. Game tracks the best…</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-56880d0593f78ce99e000018"><a href="https://apps.repebble.com/56880d0593f78ce99e000018">newsWire</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/ryanpcmcquen/PEBBLE--newsWire" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ryanpcmcquen.html" title="More from this developer">ryanpcmcquen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-02</span> <span title="Latest release in the app store">Updated 2017-02-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MPL-2.0</span> <span title="First published in the app store">Released 2016-01-02</span> <span title="Latest release in the app store">Updated 2017-02-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Read stories with short abstracts. Click &#x27;Select&#x27;: move to next article Long click &#x27;Select&#x27;: move to last article Flick wrist: move to new feed</p>
 </div>
@@ -358,7 +358,7 @@ hide:
 <h2 class="app-name" id="app-52d1305b2fb69516c7000017"><a href="https://apps.repebble.com/52d1305b2fb69516c7000017">Notepad (Tertiary Text)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/vgmoose/tertiary_text" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vgmoose.html" title="More from this developer">VGMoose</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-11</span> <span title="Latest release in the app store">Updated 2014-01-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-11</span> <span title="Latest release in the app store">Updated 2014-01-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Notepad allows you to take notes directly on the Pebble! Using Tertiary Text it is possible to quickly type complete and full messages directly on your Pebble. Visit the site for more information…</p>
 </div>
@@ -402,7 +402,7 @@ hide:
 <h2 class="app-name" id="app-81ae848ad40a48f4903cd40f"><a href="https://apps.repebble.com/81ae848ad40a48f4903cd40f">Nothing Battery</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
 <a class="app-source" href="https://github.com/ttkhamis/Pebble_Battery" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tom-khamis.html" title="More from this developer">Tom Khamis</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-08-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-08-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble Battery is a clean, glanceable battery app inspired by the Nothing Phone widget aesthetic. The main screen fills the display with a bold dot grid, purple on dark, red on light, where each…</p>
 </div>

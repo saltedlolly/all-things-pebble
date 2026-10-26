@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · **Q** · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*6 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -28,7 +28,7 @@ hide:
 <h2 class="app-name" id="app-58d56b610dfc3252f4000500"><a href="https://apps.rebble.io/en_US/application/58d56b610dfc3252f4000500">Q-Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/stark-dev/Q-Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/stark-dev.html" title="More from this developer">stark-dev</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-03-24</span> <span title="Latest release in the app store">Updated 2017-05-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-03-24</span> <span title="Latest release in the app store">Updated 2017-05-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple and clean watchface, inspired by Fossil Q style smartwatch. It shows date and weekday, battery status, quiet mode and bluetooth connection status. UPDATE: Version 1.1 allows to set colours…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-5513c6bb6f2fce780900008b"><a href="https://apps.repebble.com/5513c6bb6f2fce780900008b">Quarter Analogue Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/sakisakira/PebbleQuarterWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sakira.html" title="More from this developer">SAkira</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-26</span> <span title="Latest release in the app store">Updated 2015-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-26</span> <span title="Latest release in the app store">Updated 2015-10-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple zoomed analogue watch. Oct30: ver.1.5 released Oct23: ver.1.4 released (1st release for color)</p>
 </div>
@@ -75,6 +75,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-23</span> <span title="Latest release in the app store">Updated 2026-05-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A watchface based on the timekeeping and interface of Caves of Qud. Chronometric Cuff [Chem Cell (Fresh) &lt;AC1&gt;] &lt;BD24&gt; ---- Electric tides permeate quartz too quickly to see, aliasing into pale…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/4b8887048b0f4b89a07ed816" data-search-exclude><img src="../images/apps/4b8887048b0f4b89a07ed816.png" alt="Quest" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4b8887048b0f4b89a07ed816"><a href="https://apps.repebble.com/4b8887048b0f4b89a07ed816">Quest</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/LiamCordelle/pebble-quest" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Turn your day into a pixel RPG status screen. Quest pairs a bold pixel clock with dithered blue windows, battery HP, step XP and useful weather advice. Tap the screen or flick your wrist to open…</p>
 </div>
 </div>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # elucis
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/elucis_68dd8eeaf4fa0700090bb947) · [GitHub (hnguyen094)](https://github.com/hnguyen094)
 

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · **Y** · [Z](z.md) · [0–9 & other](other.md)
 
-*16 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*16 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-56250097851cda8fa100005e"><a href="https://apps.repebble.com/56250097851cda8fa100005e">YAWWc</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/sheydenis/YAWWv1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/masmddr.html" title="More from this developer">masmddr</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-19</span> <span title="Latest release in the app store">Updated 2016-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2015-10-19</span> <span title="Latest release in the app store">Updated 2016-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Yet another weather watchface (Celsius). Shows time and weather information such as: Sunrise and sunset times at the top right (R: and S: respectively). Wind speed, humidity and cloudiness at the…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-872cc49a3c5c4e359d9f9e2c"><a href="https://apps.repebble.com/872cc49a3c5c4e359d9f9e2c">Yes Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
 <a class="app-source" href="https://github.com/synalysis/yes-watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/synalysis.html" title="More from this developer">Synalysis</a> · <a href="https://forum.rebble.io/t/451" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-01-04</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-04</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">The watchface resembles the Yes Watch and has features like sun rise / sun set, moon rise / moon set, moon phase, 24 h hand, and, of course, the time. The computations are done on the phone in…</p>
 </div>
@@ -94,7 +94,7 @@ hide:
 <h2 class="app-name" id="app-55745fc2b5cd567462000048"><a href="https://apps.repebble.com/55745fc2b5cd567462000048">Yet Another Hex Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/redus/hex_clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/redus.html" title="More from this developer">redus</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-07</span> <span title="Latest release in the app store">Updated 2015-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-07</span> <span title="Latest release in the app store">Updated 2015-10-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Yet another hex clock! With terminal color scheme! How original. 이제 16진수로 시간을 보세요! 컴공생답게요!</p>
 </div>
@@ -105,7 +105,7 @@ hide:
 <h2 class="app-name" id="app-57553f4f103a34bcd5000023"><a href="https://apps.repebble.com/57553f4f103a34bcd5000023">Yet Another Thin</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/xeric/YAThin" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/xeric.html" title="More from this developer">xeric</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-06</span> <span title="Latest release in the app store">Updated 2016-06-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-06</span> <span title="Latest release in the app store">Updated 2016-06-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Yet Another Thin is developed and improved based on open source Watchface &#x27;Thin&#x27;, and add some small changes on it, includes: cross center hands, Bluetooth indicator(12 clock marker), red hour…</p>
 </div>
@@ -182,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-51262fd5158c429e987e1728"><a href="https://apps.repebble.com/51262fd5158c429e987e1728">YWeather2</a> <span class="app-version" title="Latest version" data-search-exclude>v3.7</span></h2>
 <a class="app-source" href="https://github.com/stanelie/Yahoo--Weather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/stanelie.html" title="More from this developer">stanelie</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-26</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-26</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Update of the original YWeather app by David Rodríguez Rincón</p>
 </div>

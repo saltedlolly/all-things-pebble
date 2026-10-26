@@ -13,7 +13,7 @@ hide:
 
 # Gullickson Laboratories
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gullickson-laboratories_52ef1bc428230698d9000006) · [GitHub (jjg)](https://github.com/jjg) · [Website (jason.gullickson.preposter.us)](http://jason.gullickson.preposter.us/octowatch.html)
 

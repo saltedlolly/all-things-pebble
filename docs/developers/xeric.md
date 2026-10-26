@@ -13,7 +13,7 @@ hide:
 
 # xeric
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xeric_5725992d6122504557000001) · [GitHub (xeric)](https://github.com/xeric)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xeric_5725992d61225
 <h2 class="app-name" id="app-57553f4f103a34bcd5000023"><a href="https://apps.repebble.com/57553f4f103a34bcd5000023">Yet Another Thin</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/xeric/YAThin" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-06</span> <span title="Latest release in the app store">Updated 2016-06-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-06</span> <span title="Latest release in the app store">Updated 2016-06-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Yet Another Thin is developed and improved based on open source Watchface &#x27;Thin&#x27;, and add some small changes on it, includes: cross center hands, Bluetooth indicator(12 clock marker), red hour…</p>
 </div>

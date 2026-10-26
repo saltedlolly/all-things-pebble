@@ -13,7 +13,7 @@ hide:
 
 # Quint Guvernator
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quint-guvernator_534edfb50c33ba3d6c0002cb) · [GitHub (qguv)](https://github.com/qguv)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quint-guvernator_53
 <h2 class="app-name" id="app-57ee02d544581e90d400007a"><a href="https://apps.repebble.com/57ee02d544581e90d400007a">hexbin</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/qguv/hexbin" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-09-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-09-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Practice your hex to binary conversion skills! Great for programmers and students. Tap &#x27;up&#x27; to enter one-bits and tap &#x27;down&#x27; or &#x27;back&#x27; to enter zero-bits. Clear your guess with &#x27;select&#x27; if you…</p>
 </div>

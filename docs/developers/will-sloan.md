@@ -13,7 +13,7 @@ hide:
 
 # Will Sloan
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/will-sloan_5302a3109847d1c53c000037) · [GitHub (sloan-848)](https://github.com/sloan-848)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/will-sloan_5302a310
 <h2 class="app-name" id="app-55447aad3bbdc6296e00001e"><a href="https://apps.repebble.com/55447aad3bbdc6296e00001e">Baymax - Big Hero 6</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/sloan-848/BigHero-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-02</span> <span title="Latest release in the app store">Updated 2015-05-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-02</span> <span title="Latest release in the app store">Updated 2015-05-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A Big Hero 6 watchface featuring everyone&#x27;s favorite healthcare companion: Baymax!</p>
 </div>

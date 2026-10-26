@@ -13,7 +13,7 @@ hide:
 
 # vhoen
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vhoen_63dc3c53d7f92d271ff721cc) · [GitHub (vhoen)](https://github.com/vhoen)
 
@@ -26,26 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vhoen_63dc3c53d7f92
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="salat" data-released="2026-09-22" data-updated="2026-10-25">
+<a class="app-shot" href="https://apps.repebble.com/40c8c70ad768489f908b499e" data-search-exclude><img src="../images/apps/40c8c70ad768489f908b499e.png" alt="Salat" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-40c8c70ad768489f908b499e"><a href="https://apps.repebble.com/40c8c70ad768489f908b499e">Salat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/vhoen/pebble-salat" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Displays Salat time for a given latitude. Using lat/lng instead of location in order to avoid using an api key from a geocoding provider.</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="boxing timer" data-released="2026-06-24" data-updated="2026-09-25">
 <a class="app-shot" href="https://apps.repebble.com/0d83b91c312c46c48f57753c" data-search-exclude><img src="../images/apps/0d83b91c312c46c48f57753c.png" alt="Boxing Timer" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-0d83b91c312c46c48f57753c"><a href="https://apps.repebble.com/0d83b91c312c46c48f57753c">Boxing Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/vhoen/pebble-boxing-timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-09-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-09-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Timer which alternates between exercice timer and rest timer.</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="salat" data-released="2026-09-22" data-updated="2026-09-22">
-<a class="app-shot" href="https://apps.repebble.com/40c8c70ad768489f908b499e" data-search-exclude><img src="../images/apps/40c8c70ad768489f908b499e.png" alt="Salat" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-40c8c70ad768489f908b499e"><a href="https://apps.repebble.com/40c8c70ad768489f908b499e">Salat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/vhoen/pebble-salat" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-09-22</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">Displays Salat time for a given latitude. Using lat/lng instead of location in order to avoid using an api key from a geocoding provider.</p>
 </div>
 </div>
 </div>

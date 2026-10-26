@@ -13,7 +13,7 @@ hide:
 
 # Josh Rosenberg
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh-rosenberg_2bcc0a3741b25faf198da7b8) · [GitHub (rosenbergj)](https://github.com/rosenbergj)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/josh-rosenberg_2bcc
 <h2 class="app-name" id="app-9cc1f2cb2f78476f8bcbca70"><a href="https://apps.repebble.com/9cc1f2cb2f78476f8bcbca70">Shaot Zemaniot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.2</span></h2>
 <a class="app-source" href="https://github.com/rosenbergj/pebble-shaot-zemaniot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A highly configurable watchface showing Shaot Zemaniot, an ancient Jewish form of timekeeping. Alongside the ordinary civil time, this watchface divides the daytime (sunrise to sunset, or sunset…</p>
 </div>

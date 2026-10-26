@@ -13,7 +13,7 @@ hide:
 
 # David Torcivia
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-torcivia_29bff781261c3a32c5b9f900) · [GitHub (davidtorcivia)](https://github.com/davidtorcivia)
 

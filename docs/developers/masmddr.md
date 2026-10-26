@@ -13,7 +13,7 @@ hide:
 
 # masmddr
 
-*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/masmddr_54323d5d4a9ca48ba80000d5) · [GitHub (sheydenis)](https://github.com/sheydenis)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/masmddr_54323d5d4a9
 <h2 class="app-name" id="app-57b309a2f01b53ce0c000591"><a href="https://apps.repebble.com/57b309a2f01b53ce0c000591">SimpleCounter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.11</span></h2>
 <a class="app-source" href="https://github.com/sheydenis/SimpleCounter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-16</span> <span title="Latest release in the app store">Updated 2016-09-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2016-08-16</span> <span title="Latest release in the app store">Updated 2016-09-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple counter app. Saves count on exit, no vibrations, no fancy colors. Comma separated digits by groups of 3. (Free Pro feature) Up / down buttons for +1 / -1 . Long press down to reset count…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/masmddr_54323d5d4a9
 <h2 class="app-name" id="app-56250097851cda8fa100005e"><a href="https://apps.repebble.com/56250097851cda8fa100005e">YAWWc</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/sheydenis/YAWWv1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-19</span> <span title="Latest release in the app store">Updated 2016-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2015-10-19</span> <span title="Latest release in the app store">Updated 2016-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Yet another weather watchface (Celsius). Shows time and weather information such as: Sunrise and sunset times at the top right (R: and S: respectively). Wind speed, humidity and cloudiness at the…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/masmddr_54323d5d4a9
 <h2 class="app-name" id="app-569fd665a1ebd0d42c000064"><a href="https://apps.repebble.com/569fd665a1ebd0d42c000064">SimpleCal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.22</span></h2>
 <a class="app-source" href="https://github.com/sheydenis/SimpleCal" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-20</span> <span title="Latest release in the app store">Updated 2016-03-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2016-01-20</span> <span title="Latest release in the app store">Updated 2016-03-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watchface with a calendar and battery charge indicator. Also features a bar on the right to indicate seconds. (0,10,20,30,40,50 seconds)</p>
 </div>

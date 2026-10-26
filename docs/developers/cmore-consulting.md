@@ -13,7 +13,7 @@ hide:
 
 # cmore consulting
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/69000edb69551c0008c10800/1) · [GitHub (cmore-zz)](https://github.com/cmore-zz)
 

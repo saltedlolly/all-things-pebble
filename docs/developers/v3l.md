@@ -13,7 +13,7 @@ hide:
 
 # V3L
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6903ea5c69551c0009c36237/1) · [GitHub (skooda)](https://github.com/skooda) · [Website (v3l.cz)](https://v3l.cz)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6903ea5c69551c0
 <h2 class="app-name" id="app-6935e82b0a850b0009acd5c6"><a href="https://apps.rebble.io/en_US/application/6935e82b0a850b0009acd5c6">Dotty</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/skooda/pebble-dotty-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/156" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-07</span> <span title="Latest release in the app store">Updated 2025-12-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-07</span> <span title="Latest release in the app store">Updated 2025-12-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Minimalistic analog watch face celebrating dots.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6903ea5c69551c0
 <h2 class="app-name" id="app-69207ecd7cdf9d000985e1a7"><a href="https://apps.rebble.io/en_US/application/69207ecd7cdf9d000985e1a7">Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/skooda/pebble-horizon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-21</span> <span title="Latest release in the app store">Updated 2025-11-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2025-11-21</span> <span title="Latest release in the app store">Updated 2025-11-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Toy displaying an artificial horizon (attitude indicator) based on accelerometer data. It shows a horizontal line rotated according to the tilt of the watch and includes several graphical elements…</p>
 </div>

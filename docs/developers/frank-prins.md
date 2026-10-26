@@ -13,7 +13,7 @@ hide:
 
 # Frank Prins
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frank-prins_5571f66b2cf3a3c2b7000071) · [GitHub (twodogwalker)](https://github.com/twodogwalker)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frank-prins_5571f66
 <h2 class="app-name" id="app-5618284f1d9c8c20f900001b"><a href="https://apps.repebble.com/5618284f1d9c8c20f900001b">Unix style</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/twodogwalker/PebbleFace_Ux" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-09</span> <span title="Latest release in the app store">Updated 2015-11-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-09</span> <span title="Latest release in the app store">Updated 2015-11-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A first playing around face, inspired by Unix interfacing. It is quite like the other you will find around here, named Terminal etc. Oh, and yes, I am aware the unix commands shown are not valid…</p>
 </div>

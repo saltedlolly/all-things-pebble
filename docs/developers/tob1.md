@@ -13,7 +13,7 @@ hide:
 
 # tob1
 
-*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tob1_482f35c41c8881124fe8662b) · [GitHub (sirTob1)](https://github.com/sirTob1)
 
@@ -26,35 +26,35 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tob1_482f35c41c8881
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="toponav" data-released="2026-06-07" data-updated="2026-09-27">
+<div class="app-card" data-type="watchapp" data-title="toponav" data-released="2026-06-07" data-updated="2026-10-24">
 <a class="app-shot" href="https://apps.repebble.com/4396804c939041c5a7b9edf1" data-search-exclude><img src="../images/apps/4396804c939041c5a7b9edf1.png" alt="TopoNav" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4396804c939041c5a7b9edf1"><a href="https://apps.repebble.com/4396804c939041c5a7b9edf1">TopoNav</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
+<h2 class="app-name" id="app-4396804c939041c5a7b9edf1"><a href="https://apps.repebble.com/4396804c939041c5a7b9edf1">TopoNav</a> <span class="app-version" title="Latest version" data-search-exclude>v3.4</span></h2>
 <a class="app-source" href="https://github.com/sirTob1/pebble-topo-nav" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">TopoNav brings offline-capable topographic maps and smart turn-by-turn navigation directly to your wrist. Perfect for hikers, cyclists, geocachers, and outdoor enthusiasts, this app connects…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="pushup reminder" data-released="2026-06-17" data-updated="2026-09-27">
+<div class="app-card" data-type="watchapp" data-title="pushup reminder" data-released="2026-06-17" data-updated="2026-10-24">
 <a class="app-shot" href="https://apps.repebble.com/b5dd8463784242919479af00" data-search-exclude><img src="../images/apps/b5dd8463784242919479af00.png" alt="Pushup Reminder" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b5dd8463784242919479af00"><a href="https://apps.repebble.com/b5dd8463784242919479af00">Pushup Reminder</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
+<h2 class="app-name" id="app-b5dd8463784242919479af00"><a href="https://apps.repebble.com/b5dd8463784242919479af00">Pushup Reminder</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/sirTob1/pebble-pushup-reminder" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-09-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A Vibe Coding Project: Built entirely through the magic of Vibe Coding, this app represents the perfect blend of human intuition and AI-assisted engineering to bring modern features back to our…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="pebble gym" data-released="2026-06-07" data-updated="2026-08-14">
+<div class="app-card" data-type="watchapp" data-title="pebble gym" data-released="2026-06-07" data-updated="2026-10-24">
 <a class="app-shot" href="https://apps.repebble.com/c27fee0f38424667a861e49a" data-search-exclude><img src="../images/apps/c27fee0f38424667a861e49a.png" alt="Pebble Gym" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c27fee0f38424667a861e49a"><a href="https://apps.repebble.com/c27fee0f38424667a861e49a">Pebble Gym</a> <span class="app-version" title="Latest version" data-search-exclude>v3.8</span></h2>
+<h2 class="app-name" id="app-c27fee0f38424667a861e49a"><a href="https://apps.repebble.com/c27fee0f38424667a861e49a">Pebble Gym</a> <span class="app-version" title="Latest version" data-search-exclude>v3.9</span></h2>
 <a class="app-source" href="https://github.com/sirTob1/pebble-gym-hevy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Hevy Workout Routine Companion &amp; History Tracker for Pebble Smartwatches NOTE This is a Vibe-Coding project! 🎸✨ Built interactively using advanced agentic AI pair-programming to prototype, test…</p>
 </div>

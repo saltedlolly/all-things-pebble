@@ -13,7 +13,7 @@ hide:
 
 # Tasnim Ahmed
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tasnim-ahmed_539280adca2234142b000091) · [GitHub (tazzix)](https://github.com/tazzix)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tasnim-ahmed_539280
 <h2 class="app-name" id="app-53e71ec8d889b3947f000051"><a href="https://apps.repebble.com/53e71ec8d889b3947f000051">All in One</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/tazzix/AllinOnePebbleFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-10</span> <span title="Latest release in the app store">Updated 2015-12-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-10</span> <span title="Latest release in the app store">Updated 2015-12-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This Watchface is a fork of Chunk Weather 2.1, I have added more details for weather like Humidity, Sunrise, Sunset; as well as other features from other watchfaces / apps. It adds a pedometer…</p>
 </div>

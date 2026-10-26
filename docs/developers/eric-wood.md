@@ -13,7 +13,7 @@ hide:
 
 # Eric Wood
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-wood_52f17df0f216769cb900040a) · [GitHub (esw148)](https://github.com/esw148)
 

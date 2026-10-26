@@ -13,7 +13,7 @@ hide:
 
 # PebbLiz Technologies
 
-*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebbliz-technologies_52b776ad9efe582fb2000002) · [GitHub (pouves)](https://github.com/pouves) · [GitHub (pebble-hacks)](https://github.com/pebble-hacks)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebbliz-technologie
 <h2 class="app-name" id="app-53439874b32bb7bda9000070"><a href="https://apps.repebble.com/53439874b32bb7bda9000070">Knock Knock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pouves/Knock-Knock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-08</span> <span title="Latest release in the app store">Updated 2014-05-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-08</span> <span title="Latest release in the app store">Updated 2014-05-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Knock-knock jokes! (version 2.0...double the jokes!) Make a knocking motion with your hand to generate a joke...push the down button for the punchline! (Jokes are suitable for all ages) Have a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebbliz-technologie
 <h2 class="app-name" id="app-5344d1cd40f5878be800019e"><a href="https://apps.repebble.com/5344d1cd40f5878be800019e">W&amp;L: Vocabulary</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/pouves/Watch_and_Learn_Vocabulary" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-09</span> <span title="Latest release in the app store">Updated 2014-04-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-09</span> <span title="Latest release in the app store">Updated 2014-04-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watch &amp; Learn Flashcards show vocabulary words. Want to add your own content? Website linked below includes easy-to-follow directions! A flick of the wrist or pressing &quot;select&quot; turns the card to…</p>
 </div>

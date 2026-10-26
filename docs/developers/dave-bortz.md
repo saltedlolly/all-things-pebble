@@ -13,7 +13,7 @@ hide:
 
 # Dave Bortz
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dave-bortz_a5ed2ca64fa47426fc50360e) · [GitHub (dbortz)](https://github.com/dbortz)
 

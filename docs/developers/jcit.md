@@ -13,7 +13,7 @@ hide:
 
 # jcit
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jcit_542040a2d6b6c950fa000132) · [GitHub (jccit)](https://github.com/jccit)
 

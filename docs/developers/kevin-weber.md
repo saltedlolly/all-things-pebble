@@ -13,7 +13,7 @@ hide:
 
 # Kevin Weber
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-weber_53220c40a3f12b6331000032) · [GitHub (profbetis)](https://github.com/profbetis) · [Website (bluevisual.tv)](http://bluevisual.tv)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-weber_53220c4
 <h2 class="app-name" id="app-55eb91a7e41fa80a4c000083"><a href="https://apps.repebble.com/55eb91a7e41fa80a4c000083">Abstracted</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/profbetis/Abstracted" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-06</span> <span title="Latest release in the app store">Updated 2015-09-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-09-06</span> <span title="Latest release in the app store">Updated 2015-09-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Abstracted is a concept that uses art to display time. To Read: (The displayed time is 4:36 PM) Hours are the large horizontal black bars. They act as tally marks (4 bars = 4 hours past 12, 5 bars…</p>
 </div>

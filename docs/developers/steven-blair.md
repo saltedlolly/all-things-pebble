@@ -13,7 +13,7 @@ hide:
 
 # Steven Blair
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/steven-blair_556ce3024155355d5b000056) · [GitHub (stevenblair)](https://github.com/stevenblair)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/steven-blair_556ce3
 <h2 class="app-name" id="app-55de44a8c46b80387c000070"><a href="https://apps.repebble.com/55de44a8c46b80387c000070">Commuter Bliss UK</a> <span class="app-version" title="Latest version" data-search-exclude>v1.91</span></h2>
 <a class="app-source" href="https://github.com/stevenblair/commuter-bliss-uk" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-26</span> <span title="Latest release in the app store">Updated 2017-12-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-08-26</span> <span title="Latest release in the app store">Updated 2017-12-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Pebble watchface for UK rail commuters. Displays the next three trains for your daily commute to and from work. The immediate next train is shown in detail in bold. It is designed to require…</p>
 </div>

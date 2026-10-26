@@ -13,7 +13,7 @@ hide:
 
 # TJ Stein
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tj-stein_52b91beca1d2df1269000037) · [GitHub (tstein4)](https://github.com/tstein4)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tj-stein_52b91beca1
 <h2 class="app-name" id="app-539fc03d051716df30000187"><a href="https://apps.repebble.com/539fc03d051716df30000187">UR Buses</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/tstein4/urbuses-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-17</span> <span title="Latest release in the app store">Updated 2014-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-06-17</span> <span title="Latest release in the app store">Updated 2014-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Get real time arrival estimates on your watch for the University of Rochester bus service. Pick any 5 route and stop combinations to view on your Pebble. Changelog at urbuses.tjstein.me/changelog</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tj-stein_52b91beca1
 <h2 class="app-name" id="app-53e34a13b52fe7649500013b"><a href="https://apps.repebble.com/53e34a13b52fe7649500013b">Random</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/tstein4/random-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-07</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-08-07</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Ever needed a bit of randomness to make a decision? Well then this is the app for you! Formerly Coin Flip, this app now has a brand new Random Number Generator in addition to the old coin flipping…</p>
 </div>

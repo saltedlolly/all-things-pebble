@@ -13,7 +13,7 @@ hide:
 
 # skeldoy
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/skeldoy_56602fcb0ea7f7d852000023) · [GitHub (skeldoy)](https://github.com/skeldoy)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/skeldoy_56602fcb0ea
 <h2 class="app-name" id="app-56648db89be95ea6d5000069"><a href="https://apps.repebble.com/56648db89be95ea6d5000069">MyFace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/skeldoy/myFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-06</span> <span title="Latest release in the app store">Updated 2015-12-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-06</span> <span title="Latest release in the app store">Updated 2015-12-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Old-school Hercules-graphics terminal style watchface. Gives you date, week number, day, time (sans seconds), day of the year, battery stats and bluetooth connectivity stat.</p>
 </div>

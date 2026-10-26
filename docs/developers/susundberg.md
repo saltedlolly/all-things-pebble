@@ -13,7 +13,7 @@ hide:
 
 # susundberg
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/susundberg_557c7399d269ce467600006b) · [GitHub (susundberg)](https://github.com/susundberg)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/susundberg_557c7399
 <h2 class="app-name" id="app-57321b9bddb70016b600001f"><a href="https://apps.repebble.com/57321b9bddb70016b600001f">Countit-all</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/susundberg/pebble-countit-all" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-10</span> <span title="Latest release in the app store">Updated 2016-05-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-05-10</span> <span title="Latest release in the app store">Updated 2016-05-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble application for counting and timing events! This application provides easy way to count and time different events. You can configure up to three (one for each button) items to count and…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/susundberg_557c7399
 <h2 class="app-name" id="app-55e1a222eec9a4e4d9000030"><a href="https://apps.repebble.com/55e1a222eec9a4e4d9000030">Linux remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/susundberg/pebble-linux-remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-29</span> <span title="Latest release in the app store">Updated 2015-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-08-29</span> <span title="Latest release in the app store">Updated 2015-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This open source remote allows you to run shell commands in your linux by pressing Pebble buttons. You can use it for presentation slide changer or for example to lock your screen with single…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Arnav Kumar
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52c283e3560422048b00003b/1) · [GitHub (radzinzki)](https://github.com/radzinzki)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52c283e35604220
 <h2 class="app-name" id="app-52de30796094ff3d09000068"><a href="https://apps.rebble.io/en_US/application/52de30796094ff3d09000068">Music Tweeter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/radzinzki/Pebble-MusicTweeter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-21</span> <span title="Latest release in the app store">Updated 2014-02-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-21</span> <span title="Latest release in the app store">Updated 2014-02-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Share what you are listening with the world from your wrist. Set your tweet template from the iOS app and share away! The templates can include a link from Last.FM.</p>
 </div>

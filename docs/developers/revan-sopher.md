@@ -13,7 +13,7 @@ hide:
 
 # Revan Sopher
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/revan-sopher_5439632ffe01ff7df0000218) · [GitHub (revan)](https://github.com/revan)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/revan-sopher_543963
 <h2 class="app-name" id="app-5521a22dd7356c80ea000059"><a href="https://apps.repebble.com/5521a22dd7356c80ea000059">Rutgers Bus and Dining</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/revan/Pebble-Rutgers" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-05</span> <span title="Latest release in the app store">Updated 2015-04-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-05</span> <span title="Latest release in the app store">Updated 2015-04-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Provides bus times and dining hall menus for Rutgers New Brunswick.</p>
 </div>

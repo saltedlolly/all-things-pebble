@@ -13,7 +13,7 @@ hide:
 
 # David Carryer
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-carryer_5471353b0ad7b49f470000fa) · [GitHub (dcarryer)](https://github.com/dcarryer) · [Website (pebble.carryer.me)](http://pebble.carryer.me)
 

@@ -13,7 +13,7 @@ hide:
 
 # Kieselleger
 
-*19 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*20 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3fe58879cfd4000013) · [GitHub (ProggroP)](https://github.com/ProggroP)
 
@@ -21,11 +21,55 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>22</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>19</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>23</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>20</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="prism" data-released="2026-10-10" data-updated="2026-10-19">
+<a class="app-shot" href="https://apps.repebble.com/8acbc29865ff44c4a54ba660" data-search-exclude><img src="../images/apps/8acbc29865ff44c4a54ba660.png" alt="Prism" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-8acbc29865ff44c4a54ba660"><a href="https://apps.repebble.com/8acbc29865ff44c4a54ba660">Prism</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Prism" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A Pebble can show 64 colours. A rainbow needs a few more than that. Prism gets them by dithering: every pixel picks one of the two nearest colours the screen really has, in a fine ordered pattern…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="ha trigger" data-released="2026-09-09" data-updated="2026-10-19">
+<a class="app-shot" href="https://apps.repebble.com/a0fb0204f76146a8bfd81bc9" data-search-exclude><img src="../images/apps/a0fb0204f76146a8bfd81bc9.png" alt="HA Trigger" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a0fb0204f76146a8bfd81bc9"><a href="https://apps.repebble.com/a0fb0204f76146a8bfd81bc9">HA Trigger</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/HATrigger" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">HA Trigger puts Home Assistant actions on your wrist and keeps the answer in front of you. Each screen carries two actions: the top button runs one, the bottom button the other. Between them sits…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="ebb" data-released="2026-10-10" data-updated="2026-10-19">
+<a class="app-shot" href="https://apps.repebble.com/30a024b52fcb4a42bcefe9db" data-search-exclude><img src="../images/apps/30a024b52fcb4a42bcefe9db.png" alt="Ebb" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-30a024b52fcb4a42bcefe9db"><a href="https://apps.repebble.com/30a024b52fcb4a42bcefe9db">Ebb</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Ebb" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Most digital watchfaces change the minute the way a light switch changes a room: one instant it is 10:07, the next it is 10:08. Ebb lets the time go out like a tide. Just before the minute turns…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="circuit" data-released="2026-10-19" data-updated="2026-10-19">
+<a class="app-shot" href="https://apps.repebble.com/57218b7851df438ab2284c6a" data-search-exclude><img src="../images/apps/57218b7851df438ab2284c6a.png" alt="Circuit" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-57218b7851df438ab2284c6a"><a href="https://apps.repebble.com/57218b7851df438ab2284c6a">Circuit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Circuit" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Circuit turns your watch into a populated circuit board. Copper traces run between the parts, vias and gold pads line the edges, and every reading has its own chip: weather, battery, date, heart…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="lean" data-released="2026-10-13" data-updated="2026-10-14">
 <a class="app-shot" href="https://apps.repebble.com/9eda1a0fa95449318c08467e" data-search-exclude><img src="../images/apps/9eda1a0fa95449318c08467e.png" alt="Lean" loading="lazy"></a>
 <div class="app-info">
@@ -35,28 +79,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-13</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Every watch assumes you can turn your arm until the face lies straight in front of you. Not everyone can. A stiff shoulder, a painful wrist, a cast, a wheelchair armrest, a steering wheel - and…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="prism" data-released="2026-10-10" data-updated="2026-10-10">
-<a class="app-shot" href="https://apps.repebble.com/8acbc29865ff44c4a54ba660" data-search-exclude><img src="../images/apps/8acbc29865ff44c4a54ba660.png" alt="Prism" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-8acbc29865ff44c4a54ba660"><a href="https://apps.repebble.com/8acbc29865ff44c4a54ba660">Prism</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/ProggroP/Prism" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">A Pebble can show 64 colours. A rainbow needs a few more than that. Prism gets them by dithering: every pixel picks one of the two nearest colours the screen really has, in a fine ordered pattern…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="ebb" data-released="2026-10-10" data-updated="2026-10-10">
-<a class="app-shot" href="https://apps.repebble.com/30a024b52fcb4a42bcefe9db" data-search-exclude><img src="../images/apps/30a024b52fcb4a42bcefe9db.png" alt="Ebb" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-30a024b52fcb4a42bcefe9db"><a href="https://apps.repebble.com/30a024b52fcb4a42bcefe9db">Ebb</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/ProggroP/Ebb" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-10</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">Most digital watchfaces change the minute the way a light switch changes a room: one instant it is 10:07, the next it is 10:08. Ebb lets the time go out like a tide. Just before the minute turns…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="solar &amp; moon arc" data-released="2026-06-15" data-updated="2026-10-03">
@@ -90,17 +112,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Most watchfaces redraw the screen every minute. A face with a second hand redraws it 86,400 times a day. Coast redraws it 288 times - and if you ask it to, only 96. It does that by rounding. The…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="ha trigger" data-released="2026-09-09" data-updated="2026-09-21">
-<a class="app-shot" href="https://apps.repebble.com/a0fb0204f76146a8bfd81bc9" data-search-exclude><img src="../images/apps/a0fb0204f76146a8bfd81bc9.png" alt="HA Trigger" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-a0fb0204f76146a8bfd81bc9"><a href="https://apps.repebble.com/a0fb0204f76146a8bfd81bc9">HA Trigger</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
-<a class="app-source" href="https://github.com/ProggroP/HATrigger" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">HA Trigger puts Home Assistant actions on your wrist and keeps the answer in front of you. Each screen carries two actions: the top button runs one, the bottom button the other. Between them sits…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="fix" data-released="2017-08-04" data-updated="2026-09-21">

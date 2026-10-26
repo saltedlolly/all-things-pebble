@@ -13,7 +13,7 @@ hide:
 
 # Tommy S-Andreassen
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tommy-s-andreassen_56fd477e6266bfa84f000041) · [GitHub (snymainn)](https://github.com/snymainn)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tommy-s-andreassen_
 <h2 class="app-name" id="app-5736153f9f823cb89300000f"><a href="https://apps.repebble.com/5736153f9f823cb89300000f">Minimalist Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7</span></h2>
 <a class="app-source" href="https://github.com/snymainn/minimalist-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-13</span> <span title="Latest release in the app store">Updated 2016-05-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-13</span> <span title="Latest release in the app store">Updated 2016-05-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple analog watchface with battery and connection status. The hands and markings are cloned from Engineering watchface by @nguyer. I have added a large date number that is easier to read. On the…</p>
 </div>

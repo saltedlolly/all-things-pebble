@@ -13,7 +13,7 @@ hide:
 
 # Comfortably Numb
 
-*37 watchfaces and 6 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*37 watchfaces and 7 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52f547605101128b2200005a) · [GitHub (ygalanter)](https://github.com/ygalanter)
 
@@ -21,18 +21,29 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>43</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>37</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>6</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>44</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>37</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>7</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="jumper" data-released="2026-10-25" data-updated="2026-10-25">
+<a class="app-shot" href="https://apps.repebble.com/e39691eff9664b8abaf0d597" data-search-exclude><img src="../images/apps/e39691eff9664b8abaf0d597.gif" alt="Jumper" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e39691eff9664b8abaf0d597"><a href="https://apps.repebble.com/e39691eff9664b8abaf0d597">Jumper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ygalanter/Jumper" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/1458" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-25</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
+<p class="app-desc">A retro platform climber for your wrist, inspired by the classic Jumping Jack. Gaps slide along five floors above you: time your jump to leap through one, reach the top, and jump again to advance…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="block crush" data-released="2026-10-12" data-updated="2026-10-17">
 <a class="app-shot" href="https://apps.repebble.com/a3850951f1bc4734b24f4ce3" data-search-exclude><img src="../images/apps/a3850951f1bc4734b24f4ce3.gif" alt="Block Crush" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-a3850951f1bc4734b24f4ce3"><a href="https://apps.repebble.com/a3850951f1bc4734b24f4ce3">Block Crush</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/block-crush-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1430" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The addictive block puzzle, on your wrist. Place three pieces at a time on an 8x8 board and fill rows or columns to crush them. The game ends when nothing fits. Clear several lines at once, or…</p>
 </div>
@@ -43,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-552b12499c306b05a000008e"><a href="https://apps.repebble.com/552b12499c306b05a000008e">Simple Striped</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/SimpleStriped" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1419" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-13</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-13</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">- Simple watchface showing date and time in big font in striped pattern. - Thin line at the bottom is a battery indicator, length equal remaining charge - Stripe pattern is configurable via options</p>
 </div>
@@ -65,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-a3b06903fd6f46f5b9b8780b"><a href="https://apps.repebble.com/a3b06903fd6f46f5b9b8780b">Letterfall</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/letterfall-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/942" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">TEST YOUR BOOKWORM SKILLS! 📝 &quot;Letterfall&quot; is a word-building game. The longer word you make the more scoring points you get. As you add points - you advance in ranks. ⛓️ To create a word - tap…</p>
 </div>
@@ -76,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-53a9f0fa6b1a978507000083"><a href="https://apps.repebble.com/53a9f0fa6b1a978507000083">Big Flip Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/BIG_FLIP_CLOCK" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1358" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-24</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-06-24</span> <span title="Latest release in the app store">Updated 2026-09-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Old-style flip clock watchface with smooth flip animation, digital date, and day of the week. Supports both 12-hour and 24-hour modes based on the watch setting, including an AM/PM indicator in…</p>
 </div>
@@ -109,7 +120,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-5616de1d7bc7a6ef0a000026"><a href="https://apps.repebble.com/5616de1d7bc7a6ef0a000026">Clean &amp; Smart</a> <span class="app-version" title="Latest version" data-search-exclude>v2.53.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Clean_and_Smart" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/957" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-08</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-08</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Design and Art Direction by Paul Joel - www.pauljoel.com Contributions by Yaron Sheffer. Simple and clean watchface featuring large date and time as well as current temperature and weather…</p>
 </div>
@@ -120,7 +131,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-54dd1bedadaf1dffbb000015"><a href="https://apps.repebble.com/54dd1bedadaf1dffbb000015">Blue Sun Quotes</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/BLUE_SUN_QUOTES" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1166" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-12</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-02-12</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">BLUE SUN CORTEX TERMINAL A Firefly-inspired Cortex watchface with 471 quotes, battery status, and native layouts. Bring a little piece of the &#x27;Verse to your wrist with Blue Sun Cortex Terminal, a…</p>
 </div>
@@ -131,7 +142,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-68a245345ffb456d8ec591ea"><a href="https://apps.repebble.com/68a245345ffb456d8ec591ea">Fields of Gold</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/fields-of-gold-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1161" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-17</span> <span title="Latest release in the app store">Updated 2026-07-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-17</span> <span title="Latest release in the app store">Updated 2026-07-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Digital clock with supersized digit size and image background. You can choose one out of six pre-selected images or select your own image Image opacity is also controlled so you can set how it is…</p>
 </div>
@@ -142,7 +153,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-688f5e77d36b550009ece4cf"><a href="https://apps.repebble.com/688f5e77d36b550009ece4cf">Vertical Health</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Vertical-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1053" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-08-03</span> <span title="Latest release in the app store">Updated 2026-07-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-08-03</span> <span title="Latest release in the app store">Updated 2026-07-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Unique watchface design, showing - day of the week - month - date - year - battery percentage in vertical columns, plus time in large digits. Progress bars show time advancements, and battery…</p>
 </div>
@@ -153,7 +164,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-026ceb1f4d9b4e60bc5acad2"><a href="https://apps.repebble.com/026ceb1f4d9b4e60bc5acad2">Station Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Station-Clock-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/902" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-20</span> <span title="Latest release in the app store">Updated 2026-07-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-20</span> <span title="Latest release in the app store">Updated 2026-07-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Station Clock is a digital retro-style clock face featuring: Large time 🕒 Date 📅 Weather conditions ⛅ Temperature 🌡️ (Celsius or Fahrenheit, depending on your preferences) Shake the watch to show…</p>
 </div>
@@ -164,7 +175,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-548911f55db45ef203000053"><a href="https://apps.repebble.com/548911f55db45ef203000053">Poochie</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/POOCHIE" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1157" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-11</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-11</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by Gucci digital watch. Shows local time as well as time in a secondary configurable timezone. Background color and time color can also be set in settings.</p>
 </div>
@@ -175,7 +186,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-54b5d6a97e6bae43f10000d5"><a href="https://apps.repebble.com/54b5d6a97e6bae43f10000d5">Meyer Objects</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/nazar_frames" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1159" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-14</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-01-14</span> <span title="Latest release in the app store">Updated 2026-07-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Frame Clock. Minimalistic watchface, just two wire frames bearing minute an hour hand. Shake or tap the watch to briefly see digital time, date and status of battery and Bluetooth connection…</p>
 </div>
@@ -186,7 +197,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-5515a8a75ca749ee33000010"><a href="https://apps.repebble.com/5515a8a75ca749ee33000010">Rustic Slider</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/COLOR_SLIDER" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1151" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-27</span> <span title="Latest release in the app store">Updated 2026-07-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-03-27</span> <span title="Latest release in the app store">Updated 2026-07-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">- Date and time in blocky rustic design. - 12/24 hour format support (based on watch setting) - Time tiles appear with sliding effect - User-configurable tile slide direction</p>
 </div>
@@ -197,7 +208,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-553adb3b375961a6080000c7"><a href="https://apps.repebble.com/553adb3b375961a6080000c7">Long Shadow</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Color_Shadow" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1150" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-25</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-25</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">- Featuring large time with long shadows - Date and day of the week - Battery info - User-adjustable shadow direction (Made with EffectLayer https://github.com/ygalanter/EffectLayer)</p>
 </div>
@@ -208,7 +219,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-6516c39fb2704211b668a318"><a href="https://apps.repebble.com/6516c39fb2704211b668a318">Agenda</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/agenda-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/963" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-10</span> <span title="Latest release in the app store">Updated 2026-07-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-10</span> <span title="Latest release in the app store">Updated 2026-07-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Digital watchface that displays time, weather, and your next calendar event. Features - Large digital clock - Date display with day of the week - 7-day weather forecast - Current weather for today…</p>
 </div>
@@ -219,7 +230,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-16a26261425f4be090bd9e18"><a href="https://apps.repebble.com/16a26261425f4be090bd9e18">License Plate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/license-plate-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1136" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-09</span> <span title="Latest release in the app store">Updated 2026-07-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-09</span> <span title="Latest release in the app store">Updated 2026-07-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">License Plate is a digital clock in form of a car license plate. 🎨 Fully customizable colors 📍 Automatically detects and shows your location on the license plate Shaking watch cycles thru: 📍…</p>
 </div>
@@ -241,7 +252,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-9c5f123a606348c3aaa2932a"><a href="https://apps.repebble.com/9c5f123a606348c3aaa2932a">Dark Side</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/dark-side-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1122" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-05</span> <span title="Latest release in the app store">Updated 2026-07-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-05</span> <span title="Latest release in the app store">Updated 2026-07-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Digital time in form of familiar prism spectrum. Configurable colors for time, date, day of the week, and activity icon (set to black to hide). Colorful part of rainbow indicates completed fitness…</p>
 </div>
@@ -263,7 +274,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-2a901442a4f24729b05837b3"><a href="https://apps.repebble.com/2a901442a4f24729b05837b3">Cannonade</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/cannonade-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/946" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-03</span> <span title="Latest release in the app store">Updated 2026-06-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-03</span> <span title="Latest release in the app store">Updated 2026-06-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Cannonade is a classic ballistic game between 2 opponents - in this case you and A.I. (or, to be precise - you and your watch). The goal is to destroy opponent&#x27;s fort with your projectile while…</p>
 </div>
@@ -274,7 +285,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-52e534556e3045b08c05482e"><a href="https://apps.repebble.com/52e534556e3045b08c05482e">Aquarium</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Aquarium-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/908" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-24</span> <span title="Latest release in the app store">Updated 2026-06-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-24</span> <span title="Latest release in the app store">Updated 2026-06-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Time floating inside of beautiful tropical aquarium. Shake the watch to cycles thru: Date 📅 Day of the week 📆 Steps count 👟 Calories burned 🔥 Distance walked 🚶(miles or kilometers, depending on…</p>
 </div>
@@ -285,7 +296,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-4989ba26b1ec4de7b757b1d0"><a href="https://apps.repebble.com/4989ba26b1ec4de7b757b1d0">Pear Hermit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/pear-hermit-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/996" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-24</span> <span title="Latest release in the app store">Updated 2026-05-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-24</span> <span title="Latest release in the app store">Updated 2026-05-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Analog clock with familiar look, shows date and activity tracking: Shake the watch to switch betwen - step counter, - distance walked - calories burned, - time active - heart-rate - or battery…</p>
 </div>
@@ -307,7 +318,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-ac29b3f66536476d81206e2a"><a href="https://apps.repebble.com/ac29b3f66536476d81206e2a">Clockwork</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/clockfork-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/962" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-10</span> <span title="Latest release in the app store">Updated 2026-05-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-10</span> <span title="Latest release in the app store">Updated 2026-05-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A clockpunk-style analog watchface with moving gears, and ticking sound. Original design: https://discourse.fullandroidwatch.org/t/s9wf04-watchface/72874</p>
 </div>
@@ -318,7 +329,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-544965ef95176241c9000115"><a href="https://apps.repebble.com/544965ef95176241c9000115">Autoinsult for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Autoinsult-For-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/934" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-23</span> <span title="Latest release in the app store">Updated 2026-05-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-10-23</span> <span title="Latest release in the app store">Updated 2026-05-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Whenever you need an unorthodox insult line - this app will be there for you. Select insult style from - Arabian - Shakespearean - Modern - Mediterranean. Based on autoinsult.com</p>
 </div>
@@ -329,7 +340,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-2a3821196720411081d3dfc9"><a href="https://apps.repebble.com/2a3821196720411081d3dfc9">Nashki</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/nashki-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/932" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-01</span> <span title="Latest release in the app store">Updated 2026-05-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-01</span> <span title="Latest release in the app store">Updated 2026-05-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Nashki is a sliding puzzle game tests your visual, logic, and memory skills. Shuffle the pic then try to restore it by tapping on tiles next to empty space to slide them. Game tracks the best…</p>
 </div>
@@ -340,7 +351,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-4b4d89edc10e48048f0cdb0d"><a href="https://apps.repebble.com/4b4d89edc10e48048f0cdb0d">Cursive</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/cursive-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/916" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-26</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-26</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Digital clock as handwritten text ✍️ Customizable colors. 🎨 On shake show stats screen - you can enter up to 5 lines of your own text. Text can contain placeholders that are replaced with stats on…</p>
 </div>
@@ -351,7 +362,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-d81c8072e4ff47b9bdfca3f8"><a href="https://apps.repebble.com/d81c8072e4ff47b9bdfca3f8">Circuit Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/arduino-watch-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/913" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-26</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-26</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Circuit Clock is a digital clock in form of 7-segment open circuit display. - Customizable color of digits 🎨 Shake the watch to cycle thru: Date 📅 Day of the week 📆 AM/PM display Steps count 👟…</p>
 </div>
@@ -373,7 +384,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-16d0d2c3f4c941498c5d6a88"><a href="https://apps.repebble.com/16d0d2c3f4c941498c5d6a88">Combination Lock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Pebble-Combination-Lock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/911" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Combination Lock is a digital watchface that displays time in form of mechanical numerical lock Also shown: Date 📅 Battery charge 🔋 Steps taken 👟 Calories burned 🔥 Active time ⚡ Shake the watch to…</p>
 </div>
@@ -384,7 +395,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-562a4e4dfd5d7220db00006c"><a href="https://apps.repebble.com/562a4e4dfd5d7220db00006c">Brick Neon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.30</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Brick-Neon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/897" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-10-23</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Design and Art Direction by Paul Joel - www.pauljoel.com Simple and straightforward watchface with multi-language support. Featuring time, date, day of the week and battery percentage (on Pebble…</p>
 </div>
@@ -395,7 +406,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-566642d77da16a2459000087"><a href="https://apps.repebble.com/566642d77da16a2459000087">Cobblestyle</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/PebStyle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-08</span> <span title="Latest release in the app store">Updated 2025-03-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-08</span> <span title="Latest release in the app store">Updated 2025-03-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Design and Art Direction by Paul Joel - www.pauljoel.com Flexible stylish watchface featuring date, battery info and weather. You can select between analog or digital main clock. Secondary info…</p>
 </div>
@@ -417,7 +428,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-55d633b089b39e1008000024"><a href="https://apps.repebble.com/55d633b089b39e1008000024">Shadow Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Shadow_Analog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-20</span> <span title="Latest release in the app store">Updated 2016-06-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-08-20</span> <span title="Latest release in the app store">Updated 2016-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">- Simple analog watchface with shadow effect.</p>
 </div>
@@ -428,7 +439,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-552f1bbfc34162f94500007d"><a href="https://apps.repebble.com/552f1bbfc34162f94500007d">TV Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Tv-Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-16</span> <span title="Latest release in the app store">Updated 2016-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-16</span> <span title="Latest release in the app store">Updated 2016-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">- Date, time, day of the week in cartoon TV format - Grid indicates battery level (uses EffectLayer library from https://github.com/ygalanter/EffectLayer)</p>
 </div>
@@ -450,7 +461,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-5521f7d1f99b2a0003000095"><a href="https://apps.repebble.com/5521f7d1f99b2a0003000095">Duke</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/duke" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-06</span> <span title="Latest release in the app store">Updated 2016-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-06</span> <span title="Latest release in the app store">Updated 2016-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A basic watchface demoing EffectLayer (https://github.com/ygalanter/EffectLayer) It doesn&#x27;t use bitmaps, just a normal text rotated 90°</p>
 </div>
@@ -461,7 +472,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-54ac997c32203e8f5c000016"><a href="https://apps.repebble.com/54ac997c32203e8f5c000016">Diginalog</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/diginalog_watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-07</span> <span title="Latest release in the app store">Updated 2015-10-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-01-07</span> <span title="Latest release in the app store">Updated 2015-10-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Combination digital and analog watchface. Minute and hour hands bear minute and hour digital values respectfully. Number in the middle is day of the month. Also featuring: Day of the week, month…</p>
 </div>
@@ -472,7 +483,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-5477d51f67c622aab70000ee"><a href="https://apps.repebble.com/5477d51f67c622aab70000ee">3D Wedge</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/3D_Wedge" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-28</span> <span title="Latest release in the app store">Updated 2015-10-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-11-28</span> <span title="Latest release in the app store">Updated 2015-10-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">- Large time in 3D Wedge effect - AM/PM indicator (for 12h mode) - Date, day of the week - Battery percentage - Bluetooth disconnect notification</p>
 </div>
@@ -483,7 +494,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comfortably-numb_52
 <h2 class="app-name" id="app-55ce53e8fb84fb752300004f"><a href="https://apps.repebble.com/55ce53e8fb84fb752300004f">Ticking Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/Ticking_Analog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-14</span> <span title="Latest release in the app store">Updated 2015-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-08-14</span> <span title="Latest release in the app store">Updated 2015-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">At first glance this looks like classic stock analog face. But bring it to your ear and listen carefully... DISCLAMER 1: 99% code for this watchface is original Katharine Berry&#x27;s &quot;Simple Analog&quot;…</p>
 </div>

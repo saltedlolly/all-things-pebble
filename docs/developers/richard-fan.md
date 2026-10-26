@@ -13,7 +13,7 @@ hide:
 
 # Richard Fan
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richard-fan_551014fb46cb798a100000d1) · [GitHub (richardfan1126)](https://github.com/richardfan1126)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richard-fan_551014f
 <h2 class="app-name" id="app-576e766d6c21042b7b00004f"><a href="https://apps.repebble.com/576e766d6c21042b7b00004f">KMB Estimate Arrival Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/richardfan1126/pebble-kmb-eta" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble app for getting KMB bus arrival time</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # DuMe
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dume_5f16df93c8534300ec276ef4) · [GitHub (smndhm)](https://github.com/smndhm) · [Website (simon.duhem.fr)](https://simon.duhem.fr)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dume_5f16df93c85343
 <h2 class="app-name" id="app-6a2a58c32a809d000935dd97"><a href="https://apps.repebble.com/6a2a58c32a809d000935dd97">Claude Fails</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/smndhm/pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1043" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-11</span> <span title="Latest release in the app store">Updated 2026-06-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-11</span> <span title="Latest release in the app store">Updated 2026-06-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watchface born as a failed iteration on the road to &quot;World Cup 2026&quot;. While building &quot;World Cup 2026&quot; — a watchface using a custom typeface inspired by the World Cup 2026 typography — an…</p>
 </div>

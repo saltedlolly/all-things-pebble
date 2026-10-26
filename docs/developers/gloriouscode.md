@@ -13,7 +13,7 @@ hide:
 
 # gloriousCode
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gloriouscode_11cfd2107e16a7ad902f758c) · [GitHub (gloriousCode)](https://github.com/gloriousCode)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gloriouscode_11cfd2
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="trioway" data-released="2026-04-13" data-updated="2026-10-23">
+<a class="app-shot" href="https://apps.repebble.com/082418be8cd642a9b06da3ac" data-search-exclude><img src="../images/apps/082418be8cd642a9b06da3ac.png" alt="TrioWay" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-082418be8cd642a9b06da3ac"><a href="https://apps.repebble.com/082418be8cd642a9b06da3ac">TrioWay</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.3</span></h2>
+<a class="app-source" href="https://github.com/gloriousCode/trio-way-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">TrioWay is a watchface for Pebble Time 2 that blends clean geometry with practical time layouts. Features: - Analogue, Digital Small, and Digital Large modes - Three dynamic background sectors…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="wordish" data-released="2026-06-12" data-updated="2026-10-19">
 <a class="app-shot" href="https://apps.repebble.com/a77242a455c04f94a667dbdf" data-search-exclude><img src="../images/apps/a77242a455c04f94a667dbdf.png" alt="Wordish" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +46,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gloriouscode_11cfd2
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-12</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Time in words. Exact when you need it. Wordish gives the classic Pebble word clock crisp text and colourful personalisation. Previously called Fuzzy Text Two. - Read relaxed time at a glance, with…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="trioway" data-released="2026-04-13" data-updated="2026-10-19">
-<a class="app-shot" href="https://apps.repebble.com/082418be8cd642a9b06da3ac" data-search-exclude><img src="../images/apps/082418be8cd642a9b06da3ac.png" alt="TrioWay" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-082418be8cd642a9b06da3ac"><a href="https://apps.repebble.com/082418be8cd642a9b06da3ac">TrioWay</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.2</span></h2>
-<a class="app-source" href="https://github.com/gloriousCode/trio-way-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">TrioWay is a watchface for Pebble Time 2 that blends clean geometry with practical time layouts. Features: - Analogue, Digital Small, and Digital Large modes - Three dynamic background sectors…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="pebbleeye" data-released="2026-07-06" data-updated="2026-10-19">

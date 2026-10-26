@@ -13,7 +13,7 @@ hide:
 
 # Sebastian Rabuini
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sebastian-rabuini_536ddb4a0937ded6af00006d) · [GitHub (srabuini)](https://github.com/srabuini) · [Website (wasabitlabs.com)](http://wasabitlabs.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sebastian-rabuini_5
 <h2 class="app-name" id="app-540018687765c3b4ee000090"><a href="https://apps.repebble.com/540018687765c3b4ee000090">BTC Simple</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/srabuini/btc-simple" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-29</span> <span title="Latest release in the app store">Updated 2017-01-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-08-29</span> <span title="Latest release in the app store">Updated 2017-01-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Just the hour, the day (name and number) and the Bitcoin price. You can choose between several price providers. At the moment they are: Bitstamp, BTCe, BitcoinAverage, Coindesk, Bitfnex and OKCoin.</p>
 </div>

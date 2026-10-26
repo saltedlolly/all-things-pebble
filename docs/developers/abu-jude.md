@@ -13,7 +13,7 @@ hide:
 
 # Abu-Jude
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/abu-jude_54e1c6370ed85b0031000059) · [GitHub (kaaspad)](https://github.com/kaaspad)
 

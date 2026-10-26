@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · **G** · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*48 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*48 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -61,7 +61,7 @@ hide:
 <h2 class="app-name" id="app-58b20b3e0dfc320dc600090e"><a href="https://apps.rebble.io/en_US/application/58b20b3e0dfc320dc600090e">GameClock (American Football)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/wiesel81/pebble-gameclock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/michael-krenn.html" title="More from this developer">Michael Krenn</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-25</span> <span title="Latest release in the app store">Updated 2017-03-07</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-02-25</span> <span title="Latest release in the app store">Updated 2017-03-07</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Gameclock for American Football officials working as on-field timekeeper based on the NCAA Rules 2016. With this watchapp it is possible to operate the gameclock on the field without taking a look…</p>
 </div>
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-54f65e8a13cdff61490000b6"><a href="https://apps.repebble.com/54f65e8a13cdff61490000b6">Games for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v6.2</span></h2>
 <a class="app-source" href="https://github.com/runnersaw/pebble-games" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sawyer-vaughan.html" title="More from this developer">Sawyer Vaughan</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-04</span> <span title="Latest release in the app store">Updated 2016-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-04</span> <span title="Latest release in the app store">Updated 2016-10-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The best games app for Pebble! A collection of addicting games to waste a few minutes whenever you need to.</p>
 </div>
@@ -193,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-52cae46a6126ce093f000064"><a href="https://apps.repebble.com/52cae46a6126ce093f000064">Get Back - directions to a set location</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-getback" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/samuel.html" title="More from this developer">Samuel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-06</span> <span title="Latest release in the app store">Updated 2015-02-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-06</span> <span title="Latest release in the app store">Updated 2015-02-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app shows you distance and heading to a stored location. Find your way back from the wilderness - or simply find your parked car! You can also measure distances between two locations…</p>
 </div>
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-553329021b2b662f5b000069"><a href="https://apps.repebble.com/553329021b2b662f5b000069">Get Back in Time</a> <span class="app-version" title="Latest version" data-search-exclude>v3.25</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-getbackintime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/samuel.html" title="More from this developer">Samuel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-19</span> <span title="Latest release in the app store">Updated 2016-10-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">ISC</span> <span title="First published in the app store">Released 2015-04-19</span> <span title="Latest release in the app store">Updated 2016-10-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Save your locations to the Pebble Timeline. See where you have been and when. Choose a location you want to return to. Your Pebble will show you the compass heading and distance. You can push…</p>
 </div>
@@ -226,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-53ed0a2367c0df00930000ea"><a href="https://apps.repebble.com/53ed0a2367c0df00930000ea">Get Bus - HSL stops</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-getbus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/samuel.html" title="More from this developer">Samuel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-14</span> <span title="Latest release in the app store">Updated 2016-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-14</span> <span title="Latest release in the app store">Updated 2016-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Näe silmäyksellä lähimmät pysäkit ja seuraavat lähdöt. Lisää pysäkkejä suosikkeihin. Tarkastele pysäkkiaikatauluja. Katso kävelyohjeet pysäkille. English summary Find nearest bus stops and…</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-6f7de6d295fa464aa9bc7ab8"><a href="https://apps.repebble.com/6f7de6d295fa464aa9bc7ab8">getme for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/tylxr59/getme-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tylxr.html" title="More from this developer">tylxr</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Keep your self-hosted getme grocery list on your wrist. getme for Pebble brings a fast, button-first checklist experience to Pebble, backed by your own getme server. Sync your list from your…</p>
 </div>
@@ -259,7 +259,7 @@ hide:
 <h2 class="app-name" id="app-cfb6e6458ce640bf9576c3e1"><a href="https://apps.repebble.com/cfb6e6458ce640bf9576c3e1">Gin Rummy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tc5206/pebble_GIN_RUMMY" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tc5206.html" title="More from this developer">tc5206</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-19</span> <span title="Latest release in the app store">Updated 2026-04-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-19</span> <span title="Latest release in the app store">Updated 2026-04-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Gin Rummy game built with Gemini. Great for a quick break. Some rules may vary from the original. Thanks for understanding.</p>
 </div>
@@ -281,7 +281,7 @@ hide:
 <h2 class="app-name" id="app-553910898ee8449913000005"><a href="https://apps.rebble.io/en_US/application/553910898ee8449913000005">Go Shopping!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/tsybulin/pebble-goshopping" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pavel-tsybulin.html" title="More from this developer">Pavel Tsybulin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-23</span> <span title="Latest release in the app store">Updated 2015-05-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-23</span> <span title="Latest release in the app store">Updated 2015-05-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Companion app, which allows you to display and manage the current grocery list.</p>
 </div>
@@ -358,7 +358,7 @@ hide:
 <h2 class="app-name" id="app-542dacf814cfa3607c0002ad"><a href="https://apps.repebble.com/542dacf814cfa3607c0002ad">GoSquared for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/rmlewisuk/gosquared-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/robb-lewis.html" title="More from this developer">Robb Lewis</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-02</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-10-02</span> <span title="Latest release in the app store">Updated 2025-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">See GoSquared current visitors directly from your Pebble. See current and active visitors as well as 7 day average and highest.</p>
 </div>
@@ -391,7 +391,7 @@ hide:
 <h2 class="app-name" id="app-5468f5f4ecee199897000011"><a href="https://apps.repebble.com/5468f5f4ecee199897000011">Gradient test</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/svitlanatsymbaliuk/Gradient" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/svitlana-tsymbaliuk.html" title="More from this developer">Svitlana Tsymbaliuk</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2014-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2014-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This test app shows how B/W screen can display gradient colors. There is no magic because Pebble screen can be updated up to 60 times in a second.</p>
 </div>
@@ -435,7 +435,7 @@ hide:
 <h2 class="app-name" id="app-554f9adb4e604b9ed3000071"><a href="https://apps.repebble.com/554f9adb4e604b9ed3000071">Greeney&#x27;s Run</a> <span class="app-version" title="Latest version" data-search-exclude>v1.88</span></h2>
 <a class="app-source" href="https://github.com/thomasneff/GreeneysRun" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-neff.html" title="More from this developer">Thomas Neff</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Greeney&#x27;s Run is a procedurally generated endless running game, which is perfect for short amounts of time. Jump and run your way through segments of increasing difficulty and try to survive as…</p>
 </div>

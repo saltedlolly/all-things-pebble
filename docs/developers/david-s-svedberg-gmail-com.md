@@ -13,7 +13,7 @@ hide:
 
 # david.s.svedberg@gmail.com
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/610fffcb1342ae019adb509e/1) · [GitHub (david-s-svedberg)](https://github.com/david-s-svedberg)
 

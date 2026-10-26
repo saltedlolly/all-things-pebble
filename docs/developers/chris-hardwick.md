@@ -13,7 +13,7 @@ hide:
 
 # Chris Hardwick
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-hardwick_1cae56f6fe053d3fd4e9d111) · [GitHub (widemouth31)](https://github.com/widemouth31) · [Website (ko-fi.com)](https://ko-fi.com/chrishardwick17402)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-hardwick_1cae
 <h2 class="app-name" id="app-f790b98190a34e8aac58633c"><a href="https://apps.repebble.com/f790b98190a34e8aac58633c">BasicOpenHab</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/widemouth31/BasicOpenHab2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-13</span> <span title="Latest release in the app store">Updated 2026-06-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple app for toggling OpenHAB items. You can configure your OpenHAB server address and port, along with item display titles and exact item names. Item names must match those defined in your…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-hardwick_1cae
 <h2 class="app-name" id="app-dfa523b956e14f09a8f2d2fb"><a href="https://apps.repebble.com/dfa523b956e14f09a8f2d2fb">AFL Live Scores</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/widemouth31/PebbleAFLLive" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-19</span> <span title="Latest release in the app store">Updated 2026-06-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-19</span> <span title="Latest release in the app store">Updated 2026-06-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple Pebble App to display current Australian Football League scores on your Pebble Watch. Games in Progress or all Current Round Games can be selected via Settings. Configurable Refresh time…</p>
 </div>

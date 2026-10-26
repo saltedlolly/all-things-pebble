@@ -13,7 +13,7 @@ hide:
 
 # Trevor Behlman
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/trevor-behlman_56fb135c085b3d5b5a00000d) · [GitHub (tsbehlman)](https://github.com/tsbehlman)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/trevor-behlman_56fb
 <h2 class="app-name" id="app-574b827db40f05c73e000010"><a href="https://apps.repebble.com/574b827db40f05c73e000010">Condensed</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tsbehlman/Condensed" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-29</span> <span title="Latest release in the app store">Updated 2016-05-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-29</span> <span title="Latest release in the app store">Updated 2016-05-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Condensed is a minimalistic, lightweight, and configurable watch face for the Pebble Time Round which displays battery level and time (12 or 24 hour according to your Pebble&#x27;s settings)…</p>
 </div>

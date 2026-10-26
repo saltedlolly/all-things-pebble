@@ -13,7 +13,7 @@ hide:
 
 # Stanivision Inc.
 
-*1 watchface and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52d4acb6d8d9dfc9e000002a/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/stanivision-inc_52d4acb6d8d9dfc9e000002a) · [GitHub (tertty)](https://github.com/tertty) · [GitHub (TerttyCurlyfries)](https://github.com/TerttyCurlyfries) · [Website (stanivision.com)](https://stanivision.com)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52d4acb6d8d9dfc
 <h2 class="app-name" id="app-637af1dac6c24a000a815ec3"><a href="https://apps.rebble.io/en_US/application/637af1dac6c24a000a815ec3">ROCK! The Vote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/tertty/ROCK-the-Vote-backend" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2025-03-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2025-03-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">ROCK! The Vote is a Pebble application that allows you to voice your opinion, tip the scales, and influence those around you. Each day (12am UTC), users will be able to log into the app and see…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52d4acb6d8d9dfc
 <h2 class="app-name" id="app-67cdcb18d2acb303aedd4a91"><a href="https://apps.rebble.io/en_US/application/67cdcb18d2acb303aedd4a91">Pebball! - Interactive Motion Game Concept</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/tertty/pebball-web" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-09</span> <span title="Latest release in the app store">Updated 2025-03-10</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-09</span> <span title="Latest release in the app store">Updated 2025-03-10</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebball! is a baseball inspired interactive, motion controlled game concept for the Pebble Smartwatch. When paired with the Pebball! Web Server, this Watchapp acts as a controller for an endless…</p>
 </div>

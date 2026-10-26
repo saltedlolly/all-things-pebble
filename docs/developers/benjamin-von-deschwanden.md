@@ -13,7 +13,7 @@ hide:
 
 # Benjamin von Deschwanden
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-von-deschwanden_52f5e053bd48944a170001b2) · [GitHub (vdeschwb)](https://github.com/vdeschwb)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-von-deschw
 <h2 class="app-name" id="app-563e5b2e0023547b7f00006f"><a href="https://apps.repebble.com/563e5b2e0023547b7f00006f">Tick Talk</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/vdeschwb/Tick-Talk" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-07</span> <span title="Latest release in the app store">Updated 2015-11-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-11-07</span> <span title="Latest release in the app store">Updated 2015-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This application for the Pebble smartwatch allows you to prepare perfectly for precisely timed presentations. The application lets you record and play back timing intervals for each slide of your…</p>
 </div>

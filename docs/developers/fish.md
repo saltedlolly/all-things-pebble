@@ -13,7 +13,7 @@ hide:
 
 # fish
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fish_682b987ec15d300009637d7d) · [GitHub (sockeye-d)](https://github.com/sockeye-d) · [Website (fishies.dev)](https://fishies.dev/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fish_682b987ec15d30
 <h2 class="app-name" id="app-6951f2e5828bd90009267488"><a href="https://apps.repebble.com/6951f2e5828bd90009267488">Lexiclock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/sockeye-d/pebble-lexiclock/tree/main" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/380" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-29</span> <span title="Latest release in the app store">Updated 2026-01-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-29</span> <span title="Latest release in the app store">Updated 2026-01-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A word clock for Basalt and Emery</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fish_682b987ec15d30
 <h2 class="app-name" id="app-693d5087c098f80009210c96"><a href="https://apps.repebble.com/693d5087c098f80009210c96">Breuer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/sockeye-d/pebble-breuer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/244" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-13</span> <span title="Latest release in the app store">Updated 2025-12-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-13</span> <span title="Latest release in the app store">Updated 2025-12-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by Nothing OS 4.0&#x27;s new lock screen clock face, named because it looks like Marcel Breuer&#x27;s chairs (from MotherWit on the Rebble Discord)</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fish_682b987ec15d30
 <h2 class="app-name" id="app-6834f92e6eeb590009984aa3"><a href="https://apps.repebble.com/6834f92e6eeb590009984aa3">Bezier</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/sockeye-d/pebble-bezier" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-05-26</span> <span title="Latest release in the app store">Updated 2025-05-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-05-26</span> <span title="Latest release in the app store">Updated 2025-05-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">it draw the hand bezierly</p>
 </div>

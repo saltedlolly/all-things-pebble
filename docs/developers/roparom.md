@@ -13,7 +13,7 @@ hide:
 
 # roparom
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/roparom_52f00877a0cb6ab1eb000016) · [GitHub (streeabarra)](https://github.com/streeabarra)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/roparom_52f00877a0c
 <h2 class="app-name" id="app-5646877e96773d620400001c"><a href="https://apps.repebble.com/5646877e96773d620400001c">Gallifrey Round</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/streeabarra/gallifreyan-watch-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-14</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-14</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Tell the time like a Time Lord with this Doctor Who themed watch-face for all Pebbles. For the rest of us humans, here&#x27;s how to tell the time: Four digits are displayed in fixed positions on the…</p>
 </div>

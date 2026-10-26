@@ -13,7 +13,7 @@ hide:
 
 # Stuart P. Bentley
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stuart-p-bentley_58508f51ce45dc5d1d000025) · [GitHub (stuartpb)](https://github.com/stuartpb)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stuart-p-bentley_58
 <h2 class="app-name" id="app-58915f4895ce5bfaf80007d0"><a href="https://apps.repebble.com/58915f4895ce5bfaf80007d0">Rainpower</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/stuartpb/rainpower-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-01</span> <span title="Latest release in the app store">Updated 2017-02-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-02-01</span> <span title="Latest release in the app store">Updated 2017-02-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This is a simple watchface that includes watch battery level, phone battery level (if your phone&#x27;s browser JavaScript run environment exposes it), a single-digit hour when in 12-hour mode (X, E…</p>
 </div>

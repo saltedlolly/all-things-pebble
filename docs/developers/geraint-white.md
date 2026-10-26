@@ -13,7 +13,7 @@ hide:
 
 # Geraint White
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/geraint-white_549bf174054472596700023a) · [GitHub (grit96)](https://github.com/grit96)
 

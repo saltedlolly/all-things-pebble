@@ -13,7 +13,7 @@ hide:
 
 # Daktak
 
-*5 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b2d900006c/1) · [GitHub (daktak)](https://github.com/daktak) · [GitLab (daktak)](https://gitlab.com/daktak)
 

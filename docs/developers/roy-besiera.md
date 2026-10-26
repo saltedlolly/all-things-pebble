@@ -13,7 +13,7 @@ hide:
 
 # Roy Besiera
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/roy-besiera_567985321606191a91000027) · [GitHub (hyp3rs0nik)](https://github.com/hyp3rs0nik)
 

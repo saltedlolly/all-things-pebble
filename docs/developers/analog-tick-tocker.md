@@ -13,7 +13,7 @@ hide:
 
 # Analog Tick-Tocker
 
-*4 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_eb6b6dc4dbd64c7c7ea32a94) · [GitHub (meded90)](https://github.com/meded90) · [Website (instagram.com)](https://www.instagram.com/tekilla_art)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/analog-tick-tocker_
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>4</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>6</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>5</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="crimson cat" data-released="2026-10-22" data-updated="2026-10-22">
+<a class="app-shot" href="https://apps.repebble.com/0a4872161674455999b05d22" data-search-exclude><img src="../images/apps/0a4872161674455999b05d22.png" alt="Crimson Cat" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-0a4872161674455999b05d22"><a href="https://apps.repebble.com/0a4872161674455999b05d22">Crimson Cat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/meded90/pebble-time-2-pixel-faces" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A little wild. Always on time. Crimson Cat brings a bold illustrated character and a black cat to your Pebble Time 2. Red and yellow hand-drawn digits complete the scene, with hours stacked above…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="mosaic grid" data-released="2026-07-30" data-updated="2026-09-09">
 <a class="app-shot" href="https://apps.repebble.com/d2ccde5d2187490085b44f8e" data-search-exclude><img src="../images/apps/d2ccde5d2187490085b44f8e.png" alt="Mosaic Grid" loading="lazy"></a>
 <div class="app-info">

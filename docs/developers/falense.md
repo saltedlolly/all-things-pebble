@@ -13,7 +13,7 @@ hide:
 
 # Falense
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a86112c21671500096d4694/1) · [GitHub (falense)](https://github.com/falense)
 

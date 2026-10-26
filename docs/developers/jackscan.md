@@ -13,7 +13,7 @@ hide:
 
 # JacksCan
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jackscan_5517e96941e7e0ceff000097) · [GitHub (jackscan)](https://github.com/jackscan)
 

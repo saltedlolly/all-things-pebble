@@ -13,7 +13,7 @@ hide:
 
 # JohnnyWorks
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/johnnyworks_54a1f48e1bb58073c3000172) · [GitHub (j796160836)](https://github.com/j796160836) · [Website (j796160836.pixnet.net)](http://j796160836.pixnet.net/)
 

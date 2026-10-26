@@ -13,7 +13,7 @@ hide:
 
 # Wackymonkey
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wackymonkey_549c8b91dc93032b8b000896) · [GitHub (wackymonkey2)](https://github.com/wackymonkey2)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wackymonkey_549c8b9
 <h2 class="app-name" id="app-570d5a9db4a063fc4900002e"><a href="https://apps.repebble.com/570d5a9db4a063fc4900002e">Sierpinski&#x27;s Triangle Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/wackymonkey2/Sierpinski-s-Triangle-Watchface.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-12</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-12</span> <span title="Latest release in the app store">Updated 2016-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a basic watch face with date. It has a picture of a Sierpinski&#x27;s Triangle in the middle.</p>
 </div>

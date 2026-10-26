@@ -13,7 +13,7 @@ hide:
 
 # David Wang
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-wang_541248e2715369243200000c) · [GitHub (david0932)](https://github.com/david0932) · [Website (david0932.blogspot.tw)](http://david0932.blogspot.tw/2014/09/the-first-pebble-watch-program.html)
 

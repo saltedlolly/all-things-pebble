@@ -13,7 +13,7 @@ hide:
 
 # Tory Gaurnier
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tory-gaurnier_52b8d10bfd4763023e000018) · [GitHub (tgaurnier)](https://github.com/tgaurnier)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tory-gaurnier_52b8d
 <h2 class="app-name" id="app-52ba053d7a3fe9f7ae000007"><a href="https://apps.repebble.com/52ba053d7a3fe9f7ae000007">Weather Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.7</span></h2>
 <a class="app-source" href="https://github.com/tgaurnier/WeatherFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-24</span> <span title="Latest release in the app store">Updated 2013-12-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-24</span> <span title="Latest release in the app store">Updated 2013-12-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple weather watch face, shows location and weather. Uses Open Weather Map for data. Built with SDK 2.0, and is configurable via Android or iOS Pebble app.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tory-gaurnier_52b8d
 <h2 class="app-name" id="app-52b9f8dcb570e5507e000002"><a href="https://apps.repebble.com/52b9f8dcb570e5507e000002">Bit Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/tgaurnier/BitFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-24</span> <span title="Latest release in the app store">Updated 2013-12-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">LGPL-3.0</span> <span title="First published in the app store">Released 2013-12-24</span> <span title="Latest release in the app store">Updated 2013-12-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A binary watch face with date, inspired by Bikron, and modeled on Just A Bit, made with SDK 2.0. Uses Ubuntu bold font for date. When in 24 Hour mode there will be 2 bits in the first hour…</p>
 </div>

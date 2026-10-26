@@ -13,7 +13,7 @@ hide:
 
 # Joey Tuong
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joey-tuong_558210aa389bccce8500003b) · [GitHub (tetrapus)](https://github.com/tetrapus)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joey-tuong_558210aa
 <h2 class="app-name" id="app-5796959aa40d829e7b00001e"><a href="https://apps.repebble.com/5796959aa40d829e7b00001e">PokeWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/tetrapus/PoGoPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-25</span> <span title="Latest release in the app store">Updated 2016-08-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-25</span> <span title="Latest release in the app store">Updated 2016-08-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Hunt nearby Pokemon and show off your team colours! Check out the settings page to set your team and customise alerts. PokeWatch will vibrate when a new pokemon appears and show nearby pokemon…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joey-tuong_558210aa
 <h2 class="app-name" id="app-5798e5b11482cdda2b0000c8"><a href="https://apps.repebble.com/5798e5b11482cdda2b0000c8">PokeHunt</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/tetrapus/PoGoPebble/tree/watchapp" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-27</span> <span title="Latest release in the app store">Updated 2016-08-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-27</span> <span title="Latest release in the app store">Updated 2016-08-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Hunt down nearby Pokemon! See directions to Pokemon around you, get notified when new ones pop up, and represent your team! Check out the settings page to customise your team and change your…</p>
 </div>

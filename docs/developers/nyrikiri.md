@@ -13,7 +13,7 @@ hide:
 
 # nyrikiri
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nyrikiri_63121c3a5e45c40008d0bc52) · [GitHub (wirelune)](https://github.com/wirelune) · [Website (derpibooru.org)](https://derpibooru.org/profiles/nyrikiri)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nyrikiri_63121c3a5e
 <h2 class="app-name" id="app-64ebc715c8c40c03a8180991"><a href="https://apps.repebble.com/64ebc715c8c40c03a8180991">Fallout:Equestria PipBuck</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/wirelune/PipBuck" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-08-27</span> <span title="Latest release in the app store">Updated 2023-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2023-08-27</span> <span title="Latest release in the app store">Updated 2023-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">For all FoE fans, a PipBuck watchface! It displays current time, battery charge, date and connection status. It also features Littlepip, main character of Fallout:Equestria fiction. Her health…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nyrikiri_63121c3a5e
 <h2 class="app-name" id="app-64d4fbb3118fcc0569f570ef"><a href="https://apps.repebble.com/64d4fbb3118fcc0569f570ef">Lunatic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/wirelune/Lunatic" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-08-10</span> <span title="Latest release in the app store">Updated 2023-08-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2023-08-10</span> <span title="Latest release in the app store">Updated 2023-08-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">!!!Highly Experimental! Expect fast battery drain and instability!!! A watchface for Pebble Time featuring Princess Luna, a character from My Little Pony: Friendship is magic. She rests at morning…</p>
 </div>

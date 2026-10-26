@@ -13,7 +13,7 @@ hide:
 
 # Diego Asef
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/diego-asef_55ae58867a116fef0a0000af) · [GitHub (diegoasef)](https://github.com/diegoasef)
 

@@ -13,7 +13,7 @@ hide:
 
 # Pedro
 
-*2 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pedro_535907fa2acb26c7e50001b1) · [GitHub (pjexposito)](https://github.com/pjexposito)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pedro_535907fa2acb2
 <h2 class="app-name" id="app-54033440377c7ea48500005c"><a href="https://apps.repebble.com/54033440377c7ea48500005c">Bus Elche</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/pjexposito/buselche" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-31</span> <span title="Latest release in the app store">Updated 2016-03-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-31</span> <span title="Latest release in the app store">Updated 2016-03-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Programa para conocer el tiempo que tardan en llegar a las paradas los autobuses de Elche. Permite guardar paradas favoritas manteniendo el botón de selección pulsado durante más de 3 segundos…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pedro_535907fa2acb2
 <h2 class="app-name" id="app-54bb83cb4de463ab52000014"><a href="https://apps.repebble.com/54bb83cb4de463ab52000014">ECI Toolbox</a> <span class="app-version" title="Latest version" data-search-exclude>v1.42</span></h2>
 <a class="app-source" href="https://github.com/pjexposito/ECIToolbox" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2016-01-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2016-01-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Versión en color.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pedro_535907fa2acb2
 <h2 class="app-name" id="app-53f52c9e5586fb3a4d00002f"><a href="https://apps.repebble.com/53f52c9e5586fb3a4d00002f">DB 31 (español)</a> <span class="app-version" title="Latest version" data-search-exclude>v1</span></h2>
 <a class="app-source" href="https://github.com/pjexposito/DB31-original" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-20</span> <span title="Latest release in the app store">Updated 2014-08-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-20</span> <span title="Latest release in the app store">Updated 2014-08-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Versión desactualizada. Se recomienda usar la versión DB 31 normal. Esta versión no tiene soporte y ha perdido funcionalidad. Esta nueva versión permite cambiar el idioma y varias cosas más. Por…</p>
 </div>

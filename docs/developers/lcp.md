@@ -13,7 +13,7 @@ hide:
 
 # LCP
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/60871ca15a17be0054ba8699/1) · [GitHub (hellcp)](https://github.com/hellcp) · [Website (lcp.world)](https://lcp.world)
 

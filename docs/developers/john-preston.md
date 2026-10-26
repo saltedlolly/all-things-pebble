@@ -13,7 +13,7 @@ hide:
 
 # John Preston
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-preston_56534f1b28a791aea70000b8) · [GitHub (wcerfgba)](https://github.com/wcerfgba)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-preston_56534f
 <h2 class="app-name" id="app-5663225bfa1c04975d000072"><a href="https://apps.repebble.com/5663225bfa1c04975d000072">HebrewTime</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/wcerfgba/HebrewTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-05</span> <span title="Latest release in the app store">Updated 2015-12-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-05</span> <span title="Latest release in the app store">Updated 2015-12-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A Hebrew hour is defined as 1/12th of the time between sunset and sunrise, or 1/12th of the time between sunrise and sunset. This is a analogue watchface for Pebble smartwatches that shows the…</p>
 </div>

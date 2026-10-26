@@ -13,7 +13,7 @@ hide:
 
 # Yaron Sheffer
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yaron-sheffer_96a692ff40490c816176095f) · [GitHub (yaronf)](https://github.com/yaronf)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yaron-sheffer_96a69
 <h2 class="app-name" id="app-ec357a2a9d6f439e813f5429"><a href="https://apps.repebble.com/ec357a2a9d6f439e813f5429">Step Goals Plus</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/yaronf/Pebble-Step-Goals-Plus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Track daily steps with a live progress fill, streak counting, bonus goals, and mid-goal encouragements — built for Pebble Time, Time Round, and Pebble Time 2 (Emery). Open the app to see today’s…</p>
 </div>

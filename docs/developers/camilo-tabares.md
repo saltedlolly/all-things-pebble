@@ -13,7 +13,7 @@ hide:
 
 # Camilo Tabares
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/camilo-tabares_559cab25b703a62df100009c) · [GitHub (soycamiloypunto)](https://github.com/soycamiloypunto)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/camilo-tabares_559c
 <h2 class="app-name" id="app-56a28232956f0b99f1000050"><a href="https://apps.repebble.com/56a28232956f0b99f1000050">Texto Diario 2016</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/soycamiloypunto/Examinando2016" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-22</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-22</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Muchos quisieramos tener un texto bíblico para meditar en él, durante la escuela o el trabajo. Ahora podrás revisar el Texto del Año, Texto del Día y el comentario de la Atalaya desde tu Pebble…</p>
 </div>

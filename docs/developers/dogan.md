@@ -13,7 +13,7 @@ hide:
 
 # Dogan
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dogan_52f4bfc6f260e6bca50005bd) · [GitHub (wdoganowski)](https://github.com/wdoganowski)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dogan_52f4bfc6f260e
 <h2 class="app-name" id="app-543448c932035c992b000019"><a href="https://apps.repebble.com/543448c932035c992b000019">Weather+</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/wdoganowski/weather-face-plus.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-10-07</span> <span title="Latest release in the app store">Updated 2014-11-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2014-10-07</span> <span title="Latest release in the app store">Updated 2014-11-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Time &amp; weather in one classy watch face. No companion app needed. See the current temperature in °C or °F, sky, as well as the battery level and bluetooth status. Shake for detailed weather info…</p>
 </div>

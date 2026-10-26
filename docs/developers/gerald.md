@@ -13,7 +13,7 @@ hide:
 
 # Gerald
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gerald_55809731da8693a368000073) · [GitHub (qanqan)](https://github.com/qanqan)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gerald_55809731da86
 <h2 class="app-name" id="app-55852578e4660aba35000095"><a href="https://apps.repebble.com/55852578e4660aba35000095">DutchWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/qanqan/DutchWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-20</span> <span title="Latest release in the app store">Updated 2015-09-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-20</span> <span title="Latest release in the app store">Updated 2015-09-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Dit is een Nederlandse implementatie van de text watchface voor Pebble Time. Middels het configuratie scherm kunnen de kleuren van de tekst en achtergrond worden aangepast.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gerald_55809731da86
 <h2 class="app-name" id="app-558f113e1b7152612b0000d0"><a href="https://apps.repebble.com/558f113e1b7152612b0000d0">TileTime</a> <span class="app-version" title="Latest version" data-search-exclude>v2.8</span></h2>
 <a class="app-source" href="https://github.com/qanqan/TileTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-27</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This watchface is based on a design from Pieter Dhaeze. In this version there is a config screen which supports: 1. Multi language support. Dutch, English, Italian, German, French and Spanish. 2…</p>
 </div>

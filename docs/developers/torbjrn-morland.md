@@ -13,7 +13,7 @@ hide:
 
 # Torbjørn Morland
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/torbj-rn-morland_55e9a7d527839ecf17000022) · [GitHub (torb)](https://github.com/torb)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/torbj-rn-morland_55
 <h2 class="app-name" id="app-565f477e716fd9d5f6000097"><a href="https://apps.repebble.com/565f477e716fd9d5f6000097">Beer O&#x27;Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/torb/fluffy-kidney" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-02</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-02</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Tired of your watch telling you what time it is? You now have the power to tell it instead. Beer O&#x27;Clock? Five O&#x27;Clock? Anything is possible. There are also some easter eggs. Try setting it to…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/torbj-rn-morland_55
 <h2 class="app-name" id="app-565770dca6c43e2efe000097"><a href="https://apps.repebble.com/565770dca6c43e2efe000097">Buss i Trondheim</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/torb/didactic-sniffle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-26</span> <span title="Latest release in the app store">Updated 2016-01-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-26</span> <span title="Latest release in the app store">Updated 2016-01-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Bussavganger i sanntid for buss i Trondheim. Viser stoppene nærmest deg, enten til eller fra byen.</p>
 </div>

@@ -13,21 +13,37 @@ hide:
 
 # chidmdxx
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chidmdxx_94b7254609f3a9466db7ef6d) · [GitHub (chidmdxx)](https://github.com/chidmdxx)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="quick reminders" data-released="2026-10-15" data-updated="2026-10-19">
+<div class="app-card" data-type="watchface" data-title="roto360 reimaged" data-released="2026-10-20" data-updated="2026-10-24">
+<a class="app-shot" href="https://apps.repebble.com/4f0a548f1808468f8e1051d9" data-search-exclude><img src="../images/apps/4f0a548f1808468f8e1051d9.png" alt="Roto360 reimaged" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4f0a548f1808468f8e1051d9"><a href="https://apps.repebble.com/4f0a548f1808468f8e1051d9">Roto360 reimaged</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
+<a class="app-source" href="https://github.com/chidmdxx/Pebble-Roto360ReImaged" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-20</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
+<p class="app-desc">Independent remake inspired by Roto360 by MicroByte, love the original, but the scaling on the Round 2 didn&#x27;t make it look good. Step ring is calculated on the 11π/6 arc</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="quick reminders" data-released="2026-10-15" data-updated="2026-10-24">
 <a class="app-shot" href="https://apps.repebble.com/d39cf7318c2543eb85482e58" data-search-exclude><img src="../images/apps/d39cf7318c2543eb85482e58.png" alt="Quick Reminders" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d39cf7318c2543eb85482e58"><a href="https://apps.repebble.com/d39cf7318c2543eb85482e58">Quick Reminders</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.2</span></h2>
+<h2 class="app-name" id="app-d39cf7318c2543eb85482e58"><a href="https://apps.repebble.com/d39cf7318c2543eb85482e58">Quick Reminders</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/chidmdxx/Pebble-QuickReminders" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-15</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-15</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A quick Timeline reminder app with a simple dictation-based design, using Pebble’s voice-to-text. It keeps your reminders in the Timeline, with no separate reminder service. If you leave out the…</p>
 </div>

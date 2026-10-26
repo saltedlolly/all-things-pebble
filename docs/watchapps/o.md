@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · **O** · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*38 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*38 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-553d8acde95db472f8000021"><a href="https://apps.repebble.com/553d8acde95db472f8000021">OctoControl - Control your 3D printer with your watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/quillford/OctoControl-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/quillford.html" title="More from this developer">quillford</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-27</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-04-27</span> <span title="Latest release in the app store">Updated 2015-04-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">OctoControl allows you to use your watch to control your 3D printer. You can do things such as jogging, homing, controlling fans, and turning the motors off. Note: This requires that you have…</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-58392d9900355abe6600058b"><a href="https://apps.rebble.io/en_US/application/58392d9900355abe6600058b">Octowatch2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/schlotzz/octowatch2/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/schlotzz.html" title="More from this developer">schlotzz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-26</span> <span title="Latest release in the app store">Updated 2016-12-09</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2016-11-26</span> <span title="Latest release in the app store">Updated 2016-12-09</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Use your Pebble watch to monitor and control 3D printers that use the excellent Octoprint host software. Octowatch2 is heavily inspired by Octowatch, but completely rewritten from scratch to…</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-47c033c2212447868f69335f"><a href="https://apps.repebble.com/47c033c2212447868f69335f">Omnitrix</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.2</span></h2>
 <a class="app-source" href="https://github.com/predatorx7/pebble-omnitrix" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mushaheed-syed.html" title="More from this developer">Mushaheed Syed</a> · <a href="https://forum.rebble.io/t/1147" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Just a simple copy of Ben 10&#x27;s omnitrix with functions you can play with</p>
 </div>
@@ -248,7 +248,7 @@ hide:
 <h2 class="app-name" id="app-5712b0e918b16185ee000020"><a href="https://apps.repebble.com/5712b0e918b16185ee000020">Open Bike Sharing</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/thomacer/pebble-villo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-perale.html" title="More from this developer">Thomas Perale</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-16</span> <span title="Latest release in the app store">Updated 2016-08-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-04-16</span> <span title="Latest release in the app store">Updated 2016-08-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Use your local bike sharing system with Open Bike Sharing to find the closest station according to your position. Open Bike Sharing use an easy to use design to look after stations in a glance…</p>
 </div>

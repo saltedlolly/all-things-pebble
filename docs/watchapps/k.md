@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*32 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*32 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,20 +17,20 @@ hide:
 <h2 class="app-name" id="app-1e6c5bbde96f4e6ca3497194"><a href="https://apps.repebble.com/1e6c5bbde96f4e6ca3497194">Kablooey!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/unwiredben/kablooey-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ben-combee-unwiredben.html" title="More from this developer">Ben Combee (@unwiredben)</a> · <a href="https://forum.rebble.io/t/1368" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Scarry Kablam is at it again, and you and your bucket brigade are what stands in the way of devastation. Use your touch-enabled Pebble Time 2 to catch the bombs before they hit the bottom of the…</p>
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.rebble.io/en_US/application/692b3f0549be450009b545ce" data-search-exclude><img src="../images/apps/692b3f0549be450009b545ce.png" alt="Kagi News" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/692b3f0549be450009b545ce" data-search-exclude><img src="../images/apps/692b3f0549be450009b545ce.png" alt="Kagi News" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-692b3f0549be450009b545ce"><a href="https://apps.rebble.io/en_US/application/692b3f0549be450009b545ce">Kagi News</a> <span class="app-version" title="Latest version" data-search-exclude>v1.27.2</span></h2>
+<h2 class="app-name" id="app-692b3f0549be450009b545ce"><a href="https://apps.repebble.com/692b3f0549be450009b545ce">Kagi News</a> <span class="app-version" title="Latest version" data-search-exclude>v1.27.2</span></h2>
 <a class="app-source" href="https://github.com/CometDog/pebble-kite" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/james-downs.html" title="More from this developer">James Downs</a> · <a href="https://forum.rebble.io/t/85" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2025-11-29</span> <span title="Latest release in the app store">Updated 2026-06-18</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2025-11-29</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Unofficial front-end for Kagi News. About the App: !NEW! Now supports touch-based navigation on Pebble Time 2 and Pebble Round 2. Scroll up and down on menus and stories. Scroll left and right to…</p>
+<p class="app-desc">App Name: Kagi News — Category: Daily — Description: About the App: Unofficial Pebble front end for Kagi News. Daily press review from Kagi News with support for all features practical on the…</p>
 </div>
 </div>
 <div class="app-card">
@@ -69,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f63e6ed24301414a95909564" data-search-exclude><img src="../images/apps/f63e6ed24301414a95909564.png" alt="KasugaBus" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f63e6ed24301414a95909564"><a href="https://apps.repebble.com/f63e6ed24301414a95909564">KasugaBus</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.2</span></h2>
+<h2 class="app-name" id="app-f63e6ed24301414a95909564"><a href="https://apps.repebble.com/f63e6ed24301414a95909564">KasugaBus</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/kasugabus-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/edward.html" title="More from this developer">Edward</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-01</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Local buses for Minami-kasugaoka, Ibaraki, Osaka, Japan. KasugaBus shows the next scheduled Kintetsu and Hankyu buses at eight stops around Minami-kasugaoka: Kasugaoka Koen, Toge, Midorigaoka…</p>
 </div>
@@ -105,7 +105,7 @@ hide:
 <h2 class="app-name" id="app-53668fce14acdba301000218"><a href="https://apps.repebble.com/53668fce14acdba301000218">Keep Score</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/randomite/Pebble/tree/master/KeepScore" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ravin.html" title="More from this developer">Ravin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-04</span> <span title="Latest release in the app store">Updated 2014-05-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-05-04</span> <span title="Latest release in the app store">Updated 2014-05-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple app to keep the score, whether you&#x27;re playing golf with a buddy, ping-pong with some friends, or watching your daughter&#x27;s soccer tournament, &quot;Keep Score&quot; will keep the score for you, so…</p>
 </div>
@@ -171,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-540dc1d840aa75a29700018b"><a href="https://apps.repebble.com/540dc1d840aa75a29700018b">Kicker App</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/stephanpavlovic/pebble-kicker-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/railslove.html" title="More from this developer">Railslove</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-08</span> <span title="Latest release in the app store">Updated 2015-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-09-08</span> <span title="Latest release in the app store">Updated 2015-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">All your foosball matches on your wrist. Create your own league at http://kicker.cool</p>
 </div>
@@ -193,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-6a10bbd87d641e0009ce6a58"><a href="https://apps.repebble.com/6a10bbd87d641e0009ce6a58">kijete</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.0</span></h2>
 <a class="app-source" href="https://github.com/yellowsink/kijete/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/hazel-atkinson.html" title="More from this developer">Hazel Atkinson</a> · <a href="https://forum.rebble.io/t/993" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">kijete is an app for Pebble that allows you to display Code 128, Aztec, Data Matrix, PDF417, and QR codes on your wrist. It is a fork of Skunk by Harley Watson, and is so named because in toki…</p>
 </div>
@@ -226,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-a363f7be311a4480831ab357"><a href="https://apps.repebble.com/a363f7be311a4480831ab357">Klipper Monitor</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://github.com/willbsp/klipper-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/willbsp.html" title="More from this developer">willbsp</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-05-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Monitor your Klipper 3D printer</p>
 </div>
@@ -237,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-576e766d6c21042b7b00004f"><a href="https://apps.repebble.com/576e766d6c21042b7b00004f">KMB Estimate Arrival Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/richardfan1126/pebble-kmb-eta" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/richard-fan.html" title="More from this developer">Richard Fan</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble app for getting KMB bus arrival time</p>
 </div>
@@ -270,7 +270,7 @@ hide:
 <h2 class="app-name" id="app-53439874b32bb7bda9000070"><a href="https://apps.repebble.com/53439874b32bb7bda9000070">Knock Knock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pouves/Knock-Knock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pebbliz-technologies.html" title="More from this developer">PebbLiz Technologies</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-08</span> <span title="Latest release in the app store">Updated 2014-05-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-08</span> <span title="Latest release in the app store">Updated 2014-05-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Knock-knock jokes! (version 2.0...double the jokes!) Make a knocking motion with your hand to generate a joke...push the down button for the punchline! (Jokes are suitable for all ages) Have a…</p>
 </div>
@@ -281,7 +281,7 @@ hide:
 <h2 class="app-name" id="app-560c32454bf0ac0115000095"><a href="https://apps.repebble.com/560c32454bf0ac0115000095">Know everything</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-knoweverything" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/samuel.html" title="More from this developer">Samuel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-30</span> <span title="Latest release in the app store">Updated 2016-05-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-30</span> <span title="Latest release in the app store">Updated 2016-05-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Encyclopedia always at hand. Long press select, speak a term and get the Wikipedia definition to your watch. Get random articles from Wikipedia with a flick of the wrist.</p>
 </div>
@@ -314,7 +314,7 @@ hide:
 <h2 class="app-name" id="app-64177b1e419fd9053e31a7b5"><a href="https://apps.repebble.com/64177b1e419fd9053e31a7b5">Koishi - Japanese Kana Flashcards</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/robinfire110/koishi-japanese-flashcards" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/robinfire110.html" title="More from this developer">robinfire110</a> · <a href="https://forum.rebble.io/t/265" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-03-19</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2023-03-19</span> <span title="Latest release in the app store">Updated 2026-07-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Koishi is a flashcard application that gives you a full set of Japanese Hiragana and Katakana flashcards right on your wrist! Study your kana recognition anytime, anywhere! - Support for all…</p>
 </div>
@@ -336,7 +336,7 @@ hide:
 <h2 class="app-name" id="app-55d44bf939cb5c7ee7000077"><a href="https://apps.repebble.com/55d44bf939cb5c7ee7000077">KRKBIKES</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tenpawelnowak/KRKBIKES-for-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/njet.html" title="More from this developer">njet</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-19</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-19</span> <span title="Latest release in the app store">Updated 2015-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">KRKBIKES displays the nearest city bike station in Cracow, Poland.</p>
 </div>

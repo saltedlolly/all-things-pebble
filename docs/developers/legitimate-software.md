@@ -13,7 +13,7 @@ hide:
 
 # Legitimate Software
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/legitimate-software_22fd972553d16d7f8194f83c) · [GitHub (turtwig)](https://github.com/turtwig) · [Website (legitimate.download)](https://legitimate.download/pebgobrrrr)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/legitimate-software
 <h2 class="app-name" id="app-faa7fc596f704d099f1a9f2e"><a href="https://apps.repebble.com/faa7fc596f704d099f1a9f2e">PebGoBrrrr</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/turtwig/pebgobrrrr/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-06-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-06-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">You know that moment when you&#x27;re half asleep, trying to decide whether you can get away with a little more sleep, but checking the time would wake you up completely? PebGoBrrrr is built for…</p>
 </div>

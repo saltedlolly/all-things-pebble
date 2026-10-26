@@ -13,7 +13,7 @@ hide:
 
 # Tim Martin
 
-*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-martin_552d83aa083523c826000080) · [GitHub (timboe)](https://github.com/timboe)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-martin_552d83aa
 <h2 class="app-name" id="app-56e4693181ff036ba9000020"><a href="https://apps.repebble.com/56e4693181ff036ba9000020">You Cannot Go Back!</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/timboe/YouCannotGoBack" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A fiendish challenge awaits you, an adventure of puzzle solving, memory and skill. Just remember dungeoneer - the only way is onwards; you cannot go back! Version 2 is now out for Time 2, Round 2…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-martin_552d83aa
 <h2 class="app-name" id="app-56acfea45319ec52a600003c"><a href="https://apps.repebble.com/56acfea45319ec52a600003c">Rock Crusher</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/timboe/RockCrush" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Rock Crusher is a match-three game for Pebble where you swap neighbouring rocks to get at least three of the same type in a row. The game ends when you have used all your lives and there are no…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tim-martin_552d83aa
 <h2 class="app-name" id="app-56ed6ab21644b39a7700000f"><a href="https://apps.repebble.com/56ed6ab21644b39a7700000f">Higgs O&#x27;clock</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/timboe/ATLASWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-19</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-19</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Higgs O&#x27;Clock simulates the decay of a new Higgs boson every minute and renders how the Higgs decay would appear in the ATLAS Detector, one of the four experiments on the Large Hadron Collider in…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # vssh
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vssh_54e22b7decca846cee000082) · [GitHub (vssh)](https://github.com/vssh)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vssh_54e22b7decca84
 <h2 class="app-name" id="app-556c1dc2e42ea416be0000aa"><a href="https://apps.repebble.com/556c1dc2e42ea416be0000aa">upTempo BETA</a> <span class="app-version" title="Latest version" data-search-exclude>v0.24</span></h2>
 <a class="app-source" href="https://github.com/vssh/pebble-upTempo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2017-04-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2017-04-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Activity monitor for Pebble watch. This is a beta app. Please test it and leave feedback. Current features: Activity detection: walk, run, sleep and steps taken. Idle alerts: configurable time…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vssh_54e22b7decca84
 <h2 class="app-name" id="app-54f72c27077144f816000055"><a href="https://apps.repebble.com/54f72c27077144f816000055">Anablock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/vssh/pebble-anablock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-04</span> <span title="Latest release in the app store">Updated 2015-03-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-04</span> <span title="Latest release in the app store">Updated 2015-03-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface with weather, date and low battery and disconnect warning. Switches between analog and digital on wrist shake. Codebase from Simplicity and design inspiration from Crowex and Two Lines…</p>
 </div>

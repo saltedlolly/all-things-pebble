@@ -13,7 +13,7 @@ hide:
 
 # Siliconian
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/siliconian_52f150bd8d40be9ccb0001ef) · [GitHub (jflowers1974)](https://github.com/jflowers1974) · [Website (siliconian.com)](http://www.siliconian.com)
 

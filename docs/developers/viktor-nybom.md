@@ -13,7 +13,7 @@ hide:
 
 # Viktor Nybom
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/viktor-nybom_dbb7ffdd75e492e34029e149) · [GitHub (viktorNybom)](https://github.com/viktorNybom)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/viktor-nybom_dbb7ff
 <h2 class="app-name" id="app-08f732a3c6a54684a1f3e3ee"><a href="https://apps.repebble.com/08f732a3c6a54684a1f3e3ee">Party Light</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/viktorNybom/pebble_party_light_c" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Uses the RGB backlight of the Pebble Time 2, so the app only works for the Time 2. Changes backlight color to a new backlight color in the set BPM. Colors are random from: Red, Blue, Green, Cyan…</p>
 </div>

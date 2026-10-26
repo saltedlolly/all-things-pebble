@@ -13,7 +13,7 @@ hide:
 
 # Aymane Taibi
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aymane-taibi_af735e675e10aa7cae34f6da) · [GitHub (nimda95)](https://github.com/nimda95)
 

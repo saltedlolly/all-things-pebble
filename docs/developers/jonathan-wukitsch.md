@@ -13,7 +13,7 @@ hide:
 
 # Jonathan Wukitsch
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jonathan-wukitsch_549df32c112793b38500040b) · [GitHub (insleep)](https://github.com/insleep) · [Website (insleep.tech)](https://insleep.tech/)
 

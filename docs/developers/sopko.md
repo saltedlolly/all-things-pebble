@@ -13,7 +13,7 @@ hide:
 
 # Sopko
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sopko_3c81137d9a285d2e9407ccdb) · [GitHub (sopko)](https://github.com/sopko)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sopko_3c81137d9a285
 <h2 class="app-name" id="app-469cffc8c6e14cdf8f292055"><a href="https://apps.repebble.com/469cffc8c6e14cdf8f292055">Topographic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/sopko/topographic-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Topographic pairs an uncluttered digital clock with flowing contour lines inspired by hillside maps. The landscape naturally frames the time, keeping it easy to read while giving the face a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sopko_3c81137d9a285
 <h2 class="app-name" id="app-8990b26e518841329f7ced41"><a href="https://apps.repebble.com/8990b26e518841329f7ced41">Monstera</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/sopko/monstera-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-17</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-17</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A botanical watchface for the Pebble Time 2, pairing bold pixel numerals with forest-green monstera leaves and a muted gray-ivory background. - Live time using the watch&#x27;s 12/24-hour preference…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Moonbeam
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moonbeam_558e02ede3975e0e10000033) · [GitHub (tbloncar)](https://github.com/tbloncar)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moonbeam_558e02ede3
 <h2 class="app-name" id="app-5596039d49b3c859510000cd"><a href="https://apps.repebble.com/5596039d49b3c859510000cd">SiteStatus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/tbloncar/pebble-sitestatus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-03</span> <span title="Latest release in the app store">Updated 2015-09-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-03</span> <span title="Latest release in the app store">Updated 2015-09-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Monitor the status of your websites from your Pebble device. SiteStatus displays a configurable list of sites, each with a green (up) / red (down) status and HTTP status codes returned from the…</p>
 </div>

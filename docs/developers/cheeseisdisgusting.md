@@ -13,7 +13,7 @@ hide:
 
 # cheeseisdisgusting
 
-*2 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cheeseisdisgusting_55fcc1f028dd98074e000037) · [Rebble App Store](https://apps.rebble.io/en_US/developer/55fcc1f028dd98074e000037/1) · [GitHub (cheeseisdisgusting)](https://github.com/cheeseisdisgusting) · [Website (goo.gl)](https://goo.gl/7JTQ7A)
 

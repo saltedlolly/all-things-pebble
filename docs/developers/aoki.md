@@ -13,7 +13,7 @@ hide:
 
 # aoki
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5666ed0c3415485e90000044/1) · [GitHub (ringohub)](https://github.com/ringohub)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5666ed0c3415485
 <h2 class="app-name" id="app-595a7552b67f9f814d00183a"><a href="https://apps.rebble.io/en_US/application/595a7552b67f9f814d00183a">Snazzy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ringohub/pebble-snazzy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-07-03</span> <span title="Latest release in the app store">Updated 2017-07-03</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-07-03</span> <span title="Latest release in the app store">Updated 2017-07-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Snazzy watch face 👯</p>
 </div>

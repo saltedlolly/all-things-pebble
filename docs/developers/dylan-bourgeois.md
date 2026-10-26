@@ -13,7 +13,7 @@ hide:
 
 # Dylan Bourgeois
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dylan-bourgeois_52c6eba430db18908f000088) · [GitHub (dtsbourg)](https://github.com/dtsbourg)
 

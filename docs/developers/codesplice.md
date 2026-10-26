@@ -13,7 +13,7 @@ hide:
 
 # codesplice
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/codesplice_52f062be3be620c78000173f) · [GitHub (codesplice)](https://github.com/codesplice) · [Website (plus.google.com)](http://plus.google.com/+JohnBowdre)
 

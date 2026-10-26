@@ -13,7 +13,7 @@ hide:
 
 # Greg Medding
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/greg-medding_54ab969275975bf267000077) · [GitHub (gregmedd)](https://github.com/gregmedd)
 

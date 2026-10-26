@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · **J** · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*13 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*14 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -122,6 +122,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/e39691eff9664b8abaf0d597" data-search-exclude><img src="../images/apps/e39691eff9664b8abaf0d597.gif" alt="Jumper" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e39691eff9664b8abaf0d597"><a href="https://apps.repebble.com/e39691eff9664b8abaf0d597">Jumper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ygalanter/Jumper" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/comfortably-numb.html" title="More from this developer">Comfortably Numb</a> · <a href="https://forum.rebble.io/t/1458" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-25</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
+<p class="app-desc">A retro platform climber for your wrist, inspired by the classic Jumping Jack. Gaps slide along five floors above you: time your jump to leap through one, reach the top, and jump again to advance…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55cd00b3197194813b000045" data-search-exclude><img src="../images/apps/55cd00b3197194813b000045.png" alt="JumpRopeCounter" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-55cd00b3197194813b000045"><a href="https://apps.repebble.com/55cd00b3197194813b000045">JumpRopeCounter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -149,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-672b1221aeef4d30897a361c"><a href="https://apps.repebble.com/672b1221aeef4d30897a361c">JW Daily Text</a> <span class="app-version" title="Latest version" data-search-exclude>v2.8.0</span></h2>
 <a class="app-source" href="https://github.com/testarossa47/jw-daily-text" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/testarossa47.html" title="More from this developer">testarossa47</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-20</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Read today&#x27;s Bible text and commentary on your Pebble. Works offline, preselects your watch language, with color UI, smooth day animations and touch scrolling.</p>
 </div>

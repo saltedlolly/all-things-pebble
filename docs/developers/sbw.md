@@ -13,7 +13,7 @@ hide:
 
 # sbw
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sbw_538eab1f58c12c5335000072) · [GitHub (silasbw)](https://github.com/silasbw)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sbw_538eab1f58c12c5
 <h2 class="app-name" id="app-550519808d3907c55200006b"><a href="https://apps.repebble.com/550519808d3907c55200006b">Marine</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/silasbw/pebble_marine" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-15</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-03-15</span> <span title="Latest release in the app store">Updated 2015-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble Marine provides useful instrumentation while sailing, windsurfing, kayaking, paddle boarding, or boating. Your Pebble watch displays speed (knots), bearing (degrees), current speed (knots)…</p>
 </div>

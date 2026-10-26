@@ -13,7 +13,7 @@ hide:
 
 # Spooner
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/spooner_5337603457418e3bd60000d6) · [GitHub (cmspooner)](https://github.com/cmspooner)
 

@@ -13,7 +13,7 @@ hide:
 
 # tardypad
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tardypad_54f499c184bffcea9f000068) · [GitHub (tardypad)](https://github.com/tardypad)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tardypad_54f499c184
 <h2 class="app-name" id="app-568690d8ecd40927fa0000be"><a href="https://apps.repebble.com/568690d8ecd40927fa0000be">Amsterdam</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/tardypad/pebble-watchface-amsterdam" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-01</span> <span title="Latest release in the app store">Updated 2016-09-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-01</span> <span title="Latest release in the app store">Updated 2016-09-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Watchface displaying the flag of Amsterdam at every minute change, with an animation Local settings to display the date as well handle Timeline Quick View</p>
 </div>

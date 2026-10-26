@@ -13,7 +13,7 @@ hide:
 
 # Tyler Ouyang
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/551fa6c651d7438f9200000a/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/tyler-ouyang_551fa6c651d7438f9200000a) · [GitHub (tylerwowen)](https://github.com/tylerwowen) · [Website (tylerwowen.github.io)](http://tylerwowen.github.io/wechatbuddy/)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/551fa6c651d7438
 <h2 class="app-name" id="app-55c712656b4abe9e19000069"><a href="https://apps.rebble.io/en_US/application/55c712656b4abe9e19000069">QRBuddy for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/tylerwowen/wechatbuddy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-09</span> <span title="Latest release in the app store">Updated 2015-10-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-09</span> <span title="Latest release in the app store">Updated 2015-10-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Show your QR code on your wrist in a second. 1. Install iOS app &#x27;QRBuddy for Pebble&#x27; 2. Install Pebble Watchapp &#x27;QRBuddy for Pebble&#x27; 3. Save your QR code to your Photo Library, or you can take a…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/551fa6c651d7438
 <h2 class="app-name" id="app-5530b9f67b5ea6a2380000e1"><a href="https://apps.repebble.com/5530b9f67b5ea6a2380000e1">Earthquake!!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tylerwowen/pebblequake" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-17</span> <span title="Latest release in the app store">Updated 2015-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-17</span> <span title="Latest release in the app store">Updated 2015-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Watchapp that shows the newest earthquake information ranging from N30 to N45, W112 to W130 (California and its surrounding areas). The data is from USGS 1. Shows the newest 6 entries 2. Updates…</p>
 </div>

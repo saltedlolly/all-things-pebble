@@ -13,7 +13,7 @@ hide:
 
 # wowthatisrandom
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wowthatisrandom_52ceff8221e579d6d400007b) · [GitHub (wowthatisrandom)](https://github.com/wowthatisrandom)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wowthatisrandom_52c
 <h2 class="app-name" id="app-52cf043c988ec1b9bb00007f"><a href="https://apps.repebble.com/52cf043c988ec1b9bb00007f">Torch/Flash Light</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/wowthatisrandom/PebbleTorch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-09</span> <span title="Latest release in the app store">Updated 2016-01-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-09</span> <span title="Latest release in the app store">Updated 2016-01-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Basic App that turns on the backlight and makes the screen white, until the back button is pressed. Great if you need a quick light, but dont want to light up the entire room with your phone…</p>
 </div>

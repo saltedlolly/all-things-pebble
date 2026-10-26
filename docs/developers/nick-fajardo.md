@@ -13,7 +13,7 @@ hide:
 
 # Nick Fajardo
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-fajardo_529a3928129af73ae30000c5) · [GitHub (saintnicster)](https://github.com/saintnicster)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-fajardo_529a39
 <h2 class="app-name" id="app-529a56991695234d81000004"><a href="https://apps.repebble.com/529a56991695234d81000004">Dual Scorekeeper</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.3</span></h2>
 <a class="app-source" href="https://github.com/saintnicster/Pebble-Projects/tree/sdk2/dual_scorekeeper" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2013-12-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2013-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Keep track of 2 player&#x27;s scores with this app on your watch. Scores are saved to the watch when switching apps Select button (middle click) to select which counter is being toggled. Hold down…</p>
 </div>

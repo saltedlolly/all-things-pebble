@@ -13,7 +13,7 @@ hide:
 
 # Adam Edmondson
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/adam-edmondson_6862f24053b131000870690a) · [GitHub (AdamEdmondson)](https://github.com/AdamEdmondson)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/adam-edmondson_6862
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="fergus the time cat" data-released="2026-03-03" data-updated="2026-08-01">
+<div class="app-card" data-type="watchface" data-title="fergus the time cat" data-released="2026-03-03" data-updated="2026-10-26">
 <a class="app-shot" href="https://apps.repebble.com/69a625c649ab180008e537ab" data-search-exclude><img src="../images/apps/69a625c649ab180008e537ab.png" alt="Fergus The Time Cat" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69a625c649ab180008e537ab"><a href="https://apps.repebble.com/69a625c649ab180008e537ab">Fergus The Time Cat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
+<h2 class="app-name" id="app-69a625c649ab180008e537ab"><a href="https://apps.repebble.com/69a625c649ab180008e537ab">Fergus The Time Cat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/AdamEdmondson/FergusTheTimeCat" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/733" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-03</span> <span title="Latest release in the app store">Updated 2026-08-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-03</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Fergus The Time Cat need a home on your wrist! He gives you a little digital clock with the date and time along with a battery bar to tell you your battery. He tells you when your watch…</p>
 </div>

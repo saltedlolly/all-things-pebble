@@ -13,7 +13,7 @@ hide:
 
 # Joho Software
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joho-software_fff3f577a126f422d571b0e6) · [GitHub (johosoft0)](https://github.com/johosoft0)
 

@@ -13,7 +13,7 @@ hide:
 
 # Etienne PJ
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/etienne-pj_52e26e53b806fd567500073d) · [GitHub (etiennovski)](https://github.com/etiennovski)
 

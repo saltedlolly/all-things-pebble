@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*51 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*52 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -353,6 +353,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/4fe6074d08c84d7099713016" data-search-exclude><img src="../images/apps/4fe6074d08c84d7099713016.gif" alt="Inset" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4fe6074d08c84d7099713016"><a href="https://apps.repebble.com/4fe6074d08c84d7099713016">Inset</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.1</span></h2>
+<a class="app-source" href="https://github.com/alexanderteinum/pebble-inset" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/alexander-teinum.html" title="More from this developer">Alexander Teinum</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">A minimal Pebble watchface, neatly inset from the edge. Right-aligned time and date with a slim battery indicator. Follows your 12/24-hour setting, with icons for Bluetooth disconnection and Quiet…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54d9664963eb418376000045" data-search-exclude><img src="../images/apps/54d9664963eb418376000045.png" alt="inSquare" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-54d9664963eb418376000045"><a href="https://apps.repebble.com/54d9664963eb418376000045">inSquare</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -424,7 +435,7 @@ hide:
 <h2 class="app-name" id="app-55644a145818e0b381000044"><a href="https://apps.repebble.com/55644a145818e0b381000044">Iridium Flare Forecast</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/winnukem/pebble-iridium" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nikita-komarov.html" title="More from this developer">Nikita Komarov</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-26</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-05-26</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple Iridium flare forecasting watchface, using data from heavens-above.com. Countdown starting 4 to 5 minutes before flare. Vibration alerts. Open source.</p>
 </div>
@@ -468,7 +479,7 @@ hide:
 <h2 class="app-name" id="app-52d63db30af1f59810000001"><a href="https://apps.repebble.com/52d63db30af1f59810000001">Islenskur Texti</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/trudslev/DanskTekst/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sune-trudslev.html" title="More from this developer">Sune Trudslev</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2015-05-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2015-05-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a watchface that uses natural Icelandic language to display the time, using animation to change every minute, highlighting the hour.</p>
 </div>
@@ -512,7 +523,7 @@ hide:
 <h2 class="app-name" id="app-55f9b71775eb49df2e00008c"><a href="https://apps.repebble.com/55f9b71775eb49df2e00008c">IStandWithAhmed</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/sshrestha-navarts/istandwithahmed" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/saurav-shrestha.html" title="More from this developer">Saurav Shrestha</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-16</span> <span title="Latest release in the app store">Updated 2015-09-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-16</span> <span title="Latest release in the app store">Updated 2015-09-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Tick tock</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Mathew Reiss
 
-*3 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f02483af0eab7af50006d3/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/mathew-reiss_52f02483af0eab7af50006d3) · [GitHub (MathewReiss)](https://github.com/MathewReiss) · [GitHub (pebble-dev)](https://github.com/pebble-dev) · [GitHub (rebootsramblings)](https://github.com/rebootsramblings) · [Website (mydogsnowy.com)](http://www.mydogsnowy.com)
 
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f02483af0eab7
 <h2 class="app-name" id="app-557610f686a1e8eecd000082"><a href="https://apps.repebble.com/557610f686a1e8eecd000082">FORM</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/rebootsramblings/GBitmap-Colour-Palette-Manipulator" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-08</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-06-08</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Reddit request - digital watchface in the same style as FORM for Android Wear (by Roman Nurik). All credit for design goes to Roman. If it proves popular, I&#x27;ll work on adding custom colors/themes!…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Nikita Komarov
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nikita-komarov_5470bbbb32fb2d8608000096) · [GitHub (winnukem)](https://github.com/winnukem)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nikita-komarov_5470
 <h2 class="app-name" id="app-55644a145818e0b381000044"><a href="https://apps.repebble.com/55644a145818e0b381000044">Iridium Flare Forecast</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2</span></h2>
 <a class="app-source" href="https://github.com/winnukem/pebble-iridium" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-26</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-05-26</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple Iridium flare forecasting watchface, using data from heavens-above.com. Countdown starting 4 to 5 minutes before flare. Vibration alerts. Open source.</p>
 </div>

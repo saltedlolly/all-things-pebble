@@ -13,7 +13,7 @@ hide:
 
 # Harrison Allen
 
-*18 watchfaces and 4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*18 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harrison-allen_5e28ea923dd3109f151c7e08) · [Rebble App Store](https://apps.rebble.io/en_US/developer/5e28ea923dd3109f151c7e08/1) · [GitHub (HarrisonAllen)](https://github.com/HarrisonAllen)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harrison-allen_5e28
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="pebblemon" data-released="2021-07-12" data-updated="2026-10-23">
+<a class="app-shot" href="https://apps.repebble.com/60ec78db1342ae0152f9a409" data-search-exclude><img src="../images/apps/60ec78db1342ae0152f9a409.gif" alt="Pebblemon" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-60ec78db1342ae0152f9a409"><a href="https://apps.repebble.com/60ec78db1342ae0152f9a409">Pebblemon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
+<a class="app-source" href="https://github.com/HarrisonAllen/pebble-gbc-graphics-demo" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/493" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-07-12</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Pebblemon! A mini Pokemon adventure on your wrist. Explore various areas within the Johto region. Encounter all 251 Pokemon from the Game Boy Color games. Level up and unlock 22 different sprites!…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="witching hour" data-released="2025-10-24" data-updated="2026-10-18">
 <a class="app-shot" href="https://apps.repebble.com/68faf1b725e7530009b78af2" data-search-exclude><img src="../images/apps/68faf1b725e7530009b78af2.gif" alt="Witching Hour" loading="lazy"></a>
 <div class="app-info">
@@ -57,17 +68,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harrison-allen_5e28
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">BombleMan is a Bomberman clone for (most) Pebbles! Face off against 3 CPUs across 3 levels to become the ultimate &quot;Bombler&quot;! To play: * Select to move * Up/Down to turn * Back to place a bomb *…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="pebblemon" data-released="2021-07-12" data-updated="2026-06-18">
-<a class="app-shot" href="https://apps.repebble.com/60ec78db1342ae0152f9a409" data-search-exclude><img src="../images/apps/60ec78db1342ae0152f9a409.gif" alt="Pebblemon" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-60ec78db1342ae0152f9a409"><a href="https://apps.repebble.com/60ec78db1342ae0152f9a409">Pebblemon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.2</span></h2>
-<a class="app-source" href="https://github.com/HarrisonAllen/pebble-gbc-graphics-demo" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App · <a href="https://forum.rebble.io/t/493" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-07-12</span> <span title="Latest release in the app store">Updated 2026-06-18</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Pebblemon! A mini Pokemon adventure on your wrist. Explore various areas within the Johto region. Encounter all 251 Pokemon from the Game Boy Color games. Level up and unlock 22 different sprites!…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="kona wave" data-released="2026-04-04" data-updated="2026-04-04">

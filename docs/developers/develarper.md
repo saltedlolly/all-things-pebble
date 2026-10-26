@@ -13,7 +13,7 @@ hide:
 
 # DEVELARPER
 
-*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/develarper_3e9db43ff8d760635172598e) · [GitHub (GuruGitHubTheG)](https://github.com/GuruGitHubTheG)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/develarper_3e9db43f
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="timegal" data-released="2026-07-12" data-updated="2026-10-20">
+<a class="app-shot" href="https://apps.repebble.com/ceed895304554825b295d32a" data-search-exclude><img src="../images/apps/ceed895304554825b295d32a.gif" alt="TIMEGAL" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ceed895304554825b295d32a"><a href="https://apps.repebble.com/ceed895304554825b295d32a">TIMEGAL</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2.1</span></h2>
+<a class="app-source" href="https://github.com/GuruGitHubTheG/TIMEGAL" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Enjoy a new appreciation for Taito&#x27;s 1985 classic, TIMEGAL! Have Reika spawn on your watch screen at customizable intervals! This watchface utilizes both the SEGA/MEGA-CD and arcade graphics, and…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="transloc" data-released="2026-10-05" data-updated="2026-10-05">
 <a class="app-shot" href="https://apps.repebble.com/8d5a983845754bd0b3c8ac68" data-search-exclude><img src="../images/apps/8d5a983845754bd0b3c8ac68.png" alt="TransLoc" loading="lazy"></a>
 <div class="app-info">
@@ -46,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/develarper_3e9db43f
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Tell the time. But remember, You only have One Shot. View the time with a strange computer operating system, The World Machine. It has the same additions that OneShot: World Machine Edition…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="timegal" data-released="2026-07-12" data-updated="2026-09-06">
-<a class="app-shot" href="https://apps.repebble.com/ceed895304554825b295d32a" data-search-exclude><img src="../images/apps/ceed895304554825b295d32a.gif" alt="TIMEGAL" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-ceed895304554825b295d32a"><a href="https://apps.repebble.com/ceed895304554825b295d32a">TIMEGAL</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2.0</span></h2>
-<a class="app-source" href="https://github.com/GuruGitHubTheG/TIMEGAL" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Enjoy a new appreciation for Taito&#x27;s 1985 classic, TIMEGAL! Have Reika spawn on your watch screen at customizable intervals! This watchface utilizes both the SEGA/MEGA-CD and arcade graphics, and…</p>
 </div>
 </div>
 </div>

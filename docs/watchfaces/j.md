@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · **J** · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*28 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*28 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-5685bba15bcfd88ec900007f"><a href="https://apps.repebble.com/5685bba15bcfd88ec900007f">javaScriptClock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ryanpcmcquen/PEBBLE--javaScriptClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ryanpcmcquen.html" title="More from this developer">ryanpcmcquen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-31</span> <span title="Latest release in the app store">Updated 2016-01-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MPL-2.0</span> <span title="First published in the app store">Released 2015-12-31</span> <span title="Latest release in the app store">Updated 2016-01-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Time for JavaScript hackers. Written in pure C, because #perfMatters.</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-581f83d89cbbaf5d7200030c"><a href="https://apps.repebble.com/581f83d89cbbaf5d7200030c">Jeep Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/xcsrz/pebble-jeep-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/xcsrz.html" title="More from this developer">xcsrz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-06</span> <span title="Latest release in the app store">Updated 2016-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-06</span> <span title="Latest release in the app store">Updated 2016-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A Pebble Time watchface themed for jeep folk. Currently there is only one model (1941 MB), but more are coming. Configurable options include: - full customized color for body, time and background…</p>
 </div>
@@ -204,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-a1df9a2e91944d208b5313a4"><a href="https://apps.repebble.com/a1df9a2e91944d208b5313a4">JPN STA CLK</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/tc5206/pebble_JPN_STA_CLK" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tc5206.html" title="More from this developer">tc5206</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-06</span> <span title="Latest release in the app store">Updated 2026-05-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-06</span> <span title="Latest release in the app store">Updated 2026-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Japanese station-style clock for your wrist. - 30-second interval hand movement. - Realistic overshoot animation. - Partial color customization for Time/Time 2 and Round/Round 2. - Built with…</p>
 </div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · **E** · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*31 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*31 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-5530b9f67b5ea6a2380000e1"><a href="https://apps.repebble.com/5530b9f67b5ea6a2380000e1">Earthquake!!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tylerwowen/pebblequake" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tyler-ouyang.html" title="More from this developer">Tyler Ouyang</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-17</span> <span title="Latest release in the app store">Updated 2015-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-17</span> <span title="Latest release in the app store">Updated 2015-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Watchapp that shows the newest earthquake information ranging from N30 to N45, W112 to W130 (California and its surrounding areas). The data is from USGS 1. Shows the newest 6 entries 2. Updates…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-54bb83cb4de463ab52000014"><a href="https://apps.repebble.com/54bb83cb4de463ab52000014">ECI Toolbox</a> <span class="app-version" title="Latest version" data-search-exclude>v1.42</span></h2>
 <a class="app-source" href="https://github.com/pjexposito/ECIToolbox" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pedro.html" title="More from this developer">Pedro</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2016-01-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-18</span> <span title="Latest release in the app store">Updated 2016-01-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Versión en color.</p>
 </div>
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-5488eb4c7d4e8e3f70000037"><a href="https://apps.repebble.com/5488eb4c7d4e8e3f70000037">Ecobici DX</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/psyrax/terminalWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/psyrax.html" title="More from this developer">Psyrax</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-11</span> <span title="Latest release in the app store">Updated 2016-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-11</span> <span title="Latest release in the app store">Updated 2016-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Get ecobici locations and info of stations nearby. Base API data from http://api.citybik.es/v2/ and https://ecobici.me/#/ Logo art by https://twitter.com/vampipe</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-b91051fbb0564e9abd2d5a6f"><a href="https://apps.repebble.com/b91051fbb0564e9abd2d5a6f">Eight Pebbles</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/robbederks/eight-pebbles" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/robbe-derks.html" title="More from this developer">Robbe Derks</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Control your Eight Sleep mattress from your wrist. Designed around one use case: nudging the bed temperature at 3am without reaching for your phone.</p>
 </div>
@@ -149,7 +149,7 @@ hide:
 <h2 class="app-name" id="app-5695a9ce0065c309c7000008"><a href="https://apps.repebble.com/5695a9ce0065c309c7000008">EK Viewer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/thanthos/EK-Viewer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thanthos.html" title="More from this developer">thanthos</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-13</span> <span title="Latest release in the app store">Updated 2016-02-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-13</span> <span title="Latest release in the app store">Updated 2016-02-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a tool for ElasticSearch and Kibana. This help bring the Metric Visualization in Kibana to the Pebble. Tested with Found.</p>
 </div>
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-581d55cb1c0888f2a400016f"><a href="https://apps.repebble.com/581d55cb1c0888f2a400016f">Elite Status</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/willyb321/pebble-edsm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/willyb321.html" title="More from this developer">willyb321</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-05</span> <span title="Latest release in the app store">Updated 2016-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-05</span> <span title="Latest release in the app store">Updated 2016-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Check your stats in Elite: Dangerous. Uses EDSM.</p>
 </div>
@@ -281,7 +281,7 @@ hide:
 <h2 class="app-name" id="app-56df00cb68994ff0f9000012"><a href="https://apps.repebble.com/56df00cb68994ff0f9000012">Ethicker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/scastiel/pebethicker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sebastien-castiel.html" title="More from this developer">Sebastien Castiel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-08</span> <span title="Latest release in the app store">Updated 2016-03-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-08</span> <span title="Latest release in the app store">Updated 2016-03-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Easily get current Ether or Bitcoin value on your watch! Supported tickers: BTCEUR, BTCHKD, BTCUSD, ETHBTC, ETHEUR, ETHUSD, REPBTC. Data is fetched from Gatecoin public API. Please note that since…</p>
 </div>
@@ -314,7 +314,7 @@ hide:
 <h2 class="app-name" id="app-568a4cfa496916a93f00004e"><a href="https://apps.repebble.com/568a4cfa496916a93f00004e">Exec File</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/romanmatiasko/exec-file-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/roman-matiasko.html" title="More from this developer">Roman Matiasko</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-04</span> <span title="Latest release in the app store">Updated 2016-01-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An app that allows you to execute remote files from your pebble. The app needs a companion app, server, to be running on your local network and to be accessible via HTTP. The number of files that…</p>
 </div>

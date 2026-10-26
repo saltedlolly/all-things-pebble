@@ -13,7 +13,7 @@ hide:
 
 # Gianluca Troiani
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gianluca-troiani_56162132ef230bb954000073) · [Rebble App Store](https://apps.rebble.io/en_US/developer/56162132ef230bb954000073/1) · [GitHub (giatro)](https://github.com/giatro)
 

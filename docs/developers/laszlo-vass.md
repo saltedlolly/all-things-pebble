@@ -13,7 +13,7 @@ hide:
 
 # László Vass
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/l-szl-vass_5610ec745f75c3435a000071) · [GitHub (vassdoki)](https://github.com/vassdoki) · [Website (facebook.com)](https://www.facebook.com/pebbleDartsScore/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/l-szl-vass_5610ec74
 <h2 class="app-name" id="app-5821192334da21b8b400001e"><a href="https://apps.repebble.com/5821192334da21b8b400001e">Darts Score</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/vassdoki/pebble-darts-counter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-08</span> <span title="Latest release in the app store">Updated 2016-11-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-11-08</span> <span title="Latest release in the app store">Updated 2016-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Just play your favorite X01 darts game, and keep the score using your pebble.</p>
 </div>

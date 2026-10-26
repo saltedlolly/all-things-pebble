@@ -13,7 +13,7 @@ hide:
 
 # Miguel Angel Baeyens
 
-*2 watchfaces and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/miguel-angel-baeyens_1147b782781f1f1115f63f5b) · [GitHub (mabaeyens)](https://github.com/mabaeyens) · [Website (askmira.es)](https://askmira.es/aura/pebble)
 
@@ -21,7 +21,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/miguel-angel-baeyen
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
@@ -68,17 +68,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/miguel-angel-baeyen
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Aura Cityscape Weather turns the forecast into a small town. The sun or the moon rides its real arc over the skyline, and the sky and every layer of the scene change with the hour, from dawn…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="aura weather" data-released="2026-09-05" data-updated="2026-09-05">
-<a class="app-shot" href="https://apps.repebble.com/1d7ab48a02de4a58a95732d7" data-search-exclude><img src="../images/apps/1d7ab48a02de4a58a95732d7.png" alt="Aura Weather" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-1d7ab48a02de4a58a95732d7"><a href="https://apps.repebble.com/1d7ab48a02de4a58a95732d7">Aura Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
-<a class="app-source" href="https://github.com/mabaeyens/aura-pebble/aura-weather" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-05</span> <span title="Latest release in the app store">Updated 2026-09-05</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Aura Weather carries my Spain weather app&#x27;s design language onto the Pebble Time 2: a living sky you read at a glance. The hero screen draws the sun (a moon at night) arcing over a day-to-night…</p>
 </div>
 </div>
 </div>

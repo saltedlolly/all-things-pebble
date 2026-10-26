@@ -13,7 +13,7 @@ hide:
 
 # ThinkHome s.r.o.
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thinkhome-s-r-o_615fa8440cd24e7c608bfb9e) · [GitHub (thinkhome-org)](https://github.com/thinkhome-org)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thinkhome-s-r-o_615
 <h2 class="app-name" id="app-3e7189da80634db7b3989d1a"><a href="https://apps.repebble.com/3e7189da80634db7b3989d1a">Debate Timer for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.1</span></h2>
 <a class="app-source" href="https://github.com/thinkhome-org/DebateTimerForPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-08-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-08-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A dedicated timer for British Parliamentary debating. Track speeches, POI periods and speaker order directly from your wrist. Features: 7-minute BP speech timer POI period from 1:00 to 6:00…</p>
 </div>

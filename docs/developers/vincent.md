@@ -13,7 +13,7 @@ hide:
 
 # Vincent
 
-*1 watchface and 5 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b60fba729f7aece) · [GitHub (vincentezw)](https://github.com/vincentezw)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b6
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="ventilate" data-released="2026-09-18" data-updated="2026-09-18">
+<div class="app-card" data-type="watchapp" data-title="ventilate" data-released="2026-09-18" data-updated="2026-10-23">
 <a class="app-shot" href="https://apps.repebble.com/9a25b4c1c01648f18cb13086" data-search-exclude><img src="../images/apps/9a25b4c1c01648f18cb13086.png" alt="Ventilate" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9a25b4c1c01648f18cb13086"><a href="https://apps.repebble.com/9a25b4c1c01648f18cb13086">Ventilate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-9a25b4c1c01648f18cb13086"><a href="https://apps.repebble.com/9a25b4c1c01648f18cb13086">Ventilate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.3</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/ventilate-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-09-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Calculate an optimal time for shock ventilation using sensors from Home Assistant. It calculates absolute humidity, tracks the time on your wrist and gives a summary of the results.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b6
 <h2 class="app-name" id="app-cbdd9cc7fab247d5b9a20d84"><a href="https://apps.repebble.com/cbdd9cc7fab247d5b9a20d84">Pebble MA</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.0</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/pebble-ma" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Pebble Music Assistant client</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b6
 <h2 class="app-name" id="app-0af0a40d63c34ef4bb110074"><a href="https://apps.repebble.com/0af0a40d63c34ef4bb110074">Plant friend</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/plantfriend-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-09-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble watchapp for Plant friend. Keep track of your plant care schedule directly from your watch.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b6
 <h2 class="app-name" id="app-12641b3cd36747d8bd8a617a"><a href="https://apps.repebble.com/12641b3cd36747d8bd8a617a">hassweather</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2.0</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/hassweather-nua" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-08-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-08-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Home Assistant weather forecast watchface with sunrise and sunset</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b6
 <h2 class="app-name" id="app-408fed6ba0354a6db2e6c8f2"><a href="https://apps.repebble.com/408fed6ba0354a6db2e6c8f2">HA Forecast</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/haforecast" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Display hourly and daily forecast from a Home Assistant weather entity. Also shows sunrise and sunset times.</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b6
 <h2 class="app-name" id="app-3939513e02874195bbdf06fd"><a href="https://apps.repebble.com/3939513e02874195bbdf06fd">hassgraph</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/hassgraph-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Home Assistant entity line graphs on your wrist. Supports multiple entities.</p>
 </div>

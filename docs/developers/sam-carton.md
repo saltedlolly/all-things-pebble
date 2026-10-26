@@ -13,7 +13,7 @@ hide:
 
 # Sam Carton
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam-carton_5362eb44e624bd3bf50000bb) · [GitHub (samcarton)](https://github.com/samcarton) · [Website (samcarton.com)](http://www.samcarton.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam-carton_5362eb44
 <h2 class="app-name" id="app-55f56b96c2f17edbde000077"><a href="https://apps.repebble.com/55f56b96c2f17edbde000077">Miami Nights</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/samcarton/miami-nights-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-13</span> <span title="Latest release in the app store">Updated 2016-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-09-13</span> <span title="Latest release in the app store">Updated 2016-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple yet striking large-font colored watchface for Pebble Time. Large font is True Lies by Jonathan S. Harris. - Date format configurable to display DDMM, MMDD, or nothing. - Optional day of…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam-carton_5362eb44
 <h2 class="app-name" id="app-55fe8e1ded80fc61a400005a"><a href="https://apps.repebble.com/55fe8e1ded80fc61a400005a">Grids</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/samcarton/Grids-Pebble-Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-20</span> <span title="Latest release in the app store">Updated 2015-09-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-09-20</span> <span title="Latest release in the app store">Updated 2015-09-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Grids - For Pebble Time. A watchface designed by Chimikyo. Includes battery charge level indicator. Built by request on /r/pebble</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam-carton_5362eb44
 <h2 class="app-name" id="app-53de4e72af4523360f00009a"><a href="https://apps.repebble.com/53de4e72af4523360f00009a">Spindle</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/samcarton/bat_spindle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-03</span> <span title="Latest release in the app store">Updated 2014-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-08-03</span> <span title="Latest release in the app store">Updated 2014-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Release The Tension. Watch Spindle get wound up. See Spindle get released with a satisfying burst of angular momentum. Every minute Spindle is painstakingly wound up for your time-perusing…</p>
 </div>

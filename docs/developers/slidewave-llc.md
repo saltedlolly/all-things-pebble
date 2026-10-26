@@ -13,7 +13,7 @@ hide:
 
 # SlideWave, LLC
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/slidewave-llc_530792b655bea2f4f80000d2) · [GitHub (ddaeschler)](https://github.com/ddaeschler) · [Website (daviddaeschler.com)](http://daviddaeschler.com)
 

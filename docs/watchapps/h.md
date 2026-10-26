@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · **H** · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*68 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*72 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-408fed6ba0354a6db2e6c8f2"><a href="https://apps.repebble.com/408fed6ba0354a6db2e6c8f2">HA Forecast</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/haforecast" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vincent.html" title="More from this developer">Vincent</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Display hourly and daily forecast from a Home Assistant weather entity. Also shows sunrise and sunset times.</p>
 </div>
@@ -34,14 +34,36 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/370aee7508844929b822e0cc" data-search-exclude><img src="../images/apps/370aee7508844929b822e0cc.png" alt="HA Ping my iPhone" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-370aee7508844929b822e0cc"><a href="https://apps.repebble.com/370aee7508844929b822e0cc">HA Ping my iPhone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/eddieatjollyroger/PebblePingMyiPhone" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/eddie-baker.html" title="More from this developer">Eddie Baker</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Uses Home Assistant&#x27;s notify service to send a critical alert ringing an iPhone even in Silent Mode to locate it instead of using Apple&#x27;s Find My service.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/a0fb0204f76146a8bfd81bc9" data-search-exclude><img src="../images/apps/a0fb0204f76146a8bfd81bc9.png" alt="HA Trigger" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a0fb0204f76146a8bfd81bc9"><a href="https://apps.repebble.com/a0fb0204f76146a8bfd81bc9">HA Trigger</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-a0fb0204f76146a8bfd81bc9"><a href="https://apps.repebble.com/a0fb0204f76146a8bfd81bc9">HA Trigger</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/ProggroP/HATrigger" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/kieselleger.html" title="More from this developer">Kieselleger</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">HA Trigger puts Home Assistant actions on your wrist and keeps the answer in front of you. Each screen carries two actions: the top button runs one, the bottom button the other. Between them sits…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/da1745a953be4aabbf069ff6" data-search-exclude><img src="../images/apps/da1745a953be4aabbf069ff6.png" alt="HA TV Remote" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-da1745a953be4aabbf069ff6"><a href="https://apps.repebble.com/da1745a953be4aabbf069ff6">HA TV Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
+<a class="app-source" href="https://github.com/eddieatjollyroger/Pebble-HA-TV-Remote" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/eddie-baker.html" title="More from this developer">Eddie Baker</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">A remote for all Home Assistant TVs. It works with Apple TV, Android TV (through the Android TV Remote integration) and VIDAA TVs (through the Vidaa TV integration). Button Select: sends an OK…</p>
 </div>
 </div>
 <div class="app-card">
@@ -105,7 +127,7 @@ hide:
 <h2 class="app-name" id="app-54ae740485dd6760e7000077"><a href="https://apps.repebble.com/54ae740485dd6760e7000077">Hack Portal - Ingress companion</a> <span class="app-version" title="Latest version" data-search-exclude>v3.18</span></h2>
 <a class="app-source" href="https://github.com/samuelmr/pebble-hackportal" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/samuel.html" title="More from this developer">Samuel</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-08</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-08</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Reminds you to hack your portals when they cool down. Remembers your hacks and knows when the portals burn down. Configurable Heat Sinks and Multi-hacks. You can configure up to 20 portals. Shows…</p>
 </div>
@@ -149,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-57a269a31482cdecc7000203"><a href="https://apps.repebble.com/57a269a31482cdecc7000203">Hackerspace</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/thomacer/pebble-hackerspace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/thomas-perale.html" title="More from this developer">Thomas Perale</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-03</span> <span title="Latest release in the app store">Updated 2016-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-08-03</span> <span title="Latest release in the app store">Updated 2016-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">&quot;Hackerspace&quot; is the application to use with your local hackerspace or smart home spaceAPI. It give you on your wrist all the information from a spaceAPI so you can check them in a glance. The…</p>
 </div>
@@ -182,7 +204,7 @@ hide:
 <h2 class="app-name" id="app-559f949e93ff77bebd000013"><a href="https://apps.repebble.com/559f949e93ff77bebd000013">HannaCalendar</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/soomtong/HannaCalendar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/soomtong.html" title="More from this developer">Soomtong</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-10</span> <span title="Latest release in the app store">Updated 2015-12-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-10</span> <span title="Latest release in the app store">Updated 2015-12-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple Watch-app using Hanna font for Pebble Time - Up and Down button for change Calendar - Select button for this month</p>
 </div>
@@ -193,7 +215,7 @@ hide:
 <h2 class="app-name" id="app-55b34b29deeaa3c469000035"><a href="https://apps.repebble.com/55b34b29deeaa3c469000035">HannaTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://github.com/soomtong/HannaTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/soomtong.html" title="More from this developer">Soomtong</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-25</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-25</span> <span title="Latest release in the app store">Updated 2015-08-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc"># HannaTimer simple stopwatch for time-flow event. this app has two mode, that remember previous mode. change mode `long up click` action. ## LAP TIMER - time with interval(gap) each stopwatch…</p>
 </div>
@@ -215,7 +237,7 @@ hide:
 <h2 class="app-name" id="app-56912ecc0da72fe25a00005f"><a href="https://apps.repebble.com/56912ecc0da72fe25a00005f">Harvest Time Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/timothysoehnlin/PebbleHarvest" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/timothy-soehnlin.html" title="More from this developer">Timothy Soehnlin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-09</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-09</span> <span title="Latest release in the app store">Updated 2016-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app will allow you to create time tracking entries, and to activate/deactivate them all from your watch.</p>
 </div>
@@ -237,7 +259,7 @@ hide:
 <h2 class="app-name" id="app-bdac83d64d7a4733a699b5a1"><a href="https://apps.repebble.com/bdac83d64d7a4733a699b5a1">HASS To Do List</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/spudje/PebbleHassToDo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/spud.html" title="More from this developer">Spud</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-14</span> <span title="Latest release in the app store">Updated 2026-06-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-14</span> <span title="Latest release in the app store">Updated 2026-06-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">HASS To Do List is a simple watchapp that lists to do items of a single Home Assistant Local To Do List (https://www.home-assistant.io/integrations/local_todo/). You can complete items on the to…</p>
 </div>
@@ -248,7 +270,7 @@ hide:
 <h2 class="app-name" id="app-3939513e02874195bbdf06fd"><a href="https://apps.repebble.com/3939513e02874195bbdf06fd">hassgraph</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/hassgraph-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vincent.html" title="More from this developer">Vincent</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-14</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Home Assistant entity line graphs on your wrist. Supports multiple entities.</p>
 </div>
@@ -276,12 +298,23 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/c74e59961a004ec5ab8c72bd" data-search-exclude><img src="../images/apps/c74e59961a004ec5ab8c72bd.png" alt="Health Glance" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c74e59961a004ec5ab8c72bd"><a href="https://apps.repebble.com/c74e59961a004ec5ab8c72bd">Health Glance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/jollybully/health-glance" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/jollybully.html" title="More from this developer">Jollybully</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-23</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">I wanted to see my Fitbit Air data on my Pebble, and I didn&#x27;t want to use the watch&#x27;s own health stuff. So I vibed this out to solve that problem. We truly are living in an age of digital…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/57fee4621fd66b81c50001e4" data-search-exclude><img src="../images/apps/57fee4621fd66b81c50001e4.png" alt="Healthy Eyes" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-57fee4621fd66b81c50001e4"><a href="https://apps.rebble.io/en_US/application/57fee4621fd66b81c50001e4">Healthy Eyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/poeia/healthy-eyes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/james-smith-poeia.html" title="More from this developer">James Smith (@poeia)</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-13</span> <span title="Latest release in the app store">Updated 2016-10-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-13</span> <span title="Latest release in the app store">Updated 2016-10-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Healthy Eyes - The Smart Pomodoro Timer for Pebble Do you find yourself staring at screens for long periods of time, eventually leading to headaches? Or, are you working on a task, only to find…</p>
 </div>
@@ -402,7 +435,7 @@ hide:
 <h2 class="app-name" id="app-5476627d0340c757940000cf"><a href="https://apps.repebble.com/5476627d0340c757940000cf">Helpdesk Dashboard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/vanous/jitbit-helpdesk-dashboard-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/petr-vanek.html" title="More from this developer">Petr Vanek</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-26</span> <span title="Latest release in the app store">Updated 2014-12-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-26</span> <span title="Latest release in the app store">Updated 2014-12-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Dashboard for JitBit helpdesk (account required) Displays number of &#x27;N&#x27;ew, &#x27;P&#x27;ending and &#x27;U&#x27;nclosed tickets: total / mine. Select button for refresh. V1.2 Disclaimer: Not affiliated with JitBit in…</p>
 </div>
@@ -424,7 +457,7 @@ hide:
 <h2 class="app-name" id="app-54f3398f2af981c827000058"><a href="https://apps.repebble.com/54f3398f2af981c827000058">HeroBoard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/rmesquit/HeroBoard" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/rmesquita.html" title="More from this developer">Rmesquita</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-03-01</span> <span title="Latest release in the app store">Updated 2015-03-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-03-01</span> <span title="Latest release in the app store">Updated 2015-03-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Demo for developers: Guitar Hero based keyboard compatible with t3/t9 text prediction algorithms.</p>
 </div>
@@ -435,7 +468,7 @@ hide:
 <h2 class="app-name" id="app-57ee02d544581e90d400007a"><a href="https://apps.repebble.com/57ee02d544581e90d400007a">hexbin</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/qguv/hexbin" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/quint-guvernator.html" title="More from this developer">Quint Guvernator</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-09-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-09-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Practice your hex to binary conversion skills! Great for programmers and students. Tap &#x27;up&#x27; to enter one-bits and tap &#x27;down&#x27; or &#x27;back&#x27; to enter zero-bits. Clear your guess with &#x27;select&#x27; if you…</p>
 </div>
@@ -449,6 +482,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-10</span> <span title="Latest release in the app store">Updated 2015-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Uses data from NONBH&#x27;s solar weather information at http://hamqsl.com/solar.html to deliver band conditions, signal noise, and MUF right to your watch. Icon from NASA SDO</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/c533e3a8ceaf41cc823c6c35" data-search-exclude><img src="../images/apps/c533e3a8ceaf41cc823c6c35.png" alt="HF Bands" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c533e3a8ceaf41cc823c6c35"><a href="https://apps.repebble.com/c533e3a8ceaf41cc823c6c35">HF Bands</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/HF-Bands-pebble-watch" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/ac1rv.html" title="More from this developer">AC1RV</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-23</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">HF Bands is a ham radio app for checking band conditions and solar data before CW, contesting, POTA, SOTA, ARRL Field Day, or any other operating. Values sit on a black background, with yellow…</p>
 </div>
 </div>
 <div class="app-card">
@@ -468,7 +512,7 @@ hide:
 <h2 class="app-name" id="app-553d01b20c00e74822000051"><a href="https://apps.repebble.com/553d01b20c00e74822000051">Highest Five</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/thegrumpybuffalo/HighestFive" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/highest-five.html" title="More from this developer">Highest Five</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-26</span> <span title="Latest release in the app store">Updated 2015-04-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-26</span> <span title="Latest release in the app store">Updated 2015-04-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Track your high fives*! Not only the number, but also the force with which you can high five your friends! * We are not responsible for any self-inflicted harm that comes from your attempting to…</p>
 </div>
@@ -567,7 +611,7 @@ hide:
 <h2 class="app-name" id="app-68dea5734be9cb0009429595"><a href="https://apps.repebble.com/68dea5734be9cb0009429595">Home Assistant WS</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0</span></h2>
 <a class="app-source" href="https://github.com/skylord123/pebble-home-assistant-ws" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/skylar-sadlier.html" title="More from this developer">Skylar Sadlier</a> · <a href="https://forum.rebble.io/t/96" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-10-02</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-10-02</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Home Assistant control with real-time updates, voice commands, entity history, calendars, and support for a wide range of devices and helpers. Control your Home Assistant smart home directly from…</p>
 </div>
@@ -600,7 +644,7 @@ hide:
 <h2 class="app-name" id="app-abf0a3fa4b7044308388f53d"><a href="https://apps.repebble.com/abf0a3fa4b7044308388f53d">Homey Flows</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/ttkhamis/homey-flow-trigger" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tom-khamis.html" title="More from this developer">Tom Khamis</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Trigger your Homey flows directly from your Pebble Time 2, no phone needed once configured. Browse up to 5 customizable flow shortcuts on your wrist and fire them instantly with a single button…</p>
 </div>
@@ -633,7 +677,7 @@ hide:
 <h2 class="app-name" id="app-69207ecd7cdf9d000985e1a7"><a href="https://apps.rebble.io/en_US/application/69207ecd7cdf9d000985e1a7">Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/skooda/pebble-horizon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/v3l.html" title="More from this developer">V3L</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-11-21</span> <span title="Latest release in the app store">Updated 2025-11-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2025-11-21</span> <span title="Latest release in the app store">Updated 2025-11-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Toy displaying an artificial horizon (attitude indicator) based on accelerometer data. It shows a horizontal line rotated according to the tilt of the watch and includes several graphical elements…</p>
 </div>
@@ -677,7 +721,7 @@ hide:
 <h2 class="app-name" id="app-567af43af66b129c7200002b"><a href="https://apps.repebble.com/567af43af66b129c7200002b">HTTP Push</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2</span></h2>
 <a class="app-source" href="https://github.com/skonagaya/HTTP-Push" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/groundhogday.html" title="More from this developer">groundhogday</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-23</span> <span title="Latest release in the app store">Updated 2017-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-23</span> <span title="Latest release in the app store">Updated 2017-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A customizable HTTP request WatchApp perfect for Home Automation. The configuration page allows you to test requests before publishing to your Pebble. Configure any number of HTTP GET/POST…</p>
 </div>

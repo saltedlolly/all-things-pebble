@@ -13,7 +13,7 @@ hide:
 
 # Vincenzo Di Lorenzo
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincenzo-di-lorenzo_573f434ac12e854ea1000010) · [GitHub (vincenzodilorenzo)](https://github.com/vincenzodilorenzo)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincenzo-di-lorenzo
 <h2 class="app-name" id="app-57efda6605e4b17e1c0001bf"><a href="https://apps.repebble.com/57efda6605e4b17e1c0001bf">Orgoglio del sud</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/vincenzodilorenzo/PebbleWatchFaceOrgoglioDelSud" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-01</span> <span title="Latest release in the app store">Updated 2016-10-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-01</span> <span title="Latest release in the app store">Updated 2016-10-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Una WatchFace semplice con lo stemma borbonico. Per ricordare ciò che eravamo... senza nostalgia ma con consapevolezza.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincenzo-di-lorenzo
 <h2 class="app-name" id="app-5750750f6e28770cde00000c"><a href="https://apps.repebble.com/5750750f6e28770cde00000c">&#x27;O rilorgio napulitano</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/vincenzodilorenzo/PebbleWatchFaceORilogio" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-02</span> <span title="Latest release in the app store">Updated 2016-06-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-02</span> <span title="Latest release in the app store">Updated 2016-06-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Simple napolitan watchface. It displays current time and day in napolitan language. Jamme ja...</p>
 </div>

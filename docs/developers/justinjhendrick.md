@@ -13,7 +13,7 @@ hide:
 
 # justinjhendrick
 
-*12 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*13 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f68b8a23b7a90009c87db5) · [GitHub (justinjhendrick)](https://github.com/justinjhendrick)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>14</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>12</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>15</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>13</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="crescent clock" data-released="2026-10-24" data-updated="2026-10-24">
+<a class="app-shot" href="https://apps.repebble.com/a0be2bad86d64f509df171c4" data-search-exclude><img src="../images/apps/a0be2bad86d64f509df171c4.gif" alt="Crescent Clock" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a0be2bad86d64f509df171c4"><a href="https://apps.repebble.com/a0be2bad86d64f509df171c4">Crescent Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/justinjhendrick/moonface-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Crescent Clock is a lunar phase tracker with large digital time overlaid on an image of the moon that waxes and wanes Features: * Date included as a row across the bottom * Updates once per…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="tempilation" data-released="2026-04-10" data-updated="2026-10-13">
 <a class="app-shot" href="https://apps.repebble.com/cfcf110c62e6483eba7ef85a" data-search-exclude><img src="../images/apps/cfcf110c62e6483eba7ef85a.png" alt="Tempilation" loading="lazy"></a>
 <div class="app-info">

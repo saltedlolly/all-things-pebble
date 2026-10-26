@@ -13,7 +13,7 @@ hide:
 
 # santrancisco
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/santrancisco_54ab9f13f3a173dfa500007b) · [GitHub (santrancisco)](https://github.com/santrancisco) · [Website (ebfe.pw)](https://ebfe.pw)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/santrancisco_54ab9f
 <h2 class="app-name" id="app-54aba1fe8068b7203f00007c"><a href="https://apps.repebble.com/54aba1fe8068b7203f00007c">Milktime</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/santrancisco/milktime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-06</span> <span title="Latest release in the app store">Updated 2015-01-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-06</span> <span title="Latest release in the app store">Updated 2015-01-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Milktime is good for mum and dad who have a newborn or an infant. This app alert you the next time your baby has milk, the amount and the potential of soiled nappie base on previous entries…</p>
 </div>

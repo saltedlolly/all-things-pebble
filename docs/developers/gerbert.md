@@ -13,7 +13,7 @@ hide:
 
 # gerbert
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gerbert_448ca3d91c5aed37ba166e4c) · [GitHub (gerbert)](https://github.com/gerbert)
 
@@ -21,15 +21,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gerbert_448ca3d91c5
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="//grid" data-released="2026-04-04" data-updated="2026-09-08">
+<div class="app-card" data-type="watchface" data-title="//grid" data-released="2026-04-04" data-updated="2026-10-24">
 <a class="app-shot" href="https://apps.repebble.com/30b3c97f46be4699859706c0" data-search-exclude><img src="../images/apps/30b3c97f46be4699859706c0.png" alt="//GRID" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-30b3c97f46be4699859706c0"><a href="https://apps.repebble.com/30b3c97f46be4699859706c0">//GRID</a> <span class="app-version" title="Latest version" data-search-exclude>v2.7.3</span></h2>
+<h2 class="app-name" id="app-30b3c97f46be4699859706c0"><a href="https://apps.repebble.com/30b3c97f46be4699859706c0">//GRID</a> <span class="app-version" title="Latest version" data-search-exclude>v2.8.0</span></h2>
 <a class="app-source" href="https://github.com/gerbert/grid" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-09-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
-<p class="app-desc">//GRID is a minimalist watchface for Pebble Time 2 and Pebble 2 Duo, inspired by the visual language of the TRON universe - a black background, neon geometry, scanline details, and LCD-style…</p>
+<p class="app-desc">//GRID is a minimalist watchface for Pebble Time 2 and Pebble 2 Duo, inspired by the visual language of the TRON universe: a black background, neon geometry, scanline details, and LCD-style…</p>
 </div>
 </div>
 </div>

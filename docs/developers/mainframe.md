@@ -13,7 +13,7 @@ hide:
 
 # MainFrame
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mainframe_586009500e3a492e70000082) · [Rebble App Store](https://apps.rebble.io/en_US/developer/586009500e3a492e70000082/1) · [GitHub (steel-wing)](https://github.com/steel-wing)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mainframe_586009500
 <h2 class="app-name" id="app-586708512ee4312381000276"><a href="https://apps.repebble.com/586708512ee4312381000276">Simple Digital</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/steel-wing/simple-digital" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/992" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-31</span> <span title="Latest release in the app store">Updated 2026-05-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-12-31</span> <span title="Latest release in the app store">Updated 2026-05-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a simple digital watchface. It uses cells to mimic the seven segment style of most digital watches. Check out my other watchface, Total Digital, if you want more customization.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mainframe_586009500
 <h2 class="app-name" id="app-58bf338c6ca387216b0005f5"><a href="https://apps.repebble.com/58bf338c6ca387216b0005f5">Bold Time</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/steel-wing/bold-time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-03-07</span> <span title="Latest release in the app store">Updated 2025-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-03-07</span> <span title="Latest release in the app store">Updated 2025-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is a geometric, digital, 3x5 font watchface that is as legible as possible. Colors and spacing can be changed with settings.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mainframe_586009500
 <h2 class="app-name" id="app-67cc889cb7a023024b2145e2"><a href="https://apps.rebble.io/en_US/application/67cc889cb7a023024b2145e2">Total Digital</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/steel-wing/total-digital" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2025-03-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-08</span> <span title="Latest release in the app store">Updated 2025-03-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">This is a 7-segment inspired watchface that allows full customization on not only the numbers, but the segments themselves, allowing for a ton of possibilities and personal flairs. The watchface…</p>
 </div>

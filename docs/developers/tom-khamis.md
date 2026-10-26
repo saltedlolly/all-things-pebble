@@ -13,7 +13,7 @@ hide:
 
 # Tom Khamis
 
-*4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-khamis_221fb95fe8d07190aa28efe3) · [GitHub (ttkhamis)](https://github.com/ttkhamis)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-khamis_221fb95f
 <h2 class="app-name" id="app-7bff2f5004fa47e094b8c32d"><a href="https://apps.repebble.com/7bff2f5004fa47e094b8c32d">Ripple Alarm</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.40</span></h2>
 <a class="app-source" href="https://github.com/ttkhamis/pebble_alarm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-01</span> <span title="Latest release in the app store">Updated 2026-09-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-01</span> <span title="Latest release in the app store">Updated 2026-09-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A large-text alarm clock designed to be easy to read at a glance. Set up to 5 alarms from your phone — each with its own label, color, and weekly schedule.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-khamis_221fb95f
 <h2 class="app-name" id="app-81ae848ad40a48f4903cd40f"><a href="https://apps.repebble.com/81ae848ad40a48f4903cd40f">Nothing Battery</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
 <a class="app-source" href="https://github.com/ttkhamis/Pebble_Battery" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-08-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-04</span> <span title="Latest release in the app store">Updated 2026-08-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pebble Battery is a clean, glanceable battery app inspired by the Nothing Phone widget aesthetic. The main screen fills the display with a bold dot grid, purple on dark, red on light, where each…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-khamis_221fb95f
 <h2 class="app-name" id="app-79b07c1b90df42e6a39e2458"><a href="https://apps.repebble.com/79b07c1b90df42e6a39e2458">TTC Subway &amp; Bus</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.3</span></h2>
 <a class="app-source" href="https://github.com/ttkhamis/Pebble_TTC_Info" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-12</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-12</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">TTC Subway &amp; Bus — Toronto transit at a glance, right on your wrist. Get real-time bus and streetcar arrivals for up to 5 saved locations (4 routes each), with countdowns that keep ticking between…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-khamis_221fb95f
 <h2 class="app-name" id="app-abf0a3fa4b7044308388f53d"><a href="https://apps.repebble.com/abf0a3fa4b7044308388f53d">Homey Flows</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/ttkhamis/homey-flow-trigger" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-28</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Trigger your Homey flows directly from your Pebble Time 2, no phone needed once configured. Browse up to 5 customizable flow shortcuts on your wrist and fire them instantly with a single button…</p>
 </div>

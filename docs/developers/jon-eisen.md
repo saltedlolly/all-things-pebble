@@ -13,7 +13,7 @@ hide:
 
 # Jon Eisen
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jon-eisen_52a20923a38509c49e000044) · [GitHub (yanatan16)](https://github.com/yanatan16)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jon-eisen_52a20923a
 <h2 class="app-name" id="app-52ae012503ad7a131b000016"><a href="https://apps.repebble.com/52ae012503ad7a131b000016">Discs</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/yanatan16/pebble-discs" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-15</span> <span title="Latest release in the app store">Updated 2014-05-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-15</span> <span title="Latest release in the app store">Updated 2014-05-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Minimalist analog watchface using discs.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jon-eisen_52a20923a
 <h2 class="app-name" id="app-52a20a607db3adf3ba00001a"><a href="https://apps.repebble.com/52a20a607db3adf3ba00001a">Bold Hour (White)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
 <a class="app-source" href="https://github.com/yanatan16/pebble-bold-hour" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-06</span> <span title="Latest release in the app store">Updated 2014-05-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-06</span> <span title="Latest release in the app store">Updated 2014-05-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A bold hour with small minutes. Always know what hour it is at a glance. White numbers look best on dark watches.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jon-eisen_52a20923a
 <h2 class="app-name" id="app-52a20d4ea38509044c000049"><a href="https://apps.repebble.com/52a20d4ea38509044c000049">Bold Hour (Black)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
 <a class="app-source" href="https://github.com/yanatan16/pebble-bold-hour" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-06</span> <span title="Latest release in the app store">Updated 2014-05-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-06</span> <span title="Latest release in the app store">Updated 2014-05-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A bold hour with small minutes. Always know what hour it is at a glance. Black numbers look best on light watches.</p>
 </div>

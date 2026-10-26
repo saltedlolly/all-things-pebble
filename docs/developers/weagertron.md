@@ -13,7 +13,7 @@ hide:
 
 # Weagertron
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/weagertron_25c36dd83a6ff41985255a8a) · [GitHub (weagertron)](https://github.com/weagertron)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/weagertron_25c36dd8
 <h2 class="app-name" id="app-4a1c9ef57e924ac596115328"><a href="https://apps.repebble.com/4a1c9ef57e924ac596115328">Flipstone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/weagertron/Flipstone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-04-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Flipstone is a roguelike built for the Pebble Time smartwatch, where every combat turn resolves with a coin flip. Heads deals damage, tails misses, and a rare edge landing crits for double…</p>
 </div>

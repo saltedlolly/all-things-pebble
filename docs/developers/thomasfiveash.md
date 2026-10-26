@@ -13,7 +13,7 @@ hide:
 
 # thomasfiveash
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56f74c2ee5887934b7000022/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/thomasfiveash_56f74c2ee5887934b7000022) · [GitHub (t0mf)](https://github.com/t0mf) · [GitHub (thomasfiveash)](https://github.com/thomasfiveash)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56f74c2ee588793
 <h2 class="app-name" id="app-58b3588e0dfc32a52a00016a"><a href="https://apps.rebble.io/en_US/application/58b3588e0dfc32a52a00016a">Warmup Sets 2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/t0mf/PebbleWarmupSetsV2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-02-26</span> <span title="Latest release in the app store">Updated 2021-12-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-02-26</span> <span title="Latest release in the app store">Updated 2021-12-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Warmup Sets 2 is the watch app to have while you&#x27;re in the gym! The goal is to help you determine the sets you should do for your warmup while also providing you with barbell plate math and other…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56f74c2ee588793
 <h2 class="app-name" id="app-573273836dfc301c9d000002"><a href="https://apps.repebble.com/573273836dfc301c9d000002">Warmup Sets</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/thomasfiveash/PebbleWarmupSets" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-10</span> <span title="Latest release in the app store">Updated 2021-12-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-10</span> <span title="Latest release in the app store">Updated 2021-12-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">**New Feature** With the release of 2.0 I have added the ability to specify the warmup set multipliers! This means that for each exercise you can say exactly what percentage of the max weight you…</p>
 </div>

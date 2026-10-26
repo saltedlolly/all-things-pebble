@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*33 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*34 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -34,6 +34,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/e66376d9037444e095a12c9e" data-search-exclude><img src="../images/apps/e66376d9037444e095a12c9e.png" alt="Icebreaker" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e66376d9037444e095a12c9e"><a href="https://apps.repebble.com/e66376d9037444e095a12c9e">Icebreaker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Keatr0n/pebble_icebreaker" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/keatr0n.html" title="More from this developer">Keatr0n</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-20</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Icebreaker is a set of 6 hacking style minigames that test various skills like mental math, logic, deduction, reflexes, and timing. You can either play each game by themselves or through a tower…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/53246928fec90d583c0000b2" data-search-exclude><img src="../images/apps/53246928fec90d583c0000b2.png" alt="Icon Pop Quiz" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-53246928fec90d583c0000b2"><a href="https://apps.repebble.com/53246928fec90d583c0000b2">Icon Pop Quiz</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
@@ -47,10 +58,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/38d23789644c43558635081a" data-search-exclude><img src="../images/apps/38d23789644c43558635081a.png" alt="Idle Dungeon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-38d23789644c43558635081a"><a href="https://apps.repebble.com/38d23789644c43558635081a">Idle Dungeon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<h2 class="app-name" id="app-38d23789644c43558635081a"><a href="https://apps.repebble.com/38d23789644c43558635081a">Idle Dungeon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.4</span></h2>
 <a class="app-source" href="https://github.com/daipoyo/idle_dungeon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/daipoyo.html" title="More from this developer">daipoyo</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-09-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Idle Dungeon turns the steps you take during the day into a dungeon crawl. Pick a dungeon in the morning and go about your day. Every step carries the hero deeper: monsters, traps, fountains and…</p>
 </div>
@@ -149,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-5541773725cbe39ea900000f"><a href="https://apps.repebble.com/5541773725cbe39ea900000f">Indigo Remote+</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/srgoldman/IndigoRemote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/seth-goldman.html" title="More from this developer">Seth Goldman</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-30</span> <span title="Latest release in the app store">Updated 2015-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2015-04-30</span> <span title="Latest release in the app store">Updated 2015-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An updated version of Zach Benz&#x27;s Indigo Remote app. A remote control for Perceptive Automation&#x27;s excellent Indigo home automation server for Mac OS X. There is a limit of 50 devices and 50…</p>
 </div>
@@ -160,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-5627b6cbcf5a8e00c600005f"><a href="https://apps.repebble.com/5627b6cbcf5a8e00c600005f">Indoor Softball Scorer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/stevekennedyuk/IndoorSoftballScoring" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/steve-karmeinsky.html" title="More from this developer">Steve Karmeinsky</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-21</span> <span title="Latest release in the app store">Updated 2016-03-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-21</span> <span title="Latest release in the app store">Updated 2016-03-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An app to help score indoor softball (and time innings), can be paused and restarted</p>
 </div>
@@ -303,7 +314,7 @@ hide:
 <h2 class="app-name" id="app-55f3c813f4177db70e00005c"><a href="https://apps.repebble.com/55f3c813f4177db70e00005c">Is Deadpool Out Yet?</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/teglia/isdeadpooloutyet/tree/pebble-develop" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/patrick-teglia.html" title="More from this developer">Patrick Teglia</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-12</span> <span title="Latest release in the app store">Updated 2015-09-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-12</span> <span title="Latest release in the app store">Updated 2015-09-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Is Deadpool out yet? You won&#x27;t know until you put this on your watch!</p>
 </div>

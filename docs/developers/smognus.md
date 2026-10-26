@@ -13,7 +13,7 @@ hide:
 
 # smognus
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/smognus_52b50553d384d88d6200000b) · [GitHub (smognus)](https://github.com/smognus)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/smognus_52b50553d38
 <h2 class="app-name" id="app-5621a59ea97d31cb8000001b"><a href="https://apps.repebble.com/5621a59ea97d31cb8000001b">Variable Hands</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/smognus/variable-hands-SDK3" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-17</span> <span title="Latest release in the app store">Updated 2015-10-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-17</span> <span title="Latest release in the app store">Updated 2015-10-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">It has always bothered me that watch hands on a rectangular watchface are a varying distance from the edge of the face. This watchface grows and shrinks the hands dynamically so that they are…</p>
 </div>

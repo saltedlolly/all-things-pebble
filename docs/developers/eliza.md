@@ -13,7 +13,7 @@ hide:
 
 # Eliza
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eliza_0554b97fa46644f68f1c3d55) · [GitHub (elizagamedev)](https://github.com/elizagamedev)
 

@@ -13,7 +13,7 @@ hide:
 
 # random360-pebble
 
-*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/682a9387fcffa4000710b5e2/1) · [GitHub (random360-pebble)](https://github.com/random360-pebble)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/682a9387fcffa40
 <h2 class="app-name" id="app-68a8eb5e2dfa4d0009a22820"><a href="https://apps.rebble.io/en_US/application/68a8eb5e2dfa4d0009a22820">Honda</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/random360-pebble/Honda" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-08-22</span> <span title="Latest release in the app store">Updated 2025-08-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-08-22</span> <span title="Latest release in the app store">Updated 2025-08-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple Honda watchface</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/682a9387fcffa40
 <h2 class="app-name" id="app-68a7aa36a70ac100089822c5"><a href="https://apps.rebble.io/en_US/application/68a7aa36a70ac100089822c5">Coke</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/random360-pebble/Coca-Cola" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-08-21</span> <span title="Latest release in the app store">Updated 2025-08-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-08-21</span> <span title="Latest release in the app store">Updated 2025-08-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple Coca-Cola watch face</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/682a9387fcffa40
 <h2 class="app-name" id="app-68a64f315cc7670008314346"><a href="https://apps.rebble.io/en_US/application/68a64f315cc7670008314346">Toyota</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/random360-pebble/Toyota" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-08-20</span> <span title="Latest release in the app store">Updated 2025-08-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-08-20</span> <span title="Latest release in the app store">Updated 2025-08-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple watchface with Toyota logo</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/682a9387fcffa40
 <h2 class="app-name" id="app-68a5c7745cc7670008314341"><a href="https://apps.rebble.io/en_US/application/68a5c7745cc7670008314341">Dr.Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/random360-pebble/Dr.Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-08-20</span> <span title="Latest release in the app store">Updated 2025-08-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-08-20</span> <span title="Latest release in the app store">Updated 2025-08-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple watchface with the Dr.pepper logo</p>
 </div>

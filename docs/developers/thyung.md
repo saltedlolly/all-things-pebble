@@ -13,7 +13,7 @@ hide:
 
 # thyung
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thyung_531bed0cc5f2c58d3f000a52) · [GitHub (thyung)](https://github.com/thyung)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thyung_531bed0cc5f2
 <h2 class="app-name" id="app-6379e44cc6c24a000a815e83"><a href="https://apps.repebble.com/6379e44cc6c24a000a815e83">Bloch Sphere</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/thyung/bloch-sphere" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2022-11-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2022-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Present time in Bloch Sphere. Hour and minute are mapped to theta and phi. Second is mapped to the view angle. Actual time is showed for reference.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thyung_531bed0cc5f2
 <h2 class="app-name" id="app-53f781ad94e7d303cb000266"><a href="https://apps.repebble.com/53f781ad94e7d303cb000266">Gravity</a> <span class="app-version" title="Latest version" data-search-exclude>v1.00</span></h2>
 <a class="app-source" href="https://github.com/thyung/PebbleFace_gravity" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-22</span> <span title="Latest release in the app store">Updated 2014-08-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-08-22</span> <span title="Latest release in the app store">Updated 2014-08-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Rotate the time display with gravity</p>
 </div>

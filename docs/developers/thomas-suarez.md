@@ -13,7 +13,7 @@ hide:
 
 # Thomas Suarez
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-suarez_53c5b7f2a21bef1f75000037) · [GitHub (tomthecarrot)](https://github.com/tomthecarrot)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-suarez_53c5b
 <h2 class="app-name" id="app-554ec47cecdc00f8140000c6"><a href="https://apps.repebble.com/554ec47cecdc00f8140000c6">Liveblog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/tomthecarrot/PebbleTimeLiveblog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-05-10</span> <span title="Latest release in the app store">Updated 2015-05-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Liveblog tracker for Pebble Time, utilizing the new Timeline functionality. 1. Before (or during) a live event, install the app on your Pebble Time. 2. Once the app is installed on your Pebble…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # VN Pebble Dev
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vn-pebble-dev_56c84ed97c9161bdaa00002a) · [GitHub (samcarton)](https://github.com/samcarton) · [Website (facebook.com)](https://www.facebook.com/vnpebble/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vn-pebble-dev_56c84
 <h2 class="app-name" id="app-57ee926944581e90d40000d5"><a href="https://apps.repebble.com/57ee926944581e90d40000d5">Miami Nights Extra</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/samcarton/miami-nights-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-10-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-09-30</span> <span title="Latest release in the app store">Updated 2016-10-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple yet striking large-font colored watchface for Pebble Time. Original by Miami Nights watchface of Sam Carton. Large font is True Lies by Jonathan S. Harris. - Date format configurable to…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # techfeasible
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techfeasible_52dbd1049ffd8704a300004e) · [GitHub (technicallyfeasible)](https://github.com/technicallyfeasible) · [Website (technicallyfeasible.com)](http://www.technicallyfeasible.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techfeasible_52dbd1
 <h2 class="app-name" id="app-556301c032fe79034000004b"><a href="https://apps.repebble.com/556301c032fe79034000004b">Scalerometer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/technicallyfeasible/PebbleScale" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-25</span> <span title="Latest release in the app store">Updated 2016-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-05-25</span> <span title="Latest release in the app store">Updated 2016-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Scalerometer is a novel app which lets you weigh things using only the accelerometer in Pebble. A scale on your wrist! How it works: The app works by detecting how fast you can oscillate a certain…</p>
 </div>

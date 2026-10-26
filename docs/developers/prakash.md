@@ -13,7 +13,7 @@ hide:
 
 # Prakash
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/570d9e418bf1c37e01000009/1) · [GitHub (prakashait09)](https://github.com/prakashait09)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/570d9e418bf1c37
 <h2 class="app-name" id="app-57caac70be5ad0a9cf000167"><a href="https://apps.rebble.io/en_US/application/57caac70be5ad0a9cf000167">Healthify</a> <span class="app-version" title="Latest version" data-search-exclude>v3.6</span></h2>
 <a class="app-source" href="https://github.com/prakashait09/Healthify" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-03</span> <span title="Latest release in the app store">Updated 2018-03-30</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-03</span> <span title="Latest release in the app store">Updated 2018-03-30</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A watchface with complete pebble health at a glance. Featurues : 1. Configurable Time format 2. Configurable Date format 3. Show/Hide Day of week 4. Configurable Bluetooth Connect/Disconnect…</p>
 </div>

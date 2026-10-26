@@ -13,7 +13,7 @@ hide:
 
 # Rabit
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rabit_54ceb8b6f2184c89ed00001d) · [GitHub (rabits)](https://github.com/rabits)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rabit_54ceb8b6f2184
 <h2 class="app-name" id="app-56251336851cda3643000057"><a href="https://apps.repebble.com/56251336851cda3643000057">Flux Capacitor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/rabits/flux-capacitor" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-19</span> <span title="Latest release in the app store">Updated 2015-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-10-19</span> <span title="Latest release in the app store">Updated 2015-10-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Compact version of Flux Capacitor from Back to the Future trilogy for your Pebble Time. This working version of time machine can help you to travel in time. October 21, 2015 already behind, but…</p>
 </div>

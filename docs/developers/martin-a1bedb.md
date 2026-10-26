@@ -13,7 +13,7 @@ hide:
 
 # Martin
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/martin_53150ee91b1a0e1232000290) · [GitHub (pinkguy)](https://github.com/pinkguy) · [Website (martingreffe.com)](http://www.martingreffe.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/martin_53150ee91b1a
 <h2 class="app-name" id="app-546884448103a24f52000094"><a href="https://apps.repebble.com/546884448103a24f52000094">Franponator</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pinkguy/franponator" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2014-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-16</span> <span title="Latest release in the app store">Updated 2014-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Générateur de Franponais, La langue française est très utilisée comme décoration au Japon. Retrouvez ici un générateur qui se chargera de faire cette dure besogne pour vous.</p>
 </div>

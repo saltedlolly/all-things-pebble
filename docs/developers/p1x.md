@@ -13,7 +13,7 @@ hide:
 
 # P1X
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/p1x_5410171466e853e34100010f) · [GitHub (w84death)](https://github.com/w84death) · [Website (p1x.in)](http://p1x.in)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/p1x_5410171466e853e
 <h2 class="app-name" id="app-54591fe85a7e52bd8b00007c"><a href="https://apps.repebble.com/54591fe85a7e52bd8b00007c">2001: Space Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.13</span></h2>
 <a class="app-source" href="https://github.com/w84death/2001-space-watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-04</span> <span title="Latest release in the app store">Updated 2014-11-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-04</span> <span title="Latest release in the app store">Updated 2014-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">*** Your own unique cosmos *** Practically infinite number of rich and fantastic backgrounds at each hour. You will never seen two identical backgrounds! Yes, that&#x27;s the power of procedural…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/p1x_5410171466e853e
 <h2 class="app-name" id="app-5415e8ce39b1c787430000b2"><a href="https://apps.repebble.com/5415e8ce39b1c787430000b2">2001: Wachface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/w84death/2001-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-14</span> <span title="Latest release in the app store">Updated 2014-09-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-14</span> <span title="Latest release in the app store">Updated 2014-09-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Watchface promoting upcoming &quot;2001: A Space Shooter&quot; game for Pebble. Features: - neat pixel art - battery status - day of the year - full date Designed &amp; developed by P1X Indie Gamedev Studio…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/p1x_5410171466e853e
 <h2 class="app-name" id="app-54118b53bf4a28a2bd000146"><a href="https://apps.repebble.com/54118b53bf4a28a2bd000146">Time Is Limitless</a> <span class="app-version" title="Latest version" data-search-exclude>v3</span></h2>
 <a class="app-source" href="https://github.com/w84death/TimeIsLimitless" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-11</span> <span title="Latest release in the app store">Updated 2014-09-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-11</span> <span title="Latest release in the app store">Updated 2014-09-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watch face do not show any time. It represents my philosophy of life that time does not matter. Dedicated to my girlfriend :) Features: - clean &amp; minimalistic look - gentle vibe every full…</p>
 </div>

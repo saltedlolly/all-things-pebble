@@ -13,7 +13,7 @@ hide:
 
 # Tor-Erik Klausen
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tor-erik-klausen_531adebc2a95cc72b000003b) · [GitHub (torerikk)](https://github.com/torerikk) · [Website (torerikk.github.io)](https://torerikk.github.io/simple_analog_pebbleface/index.html)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tor-erik-klausen_53
 <h2 class="app-name" id="app-55eae82309fc088aef00001a"><a href="https://apps.repebble.com/55eae82309fc088aef00001a">TEK Watch01</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/torerikk/simple_analog_pebbleface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-05</span> <span title="Latest release in the app store">Updated 2016-08-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-09-05</span> <span title="Latest release in the app store">Updated 2016-08-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A simple analog watch face based on KS Watch Face by Chris Lewis . Configurable colors (background, clock face and stroke). Vibrates and displays a warning when disconnected.</p>
 </div>

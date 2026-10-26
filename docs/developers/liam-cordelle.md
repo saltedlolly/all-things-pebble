@@ -13,7 +13,7 @@ hide:
 
 # Liam Cordelle
 
-*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/liam-cordelle_e31645c88f617059803cfa71) · [GitHub (LiamCordelle)](https://github.com/LiamCordelle)
 
@@ -21,20 +21,75 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/liam-cordelle_e3164
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>7</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>6</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="mondrian" data-released="2026-10-18" data-updated="2026-10-18">
+<div class="app-card" data-type="watchface" data-title="word clock" data-released="2026-10-22" data-updated="2026-10-22">
+<a class="app-shot" href="https://apps.repebble.com/c9a837c5a40841b898ec9376" data-search-exclude><img src="../images/apps/c9a837c5a40841b898ec9376.png" alt="Word Clock" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c9a837c5a40841b898ec9376"><a href="https://apps.repebble.com/c9a837c5a40841b898ec9376">Word Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/LiamCordelle/pebble-word-clock" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Time, spelled out. A quiet letter grid with minute dots, a date and a configurable caption. Tap or flick for heart rate, steps, UV, weather, upcoming sun times and a second time zone. Choose a…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="underground" data-released="2026-10-19" data-updated="2026-10-22">
+<a class="app-shot" href="https://apps.repebble.com/c977d7b7e07b49298007a427" data-search-exclude><img src="../images/apps/c977d7b7e07b49298007a427.png" alt="Underground" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c977d7b7e07b49298007a427"><a href="https://apps.repebble.com/c977d7b7e07b49298007a427">Underground</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.6</span></h2>
+<a class="app-source" href="https://github.com/LiamCordelle/pebble-underground" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Your day as a transit map. Follow daylight, steps, heart rate and UV along colourful routes on cream paper. Tap or flick for a seven-line Service status board. Includes rolling rain forecasts, a…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="quest" data-released="2026-10-22" data-updated="2026-10-22">
+<a class="app-shot" href="https://apps.repebble.com/4b8887048b0f4b89a07ed816" data-search-exclude><img src="../images/apps/4b8887048b0f4b89a07ed816.png" alt="Quest" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4b8887048b0f4b89a07ed816"><a href="https://apps.repebble.com/4b8887048b0f4b89a07ed816">Quest</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/LiamCordelle/pebble-quest" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Turn your day into a pixel RPG status screen. Quest pairs a bold pixel clock with dithered blue windows, battery HP, step XP and useful weather advice. Tap the screen or flick your wrist to open…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="mondrian" data-released="2026-10-18" data-updated="2026-10-22">
 <a class="app-shot" href="https://apps.repebble.com/ffa303a745844dac899c65b4" data-search-exclude><img src="../images/apps/ffa303a745844dac899c65b4.png" alt="Mondrian" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ffa303a745844dac899c65b4"><a href="https://apps.repebble.com/ffa303a745844dac899c65b4">Mondrian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<h2 class="app-name" id="app-ffa303a745844dac899c65b4"><a href="https://apps.repebble.com/ffa303a745844dac899c65b4">Mondrian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.9</span></h2>
 <a class="app-source" href="https://github.com/LiamCordelle/pebble-mondrian" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">An abstract composition for Pebble Time 2. Bold time, heart rate, steps and weather inhabit red, blue, yellow and white planes that change with your day. Tap or flick for a week of steps, heart…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="meridian" data-released="2026-10-22" data-updated="2026-10-22">
+<a class="app-shot" href="https://apps.repebble.com/660f9fba42274715a277bb81" data-search-exclude><img src="../images/apps/660f9fba42274715a277bb81.png" alt="Meridian" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-660f9fba42274715a277bb81"><a href="https://apps.repebble.com/660f9fba42274715a277bb81">Meridian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/LiamCordelle/pebble-meridian" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Follow your day around a glowing sky ring. Meridian puts time, steps, heart rate, weather and UV around a porthole that fills as you walk. Tap or flick for your pace, goal estimate, heart range…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="signal deck" data-released="2026-06-09" data-updated="2026-10-19">
+<a class="app-shot" href="https://apps.repebble.com/6e750c03f2d5418787ff3390" data-search-exclude><img src="../images/apps/6e750c03f2d5418787ff3390.gif" alt="Signal Deck" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6e750c03f2d5418787ff3390"><a href="https://apps.repebble.com/6e750c03f2d5418787ff3390">Signal Deck</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.8</span></h2>
+<a class="app-source" href="https://github.com/LiamCordelle/signal-deck" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-09</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A configurable light/dark flight-deck watchface with weather, health gauges, world clock, and crisp pixel typography.</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="pacelet" data-released="2026-06-17" data-updated="2026-09-22">
@@ -46,17 +101,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/liam-cordelle_e3164
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-09-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A simple activity tracker, using phone GPS</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="signal deck" data-released="2026-06-09" data-updated="2026-07-23">
-<a class="app-shot" href="https://apps.repebble.com/6e750c03f2d5418787ff3390" data-search-exclude><img src="../images/apps/6e750c03f2d5418787ff3390.gif" alt="Signal Deck" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-6e750c03f2d5418787ff3390"><a href="https://apps.repebble.com/6e750c03f2d5418787ff3390">Signal Deck</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.7</span></h2>
-<a class="app-source" href="https://github.com/LiamCordelle/signal-deck" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-09</span> <span title="Latest release in the app store">Updated 2026-07-23</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A configurable light/dark flight-deck watchface with weather, health gauges, world clock, and crisp pixel typography.</p>
 </div>
 </div>
 </div>

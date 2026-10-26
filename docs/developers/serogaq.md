@@ -13,7 +13,7 @@ hide:
 
 # serogaq
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/serogaq_2969738e6026dc0356bb3461) · [GitHub (serogaq)](https://github.com/serogaq)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/serogaq_2969738e602
 <h2 class="app-name" id="app-d71d5cfc5ec6470ebe8745d2"><a href="https://apps.repebble.com/d71d5cfc5ec6470ebe8745d2">Find My iPhone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/serogaq/PebbleFindMyiPhone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2</div>
 <p class="app-desc">Trigger the real Apple Find My Play Sound alert for your configured iPhone from a Pebble watch through your self-hosted backend</p>
 </div>

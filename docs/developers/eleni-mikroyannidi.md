@@ -13,7 +13,7 @@ hide:
 
 # Eleni Mikroyannidi
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eleni-mikroyannidi_5509d86484ad02f9f0000054) · [GitHub (elenimikro)](https://github.com/elenimikro)
 

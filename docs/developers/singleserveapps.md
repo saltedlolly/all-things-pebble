@@ -13,7 +13,7 @@ hide:
 
 # singleserveapps
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/542eeb101df24a56960001bd/1) · [GitHub (singleserveapps)](https://github.com/singleserveapps)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/542eeb101df24a5
 <h2 class="app-name" id="app-56f2f298065dfd86a800000c"><a href="https://apps.rebble.io/en_US/application/56f2f298065dfd86a800000c">91 Dub Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/singleserveapps/91-Dub-v2.0" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-23</span> <span title="Latest release in the app store">Updated 2016-10-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-23</span> <span title="Latest release in the app store">Updated 2016-10-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A version of 91 Dub (originally by orviwan) with added weather information. - Select how often OpenWeatherMap.org weather information is updated - Retrieve weather information using GPS or by…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Akiva
 
-*3 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/akiva_55c12ae1282aa3bdf31c76ea) · [GitHub (akivaatwood)](https://github.com/akivaatwood)
 

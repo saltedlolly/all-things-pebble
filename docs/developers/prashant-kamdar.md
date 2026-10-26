@@ -13,7 +13,7 @@ hide:
 
 # Prashant Kamdar
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/prashant-kamdar_57383b318498c1b2c5000011) · [GitHub (prashantkamdar)](https://github.com/prashantkamdar)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/prashant-kamdar_573
 <h2 class="app-name" id="app-5741d9dbd4d80647f0000011"><a href="https://apps.repebble.com/5741d9dbd4d80647f0000011">TimeSqaures</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/prashantkamdar/TimeSquares" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-22</span> <span title="Latest release in the app store">Updated 2016-05-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-22</span> <span title="Latest release in the app store">Updated 2016-05-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Hours 1-12 are displayed in the left most column, from the bottom to the top; each square represents an hour. Minutes are from the bottom right (second column onwards); each square represents a…</p>
 </div>

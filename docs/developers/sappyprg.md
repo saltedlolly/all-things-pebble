@@ -13,7 +13,7 @@ hide:
 
 # SappyPrg
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sappyprg_568a07dd10817e08a500008b) · [GitHub (imdanboy)](https://github.com/imdanboy) · [Website (sappyprg.com)](http://sappyprg.com)
 

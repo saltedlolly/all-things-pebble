@@ -13,7 +13,7 @@ hide:
 
 # Jeff Lait
 
-*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jeff-lait_52bdec2db1ce8e14c10000e7) · [GitHub (jmlaitpebble)](https://github.com/jmlaitpebble)
 

@@ -13,7 +13,7 @@ hide:
 
 # wedwabbit
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wedwabbit_52f01d5093a087ad2500041d) · [GitHub (wedwabbit)](https://github.com/wedwabbit)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wedwabbit_52f01d509
 <h2 class="app-name" id="app-5660e85b15c22b9d6300008c"><a href="https://apps.repebble.com/5660e85b15c22b9d6300008c">Big Time+Date Colour</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/wedwabbit/Big-Time-DateColour" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-04</span> <span title="Latest release in the app store">Updated 2016-01-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2015-12-04</span> <span title="Latest release in the app store">Updated 2016-01-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A colour version of Big Date+Time. Configuration page allows you to choose font (Original Big Time, Big Again, SquareFace, CST, Alpha Slab, Digital Thin, Digital Thick), separate foreground and…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wedwabbit_52f01d509
 <h2 class="app-name" id="app-565697117ffb06b5d900004c"><a href="https://apps.repebble.com/565697117ffb06b5d900004c">Big Time+Date Reverse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/wedwabbit/Big-Time-DateReverse" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-26</span> <span title="Latest release in the app store">Updated 2015-11-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-26</span> <span title="Latest release in the app store">Updated 2015-11-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A reversed (black on white) version of Big Time that displays both the date and time. Shake or tap to display the date for 1 second. Date on the top, month on the bottom. Search for Big Date+Time…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wedwabbit_52f01d509
 <h2 class="app-name" id="app-56440d92b2bae2732e00001a"><a href="https://apps.repebble.com/56440d92b2bae2732e00001a">Big Time+Date</a> <span class="app-version" title="Latest version" data-search-exclude>v6.2</span></h2>
 <a class="app-source" href="https://github.com/wedwabbit/Big-Time-Date" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-11-12</span> <span title="Latest release in the app store">Updated 2015-11-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-11-12</span> <span title="Latest release in the app store">Updated 2015-11-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A version of Big Time that displays both the date and time. Shake or tap to display the date for 1 second. Date on the top, month on the bottom. Search for Big Time+Date Reverse for a black on…</p>
 </div>

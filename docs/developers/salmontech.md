@@ -13,7 +13,7 @@ hide:
 
 # Salmontech
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/salmontech_330048197f0aae446b6560ef) · [GitHub (dev-salmontech)](https://github.com/dev-salmontech)
 

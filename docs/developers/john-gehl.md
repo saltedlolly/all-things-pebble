@@ -13,7 +13,7 @@ hide:
 
 # John Gehl
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-gehl_53a30d0e7ff27b07b700019f) · [GitHub (iliketocode)](https://github.com/iliketocode)
 

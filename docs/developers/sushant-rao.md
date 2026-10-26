@@ -13,7 +13,7 @@ hide:
 
 # Sushant Rao
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57e28c5c87d6bbe13f00004d/1) · [GitHub (sushant10)](https://github.com/sushant10)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57e28c5c87d6bbe
 <h2 class="app-name" id="app-594e34a6b67f9fae6300142f"><a href="https://apps.rebble.io/en_US/application/594e34a6b67f9fae6300142f">Sushi&#x27;s Moon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/sushant10/Moon_Watchface/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-06-24</span> <span title="Latest release in the app store">Updated 2017-06-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-06-24</span> <span title="Latest release in the app store">Updated 2017-06-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Minimalistic Watchface called MOON. Now choose between both Fahrenheit/Celsius in the config!!!!!! Shows the local weather! Shows battery status! Français Minimalistic Watchface appelé MOON…</p>
 </div>

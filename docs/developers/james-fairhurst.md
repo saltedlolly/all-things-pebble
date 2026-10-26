@@ -13,7 +13,7 @@ hide:
 
 # James Fairhurst
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-fairhurst_53edfa2ed7d50558e00000fd) · [GitHub (jamesfairhurst)](https://github.com/jamesfairhurst)
 

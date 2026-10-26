@@ -13,7 +13,7 @@ hide:
 
 # Robbe Derks
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robbe-derks_646e91cc5f8258082f14349a) · [GitHub (robbederks)](https://github.com/robbederks)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robbe-derks_646e91c
 <h2 class="app-name" id="app-b91051fbb0564e9abd2d5a6f"><a href="https://apps.repebble.com/b91051fbb0564e9abd2d5a6f">Eight Pebbles</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/robbederks/eight-pebbles" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-10</span> <span title="Latest release in the app store">Updated 2026-06-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Control your Eight Sleep mattress from your wrist. Designed around one use case: nudging the bed temperature at 3am without reaching for your phone.</p>
 </div>

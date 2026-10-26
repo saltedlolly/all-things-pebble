@@ -13,7 +13,7 @@ hide:
 
 # Michal Kowalkowski
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michal-kowalkowski_5668418ca1c34e886900003d) · [GitHub (michalkow)](https://github.com/michalkow)
 

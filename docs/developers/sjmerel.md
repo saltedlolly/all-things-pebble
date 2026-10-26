@@ -13,7 +13,7 @@ hide:
 
 # sjmerel
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sjmerel_c3cfdea00bafd8896a186e03) · [GitHub (sjmerel)](https://github.com/sjmerel)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sjmerel_c3cfdea00ba
 <h2 class="app-name" id="app-82f82f04a6434f4bbcfdc178"><a href="https://apps.repebble.com/82f82f04a6434f4bbcfdc178">Piet</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/sjmerel/piet" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-09</span> <span title="Latest release in the app store">Updated 2025-12-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-09</span> <span title="Latest release in the app store">Updated 2025-12-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A Mondrian-inspired watchface. Give your wrist a quick twist to show the date and battery level. A bluetooth icon is displayed when disconnected.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sjmerel_c3cfdea00ba
 <h2 class="app-name" id="app-09ceb96d8a6f4d13a84ce1e8"><a href="https://apps.repebble.com/09ceb96d8a6f4d13a84ce1e8">Dot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/sjmerel/dot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-08</span> <span title="Latest release in the app store">Updated 2025-12-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-08</span> <span title="Latest release in the app store">Updated 2025-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Analog watchface, with... dots.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sjmerel_c3cfdea00ba
 <h2 class="app-name" id="app-8c24105f15544c5987dfa240"><a href="https://apps.repebble.com/8c24105f15544c5987dfa240">Big</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/sjmerel/big" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2025-12-08</span> <span title="Latest release in the app store">Updated 2025-12-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-12-08</span> <span title="Latest release in the app store">Updated 2025-12-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watchface with big numbers for people with old eyes. Give your wrist a quick twist to show the date. The battery level will appear when charging, or when the level is 30% or less.</p>
 </div>

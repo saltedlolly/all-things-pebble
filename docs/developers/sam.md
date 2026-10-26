@@ -13,7 +13,7 @@ hide:
 
 # Sam
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam_2c27d574c8b3978fe6d5e34f) · [GitHub (sammo312)](https://github.com/sammo312)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sam_2c27d574c8b3978
 <h2 class="app-name" id="app-e5614fc4168a486b9108c468"><a href="https://apps.repebble.com/e5614fc4168a486b9108c468">ASCII and Ye Shall Receive</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.0</span></h2>
 <a class="app-source" href="https://github.com/sammo312/pebble-wf-01" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-05-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Nerd-core ASCII watchface with fun touch interactions. Configurable. WIP</p>
 </div>

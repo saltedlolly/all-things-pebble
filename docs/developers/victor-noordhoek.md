@@ -13,7 +13,7 @@ hide:
 
 # Victor Noordhoek
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/57b8e2faf01b53bccc00097b/1) · [GitHub (dieki-n)](https://github.com/dieki-n)
 

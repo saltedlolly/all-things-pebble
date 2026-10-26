@@ -13,7 +13,7 @@ hide:
 
 # Weston Dransfield
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/weston-dransfield_56e4e91bb7a6015eae000044) · [GitHub (westonkd)](https://github.com/westonkd)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/weston-dransfield_5
 <h2 class="app-name" id="app-57846fef6c210401790007aa"><a href="https://apps.repebble.com/57846fef6c210401790007aa">Helium</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/westonkd/helium" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-12</span> <span title="Latest release in the app store">Updated 2016-07-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-12</span> <span title="Latest release in the app store">Updated 2016-07-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">New in v1.5: battery meter, customize which ring shows the hour/minute, and a dropped connection notification! Helium is a simple and appealing layered watchface. Helium’s outer ring indicates the…</p>
 </div>

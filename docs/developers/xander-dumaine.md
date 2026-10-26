@@ -13,7 +13,7 @@ hide:
 
 # Xander Dumaine
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xander-dumaine_550e2f975a64e7320c000087) · [GitHub (xdumaine)](https://github.com/xdumaine)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xander-dumaine_550e
 <h2 class="app-name" id="app-56bb47a3c0d1547f7e00000f"><a href="https://apps.repebble.com/56bb47a3c0d1547f7e00000f">Polar UTC</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/xdumaine/pebble-polar-utc" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-10</span> <span title="Latest release in the app store">Updated 2016-02-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-10</span> <span title="Latest release in the app store">Updated 2016-02-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">The watchface shows the local time hour in large text, followed by the current date, followed by the UTC hour. Minutes are represented by the arc around the outside. Every 5 minutes, the arc…</p>
 </div>

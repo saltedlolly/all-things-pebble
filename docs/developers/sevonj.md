@@ -13,7 +13,7 @@ hide:
 
 # Sevonj
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sevonj_672d1117136b8b075ec492c0) · [GitHub (sevonj)](https://github.com/sevonj)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sevonj_672d1117136b
 <h2 class="app-name" id="app-dc62766ac0894868b49e62c8"><a href="https://apps.repebble.com/dc62766ac0894868b49e62c8">Phalaenopsis</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.4</span></h2>
 <a class="app-source" href="https://github.com/sevonj/pbl-orkidea" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-08-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-08-03</span> <span title="Latest release in the app store">Updated 2026-08-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Shows coarse battery state when relevant.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sevonj_672d1117136b
 <h2 class="app-name" id="app-05a9473410184f44bead9383"><a href="https://apps.repebble.com/05a9473410184f44bead9383">Nocturnal Thing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.2</span></h2>
 <a class="app-source" href="https://github.com/sevonj/pbl-nocturnal-thing" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-07-12</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A nightly creature. I ordered a Round 2 and tried building my own watchface while waiting for it. It&#x27;s minimal, native, and updates the screen once a minute, so hopefully it&#x27;ll eat very little…</p>
 </div>

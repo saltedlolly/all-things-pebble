@@ -13,7 +13,7 @@ hide:
 
 # STR\_O
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ad136e01a9d380009ba741c/1) · [GitHub (strohbinsky)](https://github.com/strohbinsky)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ad136e01a9d380
 <h2 class="app-name" id="app-6ad237457779df00097701d0"><a href="https://apps.rebble.io/en_US/application/6ad237457779df00097701d0">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v0.12.0</span></h2>
 <a class="app-source" href="https://github.com/strohbinsky/pebble-timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1437" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-16</span> <span title="Latest release in the app store">Updated 2026-10-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-16</span> <span title="Latest release in the app store">Updated 2026-10-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A fun Timer and Stopwatch with an animated Sky Diver. Alternative and a bit more serious skin available in the menu.</p>
 </div>

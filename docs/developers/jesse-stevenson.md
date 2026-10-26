@@ -13,7 +13,7 @@ hide:
 
 # Jesse Stevenson
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-stevenson_554a5bc71c6fe7228500006b) · [GitHub (jessedusty)](https://github.com/jessedusty)
 

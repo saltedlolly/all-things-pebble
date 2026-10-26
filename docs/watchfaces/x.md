@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · **X** · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*10 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*10 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-8d0aa31ae4834764be9292b9"><a href="https://apps.repebble.com/8d0aa31ae4834764be9292b9">Xeric Jump Hour</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/shapeepo/xeric-jump-hour" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/shapeepo.html" title="More from this developer">Shapeepo</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-30</span> <span title="Latest release in the app store">Updated 2026-04-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-30</span> <span title="Latest release in the app store">Updated 2026-04-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Based on Xeric Retroscope Jump Hour (designed with help from claude code, wip)</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-5567f5e4dd469916f300009d"><a href="https://apps.repebble.com/5567f5e4dd469916f300009d">XEVI NUMBER</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/taturou/pebble_Xevious" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/taturou.html" title="More from this developer">taturou</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-05-29</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-05-29</span> <span title="Latest release in the app store">Updated 2015-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">The Xevious number clock.</p>
 </div>
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-53a59b119580ed5b6300014e"><a href="https://apps.repebble.com/53a59b119580ed5b6300014e">XTERN</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/vidia/xtern" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vidia.html" title="More from this developer">Vidia</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-06-21</span> <span title="Latest release in the app store">Updated 2014-06-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-06-21</span> <span title="Latest release in the app store">Updated 2014-06-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Xtern, the ultimate tech internship experience. Xtern is an initiative of IndyX which gathers talented interns to work at Indianapolis, IN&#x27;s fastest growing tech companies. Intens live together in…</p>
 </div>

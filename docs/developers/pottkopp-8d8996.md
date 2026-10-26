@@ -13,7 +13,7 @@ hide:
 
 # Pottkopp
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pottkopp_82c5b97291d272e0b4e1aa46) · [GitHub (eric-lindholm)](https://github.com/eric-lindholm)
 

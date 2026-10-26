@@ -13,7 +13,7 @@ hide:
 
 # Namka
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a061bb94787e50008f7f373/1) · [GitHub (s-titanium-74)](https://github.com/s-titanium-74)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a061bb94787e50
 <h2 class="app-name" id="app-6a2764f6d2556100093bfbf5"><a href="https://apps.rebble.io/en_US/application/6a2764f6d2556100093bfbf5">Ask Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
 <a class="app-source" href="https://github.com/s-titanium-74/ask-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1036" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-09</span> <span title="Latest release in the app store">Updated 2026-07-20</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-09</span> <span title="Latest release in the app store">Updated 2026-07-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Ask Pebble turns Pebble Dictation into a compact AI Q&amp;A flow. Press Select, speak a question, and the app sends the recognized text from PebbleKit JS on your paired Android phone to the API…</p>
 </div>

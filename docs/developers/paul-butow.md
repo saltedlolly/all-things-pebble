@@ -13,7 +13,7 @@ hide:
 
 # Paul Bütow
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul-b-tow_879658cff76b318b7b31f6af) · [GitHub (snonux)](https://github.com/snonux)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul-b-tow_879658cf
 <h2 class="app-name" id="app-a488436292ad4eb69d2a61d8"><a href="https://apps.repebble.com/a488436292ad4eb69d2a61d8">FastForge</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/snonux/fastforge" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-15</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Track intermittent fasting from your wrist. Start and monitor fasts with a clear timer, use quick presets for common schedules, and review history and streak-friendly stats when you need context…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul-b-tow_879658cf
 <h2 class="app-name" id="app-931683527605431e96bf2772"><a href="https://apps.repebble.com/931683527605431e96bf2772">RESTForge</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6</span></h2>
 <a class="app-source" href="https://github.com/snonux/restforge" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">RESTForge — control any Siren API from your wrist RESTForge turns your Pebble into a remote control for any web API that speaks Siren — a standard way for a server to describe itself. You don&#x27;t…</p>
 </div>

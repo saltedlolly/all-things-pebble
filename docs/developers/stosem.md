@@ -13,7 +13,7 @@ hide:
 
 # stosem
 
-*3 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a2a0e690dfc329d17001135/1) · [GitHub (stosem)](https://github.com/stosem)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a2a0e690dfc329
 <h2 class="app-name" id="app-5ac4c075f38588510f00014b"><a href="https://apps.rebble.io/en_US/application/5ac4c075f38588510f00014b">Piano</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/stosem/pebble-wf-Piano" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-04-04</span> <span title="Latest release in the app store">Updated 2018-04-11</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-04-04</span> <span title="Latest release in the app store">Updated 2018-04-11</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">What is the sound of Time? Now you can see it. The first piano row is for showing hour. Bottom - minutes. Black keys - for the first digit of number (ten, twenty,...). White keys - second digit…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a2a0e690dfc329
 <h2 class="app-name" id="app-5abf41ee461a8d6af400030c"><a href="https://apps.rebble.io/en_US/application/5abf41ee461a8d6af400030c">Zen Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/stosem/pebble-wf-ZenTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-03-31</span> <span title="Latest release in the app store">Updated 2018-04-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-03-31</span> <span title="Latest release in the app store">Updated 2018-04-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Zen time is eternal NOW. But you can also read approximate mental time by detecting position of zen-circle (hour) and dot around this circle (minute). In screenshots it is a 11:00, 6:45, 3:30. To…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a2a0e690dfc329
 <h2 class="app-name" id="app-5abf322df38588510f000046"><a href="https://apps.rebble.io/en_US/application/5abf322df38588510f000046">RandomTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/stosem/pebble-app-RandomTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-03-31</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-03-31</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">RandomTimer. Countdown timer with random interval. Useful for board or party games (like hot potato) with reaction. Also may used in some other practice where you need a countdown that will expire…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a2a0e690dfc329
 <h2 class="app-name" id="app-5ac4bf6cf38588775f000125"><a href="https://apps.rebble.io/en_US/application/5ac4bf6cf38588775f000125">RandomReminder</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/stosem/pebble-app-RandomReminder" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-04-04</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-04-04</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">RandomReminder. You can set up to 8 remindes in a day which will be happend in random time on specified period. It useful for remind for drink enough of water in a day, step away from computer…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a2a0e690dfc329
 <h2 class="app-name" id="app-5aa584f10dfc325c1c0001f3"><a href="https://apps.rebble.io/en_US/application/5aa584f10dfc325c1c0001f3">Advanced Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/stosem/pebble-wf-AdvancedAnalog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-03-11</span> <span title="Latest release in the app store">Updated 2018-03-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-03-11</span> <span title="Latest release in the app store">Updated 2018-03-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Analog Watchface with weather and health data. Features: - Support rectangle and round display. - White or black theme. - Bluetooth, QuietTime, Charge icons. - Display steps. - Battery indicator…</p>
 </div>

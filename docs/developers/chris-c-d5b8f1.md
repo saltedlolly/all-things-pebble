@@ -13,7 +13,7 @@ hide:
 
 # Chris C
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-c_f072419a7c00b02e2e3351ba) · [GitHub (chrisc123)](https://github.com/chrisc123)
 

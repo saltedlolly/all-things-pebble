@@ -13,7 +13,7 @@ hide:
 
 # Salim Benhamadi
 
-*1 watchface and 3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/salim-benhamadi_661d02d636de4056f2a5eada) · [GitHub (salim-benhamadi)](https://github.com/salim-benhamadi)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/salim-benhamadi_661
 <h2 class="app-name" id="app-31982194f0bb4f248a6a44fd"><a href="https://apps.repebble.com/31982194f0bb4f248a6a44fd">Undertale - Still You</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/salim-benhamadi/Pebble-Undertale" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-29</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-29</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Undertale&#x27;s &quot;Despite everything, it&#x27;s still you.&quot; typed out in pixel letters, rewriting itself every minute.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/salim-benhamadi_661
 <h2 class="app-name" id="app-53cbaca97e8944cab0749b1e"><a href="https://apps.repebble.com/53cbaca97e8944cab0749b1e">Red Flagr</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/salim-benhamadi/Pebble-Red-Flagr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-29</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-29</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Would you like to know if he&#x27;s the one, or just one more red flag? Red Flagr is the magic 8-ball for your love life, and it lives on your wrist. Shake your Pebble and it reveals a red flag about…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/salim-benhamadi_661
 <h2 class="app-name" id="app-1e8def94044d4f4ca69cc566"><a href="https://apps.repebble.com/1e8def94044d4f4ca69cc566">Pebble Arcade</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/salim-benhamadi/Pebble-Arcade" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Six retro arcade games in one app, playable with just your watch buttons. Pick a game from the menu, play a quick round, and hit SELECT to retry. Games Flappy: tap to flap through the pipes…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/salim-benhamadi_661
 <h2 class="app-name" id="app-f10917da43df4fb78599e0b9"><a href="https://apps.repebble.com/f10917da43df4fb78599e0b9">Tarot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/salim-benhamadi/Pebble-Tarot" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-09-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">puts a full 78-card Rider-Waite deck on your wrist and lets the stars do the talking. Choose your reading: a Daily Card that stays yours all day, a quick Yes or No, Past, Present and Future, Mind…</p>
 </div>

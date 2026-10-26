@@ -13,7 +13,7 @@ hide:
 
 # Vortex375
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vortex375_816691a09977084fa9effe30) · [GitHub (Vortex375)](https://github.com/Vortex375)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vortex375_816691a09
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="clock town clock" data-released="2026-10-18" data-updated="2026-10-18">
+<div class="app-card" data-type="watchface" data-title="clock town clock" data-released="2026-10-18" data-updated="2026-10-20">
 <a class="app-shot" href="https://apps.repebble.com/f00a753025704746a790a1ed" data-search-exclude><img src="../images/apps/f00a753025704746a790a1ed.png" alt="Clock Town Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f00a753025704746a790a1ed"><a href="https://apps.repebble.com/f00a753025704746a790a1ed">Clock Town Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-f00a753025704746a790a1ed"><a href="https://apps.repebble.com/f00a753025704746a790a1ed">Clock Town Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/Vortex375/clocktown-clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Pebble Time 2 watch face inspired by the Clock Tower design from The Legendof Zelda - Majora&#x27;s Mask. Supports displaying the time in digital format and the four corners are configurable to display…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Paul McMonagle
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul-mcmonagle_531cae613d915ce9570001bb) · [GitHub (pmcmonagle)](https://github.com/pmcmonagle) · [Website (tvo.org)](http://www.tvo.org)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/paul-mcmonagle_531c
 <h2 class="app-name" id="app-531defb33b2377ea9a00018d"><a href="https://apps.repebble.com/531defb33b2377ea9a00018d">TVO Logo Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/pmcmonagle/tvowatchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-10</span> <span title="Latest release in the app store">Updated 2014-03-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2014-03-10</span> <span title="Latest release in the app store">Updated 2014-03-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A very basic watchface accompanied by the TVO logo. Tapping your watch will display the show currently playing on TVO broadcast.</p>
 </div>

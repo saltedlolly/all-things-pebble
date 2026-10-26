@@ -13,7 +13,7 @@ hide:
 
 # Gretchycat
 
-*10 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*10 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gretchycat_52bf60060136db31fb0000d3) · [GitHub (gretchycat)](https://github.com/gretchycat) · [Website (ipocketcast.com)](http://www.ipocketcast.com/wiki/index.php?title=DarkSide)
 

@@ -13,7 +13,7 @@ hide:
 
 # Painless Apps
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/painless-apps_5388039721fa15cb20000094) · [GitHub (sunnygoyal)](https://github.com/sunnygoyal)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/painless-apps_53880
 <h2 class="app-name" id="app-56088fcf364a06c221000009"><a href="https://apps.repebble.com/56088fcf364a06c221000009">FORM Watch Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/sunnygoyal/FORMWatchFace-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-28</span> <span title="Latest release in the app store">Updated 2016-05-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2015-09-28</span> <span title="Latest release in the app store">Updated 2016-05-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a watch face for Pebble based on the typeface used for the FORM design conference (based on Form watch face for Android Wear)</p>
 </div>

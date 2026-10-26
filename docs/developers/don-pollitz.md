@@ -13,7 +13,7 @@ hide:
 
 # Don Pollitz
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/don-pollitz_549c30a3ad219e5ece00026f) · [GitHub (chaos2007)](https://github.com/chaos2007)
 

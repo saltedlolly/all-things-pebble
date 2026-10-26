@@ -13,7 +13,7 @@ hide:
 
 # stark-dev
 
-*4 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583d7ae300355a2f3a00056e/1) · [GitHub (stark-dev)](https://github.com/stark-dev)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583d7ae300355a2
 <h2 class="app-name" id="app-58d56b610dfc3252f4000500"><a href="https://apps.rebble.io/en_US/application/58d56b610dfc3252f4000500">Q-Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/stark-dev/Q-Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-03-24</span> <span title="Latest release in the app store">Updated 2017-05-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-03-24</span> <span title="Latest release in the app store">Updated 2017-05-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Simple and clean watchface, inspired by Fossil Q style smartwatch. It shows date and weekday, battery status, quiet mode and bluetooth connection status. UPDATE: Version 1.1 allows to set colours…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583d7ae300355a2
 <h2 class="app-name" id="app-586a7c542ee431238100037b"><a href="https://apps.rebble.io/en_US/application/586a7c542ee431238100037b">Time Square</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/stark-dev/Time-Square" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-01-02</span> <span title="Latest release in the app store">Updated 2017-03-22</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2017-01-02</span> <span title="Latest release in the app store">Updated 2017-03-22</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Square watchface with time, date and weekday. It also includes battery, connection and vibration info. Battery circle represents the percentage of charge remaining. When battery reaches 20% the…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583d7ae300355a2
 <h2 class="app-name" id="app-584de168ce45dc2706000242"><a href="https://apps.rebble.io/en_US/application/584de168ce45dc2706000242">ZWF</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/stark-dev/ZWF" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-11</span> <span title="Latest release in the app store">Updated 2016-12-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-12-11</span> <span title="Latest release in the app store">Updated 2016-12-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Simple watchface. Shows date, bluetooth status, quiet mode and battery level. Hours: white; Minutes: red; Bluetooth dot is blue when connected, red when disconnected. The leftmost dot is red when…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/583d7ae300355a2
 <h2 class="app-name" id="app-584dfc2f77324baac00003de"><a href="https://apps.rebble.io/en_US/application/584dfc2f77324baac00003de">ORBIT</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/stark-dev/ORBIT-WF" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-12</span> <span title="Latest release in the app store">Updated 2016-12-12</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-12-12</span> <span title="Latest release in the app store">Updated 2016-12-12</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Simple watchface, shows date, battery status, bluetooth and quiet mode. Hands are similar to planets Hours: red; Minutes: white; Bluetooth dot is blue when connected, red when disconnected. The…</p>
 </div>

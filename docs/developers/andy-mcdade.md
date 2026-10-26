@@ -13,7 +13,7 @@ hide:
 
 # Andy McDade
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andy-mcdade_52fe01639afd98fbae00015a) · [GitHub (redlegoman)](https://github.com/redlegoman)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andy-mcdade_52fe016
 <h2 class="app-name" id="app-57172b59c88396d123000002"><a href="https://apps.repebble.com/57172b59c88396d123000002">RLM Simple Colour Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.111</span></h2>
 <a class="app-source" href="https://github.com/redlegoman/Colour-RLM-Simple-Watch-w-Config" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-20</span> <span title="Latest release in the app store">Updated 2025-11-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-20</span> <span title="Latest release in the app store">Updated 2025-11-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A simple digital watch face with a nice big font, a battery percentage and seconds ticking away in the corner. Everything I need with a little splash of colour. You can now choose the colours for…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andy-mcdade_52fe016
 <h2 class="app-name" id="app-541eb5e46cd005ba4b000108"><a href="https://apps.repebble.com/541eb5e46cd005ba4b000108">RLM Simple Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.101</span></h2>
 <a class="app-source" href="https://github.com/redlegoman/RLM-SIMPLE-WATCH" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-09-21</span> <span title="Latest release in the app store">Updated 2016-04-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-09-21</span> <span title="Latest release in the app store">Updated 2016-04-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watch face, nothing fancy. Nice big time, with the day and date at jaunty alignments. Also has the battery percentage (should I put it on charge tonight?) and the seconds ticking away in…</p>
 </div>

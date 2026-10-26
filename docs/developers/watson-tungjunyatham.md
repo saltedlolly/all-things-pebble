@@ -13,7 +13,7 @@ hide:
 
 # Watson Tungjunyatham
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/watson-tungjunyatham_5520e10a51d74384870000da) · [GitHub (starrodkirby86)](https://github.com/starrodkirby86)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/watson-tungjunyatha
 <h2 class="app-name" id="app-574a15f197cebc2b9100001c"><a href="https://apps.repebble.com/574a15f197cebc2b9100001c">Love Live! School Idol Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/starrodkirby86/llsiw/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-28</span> <span title="Latest release in the app store">Updated 2016-05-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-05-28</span> <span title="Latest release in the app store">Updated 2016-05-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">If we want to protect our beloved school, we need to do what we can? We need to become idols! Love Live! School Idol Watchface is a watchface based on the popular anime franchise, Love Live! Using…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/watson-tungjunyatha
 <h2 class="app-name" id="app-55b9146d4b7d02669800006e"><a href="https://apps.repebble.com/55b9146d4b7d02669800006e">Maji de Watashi ni Koishinasai! W (Majikoi! W)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/starrodkirby86/Majikoi-Watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-29</span> <span title="Latest release in the app store">Updated 2015-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-29</span> <span title="Latest release in the app store">Updated 2015-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Love me, seriously! This is a Maji de Watashi ni Koishinasai! (Majikoi) themed watchface, with a few other features as well! This watchface includes 5 backgrounds and 11 characters that randomly…</p>
 </div>

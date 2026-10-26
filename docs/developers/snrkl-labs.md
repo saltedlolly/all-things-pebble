@@ -13,7 +13,7 @@ hide:
 
 # snrkl labs
 
-*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/snrkl-labs_4aece47c3cbfb14d594e6f1b) · [GitHub (snrkl-labs)](https://github.com/snrkl-labs)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/snrkl-labs_4aece47c
 <h2 class="app-name" id="app-07574105fbd2472e9055b82d"><a href="https://apps.repebble.com/07574105fbd2472e9055b82d">Alarm Rock</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.4</span></h2>
 <a class="app-source" href="https://github.com/snrkl-labs/AlarmRock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-03</span> <span title="Latest release in the app store">Updated 2026-08-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-03</span> <span title="Latest release in the app store">Updated 2026-08-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I was tired of not having a seamless integration between alarms and smart watches on Android. I discovered that unless you had a phone and watch of a matching brand, it seems alarms were either…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/snrkl-labs_4aece47c
 <h2 class="app-name" id="app-b2b9a975d9ab466f98cb4a2d"><a href="https://apps.repebble.com/b2b9a975d9ab466f98cb4a2d">Big Rock Battery</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/snrkl-labs/BigRockBattery" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-04</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-04</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I can&#x27;t see any of the built in battery gauges on the default watch while wearing my glasses, let alone without them on. This solves that problem: A giant watch battery gauge that I can see from…</p>
 </div>

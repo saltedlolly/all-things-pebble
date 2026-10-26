@@ -13,7 +13,7 @@ hide:
 
 # Pranav Vishnu
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pranav-vishnu_52dda9125d0e578ad3000013) · [GitHub (pvrnav)](https://github.com/pvrnav) · [GitHub (pranavvishnu)](https://github.com/pranavvishnu)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pranav-vishnu_52dda
 <h2 class="app-name" id="app-52f15c408d40be941000034b"><a href="https://apps.repebble.com/52f15c408d40be941000034b">Clear Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/pvrnav/clear-watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-04</span> <span title="Latest release in the app store">Updated 2014-02-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-04</span> <span title="Latest release in the app store">Updated 2014-02-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple watch face using Helvetica Neue that shows the time, day and date. Supports both 12 &amp; 24 hour modes. Made to go easy on your battery.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pranav-vishnu_52dda
 <h2 class="app-name" id="app-52e17e505b1d9ec9e60000aa"><a href="https://apps.repebble.com/52e17e505b1d9ec9e60000aa">Clean Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/pranavvishnu/clean-watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-23</span> <span title="Latest release in the app store">Updated 2014-02-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-23</span> <span title="Latest release in the app store">Updated 2014-02-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple, clean watch face using Helvetica Neue. Displays Time, Date and Day. Supports both 24 and 12-hour Modes. Made to go easy on your battery, as time only updates once a minute.</p>
 </div>

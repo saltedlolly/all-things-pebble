@@ -13,7 +13,7 @@ hide:
 
 # David C. Drake
 
-*3 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-c-drake_52a967dbc0ca9380d8000046) · [GitHub (theDrake)](https://github.com/theDrake) · [Website (davidcdrake.com)](http://davidcdrake.com/pebblequest/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-c-drake_52a96
 <h2 class="app-name" id="app-52d6a7307b4f9ad65300000c"><a href="https://apps.repebble.com/52d6a7307b4f9ad65300000c">PebbleQuest</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/theDrake/pebblequest" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2016-01-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2016-01-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">A 3D fantasy action-RPG! Explore dungeons, slay monsters, level up, and wield Pebbles of Power to cast spells or enchant your weapons and armor. How long will you last in the dark, cavernous…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-c-drake_52a96
 <h2 class="app-name" id="app-52d6a8c0333d76e3d000000a"><a href="https://apps.repebble.com/52d6a8c0333d76e3d000000a">SpaceMerc</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/theDrake/spacemerc" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2016-01-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-01-15</span> <span title="Latest release in the app store">Updated 2016-01-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A 3D first-person shooter (FPS game)! Defend humanity against hostile aliens, earn money, and buy upgrades as you progress through this intense sci-fi action thriller. UP: Press once to step…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-c-drake_52a96
 <h2 class="app-name" id="app-52a97439c0ca9349a0000051"><a href="https://apps.repebble.com/52a97439c0ca9349a0000051">MazeCrawler</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/theDrake/mazecrawler" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2016-01-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2016-01-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A 3D first-person maze-navigation game and the foundation for SpaceMerc and PebbleQuest. Search each maze for its exit, marked by a hole in the ground, to earn points and unlock up to 12…</p>
 </div>

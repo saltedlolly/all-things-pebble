@@ -13,7 +13,7 @@ hide:
 
 # volksen
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/volksen_2d30d3eefc7e77d201cb94ca) · [GitHub (volksen)](https://github.com/volksen)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/volksen_2d30d3eefc7
 <h2 class="app-name" id="app-b655ae247e9b47ea8e7166e8"><a href="https://apps.repebble.com/b655ae247e9b47ea8e7166e8">A Rainy Face</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.4</span></h2>
 <a class="app-source" href="https://github.com/volksen/a_rainy_face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Simple watchface with weather info from openmeteo, especially precipitation</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/volksen_2d30d3eefc7
 <h2 class="app-name" id="app-bf5a0ce2cf624ec7af26b3a4"><a href="https://apps.repebble.com/bf5a0ce2cf624ec7af26b3a4">rainy phoenix</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/volksen/rainy-phoenix" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Fork of the awesome phoenix big by astosia with rain amount and probability instead of steps and battery. I also removed many options, which i did not need. The watchface is still BETA!</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/volksen_2d30d3eefc7
 <h2 class="app-name" id="app-bb2375458f8a4f259ed563a8"><a href="https://apps.repebble.com/bb2375458f8a4f259ed563a8">rainy face</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8.0</span></h2>
 <a class="app-source" href="https://github.com/volksen/c_rainy_face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-08-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-08-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">a simple watchface with weather and rain data from openmeteo</p>
 </div>

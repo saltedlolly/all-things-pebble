@@ -13,7 +13,7 @@ hide:
 
 # Comet Designs
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comet-designs_5f179d466ba98c00eb25aa34) · [GitHub (randylaheyjr)](https://github.com/randylaheyjr)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/comet-designs_5f179
 <h2 class="app-name" id="app-eb92c307037c414b80fbd943"><a href="https://apps.repebble.com/eb92c307037c414b80fbd943">Color Calendar Redux</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.1</span></h2>
 <a class="app-source" href="https://github.com/randylaheyjr/ColorCalendarRedux" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-06</span> <span title="Latest release in the app store">Updated 2026-07-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-06</span> <span title="Latest release in the app store">Updated 2026-07-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Color Calendar Redux This is an update of the original Color Calendar app created by Kelby. A simple, easy-to-read calendar for your Pebble. Tap or Swipe Up and Down to scroll between months…</p>
 </div>

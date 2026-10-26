@@ -13,7 +13,7 @@ hide:
 
 # Flynn Duniho
 
-*5 watchfaces and 6 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 6 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/67bd48a737d408000a74f7d7/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/flynn-duniho_67bd48a737d408000a74f7d7) · [GitHub (FlynnD273)](https://github.com/FlynnD273) · [Website (flynnd273.github.io)](https://flynnd273.github.io/)
 

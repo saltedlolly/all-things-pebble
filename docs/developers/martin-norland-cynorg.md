@@ -13,7 +13,7 @@ hide:
 
 # Martin Norland (@cynorg)
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/martin-norland-cynorg_529787a17981358aa7000007) · [GitHub (cynorg)](https://github.com/cynorg)
 

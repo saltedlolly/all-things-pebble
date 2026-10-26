@@ -13,7 +13,7 @@ hide:
 
 # Jaran Nilsen
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jaran-nilsen_531df3f7654e2a24af000193) · [GitHub (jarannilsen)](https://github.com/jarannilsen)
 

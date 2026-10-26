@@ -13,7 +13,7 @@ hide:
 
 # Daniel Bally
 
-*2 watchfaces and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a0ff28edd5791d1bced) · [GitHub (globe-and-atlas)](https://github.com/globe-and-atlas)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="from here" data-released="2026-09-28" data-updated="2026-10-19">
+<a class="app-shot" href="https://apps.repebble.com/d9fc15a8f87746b7ba01f6ca" data-search-exclude><img src="../images/apps/d9fc15a8f87746b7ba01f6ca.gif" alt="From Here" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d9fc15a8f87746b7ba01f6ca"><a href="https://apps.repebble.com/d9fc15a8f87746b7ba01f6ca">From Here</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.2</span></h2>
+<a class="app-source" href="https://github.com/globe-and-atlas/from-here" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Watch the place your clock points to change through the day. Your location is the start; at 10:42, the route reaches 10°42′ along your chosen map direction. At midnight, the journey begins at home…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="pangaea drift" data-released="2026-10-03" data-updated="2026-10-03">
 <a class="app-shot" href="https://apps.repebble.com/490fd055aa9b485c8deced5e" data-search-exclude><img src="../images/apps/490fd055aa9b485c8deced5e.gif" alt="Pangaea Drift" loading="lazy"></a>
 <div class="app-info">
@@ -34,7 +45,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a
 <div class="app-dev">Watchface</div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A deep-time cartographic watchface for Pebble Time 2 (Emery). Midnight is 252 million years ago at the Triassic dawn; 23:59 marks the Cretaceous-Paleogene asteroid impact (66 Ma); and the final 60…</p>
+<p class="app-desc">A day across deep time. In Pangaea Drift, midnight begins 252 million years ago at the Triassic dawn. At 23:59, the clock reaches the asteroid impact 66 million years ago; the final minute races…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="satellite overpass" data-released="2026-09-28" data-updated="2026-10-02">
@@ -45,18 +56,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a
 <div class="app-dev">App</div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Plan Landsat 8/9 and Sentinel-2A/B/C passes over your location on Pebble Time 2. See a countdown, hourly cloud forecast, and modeled cross-track coverage. A 30-day history reports matching Earth…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="from here" data-released="2026-09-28" data-updated="2026-10-02">
-<a class="app-shot" href="https://apps.repebble.com/d9fc15a8f87746b7ba01f6ca" data-search-exclude><img src="../images/apps/d9fc15a8f87746b7ba01f6ca.gif" alt="From Here" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-d9fc15a8f87746b7ba01f6ca"><a href="https://apps.repebble.com/d9fc15a8f87746b7ba01f6ca">From Here</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
-<a class="app-source" href="https://github.com/globe-and-atlas/from-here" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Your location is the start. At 10:42 you are 10 degrees 42 minutes away along the direction you chose; the face shows where that is on a map, names the place, and tells you which town comes next…</p>
+<p class="app-desc">Plan Landsat 8/9 and Sentinel-2A/B/C passes over your location on Pebble Time 2. Satellite Overpass shows a countdown, hourly cloud forecast, and modeled cross-track coverage. Explore a pass: …</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="constellation" data-released="2026-09-28" data-updated="2026-10-02">
@@ -67,7 +67,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/daniel-bally_e8468a
 <div class="app-dev">App</div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-28</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">An educational orbital-geometry watchapp for Pebble Time 2. Constellation propagates public CelesTrak GP/TLE element sets with SGP4 to plot modeled GPS, Galileo, GLONASS, and BeiDou positions. It…</p>
+<p class="app-desc">Explore modeled satellite geometry on Pebble Time 2. Constellation propagates public CelesTrak elements with SGP4 to show GPS, Galileo, GLONASS, and BeiDou positions. It is an educational…</p>
 </div>
 </div>
 </div>

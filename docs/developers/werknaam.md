@@ -13,7 +13,7 @@ hide:
 
 # Werknaam
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/werknaam_67dd9c9fd943930009185733) · [GitHub (gbougakov)](https://github.com/gbougakov) · [Website (werknaam.be)](https://werknaam.be)
 

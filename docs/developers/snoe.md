@@ -13,7 +13,7 @@ hide:
 
 # snoe
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/snoe_444b0aa9d8662f61e4b53b34) · [GitHub (s256)](https://github.com/s256)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/snoe_444b0aa9d8662f
 <h2 class="app-name" id="app-4274579b352a4e609de34d48"><a href="https://apps.repebble.com/4274579b352a4e609de34d48">Music Assistant Control</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
 <a class="app-source" href="https://github.com/s256/pebble-musicassistant-remote/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-22</span> <span title="Latest release in the app store">Updated 2026-06-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-22</span> <span title="Latest release in the app store">Updated 2026-06-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Music Assistant Remote turns your Pebble Time 2 into a proper remote for your Music Assistant server. Transport, volume, multi-room grouping, and one-tap shortcuts to your library — all from your…</p>
 </div>

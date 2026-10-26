@@ -13,7 +13,7 @@ hide:
 
 # Navi
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/navi_b3393bc4fd6cdfba84690531)
 

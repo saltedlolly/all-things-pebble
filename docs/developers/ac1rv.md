@@ -13,23 +13,94 @@ hide:
 
 # AC1RV
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ac1rv_6777264aa2b96c9dc917ffe3) · [GitHub (Darachnid)](https://github.com/Darachnid)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>7</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>3</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>4</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="fresh water fishes of new england (1896)" data-released="2026-10-18" data-updated="2026-10-18">
+<div class="app-card" data-type="watchapp" data-title="rbn spots" data-released="2026-10-24" data-updated="2026-10-24">
+<a class="app-shot" href="https://apps.repebble.com/6b3d339514db438588a361ce" data-search-exclude><img src="../images/apps/6b3d339514db438588a361ce.png" alt="RBN Spots" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6b3d339514db438588a361ce"><a href="https://apps.repebble.com/6b3d339514db438588a361ce">RBN Spots</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/rbn-spots-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">RBN Spots is a ham radio app for checking Reverse Beacon Network spots on your wrist—who heard your callsign, how strong the report was, and where the skimmer is—before or after CW, contesting…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="now playing art" data-released="2026-10-24" data-updated="2026-10-24">
+<a class="app-shot" href="https://apps.repebble.com/0d26f301e1f14b2e98970f62" data-search-exclude><img src="../images/apps/0d26f301e1f14b2e98970f62.png" alt="Now Playing Art" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-0d26f301e1f14b2e98970f62"><a href="https://apps.repebble.com/0d26f301e1f14b2e98970f62">Now Playing Art</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/music-time-free/" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Android only. Now Playing Art is a free, open-source Pebble Time 2 watchface with a small Android companion app. It shows full-screen album art from whatever is playing on your phone, plus time…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="extinct birds (1907)" data-released="2026-10-22" data-updated="2026-10-24">
+<a class="app-shot" href="https://apps.repebble.com/3a50c8d0d5444f4994cb7105" data-search-exclude><img src="../images/apps/3a50c8d0d5444f4994cb7105.png" alt="Extinct Birds (1907)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-3a50c8d0d5444f4994cb7105"><a href="https://apps.repebble.com/3a50c8d0d5444f4994cb7105">Extinct Birds (1907)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/extinct-birds-pebble-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A watchface featuring a different extinct bird each day, using historical illustrations from Extinct Birds (1907). Each bird is displayed with its common and scientific names. The illustration…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="hf bands" data-released="2026-10-23" data-updated="2026-10-23">
+<a class="app-shot" href="https://apps.repebble.com/c533e3a8ceaf41cc823c6c35" data-search-exclude><img src="../images/apps/c533e3a8ceaf41cc823c6c35.png" alt="HF Bands" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c533e3a8ceaf41cc823c6c35"><a href="https://apps.repebble.com/c533e3a8ceaf41cc823c6c35">HF Bands</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/HF-Bands-pebble-watch" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-23</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">HF Bands is a ham radio app for checking band conditions and solar data before CW, contesting, POTA, SOTA, ARRL Field Day, or any other operating. Values sit on a black background, with yellow…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="dps field" data-released="2026-10-23" data-updated="2026-10-23">
+<a class="app-shot" href="https://apps.repebble.com/d05929dec0a64e5e9fcdf2cc" data-search-exclude><img src="../images/apps/d05929dec0a64e5e9fcdf2cc.png" alt="DPS Field" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d05929dec0a64e5e9fcdf2cc"><a href="https://apps.repebble.com/d05929dec0a64e5e9fcdf2cc">DPS Field</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/dps-field" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-23</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">DPS Field is a Pebble watch companion for the DPS field controller running on the same phone. The watch uses the same dark layout as HF Bands: black background, yellow titles, and white figures…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="fresh water fishes of new england (1896)" data-released="2026-10-18" data-updated="2026-10-22">
 <a class="app-shot" href="https://apps.repebble.com/67628db68f614317b7826cb1" data-search-exclude><img src="../images/apps/67628db68f614317b7826cb1.png" alt="Fresh Water Fishes of New England (1896)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67628db68f614317b7826cb1"><a href="https://apps.repebble.com/67628db68f614317b7826cb1">Fresh Water Fishes of New England (1896)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.0</span></h2>
+<h2 class="app-name" id="app-67628db68f614317b7826cb1"><a href="https://apps.repebble.com/67628db68f614317b7826cb1">Fresh Water Fishes of New England (1896)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.3</span></h2>
 <a class="app-source" href="https://github.com/Darachnid/fish-of-new-england-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Fresh Water Fishes of New England (1896) A watchface featuring a different fish each day, using original public-domain illustrations from The Fresh Water Fishes of New England. Each fish is…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="morse bird" data-released="2026-10-20" data-updated="2026-10-20">
+<a class="app-shot" href="https://apps.repebble.com/d6b996961c344d6c8dbc7da4" data-search-exclude><img src="../images/apps/d6b996961c344d6c8dbc7da4.png" alt="Morse Bird" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d6b996961c344d6c8dbc7da4"><a href="https://apps.repebble.com/d6b996961c344d6c8dbc7da4">Morse Bird</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/morse-bird" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-20</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Morse Bird A Free and Open Source Morse code keyer for Pebble Time 2 with an animated drinking bird. Morse Bird lets you send and decode Morse code using your Pebble Time 2&#x27;s physical buttons…</p>
 </div>
 </div>
 </div>

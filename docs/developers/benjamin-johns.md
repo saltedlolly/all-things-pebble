@@ -13,7 +13,7 @@ hide:
 
 # Benjamin Johns
 
-*2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-johns_531a426deb7a777c2000055f) · [GitHub (theoreticalb)](https://github.com/theoreticalb) · [Website (legendofben.com)](http://www.legendofben.com)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-johns_531a
 <h2 class="app-name" id="app-548fcfb2cd117d43a9000084"><a href="https://apps.repebble.com/548fcfb2cd117d43a9000084">Tiny Reversi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/theoreticalb/pebble_reversi" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-16</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-16</span> <span title="Latest release in the app store">Updated 2015-06-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The perfectly Pebble-sized strategy game has arrived. Reversi, marketed in the US as Othello and in Hong Kong as Apple Chess, is the classic game of surrounding tiles, flipping fortunes, and…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benjamin-johns_531a
 <h2 class="app-name" id="app-5481037659fcc2ab1b0000cb"><a href="https://apps.repebble.com/5481037659fcc2ab1b0000cb">Tiny Life</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/theoreticalb/pebble_life" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-05</span> <span title="Latest release in the app store">Updated 2014-12-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-05</span> <span title="Latest release in the app store">Updated 2014-12-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Tiny Life is an implementation of the zero-player classic Conway&#x27;s Game of Life for the Pebble smartwatch. Choose from multiple cell sizes and generation speeds. Get your daily cellular automata…</p>
 </div>

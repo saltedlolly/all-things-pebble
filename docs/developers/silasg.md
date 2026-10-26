@@ -13,7 +13,7 @@ hide:
 
 # SilasG
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/silasg_531ac7f29091c48bd40003cc) · [GitHub (silasg)](https://github.com/silasg)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/silasg_531ac7f29091
 <h2 class="app-name" id="app-56f511f8a16b34979b00003e"><a href="https://apps.repebble.com/56f511f8a16b34979b00003e">Thin Extended</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/silasg/thin-ext" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-25</span> <span title="Latest release in the app store">Updated 2016-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-25</span> <span title="Latest release in the app store">Updated 2016-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Extended the awesome Thin watchface by Chris Lewis with a light theme, additional minute markers, ability to disable all markers, energy saving options and a new config page. More to come ...</p>
 </div>

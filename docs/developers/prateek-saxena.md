@@ -13,7 +13,7 @@ hide:
 
 # Prateek Saxena
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/prateek-saxena_54f5a38a13cdffd51a000043) · [GitHub (prtksxna)](https://github.com/prtksxna)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/prateek-saxena_54f5
 <h2 class="app-name" id="app-5597b314b8e7d1d93200001d"><a href="https://apps.repebble.com/5597b314b8e7d1d93200001d">Wikipedia Nearby</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/prtksxna/pebble-nearby" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-07-04</span> <span title="Latest release in the app store">Updated 2015-07-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-04</span> <span title="Latest release in the app store">Updated 2015-07-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Find interesting places around you by looking for Wikipedia articles near your current location. Note: Wikipedia Wordmark is a trademark of the Wikimedia Foundation and is used with the permission…</p>
 </div>

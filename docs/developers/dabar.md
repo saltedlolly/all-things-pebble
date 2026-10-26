@@ -13,7 +13,7 @@ hide:
 
 # dabar
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dabar_cd6ddba9be954fba9d2f3592) · [GitHub (david-barrett)](https://github.com/david-barrett)
 

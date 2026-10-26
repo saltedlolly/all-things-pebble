@@ -13,7 +13,7 @@ hide:
 
 # simon
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/simon_52bc8ee9530bf47e36000174) · [GitHub (simonra)](https://github.com/simonra)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/simon_52bc8ee9530bf
 <h2 class="app-name" id="app-570fee9de66231da72000020"><a href="https://apps.repebble.com/570fee9de66231da72000020">Essentials</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/simonra/pebble-watchface-essentials" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-14</span> <span title="Latest release in the app store">Updated 2016-07-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2016-04-14</span> <span title="Latest release in the app store">Updated 2016-07-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watch face showing the time (24H style), the weekday (full English), the current date (ISO8601, yyyy-mm-dd), the current week (ISO 8601 due to that being the standard in Norway), and the battery…</p>
 </div>

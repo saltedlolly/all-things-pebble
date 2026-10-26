@@ -13,7 +13,7 @@ hide:
 
 # Matt Langlois
 
-*5 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-langlois_52e30dd32645fb8bae000fcd) · [GitHub (fletchto99)](https://github.com/fletchto99) · [Website (fletchto99.com)](http://fletchto99.com)
 

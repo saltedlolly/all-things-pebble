@@ -13,7 +13,7 @@ hide:
 
 # James Smith (@poeia)
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-smith-poeia_542ddd35d4d52c3f67000012) · [Rebble App Store](https://apps.rebble.io/en_US/developer/542ddd35d4d52c3f67000012/1) · [GitHub (poeia)](https://github.com/poeia) · [Website (about.me)](https://about.me/james-r-smith)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-smith-poeia_5
 <h2 class="app-name" id="app-581d407a9cbbafcd64000160"><a href="https://apps.repebble.com/581d407a9cbbafcd64000160">Casio CA-53W</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/poeia/casio-ca-53w" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-05</span> <span title="Latest release in the app store">Updated 2016-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-05</span> <span title="Latest release in the app store">Updated 2016-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Casio CA-53W - The Retro Calculator Watch for the Pebble Step back into 80&#x27;s and 90&#x27;s pop culture with the Casio CA-53W, the retro calculator watch worn by Walter White from &quot;Breaking Bad&quot; and…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-smith-poeia_5
 <h2 class="app-name" id="app-57fee4621fd66b81c50001e4"><a href="https://apps.rebble.io/en_US/application/57fee4621fd66b81c50001e4">Healthy Eyes</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/poeia/healthy-eyes" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-10-13</span> <span title="Latest release in the app store">Updated 2016-10-13</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-10-13</span> <span title="Latest release in the app store">Updated 2016-10-13</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Healthy Eyes - The Smart Pomodoro Timer for Pebble Do you find yourself staring at screens for long periods of time, eventually leading to headaches? Or, are you working on a task, only to find…</p>
 </div>

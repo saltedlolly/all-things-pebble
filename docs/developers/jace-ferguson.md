@@ -13,7 +13,7 @@ hide:
 
 # Jace Ferguson
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jace-ferguson_531b8b8f2a95cc72b00008b7) · [GitHub (fjace05)](https://github.com/fjace05)
 

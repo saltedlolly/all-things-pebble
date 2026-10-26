@@ -13,7 +13,7 @@ hide:
 
 # robisodd
 
-*4 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robisodd_530273b74b130b71ef000192) · [GitHub (robisodd)](https://github.com/robisodd) · [Website (reddit.com)](http://reddit.com/r/pebble/comments/2jn888/)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robisodd_530273b74b
 <h2 class="app-name" id="app-56e96a786214ffd83400000b"><a href="https://apps.repebble.com/56e96a786214ffd83400000b">Pixel Muncher v0.6 alpha</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6</span></h2>
 <a class="app-source" href="https://github.com/robisodd/PixelMuncher0.6" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-16</span> <span title="Latest release in the app store">Updated 2016-07-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-16</span> <span title="Latest release in the app store">Updated 2016-07-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pixel Muncher - Version 0.6 Alpha Controls: Up - Turn Left Down - Turn Right Select - Reverse Back - Pause (Back again to Exit) Not ready for release. Still much to do.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robisodd_530273b74b
 <h2 class="app-name" id="app-545916455a7e52713b000075"><a href="https://apps.repebble.com/545916455a7e52713b000075">BPM Detector</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/robisodd/bpm_detector" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-11-04</span> <span title="Latest release in the app store">Updated 2016-03-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-11-04</span> <span title="Latest release in the app store">Updated 2016-03-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple BPM detector. Tap on the Pebble&#x27;s face (or tap on the table with the hand the watch is on) to get the beats per minute of your taps. Press the select button to change the sensitivity (how…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robisodd_530273b74b
 <h2 class="app-name" id="app-56e46269b7a6019d4700001c"><a href="https://apps.repebble.com/56e46269b7a6019d4700001c">Voice 🎤 Relay</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/robisodd/VoiceRelay" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2016-03-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-12</span> <span title="Latest release in the app store">Updated 2016-03-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Allows you to remotely make your phone talk or make BEEP noises. Good for a phone finder or phone locator to find your phone find phone or scare your dog. No companion app required! Only works on…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robisodd_530273b74b
 <h2 class="app-name" id="app-557ed8733c562e76c5000021"><a href="https://apps.repebble.com/557ed8733c562e76c5000021">Arena3D</a> <span class="app-version" title="Latest version" data-search-exclude>v0.12</span></h2>
 <a class="app-source" href="https://github.com/robisodd/Arena3D-v0.10" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-15</span> <span title="Latest release in the app store">Updated 2015-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-15</span> <span title="Latest release in the app store">Updated 2015-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple Doom or Wolfenstein like 3D raycaster. There is no goal or objective, just walking around and seeing the Pebble&#x27;s ability to render a 3D game. Use the accelerometer to move. To remain…</p>
 </div>

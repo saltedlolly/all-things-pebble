@@ -13,7 +13,7 @@ hide:
 
 # Johannes Arnold
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/johannes-arnold_55cba60d184220976c00009e) · [GitHub (j0hax)](https://github.com/j0hax)
 

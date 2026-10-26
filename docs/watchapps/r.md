@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · **R** · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*76 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*78 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-d42063edd3194272807c7eeb"><a href="https://apps.repebble.com/d42063edd3194272807c7eeb">Rain Map</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.1</span></h2>
 <a class="app-source" href="https://github.com/truhanen/pebble-rain-map" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tuukka-ruhanen.html" title="More from this developer">Tuukka Ruhanen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-26</span> <span title="Latest release in the app store">Updated 2026-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-26</span> <span title="Latest release in the app store">Updated 2026-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">App for viewing recent rain radar data. For the most accurate near-future rain forecast. The app features proximity-based resolution, to give you the most detailed data closest to your location…</p>
 </div>
@@ -50,7 +50,7 @@ hide:
 <h2 class="app-name" id="app-02d34a66846d4bd89c300ae6"><a href="https://apps.repebble.com/02d34a66846d4bd89c300ae6">Rain Map Finland</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/truhanen/pebble-rain-map-finland" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tuukka-ruhanen.html" title="More from this developer">Tuukka Ruhanen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-05</span> <span title="Latest release in the app store">Updated 2026-06-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">App for viewing recent rain radar data in Finland. For the most accurate rain forecast. This is an earlier, Finland-only version of my other app, Rain Map. Rain Map has all the same features, and…</p>
 </div>
@@ -69,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9b20c579b0344422ab8ea24e" data-search-exclude><img src="../images/apps/9b20c579b0344422ab8ea24e.png" alt="Raise to Wake" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9b20c579b0344422ab8ea24e"><a href="https://apps.repebble.com/9b20c579b0344422ab8ea24e">Raise to Wake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
+<h2 class="app-name" id="app-9b20c579b0344422ab8ea24e"><a href="https://apps.repebble.com/9b20c579b0344422ab8ea24e">Raise to Wake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/lucaboox/pebble-raise-to-wake" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lucaboox.html" title="More from this developer">Lucaboox</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Raise to wake app that allows the pebble backlight to turn on when you raise your wrist and turn off when lowered.</p>
 </div>
@@ -83,7 +83,7 @@ hide:
 <h2 class="app-name" id="app-53e34a13b52fe7649500013b"><a href="https://apps.repebble.com/53e34a13b52fe7649500013b">Random</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/tstein4/random-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tj-stein.html" title="More from this developer">TJ Stein</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-07</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-08-07</span> <span title="Latest release in the app store">Updated 2014-08-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Ever needed a bit of randomness to make a decision? Well then this is the app for you! Formerly Coin Flip, this app now has a brand new Random Number Generator in addition to the old coin flipping…</p>
 </div>
@@ -94,7 +94,7 @@ hide:
 <h2 class="app-name" id="app-5ac4bf6cf38588775f000125"><a href="https://apps.rebble.io/en_US/application/5ac4bf6cf38588775f000125">RandomReminder</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/stosem/pebble-app-RandomReminder" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/stosem.html" title="More from this developer">stosem</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-04-04</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-04-04</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">RandomReminder. You can set up to 8 remindes in a day which will be happend in random time on specified period. It useful for remind for drink enough of water in a day, step away from computer…</p>
 </div>
@@ -105,7 +105,7 @@ hide:
 <h2 class="app-name" id="app-5abf322df38588510f000046"><a href="https://apps.rebble.io/en_US/application/5abf322df38588510f000046">RandomTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/stosem/pebble-app-RandomTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/stosem.html" title="More from this developer">stosem</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-03-31</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2018-03-31</span> <span title="Latest release in the app store">Updated 2018-04-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">RandomTimer. Countdown timer with random interval. Useful for board or party games (like hot potato) with reaction. Also may used in some other practice where you need a countdown that will expire…</p>
 </div>
@@ -119,6 +119,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-28</span> <span title="Latest release in the app store">Updated 2016-04-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Control Vu+ Solo satelite receiver and Raspberry Pi Internetradio. See Github for more information (link to source code) Satellitenreceiver Vu+Solo und Internetradio steuern. Weitere Informationen…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6b3d339514db438588a361ce" data-search-exclude><img src="../images/apps/6b3d339514db438588a361ce.png" alt="RBN Spots" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6b3d339514db438588a361ce"><a href="https://apps.repebble.com/6b3d339514db438588a361ce">RBN Spots</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/rbn-spots-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/ac1rv.html" title="More from this developer">AC1RV</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">RBN Spots is a ham radio app for checking Reverse Beacon Network spots on your wrist—who heard your callsign, how strong the report was, and where the skimmer is—before or after CW, contesting…</p>
 </div>
 </div>
 <div class="app-card">
@@ -171,7 +182,7 @@ hide:
 <h2 class="app-name" id="app-53cbaca97e8944cab0749b1e"><a href="https://apps.repebble.com/53cbaca97e8944cab0749b1e">Red Flagr</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/salim-benhamadi/Pebble-Red-Flagr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/salim-benhamadi.html" title="More from this developer">Salim Benhamadi</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-29</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-29</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Would you like to know if he&#x27;s the one, or just one more red flag? Red Flagr is the magic 8-ball for your love life, and it lives on your wrist. Shake your Pebble and it reveals a red flag about…</p>
 </div>
@@ -196,6 +207,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-29</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">App to record time, goals, cards as a soccer referee</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/00a95540142a497d84db5240" data-search-exclude><img src="../images/apps/00a95540142a497d84db5240.png" alt="Refinery Defense" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-00a95540142a497d84db5240"><a href="https://apps.repebble.com/00a95540142a497d84db5240">Refinery Defense</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.3</span></h2>
+<a class="app-source" href="https://github.com/DimaK21/RefineryDefense" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/dimak21.html" title="More from this developer">dimak21</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-20</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Refinery Defense is an endless tower defense game made for touchscreen Pebble watches. BY DAY, build up your air defense. Tap the map to place MG nests, Gepard guns, Tor and Patriot missile…</p>
 </div>
 </div>
 <div class="app-card">
@@ -280,7 +302,7 @@ hide:
 <h2 class="app-name" id="app-52ebbc927d49761086000033"><a href="https://apps.repebble.com/52ebbc927d49761086000033">Remote Presentations</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/sergioaraki/RemotePresentations" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sergio-araki.html" title="More from this developer">Sergio Araki</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-31</span> <span title="Latest release in the app store">Updated 2014-11-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-31</span> <span title="Latest release in the app store">Updated 2014-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Controls HTML5 presentations from your wrist. You will need a computer running the server side, follow instructions from: https://github.com/sergioaraki/RemotePresentations</p>
 </div>
@@ -313,7 +335,7 @@ hide:
 <h2 class="app-name" id="app-53ff41ed8cdf37902b000050"><a href="https://apps.repebble.com/53ff41ed8cdf37902b000050">Rest</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/remy/rest" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/remy-sharp.html" title="More from this developer">Remy Sharp</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-28</span> <span title="Latest release in the app store">Updated 2015-07-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-08-28</span> <span title="Latest release in the app store">Updated 2015-07-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple and intuitive rest interval timer. Particularly useful for timing rests in the gym, with configurable presets, vibrate on done and an overrun counter. The main menu buttons also work on the…</p>
 </div>
@@ -346,7 +368,7 @@ hide:
 <h2 class="app-name" id="app-931683527605431e96bf2772"><a href="https://apps.repebble.com/931683527605431e96bf2772">RESTForge</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6</span></h2>
 <a class="app-source" href="https://github.com/snonux/restforge" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/paul-butow.html" title="More from this developer">Paul Bütow</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-19</span> <span title="Latest release in the app store">Updated 2026-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">RESTForge — control any Siren API from your wrist RESTForge turns your Pebble into a remote control for any web API that speaks Siren — a standard way for a server to describe itself. You don&#x27;t…</p>
 </div>
@@ -368,7 +390,7 @@ hide:
 <h2 class="app-name" id="app-c3e702834987434a8ec3d470"><a href="https://apps.repebble.com/c3e702834987434a8ec3d470">ReVolver</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/piotrserafin/ReVolver" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/piotr-serafin.html" title="More from this developer">Piotr Serafin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-13</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-13</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Remote control your Volvo car from your wrist. ReVolver — Remote Volvo controller. Also &quot;volver&quot; (Spanish): &quot;to return/come back&quot; to your car. Control your Volvo from your Pebble watch via the…</p>
 </div>
@@ -456,7 +478,7 @@ hide:
 <h2 class="app-name" id="app-7bff2f5004fa47e094b8c32d"><a href="https://apps.repebble.com/7bff2f5004fa47e094b8c32d">Ripple Alarm</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.40</span></h2>
 <a class="app-source" href="https://github.com/ttkhamis/pebble_alarm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tom-khamis.html" title="More from this developer">Tom Khamis</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-01</span> <span title="Latest release in the app store">Updated 2026-09-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-01</span> <span title="Latest release in the app store">Updated 2026-09-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A large-text alarm clock designed to be easy to read at a glance. Set up to 5 alarms from your phone — each with its own label, color, and weekly schedule.</p>
 </div>
@@ -467,7 +489,7 @@ hide:
 <h2 class="app-name" id="app-57ca36d1f69d1da5f5000382"><a href="https://apps.repebble.com/57ca36d1f69d1da5f5000382">Ripples 3D</a> <span class="app-version" title="Latest version" data-search-exclude>v4.2</span></h2>
 <a class="app-source" href="https://github.com/reciprocum/Pebble-SDK4-WatchApp-Ripples3D" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/afonso-santos.html" title="More from this developer">Afonso Santos</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-03</span> <span title="Latest release in the app store">Updated 2017-01-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-03</span> <span title="Latest release in the app store">Updated 2017-01-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An interactive 3D math function demo. *** BUTTONS *** UP : colorization (Monochromatic,Distance). SELECT: pattern (Dots,Lines,Stripes,Grid). DOWN : oscillator (Anchored,Floating,Bouncing). long…</p>
 </div>
@@ -489,7 +511,7 @@ hide:
 <h2 class="app-name" id="app-f0b97c77cced465aa69b5044"><a href="https://apps.repebble.com/f0b97c77cced465aa69b5044">River Depth</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6</span></h2>
 <a class="app-source" href="https://github.com/qmonagle/RiverData" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/quentin-monagle.html" title="More from this developer">Quentin Monagle</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-04-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app pulls depth data from river monitoring locations tracked by USGS. It then plots the last week of data, scaling automatically to your screen. The ID will default to a location near…</p>
 </div>
@@ -511,7 +533,7 @@ hide:
 <h2 class="app-name" id="app-56acfea45319ec52a600003c"><a href="https://apps.repebble.com/56acfea45319ec52a600003c">Rock Crusher</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/timboe/RockCrush" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tim-martin.html" title="More from this developer">Tim Martin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-01-30</span> <span title="Latest release in the app store">Updated 2026-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Rock Crusher is a match-three game for Pebble where you swap neighbouring rocks to get at least three of the same type in a row. The game ends when you have used all your lives and there are no…</p>
 </div>
@@ -522,7 +544,7 @@ hide:
 <h2 class="app-name" id="app-5359f8493387a6efb600014b"><a href="https://apps.repebble.com/5359f8493387a6efb600014b">Rock Paper Scissors</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/randomite/Pebble/tree/master/RockPaperScissors" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ravin.html" title="More from this developer">Ravin</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-25</span> <span title="Latest release in the app store">Updated 2014-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-25</span> <span title="Latest release in the app store">Updated 2014-04-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple rock paper scissor app for quick entertainment.</p>
 </div>
@@ -555,7 +577,7 @@ hide:
 <h2 class="app-name" id="app-637af1dac6c24a000a815ec3"><a href="https://apps.rebble.io/en_US/application/637af1dac6c24a000a815ec3">ROCK! The Vote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/tertty/ROCK-the-Vote-backend" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/stanivision-inc.html" title="More from this developer">Stanivision Inc.</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2025-03-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2025-03-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">ROCK! The Vote is a Pebble application that allows you to voice your opinion, tip the scales, and influence those around you. Each day (12am UTC), users will be able to log into the app and see…</p>
 </div>
@@ -566,7 +588,7 @@ hide:
 <h2 class="app-name" id="app-68b7d031bd624a9ebaeb9102"><a href="https://apps.repebble.com/68b7d031bd624a9ebaeb9102">Rockbeat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
 <a class="app-source" href="https://github.com/qichuan/pebble-rockbeat" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zhang-qichuan.html" title="More from this developer">Zhang Qichuan</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-31</span> <span title="Latest release in the app store">Updated 2026-09-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A simple rhythm game. Just hit the UP or SELECT button to the melody! Right now you can play the following songs: Never Gonna Give You Up — Rick Astley You Are Not Alone — M. Jackson Golden —…</p>
 </div>
@@ -607,10 +629,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9e466762014d4b1ab248219f" data-search-exclude><img src="../images/apps/9e466762014d4b1ab248219f.png" alt="Roman Missal" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9e466762014d4b1ab248219f"><a href="https://apps.repebble.com/9e466762014d4b1ab248219f">Roman Missal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.2</span></h2>
+<h2 class="app-name" id="app-9e466762014d4b1ab248219f"><a href="https://apps.repebble.com/9e466762014d4b1ab248219f">Roman Missal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.3</span></h2>
 <a class="app-source" href="https://github.com/ewijaya/pebble-daily-mass" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/edward.html" title="More from this developer">Edward</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-08</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A worn cover. A ribbon left between the pages. The familiar red words that once helped us find our place. A missal can carry the memory of years spent in prayer, and of the people who sat beside…</p>
 </div>
@@ -731,7 +753,7 @@ hide:
 <h2 class="app-name" id="app-560ca51c2dd2f194aa000045"><a href="https://apps.repebble.com/560ca51c2dd2f194aa000045">Rubiks Shuffle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/vlaadbrain/RubiksShuffle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/carlos-j-torres.html" title="More from this developer">Carlos J. Torres</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-10-01</span> <span title="Latest release in the app store">Updated 2015-10-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-01</span> <span title="Latest release in the app store">Updated 2015-10-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shuffle Your Rubik&#x27;s Cube with your Pebble :) largely based on http://shuffle.akselipalen.com/</p>
 </div>
@@ -841,7 +863,7 @@ hide:
 <h2 class="app-name" id="app-5521a22dd7356c80ea000059"><a href="https://apps.repebble.com/5521a22dd7356c80ea000059">Rutgers Bus and Dining</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/revan/Pebble-Rutgers" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/revan-sopher.html" title="More from this developer">Revan Sopher</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-04-05</span> <span title="Latest release in the app store">Updated 2015-04-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-05</span> <span title="Latest release in the app store">Updated 2015-04-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Provides bus times and dining hall menus for Rutgers New Brunswick.</p>
 </div>

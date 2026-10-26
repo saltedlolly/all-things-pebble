@@ -13,7 +13,7 @@ hide:
 
 # Ricardo González
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ricardo-gonz-lez_52cbd3a96e5f7017d000011e) · [GitHub (ryck)](https://github.com/ryck) · [Website (ryck.github.io)](http://ryck.github.io/BN0046/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ricardo-gonz-lez_52
 <h2 class="app-name" id="app-52f8d85135591d62950001db"><a href="https://apps.repebble.com/52f8d85135591d62950001db">BN0046</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.1</span></h2>
 <a class="app-source" href="https://github.com/ryck/BN0046" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-10</span> <span title="Latest release in the app store">Updated 2014-02-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-10</span> <span title="Latest release in the app store">Updated 2014-02-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The classy and elegant Braun BN0046 watch converted to a Pebble watchface.</p>
 </div>

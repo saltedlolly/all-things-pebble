@@ -13,7 +13,7 @@ hide:
 
 # gogothegogo
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gogothegogo_56e335002526c72e66000023) · [GitHub (gogothegogo)](https://github.com/gogothegogo)
 

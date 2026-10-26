@@ -13,7 +13,7 @@ hide:
 
 # Ryan Glovinsky
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryan-glovinsky_95d4ba2ed71128e065866c7c) · [GitHub (rglovinsky)](https://github.com/rglovinsky)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryan-glovinsky_95d4
 <h2 class="app-name" id="app-bed9b0d8be3a4ecf8543617a"><a href="https://apps.repebble.com/bed9b0d8be3a4ecf8543617a">Time 2 All-Arounder</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/rglovinsky/pebble-time-2-watchface-all-arounder" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-05-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-05-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A clean, color-coded watchface for the Pebble Time 2 that puts everything on one screen at a glance. Time and date sit dead-center as the focal point. Battery and current temperature live in the…</p>
 </div>

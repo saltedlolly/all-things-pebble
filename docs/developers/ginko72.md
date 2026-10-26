@@ -13,7 +13,7 @@ hide:
 
 # Ginko72
 
-*3 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ginko72_52d0e60b3364778ac00000c9) · [GitHub (Ginko72)](https://github.com/Ginko72) · [GitHub (stough)](https://github.com/stough)
 
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ginko72_52d0e60b336
 <h2 class="app-name" id="app-52db4b58e798b9c8c9000347"><a href="https://apps.repebble.com/52db4b58e798b9c8c9000347">TextWatch with Day/Date</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
 <a class="app-source" href="https://github.com/stough/PebbleTextWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-19</span> <span title="Latest release in the app store">Updated 2026-04-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-19</span> <span title="Latest release in the app store">Updated 2026-04-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watch is a modification of the built in Text Watch face to add date information and to correct the time representation for times that have a spoken zero (10:02 as &quot;ten oh two&quot;). Date info…</p>
 </div>

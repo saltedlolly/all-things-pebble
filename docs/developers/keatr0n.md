@@ -13,7 +13,7 @@ hide:
 
 # Keatr0n
 
-*1 watchface and 2 apps · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keatr0n_2a36dcefb2ef947e811561d5) · [GitHub (Keatr0n)](https://github.com/Keatr0n)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keatr0n_2a36dcefb2e
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="icebreaker" data-released="2026-10-20" data-updated="2026-10-20">
+<a class="app-shot" href="https://apps.repebble.com/e66376d9037444e095a12c9e" data-search-exclude><img src="../images/apps/e66376d9037444e095a12c9e.png" alt="Icebreaker" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e66376d9037444e095a12c9e"><a href="https://apps.repebble.com/e66376d9037444e095a12c9e">Icebreaker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Keatr0n/pebble_icebreaker" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-20</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Icebreaker is a set of 6 hacking style minigames that test various skills like mental math, logic, deduction, reflexes, and timing. You can either play each game by themselves or through a tower…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="pebble_deck" data-released="2026-07-28" data-updated="2026-10-17">
 <a class="app-shot" href="https://apps.repebble.com/648bfbf405594a0b99b99445" data-search-exclude><img src="../images/apps/648bfbf405594a0b99b99445.png" alt="pebble_deck" loading="lazy"></a>
 <div class="app-info">

@@ -13,7 +13,7 @@ hide:
 
 # ryanpcmcquen
 
-*1 watchface and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryanpcmcquen_567c70738dba1f775c0000c2) · [GitHub (ryanpcmcquen)](https://github.com/ryanpcmcquen)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryanpcmcquen_567c70
 <h2 class="app-name" id="app-56880d0593f78ce99e000018"><a href="https://apps.repebble.com/56880d0593f78ce99e000018">newsWire</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/ryanpcmcquen/PEBBLE--newsWire" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-02</span> <span title="Latest release in the app store">Updated 2017-02-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MPL-2.0</span> <span title="First published in the app store">Released 2016-01-02</span> <span title="Latest release in the app store">Updated 2017-02-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Read stories with short abstracts. Click &#x27;Select&#x27;: move to next article Long click &#x27;Select&#x27;: move to last article Flick wrist: move to new feed</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryanpcmcquen_567c70
 <h2 class="app-name" id="app-5685bba15bcfd88ec900007f"><a href="https://apps.repebble.com/5685bba15bcfd88ec900007f">javaScriptClock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/ryanpcmcquen/PEBBLE--javaScriptClock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-31</span> <span title="Latest release in the app store">Updated 2016-01-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MPL-2.0</span> <span title="First published in the app store">Released 2015-12-31</span> <span title="Latest release in the app store">Updated 2016-01-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Time for JavaScript hackers. Written in pure C, because #perfMatters.</p>
 </div>

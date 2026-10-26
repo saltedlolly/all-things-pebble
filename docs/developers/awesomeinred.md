@@ -13,7 +13,7 @@ hide:
 
 # AwesomeInRed
 
-*2 watchfaces · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/awesomeinred_573c6d97c1f35a222900000f) · [GitHub (edward88)](https://github.com/edward88)
 

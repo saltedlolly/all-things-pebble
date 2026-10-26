@@ -13,7 +13,7 @@ hide:
 
 # expositomarc
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/53974c92cc86541d68000065/1) · [GitHub (expositomarc)](https://github.com/expositomarc) · [Website (marcexposito.com)](http://www.marcexposito.com/portfolio/who-i-am-for-pebble/)
 

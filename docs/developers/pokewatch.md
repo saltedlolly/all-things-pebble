@@ -13,7 +13,7 @@ hide:
 
 # pokewatch
 
-*1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pokewatch_57983f1222f599ede800004a) · [GitHub (pokewatch)](https://github.com/pokewatch)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pokewatch_57983f122
 <h2 class="app-name" id="app-579841731482cdda2b000061"><a href="https://apps.repebble.com/579841731482cdda2b000061">Pokémon GO Radar (BETA)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9</span></h2>
 <a class="app-source" href="https://github.com/pokewatch/PoGO" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-27</span> <span title="Latest release in the app store">Updated 2016-08-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-27</span> <span title="Latest release in the app store">Updated 2016-08-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This app represents a collaborative proof-of-concept for a full Pokémon tracking app for Pokémon GO. Currently working: * Pokemon sprites * Distance/bearing * Real-time compass * Duplicate…</p>
 </div>

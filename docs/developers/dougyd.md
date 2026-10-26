@@ -13,7 +13,7 @@ hide:
 
 # DougyD
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dougyd_9127420ceb55fdf6e4ab249c) · [GitHub (dougyd92)](https://github.com/dougyd92) · [Website (dougdejesus.com)](https://dougdejesus.com/projects/progbars/)
 

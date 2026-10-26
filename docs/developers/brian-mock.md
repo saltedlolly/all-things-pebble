@@ -13,7 +13,7 @@ hide:
 
 # Brian Mock
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54f00fa7c7813174cf00001a/1) · [GitHub (wavebeem)](https://github.com/wavebeem)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/54f00fa7c781317
 <h2 class="app-name" id="app-5844f40a00355af16100032a"><a href="https://apps.rebble.io/en_US/application/5844f40a00355af16100032a">Time Capsule</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/wavebeem/time-capsule" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-12-05</span> <span title="Latest release in the app store">Updated 2016-12-05</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-12-05</span> <span title="Latest release in the app store">Updated 2016-12-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Big, easy to read, only the important data. Turns red when you hit 30% battery. Vibrates on the hour.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # SirBraneDamuj
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sirbranedamuj_6f3d57d8ba08046035a36ec9) · [GitHub (sirbranedamuj)](https://github.com/sirbranedamuj)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sirbranedamuj_6f3d5
 <h2 class="app-name" id="app-3148c87c68c14295b5e94a7c"><a href="https://apps.repebble.com/3148c87c68c14295b5e94a7c">Showtime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/sirbranedamuj/showtime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-04-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-04-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A minimalistic watch face inspired by Paradigm City&#x27;s top negotiator. An AI agent was used to aid in the coding of this watchface.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Vlad
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vlad_502b2e5a040090c92bce7adf) · [GitHub (vladcoretchi)](https://github.com/vladcoretchi)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vlad_502b2e5a040090
 <h2 class="app-name" id="app-89815d6e72344d768f32376d"><a href="https://apps.repebble.com/89815d6e72344d768f32376d">now</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/vladcoretchi/pebble-watchface-now" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-21</span> <span title="Latest release in the app store">Updated 2026-08-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-21</span> <span title="Latest release in the app store">Updated 2026-08-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The only watchface that has never once been wrong. It says &quot;now&quot;. It&#x27;s always now, so it&#x27;s always right - no syncing, no drift, no leap seconds, no arguing with the atomic clock. You can pick a…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # clet
 
-*2 watchfaces and 1 app · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clet_d2bf7c7db293536c99c19ee0) · [GitHub (cletqui)](https://github.com/cletqui) · [Website (tide.pages.dev)](https://tide.pages.dev/)
 

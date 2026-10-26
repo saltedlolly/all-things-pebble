@@ -13,7 +13,7 @@ hide:
 
 # Stefan &quot;Blixten&quot; Karlsson
 
-*1 watchface · Last updated 2026-10-19 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stefan-blixten-karlsson_550c6068783f363ea1000023) · [GitHub (steka)](https://github.com/steka)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stefan-blixten-karl
 <h2 class="app-name" id="app-55bc955fa5c6f367f5000018"><a href="https://apps.repebble.com/55bc955fa5c6f367f5000018">Fibonacci clock</a> <span class="app-version" title="Latest version" data-search-exclude>v0.13</span></h2>
 <a class="app-source" href="https://github.com/steka/fibonacci_clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-01</span> <span title="Latest release in the app store">Updated 2016-12-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-01</span> <span title="Latest release in the app store">Updated 2016-12-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">The boxes in the clock has the side length as the first number of the Fibonacci series (1, 1, 2, 3, 5). Read the current time by adding the boxes side length together. Get the hours by adding the…</p>
 </div>
