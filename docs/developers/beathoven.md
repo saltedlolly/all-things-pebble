@@ -13,7 +13,7 @@ hide:
 
 # Beathoven
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/beathoven_3258bdad5543670134a5be03) · [GitHub (msteinhoefel)](https://github.com/msteinhoefel)
 

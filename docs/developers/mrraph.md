@@ -13,7 +13,7 @@ hide:
 
 # MrRaph\_
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrraph_552293bf40edc5f1ca000034) · [GitHub (Branlala)](https://github.com/Branlala) · [Website (techan.fr)](https://techan.fr)
 

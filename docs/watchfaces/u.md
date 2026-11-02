@@ -8,9 +8,20 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · **U** · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*27 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*28 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/ffcf7095efe544df8272ab82" data-search-exclude><img src="../images/apps/ffcf7095efe544df8272ab82.png" alt="UA 571-C" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ffcf7095efe544df8272ab82"><a href="https://apps.repebble.com/ffcf7095efe544df8272ab82">UA 571-C</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://gitlab.com/larsfp/ua571c" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/lars-falk-petersen.html" title="More from this developer">Lars Falk-Petersen</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A watchface with focus on obtaining your daily step goal. It&#x27;s also a homage to one the fantastic user interfaces in the Alien franchise, the UA 571-C Remote Sentry Weapon System. - Ammo counter =…</p>
+</div>
+</div>
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/5344540189b0ae14d80003b9" data-search-exclude><img src="../images/apps/5344540189b0ae14d80003b9.png" alt="UCONN Logo" loading="lazy"></a>
 <div class="app-info">
@@ -61,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-5485a551075d4c0154000072"><a href="https://apps.repebble.com/5485a551075d4c0154000072">Ultimate Text Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/zecoj/ultimate.text.watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ben-nguyen.html" title="More from this developer">Ben Nguyen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-08</span> <span title="Latest release in the app store">Updated 2016-01-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-08</span> <span title="Latest release in the app store">Updated 2016-01-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">★New Name New Feature★Tell times in plain English in many ways★ Like it? Heart it! features: - tells time in plain English multiple ways: + fuzzy (ex. 12:44 = quarter to one) + human (ex. 12:44 =…</p>
 </div>
@@ -69,10 +80,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6abf59c037b3780009304810" data-search-exclude><img src="../images/apps/6abf59c037b3780009304810.gif" alt="Ultra" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6abf59c037b3780009304810"><a href="https://apps.repebble.com/6abf59c037b3780009304810">Ultra</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
+<h2 class="app-name" id="app-6abf59c037b3780009304810"><a href="https://apps.repebble.com/6abf59c037b3780009304810">Ultra</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/ultra-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/1398" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">An analog watchface for Pebble with eight complications you choose yourself. Four gauges curve around the corners, four subdials sit inside the dial, and every one is yours to swap. Join two…</p>
 </div>
@@ -113,10 +124,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/c977d7b7e07b49298007a427" data-search-exclude><img src="../images/apps/c977d7b7e07b49298007a427.png" alt="Underground" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c977d7b7e07b49298007a427"><a href="https://apps.repebble.com/c977d7b7e07b49298007a427">Underground</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.6</span></h2>
+<h2 class="app-name" id="app-c977d7b7e07b49298007a427"><a href="https://apps.repebble.com/c977d7b7e07b49298007a427">Underground</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/LiamCordelle/pebble-underground" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Your day as a transit map. Follow daylight, steps, heart rate and UV along colourful routes on cream paper. Tap or flick for a seven-line Service status board. Includes rolling rain forecasts, a…</p>
 </div>

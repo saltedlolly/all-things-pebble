@@ -13,7 +13,7 @@ hide:
 
 # James Brooks
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-brooks_52eaca97c2f26399ce00001b) · [GitHub (jbrooksuk)](https://github.com/jbrooksuk) · [Website (james-brooks.uk)](http://james-brooks.uk/purr)
 

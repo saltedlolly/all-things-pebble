@@ -13,7 +13,7 @@ hide:
 
 # Nikos Roussos
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nikos-roussos_566b478844cb3cf34f000064) · [GitHub (hsgr)](https://github.com/hsgr) · [Website (hackerspace.gr)](https://www.hackerspace.gr/)
 

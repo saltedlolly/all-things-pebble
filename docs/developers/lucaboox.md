@@ -13,7 +13,7 @@ hide:
 
 # Lucaboox
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lucaboox_3baa3c53d5e0047df0dc5890) · [GitHub (lucaboox)](https://github.com/lucaboox)
 

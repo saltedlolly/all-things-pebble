@@ -1,5 +1,5 @@
 ---
-title: "nichols-t"
+title: "Ty Nichols"
 hide:
   - toc
 ---
@@ -11,11 +11,11 @@ hide:
 <img class="dev-avatar" src="https://github.com/nichols-t.png?size=128" alt="" width="64" height="64" loading="lazy" onerror="this.remove()">
 <div class="dev-intro" markdown>
 
-# nichols-t
+# Ty Nichols
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_584a110e19b7319580c4afa4) · [GitHub (nichols-t)](https://github.com/nichols-t)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ty-nichols_584a110e19b7319580c4afa4) · [GitHub (nichols-t)](https://github.com/nichols-t)
 
 </div>
 </div>

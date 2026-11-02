@@ -13,7 +13,7 @@ hide:
 
 # zoonooz
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zoonooz_969f88a79fa2a315c051f402) · [GitHub (zoonooz)](https://github.com/zoonooz)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zoonooz_969f88a79fa
 <h2 class="app-name" id="app-1e6d477d5ce4430099b24089"><a href="https://apps.repebble.com/1e6d477d5ce4430099b24089">BitcoinWatch2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.1</span></h2>
 <a class="app-source" href="https://github.com/zoonooz/BitcoinWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">If you think Bitcoin or crypto price matters more than the time, this watch face is built for you. Features: - 📈 Live price, refreshed every minute from the exchange - 🔄 Choose Binance or Coinbase…</p>
 </div>

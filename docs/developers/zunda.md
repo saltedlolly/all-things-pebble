@@ -13,7 +13,7 @@ hide:
 
 # zunda
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zunda_669dbd4a49087f5ce51c5e89) · [GitHub (zunda-pixel)](https://github.com/zunda-pixel)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zunda_669dbd4a49087
 <h2 class="app-name" id="app-836a679deee247d19d4bd4e4"><a href="https://apps.repebble.com/836a679deee247d19d4bd4e4">RunCat for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
 <a class="app-source" href="https://github.com/zunda-pixel/runcat-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-12</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-09-12</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">RunCat for Pebble A playful watchface where the official RunCat runs faster as your heart rate rises. ## Features - Animated RunCat running in place - Animation speed changes with your heart rate…</p>
 </div>

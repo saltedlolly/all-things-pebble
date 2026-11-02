@@ -13,7 +13,7 @@ hide:
 
 # Knoxolotl
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/knoxolotl_1cab20f2071d47c9e4c47e07) · [GitHub (zdschade)](https://github.com/zdschade)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/knoxolotl_1cab20f20
 <h2 class="app-name" id="app-7ff77338ba8c490b8f4c8b1e"><a href="https://apps.repebble.com/7ff77338ba8c490b8f4c8b1e">topowatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/zdschade/Topowatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-04-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-04-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watch face that shows your local topography! Pulls topography data from your coordinates (or choose your own in the settings!) and displays them behind the clock. Colors are fully customizable…</p>
 </div>

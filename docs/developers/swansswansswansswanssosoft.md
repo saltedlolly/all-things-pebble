@@ -13,7 +13,7 @@ hide:
 
 # swansswansswansswanssosoft
 
-*4 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5e65d05a3dd3108f341c08ea/1) · [GitHub (pauleeeeee)](https://github.com/pauleeeeee)
 

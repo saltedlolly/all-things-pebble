@@ -13,7 +13,7 @@ hide:
 
 # Mitchel Spears
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mitchel-spears_5580f963617287a1810000a9) · [GitLab (gumbyscout)](https://gitlab.com/gumbyscout)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mitchel-spears_5580
 <h2 class="app-name" id="app-558758d949c1d1c2f9000066"><a href="https://apps.repebble.com/558758d949c1d1c2f9000066">Termina Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2.1</span></h2>
 <a class="app-source" href="https://gitlab.com/gumbyscout/Termina-Clock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1029" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-22</span> <span title="Latest release in the app store">Updated 2026-06-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-22</span> <span title="Latest release in the app store">Updated 2026-06-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The clocks from Majora&#x27;s Mask, for your Pebble! Behaves just like in game, with the outer ring rotating to show the minutes, and the inner ring rotating to show the hour. Configurable! - Choose…</p>
 </div>

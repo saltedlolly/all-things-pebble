@@ -13,7 +13,7 @@ hide:
 
 # Magnetz
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/magnetz_b84c6e02d47a15db36677f7e) · [GitHub (magnetz)](https://github.com/magnetz)
 

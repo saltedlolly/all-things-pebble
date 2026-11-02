@@ -13,7 +13,7 @@ hide:
 
 # zebulon-sheridan
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a8469892167150008eaec24/1) · [GitHub (zebulon-sheridan)](https://github.com/zebulon-sheridan) · [Website (zebulonsheridan.com)](https://zebulonsheridan.com)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a8469892167150
 <h2 class="app-name" id="app-6a84702699fcd7000930016a"><a href="https://apps.rebble.io/en_US/application/6a84702699fcd7000930016a">Zebulon Sheridan</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/zebulon-sheridan/zebulon-sheridan-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1247" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-18</span> <span title="Latest release in the app store">Updated 2026-08-18</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-18</span> <span title="Latest release in the app store">Updated 2026-08-18</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">time is an illusion life but an echo</p>
 </div>

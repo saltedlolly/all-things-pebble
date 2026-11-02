@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · **M** · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*191 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*193 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -25,10 +25,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/69c990b93406d0000832e53b" data-search-exclude><img src="../images/apps/69c990b93406d0000832e53b.gif" alt="Maan On My Wrist XL" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69c990b93406d0000832e53b"><a href="https://apps.repebble.com/69c990b93406d0000832e53b">Maan On My Wrist XL</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
+<h2 class="app-name" id="app-69c990b93406d0000832e53b"><a href="https://apps.repebble.com/69c990b93406d0000832e53b">Maan On My Wrist XL</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://git.wetfence.xyz/RandyTheSilly/Maan-On-My-Wrist-XL" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/randythesilly.html" title="More from this developer">RandyTheSilly</a> · <a href="https://forum.rebble.io/t/809" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-29</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-29</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This is an unofficial and greatly expanded port of the &quot;Maan On My Wrist&quot; watchface to all color Pebbles, including the new Pebble Time 2/Round 2. Every half hour, one half of the creature will…</p>
 </div>
@@ -630,10 +630,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/660f9fba42274715a277bb81" data-search-exclude><img src="../images/apps/660f9fba42274715a277bb81.png" alt="Meridian" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-660f9fba42274715a277bb81"><a href="https://apps.repebble.com/660f9fba42274715a277bb81">Meridian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<h2 class="app-name" id="app-660f9fba42274715a277bb81"><a href="https://apps.repebble.com/660f9fba42274715a277bb81">Meridian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/LiamCordelle/pebble-meridian" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Follow your day around a glowing sky ring. Meridian puts time, steps, heart rate, weather and UV around a porthole that fills as you walk. Tap or flick for your pace, goal estimate, heart range…</p>
 </div>
@@ -991,6 +991,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/58b94ffb0c1442a3ac7df805" data-search-exclude><img src="../images/apps/58b94ffb0c1442a3ac7df805.png" alt="Mini 3D Printer" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-58b94ffb0c1442a3ac7df805"><a href="https://apps.repebble.com/58b94ffb0c1442a3ac7df805">Mini 3D Printer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Mini-3D-Printer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">A small 3D-looking printer on your wrist. The part on the bed gets taller through the hour, so its height shows the minutes. Each hour prints a different object, like a cube, vase, gear or rocket.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/57b6b991f01b53ee0c00074e" data-search-exclude><img src="../images/apps/57b6b991f01b53ee0c00074e.png" alt="Mini Watch" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-57b6b991f01b53ee0c00074e"><a href="https://apps.repebble.com/57b6b991f01b53ee0c00074e">Mini Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
@@ -1244,14 +1255,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.rebble.io/en_US/application/6a432c036b3a67000985d355" data-search-exclude><img src="../images/apps/6a432c036b3a67000985d355.png" alt="Minute Blocks" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/6a432c036b3a67000985d355" data-search-exclude><img src="../images/apps/6a432c036b3a67000985d355.png" alt="Minute Blocks" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a432c036b3a67000985d355"><a href="https://apps.rebble.io/en_US/application/6a432c036b3a67000985d355">Minute Blocks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-6a432c036b3a67000985d355"><a href="https://apps.repebble.com/6a432c036b3a67000985d355">Minute Blocks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
 <a class="app-source" href="https://github.com/cmore-zz/pebble-minute-blocks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cmore-consulting.html" title="More from this developer">cmore consulting</a> · <a href="https://forum.rebble.io/t/1106" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-07-01</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">A blocky digital watchface with minute-by-minute geometry, pixel text, and configurable corner &quot;complications&quot; on rectangular Pebble watches, and centered complications on round Pebble watches…</p>
+<p class="app-desc">TELL TIME IN BLOCKS: chunky pixel digits for the hour, ringed by twelve markers that fill in block by block as the minutes pass. Configurable corner complications show date, weather, battery…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1513,7 +1524,7 @@ hide:
 <h2 class="app-name" id="app-5a4b9bfc0dfc329496001b60"><a href="https://apps.rebble.io/en_US/application/5a4b9bfc0dfc329496001b60">MoHa : +1s For Haha</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/yulingtianxia/Pebble-MoHa" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/reboot-yang.html" title="More from this developer">Reboot Yang</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-01-02</span> <span title="Latest release in the app store">Updated 2018-01-06</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2018-01-02</span> <span title="Latest release in the app store">Updated 2018-01-06</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">MoHa is a simple and young watchface for you! Keep every second! Excited!</p>
 </div>
@@ -1554,10 +1565,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/ffa303a745844dac899c65b4" data-search-exclude><img src="../images/apps/ffa303a745844dac899c65b4.png" alt="Mondrian" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ffa303a745844dac899c65b4"><a href="https://apps.repebble.com/ffa303a745844dac899c65b4">Mondrian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.9</span></h2>
+<h2 class="app-name" id="app-ffa303a745844dac899c65b4"><a href="https://apps.repebble.com/ffa303a745844dac899c65b4">Mondrian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/LiamCordelle/pebble-mondrian" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">An abstract composition for Pebble Time 2. Bold time, heart rate, steps and weather inhabit red, blue, yellow and white planes that change with your day. Tap or flick for a week of steps, heart…</p>
 </div>
@@ -1637,6 +1648,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-30</span> <span title="Latest release in the app store">Updated 2026-09-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A full month calendar watchface with tons of customizability. The time up top, a full month calendar below, and a status line with customizable info. Inspired by the old Calendar Watchface by…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/df7c08fcd8594d96868d69b4" data-search-exclude><img src="../images/apps/df7c08fcd8594d96868d69b4.png" alt="Mood Ring Face" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-df7c08fcd8594d96868d69b4"><a href="https://apps.repebble.com/df7c08fcd8594d96868d69b4">Mood Ring Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Mood-Ring-Face" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Mood Ring Face turns your wrist into a living mood ring. It reads your live heart rate and estimates stress from BPM, then shifts both the background color and an 8-bit character’s expression —…</p>
 </div>
 </div>
 <div class="app-card">

@@ -13,7 +13,7 @@ hide:
 
 # Alec Hudson
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alec-hudson_4462b3475108118213285c80) · [GitHub (alechudson)](https://github.com/alechudson)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alec-hudson_4462b34
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="yearlight" data-released="2026-09-24" data-updated="2026-10-19">
+<div class="app-card" data-type="watchface" data-title="yearlight" data-released="2026-09-24" data-updated="2026-10-31">
 <a class="app-shot" href="https://apps.repebble.com/d58b889bab2c41cdb5a1b267" data-search-exclude><img src="../images/apps/d58b889bab2c41cdb5a1b267.gif" alt="Yearlight" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d58b889bab2c41cdb5a1b267"><a href="https://apps.repebble.com/d58b889bab2c41cdb5a1b267">Yearlight</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.9</span></h2>
+<h2 class="app-name" id="app-d58b889bab2c41cdb5a1b267"><a href="https://apps.repebble.com/d58b889bab2c41cdb5a1b267">Yearlight</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/alechudson/yearlight" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-09-24</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-09-24</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Watch sunlight move across the Earth, centred on where you are. ★ A year of stars The sky around the globe fills with one star for every day of the year. On January 1st there&#x27;s a single star; by…</p>
 </div>

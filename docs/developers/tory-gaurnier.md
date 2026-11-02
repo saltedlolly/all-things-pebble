@@ -13,7 +13,7 @@ hide:
 
 # Tory Gaurnier
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tory-gaurnier_52b8d10bfd4763023e000018) · [GitHub (tgaurnier)](https://github.com/tgaurnier)
 

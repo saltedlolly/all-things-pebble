@@ -13,7 +13,7 @@ hide:
 
 # mcmanetta
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5f275d593dd3109039c0c6b3/1) · [GitHub (integraloftheday)](https://github.com/integraloftheday)
 

@@ -13,7 +13,7 @@ hide:
 
 # tylxr
 
-*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tylxr_733c943276de33fbfd3f2f37) · [GitHub (tylxr59)](https://github.com/tylxr59)
 
@@ -26,26 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tylxr_733c943276de3
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="quickassist" data-released="2026-10-17" data-updated="2026-10-20">
-<a class="app-shot" href="https://apps.repebble.com/9c105d58803741d5b9ec03af" data-search-exclude><img src="../images/apps/9c105d58803741d5b9ec03af.png" alt="QuickAssist" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-9c105d58803741d5b9ec03af"><a href="https://apps.repebble.com/9c105d58803741d5b9ec03af">QuickAssist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
-<a class="app-source" href="https://github.com/tylxr59/QuickAssist" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Open QuickAssist, speak your request, and read your assistant&#x27;s reply on your wrist. Control devices and ask questions through your chosen Home Assistant voice assistant, then press the middle…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="getme for pebble" data-released="2026-05-27" data-updated="2026-10-16">
+<div class="app-card" data-type="watchapp" data-title="getme for pebble" data-released="2026-05-27" data-updated="2026-10-30">
 <a class="app-shot" href="https://apps.repebble.com/6f7de6d295fa464aa9bc7ab8" data-search-exclude><img src="../images/apps/6f7de6d295fa464aa9bc7ab8.png" alt="getme for Pebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6f7de6d295fa464aa9bc7ab8"><a href="https://apps.repebble.com/6f7de6d295fa464aa9bc7ab8">getme for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-6f7de6d295fa464aa9bc7ab8"><a href="https://apps.repebble.com/6f7de6d295fa464aa9bc7ab8">getme for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/tylxr59/getme-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Keep your self-hosted getme grocery list on your wrist. getme for Pebble brings a fast, button-first checklist experience to Pebble, backed by your own getme server. Sync your list from your…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="quickassist" data-released="2026-10-17" data-updated="2026-10-26">
+<a class="app-shot" href="https://apps.repebble.com/9c105d58803741d5b9ec03af" data-search-exclude><img src="../images/apps/9c105d58803741d5b9ec03af.png" alt="QuickAssist" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-9c105d58803741d5b9ec03af"><a href="https://apps.repebble.com/9c105d58803741d5b9ec03af">QuickAssist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
+<a class="app-source" href="https://github.com/tylxr59/QuickAssist" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Open QuickAssist, speak your request, and read your assistant&#x27;s reply on your wrist. Control devices and ask questions through your chosen Home Assistant voice assistant, then press the middle…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="pinhole" data-released="2026-05-26" data-updated="2026-07-20">

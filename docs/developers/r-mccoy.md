@@ -13,7 +13,7 @@ hide:
 
 # R McCoy
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/r-mccoy_52f0f56b61b752a552002aa4) · [GitHub (rmccoy777)](https://github.com/rmccoy777)
 

@@ -13,7 +13,7 @@ hide:
 
 # GilDev
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gildev_531b6c608d1b3e5776000467) · [GitHub (GilDev)](https://github.com/GilDev)
 

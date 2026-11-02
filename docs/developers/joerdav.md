@@ -13,7 +13,7 @@ hide:
 
 # joerdav
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joerdav_0af8416e53219f018ead5233) · [GitHub (joerdav)](https://github.com/joerdav)
 

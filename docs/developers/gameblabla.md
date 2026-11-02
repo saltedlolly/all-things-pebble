@@ -13,7 +13,7 @@ hide:
 
 # gameblabla
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/584d5e32ce45dc907d000209/1) · [GitHub (gameblabla)](https://github.com/gameblabla) · [Website (gameblabla.github.io)](https://gameblabla.github.io)
 

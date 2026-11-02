@@ -13,7 +13,7 @@ hide:
 
 # howeaj
 
-*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/howeaj_985832377863a3ae441861fe) · [GitHub (howeaj)](https://github.com/howeaj)
 
@@ -21,20 +21,31 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/howeaj_985832377863
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>3</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="hol horse" data-released="2026-10-11" data-updated="2026-10-26">
+<div class="app-card" data-type="watchface" data-title="hol horse" data-released="2026-10-11" data-updated="2026-10-31">
 <a class="app-shot" href="https://apps.repebble.com/168358eb358e48358c693060" data-search-exclude><img src="../images/apps/168358eb358e48358c693060.gif" alt="Hol Horse" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-168358eb358e48358c693060"><a href="https://apps.repebble.com/168358eb358e48358c693060">Hol Horse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-168358eb358e48358c693060"><a href="https://apps.repebble.com/168358eb358e48358c693060">Hol Horse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/howeaj/pebble-hol-horse" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-11</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1423" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-11</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Analogue watch used by Hol Horse from Jojo&#x27;s Bizarre Adventure. Shake to show seconds and 3 custom complications; very configurable! Tags: roman numerals, round, anime, manga, novelty, functional…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="batsave" data-released="2026-10-31" data-updated="2026-10-31">
+<a class="app-shot" href="https://apps.repebble.com/3bb9ccbff5014b65b30ce5d1" data-search-exclude><img src="../images/apps/3bb9ccbff5014b65b30ce5d1.gif" alt="BatSave" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-3bb9ccbff5014b65b30ce5d1"><a href="https://apps.repebble.com/3bb9ccbff5014b65b30ce5d1">BatSave</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<a class="app-source" href="https://github.com/howeaj/pebble-battery-saver" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1473" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-31</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Efficient, battery saving, low power; updates just two pixels per ~3-5 minutes, for when you really need to stretch out those last few %. Tags: low battery saver, long life, linear, horizontal…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="timer - instant timer" data-released="2026-04-08" data-updated="2026-10-20">

@@ -13,7 +13,7 @@ hide:
 
 # Max Mehl
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/max-mehl_8dcbffb3d94bf558f49ff8d7) · [GitHub (mxmehl)](https://github.com/mxmehl)
 

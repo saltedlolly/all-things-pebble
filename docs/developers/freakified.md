@@ -13,7 +13,7 @@ hide:
 
 # Freakified
 
-*4 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/freakified_534d74f861fcaa8033000263) · [GitHub (freakified)](https://github.com/freakified)
 

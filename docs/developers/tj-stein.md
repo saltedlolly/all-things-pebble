@@ -13,7 +13,7 @@ hide:
 
 # TJ Stein
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tj-stein_52b91beca1d2df1269000037) · [GitHub (tstein4)](https://github.com/tstein4)
 

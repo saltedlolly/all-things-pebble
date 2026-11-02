@@ -13,7 +13,7 @@ hide:
 
 # John Wiseheart
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-wiseheart_567e35b6c247f87509000477) · [GitHub (johnwiseheart)](https://github.com/johnwiseheart) · [Website (issocsopen.com)](http://issocsopen.com)
 

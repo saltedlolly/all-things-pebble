@@ -13,7 +13,7 @@ hide:
 
 # sheppoor
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sheppoor_412a498a797c10f09b9da5a7) · [GitHub (sheppoor)](https://github.com/sheppoor)
 

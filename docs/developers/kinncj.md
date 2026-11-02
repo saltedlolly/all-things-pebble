@@ -13,7 +13,7 @@ hide:
 
 # kinncj
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/538e5df5702ddb4e0e000025/1) · [GitHub (kinncj)](https://github.com/kinncj)
 

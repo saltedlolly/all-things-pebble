@@ -13,7 +13,7 @@ hide:
 
 # Quentin Bellanger
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/quentin-bellanger_56433b913d7eeffa7500003b) · [GitHub (bellangerq)](https://github.com/bellangerq) · [Website (quebble.io)](http://quebble.io)
 

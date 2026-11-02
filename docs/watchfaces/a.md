@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · **A** · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*137 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*140 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -327,7 +327,7 @@ hide:
 <div class="app-dev">by <a href="../developers/tuukka-ruhanen.html" title="More from this developer">Tuukka Ruhanen</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A readable watchface with extremely bold analog hands. The minute hand extends past the edges of the screen, for the highest visibility. Widget values are drawn on top of the clock hands. Values…</p>
+<p class="app-desc">A readable watchface with extremely bold analog hands. The analog hands are the biggest component at the center, with the minute hand extending past the edges of the screen, for the highest…</p>
 </div>
 </div>
 <div class="app-card">
@@ -622,7 +622,7 @@ hide:
 <h2 class="app-name" id="app-5608b975364a06eba9000022"><a href="https://apps.repebble.com/5608b975364a06eba9000022">Analog BigDate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8</span></h2>
 <a class="app-source" href="https://github.com/yoshimov/pebble-bigdate" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/yoshimov.html" title="More from this developer">yoshimov</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-28</span> <span title="Latest release in the app store">Updated 2015-11-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-28</span> <span title="Latest release in the app store">Updated 2015-11-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple analog watch face with big date. The date and week texts will move to avoid overlapping with hands. The following items are customizable. - Second hand style (none/ball/line) - Second hand…</p>
 </div>
@@ -933,6 +933,28 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-18</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Anticipate! All the basic information you need to be prepared for the day ahead! Features - Today&#x27;s date - Step Count - Forecasted high temperature - Current temperature - Forecasted low…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/8c9f5118d73c48308c8edcb9" data-search-exclude><img src="../images/apps/8c9f5118d73c48308c8edcb9.gif" alt="AntiGrav" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-8c9f5118d73c48308c8edcb9"><a href="https://apps.repebble.com/8c9f5118d73c48308c8edcb9">AntiGrav</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
+<a class="app-source" href="https://github.com/stefanopace/AntiGrav" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/stefanopace01.html" title="More from this developer">stefanopace01</a> · <a href="https://forum.rebble.io/t/1219" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-08</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">AntiGrav is a digital watchface built for quick glances, with big, large stacked hours and minutes, a flexible slots row, and the date below. Customization - Basic and advanced color customization…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/82b16c3b6e1347849781f5be" data-search-exclude><img src="../images/apps/82b16c3b6e1347849781f5be.gif" alt="AntiGrav mini" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-82b16c3b6e1347849781f5be"><a href="https://apps.repebble.com/82b16c3b6e1347849781f5be">AntiGrav mini</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
+<a class="app-source" href="https://github.com/stefanopace/AntiGrav/tree/anti-grav-mini" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/stefanopace01.html" title="More from this developer">stefanopace01</a> · <a href="https://forum.rebble.io/t/1474" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-31</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">AntiGrav mini is a digital watchface built for quick glances, with big, large stacked hours and minutes, a flexible slots row, and the date below. This is an alternative version of AntiGrav in…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1249,7 +1271,7 @@ hide:
 <h2 class="app-name" id="app-54a23f3785047c66b6000054"><a href="https://apps.repebble.com/54a23f3785047c66b6000054">Arsenal FC</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/zecoj/arsenal.fc/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ben-nguyen.html" title="More from this developer">Ben Nguyen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-30</span> <span title="Latest release in the app store">Updated 2015-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-30</span> <span title="Latest release in the app store">Updated 2015-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">★Weather+Bluetooth+Configuration+Colour★ For all gooners. Shake to show extra information (time, date &amp; battery)</p>
 </div>
@@ -1321,6 +1343,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/a6730828c7424a5699c25d16" data-search-exclude><img src="../images/apps/a6730828c7424a5699c25d16.png" alt="ASCIInalog" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a6730828c7424a5699c25d16"><a href="https://apps.repebble.com/a6730828c7424a5699c25d16">ASCIInalog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/andree182/asciinalog" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/andrej-krutak.html" title="More from this developer">Andrej Krutak</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">An analog watchface rendered entirely through multi-scale ASCII typography. Inspired by visual text-mode graphics, the watchface avoids conventional vector hand drawing. Instead, the analog hands…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/58e00e34ca124034bcb4acca" data-search-exclude><img src="../images/apps/58e00e34ca124034bcb4acca.png" alt="astroface" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-58e00e34ca124034bcb4acca"><a href="https://apps.repebble.com/58e00e34ca124034bcb4acca">astroface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
@@ -1367,10 +1400,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7727666da5c84c259b3a70b3" data-search-exclude><img src="../images/apps/7727666da5c84c259b3a70b3.gif" alt="At A Glance" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7727666da5c84c259b3a70b3"><a href="https://apps.repebble.com/7727666da5c84c259b3a70b3">At A Glance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
+<h2 class="app-name" id="app-7727666da5c84c259b3a70b3"><a href="https://apps.repebble.com/7727666da5c84c259b3a70b3">At A Glance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.2</span></h2>
 <a class="app-source" href="https://github.com/jhatax/at-a-glance" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/manoj-mehta.html" title="More from this developer">Manoj Mehta</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-08</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-08</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">__At A Glance__ is a Pebble watch face inspired by cockpit instrumentation. It displays information with minimal interpretation. Time stays dominant. Icons identify. Numbers quantify. Lines show…</p>
 </div>

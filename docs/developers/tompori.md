@@ -13,7 +13,7 @@ hide:
 
 # Tompori
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tompori_014546e6819631ab0afcb9bd) · [GitHub (tompori)](https://github.com/tompori)
 
@@ -21,14 +21,14 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tompori_014546e6819
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="neon drive" data-released="2026-10-24" data-updated="2026-10-24">
+<div class="app-card" data-type="watchface" data-title="neon drive" data-released="2026-10-24" data-updated="2026-10-28">
 <a class="app-shot" href="https://apps.repebble.com/2e6c267ad7ed47fc89646031" data-search-exclude><img src="../images/apps/2e6c267ad7ed47fc89646031.png" alt="Neon Drive" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2e6c267ad7ed47fc89646031"><a href="https://apps.repebble.com/2e6c267ad7ed47fc89646031">Neon Drive</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-2e6c267ad7ed47fc89646031"><a href="https://apps.repebble.com/2e6c267ad7ed47fc89646031">Neon Drive</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/tompori/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">An 80s digital watch on a synthwave night drive. A black Casio-style body with printed rally stripes holds grey LCD windows with real segment digits, faint unlit segments included, above a banded…</p>
 </div>
 </div>

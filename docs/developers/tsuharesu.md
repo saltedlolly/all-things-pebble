@@ -13,7 +13,7 @@ hide:
 
 # Tsuharesu
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tsuharesu_54d74652513e9cab7d00008b) · [GitHub (tsuharesu)](https://github.com/tsuharesu) · [Website (tsuharesu.com)](https://tsuharesu.com)
 

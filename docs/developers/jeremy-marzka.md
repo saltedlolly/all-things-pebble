@@ -13,7 +13,7 @@ hide:
 
 # Jeremy Marzka
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jeremy-marzka_5574418b4604f6b33c000026) · [GitHub (jamarzka)](https://github.com/jamarzka)
 

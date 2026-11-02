@@ -13,7 +13,7 @@ hide:
 
 # huntboom
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/huntboom_63590f2e40d3e00007cf6169) · [GitHub (huntboom)](https://github.com/huntboom) · [Website (hunterkarsseboom.com)](https://www.hunterkarsseboom.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # Jake Schultz
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f0f7a24ae3634df7000b35/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/jake-schultz_52f0f7a24ae3634df7000b35) · [GitHub (iamjake648)](https://github.com/iamjake648) · [Website (iamjake648.com)](http://iamjake648.com)
 

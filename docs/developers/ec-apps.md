@@ -13,7 +13,7 @@ hide:
 
 # EC Apps
 
-*16 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*17 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ec-apps_6818b3bd53899000082d25a4) · [GitHub (eduardochiaro)](https://github.com/eduardochiaro) · [Website (eduardochiaro.com)](https://www.eduardochiaro.com)
 
@@ -21,18 +21,29 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ec-apps_6818b3bd538
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>19</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>16</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>20</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>17</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="ultra" data-released="2026-10-02" data-updated="2026-10-24">
+<div class="app-card" data-type="watchface" data-title="take control" data-released="2026-10-31" data-updated="2026-11-01">
+<a class="app-shot" href="https://apps.repebble.com/6ae63f62d0da32000934000d" data-search-exclude><img src="../images/apps/6ae63f62d0da32000934000d.gif" alt="Take Control" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6ae63f62d0da32000934000d"><a href="https://apps.repebble.com/6ae63f62d0da32000934000d">Take Control</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<a class="app-source" href="https://github.com/eduardochiaro/take-control-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1475" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-31</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Inspired by the game Control developed by Remedy Entertainment, this simple watchface will accompany you in your daily life with some words from the Board about the weather. On the hour, wrist…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="ultra" data-released="2026-10-02" data-updated="2026-10-30">
 <a class="app-shot" href="https://apps.repebble.com/6abf59c037b3780009304810" data-search-exclude><img src="../images/apps/6abf59c037b3780009304810.gif" alt="Ultra" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6abf59c037b3780009304810"><a href="https://apps.repebble.com/6abf59c037b3780009304810">Ultra</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
+<h2 class="app-name" id="app-6abf59c037b3780009304810"><a href="https://apps.repebble.com/6abf59c037b3780009304810">Ultra</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/ultra-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1398" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">An analog watchface for Pebble with eight complications you choose yourself. Four gauges curve around the corners, four subdials sit inside the dial, and every one is yours to swap. Join two…</p>
 </div>

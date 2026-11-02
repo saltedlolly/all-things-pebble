@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*52 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*54 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -53,6 +53,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-07</span> <span title="Latest release in the app store">Updated 2026-03-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A dynamic and minimalist watchface for Pebble smartwatches that adapts to your viewing angle using the accelerometer. Features Smart Orientation: The time display rotates to remain readable…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/3cd7d0257a3441be84da7d01" data-search-exclude><img src="../images/apps/3cd7d0257a3441be84da7d01.png" alt="igiwatchalarm" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-3cd7d0257a3441be84da7d01"><a href="https://apps.repebble.com/3cd7d0257a3441be84da7d01">igiwatchalarm</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
+<a class="app-source" href="https://github.com/iginoc/pebble-igiwatch-alarm.git" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/iginoc.html" title="More from this developer">iginoc</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">big watchface with alarm</p>
 </div>
 </div>
 <div class="app-card">
@@ -174,6 +185,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-22</span> <span title="Latest release in the app store">Updated 2015-12-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This watchface displays the digital time with a shadow to make it pop! Your watch&#x27;s battery level is displayed above with a row of circles, and the date is located below the time. Compatible with…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/5dafbe88c7f84e3480aad10e" data-search-exclude><img src="../images/apps/5dafbe88c7f84e3480aad10e.png" alt="Infill Clock" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5dafbe88c7f84e3480aad10e"><a href="https://apps.repebble.com/5dafbe88c7f84e3480aad10e">Infill Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Infill-Clock" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">The digits are drawn as solid outer walls. Inside them, an infill pattern grows as the minute passes. The pattern changes every hour (lines, honeycomb, wavy gyroid, triangles), so you can roughly…</p>
 </div>
 </div>
 <div class="app-card">
@@ -355,12 +377,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4fe6074d08c84d7099713016" data-search-exclude><img src="../images/apps/4fe6074d08c84d7099713016.gif" alt="Inset" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4fe6074d08c84d7099713016"><a href="https://apps.repebble.com/4fe6074d08c84d7099713016">Inset</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.1</span></h2>
+<h2 class="app-name" id="app-4fe6074d08c84d7099713016"><a href="https://apps.repebble.com/4fe6074d08c84d7099713016">Inset</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.1</span></h2>
 <a class="app-source" href="https://github.com/alexanderteinum/pebble-inset" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/alexander-teinum.html" title="More from this developer">Alexander Teinum</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">A minimal Pebble watchface, neatly inset from the edge. Right-aligned time and date with a slim battery indicator. Follows your 12/24-hour setting, with icons for Bluetooth disconnection and Quiet…</p>
+<p class="app-desc">A minimal Pebble watchface, neatly inset from the edge. Right-aligned time and date with a slim battery indicator. Follows your 12/24-hour setting, with always-visible icons for phone connection…</p>
 </div>
 </div>
 <div class="app-card">
@@ -443,10 +465,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/0ee0abb8756342f58ac5f0a3" data-search-exclude><img src="../images/apps/0ee0abb8756342f58ac5f0a3.gif" alt="Iris" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-0ee0abb8756342f58ac5f0a3"><a href="https://apps.repebble.com/0ee0abb8756342f58ac5f0a3">Iris</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
+<h2 class="app-name" id="app-0ee0abb8756342f58ac5f0a3"><a href="https://apps.repebble.com/0ee0abb8756342f58ac5f0a3">Iris</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/hag1987haaa/Iris-Public" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/1987haaa.html" title="More from this developer">1987haaa</a> · <a href="https://forum.rebble.io/t/751" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-07</span> <span title="Latest release in the app store">Updated 2026-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-03-07</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Meet Iris! 📸 Love cameras? Love big, readable numbers? &quot;Iris&quot; brings a mechanical camera shutter right to your wrist! The aperture dynamically opens and closes, revealing the time in a layout…</p>
 </div>

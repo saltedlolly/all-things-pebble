@@ -13,7 +13,7 @@ hide:
 
 # TransSee
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/transsee_2ffdcb53524bc35b242d3209) · [GitHub (doconnoronca)](https://github.com/doconnoronca) · [Website (transsee.ca)](https://www.transsee.ca/)
 

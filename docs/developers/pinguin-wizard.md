@@ -13,7 +13,7 @@ hide:
 
 # pinguin-wizard
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pinguin-wizard_a70aa800ed123e2b999d2ca3) · [GitLab (pinguin-wizard)](https://gitlab.com/pinguin-wizard)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pinguin-wizard_a70a
 <h2 class="app-name" id="app-b4b3410fed6b4e03aeabb8a3"><a href="https://apps.repebble.com/b4b3410fed6b4e03aeabb8a3">Cryptomonitor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://gitlab.com/pinguin-wizard/crypto-monitor" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A pebble app to monitor popular crypto token exchange rates and bitcoin mining in real-time. - 16 popular crypto tokens: 1. BTC 2. ETH 3. SOL 4. BNB 5. XRP 6. DOGE 7. TRX 8. ADA 9. TON 10. AVAX…</p>
 </div>

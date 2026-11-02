@@ -13,7 +13,7 @@ hide:
 
 # cobre
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cobre_60c3e2b38c5c1d00089f9d1f) · [GitHub (cobredev)](https://github.com/cobredev) · [Website (cobre.dev)](https://cobre.dev)
 

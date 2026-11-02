@@ -13,7 +13,7 @@ hide:
 
 # Harlan Harris
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/harlan-harris_6e7531b9711890693c7dc2e7) · [GitHub (HarlanH)](https://github.com/HarlanH)
 

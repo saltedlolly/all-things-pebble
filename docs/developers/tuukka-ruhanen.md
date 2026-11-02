@@ -13,7 +13,7 @@ hide:
 
 # Tuukka Ruhanen
 
-*2 watchfaces and 5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 5 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1ec999749817a461025038) · [GitHub (truhanen)](https://github.com/truhanen)
 
@@ -34,7 +34,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1e
 <div class="app-dev">Watchface</div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A readable watchface with extremely bold analog hands. The minute hand extends past the edges of the screen, for the highest visibility. Widget values are drawn on top of the clock hands. Values…</p>
+<p class="app-desc">A readable watchface with extremely bold analog hands. The analog hands are the biggest component at the center, with the minute hand extending past the edges of the screen, for the highest…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="sae weather graph" data-released="2026-06-24" data-updated="2026-09-02">
@@ -45,7 +45,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1e
 <div class="app-dev">App</div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-09-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Highly informative weather forecast graph for Pebble Time 2. The only weather app you&#x27;ll ever need! Sää [ˈs̠æː] is Finnish for weather. Sae is Finnish for rain. The app works globally. Displays 10…</p>
+<p class="app-desc">Highly informative weather forecast graph for Pebble Time 2. The only weather app you&#x27;ll ever need! Sää [ˈs̠æː] is Finnish for weather. Sae is Finnish for rain. The app works globally. The graphs…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="rain map" data-released="2026-08-26" data-updated="2026-08-27">

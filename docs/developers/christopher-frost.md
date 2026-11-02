@@ -13,7 +13,7 @@ hide:
 
 # Christopher Frost
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christopher-frost_550ab580abca23f36800010b) · [GitHub (cgfrost)](https://github.com/cgfrost)
 

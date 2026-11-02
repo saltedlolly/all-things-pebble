@@ -13,7 +13,7 @@ hide:
 
 # DestCom - StroyCo
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/destcom-stroyco_2203050ae984342dfa2814f5) · [GitHub (DestroyCom)](https://github.com/DestroyCom)
 

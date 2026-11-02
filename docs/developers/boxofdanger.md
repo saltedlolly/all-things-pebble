@@ -13,7 +13,7 @@ hide:
 
 # BoxofDanger
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/boxofdanger_5c70607c37fbb400014e5d33) · [GitHub (zachthebeasty12345-sketch)](https://github.com/zachthebeasty12345-sketch)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/boxofdanger_5c70607
 <h2 class="app-name" id="app-340419796c294b859314a975"><a href="https://apps.repebble.com/340419796c294b859314a975">MMS Viewer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/zachthebeasty12345-sketch/MMS-Viewer-for-Pebble-Watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-07</span> <span title="Latest release in the app store">Updated 2026-05-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-07</span> <span title="Latest release in the app store">Updated 2026-05-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">WOAAH Extremely beta. Check out for full info on GitHub Allows you to see text images on the watch , beware probably really buggy.</p>
 </div>

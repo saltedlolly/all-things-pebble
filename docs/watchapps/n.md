@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · **N** · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*43 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*43 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -17,7 +17,7 @@ hide:
 <h2 class="app-name" id="app-55e76ba4b0f5477de8000064"><a href="https://apps.repebble.com/55e76ba4b0f5477de8000064">Nag for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.61.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/priv-nag-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/comfortably-numb.html" title="More from this developer">Comfortably Numb</a> · <a href="https://forum.rebble.io/t/1096" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-02</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-02</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Once launched and configured, Nag for Pebble exits immediately so you can keep using your watchface and other apps — but it keeps buzzing your Pebble (every hour by default) in the background. Use…</p>
 </div>
@@ -47,10 +47,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201" data-search-exclude><img src="../images/apps/eccd3b6ffdd2436cbe643201.png" alt="Nasu" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-eccd3b6ffdd2436cbe643201"><a href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201">Nasu</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.5</span></h2>
+<h2 class="app-name" id="app-eccd3b6ffdd2436cbe643201"><a href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201">Nasu</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.8</span></h2>
 <a class="app-source" href="https://github.com/marukitano/Nasu" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marukitano.html" title="More from this developer">marukitano</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Deutsch Nasu ist eine Medikamenten-Erinnerungs-App für die Pebble Time 2 – mit einer kleinen Krankenschwester, die dich auf ihrer Vespa begleitet und daran erinnert, deine Medikamente zu nehmen…</p>
 </div>

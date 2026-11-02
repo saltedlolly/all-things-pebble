@@ -13,7 +13,7 @@ hide:
 
 # Jan Hoffmann
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jan-hoffmann_57dafd212d0cc80b6f0000d3) · [Rebble App Store](https://apps.rebble.io/en_US/developer/57dafd212d0cc80b6f0000d3/1) · [GitHub (janh)](https://github.com/janh)
 

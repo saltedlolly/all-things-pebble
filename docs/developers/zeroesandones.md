@@ -13,7 +13,7 @@ hide:
 
 # zeroesandones
 
-*1 watchface and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zeroesandones_2e6cca3d47b90f5b14f075bb) · [GitHub (benjaminjgill)](https://github.com/benjaminjgill)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zeroesandones_2e6cc
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="bigface" data-released="2026-06-26" data-updated="2026-10-29">
+<a class="app-shot" href="https://apps.repebble.com/f248e316f6ff404da0731fce" data-search-exclude><img src="../images/apps/f248e316f6ff404da0731fce.png" alt="BigFace" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-f248e316f6ff404da0731fce"><a href="https://apps.repebble.com/f248e316f6ff404da0731fce">BigFace</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.0</span></h2>
+<a class="app-source" href="https://github.com/benjaminjgill/BigFace" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Big Face is a simple clean big bold watch face that&#x27;s readable at a glance for those who don&#x27;t want to squint at their watch to know what time it is oh....its free with no paywall! Version 2 added…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="wristlist (index 01 for your watch!)" data-released="2026-09-07" data-updated="2026-10-04">
 <a class="app-shot" href="https://apps.repebble.com/d274e5b6487946bf915b7810" data-search-exclude><img src="../images/apps/d274e5b6487946bf915b7810.png" alt="WristList (Index 01 for your watch!)" loading="lazy"></a>
 <div class="app-info">
@@ -46,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zeroesandones_2e6cc
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-24</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">My eyesight isn&#x27;t as great as it used to be when I bought the first Pebble watch many moons ago (pesky ageing.......) Anyway it seems like all the weather apps are trying to cram loads of…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="bigface" data-released="2026-06-26" data-updated="2026-10-04">
-<a class="app-shot" href="https://apps.repebble.com/f248e316f6ff404da0731fce" data-search-exclude><img src="../images/apps/f248e316f6ff404da0731fce.png" alt="BigFace" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-f248e316f6ff404da0731fce"><a href="https://apps.repebble.com/f248e316f6ff404da0731fce">BigFace</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.4</span></h2>
-<a class="app-source" href="https://github.com/benjaminjgill/BigFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Big Face is a simple clean big bold watch face that&#x27;s readable at a glance for those who don&#x27;t want to squint at their watch to know what time it is oh....its free with no paywall! Version 2 added…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="uk rail" data-released="2026-06-14" data-updated="2026-09-19">

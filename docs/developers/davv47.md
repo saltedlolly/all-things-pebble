@@ -13,7 +13,7 @@ hide:
 
 # davv47
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/davv47_1e99e01092773fbbf3fc696c) · [GitHub (davv47)](https://github.com/davv47)
 

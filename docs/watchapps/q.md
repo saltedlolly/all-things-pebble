@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · **Q** · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*20 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*21 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -122,6 +122,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/93402f8563884f00ad4bfd5e" data-search-exclude><img src="../images/apps/93402f8563884f00ad4bfd5e.png" alt="QueueETA" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-93402f8563884f00ad4bfd5e"><a href="https://apps.repebble.com/93402f8563884f00ad4bfd5e">QueueETA</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/WhenInWome/QueueTimer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/cobalt-mainspring.html" title="More from this developer">Cobalt Mainspring</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Vibe coded app to estimate when you&#x27;ll reach the front of a queue. Enter your initial position, and then after some time (can be anything, but I recommend at least 30 seconds) tap your position…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/d39cf7318c2543eb85482e58" data-search-exclude><img src="../images/apps/d39cf7318c2543eb85482e58.png" alt="Quick Reminders" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-d39cf7318c2543eb85482e58"><a href="https://apps.repebble.com/d39cf7318c2543eb85482e58">Quick Reminders</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
@@ -135,10 +146,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/9c105d58803741d5b9ec03af" data-search-exclude><img src="../images/apps/9c105d58803741d5b9ec03af.png" alt="QuickAssist" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9c105d58803741d5b9ec03af"><a href="https://apps.repebble.com/9c105d58803741d5b9ec03af">QuickAssist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<h2 class="app-name" id="app-9c105d58803741d5b9ec03af"><a href="https://apps.repebble.com/9c105d58803741d5b9ec03af">QuickAssist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/tylxr59/QuickAssist" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tylxr.html" title="More from this developer">tylxr</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Open QuickAssist, speak your request, and read your assistant&#x27;s reply on your wrist. Control devices and ask questions through your chosen Home Assistant voice assistant, then press the middle…</p>
 </div>
@@ -160,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-64d25223482a0c03a5ab933a"><a href="https://apps.rebble.io/en_US/application/64d25223482a0c03a5ab933a">QuickAuth 4</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0</span></h2>
 <a class="app-source" href="https://github.com/zamuz/QuickAuth4" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gonzalo-munoz.html" title="More from this developer">Gonzalo Muñoz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-08-08</span> <span title="Latest release in the app store">Updated 2023-08-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2023-08-08</span> <span title="Latest release in the app store">Updated 2023-08-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A fork of the original QuickAuth app by Kevin Cooper, now with support for SHA256 codes.</p>
 </div>
@@ -215,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-10f3dfb18e4d4256824ad844"><a href="https://apps.repebble.com/10f3dfb18e4d4256824ad844">QuickTodoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.3</span></h2>
 <a class="app-source" href="https://gitlab.com/tools-on-tech/quicktodoist" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tools-on-tech.html" title="More from this developer">Tools on Tech</a> · <a href="https://forum.rebble.io/t/1186" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-01</span> <span title="Latest release in the app store">Updated 2026-08-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">mit</span> <span title="First published in the app store">Released 2026-08-01</span> <span title="Latest release in the app store">Updated 2026-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I wanted a Todoist app that would start instantly. So this setup uses an api key and cache to make that possible. It&#x27;s meant for me to quickly check my current top tasks and add thoughts…</p>
 </div>

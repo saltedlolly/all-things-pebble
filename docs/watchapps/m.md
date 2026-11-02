@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · **M** · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*98 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*100 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -75,6 +75,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-12</span> <span title="Latest release in the app store">Updated 2013-12-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Now have the all the answers to your questions with the flick of a wrist! This app is based off of the magic 8 ball. Contains 20 different answers.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/b81c7f8a0eab4682afeacef0" data-search-exclude><img src="../images/apps/b81c7f8a0eab4682afeacef0.png" alt="MakersOnStream" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b81c7f8a0eab4682afeacef0"><a href="https://apps.repebble.com/b81c7f8a0eab4682afeacef0">MakersOnStream</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/MakersOnStream-WatchApp" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">MakersOnStream is a public directory and schedule for makers who stream their craft — 3D printers, woodworkers, crafters, and creators. This Pebble app puts that feed on your wrist: who’s live…</p>
 </div>
 </div>
 <div class="app-card">
@@ -562,6 +573,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/5e956bb58b744f56aea1fa89" data-search-exclude><img src="../images/apps/5e956bb58b744f56aea1fa89.png" alt="Mini Marble Run" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5e956bb58b744f56aea1fa89"><a href="https://apps.repebble.com/5e956bb58b744f56aea1fa89">Mini Marble Run</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/mini-marble-run" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Tilt your Pebble to roll a marble through procedurally generated mazes. Clear each run, climb the difficulty, and track how many mazes you’ve finished — all on your wrist.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/56657d6851620851c0000011" data-search-exclude><img src="../images/apps/56657d6851620851c0000011.png" alt="MiniAdventure" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-56657d6851620851c0000011"><a href="https://apps.rebble.io/en_US/application/56657d6851620851c0000011">MiniAdventure</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -611,7 +633,7 @@ hide:
 <h2 class="app-name" id="app-d905c29fb79d436f803a64df"><a href="https://apps.repebble.com/d905c29fb79d436f803a64df">MiniMax Balance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/zhcong/minimax-balance-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zhcong.html" title="More from this developer">zhcong</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-02</span> <span title="Latest release in the app store">Updated 2026-07-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Pebble watch app that displays MiniMax Code Plan usage balance. - 5h limit usage percentage with progress bar - Weekly limit usage percentage with progress bar - 5h window reset countdown …</p>
 </div>
@@ -666,7 +688,7 @@ hide:
 <h2 class="app-name" id="app-340419796c294b859314a975"><a href="https://apps.repebble.com/340419796c294b859314a975">MMS Viewer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/zachthebeasty12345-sketch/MMS-Viewer-for-Pebble-Watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/boxofdanger.html" title="More from this developer">BoxofDanger</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-07</span> <span title="Latest release in the app store">Updated 2026-05-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-07</span> <span title="Latest release in the app store">Updated 2026-05-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">WOAAH Extremely beta. Check out for full info on GitHub Allows you to see text images on the watch , beware probably really buggy.</p>
 </div>

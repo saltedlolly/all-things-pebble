@@ -13,7 +13,7 @@ hide:
 
 # Rabit
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rabit_54ceb8b6f2184c89ed00001d) · [GitHub (rabits)](https://github.com/rabits)
 

@@ -13,7 +13,7 @@ hide:
 
 # gloriousCode
 
-*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gloriouscode_11cfd2107e16a7ad902f758c) · [GitHub (gloriousCode)](https://github.com/gloriousCode)
 
@@ -26,15 +26,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gloriouscode_11cfd2
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="trioway" data-released="2026-04-13" data-updated="2026-10-23">
-<a class="app-shot" href="https://apps.repebble.com/082418be8cd642a9b06da3ac" data-search-exclude><img src="../images/apps/082418be8cd642a9b06da3ac.png" alt="TrioWay" loading="lazy"></a>
+<div class="app-card" data-type="watchface" data-title="trioway" data-released="2026-04-13" data-updated="2026-11-02">
+<a class="app-shot" href="https://apps.repebble.com/082418be8cd642a9b06da3ac" data-search-exclude><img src="../images/apps/082418be8cd642a9b06da3ac.gif" alt="TrioWay" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-082418be8cd642a9b06da3ac"><a href="https://apps.repebble.com/082418be8cd642a9b06da3ac">TrioWay</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.3</span></h2>
+<h2 class="app-name" id="app-082418be8cd642a9b06da3ac"><a href="https://apps.repebble.com/082418be8cd642a9b06da3ac">TrioWay</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.9</span></h2>
 <a class="app-source" href="https://github.com/gloriousCode/trio-way-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-13</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">TrioWay is a watchface for Pebble Time 2 that blends clean geometry with practical time layouts. Features: - Analogue, Digital Small, and Digital Large modes - Three dynamic background sectors…</p>
+<p class="app-desc">TrioWay turns the hour and minute into three changing colour sectors. Choose from five layouts, including oversized digital numerals and a Hybrid dial with optional hour and minute marks. Made for…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="wordish" data-released="2026-06-12" data-updated="2026-10-19">

@@ -13,7 +13,7 @@ hide:
 
 # Jack Dalton
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jack-dalton_5539664da7c657c72100004f) · [GitHub (jackdalton)](https://github.com/jackdalton) · [Website (jackdalton.github.io)](http://jackdalton.github.io/patterntime)
 

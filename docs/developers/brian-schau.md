@@ -13,7 +13,7 @@ hide:
 
 # Brian Schau
 
-*7 watchfaces and 5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*7 watchfaces and 5 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52bc98fc530bf4ed75000183/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/brian-schau_52bc98fc530bf4ed75000183) · [GitHub (bschau)](https://github.com/bschau) · [Website (schau.dk)](https://www.schau.dk)
 
@@ -87,7 +87,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52bc98fc530bf4e
 <h2 class="app-name" id="app-56fa97f969581df9ba000044"><a href="https://apps.repebble.com/56fa97f969581df9ba000044">LCD</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://www.github.com/bschau/LCD" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-29</span> <span title="Latest release in the app store">Updated 2016-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-29</span> <span title="Latest release in the app store">Updated 2016-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Show time in LCD font. Features: - Large time display. - Seconds in dots. - Color of watchface can be changed. - Double-flick your wrist to show date and battery status.</p>
 </div>

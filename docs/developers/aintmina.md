@@ -13,7 +13,7 @@ hide:
 
 # AintMina
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aintmina_d314315373304de9dd1236a5)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aintmina_d314315373
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="percentage" data-released="2026-09-05" data-updated="2026-10-18">
+<div class="app-card" data-type="watchapp" data-title="percentage" data-released="2026-09-05" data-updated="2026-10-28">
 <a class="app-shot" href="https://apps.repebble.com/4f1bca0b807d40b3bb0243cb" data-search-exclude><img src="../images/apps/4f1bca0b807d40b3bb0243cb.png" alt="Percentage" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4f1bca0b807d40b3bb0243cb"><a href="https://apps.repebble.com/4f1bca0b807d40b3bb0243cb">Percentage</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
+<h2 class="app-name" id="app-4f1bca0b807d40b3bb0243cb"><a href="https://apps.repebble.com/4f1bca0b807d40b3bb0243cb">Percentage</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://git.aintmina.org/aintgit/percentage" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-05</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-05</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Do you want to keep track of success/fail rates of 24 items? This app lets you configure up to 24 items with phone and update the success/fail values via the touchscreen buttons. It shows you the…</p>
 </div>

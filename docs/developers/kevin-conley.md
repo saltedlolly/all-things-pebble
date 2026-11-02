@@ -13,7 +13,7 @@ hide:
 
 # Kevin Conley
 
-*1 watchface and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kevin-conley_52ef236f282306c38f00000d) · [GitHub (kevincon)](https://github.com/kevincon)
 

@@ -13,7 +13,7 @@ hide:
 
 # Jesse Linthorst
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-linthorst_53b425a5a930985f0c78726f) · [GitHub (jesse-mm)](https://github.com/jesse-mm) · [Website (linthor.st)](https://linthor.st)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-linthorst_53b
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="nightwatch" data-released="2026-10-19" data-updated="2026-10-19">
+<div class="app-card" data-type="watchface" data-title="nightwatch" data-released="2026-10-19" data-updated="2026-10-27">
 <a class="app-shot" href="https://apps.repebble.com/d89b36f0b3e247d580863764" data-search-exclude><img src="../images/apps/d89b36f0b3e247d580863764.png" alt="NightWatch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d89b36f0b3e247d580863764"><a href="https://apps.repebble.com/d89b36f0b3e247d580863764">NightWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-d89b36f0b3e247d580863764"><a href="https://apps.repebble.com/d89b36f0b3e247d580863764">NightWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/jesse-mm/nightwatch/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">NightWatch brings centuries of fine art to your Pebble. Powered by the Rijksmuseum&#x27;s open-data collection. The watchface settings is packed with features to make it truly yours. Disclaimer…</p>
 </div>

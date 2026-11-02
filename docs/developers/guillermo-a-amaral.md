@@ -13,7 +13,7 @@ hide:
 
 # Guillermo A. Amaral
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/guillermo-a-amaral_53751f5b610861ad9400001f) · [GitHub (gamaral)](https://github.com/gamaral) · [Website (guillermoamaral.com)](http://guillermoamaral.com/)
 

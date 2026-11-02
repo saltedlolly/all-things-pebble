@@ -13,7 +13,7 @@ hide:
 
 # OneBusAway
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5832132c8c7fff4a69000107/1) · [GitHub (OneBusAway)](https://github.com/OneBusAway) · [Website (onebusaway.org)](http://onebusaway.org/)
 

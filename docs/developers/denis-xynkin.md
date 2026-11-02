@@ -13,7 +13,7 @@ hide:
 
 # Denis Xynkin
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/denis-xynkin_6f6a00c01979d28614c5355a) · [GitLab (Xynkin)](https://gitlab.com/Xynkin)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/denis-xynkin_6f6a00
 <h2 class="app-name" id="app-2719aa1bb53d41ceb10b7e14"><a href="https://apps.repebble.com/2719aa1bb53d41ceb10b7e14">termd</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
 <a class="app-source" href="https://gitlab.com/Xynkin/termd" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A high-contrast terminal-inspired watchface featuring an ASCII-art clock, four-week calendar, battery, Bluetooth, steps, and heart rate.</p>
 </div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · **T** · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*158 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*159 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -42,6 +42,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-08-27</span> <span title="Latest release in the app store">Updated 2016-10-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Track your table tennis scoring during play. Features: - Play to 11 or 21. - Overtime serving rules (when game reaches 10:10 or 20:20). - Choose vibration options for player serve, serve change…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/c66d4ff3fecc4d82931da9a1" data-search-exclude><img src="../images/apps/c66d4ff3fecc4d82931da9a1.png" alt="Tado" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c66d4ff3fecc4d82931da9a1"><a href="https://apps.repebble.com/c66d4ff3fecc4d82931da9a1">Tado</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<a class="app-source" href="https://github.com/Julien1138/tado-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/julien1138.html" title="More from this developer">Julien1138</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-29</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">See and control your Tado heating from your wrist. Tado shows the temperature and heating power of every room in your Tado home, and lets you control it from your watch. - Room list, room detail…</p>
 </div>
 </div>
 <div class="app-card">
@@ -793,17 +804,6 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/8b210e928160473495d2fc80" data-search-exclude><img src="../images/apps/8b210e928160473495d2fc80.png" alt="Timer" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-8b210e928160473495d2fc80"><a href="https://apps.repebble.com/8b210e928160473495d2fc80">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/nichols-t/timer" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/nichols-t.html" title="More from this developer">nichols-t</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-09</span> <span title="Latest release in the app store">Updated 2026-05-09</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">A minimal timer application inspired by physical rotational timers.</p>
-</div>
-</div>
-<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55b6cd955e0716cd6b0000a1" data-search-exclude><img src="../images/apps/55b6cd955e0716cd6b0000a1.gif" alt="Timer" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-55b6cd955e0716cd6b0000a1"><a href="https://apps.repebble.com/55b6cd955e0716cd6b0000a1">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.7</span></h2>
@@ -823,6 +823,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-16</span> <span title="Latest release in the app store">Updated 2026-10-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A fun Timer and Stopwatch with an animated Sky Diver. Alternative and a bit more serious skin available in the menu.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/8b210e928160473495d2fc80" data-search-exclude><img src="../images/apps/8b210e928160473495d2fc80.png" alt="Timer" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-8b210e928160473495d2fc80"><a href="https://apps.repebble.com/8b210e928160473495d2fc80">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/nichols-t/timer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/ty-nichols.html" title="More from this developer">Ty Nichols</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-09</span> <span title="Latest release in the app store">Updated 2026-05-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">A minimal timer application inspired by physical rotational timers.</p>
 </div>
 </div>
 <div class="app-card">
@@ -1744,7 +1755,7 @@ hide:
 <h2 class="app-name" id="app-52ef2157c503c8acee000008"><a href="https://apps.repebble.com/52ef2157c503c8acee000008">TZplus2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
 <a class="app-source" href="https://www.github.com/mjculross/TZplus2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mjculross.html" title="More from this developer">mjculross</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2014-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2014-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">TZplus2: display multiple configurable timezones</p>
 </div>

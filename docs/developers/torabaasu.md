@@ -13,7 +13,7 @@ hide:
 
 # Torabaasu
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/torabaasu_6a88b50c4b542c00088bca2f) · [GitHub (tmcinerney)](https://github.com/tmcinerney) · [Website (trav.sh)](https://trav.sh)
 
@@ -26,24 +26,24 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/torabaasu_6a88b50c4
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="pulsar chronograph" data-released="2026-08-24" data-updated="2026-08-24">
+<div class="app-card" data-type="watchapp" data-title="pulsar chronograph" data-released="2026-08-24" data-updated="2026-10-31">
 <a class="app-shot" href="https://apps.repebble.com/6a8bc61f06d13300097edc49" data-search-exclude><img src="../images/apps/6a8bc61f06d13300097edc49.png" alt="Pulsar Chronograph" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a8bc61f06d13300097edc49"><a href="https://apps.repebble.com/6a8bc61f06d13300097edc49">Pulsar Chronograph</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
-<a class="app-source" href="https://github.com/tmcinerney/pebble-pulsar/tree/main/apps/chrono" title="Source code" data-search-exclude>View source</a>
+<h2 class="app-name" id="app-6a8bc61f06d13300097edc49"><a href="https://apps.repebble.com/6a8bc61f06d13300097edc49">Pulsar Chronograph</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/tmcinerney/pebble-pulsar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1275" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Pulsar Chrono is a high-performance digital chronograph and split-lap stopwatch for Pebble OS styled after vintage 1970s solid-state LED timing instruments. TIMING FEATURES: • Centisecond…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchface" data-title="pulsar 1970" data-released="2026-08-22" data-updated="2026-08-24">
+<div class="app-card" data-type="watchface" data-title="pulsar 1970" data-released="2026-08-22" data-updated="2026-10-31">
 <a class="app-shot" href="https://apps.repebble.com/6a8937de8c7604000985e6e2" data-search-exclude><img src="../images/apps/6a8937de8c7604000985e6e2.png" alt="Pulsar 1970" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a8937de8c7604000985e6e2"><a href="https://apps.repebble.com/6a8937de8c7604000985e6e2">Pulsar 1970</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
+<h2 class="app-name" id="app-6a8937de8c7604000985e6e2"><a href="https://apps.repebble.com/6a8937de8c7604000985e6e2">Pulsar 1970</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/tmcinerney/pebble-pulsar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1266" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-08-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-22</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The original 1972 Hamilton Pulsar &quot;Time Computer&quot; was the world’s first all-electronic digital wristwatch. Pulsar 1970 brings this horological icon to Pebble with exacting historical fidelity. ⚡…</p>
 </div>

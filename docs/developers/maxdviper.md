@@ -13,7 +13,7 @@ hide:
 
 # MaxDViper
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/maxdviper_e52f453653c79ea144c77df3) · [GitHub (MaxDViper)](https://github.com/MaxDViper)
 

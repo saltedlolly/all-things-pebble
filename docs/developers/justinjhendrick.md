@@ -13,7 +13,7 @@ hide:
 
 # justinjhendrick
 
-*13 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*13 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f68b8a23b7a90009c87db5) · [GitHub (justinjhendrick)](https://github.com/justinjhendrick)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="kingfisher" data-released="2026-10-03" data-updated="2026-10-29">
+<a class="app-shot" href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7" data-search-exclude><img src="../images/apps/7a9d24751b8a49319ec1f6e7.png" alt="Kingfisher" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/justinjhendrick/pebble-watchface-digilog" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Kingfisher is a colorful digital watchface with the sun moving through the day, night, and twilight arcs. Features: * Great battery life * Uses phone location for sunrise/sunset with a fallback to…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="crescent clock" data-released="2026-10-24" data-updated="2026-10-24">
 <a class="app-shot" href="https://apps.repebble.com/a0be2bad86d64f509df171c4" data-search-exclude><img src="../images/apps/a0be2bad86d64f509df171c4.gif" alt="Crescent Clock" loading="lazy"></a>
 <div class="app-info">
@@ -57,17 +68,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-27</span> <span title="Latest release in the app store">Updated 2026-10-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A practical minimalist timer for Pebble. It&#x27;s super easy to use! Press up to add 1 minute and down to subtract 1 minute. It automatically starts counting down. When the timer expires, the watch…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="kingfisher" data-released="2026-10-03" data-updated="2026-10-03">
-<a class="app-shot" href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7" data-search-exclude><img src="../images/apps/7a9d24751b8a49319ec1f6e7.png" alt="Kingfisher" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/justinjhendrick/pebble-watchface-digilog" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-03</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">Kingfisher is a colorful digital watchface with the sun moving through the day, night, and twilight arcs. Features: * Great battery life * Uses phone location for sunrise/sunset with a fallback to…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="long run stopwatch" data-released="2026-08-12" data-updated="2026-09-27">

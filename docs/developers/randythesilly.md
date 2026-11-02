@@ -13,7 +13,7 @@ hide:
 
 # RandyTheSilly
 
-*2 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/randythesilly_68e97cfa1c6711000953d795) · [Website (git.wetfence.xyz)](https://git.wetfence.xyz/RandyTheSilly)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/randythesilly_68e97
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="maan on my wrist xl" data-released="2026-03-29" data-updated="2026-10-31">
+<a class="app-shot" href="https://apps.repebble.com/69c990b93406d0000832e53b" data-search-exclude><img src="../images/apps/69c990b93406d0000832e53b.gif" alt="Maan On My Wrist XL" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-69c990b93406d0000832e53b"><a href="https://apps.repebble.com/69c990b93406d0000832e53b">Maan On My Wrist XL</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<a class="app-source" href="https://git.wetfence.xyz/RandyTheSilly/Maan-On-My-Wrist-XL" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/809" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-29</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
+<p class="app-desc">This is an unofficial and greatly expanded port of the &quot;Maan On My Wrist&quot; watchface to all color Pebbles, including the new Pebble Time 2/Round 2. Every half hour, one half of the creature will…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="trigalarm" data-released="2026-08-30" data-updated="2026-08-30">
 <a class="app-shot" href="https://apps.repebble.com/ed22b4471337441096cdb89e" data-search-exclude><img src="../images/apps/ed22b4471337441096cdb89e.png" alt="Trigalarm" loading="lazy"></a>
 <div class="app-info">
@@ -79,17 +90,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/randythesilly_68e97
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-10</span> <span title="Latest release in the app store">Updated 2026-05-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">&quot;#^%$! I fell asleep and woke up watching a different season! What was the last episode I saw?!&quot; - You, probably Well now your Pebble smartwatch can tell you! This app uses your Pebble Health data…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="maan on my wrist xl" data-released="2026-03-29" data-updated="2026-04-05">
-<a class="app-shot" href="https://apps.repebble.com/69c990b93406d0000832e53b" data-search-exclude><img src="../images/apps/69c990b93406d0000832e53b.gif" alt="Maan On My Wrist XL" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-69c990b93406d0000832e53b"><a href="https://apps.repebble.com/69c990b93406d0000832e53b">Maan On My Wrist XL</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
-<a class="app-source" href="https://git.wetfence.xyz/RandyTheSilly/Maan-On-My-Wrist-XL" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/809" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-29</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
-<p class="app-desc">This is an unofficial and greatly expanded port of the &quot;Maan On My Wrist&quot; watchface to all color Pebbles, including the new Pebble Time 2/Round 2. Every half hour, one half of the creature will…</p>
 </div>
 </div>
 </div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · **R** · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*107 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*107 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -94,7 +94,7 @@ hide:
 <h2 class="app-name" id="app-b195ac35bbaa438da49c4d45"><a href="https://apps.repebble.com/b195ac35bbaa438da49c4d45">Rainy Day</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/ygalanter/rainy-day-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/comfortably-numb.html" title="More from this developer">Comfortably Numb</a> · <a href="https://forum.rebble.io/t/910" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">It&#x27;s like looking out of the window on rainy day - relax watching the raindrops while checking time or you fitness stats. Shaking the watch cycles thru Day of the week 📆 Steps count 👟 Calories…</p>
 </div>
@@ -138,7 +138,7 @@ hide:
 <h2 class="app-name" id="app-5350acebb542511a780000f5"><a href="https://apps.repebble.com/5350acebb542511a780000f5">RandomNumbers</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/zzzzzane/RandomNumbers" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zzzzzane.html" title="More from this developer">Zzzzzane</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-18</span> <span title="Latest release in the app store">Updated 2014-04-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-18</span> <span title="Latest release in the app store">Updated 2014-04-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays a screen of mostly random numbers with the Time and Date &quot;hidden&quot;--the uppermost left value is the hour, uppermost right is the minutes, lower left is the month, lower right is the day…</p>
 </div>
@@ -567,7 +567,7 @@ hide:
 <h2 class="app-name" id="app-637a906bfdf3e30009f63971"><a href="https://apps.rebble.io/en_US/application/637a906bfdf3e30009f63971">Revolved</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/zamuz/revolved" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gonzalo-munoz.html" title="More from this developer">Gonzalo Muñoz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2024-01-11</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2024-01-11</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An update of the classic Revolver watchface for the Pebble round, now for all Pebbles! Including color and font customization, date display. Release for the Rebble Hackathon #001.</p>
 </div>
@@ -787,7 +787,7 @@ hide:
 <h2 class="app-name" id="app-52ec23e2e9b4c3b2be000026"><a href="https://apps.repebble.com/52ec23e2e9b4c3b2be000026">Roman Digital</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/zydeco/pebble_roman_digital" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/namedfork.html" title="More from this developer">namedfork</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-01-31</span> <span title="Latest release in the app store">Updated 2014-01-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-31</span> <span title="Latest release in the app store">Updated 2014-01-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Date and time in roman numerals</p>
 </div>
@@ -1095,7 +1095,7 @@ hide:
 <h2 class="app-name" id="app-836a679deee247d19d4bd4e4"><a href="https://apps.repebble.com/836a679deee247d19d4bd4e4">RunCat for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
 <a class="app-source" href="https://github.com/zunda-pixel/runcat-for-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zunda.html" title="More from this developer">zunda</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-12</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-09-12</span> <span title="Latest release in the app store">Updated 2026-09-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">RunCat for Pebble A playful watchface where the official RunCat runs faster as your heart rate rises. ## Features - Animated RunCat running in place - Animation speed changes with your heart rate…</p>
 </div>
@@ -1180,12 +1180,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/0e5ccc837bdc4fc18892de74" data-search-exclude><img src="../images/apps/0e5ccc837bdc4fc18892de74.png" alt="RWR" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-0e5ccc837bdc4fc18892de74"><a href="https://apps.repebble.com/0e5ccc837bdc4fc18892de74">RWR</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-0e5ccc837bdc4fc18892de74"><a href="https://apps.repebble.com/0e5ccc837bdc4fc18892de74">RWR</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
 <a class="app-source" href="https://gitlab.com/larsfp/rebble-rwr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lars-falk-petersen.html" title="More from this developer">Lars Falk-Petersen</a> · <a href="https://forum.rebble.io/t/1441" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Radar Warning Receiver, for aviation geeks. Shows four random contacts which represents time and date. Flick for animation. Same as https://apps.rebble.io/en_US/application/6ad52c8df4a5040008697611</p>
+<p class="app-desc">&quot;Radar Warning Receiver&quot; watchface, for aviation geeks. Unfortunately the radar hardware is lacking in most Pebble models, so four random contacts representing time and date are shown. Colors…</p>
 </div>
 </div>
 </div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · **D** · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*138 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*139 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -171,7 +171,7 @@ hide:
 <h2 class="app-name" id="app-567df476c247f817dd0003b9"><a href="https://apps.repebble.com/567df476c247f817dd0003b9">Day&amp;Night</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/zeaga/day-night" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zeaga.html" title="More from this developer">Zeaga</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-26</span> <span title="Latest release in the app store">Updated 2015-12-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-26</span> <span title="Latest release in the app store">Updated 2015-12-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple digital watchface made for practice. Changes color based on time or day!</p>
 </div>
@@ -666,7 +666,7 @@ hide:
 <h2 class="app-name" id="app-54a90952ae94cff8c600003f"><a href="https://apps.repebble.com/54a90952ae94cff8c600003f">digitZ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/zecoj/digitZ" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ben-nguyen.html" title="More from this developer">Ben Nguyen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-04</span> <span title="Latest release in the app store">Updated 2015-01-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-04</span> <span title="Latest release in the app store">Updated 2015-01-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An improved clone of the famous DIGITTMM (by Albert Salamon) Improvements: - Much better memory usage (I have redrawn &amp; created ttf from scratch) - Shake to show battery, bluetooth connectivity…</p>
 </div>
@@ -982,11 +982,11 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4f27b20d89244f2d8f0ca9d5" data-search-exclude><img src="../images/apps/4f27b20d89244f2d8f0ca9d5.gif" alt="DotLine" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4f27b20d89244f2d8f0ca9d5"><a href="https://apps.repebble.com/4f27b20d89244f2d8f0ca9d5">DotLine</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<h2 class="app-name" id="app-4f27b20d89244f2d8f0ca9d5"><a href="https://apps.repebble.com/4f27b20d89244f2d8f0ca9d5">DotLine</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-picto" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/davide-dell-erba.html" title="More from this developer">Davide Dell&#x27;Erba</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">It is a watch with a dot and a line: the dot indicates the hours and the line the minutes. Nothing could be simpler, nothing could be more functional!</p>
 </div>
 </div>
@@ -1029,7 +1029,7 @@ hide:
 <h2 class="app-name" id="app-54d802535e8d871a66000025"><a href="https://apps.repebble.com/54d802535e8d871a66000025">dots n squares</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/zecoj/dots-n-squares" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ben-nguyen.html" title="More from this developer">Ben Nguyen</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-09</span> <span title="Latest release in the app store">Updated 2015-04-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-09</span> <span title="Latest release in the app store">Updated 2015-04-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">&quot;Hand-dotted&quot; with love. Features: - Simple and elegant digital display (invertable). - Battery bar! See remaining battery at a glance. - Day of week and date. - Bluetooth connection warning. …</p>
 </div>
@@ -1373,6 +1373,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-10</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Dunescape — a living desert that follows the real sun and moon. The dunes are lit by the actual sun for your location. One face catches the light and the other falls into shadow, and through the…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/66f9941feb084eaf91747dee" data-search-exclude><img src="../images/apps/66f9941feb084eaf91747dee.png" alt="Dungeon Crawler Watch" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-66f9941feb084eaf91747dee"><a href="https://apps.repebble.com/66f9941feb084eaf91747dee">Dungeon Crawler Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Dungeon-Crawler-Watch" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">A tiny adventurer walks a looping dungeon corridor. Every minute they swing their sword to slay a slime; every hour they face a larger boss. Clay settings for time, HUD, speed, vibrate, and demo mode.</p>
 </div>
 </div>
 <div class="app-card">

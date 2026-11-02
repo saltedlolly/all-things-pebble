@@ -13,7 +13,7 @@ hide:
 
 # dezign999
 
-*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dezign999_52f03b26a0cb6a3454000dfb) · [GitHub (dezign999)](https://github.com/dezign999) · [GitHub (gregoiresage)](https://github.com/gregoiresage) · [Website (dezign999.com)](http://dezign999.com)
 

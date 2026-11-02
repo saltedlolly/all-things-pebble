@@ -13,7 +13,7 @@ hide:
 
 # Chris Lewicki
 
-*2 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewicki_53f25ba1e45d533568000139) · [GitHub (chrislewicki)](https://github.com/chrislewicki) · [Website (lewicki.dev)](https://lewicki.dev)
 

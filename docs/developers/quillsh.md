@@ -13,7 +13,7 @@ hide:
 
 # Quillsh
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6956d4e1eea8e40008bcce62/1) · [GitHub (Terence-wilson)](https://github.com/Terence-wilson) · [Website (terence-wilson.github.io)](https://terence-wilson.github.io/mysite/)
 

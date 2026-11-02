@@ -13,7 +13,7 @@ hide:
 
 # szupie
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/szupie_5fd419293dd3100155d398b7) · [GitHub (szupie)](https://github.com/szupie)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/szupie_5fd419293dd3
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="gauge geometry" data-released="2020-12-12" data-updated="2026-10-05">
+<div class="app-card" data-type="watchface" data-title="gauge geometry" data-released="2020-12-12" data-updated="2026-10-28">
 <a class="app-shot" href="https://apps.repebble.com/5fd419293dd3100155d398b8" data-search-exclude><img src="../images/apps/5fd419293dd3100155d398b8.gif" alt="Gauge Geometry" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-5fd419293dd3100155d398b8"><a href="https://apps.repebble.com/5fd419293dd3100155d398b8">Gauge Geometry</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/szupie/gauge-geometry" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2020-12-12</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1464" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2020-12-12</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog-digital watch face designed for legibility and simplicity - Large digits and analog hands easy to read at a glance from wide angles - Day/date - Temperature - Battery level …</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # roboresistance.com
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/roboresistance-com_551822068b7de558730000be) · [GitHub (iherzdresden)](https://github.com/iherzdresden) · [Website (iherzdresden.github.io)](https://iherzdresden.github.io/dvb-trinity/)
 

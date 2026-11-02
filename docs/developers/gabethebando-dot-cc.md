@@ -13,7 +13,7 @@ hide:
 
 # gabethebando-dot-cc
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gabethebando-dot-cc_c11a157e4b4bcfabedd58139) · [GitHub (galbacarys)](https://github.com/galbacarys) · [Website (gabethebando.cc)](https://gabethebando.cc)
 

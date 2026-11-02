@@ -13,7 +13,7 @@ hide:
 
 # Noah Kiser
 
-*5 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noah-kiser_309e95d94e23b9be8fa889d9) · [GitHub (KiserDesigns)](https://github.com/KiserDesigns) · [Website (forum.repebble.com)](https://forum.repebble.com/t/rombra-roman-umbra/537)
 

@@ -13,7 +13,7 @@ hide:
 
 # Eli Weiss
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eli-weiss_66e26246b91c38ab22abab14) · [GitHub (eliwss0)](https://github.com/eliwss0)
 

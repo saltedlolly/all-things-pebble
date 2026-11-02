@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · **R** · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*78 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*79 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -226,7 +226,7 @@ hide:
 <h2 class="app-name" id="app-53f45811d1a7a93dff00014e"><a href="https://apps.repebble.com/53f45811d1a7a93dff00014e">RefWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/zaubererty/RefWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zauberertz.html" title="More from this developer">Zauberertz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-08-20</span> <span title="Latest release in the app store">Updated 2015-03-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">LGPL-2.1</span> <span title="First published in the app store">Released 2014-08-20</span> <span title="Latest release in the app store">Updated 2015-03-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a soccer referee watch app with pre defined profiles for swiss football Up Button: * Long - Start / Pause * Long while game running - Time penalty * Short after break - Shift period (1.2)…</p>
 </div>
@@ -327,6 +327,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-12-17</span> <span title="Latest release in the app store">Updated 2017-01-03</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This is an app to help you find the value of a 4-ring resistor.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/bca44cfa4de14135915afbec" data-search-exclude><img src="../images/apps/bca44cfa4de14135915afbec.png" alt="ResMed CPAP Stats" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-bca44cfa4de14135915afbec"><a href="https://apps.repebble.com/bca44cfa4de14135915afbec">ResMed CPAP Stats</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<a class="app-source" href="https://github.com/dragid10/resmedStatsPebbleApp" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/dragid10.html" title="More from this developer">Dragid10</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-16</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">CPAP sleep stats from ResMed myAir</p>
 </div>
 </div>
 <div class="app-card">
@@ -434,7 +445,7 @@ hide:
 <h2 class="app-name" id="app-52ef1b925931845564000005"><a href="https://apps.repebble.com/52ef1b925931845564000005">Ricochet2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://www.github.com/mjculross/Ricochet2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mjculross.html" title="More from this developer">mjculross</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2014-02-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-03</span> <span title="Latest release in the app store">Updated 2014-02-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Ricochet2: time &amp; date bounce around the screen &amp; ricochet off of each other</p>
 </div>

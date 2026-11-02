@@ -13,7 +13,7 @@ hide:
 
 # n4ru
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/n4ru_52c5a1cc0a89c8025a000049) · [GitLab (n4ru)](https://gitlab.com/n4ru)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/n4ru_52c5a1cc0a89c8
 <h2 class="app-name" id="app-55d3560c704e4657a3000013"><a href="https://apps.repebble.com/55d3560c704e4657a3000013">flicks</a> <span class="app-version" title="Latest version" data-search-exclude>v0.05</span></h2>
 <a class="app-source" href="https://gitlab.com/n4ru/Flicks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-18</span> <span title="Latest release in the app store">Updated 2016-12-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-18</span> <span title="Latest release in the app store">Updated 2016-12-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Introducing flicks - a watch app created to do whatever you want whenever you want - right on your wrist. flicks is a fully configurable and scriptable app that lets you quick launch anything on…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/n4ru_52c5a1cc0a89c8
 <h2 class="app-name" id="app-55de1ab0785abd20ce000078"><a href="https://apps.repebble.com/55de1ab0785abd20ce000078">Hearthstone Legend</a> <span class="app-version" title="Latest version" data-search-exclude>v1.03</span></h2>
 <a class="app-source" href="https://gitlab.com/n4ru/Hearthstone-Legend" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-26</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-26</span> <span title="Latest release in the app store">Updated 2015-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simplistic Hearthstone watchface. Stars indicate battery status: 5 stars &gt; 90% 4 stars &gt; 70% 3 stars &gt; 50% 2 stars &gt; 30% 1 star &gt; 10% Add me on Hearthstone - Thirk#1334 !</p>
 </div>

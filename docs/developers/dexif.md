@@ -13,7 +13,7 @@ hide:
 
 # Dexif
 
-*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dexif_52cfaf52516669ee6b00003a) · [GitHub (dexif)](https://github.com/dexif) · [Website (spitsyn.net)](http://spitsyn.net)
 

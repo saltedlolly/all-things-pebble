@@ -13,23 +13,50 @@ hide:
 
 # Lars Falk-Petersen
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lars-falk-petersen_97cf75e57e2e5ab198e65df0) · [GitLab (larsfp)](https://gitlab.com/larsfp) · [Website (falkp.no)](https://falkp.no)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>3</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="rwr" data-released="2026-10-18" data-updated="2026-10-19">
+<div class="app-card" data-type="watchface" data-title="rwr" data-released="2026-10-18" data-updated="2026-10-31">
 <a class="app-shot" href="https://apps.repebble.com/0e5ccc837bdc4fc18892de74" data-search-exclude><img src="../images/apps/0e5ccc837bdc4fc18892de74.png" alt="RWR" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-0e5ccc837bdc4fc18892de74"><a href="https://apps.repebble.com/0e5ccc837bdc4fc18892de74">RWR</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-0e5ccc837bdc4fc18892de74"><a href="https://apps.repebble.com/0e5ccc837bdc4fc18892de74">RWR</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
 <a class="app-source" href="https://gitlab.com/larsfp/rebble-rwr" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1441" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Radar Warning Receiver, for aviation geeks. Shows four random contacts which represents time and date. Flick for animation. Same as https://apps.rebble.io/en_US/application/6ad52c8df4a5040008697611</p>
+<p class="app-desc">&quot;Radar Warning Receiver&quot; watchface, for aviation geeks. Unfortunately the radar hardware is lacking in most Pebble models, so four random contacts representing time and date are shown. Colors…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="ua 571-c" data-released="2026-10-26" data-updated="2026-10-28">
+<a class="app-shot" href="https://apps.repebble.com/ffcf7095efe544df8272ab82" data-search-exclude><img src="../images/apps/ffcf7095efe544df8272ab82.png" alt="UA 571-C" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ffcf7095efe544df8272ab82"><a href="https://apps.repebble.com/ffcf7095efe544df8272ab82">UA 571-C</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://gitlab.com/larsfp/ua571c" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A watchface with focus on obtaining your daily step goal. It&#x27;s also a homage to one the fantastic user interfaces in the Alien franchise, the UA 571-C Remote Sentry Weapon System. - Ammo counter =…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="th10me" data-released="2026-10-26" data-updated="2026-10-28">
+<a class="app-shot" href="https://apps.repebble.com/f6d36dafc1d740e0bc876f90" data-search-exclude><img src="../images/apps/f6d36dafc1d740e0bc876f90.png" alt="TH10me" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-f6d36dafc1d740e0bc876f90"><a href="https://apps.repebble.com/f6d36dafc1d740e0bc876f90">TH10me</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://gitlab.com/larsfp/th10me" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">agpl-3.0</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">The original TH10c seems abandoned, so I recreated it. Features - Adjustable colors for dial/numerals, hour hand, minute hand, seconds dot, and date. - Optional solid hands: fill the hour and…</p>
 </div>
 </div>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # excentris
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/excentris_54eef2312365a456f0000052) · [GitHub (excentris)](https://github.com/excentris) · [Website (musetrap.org)](http://musetrap.org/)
 

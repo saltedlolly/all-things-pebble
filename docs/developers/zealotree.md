@@ -13,7 +13,7 @@ hide:
 
 # Zealotree
 
-*8 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*8 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1db5a405aa4000023) · [GitHub (zealotree)](https://github.com/zealotree)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1d
 <h2 class="app-name" id="app-579181dd84242800800002e1"><a href="https://apps.repebble.com/579181dd84242800800002e1">Perpetual</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/zealotree/Perpetual" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-22</span> <span title="Latest release in the app store">Updated 2016-10-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-22</span> <span title="Latest release in the app store">Updated 2016-10-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Perpetual is a watchface that displays the time, date, month and the weekday in an analogue fashion. The hour hand is red, and the minute hand is white. The 6 markers are ten minute markers. In…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1d
 <h2 class="app-name" id="app-5723f75bf697457b4600001f"><a href="https://apps.repebble.com/5723f75bf697457b4600001f">SleepyTime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
 <a class="app-source" href="https://github.com/zealotree/Sleepy-Time" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-04-30</span> <span title="Latest release in the app store">Updated 2016-09-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-04-30</span> <span title="Latest release in the app store">Updated 2016-09-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Inspired by Nightface. Only show the time when you need it. Shake to view the current time and date, otherwise the watch sleeps (saving battery).</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1d
 <h2 class="app-name" id="app-57acad61f01b53ce0c000154"><a href="https://apps.repebble.com/57acad61f01b53ce0c000154">LowViz Dark</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/zealotree/LowViz/tree/dark" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-11</span> <span title="Latest release in the app store">Updated 2016-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-11</span> <span title="Latest release in the app store">Updated 2016-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">LowViz Dark is an analogue watchface that emphasises readability for low vision users. It displays the Date (Day of Month), Time (Hours, Minutes, Seconds). It vibrates when disconnected from…</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1d
 <h2 class="app-name" id="app-57aca152bb85ed22da0001bf"><a href="https://apps.repebble.com/57aca152bb85ed22da0001bf">LowViz</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/zealotree/LowViz" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-11</span> <span title="Latest release in the app store">Updated 2016-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-11</span> <span title="Latest release in the app store">Updated 2016-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">LowViz is an analogue watchface that emphasises readability for low vision users. It displays the Date (Day of Month), Time (Hours, Minutes, Seconds). It vibrates when disconnected from Bluetooth…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1d
 <h2 class="app-name" id="app-5789066184accc2867000032"><a href="https://apps.repebble.com/5789066184accc2867000032">ZFACECLOCK</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/zealotree/ZFACECLOCK" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-15</span> <span title="Latest release in the app store">Updated 2016-07-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-15</span> <span title="Latest release in the app store">Updated 2016-07-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Inspired by AOFACECLOCK1st by Akemori Oda The same design with the following additions: - New Colours every time the watchface is launched and every time the Day changes (was every minute) - Added…</p>
 </div>
@@ -87,7 +87,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1d
 <h2 class="app-name" id="app-5781649266202ad3f7000531"><a href="https://apps.repebble.com/5781649266202ad3f7000531">Cirkular Helios</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/zealotree/Cirkular/tree/helios" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-09</span> <span title="Latest release in the app store">Updated 2016-07-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-09</span> <span title="Latest release in the app store">Updated 2016-07-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">-- TIME ROUND EXCLUSIVE -- It&#x27;s Cirkular with Sunrise/Sunset indicators and in dark mode. An analogue clock that displays the time and date based on the positions of the clock. Telling the time is…</p>
 </div>
@@ -98,7 +98,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1d
 <h2 class="app-name" id="app-577f0ff166202ae1d300035c"><a href="https://apps.repebble.com/577f0ff166202ae1d300035c">Cirkular</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/zealotree/Cirkular" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-08</span> <span title="Latest release in the app store">Updated 2016-07-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-08</span> <span title="Latest release in the app store">Updated 2016-07-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">-- TIME ROUND EXCLUSIVE -- An analogue clock that displays the time and date based on the positions of the clock. Telling the time is as simple as looking at the outer ring Outer Ring (12 circles)…</p>
 </div>
@@ -109,7 +109,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zealotree_5722b3d1d
 <h2 class="app-name" id="app-5779c4cd6c2104d5f80007f3"><a href="https://apps.repebble.com/5779c4cd6c2104d5f80007f3">Z Sleep</a> <span class="app-version" title="Latest version" data-search-exclude>v1.05</span></h2>
 <a class="app-source" href="https://github.com/zealotree/Sleepy-Time/tree/z-sleep" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-07-04</span> <span title="Latest release in the app store">Updated 2016-07-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-07-04</span> <span title="Latest release in the app store">Updated 2016-07-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">Z Sleep Even the most zealous people need rest. So does your pebble. It preserves the battery life by only displaying and updating the time when the pebble is flicked. Features: - Shake to Update…</p>
 </div>

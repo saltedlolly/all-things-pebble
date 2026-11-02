@@ -13,7 +13,7 @@ hide:
 
 # Nicholas Knouf
 
-*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/585045b977324b357a0004ae/1) · [GitHub (zeitkunst)](https://github.com/zeitkunst) · [Website (zeitkunst.org)](http://zeitkunst.org)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/585045b977324b3
 <h2 class="app-name" id="app-59724027461a8d9e490001f5"><a href="https://apps.rebble.io/en_US/application/59724027461a8d9e490001f5">Every moment again (On Your Wrist is the Universe)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/zeitkunst/every_moment_again" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-07-21</span> <span title="Latest release in the app store">Updated 2017-07-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-07-21</span> <span title="Latest release in the app store">Updated 2017-07-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Consider your role in the universe by understanding the relationship between light from stars afar and your own history and future. On Your Wrist is the Universe: Every moment again is a watchface…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/585045b977324b3
 <h2 class="app-name" id="app-593448abb67f9f814d0009c5"><a href="https://apps.rebble.io/en_US/application/593448abb67f9f814d0009c5">Satellite Poems (On Your Wrist is the Universe)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/zeitkunst/satpoems-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-06-04</span> <span title="Latest release in the app store">Updated 2017-06-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-06-04</span> <span title="Latest release in the app store">Updated 2017-06-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">(Follow | Feel | Know | Watch | Understand) the satellites above through computer-generated poetry. On Your Wrist is the Universe: Satellite Poems is a watchface that generates new poems based on…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/585045b977324b3
 <h2 class="app-name" id="app-59345bc3b67f9f9e810009cd"><a href="https://apps.rebble.io/en_US/application/59345bc3b67f9f9e810009cd">Constellation Poems (On Your Wrist is the Universe)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/zeitkunst/constellationpoems-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-06-04</span> <span title="Latest release in the app store">Updated 2017-06-04</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-06-04</span> <span title="Latest release in the app store">Updated 2017-06-04</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Imagine a universe with new constellations and develop new stories to describe them. On Your Wrist is the Universe: Constellation Poems is a watchface that generates constellations within random…</p>
 </div>

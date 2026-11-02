@@ -13,7 +13,7 @@ hide:
 
 # Fitzsky Inc
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6864335b0c0ce600095a9437/1) · [GitHub (devindudeman)](https://github.com/devindudeman)
 

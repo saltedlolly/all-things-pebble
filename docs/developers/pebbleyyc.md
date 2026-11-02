@@ -13,7 +13,7 @@ hide:
 
 # PebbleYYC
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebbleyyc_6bb571fd353314a1f27645ea) · [GitHub (PebbleYYC)](https://github.com/PebbleYYC)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebbleyyc_6bb571fd3
 <h2 class="app-name" id="app-8cd850ae97844eaa98e94e2e"><a href="https://apps.repebble.com/8cd850ae97844eaa98e94e2e">BrutalTimeStyle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://www.github.com/PebbleYYC/BrutalTimeStyle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/928" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">This is just a combination of two of my favourite watchfaces: Timestyle (by Freakified) and Brutal (by Irek). ALL credit actually goes to them. I&#x27;ve loved using this, and thought I&#x27;d share. If I&#x27;m…</p>
 </div>

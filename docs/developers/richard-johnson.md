@@ -13,7 +13,7 @@ hide:
 
 # Richard Johnson
 
-*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/richard-johnson_52f0112a949454fbcc00012f) · [GitHub (rajid)](https://github.com/rajid)
 

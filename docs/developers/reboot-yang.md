@@ -13,7 +13,7 @@ hide:
 
 # Reboot Yang
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a424b640dfc322b4500181f/1) · [GitHub (yulingtianxia)](https://github.com/yulingtianxia) · [Website (yulingtianxia.com)](http://yulingtianxia.com/blog/2018/01/15/How-to-make-a-Pebble-watchface/)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5a424b640dfc322
 <h2 class="app-name" id="app-5a4b9bfc0dfc329496001b60"><a href="https://apps.rebble.io/en_US/application/5a4b9bfc0dfc329496001b60">MoHa : +1s For Haha</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/yulingtianxia/Pebble-MoHa" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-01-02</span> <span title="Latest release in the app store">Updated 2018-01-06</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2018-01-02</span> <span title="Latest release in the app store">Updated 2018-01-06</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">MoHa is a simple and young watchface for you! Keep every second! Excited!</p>
 </div>

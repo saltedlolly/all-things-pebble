@@ -13,7 +13,7 @@ hide:
 
 # Emanuele &\#x27;Lele&\#x27; Calo
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/emanuele-lele-calo_ba9fdf56b20b35aafdba8e6b) · [GitHub (eldios)](https://github.com/eldios)
 

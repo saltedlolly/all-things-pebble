@@ -13,7 +13,7 @@ hide:
 
 # fccview labs
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ac3761fefcf57000870107c/1) · [GitHub (fccview)](https://github.com/fccview)
 

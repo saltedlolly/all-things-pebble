@@ -13,7 +13,7 @@ hide:
 
 # Gonzalo Muñoz
 
-*4 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609457438a44a400535e6933/1) · [GitHub (zamuz)](https://github.com/zamuz) · [Website (twitter.com)](https://twitter.com/zamuz)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609457438a44a40
 <h2 class="app-name" id="app-62ffabcf93b4e8000aa2cbec"><a href="https://apps.rebble.io/en_US/application/62ffabcf93b4e8000aa2cbec">Vuela</a> <span class="app-version" title="Latest version" data-search-exclude>v1.42</span></h2>
 <a class="app-source" href="https://github.com/zamuz/vuela" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-08-19</span> <span title="Latest release in the app store">Updated 2025-08-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2022-08-19</span> <span title="Latest release in the app store">Updated 2025-08-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Flieger style watchface.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609457438a44a40
 <h2 class="app-name" id="app-62055185843fe7000aa1c638"><a href="https://apps.rebble.io/en_US/application/62055185843fe7000aa1c638">The Essence</a> <span class="app-version" title="Latest version" data-search-exclude>v1.81</span></h2>
 <a class="app-source" href="https://github.com/zamuz/the-essence" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-02-10</span> <span title="Latest release in the app store">Updated 2025-04-15</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-02-10</span> <span title="Latest release in the app store">Updated 2025-04-15</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A watchface based on the Ressence watches, with customizable colors.</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609457438a44a40
 <h2 class="app-name" id="app-62d6d52b851e80000b4af1aa"><a href="https://apps.rebble.io/en_US/application/62d6d52b851e80000b4af1aa">Blockslide 3</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1</span></h2>
 <a class="app-source" href="https://github.com/zamuz/Blockslide-3" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-07-19</span> <span title="Latest release in the app store">Updated 2024-08-26</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-07-19</span> <span title="Latest release in the app store">Updated 2024-08-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A new version of the Blockslide Seconds watchface by Jnm, with a new look and customizable colors.</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609457438a44a40
 <h2 class="app-name" id="app-637a906bfdf3e30009f63971"><a href="https://apps.rebble.io/en_US/application/637a906bfdf3e30009f63971">Revolved</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/zamuz/revolved" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2024-01-11</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-20</span> <span title="Latest release in the app store">Updated 2024-01-11</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An update of the classic Revolver watchface for the Pebble round, now for all Pebbles! Including color and font customization, date display. Release for the Rebble Hackathon #001.</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/609457438a44a40
 <h2 class="app-name" id="app-64d25223482a0c03a5ab933a"><a href="https://apps.rebble.io/en_US/application/64d25223482a0c03a5ab933a">QuickAuth 4</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0</span></h2>
 <a class="app-source" href="https://github.com/zamuz/QuickAuth4" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2023-08-08</span> <span title="Latest release in the app store">Updated 2023-08-08</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2023-08-08</span> <span title="Latest release in the app store">Updated 2023-08-08</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A fork of the original QuickAuth app by Kevin Cooper, now with support for SHA256 codes.</p>
 </div>

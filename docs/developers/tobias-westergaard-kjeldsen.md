@@ -13,7 +13,7 @@ hide:
 
 # Tobias Westergaard Kjeldsen
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tobias-westergaard-kjeldsen_0ce16f163aec05f4d08f7dec) · [GitLab (tobiaswkjeldsen)](https://gitlab.com/tobiaswkjeldsen) · [Website (goledit.xyz)](https://goledit.xyz/)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tobias-westergaard-
 <h2 class="app-name" id="app-e32338b6f4a24d72b71dcbbd"><a href="https://apps.repebble.com/e32338b6f4a24d72b71dcbbd">Game of Life</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://gitlab.com/tobiaswkjeldsen/pebble-game-of-life" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/349" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-14</span> <span title="Latest release in the app store">Updated 2026-03-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-14</span> <span title="Latest release in the app store">Updated 2026-03-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The Game of Life, also known as Conway&#x27;s Game of Life or simply Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. Visit goledit.xyz to make your own…</p>
 </div>

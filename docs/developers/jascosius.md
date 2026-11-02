@@ -13,7 +13,7 @@ hide:
 
 # Jascosius
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jascosius_531f9501433d091017000126) · [GitHub (jascosius)](https://github.com/jascosius) · [Website (jascosius.de)](https://jascosius.de/projects/pebble-pokedex/)
 

@@ -13,7 +13,7 @@ hide:
 
 # Julien1138
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julien1138_9f1fd54dc8c8710b3d1187d7) · [GitHub (Julien1138)](https://github.com/Julien1138)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/julien1138_9f1fd54d
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="tado" data-released="2026-10-29" data-updated="2026-10-29">
+<a class="app-shot" href="https://apps.repebble.com/c66d4ff3fecc4d82931da9a1" data-search-exclude><img src="../images/apps/c66d4ff3fecc4d82931da9a1.png" alt="Tado" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c66d4ff3fecc4d82931da9a1"><a href="https://apps.repebble.com/c66d4ff3fecc4d82931da9a1">Tado</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<a class="app-source" href="https://github.com/Julien1138/tado-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-29</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">See and control your Tado heating from your wrist. Tado shows the temperature and heating power of every room in your Tado home, and lets you control it from your watch. - Room list, room detail…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="ai usage" data-released="2026-07-03" data-updated="2026-08-15">
 <a class="app-shot" href="https://apps.repebble.com/4b4d43bf086642d883b38d89" data-search-exclude><img src="../images/apps/4b4d43bf086642d883b38d89.png" alt="AI Usage" loading="lazy"></a>
 <div class="app-info">

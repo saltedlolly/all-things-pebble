@@ -13,7 +13,7 @@ hide:
 
 # Leon Matthes
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leon-matthes_691e21ec34f4140008daaea5) · [GitHub (LeonMatthes)](https://github.com/LeonMatthes)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leon-matthes_691e21
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="checkmark" data-released="2025-11-19" data-updated="2026-06-26">
+<div class="app-card" data-type="watchapp" data-title="checkmark" data-released="2025-11-19" data-updated="2026-10-31">
 <a class="app-shot" href="https://apps.repebble.com/691e287d23bdbb000998aff9" data-search-exclude><img src="../images/apps/691e287d23bdbb000998aff9.png" alt="CheckMark" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-691e287d23bdbb000998aff9"><a href="https://apps.repebble.com/691e287d23bdbb000998aff9">CheckMark</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-691e287d23bdbb000998aff9"><a href="https://apps.repebble.com/691e287d23bdbb000998aff9">CheckMark</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
 <a class="app-source" href="https://github.com/LeonMatthes/CheckMark" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1091" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-19</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-19</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Do you have your check lists organized in Markdown files somewhere? Your shopping list? Your todos? Then CheckMark is for you! Read unchecked items directly from your watch - marking items dones…</p>
 </div>

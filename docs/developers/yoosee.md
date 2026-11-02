@@ -13,7 +13,7 @@ hide:
 
 # yoosee
 
-*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoosee_56fc1d81085b3d583f000043) · [Rebble App Store](https://apps.rebble.io/en_US/developer/56fc1d81085b3d583f000043/1) · [GitHub (yoosee)](https://github.com/yoosee)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoosee_56fc1d81085b
 <h2 class="app-name" id="app-57c5d5795e3c3db485000516"><a href="https://apps.repebble.com/57c5d5795e3c3db485000516">Zirconia</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/yoosee/PebbleZirconiaWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-30</span> <span title="Latest release in the app store">Updated 2018-02-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-08-30</span> <span title="Latest release in the app store">Updated 2018-02-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Digital Watchface with Time, Date, Current temperature, Weather condition and Health Steps, Bluetooth disconnect indicator. All colors are configurable. Your Pebble has to be updated to v4.0…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoosee_56fc1d81085b
 <h2 class="app-name" id="app-574456d819ef0ca0a300000d"><a href="https://apps.repebble.com/574456d819ef0ca0a300000d">Obsidian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/yoosee/PebbleWatchObsidian/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-24</span> <span title="Latest release in the app store">Updated 2018-02-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-05-24</span> <span title="Latest release in the app store">Updated 2018-02-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Analog Clock watchface with Date, Weather and Health Steps, Bluetooth indicator. All Color configurable. Because of Weather provider inaccuracy, now it uses Weather.gov as a default provider, then…</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoosee_56fc1d81085b
 <h2 class="app-name" id="app-57c7304cf69d1da5a6000635"><a href="https://apps.rebble.io/en_US/application/57c7304cf69d1da5a6000635">Timemeter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/yoosee/PebbleTimemeterWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-31</span> <span title="Latest release in the app store">Updated 2017-08-28</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-31</span> <span title="Latest release in the app store">Updated 2017-08-28</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">24 hours and 12 month clock.</p>
 </div>

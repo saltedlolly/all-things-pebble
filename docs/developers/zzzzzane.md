@@ -13,7 +13,7 @@ hide:
 
 # Zzzzzane
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zzzzzane_52f0171f8cbe654b5900010f) · [GitHub (zzzzzane)](https://github.com/zzzzzane)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zzzzzane_52f0171f8c
 <h2 class="app-name" id="app-5350acebb542511a780000f5"><a href="https://apps.repebble.com/5350acebb542511a780000f5">RandomNumbers</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
 <a class="app-source" href="https://github.com/zzzzzane/RandomNumbers" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-04-18</span> <span title="Latest release in the app store">Updated 2014-04-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-04-18</span> <span title="Latest release in the app store">Updated 2014-04-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Displays a screen of mostly random numbers with the Time and Date &quot;hidden&quot;--the uppermost left value is the hour, uppermost right is the minutes, lower left is the month, lower right is the day…</p>
 </div>

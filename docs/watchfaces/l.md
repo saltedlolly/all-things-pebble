@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · **L** · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*79 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*81 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -133,6 +133,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/10b97ec7e30c45378b35eb58" data-search-exclude><img src="../images/apps/10b97ec7e30c45378b35eb58.png" alt="Layer-by-Layer" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-10b97ec7e30c45378b35eb58"><a href="https://apps.repebble.com/10b97ec7e30c45378b35eb58">Layer-by-Layer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Layer-by-Layer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">The digits get printed from the bottom up. A small nozzle sweeps left and right, laying down one line per pass, and when the minute changes the old digits drop off the bed and a new print starts…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/69139dc57a004424b6109c20" data-search-exclude><img src="../images/apps/69139dc57a004424b6109c20.png" alt="LCARS Stardate" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.14.0</span></h2>
@@ -182,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-56fa97f969581df9ba000044"><a href="https://apps.repebble.com/56fa97f969581df9ba000044">LCD</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://www.github.com/bschau/LCD" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/brian-schau.html" title="More from this developer">Brian Schau</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-03-29</span> <span title="Latest release in the app store">Updated 2016-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-03-29</span> <span title="Latest release in the app store">Updated 2016-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Show time in LCD font. Features: - Large time display. - Seconds in dots. - Color of watchface can be changed. - Double-flick your wrist to show date and battery status.</p>
 </div>
@@ -589,7 +600,7 @@ hide:
 <h2 class="app-name" id="app-0b5a545c44b04a3a9fa4ff65"><a href="https://apps.repebble.com/0b5a545c44b04a3a9fa4ff65">Loading Cat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/zbzbw/loadingcat-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/bowen-zhou.html" title="More from this developer">Bowen Zhou</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-04</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Yeah, loading...</p>
 </div>
@@ -705,6 +716,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/69d45f1c86d8ae0009a7174d" data-search-exclude><img src="../images/apps/69d45f1c86d8ae0009a7174d.png" alt="Lotus Breathwork" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-69d45f1c86d8ae0009a7174d"><a href="https://apps.rebble.io/en_US/application/69d45f1c86d8ae0009a7174d">Lotus Breathwork</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
+<a class="app-source" href="https://github.com/swansky42/LotusWatchFace" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/resonant-way.html" title="More from this developer">Resonant Way</a> · <a href="https://forum.rebble.io/t/840" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-07</span> <span title="Latest release in the app store">Updated 2026-10-26</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time</div>
+<p class="app-desc">Lotus Breathwork Watchface encourages you to find moments of calm throughout your day by gently reminding you to breathe. Use the Pebble phone watchface settings to: • Select 15, 30, or 60 minute…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/574a15f197cebc2b9100001c" data-search-exclude><img src="../images/apps/574a15f197cebc2b9100001c.png" alt="Love Live! School Idol Watchface" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-574a15f197cebc2b9100001c"><a href="https://apps.repebble.com/574a15f197cebc2b9100001c">Love Live! School Idol Watchface</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -754,7 +776,7 @@ hide:
 <h2 class="app-name" id="app-57aca152bb85ed22da0001bf"><a href="https://apps.repebble.com/57aca152bb85ed22da0001bf">LowViz</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
 <a class="app-source" href="https://github.com/zealotree/LowViz" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zealotree.html" title="More from this developer">Zealotree</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-11</span> <span title="Latest release in the app store">Updated 2016-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-11</span> <span title="Latest release in the app store">Updated 2016-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">LowViz is an analogue watchface that emphasises readability for low vision users. It displays the Date (Day of Month), Time (Hours, Minutes, Seconds). It vibrates when disconnected from Bluetooth…</p>
 </div>
@@ -765,7 +787,7 @@ hide:
 <h2 class="app-name" id="app-57acad61f01b53ce0c000154"><a href="https://apps.repebble.com/57acad61f01b53ce0c000154">LowViz Dark</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/zealotree/LowViz/tree/dark" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zealotree.html" title="More from this developer">Zealotree</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-08-11</span> <span title="Latest release in the app store">Updated 2016-08-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-08-11</span> <span title="Latest release in the app store">Updated 2016-08-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time Round</div>
 <p class="app-desc">LowViz Dark is an analogue watchface that emphasises readability for low vision users. It displays the Date (Day of Month), Time (Hours, Minutes, Seconds). It vibrates when disconnected from…</p>
 </div>
@@ -872,10 +894,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/d47105a3c7c1489895b067ff" data-search-exclude><img src="../images/apps/d47105a3c7c1489895b067ff.png" alt="Luped CGM" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d47105a3c7c1489895b067ff"><a href="https://apps.repebble.com/d47105a3c7c1489895b067ff">Luped CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.6</span></h2>
+<h2 class="app-name" id="app-d47105a3c7c1489895b067ff"><a href="https://apps.repebble.com/d47105a3c7c1489895b067ff">Luped CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.21</span></h2>
 <a class="app-source" href="https://github.com/dabear/CrimsonBearPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pocket-spring-winder.html" title="More from this developer">Pocket Spring-Winder</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A Loop-styled CGM watchface for Pebble Time 2 and Pebble Round 2. Requires a direct watch connection from a supported iPhone app such as Loop or Trio; the watchface has no Pebble app settings and…</p>
 </div>

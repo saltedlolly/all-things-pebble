@@ -13,7 +13,7 @@ hide:
 
 # James Mure-Dubois
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/james-mure-dubois_546601d69c66283579000046) · [GitHub (jmuredubois)](https://github.com/jmuredubois) · [Website (jmuredubois.free.fr)](http://www.jmuredubois.free.fr)
 

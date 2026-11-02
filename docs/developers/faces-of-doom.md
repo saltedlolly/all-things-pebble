@@ -13,7 +13,7 @@ hide:
 
 # Faces Of Doom
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/faces-of-doom_529e5b71d7894b5492000003) · [GitHub (fuzzie360)](https://github.com/fuzzie360)
 

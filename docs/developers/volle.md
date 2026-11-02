@@ -13,7 +13,7 @@ hide:
 
 # volle
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/volle_52f16c36c4117252f9000657) · [GitHub (aHcVolle)](https://github.com/aHcVolle) · [Website (forums.getpebble.com)](https://forums.getpebble.com/discussion/31262/watchface-trekvolle#latest)
 

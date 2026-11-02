@@ -13,7 +13,7 @@ hide:
 
 # Thomas Cherry
 
-*2 watchfaces and 2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-cherry_e17c5c02c0004112d037771d) · [GitHub (jceaser)](https://github.com/jceaser)
 

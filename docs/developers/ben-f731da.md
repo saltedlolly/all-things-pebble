@@ -13,7 +13,7 @@ hide:
 
 # Ben
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/585ffd9e0e3a49dd2600003f/1) · [GitHub (computergeek314)](https://github.com/computergeek314)
 

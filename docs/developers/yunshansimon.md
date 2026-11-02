@@ -13,7 +13,7 @@ hide:
 
 # yunshansimon
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yunshansimon_5308b25d8d051a27b5000381) · [GitHub (yunshansimon)](https://github.com/yunshansimon) · [Website (pan.baidu.com)](http://pan.baidu.com/s/1i3HWmW1)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yunshansimon_5308b2
 <h2 class="app-name" id="app-533227ae326898b7df000025"><a href="https://apps.repebble.com/533227ae326898b7df000025">Wachatpebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/yunshansimon/pebble-notifier-international.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-26</span> <span title="Latest release in the app store">Updated 2014-03-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-03-26</span> <span title="Latest release in the app store">Updated 2014-03-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This pebble-app is rewritten by Yang Tsao according to the source code by Tiago R. Espinha , compatible with pebble2.0. Because of using same UUID, you can continue using…</p>
 </div>

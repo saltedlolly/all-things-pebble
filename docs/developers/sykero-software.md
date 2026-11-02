@@ -13,7 +13,7 @@ hide:
 
 # Sykerö Software
 
-*1 watchface and 5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/syker-software_9f6c9c6e9ce88af6a0db953e) · [GitHub (Sykero-Software)](https://github.com/Sykero-Software) · [Website (sykero.fi)](https://sykero.fi)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/syker-software_9f6c
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="sykerö smart alarm" data-released="2026-08-07" data-updated="2026-09-04">
+<div class="app-card" data-type="watchapp" data-title="sykerö smart alarm" data-released="2026-08-07" data-updated="2026-11-01">
 <a class="app-shot" href="https://apps.repebble.com/a993645f974e4673a215a9e0" data-search-exclude><img src="../images/apps/a993645f974e4673a215a9e0.png" alt="Sykerö Smart Alarm" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a993645f974e4673a215a9e0"><a href="https://apps.repebble.com/a993645f974e4673a215a9e0">Sykerö Smart Alarm</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
+<h2 class="app-name" id="app-a993645f974e4673a215a9e0"><a href="https://apps.repebble.com/a993645f974e4673a215a9e0">Sykerö Smart Alarm</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.2</span></h2>
 <a class="app-source" href="https://github.com/Sykero-Software/PebbleSykeroAlarm" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Sykerö Smart Alarm wakes you a few minutes early, at a moment you are already stirring — and never a minute later than the time you set. Instead of firing at the first twitch of movement, it…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # chrip
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chrip_569eb89fa1ebd0d5a9000005) · [GitHub (chrip)](https://github.com/chrip) · [Website (eyevido.de)](https://eyevido.de)
 

@@ -13,7 +13,7 @@ hide:
 
 # linearcircles
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/linearcircles_566d8849925d554c8400002d) · [GitHub (kendra-w)](https://github.com/kendra-w)
 

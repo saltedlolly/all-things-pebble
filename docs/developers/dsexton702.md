@@ -13,7 +13,7 @@ hide:
 
 # Dsexton702
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dsexton702_52aa24cc7314ca7a6a000001) · [GitHub (dsexton702)](https://github.com/dsexton702) · [Website (teamacid.co)](http://teamacid.co/)
 

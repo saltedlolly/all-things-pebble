@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · **E** · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*61 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*61 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -160,7 +160,7 @@ hide:
 <h2 class="app-name" id="app-2433a070bb7d46b9b7f84e7f"><a href="https://apps.repebble.com/2433a070bb7d46b9b7f84e7f">Eclipz</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/zalewszczak/solar-eclipse-watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ukasz-zalewski.html" title="More from this developer">Łukasz Zalewski</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-09-25</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-25</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">What is a a watch? We&#x27;ve used them for decades without asking this basic question, what exactly does it do? You would think it just tells the time, but in reality it tracks the movement of…</p>
 </div>
@@ -214,8 +214,8 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-185fd3518b98492a957c25d7"><a href="https://apps.repebble.com/185fd3518b98492a957c25d7">elbbep</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://gitlab.com/glejeune/elbbep" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/theyoung.html" title="More from this developer">TheYoung</a> · <a href="https://forum.rebble.io/t/857" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
+<div class="app-dev">by <a href="../developers/rythm-run.html" title="More from this developer">Rythm.Run</a> · <a href="https://forum.rebble.io/t/857" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">bsd-3-clause</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A clean analog watchface with a 24-hour dial running anti-clockwise.</p>
 </div>
@@ -633,7 +633,7 @@ hide:
 <h2 class="app-name" id="app-59724027461a8d9e490001f5"><a href="https://apps.rebble.io/en_US/application/59724027461a8d9e490001f5">Every moment again (On Your Wrist is the Universe)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
 <a class="app-source" href="https://github.com/zeitkunst/every_moment_again" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nicholas-knouf.html" title="More from this developer">Nicholas Knouf</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-07-21</span> <span title="Latest release in the app store">Updated 2017-07-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-07-21</span> <span title="Latest release in the app store">Updated 2017-07-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Consider your role in the universe by understanding the relationship between light from stars afar and your own history and future. On Your Wrist is the Universe: Every moment again is a watchface…</p>
 </div>

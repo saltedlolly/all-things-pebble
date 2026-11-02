@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · **H** · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*72 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*75 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -20,6 +20,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Display hourly and daily forecast from a Home Assistant weather entity. Also shows sunrise and sunset times.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/324a60595a6d49ab91b981e2" data-search-exclude><img src="../images/apps/324a60595a6d49ab91b981e2.png" alt="HA Glance" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-324a60595a6d49ab91b981e2"><a href="https://apps.repebble.com/324a60595a6d49ab91b981e2">HA Glance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/jkraemer/pebble-ha-glance" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/jens-kramer.html" title="More from this developer">Jens Krämer</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-28</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Your Home Assistant at a glance, and three of its actions under your thumb. HA Glance shows up to four values from Home Assistant: temperatures, battery levels, power, the state of your alarm…</p>
 </div>
 </div>
 <div class="app-card">
@@ -67,6 +78,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/6ae3cb9f66ec36000948e340" data-search-exclude><img src="../images/apps/6ae3cb9f66ec36000948e340.png" alt="HA Voice" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6ae3cb9f66ec36000948e340"><a href="https://apps.rebble.io/en_US/application/6ae3cb9f66ec36000948e340">HA Voice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<a class="app-source" href="https://github.com/Aulos/pebble-ha-voice" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/aulos.html" title="More from this developer">Aulos</a> · <a href="https://forum.rebble.io/t/1468" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-29</span> <span title="Latest release in the app store">Updated 2026-10-29</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Time</div>
+<p class="app-desc">Ask Home Assistant from your wrist: say a command, read the answer.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/532616a5188442dfabba058e" data-search-exclude><img src="../images/apps/532616a5188442dfabba058e.png" alt="HA Voice Tasks" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-532616a5188442dfabba058e"><a href="https://apps.repebble.com/532616a5188442dfabba058e">HA Voice Tasks</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1</span></h2>
@@ -108,6 +130,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-26</span> <span title="Latest release in the app store">Updated 2019-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This watchapp lets you access your habitica (aka habitRPG) tasks and mark them completed. Select a task in the tasks list and press &#x27;select&#x27;. The selected tasks get IMMEDIATELY marked as completed…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/b3c3cbc982dd4de4806c153f" data-search-exclude><span class="app-noshot">No screenshot</span></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b3c3cbc982dd4de4806c153f"><a href="https://apps.repebble.com/b3c3cbc982dd4de4806c153f">Habits by Semi</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<a class="app-source" href="https://github.com/dysseus-pascal/Habits" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/dysseus.html" title="More from this developer">dysseus</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-10-28</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Track your habits. enforce them, break them!</p>
 </div>
 </div>
 <div class="app-card">

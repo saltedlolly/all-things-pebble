@@ -13,7 +13,7 @@ hide:
 
 # XWolfOverride
 
-*4 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xwolfoverride_54469025c952a3161f00007d) · [GitHub (XWolfOverride)](https://github.com/XWolfOverride) · [Website (xwolf.es)](http://www.xwolf.es/)
 

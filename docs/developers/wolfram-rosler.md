@@ -13,7 +13,7 @@ hide:
 
 # Wolfram Rösler
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wolfram-r-sler_5dc34c6ac393f52a76417110) · [GitLab (wolframroesler)](https://gitlab.com/wolframroesler)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wolfram-r-sler_5dc3
 <h2 class="app-name" id="app-5dc34c6bc393f52a76417112"><a href="https://apps.repebble.com/5dc34c6bc393f52a76417112">Pie</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://gitlab.com/wolframroesler/pie" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2019-11-06</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">mit</span> <span title="First published in the app store">Released 2019-11-06</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Minimalistic watchface that displays the hour as a pie segment. The background is a pie segment that goes from from 12:00 to where the hour hand of a regular watch would be. The pie segment is…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # wiegand
 
-*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wiegand_56353c069ac02bf83300000e) · [Rebble App Store](https://apps.rebble.io/en_US/developer/56353c069ac02bf83300000e/1) · [GitHub (chuckmoritzgg)](https://github.com/chuckmoritzgg) · [GitHub (moerunner)](https://github.com/moerunner) · [Website (paypal.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YNAK2AH7ZK4WQ)
 

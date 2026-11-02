@@ -13,7 +13,7 @@ hide:
 
 # Kyle Potts
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kyle-potts_52bbd3e1530bf492550000e1) · [GitHub (kylepotts)](https://github.com/kylepotts) · [Website (kyle-potts.com)](http://www.kyle-potts.com)
 

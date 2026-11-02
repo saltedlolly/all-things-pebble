@@ -13,7 +13,7 @@ hide:
 
 # Tools on Tech
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tools-on-tech_09d07916bc53b30ede8f8320) · [GitLab (tools-on-tech)](https://gitlab.com/tools-on-tech)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tools-on-tech_09d07
 <h2 class="app-name" id="app-10f3dfb18e4d4256824ad844"><a href="https://apps.repebble.com/10f3dfb18e4d4256824ad844">QuickTodoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.3</span></h2>
 <a class="app-source" href="https://gitlab.com/tools-on-tech/quicktodoist" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1186" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-01</span> <span title="Latest release in the app store">Updated 2026-08-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">mit</span> <span title="First published in the app store">Released 2026-08-01</span> <span title="Latest release in the app store">Updated 2026-08-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">I wanted a Todoist app that would start instantly. So this setup uses an api key and cache to make that possible. It&#x27;s meant for me to quickly check my current top tasks and add thoughts…</p>
 </div>

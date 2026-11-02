@@ -13,7 +13,7 @@ hide:
 
 # Santiago Santoro
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/santiago-santoro_54a700922daaa49ebd0000b1) · [GitHub (sjsantoro)](https://github.com/sjsantoro)
 

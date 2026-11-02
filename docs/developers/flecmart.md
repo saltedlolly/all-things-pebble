@@ -13,7 +13,7 @@ hide:
 
 # Flecmart
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/flecmart_56b2a154d47512b8de5ebcdd) · [GitHub (flecmart)](https://github.com/flecmart)
 

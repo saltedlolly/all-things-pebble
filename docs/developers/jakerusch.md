@@ -13,7 +13,7 @@ hide:
 
 # Jakerusch
 
-*4 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jakerusch_5744715f00693fd87600000b) · [GitHub (jakerusch)](https://github.com/jakerusch)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jakerusch_5744715f0
 <h2 class="app-name" id="app-581fb098e7785b8942000001"><a href="https://apps.repebble.com/581fb098e7785b8942000001">Perfect Analog Celsuius</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://www.github.com/jakerusch/DIAL_V4" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-11-06</span> <span title="Latest release in the app store">Updated 2016-11-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-11-06</span> <span title="Latest release in the app store">Updated 2016-11-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is Perfect Analog Celsius (look for Perfect Analog if you want the Fahrenheit version). It provides temperature, weather conditions, weekday, day of month, health, and battery status. Weather…</p>
 </div>

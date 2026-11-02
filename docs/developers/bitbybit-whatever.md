@@ -13,7 +13,7 @@ hide:
 
 # BitByBit Whatever
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bitbybit-whatever_6a77f73f199a1d00081c2af9) · [GitLab (m00dawg)](https://gitlab.com/m00dawg) · [Website (bitbybitphoto.com)](https://www.bitbybitphoto.com)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bitbybit-whatever_6
 <h2 class="app-name" id="app-6a7a0321bb2e890009f6b0f8"><a href="https://apps.repebble.com/6a7a0321bb2e890009f6b0f8">Film Devle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://gitlab.com/m00dawg/film-devle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1223" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-08-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">bsd-2-clause</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-08-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Black and White photographic film development timer</p>
 </div>

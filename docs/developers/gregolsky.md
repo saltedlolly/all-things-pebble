@@ -13,7 +13,7 @@ hide:
 
 # gregolsky
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gregolsky_992b6fe43b5311cf1f6f238f) · [GitHub (gregolsky)](https://github.com/gregolsky) · [Website (gregolsky.pl)](https://gregolsky.pl)
 

@@ -13,7 +13,7 @@ hide:
 
 # zszen
 
-*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zszen_57586deacbd52b0d51000004) · [GitHub (zszen)](https://github.com/zszen) · [GitHub (pebble-examples)](https://github.com/pebble-examples) · [Website (twitter.com)](http://twitter.com/zszen)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zszen_57586deacbd52
 <h2 class="app-name" id="app-57586e4ccbd52b9732000001"><a href="https://apps.repebble.com/57586e4ccbd52b9732000001">ZWatch</a> <span class="app-version" title="Latest version" data-search-exclude>v4.3</span></h2>
 <a class="app-source" href="https://github.com/zszen/PebbleFace_ZSimpleTime" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-06-08</span> <span title="Latest release in the app store">Updated 2016-12-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-06-08</span> <span title="Latest release in the app store">Updated 2016-12-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">simple clock display. this number is hour display only. battery save. first number position is hour in one day percentage. second number position is minute turn around. v3.8 add always highlight…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zszen_57586deacbd52
 <h2 class="app-name" id="app-57cd6e04f69d1d636000026c"><a href="https://apps.repebble.com/57cd6e04f69d1d636000026c">ZSwissSquare</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/zszen/pebble_zswisssquare" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-09-05</span> <span title="Latest release in the app store">Updated 2016-10-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-09-05</span> <span title="Latest release in the app store">Updated 2016-10-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface base on &quot;SwissSquare&quot;. The author ask me for support the local setting function. So I deal it. It may lose some function like vibes.</p>
 </div>

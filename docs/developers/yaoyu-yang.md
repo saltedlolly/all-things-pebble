@@ -13,7 +13,7 @@ hide:
 
 # Yaoyu Yang
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yaoyu-yang_550cbee5deb0adbde6000074) · [Website (gethookio.strikingly.com)](http://gethookio.strikingly.com/)
 

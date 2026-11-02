@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · **L** · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*47 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*49 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -100,6 +100,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/d1c1cc4e12314b3d86512c1c" data-search-exclude><img src="../images/apps/d1c1cc4e12314b3d86512c1c.png" alt="Layer Frenzy" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d1c1cc4e12314b3d86512c1c"><a href="https://apps.repebble.com/d1c1cc4e12314b3d86512c1c">Layer Frenzy</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Layer-Frenzy" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Layer Frenzy is a fast arcade game for makers: you are the print nozzle. A ghost outline of the target part appears on the bed — cube, pyramid, cup, vase, or boat. The nozzle sweeps each layer…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/05be35b816874fa9a85ce6c4" data-search-exclude><img src="../images/apps/05be35b816874fa9a85ce6c4.png" alt="Learn Morse" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-05be35b816874fa9a85ce6c4"><a href="https://apps.repebble.com/05be35b816874fa9a85ce6c4">Learn Morse</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
@@ -182,7 +193,7 @@ hide:
 <h2 class="app-name" id="app-556c868e4155358c3e00000c"><a href="https://apps.repebble.com/556c868e4155358c3e00000c">LibreNMS</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/zarya/Pebble-Librenms/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zarya.html" title="More from this developer">zarya</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2015-06-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-06-01</span> <span title="Latest release in the app store">Updated 2015-06-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">App to monitor LibreNMS</p>
 </div>
@@ -397,6 +408,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/b8319da1343f40b9a3000650" data-search-exclude><img src="../images/apps/b8319da1343f40b9a3000650.png" alt="LLM Thing" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b8319da1343f40b9a3000650"><a href="https://apps.repebble.com/b8319da1343f40b9a3000650">LLM Thing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<a class="app-source" href="https://github.com/SeeSharpSi/llm_thing" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/silas.html" title="More from this developer">Silas</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">I way to give Pebble-related tools and dictation to an OpenAI compatible endpoint. Also supports MCP servers.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/565c94c0eae744b790000068" data-search-exclude><img src="../images/apps/565c94c0eae744b790000068.png" alt="LMS Controller" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-565c94c0eae744b790000068"><a href="https://apps.repebble.com/565c94c0eae744b790000068">LMS Controller</a> <span class="app-version" title="Latest version" data-search-exclude>v2.61</span></h2>
@@ -446,7 +468,7 @@ hide:
 <h2 class="app-name" id="app-5738e66eeae0b2ef05000024"><a href="https://apps.repebble.com/5738e66eeae0b2ef05000024">Locomo</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/yoziru-desu/locomo-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/yoziru-desu.html" title="More from this developer">yoziru-desu</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-15</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-05-15</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Start Locomo when going to work or returning home and stop worrying about which train is next and which platform you need to go to. Locomo will show you how much time you have left, if your train…</p>
 </div>

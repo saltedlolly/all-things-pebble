@@ -13,7 +13,7 @@ hide:
 
 # Moondawg
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moondawg_5fb06bdfb0b9e000539df15c) · [GitLab (Ryan-Mooney)](https://gitlab.com/Ryan-Mooney) · [Website (ryan-mooney.com)](https://ryan-mooney.com/pebble-nav-hud)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/moondawg_5fb06bdfb0
 <h2 class="app-name" id="app-6a74fe5c49abe2000a25c7f0"><a href="https://apps.repebble.com/6a74fe5c49abe2000a25c7f0">Pebble Nav HUD</a> <span class="app-version" title="Latest version" data-search-exclude>v1.13.0</span></h2>
 <a class="app-source" href="https://gitlab.com/Ryan-Mooney/pebble-hud-navigation" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/1217" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-06</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">mit</span> <span title="First published in the app store">Released 2026-08-06</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Google Maps turn-by-turn directions, on your wrist. REQUIRES a free companion app for Android: https://ryan-mooney.com/pebble-nav-hud Android only. There is no iOS version, because iOS does not…</p>
 </div>

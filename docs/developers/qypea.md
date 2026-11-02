@@ -13,7 +13,7 @@ hide:
 
 # Qypea
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/qypea_572ca1e118acc71280000019) · [GitHub (qypea)](https://github.com/qypea) · [Website (qypea.com)](http://www.qypea.com)
 

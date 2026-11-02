@@ -13,7 +13,7 @@ hide:
 
 # STR\_O
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ad136e01a9d380009ba741c/1) · [GitHub (strohbinsky)](https://github.com/strohbinsky)
 

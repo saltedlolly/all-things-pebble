@@ -13,7 +13,7 @@ hide:
 
 # Android Hell
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/android-hell_55e113295895cba1300000c0) · [GitHub (AndroidHell)](https://github.com/AndroidHell)
 

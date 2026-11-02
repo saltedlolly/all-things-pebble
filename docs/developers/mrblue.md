@@ -13,7 +13,7 @@ hide:
 
 # MrBlue
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrblue_56dc9f89296282ad2e000034) · [GitHub (mrbluue)](https://github.com/mrbluue)
 

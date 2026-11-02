@@ -13,7 +13,7 @@ hide:
 
 # Brandon Berookhim
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brandon-berookhim_53273198cee4fdbba90003cd) · [GitHub (brandonio)](https://github.com/brandonio) · [Website (brandonb.me)](https://www.brandonb.me)
 

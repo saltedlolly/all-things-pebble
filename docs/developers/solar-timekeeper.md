@@ -13,7 +13,7 @@ hide:
 
 # Solar Timekeeper
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/solar-timekeeper_b2429c905b062035b8272e7e) · [GitHub (yodalf)](https://github.com/yodalf)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/solar-timekeeper_b2
 <h2 class="app-name" id="app-38d93227474b40f3aa2efa4f"><a href="https://apps.repebble.com/38d93227474b40f3aa2efa4f">Bitcoin and Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v5.2.3</span></h2>
 <a class="app-source" href="https://github.com/yodalf/coincan" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-15</span> <span title="Latest release in the app store">Updated 2026-05-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-15</span> <span title="Latest release in the app store">Updated 2026-05-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Modern implementation of the original 10+ year old Coincan</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # bndki
 
-*4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bndki_845ea4e11220c0a802d04a48) · [GitHub (bndki)](https://github.com/bndki)
 

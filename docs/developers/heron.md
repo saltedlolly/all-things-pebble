@@ -13,7 +13,7 @@ hide:
 
 # Heron
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/heron_550b12416aa533e72200004d) · [GitHub (heronyang)](https://github.com/heronyang) · [Website (heron.me)](http://www.heron.me)
 

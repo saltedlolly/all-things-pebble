@@ -13,7 +13,7 @@ hide:
 
 # yoziru-desu
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoziru-desu_560fd7a8ba529bd5f4000094) · [GitHub (yoziru-desu)](https://github.com/yoziru-desu) · [Website (paypal.me)](http://paypal.me/yoziru)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoziru-desu_560fd7a
 <h2 class="app-name" id="app-5738e66eeae0b2ef05000024"><a href="https://apps.repebble.com/5738e66eeae0b2ef05000024">Locomo</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/yoziru-desu/locomo-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-05-15</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-05-15</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Start Locomo when going to work or returning home and stop worrying about which train is next and which platform you need to go to. Locomo will show you how much time you have left, if your train…</p>
 </div>

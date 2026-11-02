@@ -13,7 +13,7 @@ hide:
 
 # GrimbiXcode
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/grimbixcode_55b726298ddce780e600002c) · [GitHub (GrimbixCode)](https://github.com/GrimbixCode) · [Website (microravez.ch)](http://www.microravez.ch/)
 

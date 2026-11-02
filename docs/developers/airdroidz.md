@@ -13,7 +13,7 @@ hide:
 
 # AirDroidz
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/airdroidz_ab3948b10f35feb606d84146) · [GitHub (Airdroidz)](https://github.com/Airdroidz)
 

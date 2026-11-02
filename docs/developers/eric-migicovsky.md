@@ -13,7 +13,7 @@ hide:
 
 # Eric Migicovsky
 
-*4 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-migicovsky_cef3527f00d692f8c467ca17) · [GitHub (ericmigi)](https://github.com/ericmigi)
 

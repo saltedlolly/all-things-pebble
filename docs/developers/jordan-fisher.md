@@ -13,7 +13,7 @@ hide:
 
 # Jordan Fisher
 
-*3 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jordan-fisher_5d482ff5d76b0f00018300f2) · [GitHub (thementalgoose)](https://github.com/thementalgoose) · [Website (flashback.pages.dev)](https://flashback.pages.dev)
 

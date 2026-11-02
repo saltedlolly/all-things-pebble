@@ -13,7 +13,7 @@ hide:
 
 # Vincent
 
-*1 watchface and 5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b60fba729f7aece) · [GitHub (vincentezw)](https://github.com/vincentezw)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vincent_997a3d2f0b6
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="ventilate" data-released="2026-09-18" data-updated="2026-10-23">
+<div class="app-card" data-type="watchapp" data-title="ventilate" data-released="2026-09-18" data-updated="2026-10-27">
 <a class="app-shot" href="https://apps.repebble.com/9a25b4c1c01648f18cb13086" data-search-exclude><img src="../images/apps/9a25b4c1c01648f18cb13086.png" alt="Ventilate" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-9a25b4c1c01648f18cb13086"><a href="https://apps.repebble.com/9a25b4c1c01648f18cb13086">Ventilate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.3</span></h2>
+<h2 class="app-name" id="app-9a25b4c1c01648f18cb13086"><a href="https://apps.repebble.com/9a25b4c1c01648f18cb13086">Ventilate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.8</span></h2>
 <a class="app-source" href="https://github.com/vincentezw/ventilate-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-18</span> <span title="Latest release in the app store">Updated 2026-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Calculate an optimal time for shock ventilation using sensors from Home Assistant. It calculates absolute humidity, tracks the time on your wrist and gives a summary of the results.</p>
 </div>

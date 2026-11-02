@@ -13,7 +13,7 @@ hide:
 
 # iMears
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/imears_563ef3cf979310674700002f) · [GitHub (iMears)](https://github.com/iMears) · [Website (say-something-smart.herokuapp.com)](https://say-something-smart.herokuapp.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # Andrej Krutak
 
-*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrej-krutak_5684488b55484b8a3a00003e) · [GitHub (andree182)](https://github.com/andree182)
 
@@ -21,11 +21,33 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrej-krutak_56844
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>3</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="asciinalog" data-released="2026-11-01" data-updated="2026-11-01">
+<a class="app-shot" href="https://apps.repebble.com/a6730828c7424a5699c25d16" data-search-exclude><img src="../images/apps/a6730828c7424a5699c25d16.png" alt="ASCIInalog" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a6730828c7424a5699c25d16"><a href="https://apps.repebble.com/a6730828c7424a5699c25d16">ASCIInalog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/andree182/asciinalog" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">An analog watchface rendered entirely through multi-scale ASCII typography. Inspired by visual text-mode graphics, the watchface avoids conventional vector hand drawing. Instead, the analog hands…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="pid arrivals" data-released="2026-10-24" data-updated="2026-10-29">
+<a class="app-shot" href="https://apps.repebble.com/ae961ad763ab4d0788c028bf" data-search-exclude><img src="../images/apps/ae961ad763ab4d0788c028bf.png" alt="PID Arrivals" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ae961ad763ab4d0788c028bf"><a href="https://apps.repebble.com/ae961ad763ab4d0788c028bf">PID Arrivals</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/andree182/pid-arrivals" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">A Pebble watchapp showing live transit countdowns in Prague (PID — Pražská integrovaná doprava), using Golemio API. Features - Nearest station by GPS - Up to 10 saved favorites with custom labels…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="weather-o-graph" data-released="2016-02-15" data-updated="2026-06-23">
 <a class="app-shot" href="https://apps.repebble.com/56c241cb919c5a40fd000034" data-search-exclude><img src="../images/apps/56c241cb919c5a40fd000034.png" alt="Weather-O-Graph" loading="lazy"></a>
 <div class="app-info">

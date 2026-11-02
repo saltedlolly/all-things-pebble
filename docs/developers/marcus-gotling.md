@@ -13,7 +13,7 @@ hide:
 
 # Marcus Gotling
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marcus-gotling_52d1bfcb2fb6950b8200006c) · [GitHub (gotling)](https://github.com/gotling) · [GitHub (GotlingSystem)](https://github.com/GotlingSystem) · [Website (forums.pebble.com)](https://forums.pebble.com/t/watchapp-gosy-run-helps-you-exercise-running/25822)
 

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · **C** · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*102 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*103 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -355,10 +355,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/691e287d23bdbb000998aff9" data-search-exclude><img src="../images/apps/691e287d23bdbb000998aff9.png" alt="CheckMark" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-691e287d23bdbb000998aff9"><a href="https://apps.repebble.com/691e287d23bdbb000998aff9">CheckMark</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-691e287d23bdbb000998aff9"><a href="https://apps.repebble.com/691e287d23bdbb000998aff9">CheckMark</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
 <a class="app-source" href="https://github.com/LeonMatthes/CheckMark" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/leon-matthes.html" title="More from this developer">Leon Matthes</a> · <a href="https://forum.rebble.io/t/1091" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-19</span> <span title="Latest release in the app store">Updated 2026-06-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-19</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Do you have your check lists organized in Markdown files somewhere? Your shopping list? Your todos? Then CheckMark is for you! Read unchecked items directly from your watch - marking items dones…</p>
 </div>
@@ -699,7 +699,7 @@ hide:
 <h2 class="app-name" id="app-bdfac08800694f72a79bfb5b"><a href="https://apps.repebble.com/bdfac08800694f72a79bfb5b">Commute Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://gitlab.com/tjaart/pebble-commute-timer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tjaart.html" title="More from this developer">tjaart</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-30</span> <span title="Latest release in the app store">Updated 2026-04-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">mit</span> <span title="First published in the app store">Released 2026-04-30</span> <span title="Latest release in the app store">Updated 2026-04-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Live commute time on your wrist — Home ↔ Work, with real-time traffic from Google Maps.</p>
 </div>
@@ -713,6 +713,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-10-25</span> <span title="Latest release in the app store">Updated 2025-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Quickly check SNCB/NMBS (Belgian Railways) train schedules from your wrist. Save favourite stations from your phone to quickly plot routes on your watch. Create &quot;scheduled routes&quot; to immediately…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/6ae4182fb99ed900093c95f4" data-search-exclude><img src="../images/apps/6ae4182fb99ed900093c95f4.png" alt="Companion Memory" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6ae4182fb99ed900093c95f4"><a href="https://apps.rebble.io/en_US/application/6ae4182fb99ed900093c95f4">Companion Memory</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/companionintelligence/CI-Pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/companion-intelligence.html" title="More from this developer">Companion Intelligence</a> · <a href="https://forum.rebble.io/t/1469" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-10-30</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Companion Memory puts the Memory you host on your wrist. Recall: the latest from your Memory in one press. Ask: pick a question, or speak your own on watches with a microphone. Your Memory…</p>
 </div>
 </div>
 <div class="app-card">
@@ -842,7 +853,7 @@ hide:
 <h2 class="app-name" id="app-55fdac750a5482833d000085"><a href="https://apps.repebble.com/55fdac750a5482833d000085">Core Temp Monitor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/zanecodes/CoreTempMonitor" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zanecodes.html" title="More from this developer">zanecodes</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-09-19</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-19</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simple app for tracking your computer&#x27;s CPU temperature in real time. See the app website for installation and usage instructions.</p>
 </div>
@@ -1029,7 +1040,7 @@ hide:
 <h2 class="app-name" id="app-b4b3410fed6b4e03aeabb8a3"><a href="https://apps.repebble.com/b4b3410fed6b4e03aeabb8a3">Cryptomonitor</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://gitlab.com/pinguin-wizard/crypto-monitor" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pinguin-wizard.html" title="More from this developer">pinguin-wizard</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-04-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A pebble app to monitor popular crypto token exchange rates and bitcoin mining in real-time. - 16 popular crypto tokens: 1. BTC 2. ETH 3. SOL 4. BNB 5. XRP 6. DOGE 7. TRX 8. ADA 9. TON 10. AVAX…</p>
 </div>

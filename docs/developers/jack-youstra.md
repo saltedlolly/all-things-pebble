@@ -13,7 +13,7 @@ hide:
 
 # Jack Youstra
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f30e0f33661a1de70003b3/1) · [GitHub (JackYoustra)](https://github.com/JackYoustra)
 

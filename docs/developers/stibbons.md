@@ -13,7 +13,7 @@ hide:
 
 # stibbons
 
-*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stibbons_529973e3e627cef4a800001f) · [GitHub (phardy)](https://github.com/phardy)
 

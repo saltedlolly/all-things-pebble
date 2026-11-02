@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · **B** · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*103 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*104 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -72,7 +72,7 @@ hide:
 <h2 class="app-name" id="app-a86a293b637a4a13923d4cc0"><a href="https://apps.repebble.com/a86a293b637a4a13923d4cc0">Backtrack</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/yoann54/Backtrack" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/yoada.html" title="More from this developer">yoada</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-09-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Find your way back to a saved point. Drop a pin at your location and Backtrack shows a compass-oriented arrow and the distance back to it, and buzzes when you arrive. Great for finding your car…</p>
 </div>
@@ -771,6 +771,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6984ff43a8944f5c9a6857bc" data-search-exclude><img src="../images/apps/6984ff43a8944f5c9a6857bc.gif" alt="BPMonster" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6984ff43a8944f5c9a6857bc"><a href="https://apps.repebble.com/6984ff43a8944f5c9a6857bc">BPMonster</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
+<a class="app-source" href="https://github.com/SoapyD/PebbleStress" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/tom-cassady.html" title="More from this developer">Tom Cassady</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A monster that reacts to your heart rate. A little monster lives on your watch and reacts to your heart rate. Set two levels on your phone, and it tells you when your heart rate climbs past them…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/53ea37c7114d6ba266000019" data-search-exclude><img src="../images/apps/53ea37c7114d6ba266000019.png" alt="Braci - Hearing Assistance" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-53ea37c7114d6ba266000019"><a href="https://apps.rebble.io/en_US/application/53ea37c7114d6ba266000019">Braci - Hearing Assistance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
@@ -806,10 +817,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/e4f66f24bb0a440b9f6aad69" data-search-exclude><img src="../images/apps/e4f66f24bb0a440b9f6aad69.png" alt="Brain Dump (index01 for your pebble)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-e4f66f24bb0a440b9f6aad69"><a href="https://apps.repebble.com/e4f66f24bb0a440b9f6aad69">Brain Dump (index01 for your pebble)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.8.0</span></h2>
+<h2 class="app-name" id="app-e4f66f24bb0a440b9f6aad69"><a href="https://apps.repebble.com/e4f66f24bb0a440b9f6aad69">Brain Dump (index01 for your pebble)</a> <span class="app-version" title="Latest version" data-search-exclude>v2.8.1</span></h2>
 <a class="app-source" href="https://github.com/adrienthiery/pebble-brain-dump-app" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/adrien0.html" title="More from this developer">Adrien0</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Voice-first brain dump app. Hit the middle button, speak your thought — it gets routed to AI, Notion, tasks, or saved as a local reminder.</p>
 </div>

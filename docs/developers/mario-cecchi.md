@@ -13,7 +13,7 @@ hide:
 
 # Mario Cecchi
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mario-cecchi_52f135477435d3a17f0001a4) · [GitHub (macecchi)](https://github.com/macecchi)
 

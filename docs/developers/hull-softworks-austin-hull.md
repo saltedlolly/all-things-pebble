@@ -13,7 +13,7 @@ hide:
 
 # Hull Softworks (Austin Hull)
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hull-softworks-austin-hull_53a33bb92cfdbbb5ae00001f) · [GitHub (AustinHull)](https://github.com/AustinHull) · [Website (linkedin.com)](https://www.linkedin.com/in/austin-hull-b442bb10b)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hull-softworks-aust
 <h2 class="app-name" id="app-56b91139226cb174f8000032"><a href="https://apps.repebble.com/56b91139226cb174f8000032">Wrist Steam</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://www.github.com/AustinHull/SteamPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-08</span> <span title="Latest release in the app store">Updated 2017-05-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-02-08</span> <span title="Latest release in the app store">Updated 2017-05-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Wrist Steam is a free, open-source application built to help bridge the gap between Pebble users and their Steam profiles. In development since mid-2014, Wrist Steam allows you to safely - and…</p>
 </div>

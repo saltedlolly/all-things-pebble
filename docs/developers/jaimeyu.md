@@ -13,7 +13,7 @@ hide:
 
 # jaimeyu
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jaimeyu_52a93f0f79c18fa72400001e) · [GitHub (jaimeyu)](https://github.com/jaimeyu) · [Website (ottawa.travvik.com)](http://ottawa.travvik.com)
 

@@ -13,7 +13,7 @@ hide:
 
 # zeerd
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zeerd_530b33713add7bbcce0002e0) · [GitHub (zeerd)](https://github.com/zeerd) · [Website (blog.zeerd.com)](http://blog.zeerd.com/pebble)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zeerd_530b33713add7
 <h2 class="app-name" id="app-532cf96daadf559ae3000085"><a href="https://apps.repebble.com/532cf96daadf559ae3000085">Abs Plank</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.3</span></h2>
 <a class="app-source" href="https://github.com/zeerd/pebble_abs_plank" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-22</span> <span title="Latest release in the app store">Updated 2014-04-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2014-03-22</span> <span title="Latest release in the app store">Updated 2014-04-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This app guides you through a plank exercise workout to build your abs. The plank is one of the best exercises to strengthen your core, which is more than just your abdominal. The core is a…</p>
 </div>

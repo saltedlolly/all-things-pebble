@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · **F** · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*54 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*55 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-6a7a0321bb2e890009f6b0f8"><a href="https://apps.repebble.com/6a7a0321bb2e890009f6b0f8">Film Devle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://gitlab.com/m00dawg/film-devle" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/bitbybit-whatever.html" title="More from this developer">BitByBit Whatever</a> · <a href="https://forum.rebble.io/t/1223" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-08-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">bsd-2-clause</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-08-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Black and White photographic film development timer</p>
 </div>
@@ -185,6 +185,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple watchapp that makes your Phone ring when you press a button - iOS for iPhone or iPad Uses iOS alert notifications pushed via either the Pushover or Bark Apps. Because it uses iOS Critical…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/4770d12a965e489eb6116b7b" data-search-exclude><span class="app-noshot">No screenshot</span></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4770d12a965e489eb6116b7b"><a href="https://apps.repebble.com/4770d12a965e489eb6116b7b">Find My Phone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
+<a class="app-source" href="https://github.com/coredevices/pebble-plugins/tree/main/find-my-phone" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/pebble.html" title="More from this developer">Pebble</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Lost your phone? Pick Find My Phone in your watch&#x27;s launcher and your phone rings for up to a minute, even on silent. The watch goes straight back to your watchface, and the launcher shows when it…</p>
 </div>
 </div>
 <div class="app-card">
@@ -336,7 +347,7 @@ hide:
 <h2 class="app-name" id="app-55d3560c704e4657a3000013"><a href="https://apps.repebble.com/55d3560c704e4657a3000013">flicks</a> <span class="app-version" title="Latest version" data-search-exclude>v0.05</span></h2>
 <a class="app-source" href="https://gitlab.com/n4ru/Flicks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/n4ru.html" title="More from this developer">n4ru</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-08-18</span> <span title="Latest release in the app store">Updated 2016-12-13</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-08-18</span> <span title="Latest release in the app store">Updated 2016-12-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Introducing flicks - a watch app created to do whatever you want whenever you want - right on your wrist. flicks is a fully configurable and scriptable app that lets you quick launch anything on…</p>
 </div>
@@ -523,7 +534,7 @@ hide:
 <h2 class="app-name" id="app-a216163b4af54f9f8b834fdb"><a href="https://apps.repebble.com/a216163b4af54f9f8b834fdb">French Press Buddy</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/zackdolsen/FrenchPressBuddy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zman441.html" title="More from this developer">zman441</a> · <a href="https://forum.rebble.io/t/922" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-08-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">French Press Buddy is a simple, easy to use app to help you create the best French press coffee you can in 3 easy steps! Features: - Support for 5 different roasts of coffee - Calculates how much…</p>
 </div>

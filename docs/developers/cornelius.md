@@ -13,7 +13,7 @@ hide:
 
 # cornelius
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cornelius_20cd14572b267afc302430d7) · [GitHub (L0renz00)](https://github.com/L0renz00)
 

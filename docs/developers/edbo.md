@@ -13,7 +13,7 @@ hide:
 
 # EdBo
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edbo_691362a12d597b00093f3a48) · [GitHub (beatles1)](https://github.com/beatles1)
 

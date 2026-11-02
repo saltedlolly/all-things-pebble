@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · **0–9 & other**
 
-*21 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*21 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -157,10 +157,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/82451ba23ca641ab82821fa6" data-search-exclude><img src="../images/apps/82451ba23ca641ab82821fa6.png" alt="7day ICS Calendar" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-82451ba23ca641ab82821fa6"><a href="https://apps.repebble.com/82451ba23ca641ab82821fa6">7day ICS Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
+<h2 class="app-name" id="app-82451ba23ca641ab82821fa6"><a href="https://apps.repebble.com/82451ba23ca641ab82821fa6">7day ICS Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Pebble_7_day_ICS_Calendar" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-07-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is designed to pull the date time and name of the events happening in the next 7 days from any ICS file. I have only tested it using a private google calendar but should work with any.</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # marukitano
 
-*5 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff2831479c1011a82df1985d) · [GitHub (marukitano)](https://github.com/marukitano)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="nasu" data-released="2026-08-15" data-updated="2026-10-31">
+<a class="app-shot" href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201" data-search-exclude><img src="../images/apps/eccd3b6ffdd2436cbe643201.png" alt="Nasu" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-eccd3b6ffdd2436cbe643201"><a href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201">Nasu</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.8</span></h2>
+<a class="app-source" href="https://github.com/marukitano/Nasu" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Deutsch Nasu ist eine Medikamenten-Erinnerungs-App für die Pebble Time 2 – mit einer kleinen Krankenschwester, die dich auf ihrer Vespa begleitet und daran erinnert, deine Medikamente zu nehmen…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="weighttracker" data-released="2026-10-14" data-updated="2026-10-21">
 <a class="app-shot" href="https://apps.repebble.com/1958c27652f34a59bd08c7d4" data-search-exclude><img src="../images/apps/1958c27652f34a59bd08c7d4.png" alt="WeightTracker" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +46,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marukitano_ff283147
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">**WeightTracker – Simple weight tracking on your wrist.** Track your weight directly on your Pebble Time 2 with a clean, minimalist interface and a smooth, interactive chart. Whether you want to…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="nasu" data-released="2026-08-15" data-updated="2026-10-02">
-<a class="app-shot" href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201" data-search-exclude><img src="../images/apps/eccd3b6ffdd2436cbe643201.png" alt="Nasu" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-eccd3b6ffdd2436cbe643201"><a href="https://apps.repebble.com/eccd3b6ffdd2436cbe643201">Nasu</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.5</span></h2>
-<a class="app-source" href="https://github.com/marukitano/Nasu" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-10-02</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Deutsch Nasu ist eine Medikamenten-Erinnerungs-App für die Pebble Time 2 – mit einer kleinen Krankenschwester, die dich auf ihrer Vespa begleitet und daran erinnert, deine Medikamente zu nehmen…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="swiss chronograph" data-released="2026-08-03" data-updated="2026-09-01">

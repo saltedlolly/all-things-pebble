@@ -13,7 +13,7 @@ hide:
 
 # Alfredo Chamberlain
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alfredo-chamberlain_bd9db32145c0ee90a26a69a0) · [GitLab (geckopebble)](https://gitlab.com/geckopebble)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alfredo-chamberlain
 <h2 class="app-name" id="app-839ba878ddd84203a9954aac"><a href="https://apps.repebble.com/839ba878ddd84203a9954aac">ISS Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://gitlab.com/geckopebble/iss-tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-11</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-11</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Find the International Space Station with your Pebble Time 2. See every ISS pass over the next 3 days, which ones you can actually see and how bright they will be, and get a vibration 5 minutes…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alfredo-chamberlain
 <h2 class="app-name" id="app-116469e91f1b4caa898c1efd"><a href="https://apps.repebble.com/116469e91f1b4caa898c1efd">APRS Beacon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://gitlab.com/geckopebble/aprs-site" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">One-press APRS position beacon for licensed amateur radio operators. Pick a map symbol and a privacy radius on the watch, press UP (or quick-launch) and your phone&#x27;s GPS position is reported to…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Alex Davis
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-davis_53168833e9e0b54c45000266) · [GitHub (i2robotics)](https://github.com/i2robotics) · [Website (i2robotics.org)](http://www.i2robotics.org)
 

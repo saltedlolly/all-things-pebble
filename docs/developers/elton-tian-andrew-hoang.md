@@ -13,7 +13,7 @@ hide:
 
 # Elton Tian, Andrew Hoang
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/elton-tian-andrew-hoang_54b92e29ffc3fdb279000053) · [GitHub (a--hoang)](https://github.com/a--hoang)
 

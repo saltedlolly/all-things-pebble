@@ -13,7 +13,7 @@ hide:
 
 # Rob Chartier
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rob-chartier_54a7283e4517d074890000e1) · [GitHub (mojio)](https://github.com/mojio) · [Website (moj.io)](http://moj.io)
 

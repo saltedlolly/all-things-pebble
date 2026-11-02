@@ -13,7 +13,7 @@ hide:
 
 # EladDvash
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eladdvash_68f79f1ed3c6e4000885b87b) · [GitHub (EladDv)](https://github.com/EladDv)
 

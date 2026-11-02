@@ -13,7 +13,7 @@ hide:
 
 # Dan Hart
 
-*5 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-hart_52fec0a4756d34a53a0004b6) · [GitHub (dan-hart)](https://github.com/dan-hart) · [GitHub (mizzoudan)](https://github.com/mizzoudan) · [Website (danhart.me)](http://danhart.me/)
 

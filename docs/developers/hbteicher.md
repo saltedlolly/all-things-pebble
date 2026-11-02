@@ -13,7 +13,7 @@ hide:
 
 # HBTeicher
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f009f13be62018d800009b/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/hbteicher_52f009f13be62018d800009b) · [GitHub (HBTeicher)](https://github.com/HBTeicher) · [Website (thepebbleblog.blogspot.dk)](http://thepebbleblog.blogspot.dk/)
 

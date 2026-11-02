@@ -13,7 +13,7 @@ hide:
 
 # David Inglis
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-inglis_55b155f7d534109a520000a9) · [GitHub (dainglis)](https://github.com/dainglis)
 

@@ -13,7 +13,7 @@ hide:
 
 # mrTrueBeliever
 
-*1 watchface and 8 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 8 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrtruebeliever_5f8814a92a6f109602136f61) · [GitHub (mrtruebeliever)](https://github.com/mrtruebeliever)
 

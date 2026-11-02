@@ -13,7 +13,7 @@ hide:
 
 # NitroG42
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nitrog42_52daeab8c3e836901b000296) · [GitHub (NitroG42)](https://github.com/NitroG42)
 

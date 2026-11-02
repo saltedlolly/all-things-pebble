@@ -13,7 +13,7 @@ hide:
 
 # Nightscout contributors
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nightscout-contributors_53810824528fbe7c5f000187) · [GitHub (nightscout)](https://github.com/nightscout) · [Website (nightscout.github.io)](http://nightscout.github.io/)
 

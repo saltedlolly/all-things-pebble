@@ -13,7 +13,7 @@ hide:
 
 # Kieselleger
 
-*20 watchfaces and 3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*21 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3fe58879cfd4000013) · [GitHub (ProggroP)](https://github.com/ProggroP)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>23</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>20</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>24</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>21</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="neuraum" data-released="2026-11-01" data-updated="2026-11-01">
+<a class="app-shot" href="https://apps.repebble.com/6f19fab7129642619a7356db" data-search-exclude><img src="../images/apps/6f19fab7129642619a7356db.png" alt="Neuraum" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6f19fab7129642619a7356db"><a href="https://apps.repebble.com/6f19fab7129642619a7356db">Neuraum</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Neuraum" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Neuraum recreates the look of a classic German pilot&#x27;s automatic watch on the round display of the Pebble Round 2: a black flange with cream numerals, a cream dial with day and date windows, and…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="prism" data-released="2026-10-10" data-updated="2026-10-19">
 <a class="app-shot" href="https://apps.repebble.com/8acbc29865ff44c4a54ba660" data-search-exclude><img src="../images/apps/8acbc29865ff44c4a54ba660.png" alt="Prism" loading="lazy"></a>
 <div class="app-info">
@@ -208,7 +219,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 <h2 class="app-name" id="app-71497f50c97544eb908f46ad"><a href="https://apps.repebble.com/71497f50c97544eb908f46ad">Casix</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://www.github.com/ProggroP/casix" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Casix Some watches are just tools. Others become part of who you are. This watchface is a tribute to my very first quartz watch — a Casio from the late 1970s that I wore every single day for…</p>
 </div>

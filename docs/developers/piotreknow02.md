@@ -13,7 +13,7 @@ hide:
 
 # piotreknow02
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6a6d3651901cc50007556dff/1) · [GitHub (piotreknow02)](https://github.com/piotreknow02)
 

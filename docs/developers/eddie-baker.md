@@ -13,7 +13,7 @@ hide:
 
 # Eddie Baker
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eddie-baker_4ab6bb8c21d08402039dcd0b) · [GitHub (eddieatjollyroger)](https://github.com/eddieatjollyroger)
 

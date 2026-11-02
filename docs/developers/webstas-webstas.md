@@ -13,7 +13,7 @@ hide:
 
 # Webstas “Webstas”
 
-*1 watchface and 5 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/webstas-webstas_990614069b2a89f2e0c44e8b) · [GitHub (BigWebstas)](https://github.com/BigWebstas)
 
@@ -26,37 +26,48 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/webstas-webstas_990
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="super productivity watch face" data-released="2026-09-10" data-updated="2026-09-10">
-<a class="app-shot" href="https://apps.repebble.com/a3f6e4b8c40a44f8a743c296" data-search-exclude><img src="../images/apps/a3f6e4b8c40a44f8a743c296.png" alt="Super Productivity Watch Face" loading="lazy"></a>
+<div class="app-card" data-type="watchapp" data-title="super productivity" data-released="2026-08-25" data-updated="2026-10-29">
+<a class="app-shot" href="https://apps.repebble.com/5bb5f299dfbb4455aa21a3fb" data-search-exclude><img src="../images/apps/5bb5f299dfbb4455aa21a3fb.gif" alt="Super Productivity" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a3f6e4b8c40a44f8a743c296"><a href="https://apps.repebble.com/a3f6e4b8c40a44f8a743c296">Super Productivity Watch Face</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
-<a class="app-source" href="https://github.com/BigWebstas/PebbleSuperProductivityFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
+<h2 class="app-name" id="app-5bb5f299dfbb4455aa21a3fb"><a href="https://apps.repebble.com/5bb5f299dfbb4455aa21a3fb">Super Productivity</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.58</span></h2>
+<a class="app-source" href="https://github.com/BigWebstas/PebbleSuperProductivity" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/1338" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-25</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Super Productivity companion watchface</p>
+<p class="app-desc">A PebbleOS watchapp that shows your active tasks from Super Productivity — optionally grouped by project — and lets you mark them done, track time, dictate new tasks by voice, and track habits…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="xdrip cgm" data-released="2026-09-09" data-updated="2026-09-09">
+<div class="app-card" data-type="watchapp" data-title="xdrip cgm" data-released="2026-09-09" data-updated="2026-10-26">
 <a class="app-shot" href="https://apps.repebble.com/54adbee8647b4f548f339063" data-search-exclude><img src="../images/apps/54adbee8647b4f548f339063.png" alt="xDrip CGM" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-54adbee8647b4f548f339063"><a href="https://apps.repebble.com/54adbee8647b4f548f339063">xDrip CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-54adbee8647b4f548f339063"><a href="https://apps.repebble.com/54adbee8647b4f548f339063">xDrip CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/BigWebstas/PebbleXDrip" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A Pebble quick-launch app that shows your xDrip+ CGM data — number, trend, delta and a 2-hour graph. It is not a watchface, so you can run any watchface and still get a glucose glance on demand…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="super productivity" data-released="2026-08-25" data-updated="2026-09-09">
-<a class="app-shot" href="https://apps.repebble.com/5bb5f299dfbb4455aa21a3fb" data-search-exclude><img src="../images/apps/5bb5f299dfbb4455aa21a3fb.gif" alt="Super Productivity" loading="lazy"></a>
+<div class="app-card" data-type="watchface" data-title="super productivity watch face" data-released="2026-09-10" data-updated="2026-10-26">
+<a class="app-shot" href="https://apps.repebble.com/a3f6e4b8c40a44f8a743c296" data-search-exclude><img src="../images/apps/a3f6e4b8c40a44f8a743c296.png" alt="Super Productivity Watch Face" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5bb5f299dfbb4455aa21a3fb"><a href="https://apps.repebble.com/5bb5f299dfbb4455aa21a3fb">Super Productivity</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.48</span></h2>
-<a class="app-source" href="https://github.com/BigWebstas/PebbleSuperProductivity" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App · <a href="https://forum.rebble.io/t/1338" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-25</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
+<h2 class="app-name" id="app-a3f6e4b8c40a44f8a743c296"><a href="https://apps.repebble.com/a3f6e4b8c40a44f8a743c296">Super Productivity Watch Face</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.0</span></h2>
+<a class="app-source" href="https://github.com/BigWebstas/PebbleSuperProductivityFace" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-09-10</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">A PebbleOS watchapp that shows your active tasks from Super Productivity — optionally grouped by project — and lets you mark them done, track time, dictate new tasks by voice, and track habits…</p>
+<p class="app-desc">Super Productivity companion watchface</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="pebblerecorder" data-released="2026-08-25" data-updated="2026-10-26">
+<a class="app-shot" href="https://apps.repebble.com/afcad232b3cd40398cbb0c04" data-search-exclude><img src="../images/apps/afcad232b3cd40398cbb0c04.png" alt="PebbleRecorder" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-afcad232b3cd40398cbb0c04"><a href="https://apps.repebble.com/afcad232b3cd40398cbb0c04">PebbleRecorder</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
+<a class="app-source" href="https://github.com/BigWebstas/PebbleRecorder" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-25</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Turn your Pebble watch into a remote start/stop trigger for audio recording on your phone. Press a button on the watch, and a companion Android app records straight to a folder you choose — no…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="hourly chime" data-released="2026-09-09" data-updated="2026-09-09">
@@ -79,17 +90,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/webstas-webstas_990
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A PebbleOS watchapp that watches your heart rate more closely than the system does by default and flags three things: sustained high rate, sustained low rate, and irregularly-irregular rhythm (the…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="pebblerecorder" data-released="2026-08-25" data-updated="2026-08-29">
-<a class="app-shot" href="https://apps.repebble.com/afcad232b3cd40398cbb0c04" data-search-exclude><img src="../images/apps/afcad232b3cd40398cbb0c04.png" alt="PebbleRecorder" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-afcad232b3cd40398cbb0c04"><a href="https://apps.repebble.com/afcad232b3cd40398cbb0c04">PebbleRecorder</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
-<a class="app-source" href="https://github.com/BigWebstas/PebbleRecorder" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-25</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Turn your Pebble watch into a remote start/stop trigger for audio recording on your phone. Press a button on the watch, and a companion Android app records straight to a folder you choose — no…</p>
 </div>
 </div>
 </div>

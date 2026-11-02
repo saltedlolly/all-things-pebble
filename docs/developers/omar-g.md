@@ -13,7 +13,7 @@ hide:
 
 # Omar G
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/omar-g_537bf6d2b352cdbca3000073) · [GitHub (31422)](https://github.com/31422)
 

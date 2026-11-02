@@ -13,7 +13,7 @@ hide:
 
 # Ben Nguyen
 
-*5 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-nguyen_5481875759fcc2e9ef000148) · [GitHub (zecoj)](https://github.com/zecoj)
 
@@ -32,7 +32,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-nguyen_54818757
 <h2 class="app-name" id="app-5485a551075d4c0154000072"><a href="https://apps.repebble.com/5485a551075d4c0154000072">Ultimate Text Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://github.com/zecoj/ultimate.text.watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-08</span> <span title="Latest release in the app store">Updated 2016-01-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-08</span> <span title="Latest release in the app store">Updated 2016-01-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">★New Name New Feature★Tell times in plain English in many ways★ Like it? Heart it! features: - tells time in plain English multiple ways: + fuzzy (ex. 12:44 = quarter to one) + human (ex. 12:44 =…</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-nguyen_54818757
 <h2 class="app-name" id="app-54a23f3785047c66b6000054"><a href="https://apps.repebble.com/54a23f3785047c66b6000054">Arsenal FC</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
 <a class="app-source" href="https://github.com/zecoj/arsenal.fc/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-12-30</span> <span title="Latest release in the app store">Updated 2015-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-30</span> <span title="Latest release in the app store">Updated 2015-06-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">★Weather+Bluetooth+Configuration+Colour★ For all gooners. Shake to show extra information (time, date &amp; battery)</p>
 </div>
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-nguyen_54818757
 <h2 class="app-name" id="app-54d802535e8d871a66000025"><a href="https://apps.repebble.com/54d802535e8d871a66000025">dots n squares</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/zecoj/dots-n-squares" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-09</span> <span title="Latest release in the app store">Updated 2015-04-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-02-09</span> <span title="Latest release in the app store">Updated 2015-04-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">&quot;Hand-dotted&quot; with love. Features: - Simple and elegant digital display (invertable). - Battery bar! See remaining battery at a glance. - Day of week and date. - Bluetooth connection warning. …</p>
 </div>
@@ -65,7 +65,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-nguyen_54818757
 <h2 class="app-name" id="app-54c3925876a15567d2000012"><a href="https://apps.repebble.com/54c3925876a15567d2000012">Zen Dotz</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
 <a class="app-source" href="https://github.com/zecoj/zen.dotz" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-24</span> <span title="Latest release in the app store">Updated 2015-01-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-24</span> <span title="Latest release in the app store">Updated 2015-01-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple &amp; subtle analogue watch with bold hands and dots. Aimed to be easy to see at a quick glance. Features: - Month &amp; date - Battery slider (dot moves from right to left, shows remaining…</p>
 </div>
@@ -76,7 +76,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ben-nguyen_54818757
 <h2 class="app-name" id="app-54a90952ae94cff8c600003f"><a href="https://apps.repebble.com/54a90952ae94cff8c600003f">digitZ</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/zecoj/digitZ" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-01-04</span> <span title="Latest release in the app store">Updated 2015-01-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-04</span> <span title="Latest release in the app store">Updated 2015-01-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">An improved clone of the famous DIGITTMM (by Albert Salamon) Improvements: - Much better memory usage (I have redrawn &amp; created ttf from scratch) - Shake to show battery, bluetooth connectivity…</p>
 </div>

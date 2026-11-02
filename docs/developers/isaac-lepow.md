@@ -13,7 +13,7 @@ hide:
 
 # Isaac Lepow
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/isaac-lepow_52f0451661b752a5520010e6) · [GitHub (ilepow34)](https://github.com/ilepow34)
 

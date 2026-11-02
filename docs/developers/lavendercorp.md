@@ -13,7 +13,7 @@ hide:
 
 # LavenderCorp
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6902c47d856ddb00087e4b8d/1) · [GitHub (chughes87)](https://github.com/chughes87) · [Website (pointfree.space)](https://pointfree.space)
 

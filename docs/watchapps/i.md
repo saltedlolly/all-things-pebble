@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*34 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*34 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -358,7 +358,7 @@ hide:
 <h2 class="app-name" id="app-839ba878ddd84203a9954aac"><a href="https://apps.repebble.com/839ba878ddd84203a9954aac">ISS Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://gitlab.com/geckopebble/iss-tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/alfredo-chamberlain.html" title="More from this developer">Alfredo Chamberlain</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-11</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-11</span> <span title="Latest release in the app store">Updated 2026-10-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Find the International Space Station with your Pebble Time 2. See every ISS pass over the next 3 days, which ones you can actually see and how bright they will be, and get a vibration 5 minutes…</p>
 </div>

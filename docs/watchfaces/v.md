@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · **V** · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*46 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*46 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -391,7 +391,7 @@ hide:
 <h2 class="app-name" id="app-6996ab1b36c3420009e9c780"><a href="https://apps.rebble.io/en_US/application/6996ab1b36c3420009e9c780">Vipassana</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/zgypa/pebble-vipassana" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/toni-magni.html" title="More from this developer">Toni Magni</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-02-19</span> <span title="Latest release in the app store">Updated 2026-02-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-02-19</span> <span title="Latest release in the app store">Updated 2026-02-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Vipassana - Meditation Course Watchface A minimalist watchface for students and servers attending Vipassana meditation courses (as taught by S.N. Goenka). KEY FEATURES: • Decimal countdown showing…</p>
 </div>
@@ -501,7 +501,7 @@ hide:
 <h2 class="app-name" id="app-62ffabcf93b4e8000aa2cbec"><a href="https://apps.rebble.io/en_US/application/62ffabcf93b4e8000aa2cbec">Vuela</a> <span class="app-version" title="Latest version" data-search-exclude>v1.42</span></h2>
 <a class="app-source" href="https://github.com/zamuz/vuela" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/gonzalo-munoz.html" title="More from this developer">Gonzalo Muñoz</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2022-08-19</span> <span title="Latest release in the app store">Updated 2025-08-14</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2022-08-19</span> <span title="Latest release in the app store">Updated 2025-08-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A Flieger style watchface.</p>
 </div>

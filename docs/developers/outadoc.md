@@ -13,7 +13,7 @@ hide:
 
 # outadoc
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/outadoc_52ff411d6061bd63ba000032) · [GitHub (outadoc)](https://github.com/outadoc)
 

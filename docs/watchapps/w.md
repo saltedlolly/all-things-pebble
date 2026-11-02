@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · **W** · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*74 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*75 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -39,7 +39,7 @@ hide:
 <h2 class="app-name" id="app-533227ae326898b7df000025"><a href="https://apps.repebble.com/533227ae326898b7df000025">Wachatpebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/yunshansimon/pebble-notifier-international.git" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/yunshansimon.html" title="More from this developer">yunshansimon</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-03-26</span> <span title="Latest release in the app store">Updated 2014-03-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-03-26</span> <span title="Latest release in the app store">Updated 2014-03-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This pebble-app is rewritten by Yang Tsao according to the source code by Tiago R. Espinha , compatible with pebble2.0. Because of using same UUID, you can continue using…</p>
 </div>
@@ -650,6 +650,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/9f8c91a7c0b74ffc86afb812" data-search-exclude><img src="../images/apps/9f8c91a7c0b74ffc86afb812.png" alt="Wrist Cast" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-9f8c91a7c0b74ffc86afb812"><a href="https://apps.repebble.com/9f8c91a7c0b74ffc86afb812">Wrist Cast</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Wrist-Cast" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Wrist Cast is micro-fishing you play by feel. Flick your wrist to cast a line into quiet water. When something bites, the watch buzzes — press SELECT to set the hook, then work UP and DOWN to keep…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/58a14b0b0dfc32b76100021d" data-search-exclude><img src="../images/apps/58a14b0b0dfc32b76100021d.png" alt="Wrist Compass" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-58a14b0b0dfc32b76100021d"><a href="https://apps.rebble.io/en_US/application/58a14b0b0dfc32b76100021d">Wrist Compass</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
@@ -710,7 +721,7 @@ hide:
 <h2 class="app-name" id="app-56b91139226cb174f8000032"><a href="https://apps.repebble.com/56b91139226cb174f8000032">Wrist Steam</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://www.github.com/AustinHull/SteamPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/hull-softworks-austin-hull.html" title="More from this developer">Hull Softworks (Austin Hull)</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-02-08</span> <span title="Latest release in the app store">Updated 2017-05-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-2.0</span> <span title="First published in the app store">Released 2016-02-08</span> <span title="Latest release in the app store">Updated 2017-05-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Wrist Steam is a free, open-source application built to help bridge the gap between Pebble users and their Steam profiles. In development since mid-2014, Wrist Steam allows you to safely - and…</p>
 </div>
@@ -718,10 +729,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/22984baa50dd4b68ba9a0945" data-search-exclude><img src="../images/apps/22984baa50dd4b68ba9a0945.png" alt="Wristbound" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-22984baa50dd4b68ba9a0945"><a href="https://apps.repebble.com/22984baa50dd4b68ba9a0945">Wristbound</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.0</span></h2>
+<h2 class="app-name" id="app-22984baa50dd4b68ba9a0945"><a href="https://apps.repebble.com/22984baa50dd4b68ba9a0945">Wristbound</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.6</span></h2>
 <a class="app-source" href="https://github.com/AndreasThinks/hermes-wristbound" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/andreas-varotsis.html" title="More from this developer">Andreas Varotsis</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Hermes on your wrist. Browse conversations, catch audio replies, dictate or send a quick reply, and choose where to listen: phone headphones, phone speaker, or a supported watch speaker. Includes…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Thomas Perale
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thomas-perale_5672e766542be03aeb000038) · [GitHub (thomacer)](https://github.com/thomacer)
 

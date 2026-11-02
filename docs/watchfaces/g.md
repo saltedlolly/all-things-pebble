@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · **G** · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*67 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*69 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -116,7 +116,7 @@ hide:
 <h2 class="app-name" id="app-e32338b6f4a24d72b71dcbbd"><a href="https://apps.repebble.com/e32338b6f4a24d72b71dcbbd">Game of Life</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://gitlab.com/tobiaswkjeldsen/pebble-game-of-life" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tobias-westergaard-kjeldsen.html" title="More from this developer">Tobias Westergaard Kjeldsen</a> · <a href="https://forum.rebble.io/t/349" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-03-14</span> <span title="Latest release in the app store">Updated 2026-03-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-14</span> <span title="Latest release in the app store">Updated 2026-03-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The Game of Life, also known as Conway&#x27;s Game of Life or simply Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. Visit goledit.xyz to make your own…</p>
 </div>
@@ -170,8 +170,8 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-5fd419293dd3100155d398b8"><a href="https://apps.repebble.com/5fd419293dd3100155d398b8">Gauge Geometry</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/szupie/gauge-geometry" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/szupie.html" title="More from this developer">szupie</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2020-12-12</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-dev">by <a href="../developers/szupie.html" title="More from this developer">szupie</a> · <a href="https://forum.rebble.io/t/1464" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Unlicense</span> <span title="First published in the app store">Released 2020-12-12</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog-digital watch face designed for legibility and simplicity - Large digits and analog hands easy to read at a glance from wide angles - Day/date - Temperature - Battery level …</p>
 </div>
@@ -430,6 +430,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/b65b9d3eb9874d8eb499770c" data-search-exclude><img src="../images/apps/b65b9d3eb9874d8eb499770c.png" alt="Goals" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b65b9d3eb9874d8eb499770c"><a href="https://apps.repebble.com/b65b9d3eb9874d8eb499770c">Goals</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<a class="app-source" href="https://gitlab.com/rythm-run/goals.pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/rythm-run.html" title="More from this developer">Rythm.Run</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">bsd-3-clause</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Goals is a modern, clean, and highly readable activity watchface engineered specifically for new-generation Pebble smartwatches: Pebble Time 2 (200x228 rounded rectangle) and Pebble Round 2…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54c8646d33a24bc96a000072" data-search-exclude><img src="../images/apps/54c8646d33a24bc96a000072.png" alt="Good Morning" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-54c8646d33a24bc96a000072"><a href="https://apps.repebble.com/54c8646d33a24bc96a000072">Good Morning</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
@@ -540,6 +551,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/6ae4a20bd0da320009c4591a" data-search-exclude><img src="../images/apps/6ae4a20bd0da320009c4591a.png" alt="Gravity" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6ae4a20bd0da320009c4591a"><a href="https://apps.rebble.io/en_US/application/6ae4a20bd0da320009c4591a">Gravity</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/b123400/pebble-gravity" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/b123400.html" title="More from this developer">b123400</a> · <a href="https://forum.rebble.io/t/1470" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-10-30</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">This watch faces doesn&#x27;t have any hand, instead dots are drawn to where the hands usually are, by gravity. You can customise the colour, force intensity, and density of the dots.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/529d7ab96794728567000017" data-search-exclude><img src="../images/apps/529d7ab96794728567000017.png" alt="Gravity" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-529d7ab96794728567000017"><a href="https://apps.repebble.com/529d7ab96794728567000017">Gravity</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.2</span></h2>
@@ -611,7 +633,7 @@ hide:
 <h2 class="app-name" id="app-5589b1d545b5394350000005"><a href="https://apps.repebble.com/5589b1d545b5394350000005">greenclock-face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/ylno/greenclock-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/michael.html" title="More from this developer">Michael</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-23</span> <span title="Latest release in the app store">Updated 2016-05-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-06-23</span> <span title="Latest release in the app store">Updated 2016-05-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Animated color Pebble watchface. Expands from a dot, sweeping the clock arms as it does so. There are two inner circles inside the clock face. One is filling up the clock face every hour, one for…</p>
 </div>
@@ -674,10 +696,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f" data-search-exclude><img src="../images/apps/cf60ff6cf2fa45868e4e8a6f.gif" alt="Gridlock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
+<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Gridlock is a customizable modular dashboard watchface for the Pebble Time 2, with calendar, weather, stocks, heart rate, steps, sleep, Quiet Time, Bluetooth, battery, moon phase, sunrise/sunset…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # volksen
 
-*3 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/volksen_2d30d3eefc7e77d201cb94ca) · [GitHub (volksen)](https://github.com/volksen)
 

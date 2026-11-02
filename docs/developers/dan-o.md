@@ -13,7 +13,7 @@ hide:
 
 # dAN-o
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-o_7554f7efe7fa233696d7913a) · [GitHub (killdano)](https://github.com/killdano) · [Website (mirrormap.app)](https://mirrormap.app/mirrormsg)
 

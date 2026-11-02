@@ -13,7 +13,7 @@ hide:
 
 # Ryan Anderson
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryan-anderson_52cb46dee2dd026853000093) · [GitHub (anderson-michael-ryan)](https://github.com/anderson-michael-ryan) · [Website (twitter.com)](https://twitter.com/anderson_m_ryan)
 
@@ -27,7 +27,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryan-anderson_52cb4
 <h2 class="app-name" id="app-536f821e5c6fab9d0c00015f"><a href="https://apps.repebble.com/536f821e5c6fab9d0c00015f">Stroke Keeper</a> <span class="app-version" title="Latest version" data-search-exclude>v3.3</span></h2>
 <a class="app-source" href="https://www.github.com/anderson-michael-ryan/PebbleStrokeKeeper/tree/master/src" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-05-11</span> <span title="Latest release in the app store">Updated 2016-08-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-05-11</span> <span title="Latest release in the app store">Updated 2016-08-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Stroke Keeper is the perfect watch app that you need to keep track of your golf score whenever your out on the course. I am proud to say that after a couple thousand of downloads we are still…</p>
 </div>

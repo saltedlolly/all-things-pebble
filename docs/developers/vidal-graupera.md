@@ -13,7 +13,7 @@ hide:
 
 # Vidal Graupera
 
-*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vidal-graupera_52cd5df49505d12f12000056) · [GitHub (VGraupera)](https://github.com/VGraupera) · [Website (vidalgraupera.com)](http://www.vidalgraupera.com)
 

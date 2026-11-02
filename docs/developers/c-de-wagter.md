@@ -13,7 +13,7 @@ hide:
 
 # C De Wagter
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/c-de-wagter_52d43a45cba0684f1b00003f) · [GitHub (dewagter)](https://github.com/dewagter)
 

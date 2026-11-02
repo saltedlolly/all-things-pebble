@@ -13,7 +13,7 @@ hide:
 
 # Toni Magni
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6676a3b1ffe1740009aa40f6/1) · [GitHub (zgypa)](https://github.com/zgypa) · [Website (antoniomagni.com)](https://www.antoniomagni.com)
 
@@ -27,7 +27,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6676a3b1ffe1740
 <h2 class="app-name" id="app-6996ab1b36c3420009e9c780"><a href="https://apps.rebble.io/en_US/application/6996ab1b36c3420009e9c780">Vipassana</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3</span></h2>
 <a class="app-source" href="https://github.com/zgypa/pebble-vipassana" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-02-19</span> <span title="Latest release in the app store">Updated 2026-02-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-02-19</span> <span title="Latest release in the app store">Updated 2026-02-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Vipassana - Meditation Course Watchface A minimalist watchface for students and servers attending Vipassana meditation courses (as taught by S.N. Goenka). KEY FEATURES: • Decimal countdown showing…</p>
 </div>

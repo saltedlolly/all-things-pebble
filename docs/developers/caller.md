@@ -13,7 +13,7 @@ hide:
 
 # Caller
 
-*2 watchfaces and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/caller_56525a397984dec394000002) · [GitHub (bcaller)](https://github.com/bcaller)
 
@@ -54,7 +54,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/caller_56525a397984
 <h2 class="app-name" id="app-569e7467eeede1ab4400002a"><a href="https://apps.repebble.com/569e7467eeede1ab4400002a">Chinese New Year of the Monkey</a> <span class="app-version" title="Latest version" data-search-exclude>v1.01</span></h2>
 <a class="app-source" href="https://www.github.com/bcaller/pebble-cny-chinese" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-01-19</span> <span title="Latest release in the app store">Updated 2016-01-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Happy Chinese New Year! 新年快乐! (Xin Nian Kuai Le) Chinese characters for month and date: month + 月(yue) + day + 日(ri). The month and date are numbers written as below. Time uses Arabic numerals…</p>
 </div>

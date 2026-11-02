@@ -13,7 +13,7 @@ hide:
 
 # Frosted Torus
 
-*3 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frosted-torus_55cf6edfdd278cc045000026) · [GitHub (Frosted-Torus)](https://github.com/Frosted-Torus) · [GitHub (KennethSchlatter)](https://github.com/KennethSchlatter)
 
@@ -43,7 +43,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/frosted-torus_55cf6
 <h2 class="app-name" id="app-5678b7d3bdb5f06f4b00007d"><a href="https://apps.repebble.com/5678b7d3bdb5f06f4b00007d">Shake2Roll</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://www.github.com/Frosted-Torus/Shake2Roll" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-12-22</span> <span title="Latest release in the app store">Updated 2016-07-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2015-12-22</span> <span title="Latest release in the app store">Updated 2016-07-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Are you frustrated with game dice? Shake2Roll is for you! Whether you&#x27;re playing Yahtzee or Dungeons &amp; Dragons or exploring probability in a math class, you can use this app. Press the middle…</p>
 </div>

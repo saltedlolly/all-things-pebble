@@ -13,7 +13,7 @@ hide:
 
 # Chase Peeler
 
-*2 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chase-peeler_52f3b3de6d77774d28000399) · [GitHub (chasepeeler)](https://github.com/chasepeeler) · [Website (chasepeeler.github.io)](http://chasepeeler.github.io/GHLivePrograms/)
 

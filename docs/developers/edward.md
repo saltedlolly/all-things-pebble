@@ -13,7 +13,7 @@ hide:
 
 # Edward
 
-*3 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/edward_c476f03f63cabb0964fbce2e) · [GitHub (ewijaya)](https://github.com/ewijaya)
 

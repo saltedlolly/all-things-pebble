@@ -13,7 +13,7 @@ hide:
 
 # fork from David Gianforte
 
-*1 watchface and 1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/607dad8b1342ae005a8a9b2a/1) · [GitHub (zhcong)](https://github.com/zhcong)
 
@@ -32,7 +32,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/607dad8b1342ae0
 <h2 class="app-name" id="app-60803e261342ae0104101db3"><a href="https://apps.rebble.io/en_US/application/60803e261342ae0104101db3">doge-balance</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/zhcong/doge-balance" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-04-21</span> <span title="Latest release in the app store">Updated 2021-04-21</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2021-04-21</span> <span title="Latest release in the app store">Updated 2021-04-21</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">doge-balance is a app that show your dogecoin amount, it can also show in local currency.</p>
 </div>
@@ -43,7 +43,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/607dad8b1342ae0
 <h2 class="app-name" id="app-607dad8e1342ae005a8a9b2c"><a href="https://apps.rebble.io/en_US/application/607dad8e1342ae005a8a9b2c">pebble-day-night-pix</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/zhcong/pebble-day-night-pix" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2021-04-19</span> <span title="Latest release in the app store">Updated 2021-04-19</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-04-19</span> <span title="Latest release in the app store">Updated 2021-04-19</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">fork from watchface pebble-day-night, this is a day-night map pix edition for you! And DIY this watchface by github source code.</p>
 </div>

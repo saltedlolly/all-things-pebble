@@ -13,7 +13,7 @@ hide:
 
 # sionyx
 
-*1 app · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sionyx_55f7e56e913b98cdf200004f) · [GitHub (sionyx)](https://github.com/sionyx)
 

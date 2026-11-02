@@ -13,7 +13,7 @@ hide:
 
 # Segfaultgolf
 
-*4 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/segfaultgolf_7b8611af506d76669d94d52b) · [GitHub (huntrontrakkr)](https://github.com/huntrontrakkr) · [Website (huntrontrakkr.github.io)](https://huntrontrakkr.github.io/dymaxion-watch-face/)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/segfaultgolf_7b8611
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="planisphere" data-released="2026-10-15" data-updated="2026-10-30">
+<a class="app-shot" href="https://apps.repebble.com/1f998f38a4cb48abb78f8e89" data-search-exclude><img src="../images/apps/1f998f38a4cb48abb78f8e89.gif" alt="Planisphere" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-1f998f38a4cb48abb78f8e89"><a href="https://apps.repebble.com/1f998f38a4cb48abb78f8e89">Planisphere</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7.12</span></h2>
+<a class="app-source" href="https://github.com/huntrontrakkr/planisphere-watch-face" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-15</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Planisphere is a star chart and an almanac: the two ways people have kept the sky and the year for two thousand years. The chart is a planisphere, Ptolemy&#x27;s heavens laid flat on a disc, the…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="groundtrack fuller" data-released="2026-10-02" data-updated="2026-10-18">
 <a class="app-shot" href="https://apps.repebble.com/7e96e11b99aa4f6fb3ba3928" data-search-exclude><img src="../images/apps/7e96e11b99aa4f6fb3ba3928.gif" alt="Groundtrack Fuller" loading="lazy"></a>
 <div class="app-info">
@@ -46,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/segfaultgolf_7b8611
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Groundtrack draws where the Sun, the Moon or a satellite is over the Earth, and where it goes next, on a flat chart with the time set along the route. Two faces in one. Enroute is an hour chart…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="planisphere" data-released="2026-10-15" data-updated="2026-10-17">
-<a class="app-shot" href="https://apps.repebble.com/1f998f38a4cb48abb78f8e89" data-search-exclude><img src="../images/apps/1f998f38a4cb48abb78f8e89.gif" alt="Planisphere" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-1f998f38a4cb48abb78f8e89"><a href="https://apps.repebble.com/1f998f38a4cb48abb78f8e89">Planisphere</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7.11</span></h2>
-<a class="app-source" href="https://github.com/huntrontrakkr/planisphere-watch-face" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-15</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">Planisphere is a star chart and an almanac: the two ways people have kept the sky and the year for two thousand years. The chart is a planisphere, Ptolemy&#x27;s heavens laid flat on a disc, the…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="dymaxion" data-released="2026-09-25" data-updated="2026-10-07">

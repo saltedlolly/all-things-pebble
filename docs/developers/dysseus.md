@@ -13,7 +13,7 @@ hide:
 
 # dysseus
 
-*4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*5 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d55366949234e464067ed224) · [GitHub (dysseus-pascal)](https://github.com/dysseus-pascal)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d5536694923
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>4</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>5</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="habits by semi" data-released="2026-10-28" data-updated="2026-10-28">
+<a class="app-shot" href="https://apps.repebble.com/b3c3cbc982dd4de4806c153f" data-search-exclude><span class="app-noshot">No screenshot</span></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b3c3cbc982dd4de4806c153f"><a href="https://apps.repebble.com/b3c3cbc982dd4de4806c153f">Habits by Semi</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<a class="app-source" href="https://github.com/dysseus-pascal/Habits" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-10-28</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Track your habits. enforce them, break them!</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="supcycle" data-released="2026-09-23" data-updated="2026-10-25">
 <a class="app-shot" href="https://apps.repebble.com/04848268a8b24e949f4eb832" data-search-exclude><img src="../images/apps/04848268a8b24e949f4eb832.png" alt="SupCycle" loading="lazy"></a>
 <div class="app-info">

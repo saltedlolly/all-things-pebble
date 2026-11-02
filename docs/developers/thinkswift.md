@@ -13,7 +13,7 @@ hide:
 
 # Thinkswift
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6adee848b9bd2a0008320f54/1) · [GitHub (geoff-ts)](https://github.com/geoff-ts) · [Website (thinkswift.au)](https://thinkswift.au)
 
@@ -21,15 +21,15 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6adee848b9bd2a0
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="nadir" data-released="2026-10-26" data-updated="2026-10-26">
+<div class="app-card" data-type="watchface" data-title="nadir" data-released="2026-10-26" data-updated="2026-10-28">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/6adeea93c55c4f0009973312" data-search-exclude><img src="../images/apps/6adeea93c55c4f0009973312.png" alt="Nadir" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6adeea93c55c4f0009973312"><a href="https://apps.rebble.io/en_US/application/6adeea93c55c4f0009973312">Nadir</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-6adeea93c55c4f0009973312"><a href="https://apps.rebble.io/en_US/application/6adeea93c55c4f0009973312">Nadir</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/geoff-ts/nadir" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1462" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-26</span> <span>Rebble App Store</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A Pebble Time 2 watchface that shows where the Sun, Moon, planets and space stations are in your sky right now, around the time, date and two readouts of your choice. Nadir by day: the Sun…</p>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-28</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">A Pebble Time 2, Time, Round 2, and Round watchface that shows where the Sun, Moon, planets and space stations are in your sky right now, around the time, date and two readouts of your choice…</p>
 </div>
 </div>
 </div>

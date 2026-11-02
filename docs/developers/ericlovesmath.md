@@ -13,7 +13,7 @@ hide:
 
 # ericlovesmath
 
-*1 watchface · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6940633f99ff690008156e92/1) · [GitHub (ericlovesmath)](https://github.com/ericlovesmath) · [Website (ericchanlee.com)](https://www.ericchanlee.com/)
 

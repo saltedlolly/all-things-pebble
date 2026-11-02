@@ -13,7 +13,7 @@ hide:
 
 # Daktak
 
-*5 watchfaces and 4 apps · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b2d900006c/1) · [GitHub (daktak)](https://github.com/daktak) · [GitLab (daktak)](https://gitlab.com/daktak)
 
@@ -65,7 +65,7 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/56e681d026fa04b
 <h2 class="app-name" id="app-5b2dc5defbaf9aba1f0004bb"><a href="https://apps.rebble.io/en_US/application/5b2dc5defbaf9aba1f0004bb">Colour Analog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://gitlab.com/daktak/ColourAnalog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1042" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2018-06-23</span> <span title="Latest release in the app store">Updated 2026-08-18</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">gpl-3.0</span> <span title="First published in the app store">Released 2018-06-23</span> <span title="Latest release in the app store">Updated 2026-08-18</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple Pebble Watchface Complications: * Battery * Bluetooth * Phone battery * Time * Date * Weather temperature * Health stats * CoinMarketCap crypto price * URL string fetch</p>
 </div>

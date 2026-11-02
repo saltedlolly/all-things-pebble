@@ -13,7 +13,7 @@ hide:
 
 # Alice Grey
 
-*2 watchfaces · Last updated 2026-10-26 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alice-grey_55dd18ce807bb33623000044) · [GitHub (AliceGrey)](https://github.com/AliceGrey) · [Website (alicegrey.github.io)](http://alicegrey.github.io)
 
