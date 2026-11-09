@@ -13,7 +13,7 @@ hide:
 
 # Manoj Mehta
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/manoj-mehta_49657dd6f957e757c3df4c24) · [GitHub (jhatax)](https://github.com/jhatax)
 
@@ -29,7 +29,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/manoj-mehta_49657dd
 <div class="app-dev">Watchface</div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-08</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">__At A Glance__ is a Pebble watch face inspired by cockpit instrumentation. It displays information with minimal interpretation. Time stays dominant. Icons identify. Numbers quantify. Lines show…</p>
+<p class="app-desc">__At A Glance__ is a Pebble watch face inspired by cockpit instrumentation. It displays information with minimal interpretation and consistent placement: time dominates, icons identify, numbers…</p>
 </div>
 </div>
 </div>

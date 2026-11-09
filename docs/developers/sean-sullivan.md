@@ -13,7 +13,7 @@ hide:
 
 # Sean Sullivan
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sean-sullivan_56423f08c86aba05fd00006e) · [GitHub (seanthesheep)](https://github.com/seanthesheep) · [Website (seansullivan.ninja)](http://www.seansullivan.ninja)
 

@@ -13,7 +13,7 @@ hide:
 
 # Bowen Zhou
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bowen-zhou_063d3f629c1de112b0282d9b) · [GitHub (zbzbw)](https://github.com/zbzbw)
 

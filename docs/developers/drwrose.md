@@ -13,7 +13,7 @@ hide:
 
 # drwrose
 
-*6 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*6 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drwrose_52995888e627ce1aff000009) · [GitHub (drwrose)](https://github.com/drwrose)
 

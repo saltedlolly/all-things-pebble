@@ -13,7 +13,7 @@ hide:
 
 # Máté Gyöngyösi
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/m-t-gy-ngy-si_54eee7602365a4565800004e) · [GitHub (gyongyosimate1)](https://github.com/gyongyosimate1)
 

@@ -13,7 +13,7 @@ hide:
 
 # a\_halka
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/a-halka_544b70b9d68d8ff7d000005b) · [GitHub (halka)](https://github.com/halka) · [Website (rw12.net)](http://www.rw12.net/)
 

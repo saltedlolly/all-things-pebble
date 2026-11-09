@@ -13,7 +13,7 @@ hide:
 
 # Gia90
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gia90_55fc62f9defa9ed2da000095) · [GitHub (Gia90)](https://github.com/Gia90)
 

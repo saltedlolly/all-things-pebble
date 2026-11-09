@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · **W** · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*75 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*76 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -306,6 +306,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2022-06-23</span> <span title="Latest release in the app store">Updated 2022-06-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Go on a fantastic journey with Bakaka, your trusty friend ! Witness dramatic events and chat with your friend !</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/c347ca2d89184519991d23a5" data-search-exclude><img src="../images/apps/c347ca2d89184519991d23a5.png" alt="What&#x27;s Playing" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c347ca2d89184519991d23a5"><a href="https://apps.repebble.com/c347ca2d89184519991d23a5">What&#x27;s Playing</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
+<a class="app-source" href="https://github.com/coredevices/pebble-apps/tree/main/whatsplaying" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/pebble.html" title="More from this developer">Pebble</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-05</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Identify the music playing around you. Press Identify and your watch listens for up to ten seconds, then shows the song&#x27;s title, artist and album. Your last ten matches stay on the main screen…</p>
 </div>
 </div>
 <div class="app-card">
@@ -729,10 +740,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/22984baa50dd4b68ba9a0945" data-search-exclude><img src="../images/apps/22984baa50dd4b68ba9a0945.png" alt="Wristbound" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-22984baa50dd4b68ba9a0945"><a href="https://apps.repebble.com/22984baa50dd4b68ba9a0945">Wristbound</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.6</span></h2>
+<h2 class="app-name" id="app-22984baa50dd4b68ba9a0945"><a href="https://apps.repebble.com/22984baa50dd4b68ba9a0945">Wristbound</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.7</span></h2>
 <a class="app-source" href="https://github.com/AndreasThinks/hermes-wristbound" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/andreas-varotsis.html" title="More from this developer">Andreas Varotsis</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Hermes on your wrist. Browse conversations, catch audio replies, dictate or send a quick reply, and choose where to listen: phone headphones, phone speaker, or a supported watch speaker. Includes…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # eslimasec
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eslimasec_570434ebd7fa4e6c96000006) · [GitHub (eslimasec)](https://github.com/eslimasec) · [Website (s0lrider.blogspot.com)](http://s0lrider.blogspot.com)
 

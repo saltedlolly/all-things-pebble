@@ -13,7 +13,7 @@ hide:
 
 # Vestman
 
-*4 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/553ea9dd435307fdce000089/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/vestman_553ea9dd435307fdce000089) · [GitHub (gitvestman)](https://github.com/gitvestman)
 

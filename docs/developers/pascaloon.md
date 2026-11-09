@@ -13,7 +13,7 @@ hide:
 
 # pascaloon
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pascaloon_52a58368eef8ac1adf511452) · [GitHub (pascaloon)](https://github.com/pascaloon)
 

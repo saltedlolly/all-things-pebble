@@ -13,7 +13,7 @@ hide:
 
 # Justin Sunseri
 
-*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-sunseri_bc86b00b933f3ca278718653) · [Rebble App Store](https://apps.rebble.io/en_US/developer/60b941541342ae00a7b63a91/1) · [GitHub (jmsunseri)](https://github.com/jmsunseri)
 

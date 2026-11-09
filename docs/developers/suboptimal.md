@@ -13,7 +13,7 @@ hide:
 
 # Suboptimal
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/suboptimal_1d661ee76dcd927ce38ec010) · [GitHub (JimmyMultani)](https://github.com/JimmyMultani)
 
@@ -29,7 +29,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/suboptimal_1d661ee7
 <div class="app-dev">Watchface</div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-18</span> <span title="Latest release in the app store">Updated 2026-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">A pixel-art watchface with dot-matrix digits and corner-bracket complications for weather, heart rate, steps, and battery.</p>
+<p class="app-desc">A pixel-art watchface with dot-matrix digits and corner-bracket complications for weather, heart rate, steps, and battery. Design and digit shapes modeled on M8 by Tasos Papalyras (rdnt), a Wear…</p>
 </div>
 </div>
 </div>

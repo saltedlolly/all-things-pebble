@@ -13,7 +13,7 @@ hide:
 
 # Futzle Industries
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/futzle-industries_52f0abfe3be6208ab00022aa) · [GitHub (futzle)](https://github.com/futzle) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/20946)
 

@@ -13,7 +13,7 @@ hide:
 
 # andrewfchilds
 
-*2 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrewfchilds_109102dd9dbda1b7e4b51462) · [GitHub (andrewchilds)](https://github.com/andrewchilds)
 

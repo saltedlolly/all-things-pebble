@@ -13,7 +13,7 @@ hide:
 
 # Yu Koseki
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yu-koseki_5347f2b842b3b214da000001) · [GitHub (youkoseki)](https://github.com/youkoseki) · [Website (youkoseki.com)](http://youkoseki.com/)
 

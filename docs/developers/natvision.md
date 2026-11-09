@@ -13,7 +13,7 @@ hide:
 
 # natvision
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/natvision_556247972605a53fe70000cb) · [GitHub (natvision25)](https://github.com/natvision25)
 

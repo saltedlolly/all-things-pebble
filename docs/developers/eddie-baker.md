@@ -13,7 +13,7 @@ hide:
 
 # Eddie Baker
 
-*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eddie-baker_4ab6bb8c21d08402039dcd0b) · [GitHub (eddieatjollyroger)](https://github.com/eddieatjollyroger)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eddie-baker_4ab6bb8
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="ha quick text" data-released="2026-11-02" data-updated="2026-11-02">
+<a class="app-shot" href="https://apps.repebble.com/a0fdb515f83d4bb49634616e" data-search-exclude><img src="../images/apps/a0fdb515f83d4bb49634616e.png" alt="HA Quick Text" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a0fdb515f83d4bb49634616e"><a href="https://apps.repebble.com/a0fdb515f83d4bb49634616e">HA Quick Text</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<a class="app-source" href="https://github.com/eddieatjollyroger/Pebble-iPhone-Quick-Text" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Send a text from your wrist through your own Home Assistant server. Pick a contact, pick a message (or dictate one), and your iPhone sends it. No email accounts, no cloud service. When a message…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="ha ping my iphone" data-released="2026-10-24" data-updated="2026-10-24">
 <a class="app-shot" href="https://apps.repebble.com/370aee7508844929b822e0cc" data-search-exclude><img src="../images/apps/370aee7508844929b822e0cc.png" alt="HA Ping my iPhone" loading="lazy"></a>
 <div class="app-info">

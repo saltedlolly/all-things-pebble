@@ -13,7 +13,7 @@ hide:
 
 # David Stosik
 
-*2 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-stosik_535657c3c822ffc62800014f) · [GitHub (dstosik)](https://github.com/dstosik) · [GitHub (davidstosik)](https://github.com/davidstosik) · [Website (dstosik.github.io)](http://dstosik.github.io/pebblot)
 

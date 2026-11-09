@@ -13,7 +13,7 @@ hide:
 
 # Andrea Corradi
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrea-corradi_571a676207049b07bf00001c) · [GitHub (acrrd)](https://github.com/acrrd)
 

@@ -13,7 +13,7 @@ hide:
 
 # Lukasz Orzechowski
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lukasz-orzechowski_f00ac1790eeb92a620c5bcde) · [GitHub (orzechowskilukasz)](https://github.com/orzechowskilukasz)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lukasz-orzechowski_
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="tetristimebig" data-released="2026-04-09" data-updated="2026-08-14">
+<div class="app-card" data-type="watchface" data-title="tetristimebig" data-released="2026-04-09" data-updated="2026-11-03">
 <a class="app-shot" href="https://apps.repebble.com/81384d8fbe4347339fd4ee8e" data-search-exclude><img src="../images/apps/81384d8fbe4347339fd4ee8e.gif" alt="TetrisTimeBig" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-81384d8fbe4347339fd4ee8e"><a href="https://apps.repebble.com/81384d8fbe4347339fd4ee8e">TetrisTimeBig</a> <span class="app-version" title="Latest version" data-search-exclude>v3.9.1</span></h2>
+<h2 class="app-name" id="app-81384d8fbe4347339fd4ee8e"><a href="https://apps.repebble.com/81384d8fbe4347339fd4ee8e">TetrisTimeBig</a> <span class="app-version" title="Latest version" data-search-exclude>v3.9.2</span></h2>
 <a class="app-source" href="https://github.com/orzechowskilukasz/TetrisTimeBig" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A dot-matrix watch face, where dots are composed from falling tetris bricks. This is a port for Pebble Time 2 of a TetrisTime watchface originally created in 2015 by Valerii Lashmanov.</p>
 </div>

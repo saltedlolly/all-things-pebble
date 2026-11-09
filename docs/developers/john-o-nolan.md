@@ -13,7 +13,7 @@ hide:
 
 # John O&\#x27;Nolan
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/john-o-nolan_554ea0d7ff168d98830000b3) · [GitHub (JohnONolan)](https://github.com/JohnONolan)
 

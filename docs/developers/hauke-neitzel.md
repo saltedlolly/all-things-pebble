@@ -13,7 +13,7 @@ hide:
 
 # Hauke Neitzel
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hauke-neitzel_57b6419ebb85ed1b79000297) · [GitHub (theHawke)](https://github.com/theHawke)
 

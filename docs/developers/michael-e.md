@@ -13,7 +13,7 @@ hide:
 
 # Michael E.
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/michael-e_56b37ca55af63e87d1000024) · [GitHub (michael-3-141)](https://github.com/michael-3-141)
 

@@ -13,7 +13,7 @@ hide:
 
 # fieldWalking
 
-*6 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*6 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fieldwalking_52f88d452a8acf5cab00018f) · [Website (goo.gl)](http://goo.gl/DFYcFh)
 

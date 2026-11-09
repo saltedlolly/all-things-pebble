@@ -1,5 +1,5 @@
 ---
-title: "Pocket Spring-Winder"
+title: "Bjørn Inge Vikhammermo Berg"
 hide:
   - toc
 ---
@@ -11,28 +11,39 @@ hide:
 <img class="dev-avatar" src="https://github.com/dabear.png?size=128" alt="" width="64" height="64" loading="lazy" onerror="this.remove()">
 <div class="dev-intro" markdown>
 
-# Pocket Spring-Winder
+# Bjørn Inge Vikhammermo Berg
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pocket-spring-winder_6e1072e4037ce66aa33da174) · [GitHub (dabear)](https://github.com/dabear)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bj-rn-inge-vikhammermo-berg_6e1072e4037ce66aa33da174) · [GitHub (dabear)](https://github.com/dabear)
 
 </div>
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="luped cgm" data-released="2026-10-12" data-updated="2026-11-02">
+<div class="app-card" data-type="watchapp" data-title="luped remote" data-released="2026-11-04" data-updated="2026-11-09">
+<a class="app-shot" href="https://apps.repebble.com/a7e1cad620804edbb52ee761" data-search-exclude><img src="../images/apps/a7e1cad620804edbb52ee761.png" alt="Luped Remote" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a7e1cad620804edbb52ee761"><a href="https://apps.repebble.com/a7e1cad620804edbb52ee761">Luped Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.10</span></h2>
+<a class="app-source" href="https://github.com/dabear/LupedPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-04</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Luped Remote is the button-driven companion to the Luped CGM watchface for Pebble Time 2 and Pebble Round 2. It shows the latest glucose, trend, IOB and COB from your iPhone app and sends it…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="luped cgm" data-released="2026-10-12" data-updated="2026-11-06">
 <a class="app-shot" href="https://apps.repebble.com/d47105a3c7c1489895b067ff" data-search-exclude><img src="../images/apps/d47105a3c7c1489895b067ff.png" alt="Luped CGM" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d47105a3c7c1489895b067ff"><a href="https://apps.repebble.com/d47105a3c7c1489895b067ff">Luped CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.21</span></h2>
+<h2 class="app-name" id="app-d47105a3c7c1489895b067ff"><a href="https://apps.repebble.com/d47105a3c7c1489895b067ff">Luped CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.26</span></h2>
 <a class="app-source" href="https://github.com/dabear/CrimsonBearPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A Loop-styled CGM watchface for Pebble Time 2 and Pebble Round 2. Requires a direct watch connection from a supported iPhone app such as Loop or Trio; the watchface has no Pebble app settings and…</p>
 </div>

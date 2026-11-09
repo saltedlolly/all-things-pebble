@@ -13,7 +13,7 @@ hide:
 
 # Joseph Choi
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joseph-choi_531e5c533b23771b89000370) · [GitHub (joe-choi)](https://github.com/joe-choi)
 

@@ -13,7 +13,7 @@ hide:
 
 # Joshua Chen
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joshua-chen_5592e6c56a07c8417a000077) · [GitHub (TheJsh)](https://github.com/TheJsh)
 

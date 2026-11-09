@@ -13,7 +13,7 @@ hide:
 
 # dieghernan
 
-*4 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f15b6dc41172eebc0004dc/1) · [GitHub (dieghernan)](https://github.com/dieghernan) · [Website (dieghernan.github.io)](https://dieghernan.github.io/Sfera/)
 

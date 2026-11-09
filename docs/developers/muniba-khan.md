@@ -13,7 +13,7 @@ hide:
 
 # Muniba Khan
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/59922281461a8d9e49000e20/1) · [GitHub (kmuniba98)](https://github.com/kmuniba98)
 

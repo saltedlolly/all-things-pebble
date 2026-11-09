@@ -13,7 +13,7 @@ hide:
 
 # Tech Talent South
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tech-talent-south_54a316565c486f868b00011e) · [GitHub (zkirchin)](https://github.com/zkirchin) · [Website (techtalentsouth.com)](http://techtalentsouth.com)
 

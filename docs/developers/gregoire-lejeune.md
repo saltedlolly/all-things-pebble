@@ -13,7 +13,7 @@ hide:
 
 # Gregoire Lejeune
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gregoire-lejeune_539870d2a2108aa1d6000009) · [GitHub (glejeune)](https://github.com/glejeune)
 

@@ -13,7 +13,7 @@ hide:
 
 # gravity\_rose
 
-*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gravity-rose_a89ac83e4a28a87236ff87f8) · [GitHub (gravity-rose)](https://github.com/gravity-rose)
 

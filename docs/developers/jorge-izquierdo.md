@@ -13,7 +13,7 @@ hide:
 
 # Jorge Izquierdo
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jorge-izquierdo_52c01cec101f1a76bc000045) · [GitHub (izqui)](https://github.com/izqui) · [Website (izqui.me)](http://izqui.me/twebble)
 

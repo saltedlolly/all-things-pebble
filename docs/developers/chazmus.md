@@ -13,7 +13,7 @@ hide:
 
 # Chazmus
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chazmus_942af01f6d1a039d330b229c) · [GitHub (Chazmus)](https://github.com/Chazmus)
 

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · **G** · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*69 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*70 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -287,6 +287,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/b23f973d0f0141e9b99f114a" data-search-exclude><img src="../images/apps/b23f973d0f0141e9b99f114a.gif" alt="Gielinor HUD" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b23f973d0f0141e9b99f114a"><a href="https://apps.repebble.com/b23f973d0f0141e9b99f114a">Gielinor HUD</a> <span class="app-version" title="Latest version" data-search-exclude>v26.11.2</span></h2>
+<a class="app-source" href="https://github.com/TechnoidAlpha/gielinor-hud-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/technoidabhi.html" title="More from this developer">TechnoidAbhi</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Your day as an Old School RuneScape-style game screen, for the Pebble Time 2 and, new in this version, the Pebble Round 2 (beta). - Big pixel clock and date - Four status orbs: battery, heart…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/57915144842428d20000028c" data-search-exclude><img src="../images/apps/57915144842428d20000028c.png" alt="Girl Scout Logo" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-57915144842428d20000028c"><a href="https://apps.rebble.io/en_US/application/57915144842428d20000028c">Girl Scout Logo</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
@@ -371,7 +382,7 @@ hide:
 <div class="app-dev">by <a href="../developers/suboptimal.html" title="More from this developer">Suboptimal</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-18</span> <span title="Latest release in the app store">Updated 2026-09-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">A pixel-art watchface with dot-matrix digits and corner-bracket complications for weather, heart rate, steps, and battery.</p>
+<p class="app-desc">A pixel-art watchface with dot-matrix digits and corner-bracket complications for weather, heart rate, steps, and battery. Design and digit shapes modeled on M8 by Tasos Papalyras (rdnt), a Wear…</p>
 </div>
 </div>
 <div class="app-card">
@@ -432,10 +443,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b65b9d3eb9874d8eb499770c" data-search-exclude><img src="../images/apps/b65b9d3eb9874d8eb499770c.png" alt="Goals" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b65b9d3eb9874d8eb499770c"><a href="https://apps.repebble.com/b65b9d3eb9874d8eb499770c">Goals</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<h2 class="app-name" id="app-b65b9d3eb9874d8eb499770c"><a href="https://apps.repebble.com/b65b9d3eb9874d8eb499770c">Goals</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.4</span></h2>
 <a class="app-source" href="https://gitlab.com/rythm-run/goals.pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/rythm-run.html" title="More from this developer">Rythm.Run</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">bsd-3-clause</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">bsd-3-clause</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Goals is a modern, clean, and highly readable activity watchface engineered specifically for new-generation Pebble smartwatches: Pebble Time 2 (200x228 rounded rectangle) and Pebble Round 2…</p>
 </div>
@@ -696,12 +707,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f" data-search-exclude><img src="../images/apps/cf60ff6cf2fa45868e4e8a6f.gif" alt="Gridlock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
+<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-10-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Gridlock is a customizable modular dashboard watchface for the Pebble Time 2, with calendar, weather, stocks, heart rate, steps, sleep, Quiet Time, Bluetooth, battery, moon phase, sunrise/sunset…</p>
+<p class="app-desc">Gridlock is a customizable modular dashboard watchface for the Pebble Time 2, with calendar, weather, stocks, heart rate, heart rate variability (HRV), steps, sleep, Quiet Time, Bluetooth…</p>
 </div>
 </div>
 <div class="app-card">

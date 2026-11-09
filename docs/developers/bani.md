@@ -13,7 +13,7 @@ hide:
 
 # Bani
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bani_5668b28f638b2661bc000069) · [GitHub (bani)](https://github.com/bani) · [Website (weureka.com)](http://weureka.com/)
 

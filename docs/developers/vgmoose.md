@@ -13,7 +13,7 @@ hide:
 
 # VGMoose
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vgmoose_52d0f6d63b9c7ba25e0000e6) · [GitHub (vgmoose)](https://github.com/vgmoose) · [Website (rickyayoub.com)](http://rickyayoub.com/pebble/)
 

@@ -13,7 +13,7 @@ hide:
 
 # docsmooth
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/docsmooth_52f2582fc41172eebc00151d) · [GitHub (docsmooth)](https://github.com/docsmooth)
 

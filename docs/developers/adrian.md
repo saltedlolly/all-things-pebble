@@ -13,7 +13,7 @@ hide:
 
 # Adrian
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/adrian_9e41639dad4f43530bce9a4d) · [GitHub (Gibodean)](https://github.com/Gibodean)
 

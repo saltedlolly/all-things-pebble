@@ -13,7 +13,7 @@ hide:
 
 # cmalec
 
-*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6aaf0376ed67e90009f5a8d9/1) · [GitHub (cmalec)](https://github.com/cmalec)
 

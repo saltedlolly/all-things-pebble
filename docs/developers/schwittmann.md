@@ -13,7 +13,7 @@ hide:
 
 # Schwittmann
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/schwittmann_5434faf0b3b950845a00016c) · [GitHub (schwittmann)](https://github.com/schwittmann)
 

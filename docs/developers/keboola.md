@@ -13,7 +13,7 @@ hide:
 
 # Keboola
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/keboola_539fec2b310ad71d32000151) · [GitHub (keboola)](https://github.com/keboola) · [Website (keboola.com)](http://www.keboola.com)
 

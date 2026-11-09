@@ -13,7 +13,7 @@ hide:
 
 # degygii
 
-*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/degygii_5499d00473268f31cd000104) · [GitHub (degygii)](https://github.com/degygii)
 

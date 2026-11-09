@@ -13,7 +13,7 @@ hide:
 
 # pikaring
 
-*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pikaring_54f06d8a380aa6dffe00005b) · [GitHub (pikaring)](https://github.com/pikaring)
 

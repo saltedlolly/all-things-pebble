@@ -13,7 +13,7 @@ hide:
 
 # Kieselleger
 
-*21 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*27 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3fe58879cfd4000013) · [GitHub (ProggroP)](https://github.com/ProggroP)
 
@@ -21,11 +21,77 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>24</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>21</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>30</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>27</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="transit" data-released="2026-11-08" data-updated="2026-11-09">
+<a class="app-shot" href="https://apps.repebble.com/6b1e297baa0b49d993f715c6" data-search-exclude><img src="../images/apps/6b1e297baa0b49d993f715c6.png" alt="Transit" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6b1e297baa0b49d993f715c6"><a href="https://apps.repebble.com/6b1e297baa0b49d993f715c6">Transit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Transit" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Transit shows the time the way a station or airport display does: four big characters, each on its own coloured plate, two for the hours and two for the minutes. Every character is built from a…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="house on a pebble" data-released="2026-11-09" data-updated="2026-11-09">
+<a class="app-shot" href="https://apps.repebble.com/39b2300fa3cf479d976f6443" data-search-exclude><img src="../images/apps/39b2300fa3cf479d976f6443.png" alt="House on a Pebble" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-39b2300fa3cf479d976f6443"><a href="https://apps.repebble.com/39b2300fa3cf479d976f6443">House on a Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/HouseOnAPebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-09</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Your watch now has a tenant. A little character in a bobble hat lives in a cross-section house above the time and follows a daily routine: a bath in the morning, cooking at mealtimes, tinkering…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="tiles" data-released="2026-11-07" data-updated="2026-11-07">
+<a class="app-shot" href="https://apps.repebble.com/0eadc6f30da04ae293b0cfb1" data-search-exclude><img src="../images/apps/0eadc6f30da04ae293b0cfb1.png" alt="Tiles" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-0eadc6f30da04ae293b0cfb1"><a href="https://apps.repebble.com/0eadc6f30da04ae293b0cfb1">Tiles</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Tiles" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Tiles splits the screen into six rounded colour blocks. The time sits large in the white centre tile, the date in the top left, and the other four tiles show whatever you pick: temperature, heart…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="tide" data-released="2026-11-07" data-updated="2026-11-07">
+<a class="app-shot" href="https://apps.repebble.com/132ede581a214a9a82e2ffc8" data-search-exclude><img src="../images/apps/132ede581a214a9a82e2ffc8.png" alt="Tide" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-132ede581a214a9a82e2ffc8"><a href="https://apps.repebble.com/132ede581a214a9a82e2ffc8">Tide</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Tide" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Tide keeps the time quiet and graphic: one large hour number in the centre, the minutes as an arc that fills around the edge, and a small date below. The minute arc has a soft track and a bright…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="shore" data-released="2026-11-05" data-updated="2026-11-05">
+<a class="app-shot" href="https://apps.repebble.com/fe2705ac2ffc4de1bf211bd0" data-search-exclude><img src="../images/apps/fe2705ac2ffc4de1bf211bd0.png" alt="Shore" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-fe2705ac2ffc4de1bf211bd0"><a href="https://apps.repebble.com/fe2705ac2ffc4de1bf211bd0">Shore</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Shore" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-05</span> <span title="Latest release in the app store">Updated 2026-11-05</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Shore sets the time in LECO 1976, the geometric numerals the Pebble was always associated with, drawn far larger than the built-in version allows: hours above minutes, filling the middle of the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="your style light" data-released="2026-11-04" data-updated="2026-11-04">
+<a class="app-shot" href="https://apps.repebble.com/e0e5d810ddf942279583b7c9" data-search-exclude><img src="../images/apps/e0e5d810ddf942279583b7c9.png" alt="Your Style Light" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e0e5d810ddf942279583b7c9"><a href="https://apps.repebble.com/e0e5d810ddf942279583b7c9">Your Style Light</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/YourStyleLight" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-04</span> <span title="Latest release in the app store">Updated 2026-11-04</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Your Style Light is the easy-going sibling of Your Style: a classic analog dial with Roman numerals at XII, III, VI and IX, bold rounded hands and a small centre hub, ready to wear without…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="neuraum" data-released="2026-11-01" data-updated="2026-11-01">
 <a class="app-shot" href="https://apps.repebble.com/6f19fab7129642619a7356db" data-search-exclude><img src="../images/apps/6f19fab7129642619a7356db.png" alt="Neuraum" loading="lazy"></a>
 <div class="app-info">

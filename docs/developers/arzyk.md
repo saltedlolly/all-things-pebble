@@ -13,7 +13,7 @@ hide:
 
 # Arzyk
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/arzyk_537f54c5edaa6f19c2a22493) · [GitHub (ArzykDev)](https://github.com/ArzykDev)
 

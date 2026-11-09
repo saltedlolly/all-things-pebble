@@ -13,7 +13,7 @@ hide:
 
 # Sapphire Second-Hand
 
-*6 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*6 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sapphire-second-hand_527b6cf8aa4310a44fe95d9d) · [GitHub (shoepaladin)](https://github.com/shoepaladin)
 

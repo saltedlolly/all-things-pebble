@@ -13,7 +13,7 @@ hide:
 
 # weaversway
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/weaversway_55a535727c789dc73300001b) · [GitHub (offoxsmind)](https://github.com/offoxsmind)
 

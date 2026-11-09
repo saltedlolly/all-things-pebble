@@ -13,7 +13,7 @@ hide:
 
 # Eric Moritz
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-moritz_52d11348336477a9590000e4) · [GitHub (ericmoritz)](https://github.com/ericmoritz)
 

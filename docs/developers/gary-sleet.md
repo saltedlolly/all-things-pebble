@@ -13,7 +13,7 @@ hide:
 
 # Gary Sleet
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gary-sleet_52f143208d40befc3a000105) · [GitHub (garysleet)](https://github.com/garysleet)
 

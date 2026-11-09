@@ -13,7 +13,7 @@ hide:
 
 # Christine Gerpheide
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christine-gerpheide_56615ee5c2c30dda9a000013) · [GitHub (phoxicle)](https://github.com/phoxicle)
 

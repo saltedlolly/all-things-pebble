@@ -13,7 +13,7 @@ hide:
 
 # Jesse Linthorst
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jesse-linthorst_53b425a5a930985f0c78726f) · [GitHub (jesse-mm)](https://github.com/jesse-mm) · [Website (linthor.st)](https://linthor.st)
 

@@ -13,7 +13,7 @@ hide:
 
 # pokewatch
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pokewatch_57983f1222f599ede800004a) · [GitHub (pokewatch)](https://github.com/pokewatch)
 

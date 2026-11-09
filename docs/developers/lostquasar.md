@@ -13,7 +13,7 @@ hide:
 
 # LostQuasar
 
-*2 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5aee23cff3858853b8000896/1) · [GitHub (LostQuasar)](https://github.com/LostQuasar) · [Website (lostquasar.dev)](https://lostquasar.dev)
 

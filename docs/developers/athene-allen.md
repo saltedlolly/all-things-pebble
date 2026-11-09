@@ -13,7 +13,7 @@ hide:
 
 # Athene Allen
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/athene-allen_57caf385be5ad0f2d80001bf) · [GitHub (gnargle)](https://github.com/gnargle)
 

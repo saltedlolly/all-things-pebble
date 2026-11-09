@@ -13,7 +13,7 @@ hide:
 
 # CrabbyDev
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/crabbydev_350fc823f69da343c74a82ac) · [GitHub (LittleCrabby)](https://github.com/LittleCrabby)
 
@@ -21,14 +21,14 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/crabbydev_350fc823f
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="ukraine alerts" data-released="2026-09-12" data-updated="2026-10-25">
+<div class="app-card" data-type="watchapp" data-title="ukraine alerts" data-released="2026-09-12" data-updated="2026-11-08">
 <a class="app-shot" href="https://apps.repebble.com/90b69a2d24954ae184433c85" data-search-exclude><img src="../images/apps/90b69a2d24954ae184433c85.png" alt="Ukraine Alerts" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-90b69a2d24954ae184433c85"><a href="https://apps.repebble.com/90b69a2d24954ae184433c85">Ukraine Alerts</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-90b69a2d24954ae184433c85"><a href="https://apps.repebble.com/90b69a2d24954ae184433c85">Ukraine Alerts</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/LittleCrabby/pebble-ukraine-alerts" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-09-12</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-09-12</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Ukraine Alerts brings real-time air raid alert monitoring and situational awareness directly to your Pebble smartwatch. Featuring an interactive vector map of Ukraine, the app tracks sirens across…</p>
 </div>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Companion Intelligence
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6ae416c6db46610008a10892/1) · [GitHub (companionintelligence)](https://github.com/companionintelligence) · [Website (ci.computer)](https://ci.computer)
 

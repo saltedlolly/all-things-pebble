@@ -13,7 +13,7 @@ hide:
 
 # Choi Byungyoon
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/choi-byungyoon_a120faf83b54715b45bedcca) · [Codeberg (byungyoonc)](https://codeberg.org/byungyoonc)
 

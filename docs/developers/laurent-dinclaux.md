@@ -13,7 +13,7 @@ hide:
 
 # Laurent Dinclaux
 
-*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/laurent-dinclaux_9496cb13574a3964b0079f36) · [GitHub (loxK)](https://github.com/loxK)
 

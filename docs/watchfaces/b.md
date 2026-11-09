@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · **B** · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*182 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*182 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -234,10 +234,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/3bb9ccbff5014b65b30ce5d1" data-search-exclude><img src="../images/apps/3bb9ccbff5014b65b30ce5d1.gif" alt="BatSave" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-3bb9ccbff5014b65b30ce5d1"><a href="https://apps.repebble.com/3bb9ccbff5014b65b30ce5d1">BatSave</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<h2 class="app-name" id="app-3bb9ccbff5014b65b30ce5d1"><a href="https://apps.repebble.com/3bb9ccbff5014b65b30ce5d1">BatSave</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/howeaj/pebble-battery-saver" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/howeaj.html" title="More from this developer">howeaj</a> · <a href="https://forum.rebble.io/t/1473" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-31</span> <span title="Latest release in the app store">Updated 2026-10-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-31</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Efficient, battery saving, low power; updates just two pixels per ~3-5 minutes, for when you really need to stretch out those last few %. Tags: low battery saver, long life, linear, horizontal…</p>
 </div>
@@ -1257,10 +1257,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5502d67eaab67c67a50000c6" data-search-exclude><img src="../images/apps/5502d67eaab67c67a50000c6.gif" alt="Binary Watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5502d67eaab67c67a50000c6"><a href="https://apps.repebble.com/5502d67eaab67c67a50000c6">Binary Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v4.6.2</span></h2>
+<h2 class="app-name" id="app-5502d67eaab67c67a50000c6"><a href="https://apps.repebble.com/5502d67eaab67c67a50000c6">Binary Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v4.6.3</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-BinaryWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/davide-dell-erba.html" title="More from this developer">Davide Dell&#x27;Erba</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-13</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-13</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A binary clock is a clock that displays the time in a binary format. The first row is for hours, the second for minutes. Configurable options: - Colors palette - Different shapes for dots …</p>
 </div>
@@ -1774,10 +1774,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/569c52fcee59668e2f00001d" data-search-exclude><img src="../images/apps/569c52fcee59668e2f00001d.png" alt="Brackets" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-569c52fcee59668e2f00001d"><a href="https://apps.repebble.com/569c52fcee59668e2f00001d">Brackets</a> <span class="app-version" title="Latest version" data-search-exclude>v2.9.0</span></h2>
+<h2 class="app-name" id="app-569c52fcee59668e2f00001d"><a href="https://apps.repebble.com/569c52fcee59668e2f00001d">Brackets</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10.0</span></h2>
 <a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chris-lewis.html" title="More from this developer">Chris Lewis</a> · <a href="https://forum.rebble.io/t/320" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-18</span> <span title="Latest release in the app store">Updated 2026-08-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-18</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">High contrast watchface between brackets. Shows battery, Bluetooth, and weather if enabled.</p>
 </div>

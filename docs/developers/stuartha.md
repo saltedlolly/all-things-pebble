@@ -13,7 +13,7 @@ hide:
 
 # StuartHa
 
-*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stuartha_52ab9742951e34594b000002) · [GitHub (StuartHa)](https://github.com/StuartHa)
 

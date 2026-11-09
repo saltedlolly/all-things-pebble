@@ -13,7 +13,7 @@ hide:
 
 # digitalurban
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/68e3f6cf0fd0b500086cea51/1) · [GitHub (digitalurban)](https://github.com/digitalurban) · [Website (digitalurban.org)](http://digitalurban.org)
 

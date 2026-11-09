@@ -13,7 +13,7 @@ hide:
 
 # Chris Lewis
 
-*30 watchfaces and 6 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*31 watchfaces and 6 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd30e627ce1147000099) · [GitHub (C-D-Lewis)](https://github.com/C-D-Lewis) · [Website (ninedof.wordpress.com)](http://ninedof.wordpress.com)
 
@@ -21,11 +21,77 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>36</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>30</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>6</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>37</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>31</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>6</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="tube status" data-released="2013-12-04" data-updated="2026-11-07">
+<a class="app-shot" href="https://apps.repebble.com/529e8742d7894b189c000012" data-search-exclude><img src="../images/apps/529e8742d7894b189c000012.png" alt="Tube Status" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-529e8742d7894b189c000012"><a href="https://apps.repebble.com/529e8742d7894b189c000012">Tube Status</a> <span class="app-version" title="Latest version" data-search-exclude>v3.15.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/277" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-04</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">See the line status of the London Underground from your wrist! Unofficial app using the TfL Unified API.</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="instruments" data-released="2026-11-06" data-updated="2026-11-06">
+<a class="app-shot" href="https://apps.repebble.com/d6436c4674b74279ad79afff" data-search-exclude><img src="../images/apps/d6436c4674b74279ad79afff.png" alt="Instruments" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d6436c4674b74279ad79afff"><a href="https://apps.repebble.com/d6436c4674b74279ad79afff">Instruments</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
+<p class="app-desc">Purpose-built Pebble Round 2 watchface showing concise time, date, weather, with a choice of four configurable complication slots. The focus is on readability and usefulness. Features include: …</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="void statues" data-released="2025-08-19" data-updated="2026-11-04">
+<a class="app-shot" href="https://apps.repebble.com/68a492f024908f00096bb0b2" data-search-exclude><img src="../images/apps/68a492f024908f00096bb0b2.png" alt="Void Statues" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-68a492f024908f00096bb0b2"><a href="https://apps.repebble.com/68a492f024908f00096bb0b2">Void Statues</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/624" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-08-19</span> <span title="Latest release in the app store">Updated 2026-11-04</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Isometric watchface that draws solid statues and casts grey or dithered shadows to show the time. Animates the current time on launch, and inverts colors during the night time. Shows wireframe…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="hollywatch" data-released="2025-03-03" data-updated="2026-11-04">
+<a class="app-shot" href="https://apps.repebble.com/67c5f245b7a02300092ba0b2" data-search-exclude><img src="../images/apps/67c5f245b7a02300092ba0b2.png" alt="Hollywatch" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-67c5f245b7a02300092ba0b2"><a href="https://apps.repebble.com/67c5f245b7a02300092ba0b2">Hollywatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/940" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2026-11-04</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Alright dudes? Timeless Holly in wrist-watch format is realised using 21st Century technology - way ahead of the futuristic original! Port of the Fitbit watchface of the same name.</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="dayring" data-released="2025-03-01" data-updated="2026-11-04">
+<a class="app-shot" href="https://apps.repebble.com/67c32b1fb7a02300092ba059" data-search-exclude><img src="../images/apps/67c32b1fb7a02300092ba059.png" alt="Dayring" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-67c32b1fb7a02300092ba059"><a href="https://apps.repebble.com/67c32b1fb7a02300092ba059">Dayring</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/350" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-01</span> <span title="Latest release in the app store">Updated 2026-11-04</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Port of the Fitbit watchface of the same name, showing a colorful ring of minutes through the hour in two colors, one for day and another for night. The progress is animated upon launch.</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="brackets" data-released="2016-01-18" data-updated="2026-11-03">
+<a class="app-shot" href="https://apps.repebble.com/569c52fcee59668e2f00001d" data-search-exclude><img src="../images/apps/569c52fcee59668e2f00001d.png" alt="Brackets" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-569c52fcee59668e2f00001d"><a href="https://apps.repebble.com/569c52fcee59668e2f00001d">Brackets</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/320" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-18</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">High contrast watchface between brackets. Shows battery, Bluetooth, and weather if enabled.</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="dashboard 2" data-released="2026-08-31" data-updated="2026-08-31">
 <a class="app-shot" href="https://apps.repebble.com/077577b50210479da1285f84" data-search-exclude><img src="../images/apps/077577b50210479da1285f84.png" alt="Dashboard 2" loading="lazy"></a>
 <div class="app-info">
@@ -46,17 +112,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-21</span> <span title="Latest release in the app store">Updated 2026-08-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple, customizable watchface with splashes of color. Shows battery level with hour markers. Use the config page to adjust which features you want from: - Show weekday/month - Show day of the…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="brackets" data-released="2016-01-18" data-updated="2026-08-05">
-<a class="app-shot" href="https://apps.repebble.com/569c52fcee59668e2f00001d" data-search-exclude><img src="../images/apps/569c52fcee59668e2f00001d.png" alt="Brackets" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-569c52fcee59668e2f00001d"><a href="https://apps.repebble.com/569c52fcee59668e2f00001d">Brackets</a> <span class="app-version" title="Latest version" data-search-exclude>v2.9.0</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/320" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-01-18</span> <span title="Latest release in the app store">Updated 2026-08-05</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">High contrast watchface between brackets. Shows battery, Bluetooth, and weather if enabled.</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="deep rock" data-released="2025-03-22" data-updated="2026-07-18">
@@ -92,28 +147,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 <p class="app-desc">Patchwork uses isometric rendering to show randomized blocks at various heights and colors in your chosen color palette, overlaid with the time and date in a clean edged font. Choose your color…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchface" data-title="void statues" data-released="2025-08-19" data-updated="2026-06-14">
-<a class="app-shot" href="https://apps.repebble.com/68a492f024908f00096bb0b2" data-search-exclude><img src="../images/apps/68a492f024908f00096bb0b2.png" alt="Void Statues" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-68a492f024908f00096bb0b2"><a href="https://apps.repebble.com/68a492f024908f00096bb0b2">Void Statues</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/624" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-08-19</span> <span title="Latest release in the app store">Updated 2026-06-14</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Isometric watchface that draws solid statues and casts grey or dithered shadows to show the time. Animates the current time on launch, and inverts colors during the night time. Shows wireframe…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="tube status" data-released="2013-12-04" data-updated="2026-05-31">
-<a class="app-shot" href="https://apps.repebble.com/529e8742d7894b189c000012" data-search-exclude><img src="../images/apps/529e8742d7894b189c000012.png" alt="Tube Status" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-529e8742d7894b189c000012"><a href="https://apps.repebble.com/529e8742d7894b189c000012">Tube Status</a> <span class="app-version" title="Latest version" data-search-exclude>v3.14.0</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App · <a href="https://forum.rebble.io/t/277" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-04</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">See the line status of the London Underground from your wrist! Unofficial app using the TfL Unified API.</p>
-</div>
-</div>
 <div class="app-card" data-type="watchface" data-title="skyarc" data-released="2026-04-12" data-updated="2026-05-08">
 <a class="app-shot" href="https://apps.repebble.com/cac3689b5691473da9e3410b" data-search-exclude><img src="../images/apps/cac3689b5691473da9e3410b.gif" alt="Skyarc" loading="lazy"></a>
 <div class="app-info">
@@ -123,17 +156,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-05-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Daily weather-focused watchface with a comparatively minimal design. General weather conditions for the whole day (24H) are shown around the outside of the main arc, and relative temperatures…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="hollywatch" data-released="2025-03-03" data-updated="2026-05-02">
-<a class="app-shot" href="https://apps.repebble.com/67c5f245b7a02300092ba0b2" data-search-exclude><img src="../images/apps/67c5f245b7a02300092ba0b2.png" alt="Hollywatch" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-67c5f245b7a02300092ba0b2"><a href="https://apps.repebble.com/67c5f245b7a02300092ba0b2">Hollywatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/940" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2026-05-02</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Alright dudes? Timeless Holly in wrist-watch format is realised using 21st Century technology - way ahead of the futuristic original! Port of the Fitbit watchface of the same name.</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="dont-panic" data-released="2026-04-19" data-updated="2026-04-22">
@@ -222,17 +244,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-05</span> <span title="Latest release in the app store">Updated 2026-01-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Inspired by Skyrim, with a focus on readability</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="dayring" data-released="2025-03-01" data-updated="2025-12-28">
-<a class="app-shot" href="https://apps.repebble.com/67c32b1fb7a02300092ba059" data-search-exclude><img src="../images/apps/67c32b1fb7a02300092ba059.png" alt="Dayring" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-67c32b1fb7a02300092ba059"><a href="https://apps.repebble.com/67c32b1fb7a02300092ba059">Dayring</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/350" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-01</span> <span title="Latest release in the app store">Updated 2025-12-28</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Port of the Fitbit watchface of the same name, showing a colorful ring of minutes through the hour in two colors, one for day and another for night. The progress is animated upon launch.</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="potential divider" data-released="2014-04-01" data-updated="2025-08-25">

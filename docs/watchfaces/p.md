@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · **P** · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*235 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*237 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -1136,10 +1136,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/ddd33ce12ca54656b9925559" data-search-exclude><img src="../images/apps/ddd33ce12ca54656b9925559.png" alt="Pilot" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ddd33ce12ca54656b9925559"><a href="https://apps.repebble.com/ddd33ce12ca54656b9925559">Pilot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
+<h2 class="app-name" id="app-ddd33ce12ca54656b9925559"><a href="https://apps.repebble.com/ddd33ce12ca54656b9925559">Pilot</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://pebble-site-ivory.vercel.app/index.html" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/timectrl.html" title="More from this developer">TimeCtrl</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">Pilot is a modern analog watchface designed for Pebble Round 2. It combines a framed date window, optional complications like battery, step information, temperature (C/F), and a restrained marker…</p>
 </div>
@@ -1321,6 +1321,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/b450c9e844724c4aa47e7a40" data-search-exclude><img src="../images/apps/b450c9e844724c4aa47e7a40.png" alt="Pixel Constellations" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b450c9e844724c4aa47e7a40"><a href="https://apps.repebble.com/b450c9e844724c4aa47e7a40">Pixel Constellations</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Pixel-Constellations" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Pixel Constellations turns your wrist into a night sky. Stars slowly draw pixelated lines between each other, forming constellations that spell out the digital time. Each minute the sky redraws —…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55e2ec06c18b95fd44000019" data-search-exclude><img src="../images/apps/55e2ec06c18b95fd44000019.png" alt="Pixel Grass" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-55e2ec06c18b95fd44000019"><a href="https://apps.repebble.com/55e2ec06c18b95fd44000019">Pixel Grass</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
@@ -1384,6 +1395,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-09-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Initial Pebble Time 2 / emery release. - Pixel-watch-style black-and-white watchface structure. - Watch battery, Bluetooth status, date, AM/PM, time, steps, BPM, and reserved weather/rain/event…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/c8dac62ce7d349ddbcde5ac3" data-search-exclude><img src="../images/apps/c8dac62ce7d349ddbcde5ac3.png" alt="Pixel Terrarium" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c8dac62ce7d349ddbcde5ac3"><a href="https://apps.repebble.com/c8dac62ce7d349ddbcde5ac3">Pixel Terrarium</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Pixel-Terrarium" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">A tiny glass jar with a plant sprite that needs your movement to stay watered. If you are sedentary for too long, the plant starts to droop.</p>
 </div>
 </div>
 <div class="app-card">

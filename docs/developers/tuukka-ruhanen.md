@@ -13,7 +13,7 @@ hide:
 
 # Tuukka Ruhanen
 
-*2 watchfaces and 5 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 5 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1ec999749817a461025038) · [GitHub (truhanen)](https://github.com/truhanen)
 
@@ -26,15 +26,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1e
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="aika" data-released="2026-10-18" data-updated="2026-10-18">
+<div class="app-card" data-type="watchface" data-title="aika" data-released="2026-10-18" data-updated="2026-11-07">
 <a class="app-shot" href="https://apps.repebble.com/4a31883c9e5947c1ba3bd2b0" data-search-exclude><img src="../images/apps/4a31883c9e5947c1ba3bd2b0.gif" alt="Aika" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4a31883c9e5947c1ba3bd2b0"><a href="https://apps.repebble.com/4a31883c9e5947c1ba3bd2b0">Aika</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-4a31883c9e5947c1ba3bd2b0"><a href="https://apps.repebble.com/4a31883c9e5947c1ba3bd2b0">Aika</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/truhanen/pebble-aika-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A readable watchface with extremely bold analog hands. The analog hands are the biggest component at the center, with the minute hand extending past the edges of the screen, for the highest…</p>
+<p class="app-desc">A more readable watchface, with extremely bold analog hands for better low-light visibility. Supports plugins! The analog hands are the biggest component at the center, with the minute hand…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="sae weather graph" data-released="2026-06-24" data-updated="2026-09-02">

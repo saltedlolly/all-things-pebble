@@ -13,7 +13,7 @@ hide:
 
 # Wristy Business
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/wristy-business_52f0096f61b75268a1000052) · [GitHub (hipsterbrown)](https://github.com/hipsterbrown)
 

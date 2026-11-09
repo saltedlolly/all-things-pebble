@@ -13,7 +13,7 @@ hide:
 
 # Karl
 
-*2 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/karl_0e91d84045d24bb5497e1700) · [GitHub (KarlKl)](https://github.com/KarlKl)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/karl_0e91d84045d24b
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="pebbletrail map" data-released="2026-03-16" data-updated="2026-11-06">
+<a class="app-shot" href="https://apps.repebble.com/85c73ce43dac489ea6b8908d" data-search-exclude><img src="../images/apps/85c73ce43dac489ea6b8908d.png" alt="PebbleTrail Map" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-85c73ce43dac489ea6b8908d"><a href="https://apps.repebble.com/85c73ce43dac489ea6b8908d">PebbleTrail Map</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<a class="app-source" href="https://github.com/KarlKl/PebbleTrail" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-16</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">PebbleTrail Map: Your Adventure Companion Explore the outdoors with confidence using PebbleTrail Map, the ultimate GPS and map app for your Pebble smartwatch. Track your real-time location, load…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="tendril" data-released="2026-05-31" data-updated="2026-05-31">
 <a class="app-shot" href="https://apps.repebble.com/358196e1caf34c2688899394" data-search-exclude><img src="../images/apps/358196e1caf34c2688899394.png" alt="Tendril" loading="lazy"></a>
 <div class="app-info">
@@ -57,17 +68,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/karl_0e91d84045d24b
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-18</span> <span title="Latest release in the app store">Updated 2026-05-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Slice It! is a fast-paced fruit-slicing game for Pebble Time 2. Swipe across the screen to slice flying fruits and rack up your score. But watch out - black bombs are mixed in, and slicing one…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="pebbletrail map" data-released="2026-03-16" data-updated="2026-03-30">
-<a class="app-shot" href="https://apps.repebble.com/85c73ce43dac489ea6b8908d" data-search-exclude><img src="../images/apps/85c73ce43dac489ea6b8908d.png" alt="PebbleTrail Map" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-85c73ce43dac489ea6b8908d"><a href="https://apps.repebble.com/85c73ce43dac489ea6b8908d">PebbleTrail Map</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
-<a class="app-source" href="https://github.com/KarlKl/PebbleTrail" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-16</span> <span title="Latest release in the app store">Updated 2026-03-30</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">PebbleTrail Map: Your Adventure Companion Explore the outdoors with confidence using PebbleTrail Map, the ultimate GPS and map app for your Pebble smartwatch. Track your real-time location, load…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="horizon scout" data-released="2026-03-29" data-updated="2026-03-29">

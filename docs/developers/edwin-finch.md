@@ -13,7 +13,7 @@ hide:
 
 # Edwin Finch
 
-*18 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*18 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5db6f59e385af50001ba25f9/1) · [GitHub (edwinfinch)](https://github.com/edwinfinch) · [Website (edwinfinch.com)](https://edwinfinch.com/redirect/pebble)
 

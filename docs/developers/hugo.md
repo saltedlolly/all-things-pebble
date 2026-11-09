@@ -13,7 +13,7 @@ hide:
 
 # Hugo
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hugo_52cb234945ffdd4be8000048) · [GitHub (hugoender)](https://github.com/hugoender)
 

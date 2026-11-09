@@ -13,7 +13,7 @@ hide:
 
 # yoshimov
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yoshimov_5566c4b53b08fe49dd000022) · [GitHub (yoshimov)](https://github.com/yoshimov)
 

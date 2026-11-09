@@ -13,7 +13,7 @@ hide:
 
 # Seth Goldman
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/seth-goldman_52f02429af0eabd57c0006f9) · [GitHub (srgoldman)](https://github.com/srgoldman)
 

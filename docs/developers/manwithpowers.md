@@ -13,7 +13,7 @@ hide:
 
 # manwithpowers
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/manwithpowers_531accce7e49755caf00007b) · [GitHub (manwithpowers)](https://github.com/manwithpowers)
 

@@ -13,7 +13,7 @@ hide:
 
 # Timo Zuccarello
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/58e36a7a0dfc3254c6000932/1) · [GitHub (DeltaTimo)](https://github.com/DeltaTimo)
 

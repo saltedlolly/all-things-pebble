@@ -13,7 +13,7 @@ hide:
 
 # PhyterJet
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/phyterjet_473c0d58fc686ee11f114ecd) · [Rebble App Store](https://apps.rebble.io/en_US/developer/684ab4c03c425500087af075/1) · [GitHub (rcrimp)](https://github.com/rcrimp)
 

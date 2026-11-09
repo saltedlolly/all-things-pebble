@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · **U** · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*28 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*28 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -129,7 +129,7 @@ hide:
 <div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Your day as a transit map. Follow daylight, steps, heart rate and UV along colourful routes on cream paper. Tap or flick for a seven-line Service status board. Includes rolling rain forecasts, a…</p>
+<p class="app-desc">Your day as a transit map. Follow daylight, steps, heart rate and UV along colourful routes on cream paper. Give your wrist a firm shake to open the seven-line Service status board. Simply raising…</p>
 </div>
 </div>
 <div class="app-card">

@@ -13,7 +13,7 @@ hide:
 
 # Matt Rossman
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-rossman_5dcdca6ac393f50cf6dbc262) · [GitHub (mattrossman)](https://github.com/mattrossman)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matt-rossman_5dcdca
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="forecaswatch 2" data-released="2019-11-14" data-updated="2026-09-20">
+<div class="app-card" data-type="watchface" data-title="forecaswatch 2" data-released="2019-11-14" data-updated="2026-11-04">
 <a class="app-shot" href="https://apps.repebble.com/5dcdca6ac393f50cf6dbc264" data-search-exclude><img src="../images/apps/5dcdca6ac393f50cf6dbc264.png" alt="ForecasWatch 2" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5dcdca6ac393f50cf6dbc264"><a href="https://apps.repebble.com/5dcdca6ac393f50cf6dbc264">ForecasWatch 2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.37.0</span></h2>
+<h2 class="app-name" id="app-5dcdca6ac393f50cf6dbc264"><a href="https://apps.repebble.com/5dcdca6ac393f50cf6dbc264">ForecasWatch 2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.38.0</span></h2>
 <a class="app-source" href="https://github.com/mattrossman/forecaswatch2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/691" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2019-11-14</span> <span title="Latest release in the app store">Updated 2026-09-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2019-11-14</span> <span title="Latest release in the app store">Updated 2026-11-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Open source revival of the beloved ForecasWatch watchface. This includes support for Weather Underground forecasts, which broke on the original ForecasWatch when the free API was shut down. Feel…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Jack Cannon
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jack-cannon_53f0d5d50a696ff0720000ce) · [GitHub (jackcannon)](https://github.com/jackcannon) · [Website (its.cannonianti.me)](http://its.cannonianti.me)
 

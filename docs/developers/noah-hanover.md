@@ -13,7 +13,7 @@ hide:
 
 # Noah Hanover
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noah-hanover_54ef90192365a40c370000b5)
 

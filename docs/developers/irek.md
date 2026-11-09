@@ -13,7 +13,7 @@ hide:
 
 # irek
 
-*4 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/636763090587050008d091aa/1) · [GitHub (ir33k)](https://github.com/ir33k) · [Website (irek.gabr.pl)](http://irek.gabr.pl/)
 

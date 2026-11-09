@@ -13,7 +13,7 @@ hide:
 
 # FG
 
-*2 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/fg_53e39e90115605c0220000be) · [GitHub (cfg1)](https://github.com/cfg1)
 

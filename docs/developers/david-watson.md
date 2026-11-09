@@ -13,7 +13,7 @@ hide:
 
 # David Watson
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-watson_564ba91d0fa9d91476000004) · [GitHub (ddwatson)](https://github.com/ddwatson) · [Website (sites.google.com)](https://sites.google.com/site/pebblelcars/)
 

@@ -13,7 +13,7 @@ hide:
 
 # Jibran Iqbal
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jibran-iqbal_69aa1c09dece040009f8eeb2) · [GitHub (jibraniqbal666)](https://github.com/jibraniqbal666)
 

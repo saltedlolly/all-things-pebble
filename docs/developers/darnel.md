@@ -13,7 +13,7 @@ hide:
 
 # darnel
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/587ccf5b5de85099be000237/1) · [GitHub (darnel)](https://github.com/darnel)
 

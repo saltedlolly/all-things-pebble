@@ -13,7 +13,7 @@ hide:
 
 # virgc
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/virgc_53747078f10c2eaccb0000ad) · [GitHub (virginiacook)](https://github.com/virginiacook)
 

@@ -13,7 +13,7 @@ hide:
 
 # Center for Public History + Digital Humanities
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/center-for-public-history-digital-humanities_5511c1a6c496d8094500002c) · [GitHub (ebellempire)](https://github.com/ebellempire) · [Website (clevelandhistorical.org)](http://clevelandhistorical.org/)
 

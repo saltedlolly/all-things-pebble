@@ -13,7 +13,7 @@ hide:
 
 # iverson
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/iverson_54ef883d5cc214af7d00009d) · [GitHub (ficiverson)](https://github.com/ficiverson) · [Website (cuacfm.org)](https://cuacfm.org/)
 

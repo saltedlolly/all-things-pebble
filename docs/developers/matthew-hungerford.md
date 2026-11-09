@@ -13,7 +13,7 @@ hide:
 
 # Matthew Hungerford
 
-*11 watchfaces and 4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*11 watchfaces and 4 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-hungerford_52bca741d438930a650001b6) · [GitHub (mhungerford)](https://github.com/mhungerford) · [Website (xkcd.com)](http://xkcd.com)
 

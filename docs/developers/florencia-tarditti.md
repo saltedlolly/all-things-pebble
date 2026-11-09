@@ -13,7 +13,7 @@ hide:
 
 # Florencia Tarditti
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/florencia-tarditti_55e2ea2fe1fe97a55c00001c) · [GitHub (formap)](https://github.com/formap)
 

@@ -13,7 +13,7 @@ hide:
 
 # Freakified
 
-*4 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/freakified_534d74f861fcaa8033000263) · [GitHub (freakified)](https://github.com/freakified)
 
@@ -26,15 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/freakified_534d74f8
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="halcyon" data-released="2025-03-07" data-updated="2026-10-21">
+<div class="app-card" data-type="watchface" data-title="halcyon" data-released="2025-03-07" data-updated="2026-11-08">
 <a class="app-shot" href="https://apps.repebble.com/67cb1c5fb7a02301b9a6e415" data-search-exclude><img src="../images/apps/67cb1c5fb7a02301b9a6e415.png" alt="Halcyon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67cb1c5fb7a02301b9a6e415"><a href="https://apps.repebble.com/67cb1c5fb7a02301b9a6e415">Halcyon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.0</span></h2>
+<h2 class="app-name" id="app-67cb1c5fb7a02301b9a6e415"><a href="https://apps.repebble.com/67cb1c5fb7a02301b9a6e415">Halcyon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5.3</span></h2>
 <a class="app-source" href="https://github.com/freakified/halcyon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/750" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog-digital watchface featuring the solar day! Halcyon represents the 24 hours of the day as a ring around the edges of your watch, highlighting the sunrise, sunset, and the position of the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="timestyle" data-released="2015-07-15" data-updated="2026-11-07">
+<a class="app-shot" href="https://apps.repebble.com/55a5c024f4510f794c000071" data-search-exclude><img src="../images/apps/55a5c024f4510f794c000071.gif" alt="TimeStyle" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-55a5c024f4510f794c000071"><a href="https://apps.repebble.com/55a5c024f4510f794c000071">TimeStyle</a> <span class="app-version" title="Latest version" data-search-exclude>v8.1.0</span></h2>
+<a class="app-source" href="https://github.com/freakified/TimeStylePebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/906" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-15</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Digital, readable, and completely customizable. ***New for Fall 2026: Presenting TimeStyle 8.0, containing nearly a decade of accumulated feature requests! New widgets, new fonts, a redesigned…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="time traveler - world clock" data-released="2026-04-06" data-updated="2026-10-13">
@@ -68,17 +79,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/freakified_534d74f8
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-05-02</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A calculator! On a watch! No one has ever thought of this before! Anyway, now that the Pebble Time 2&#x27;s touchscreen is enabled, let&#x27;s CALCULATE! Calculator allows to perform basic math operations…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="timestyle" data-released="2015-07-15" data-updated="2026-06-05">
-<a class="app-shot" href="https://apps.repebble.com/55a5c024f4510f794c000071" data-search-exclude><img src="../images/apps/55a5c024f4510f794c000071.png" alt="TimeStyle" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-55a5c024f4510f794c000071"><a href="https://apps.repebble.com/55a5c024f4510f794c000071">TimeStyle</a> <span class="app-version" title="Latest version" data-search-exclude>v7.11.2</span></h2>
-<a class="app-source" href="https://github.com/freakified/TimeStylePebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/906" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-15</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Digital. Readable. Completely customizable. *** New for 2026: Full support for Time 2 and Round 2! *** The Timeline handles the past and the future: let TimeStyle handle your present! • Time you…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="japanese date &amp; time practice" data-released="2026-04-12" data-updated="2026-04-13">

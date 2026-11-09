@@ -13,7 +13,7 @@ hide:
 
 # Cameron MacFarland
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cameron-macfarland_5305728d7c1a9d6ce000011c) · [GitHub (distantcam)](https://github.com/distantcam) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/comment/80577/)
 

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · **R** · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*107 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*108 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -119,6 +119,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Fork of the awesome phoenix big by astosia with rain amount and probability instead of steps and battery. I also removed many options, which i did not need. The watchface is still BETA!</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/ae850236085a4378af55780b" data-search-exclude><img src="../images/apps/ae850236085a4378af55780b.png" alt="Rainy Windowpane" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ae850236085a4378af55780b"><a href="https://apps.repebble.com/ae850236085a4378af55780b">Rainy Windowpane</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Rainy-Windowpane" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Rainy Windowpane looks out on a storm through foggy glass. Pixel raindrops slide down the pane while the time is wiped into the condensation — bright for a moment, then slowly fading until the…</p>
 </div>
 </div>
 <div class="app-card">
@@ -916,10 +927,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4f0a548f1808468f8e1051d9" data-search-exclude><img src="../images/apps/4f0a548f1808468f8e1051d9.png" alt="Roto360 reimaged" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4f0a548f1808468f8e1051d9"><a href="https://apps.repebble.com/4f0a548f1808468f8e1051d9">Roto360 reimaged</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
+<h2 class="app-name" id="app-4f0a548f1808468f8e1051d9"><a href="https://apps.repebble.com/4f0a548f1808468f8e1051d9">Roto360 reimaged</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/chidmdxx/Pebble-Roto360ReImaged" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chidmdxx.html" title="More from this developer">chidmdxx</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-20</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-20</span> <span title="Latest release in the app store">Updated 2026-11-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Independent remake inspired by Roto360 by MicroByte, love the original, but the scaling on the Round 2 didn&#x27;t make it look good. Step ring is calculated on the 11π/6 arc</p>
 </div>

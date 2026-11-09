@@ -13,7 +13,7 @@ hide:
 
 # Aulos
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52f156fe537d30bdc90003a9/1) · [GitHub (Aulos)](https://github.com/Aulos)
 

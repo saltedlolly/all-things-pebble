@@ -13,7 +13,7 @@ hide:
 
 # Alo
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alo_dcec9c74374783c7b3eb6164) · [GitHub (asebrech)](https://github.com/asebrech)
 

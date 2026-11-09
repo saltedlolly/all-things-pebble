@@ -13,7 +13,7 @@ hide:
 
 # tylxr
 
-*3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tylxr_733c943276de33fbfd3f2f37) · [GitHub (tylxr59)](https://github.com/tylxr59)
 

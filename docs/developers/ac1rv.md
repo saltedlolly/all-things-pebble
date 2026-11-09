@@ -13,7 +13,7 @@ hide:
 
 # AC1RV
 
-*3 watchfaces and 4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 4 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ac1rv_6777264aa2b96c9dc917ffe3) · [GitHub (Darachnid)](https://github.com/Darachnid)
 

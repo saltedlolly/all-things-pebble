@@ -13,7 +13,7 @@ hide:
 
 # Stefan Parviainen
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/stefan-parviainen_56408a27500343c788000035) · [GitHub (pafcu)](https://github.com/pafcu)
 

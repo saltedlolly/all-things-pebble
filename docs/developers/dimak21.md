@@ -13,7 +13,7 @@ hide:
 
 # dimak21
 
-*3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dimak21_5197d01875c2244ade01662d) · [GitHub (DimaK21)](https://github.com/DimaK21)
 

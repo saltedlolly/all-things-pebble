@@ -13,7 +13,7 @@ hide:
 
 # Jimmy Timmons
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jimmy-timmons_f97aa2549a33d05d7825987f) · [GitHub (jimmytimmons)](https://github.com/jimmytimmons)
 

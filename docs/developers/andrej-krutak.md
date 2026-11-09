@@ -13,7 +13,7 @@ hide:
 
 # Andrej Krutak
 
-*3 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrej-krutak_5684488b55484b8a3a00003e) · [GitHub (andree182)](https://github.com/andree182)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrej-krutak_56844
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="asciinalog" data-released="2026-11-01" data-updated="2026-11-01">
+<div class="app-card" data-type="watchface" data-title="asciinalog" data-released="2026-11-01" data-updated="2026-11-04">
 <a class="app-shot" href="https://apps.repebble.com/a6730828c7424a5699c25d16" data-search-exclude><img src="../images/apps/a6730828c7424a5699c25d16.png" alt="ASCIInalog" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a6730828c7424a5699c25d16"><a href="https://apps.repebble.com/a6730828c7424a5699c25d16">ASCIInalog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<h2 class="app-name" id="app-a6730828c7424a5699c25d16"><a href="https://apps.repebble.com/a6730828c7424a5699c25d16">ASCIInalog</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/andree182/asciinalog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-01</span> <span title="Latest release in the app store">Updated 2026-11-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog watchface rendered entirely through multi-scale ASCII typography. Inspired by visual text-mode graphics, the watchface avoids conventional vector hand drawing. Instead, the analog hands…</p>
 </div>

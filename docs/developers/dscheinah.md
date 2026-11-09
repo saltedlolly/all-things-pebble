@@ -13,7 +13,7 @@ hide:
 
 # Dscheinah
 
-*3 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dscheinah_5bef203e74e2a60001cef482) · [GitHub (dscheinah)](https://github.com/dscheinah)
 

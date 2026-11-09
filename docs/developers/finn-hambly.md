@@ -13,7 +13,7 @@ hide:
 
 # Finn Hambly
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/finn-hambly_8761478684b31a0d6d251263) · [GitHub (finnhambly)](https://github.com/finnhambly) · [Website (antistatic.exchange)](https://antistatic.exchange)
 

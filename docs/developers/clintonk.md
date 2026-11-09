@@ -13,7 +13,7 @@ hide:
 
 # ClintonK
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clintonk_5430520ca2f62248d600017b) · [GitHub (clintka)](https://github.com/clintka) · [Website (forums.getpebble.com)](http://forums.getpebble.com/discussion/17838/watch-face-all-info-as-text)
 

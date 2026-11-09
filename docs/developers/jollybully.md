@@ -13,7 +13,7 @@ hide:
 
 # Jollybully
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jollybully_66920988cf9547a1091a76f9) · [GitHub (jollybully)](https://github.com/jollybully)
 

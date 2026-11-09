@@ -13,7 +13,7 @@ hide:
 
 # OmgSlayKween
 
-*1 watchface and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/omgslaykween_6a8876179a73d00009ee3f1a) · [GitHub (hornofabraxas)](https://github.com/hornofabraxas) · [Website (reddit.com)](https://www.reddit.com/u/omgslaykween)
 

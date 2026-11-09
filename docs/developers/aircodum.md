@@ -13,7 +13,7 @@ hide:
 
 # AirCodum
 
-*21 watchfaces and 4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*21 watchfaces and 4 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/aircodum_67bc77bf37d408000a74f7d3) · [GitHub (coredevices)](https://github.com/coredevices) · [GitHub (priyankark)](https://github.com/priyankark) · [Website (priyankar.me)](https://www.priyankar.me/)
 

@@ -13,7 +13,7 @@ hide:
 
 # Hongyu Chen
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hongyu-chen_53dd3af5f7d22224c8000028) · [GitHub (hongyuchen)](https://github.com/hongyuchen) · [Website (cs.dartmouth.edu)](http://www.cs.dartmouth.edu/~xan/Jab/)
 

@@ -13,7 +13,7 @@ hide:
 
 # Brian Douglass
 
-*2 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/brian-douglass_5385e6abf60aaf4d9f0000c9) · [GitHub (bhdouglass)](https://github.com/bhdouglass) · [Website (bhdouglass.com)](http://bhdouglass.com/pebble/simply-light.html)
 

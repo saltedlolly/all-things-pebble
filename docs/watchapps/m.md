@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · **M** · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*100 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*101 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -540,6 +540,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/2e69de9b59d54246aa379f36" data-search-exclude><img src="../images/apps/2e69de9b59d54246aa379f36.png" alt="Minecraft Compass" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-2e69de9b59d54246aa379f36"><a href="https://apps.repebble.com/2e69de9b59d54246aa379f36">Minecraft Compass</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/StefanBauwens/Compass" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/stefan-bauwens.html" title="More from this developer">Stefan Bauwens</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">A Minecraft style compass. - Real North compass function - Option to set up to 5 custom locations - Distance to custom locations - Imperial/Metric toggle - Custom dither library for getting more…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5e0ed9c95d3a413c971c2ac2" data-search-exclude><img src="../images/apps/5e0ed9c95d3a413c971c2ac2.png" alt="Minesweeper" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-5e0ed9c95d3a413c971c2ac2"><a href="https://apps.repebble.com/5e0ed9c95d3a413c971c2ac2">Minesweeper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
@@ -1057,14 +1068,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/5198a3a797fe41ee984ee795" data-search-exclude><img src="../images/apps/5198a3a797fe41ee984ee795.png" alt="MyBuddy Pet Sugar Glider (AKA MySuggie)" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/5198a3a797fe41ee984ee795" data-search-exclude><img src="../images/apps/5198a3a797fe41ee984ee795.png" alt="MyBuddy Sugar Glider (classic)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5198a3a797fe41ee984ee795"><a href="https://apps.repebble.com/5198a3a797fe41ee984ee795">MyBuddy Pet Sugar Glider (AKA MySuggie)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
+<h2 class="app-name" id="app-5198a3a797fe41ee984ee795"><a href="https://apps.repebble.com/5198a3a797fe41ee984ee795">MyBuddy Sugar Glider (classic)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5</span></h2>
 <a class="app-source" href="https://github.com/johosoft0/mybuddy_virtual_pet" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/joho-software.html" title="More from this developer">Joho Software</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
-<p class="app-desc">Have your very own Suggie living on your wrist! Cute simple virtual pet sugar glider ready to enjoy every day. Keep him fed and happy. More features planned for the future!</p>
+<p class="app-desc">Have your own cute little Suggie living on your wrist! Enjoy her every day. Keep her fed and happy. - Simple setup, no settings screen - Pick your suggie&#x27;s name when you first start - Day/night is…</p>
 </div>
 </div>
 <div class="app-card">

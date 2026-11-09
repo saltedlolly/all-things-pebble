@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · **T** · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*262 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*265 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -564,10 +564,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/81384d8fbe4347339fd4ee8e" data-search-exclude><img src="../images/apps/81384d8fbe4347339fd4ee8e.gif" alt="TetrisTimeBig" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-81384d8fbe4347339fd4ee8e"><a href="https://apps.repebble.com/81384d8fbe4347339fd4ee8e">TetrisTimeBig</a> <span class="app-version" title="Latest version" data-search-exclude>v3.9.1</span></h2>
+<h2 class="app-name" id="app-81384d8fbe4347339fd4ee8e"><a href="https://apps.repebble.com/81384d8fbe4347339fd4ee8e">TetrisTimeBig</a> <span class="app-version" title="Latest version" data-search-exclude>v3.9.2</span></h2>
 <a class="app-source" href="https://github.com/orzechowskilukasz/TetrisTimeBig" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lukasz-orzechowski.html" title="More from this developer">Lukasz Orzechowski</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-08-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-04-09</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A dot-matrix watch face, where dots are composed from falling tetris bricks. This is a port for Pebble Time 2 of a TetrisTime watchface originally created in 2015 by Valerii Lashmanov.</p>
 </div>
@@ -861,10 +861,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f6d36dafc1d740e0bc876f90" data-search-exclude><img src="../images/apps/f6d36dafc1d740e0bc876f90.png" alt="TH10me" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f6d36dafc1d740e0bc876f90"><a href="https://apps.repebble.com/f6d36dafc1d740e0bc876f90">TH10me</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-f6d36dafc1d740e0bc876f90"><a href="https://apps.repebble.com/f6d36dafc1d740e0bc876f90">TH10me</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://gitlab.com/larsfp/th10me" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lars-falk-petersen.html" title="More from this developer">Lars Falk-Petersen</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">agpl-3.0</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">agpl-3.0</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The original TH10c seems abandoned, so I recreated it. Features - Adjustable colors for dial/numerals, hour hand, minute hand, seconds dot, and date. - Optional solid hands: fill the hour and…</p>
 </div>
@@ -1365,6 +1365,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/132ede581a214a9a82e2ffc8" data-search-exclude><img src="../images/apps/132ede581a214a9a82e2ffc8.png" alt="Tide" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-132ede581a214a9a82e2ffc8"><a href="https://apps.repebble.com/132ede581a214a9a82e2ffc8">Tide</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Tide" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/kieselleger.html" title="More from this developer">Kieselleger</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Tide keeps the time quiet and graphic: one large hour number in the centre, the minutes as an arc that fills around the edge, and a small date below. The minute arc has a soft track and a bright…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54980fdd9fa273b3860000a3" data-search-exclude><img src="../images/apps/54980fdd9fa273b3860000a3.png" alt="Tides" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-54980fdd9fa273b3860000a3"><a href="https://apps.repebble.com/54980fdd9fa273b3860000a3">Tides</a> <span class="app-version" title="Latest version" data-search-exclude>v4.2</span></h2>
@@ -1384,6 +1395,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-04-26</span> <span title="Latest release in the app store">Updated 2025-04-26</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">a moderately useful watchface. displays the time in: - &quot;at which airport is it just past noon right now?&quot; o&#x27;clock (with an &quot;it&#x27;s 5pm somewhere&quot; option) - atproto tid - swatch internet time</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/0eadc6f30da04ae293b0cfb1" data-search-exclude><img src="../images/apps/0eadc6f30da04ae293b0cfb1.png" alt="Tiles" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-0eadc6f30da04ae293b0cfb1"><a href="https://apps.repebble.com/0eadc6f30da04ae293b0cfb1">Tiles</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Tiles" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/kieselleger.html" title="More from this developer">Kieselleger</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Tiles splits the screen into six rounded colour blocks. The time sits large in the white centre tile, the date in the top left, and the other four tiles show whatever you pick: temperature, heart…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1882,14 +1904,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/55a5c024f4510f794c000071" data-search-exclude><img src="../images/apps/55a5c024f4510f794c000071.png" alt="TimeStyle" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/55a5c024f4510f794c000071" data-search-exclude><img src="../images/apps/55a5c024f4510f794c000071.gif" alt="TimeStyle" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-55a5c024f4510f794c000071"><a href="https://apps.repebble.com/55a5c024f4510f794c000071">TimeStyle</a> <span class="app-version" title="Latest version" data-search-exclude>v7.11.2</span></h2>
+<h2 class="app-name" id="app-55a5c024f4510f794c000071"><a href="https://apps.repebble.com/55a5c024f4510f794c000071">TimeStyle</a> <span class="app-version" title="Latest version" data-search-exclude>v8.1.0</span></h2>
 <a class="app-source" href="https://github.com/freakified/TimeStylePebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/freakified.html" title="More from this developer">Freakified</a> · <a href="https://forum.rebble.io/t/906" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-15</span> <span title="Latest release in the app store">Updated 2026-06-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-07-15</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Digital. Readable. Completely customizable. *** New for 2026: Full support for Time 2 and Round 2! *** The Timeline handles the past and the future: let TimeStyle handle your present! • Time you…</p>
+<p class="app-desc">Digital, readable, and completely customizable. ***New for Fall 2026: Presenting TimeStyle 8.0, containing nearly a decade of accumulated feature requests! New widgets, new fonts, a redesigned…</p>
 </div>
 </div>
 <div class="app-card">
@@ -2286,6 +2308,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-04-23</span> <span title="Latest release in the app store">Updated 2014-04-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple watch face using the Transformers font. Needs a bit more work TBH, but someone requested it.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6b1e297baa0b49d993f715c6" data-search-exclude><img src="../images/apps/6b1e297baa0b49d993f715c6.png" alt="Transit" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6b1e297baa0b49d993f715c6"><a href="https://apps.repebble.com/6b1e297baa0b49d993f715c6">Transit</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Transit" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/kieselleger.html" title="More from this developer">Kieselleger</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Transit shows the time the way a station or airport display does: four big characters, each on its own coloured plate, two for the hours and two for the minutes. Every character is built from a…</p>
 </div>
 </div>
 <div class="app-card">

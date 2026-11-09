@@ -13,7 +13,7 @@ hide:
 
 # Zach Burnham
 
-*7 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*7 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zach-burnham_939ce698485e86de8b11f7ae) · [GitHub (thejambi)](https://github.com/thejambi) · [Website (burnsoftware.wordpress.com)](https://burnsoftware.wordpress.com/)
 

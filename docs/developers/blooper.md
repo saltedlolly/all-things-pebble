@@ -13,7 +13,7 @@ hide:
 
 # Blooper!
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/blooper_57647c273feaeea10e000008) · [GitHub (hdyar)](https://github.com/hdyar)
 

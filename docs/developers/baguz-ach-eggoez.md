@@ -13,7 +13,7 @@ hide:
 
 # Baguz Ach (eggoez)
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/baguz-ach-eggoez_55c7efb74f5c6b48d800005b) · [GitHub (eggoez)](https://github.com/eggoez) · [Website (goez.my.id)](http://goez.my.id)
 

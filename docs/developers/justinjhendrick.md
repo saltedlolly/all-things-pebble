@@ -13,7 +13,7 @@ hide:
 
 # justinjhendrick
 
-*13 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*13 watchfaces and 2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f68b8a23b7a90009c87db5) · [GitHub (justinjhendrick)](https://github.com/justinjhendrick)
 
@@ -26,13 +26,24 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="kingfisher" data-released="2026-10-03" data-updated="2026-10-29">
+<div class="app-card" data-type="watchface" data-title="molniya" data-released="2026-07-18" data-updated="2026-11-09">
+<a class="app-shot" href="https://apps.repebble.com/bf2f17288a0840a5a0308976" data-search-exclude><img src="../images/apps/bf2f17288a0840a5a0308976.gif" alt="Molniya" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
+<a class="app-source" href="https://github.com/justinjhendrick/molniya-pebble-watchface/" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">A minimalist watchface with both digital numbers and analog movement for the minutes. Very large fonts make it easy to read.</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="kingfisher" data-released="2026-10-03" data-updated="2026-11-07">
 <a class="app-shot" href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7" data-search-exclude><img src="../images/apps/7a9d24751b8a49319ec1f6e7.png" alt="Kingfisher" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/pebble-watchface-digilog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Kingfisher is a colorful digital watchface with the sun moving through the day, night, and twilight arcs. Features: * Great battery life * Uses phone location for sunrise/sunset with a fallback to…</p>
 </div>
@@ -101,17 +112,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-04-09</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A minimalist watchface with a digital hour number and an analog minute hand. Features: * Configurable color scheme * Great battery life (update once per minute) * Support 12h or 24h for hour…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="molniya" data-released="2026-07-18" data-updated="2026-07-24">
-<a class="app-shot" href="https://apps.repebble.com/bf2f17288a0840a5a0308976" data-search-exclude><img src="../images/apps/bf2f17288a0840a5a0308976.gif" alt="Molniya" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
-<a class="app-source" href="https://github.com/justinjhendrick/molniya-pebble-watchface/" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
-<p class="app-desc">A minimalist watchface with both digital numbers and analog movement for the minutes. Very large fonts make it easy to read.</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="varv" data-released="2025-12-08" data-updated="2026-07-05">

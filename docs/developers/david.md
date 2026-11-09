@@ -13,7 +13,7 @@ hide:
 
 # David
 
-*5 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*5 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david_53768e138c2698c4b300005f) · [GitHub (dmattia)](https://github.com/dmattia)
 

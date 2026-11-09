@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · **M** · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*193 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*194 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -635,7 +635,7 @@ hide:
 <div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Follow your day around a glowing sky ring. Meridian puts time, steps, heart rate, weather and UV around a porthole that fills as you walk. Tap or flick for your pace, goal estimate, heart range…</p>
+<p class="app-desc">Follow your day around a glowing sky ring. Meridian puts time, steps, heart rate, weather and UV around a porthole that fills as you walk. Give your wrist a firm shake to open the detail view for…</p>
 </div>
 </div>
 <div class="app-card">
@@ -778,7 +778,7 @@ hide:
 <div class="app-dev">by <a href="../developers/moaske.html" title="More from this developer">Moaske</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-07</span> <span title="Latest release in the app store">Updated 2026-10-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
-<p class="app-desc">Retro Windows Phone 8 watchface with the original Metro WP8 tiles design! 📱 NEW! Selectable Live Tiles! --- Supports Basalt (Time/Time Steel) and Emery (Time 2). Features: 🔶 Large clock and…</p>
+<p class="app-desc">Retro Windows Phone 8 watchface with the original Metro WP8 tiles design! 📱 4 Selectable Live Tiles! --- Supports Basalt (Time/Time Steel) and Emery (Time 2). Features: 🔶 Large clock and…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1257,10 +1257,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6a432c036b3a67000985d355" data-search-exclude><img src="../images/apps/6a432c036b3a67000985d355.png" alt="Minute Blocks" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a432c036b3a67000985d355"><a href="https://apps.repebble.com/6a432c036b3a67000985d355">Minute Blocks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
+<h2 class="app-name" id="app-6a432c036b3a67000985d355"><a href="https://apps.repebble.com/6a432c036b3a67000985d355">Minute Blocks</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/cmore-zz/pebble-minute-blocks" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cmore-consulting.html" title="More from this developer">cmore consulting</a> · <a href="https://forum.rebble.io/t/1106" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">TELL TIME IN BLOCKS: chunky pixel digits for the hour, ringed by twelve markers that fill in block by block as the minutes pass. Configurable corner complications show date, weather, battery…</p>
 </div>
@@ -1340,6 +1340,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-09-23</span> <span title="Latest release in the app store">Updated 2026-10-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A fan-made opensource watchface inspired by Star Citizen&#x27;s holographic mobiGlas interface, a space simulation game in development ;) Time (12h/24h), live weather (temperature, conditions, wind…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/52bb213af9846878c200015b" data-search-exclude><img src="../images/apps/52bb213af9846878c200015b.gif" alt="Modern" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-52bb213af9846878c200015b"><a href="https://apps.repebble.com/52bb213af9846878c200015b">Modern</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.5</span></h2>
+<a class="app-source" href="https://github.com/zalewszczak/pebble-modern-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/ukasz-zalewski.html" title="More from this developer">Łukasz Zalewski</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2</div>
+<p class="app-desc">!!! ROUND USERS: This is an alpha build preview, not a finalized round port of modern - even the design is experimental. I&#x27;ll be working through the bugs, UI and UX over next couple weeks. Thank…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1532,10 +1543,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/bf2f17288a0840a5a0308976" data-search-exclude><img src="../images/apps/bf2f17288a0840a5a0308976.gif" alt="Molniya" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/molniya-pebble-watchface/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-07-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">A minimalist watchface with both digital numbers and analog movement for the minutes. Very large fonts make it easy to read.</p>
 </div>
@@ -1565,12 +1576,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/ffa303a745844dac899c65b4" data-search-exclude><img src="../images/apps/ffa303a745844dac899c65b4.png" alt="Mondrian" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ffa303a745844dac899c65b4"><a href="https://apps.repebble.com/ffa303a745844dac899c65b4">Mondrian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-ffa303a745844dac899c65b4"><a href="https://apps.repebble.com/ffa303a745844dac899c65b4">Mondrian</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/LiamCordelle/pebble-mondrian" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">An abstract composition for Pebble Time 2. Bold time, heart rate, steps and weather inhabit red, blue, yellow and white planes that change with your day. Tap or flick for a week of steps, heart…</p>
+<p class="app-desc">An abstract composition for Pebble Time 2. Bold time, heart rate, steps and weather inhabit red, blue, yellow and white planes that change with your day. Give your wrist a firm shake to open the…</p>
 </div>
 </div>
 <div class="app-card">

@@ -13,7 +13,7 @@ hide:
 
 # Prient Technologies
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/prient-technologies_52fa60cea9b8fa62e70002c5) · [GitHub (Rocketeer007)](https://github.com/Rocketeer007)
 

@@ -13,7 +13,7 @@ hide:
 
 # Eli Yazdi
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eli-yazdi_56d246501f7ad6655000004e) · [GitHub (eliyazdi)](https://github.com/eliyazdi)
 

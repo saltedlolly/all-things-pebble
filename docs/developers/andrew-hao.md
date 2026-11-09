@@ -13,7 +13,7 @@ hide:
 
 # Andrew Hao
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-hao_5542f94e51d7a12b4b00001e) · [GitHub (andrewhao)](https://github.com/andrewhao)
 

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*34 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*34 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -300,10 +300,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6c34b655b63f4f8a918844a8" data-search-exclude><img src="../images/apps/6c34b655b63f4f8a918844a8.png" alt="Iron" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6c34b655b63f4f8a918844a8"><a href="https://apps.repebble.com/6c34b655b63f4f8a918844a8">Iron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.5</span></h2>
+<h2 class="app-name" id="app-6c34b655b63f4f8a918844a8"><a href="https://apps.repebble.com/6c34b655b63f4f8a918844a8">Iron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.6</span></h2>
 <a class="app-source" href="https://github.com/hag1987haaa/Iron-for-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/1987haaa.html" title="More from this developer">1987haaa</a> · <a href="https://forum.rebble.io/t/1113" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-23</span> <span title="Latest release in the app store">Updated 2026-10-19</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-23</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Iron - Workout Companion for Pebble Iron is a high-performance, open-source sports tracker for your Pebble smartwatch. Designed for runners and fitness enthusiasts, it tracks your real-time…</p>
 </div>

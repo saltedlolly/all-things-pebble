@@ -13,7 +13,7 @@ hide:
 
 # Christian Sandmann
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/christian-sandmann_9d2c878e46f2688f42910d40) · [GitHub (JamesFowler42)](https://github.com/JamesFowler42)
 

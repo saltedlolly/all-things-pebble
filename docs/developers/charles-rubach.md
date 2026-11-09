@@ -13,7 +13,7 @@ hide:
 
 # Charles Rubach
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/charles-rubach_52cb0a9d6e5f70711200001d) · [GitHub (charlesrubach)](https://github.com/charlesrubach) · [Website (youtu.be)](http://youtu.be/qQ5V3gGvmC4)
 

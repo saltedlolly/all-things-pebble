@@ -13,7 +13,7 @@ hide:
 
 # Timothy Soehnlin
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/timothy-soehnlin_567efb2aca3ddda5a10000c6) · [GitHub (timothysoehnlin)](https://github.com/timothysoehnlin)
 

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*35 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*36 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -56,14 +56,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/ed9c321605604b67b54d621a" data-search-exclude><img src="../images/apps/ed9c321605604b67b54d621a.png" alt="Kasane Teto Analog Baguette" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/ed9c321605604b67b54d621a" data-search-exclude><img src="../images/apps/ed9c321605604b67b54d621a.gif" alt="Kasane Teto Analog Baguette" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-ed9c321605604b67b54d621a"><a href="https://apps.repebble.com/ed9c321605604b67b54d621a">Kasane Teto Analog Baguette</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/chriseilander/TetoAnalogBaguette" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chris-eilander-nl.html" title="More from this developer">Chris Eilander.nl</a> · <a href="https://forum.rebble.io/t/1221" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-09</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
-<p class="app-desc">A Kasane Teto watchface featuring her favorite food as minute and hour hands. Perfect for round screens. This watchface might be a bit heavy on the RAM side.</p>
+<p class="app-desc">A Kasane Teto watchface featuring her favorite food as minute and hour hands. Perfect for round screens. This watchface might be a bit heavy on the RAM side. RePebble Store…</p>
 </div>
 </div>
 <div class="app-card">
@@ -180,20 +180,20 @@ hide:
 <a class="app-shot" href="https://apps.repebble.com/7f9c89453f7548e1ac494236" data-search-exclude><img src="../images/apps/7f9c89453f7548e1ac494236.png" alt="KinetiCast" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.1</span></h2>
-<a class="app-source" href="https://github.com/ericlmccormick/Pebble_Health_and_Weather" title="Source code" data-search-exclude>View source</a>
+<a class="app-source" href="https://github.com/ericlmccormick/Pebble-KinetiCast" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Current weather on top (high/low temp, current condition, current temp), date and time in the middle, health data(heart rate, steps, calories) on the bottom</p>
+<p class="app-desc">KinetiCast 2.2: The Ultimate Telemetry Dashboard A high-density, data-rich dashboard built specifically for high-resolution color Pebble displays. KinetiCast delivers a complete overview of your…</p>
 </div>
 </div>
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7" data-search-exclude><img src="../images/apps/7a9d24751b8a49319ec1f6e7.png" alt="Kingfisher" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-7a9d24751b8a49319ec1f6e7"><a href="https://apps.repebble.com/7a9d24751b8a49319ec1f6e7">Kingfisher</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/pebble-watchface-digilog" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-03</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Kingfisher is a colorful digital watchface with the sun moving through the day, night, and twilight arcs. Features: * Great battery life * Uses phone location for sunrise/sunset with a fallback to…</p>
 </div>
@@ -317,6 +317,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2014-07-01</span> <span title="Latest release in the app store">Updated 2014-07-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Koee watch is real!! Join us and save the planet with Koee!! www.allgreenup.com</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/41397a74a81f4c2dbe96634c" data-search-exclude><img src="../images/apps/41397a74a81f4c2dbe96634c.png" alt="Koi Pond Zenith" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-41397a74a81f4c2dbe96634c"><a href="https://apps.repebble.com/41397a74a81f4c2dbe96634c">Koi Pond Zenith</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Koi-Pond-Zenith" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Koi Pond Zenith is a calm top-down pond where two koi swim the rim like clock hands. White koi marks the hour. Orange koi marks the minute. An optional lily on the ring tracks the seconds.</p>
 </div>
 </div>
 <div class="app-card">

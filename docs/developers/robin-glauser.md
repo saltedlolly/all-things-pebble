@@ -13,7 +13,7 @@ hide:
 
 # Robin Glauser
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robin-glauser_54b7a5546466aa13fd000031) · [GitHub (nahakiole)](https://github.com/nahakiole) · [Website (robinglauser.ch)](https://www.robinglauser.ch/blog/2015/11/03/pebble-watchface-in-schwitzerdutsch/)
 

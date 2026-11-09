@@ -13,7 +13,7 @@ hide:
 
 # Hector Zarate
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/hector-zarate_529cf27d679472812e00000c) · [GitHub (iOSCowboy)](https://github.com/iOSCowboy) · [Website (ioscowboy.com)](http://ioscowboy.com)
 

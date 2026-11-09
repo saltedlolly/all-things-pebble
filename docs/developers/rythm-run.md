@@ -13,7 +13,7 @@ hide:
 
 # Rythm.Run
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rythm-run_1be61dccc9848d8be9f4a808) · [GitLab (rythm-run)](https://gitlab.com/rythm-run) · [GitLab (glejeune)](https://gitlab.com/glejeune) · [Website (rythm.run)](https://rythm.run)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rythm-run_1be61dccc
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="goals" data-released="2026-10-30" data-updated="2026-10-30">
+<div class="app-card" data-type="watchface" data-title="goals" data-released="2026-10-30" data-updated="2026-11-07">
 <a class="app-shot" href="https://apps.repebble.com/b65b9d3eb9874d8eb499770c" data-search-exclude><img src="../images/apps/b65b9d3eb9874d8eb499770c.png" alt="Goals" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b65b9d3eb9874d8eb499770c"><a href="https://apps.repebble.com/b65b9d3eb9874d8eb499770c">Goals</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<h2 class="app-name" id="app-b65b9d3eb9874d8eb499770c"><a href="https://apps.repebble.com/b65b9d3eb9874d8eb499770c">Goals</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.4</span></h2>
 <a class="app-source" href="https://gitlab.com/rythm-run/goals.pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">bsd-3-clause</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">bsd-3-clause</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Goals is a modern, clean, and highly readable activity watchface engineered specifically for new-generation Pebble smartwatches: Pebble Time 2 (200x228 rounded rectangle) and Pebble Round 2…</p>
 </div>

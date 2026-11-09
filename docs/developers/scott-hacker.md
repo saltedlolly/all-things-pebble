@@ -13,7 +13,7 @@ hide:
 
 # Scott Hacker
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/scott-hacker_d1afe4ba70cf58368a1f209d) · [GitHub (Shacker10)](https://github.com/Shacker10)
 

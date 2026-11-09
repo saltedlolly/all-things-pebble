@@ -13,7 +13,7 @@ hide:
 
 # MainFrame
 
-*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mainframe_586009500e3a492e70000082) · [Rebble App Store](https://apps.rebble.io/en_US/developer/586009500e3a492e70000082/1) · [GitHub (steel-wing)](https://github.com/steel-wing)
 

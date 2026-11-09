@@ -13,7 +13,7 @@ hide:
 
 # DanHca
 
-*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/danhca_530673457f35766a670004cb) · [GitHub (DanHca)](https://github.com/DanHca) · [GitHub (developerforce)](https://github.com/developerforce) · [Website (appexchange.salesforce.com)](https://appexchange.salesforce.com/listingDetail?listingId=a0N3000000B5eUdEAJ)
 

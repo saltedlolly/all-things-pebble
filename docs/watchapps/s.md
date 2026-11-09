@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · **S** · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*157 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*160 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -256,10 +256,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/fe6550c8c87c49cbbc9d8cba" data-search-exclude><img src="../images/apps/fe6550c8c87c49cbbc9d8cba.png" alt="Sentinel" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-fe6550c8c87c49cbbc9d8cba"><a href="https://apps.repebble.com/fe6550c8c87c49cbbc9d8cba">Sentinel</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<h2 class="app-name" id="app-fe6550c8c87c49cbbc9d8cba"><a href="https://apps.repebble.com/fe6550c8c87c49cbbc9d8cba">Sentinel</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.2</span></h2>
 <a class="app-source" href="https://github.com/AndreasThinks/pebble-sentinel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/andreas-varotsis.html" title="More from this developer">Andreas Varotsis</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Sentinel is an experimental, on-watch wellness monitor for Pebble Time 2. Enable background monitoring once, then keep using your normal watchface. Sentinel attempts short overnight heart-rate and…</p>
 </div>
@@ -595,6 +595,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/a81a67f4078d4579949260b0" data-search-exclude><img src="../images/apps/a81a67f4078d4579949260b0.gif" alt="Sit Stand Move" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a81a67f4078d4579949260b0"><a href="https://apps.repebble.com/a81a67f4078d4579949260b0">Sit Stand Move</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.5</span></h2>
+<a class="app-source" href="https://github.com/MarkusWessjohann/Pebble_Sit_Stand_Move" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/markus-wessjohann.html" title="More from this developer">Markus Wessjohann</a> · <a href="https://forum.rebble.io/t/1487" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-04</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Reminder to Sit 45 minutes, stand 10 minutes and move 5 minutes.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5596039d49b3c859510000cd" data-search-exclude><img src="../images/apps/5596039d49b3c859510000cd.png" alt="SiteStatus" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-5596039d49b3c859510000cd"><a href="https://apps.repebble.com/5596039d49b3c859510000cd">SiteStatus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
@@ -663,10 +674,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/01f5a438abbb40c0ad5d8cb5" data-search-exclude><img src="../images/apps/01f5a438abbb40c0ad5d8cb5.png" alt="SlapTimer" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-01f5a438abbb40c0ad5d8cb5"><a href="https://apps.repebble.com/01f5a438abbb40c0ad5d8cb5">SlapTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-01f5a438abbb40c0ad5d8cb5"><a href="https://apps.repebble.com/01f5a438abbb40c0ad5d8cb5">SlapTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.3</span></h2>
 <a class="app-source" href="https://github.com/WhenInWome/SlapTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cobalt-mainspring.html" title="More from this developer">Cobalt Mainspring</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Vibe coded timer app, set the time (5s intervals), tap the screen to count down, it vibrates, tap again to restart. Remembers timing between opens. I use it for timing rest between gym sets…</p>
 </div>
@@ -867,6 +878,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">All the StepManiaX stats you wanna see, right on your wrist! SMX Buddy pulls useful data, like your 3-digit QuickPIN, profile QR code, step statistics, and in-app follower/following count, and…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6a0452a1f4304a6ba798d7db" data-search-exclude><img src="../images/apps/6a0452a1f4304a6ba798d7db.png" alt="SNAK3" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6a0452a1f4304a6ba798d7db"><a href="https://apps.repebble.com/6a0452a1f4304a6ba798d7db">SNAK3</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.6</span></h2>
+<a class="app-source" href="https://github.com/Traumlewis/SNAK3" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/traumlewis.html" title="More from this developer">Traumlewis</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">🐍SNAK3 — Nokia-inspired Classic Snake. On your Pebble. Grab an apple, grow your snake and chase your next high score. SNAK3 brings the classic Snake experience to your wrist, with simple button…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1087,6 +1109,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2022-11-21</span> <span title="Latest release in the app store">Updated 2025-09-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A native sports app for Pebble-- get your favorite NFL, MLB, NHL, and NBA scores live on your wrist</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/52e04d79d8561de30700002e" data-search-exclude><img src="../images/apps/52e04d79d8561de30700002e.png" alt="Sports" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-52e04d79d8561de30700002e"><a href="https://apps.repebble.com/52e04d79d8561de30700002e">Sports</a> <span class="app-version" title="Latest version" data-search-exclude>v2.15.0</span></h2>
+<a class="app-source" href="https://github.com/coredevices/pebble-apps/tree/main/sports" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/pebble.html" title="More from this developer">Pebble</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-22</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">(re)Introducing the Pebble Sports app, now updated for Pebble Time 2 and Pebble Round 2! Featuring live scores from the sports you love, including MLB, College Football, Men&#x27;s College Basketball…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1445,7 +1478,7 @@ hide:
 <a class="app-shot" href="https://apps.repebble.com/55b6c2c3e68f5acdfc00008d" data-search-exclude><img src="../images/apps/55b6c2c3e68f5acdfc00008d.png" alt="Stopwatch" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-55b6c2c3e68f5acdfc00008d"><a href="https://apps.repebble.com/55b6c2c3e68f5acdfc00008d">Stopwatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
-<a class="app-source" href="https://github.com/coredevices/pebble-stopwatch" title="Source code" data-search-exclude>View source</a>
+<a class="app-source" href="https://github.com/coredevices/pebble-apps/tree/main/stopwatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pebble.html" title="More from this developer">Pebble</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-27</span> <span title="Latest release in the app store">Updated 2026-04-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>

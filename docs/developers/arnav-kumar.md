@@ -13,7 +13,7 @@ hide:
 
 # Arnav Kumar
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52c283e3560422048b00003b/1) · [GitHub (radzinzki)](https://github.com/radzinzki)
 

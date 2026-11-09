@@ -13,7 +13,7 @@ hide:
 
 # Nexworx
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52bf1b94f31c32267f000094/1) · [GitHub (DriesOeyen)](https://github.com/DriesOeyen) · [Website (nexworx.com)](https://nexworx.com)
 

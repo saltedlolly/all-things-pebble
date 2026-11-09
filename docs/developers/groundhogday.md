@@ -13,7 +13,7 @@ hide:
 
 # groundhogday
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/groundhogday_566a7b7691873f15f800000e) · [GitHub (skonagaya)](https://github.com/skonagaya)
 

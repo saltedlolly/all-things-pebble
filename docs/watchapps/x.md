@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · **X** · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*5 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -31,6 +31,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A Pebble quick-launch app that shows your xDrip+ CGM data — number, trend, delta and a 2-hour graph. It is not a watchface, so you can run any watchface and still get a glucose glance on demand…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/50ba0b86d22d4b558332d016" data-search-exclude><img src="../images/apps/50ba0b86d22d4b558332d016.png" alt="xDrip Treatment App" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-50ba0b86d22d4b558332d016"><a href="https://apps.repebble.com/50ba0b86d22d4b558332d016">xDrip Treatment App</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
+<a class="app-source" href="https://github.com/consp/xDrip-Pebble-Treatment-app" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/tristan.html" title="More from this developer">Tristan</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-25</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time</div>
+<p class="app-desc">This app uses the xDrip Pebble framework to send treatment data to the xDrip app. IMPORTANT NOTICE: A custom xDrip version is currently required, see…</p>
 </div>
 </div>
 <div class="app-card">

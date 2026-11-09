@@ -13,14 +13,30 @@ hide:
 
 # G-Cyrille
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/g-cyrille_923e7c387ccf5ef604ebe025) · [GitHub (G-Cyrille)](https://github.com/G-Cyrille)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/g-cyrille_923e7c387ccf5ef604ebe025) · [GitHub (G-Cyrille)](https://github.com/G-Cyrille) · [Website (g-cyrille.github.io)](https://g-cyrille.github.io/t3-pebble/)
 
 </div>
+</div>
+
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="t3 for pebble" data-released="2026-11-08" data-updated="2026-11-08">
+<a class="app-shot" href="https://apps.repebble.com/f09e2c791fbb4dd6a175e69b" data-search-exclude><img src="../images/apps/f09e2c791fbb4dd6a175e69b.png" alt="T3 for Pebble" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-f09e2c791fbb4dd6a175e69b"><a href="https://apps.repebble.com/f09e2c791fbb4dd6a175e69b">T3 for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/G-Cyrille/t3-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Read your T3 Code threads and reply from Pebble Time 2. Browse Ended, Working, Snoozed and Settled threads across your linked machines. Hold Up to change category. Titles use two lines and more…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="tick every" data-released="2026-08-07" data-updated="2026-08-13">
 <a class="app-shot" href="https://apps.repebble.com/f64d58f70cb8458390cd7749" data-search-exclude><img src="../images/apps/f64d58f70cb8458390cd7749.png" alt="Tick Every" loading="lazy"></a>
 <div class="app-info">

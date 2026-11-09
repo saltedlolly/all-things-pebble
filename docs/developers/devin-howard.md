@@ -13,7 +13,7 @@ hide:
 
 # Devin Howard
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/devin-howard_565e5e0fdf5955b59400008d) · [GitHub (devvmh)](https://github.com/devvmh)
 

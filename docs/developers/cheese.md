@@ -13,7 +13,7 @@ hide:
 
 # Cheese
 
-*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cheese_567c7a046646d2de810000d6) · [GitHub (cheesenoc)](https://github.com/cheesenoc)
 

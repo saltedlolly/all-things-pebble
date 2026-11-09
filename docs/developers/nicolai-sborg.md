@@ -13,7 +13,7 @@ hide:
 
 # Nicolai Søborg
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nicolai-s-borg_11569eaac4fc23c1cd73bb0f)
 

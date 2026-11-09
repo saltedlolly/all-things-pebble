@@ -13,7 +13,7 @@ hide:
 
 # Resonant Way
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/69c9e0c4e8fa2d00099b7e24/1) · [GitHub (swansky42)](https://github.com/swansky42) · [Website (resonantway.org)](https://www.resonantway.org/)
 

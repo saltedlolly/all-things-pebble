@@ -13,7 +13,7 @@ hide:
 
 # DEVELARPER
 
-*2 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/develarper_3e9db43ff8d760635172598e) · [GitHub (GuruGitHubTheG)](https://github.com/GuruGitHubTheG)
 

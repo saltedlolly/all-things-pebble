@@ -13,7 +13,7 @@ hide:
 
 # sybenx
 
-*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sybenx_d4c43f7b0132a46ff8340e8e) · [GitHub (sybenx)](https://github.com/sybenx)
 

@@ -13,7 +13,7 @@ hide:
 
 # Matthew Tole
 
-*2 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/matthew-tole_5283d2a9c0b0168bf6000001) · [GitHub (smallstoneapps)](https://github.com/smallstoneapps) · [Website (matthewtole.com)](http://matthewtole.com/pebble/hearts/)
 

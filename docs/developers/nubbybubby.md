@@ -13,7 +13,7 @@ hide:
 
 # nubbybubby
 
-*3 watchfaces and 4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 4 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nubbybubby_67a84b8e89529e00099b3a79) · [GitHub (nubbybubby)](https://github.com/nubbybubby)
 

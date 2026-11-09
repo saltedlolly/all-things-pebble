@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · **J** · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*28 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*28 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -102,10 +102,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/544f8cc6dc21b70fe9000056" data-search-exclude><img src="../images/apps/544f8cc6dc21b70fe9000056.gif" alt="jarl" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-544f8cc6dc21b70fe9000056"><a href="https://apps.repebble.com/544f8cc6dc21b70fe9000056">jarl</a> <span class="app-version" title="Latest version" data-search-exclude>v2.6</span></h2>
+<h2 class="app-name" id="app-544f8cc6dc21b70fe9000056"><a href="https://apps.repebble.com/544f8cc6dc21b70fe9000056">jarl</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0.0</span></h2>
 <a class="app-source" href="https://github.com/cipi1965/Jarl-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matteo-piccina.html" title="More from this developer">Matteo Piccina</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-10-28</span> <span title="Latest release in the app store">Updated 2026-04-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-10-28</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">jarl (the name of the watchface) is a tribute to spanish comedian Chiquito de la Calzada You can see the date, temperature and weather conditions shaking your wrist. This watchface doesn&#x27;t use any…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Jens Krämer
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jens-kr-mer_3cd2fd526e8995e972132d3b) · [GitHub (jkraemer)](https://github.com/jkraemer)
 

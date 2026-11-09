@@ -13,7 +13,7 @@ hide:
 
 # lehenry
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lehenry_54f7573d3aeaed913500008a) · [GitHub (lehenry)](https://github.com/lehenry)
 

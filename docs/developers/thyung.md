@@ -13,7 +13,7 @@ hide:
 
 # thyung
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/thyung_531bed0cc5f2c58d3f000a52) · [GitHub (thyung)](https://github.com/thyung)
 

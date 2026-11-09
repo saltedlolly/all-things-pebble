@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · **H** · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*116 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*120 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -146,10 +146,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/67cb1c5fb7a02301b9a6e415" data-search-exclude><img src="../images/apps/67cb1c5fb7a02301b9a6e415.png" alt="Halcyon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67cb1c5fb7a02301b9a6e415"><a href="https://apps.repebble.com/67cb1c5fb7a02301b9a6e415">Halcyon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.0</span></h2>
+<h2 class="app-name" id="app-67cb1c5fb7a02301b9a6e415"><a href="https://apps.repebble.com/67cb1c5fb7a02301b9a6e415">Halcyon</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5.3</span></h2>
 <a class="app-source" href="https://github.com/freakified/halcyon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/freakified.html" title="More from this developer">Freakified</a> · <a href="https://forum.rebble.io/t/750" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2025-03-07</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An analog-digital watchface featuring the solar day! Halcyon represents the 24 hours of the day as a ring around the edges of your watch, highlighting the sunrise, sunset, and the position of the…</p>
 </div>
@@ -311,10 +311,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6ab08b4fc3174945bc89d239" data-search-exclude><img src="../images/apps/6ab08b4fc3174945bc89d239.gif" alt="Happy Weather" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6ab08b4fc3174945bc89d239"><a href="https://apps.repebble.com/6ab08b4fc3174945bc89d239">Happy Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.47</span></h2>
+<h2 class="app-name" id="app-6ab08b4fc3174945bc89d239"><a href="https://apps.repebble.com/6ab08b4fc3174945bc89d239">Happy Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.53</span></h2>
 <a class="app-source" href="https://github.com/romanimm/happy1" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/cosmic-tinkerer.html" title="More from this developer">Cosmic Tinkerer 🚀</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-10-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-30</span> <span title="Latest release in the app store">Updated 2026-11-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A little sunshine. A little attitude. Happy Weather gives your Pebble Time 2 a face to match the forecast. Choose Happy for cheerful weather characters or Angry for scowling suns and grumpy…</p>
 </div>
@@ -410,10 +410,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5cb94375984146338231f3be" data-search-exclude><img src="../images/apps/5cb94375984146338231f3be.png" alt="Heartburn" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5cb94375984146338231f3be"><a href="https://apps.repebble.com/5cb94375984146338231f3be">Heartburn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<h2 class="app-name" id="app-5cb94375984146338231f3be"><a href="https://apps.repebble.com/5cb94375984146338231f3be">Heartburn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/vsergeev/pebble-watchface-heartburn" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vanya-sergeev.html" title="More from this developer">Vanya Sergeev</a> · <a href="https://forum.rebble.io/t/894" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-07-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <p class="app-desc">A Darkburn-esque watchface with a heart rate graph for the Pebble Time 2. Written in Zig using zig-pebble-sdk (https://github.com/vsergeev/zig-pebble-sdk). Features: * Weather conditions and…</p>
 </div>
 </div>
@@ -426,6 +426,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-12-13</span> <span title="Latest release in the app store">Updated 2015-12-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This watchface displays the time, date, and a neat battery meter of heart lives, like in a video game. It&#x27;s compatible with Basalt (Time and Time Steel) or Chalk (Time Round).</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6fded59c1f6041be8b87d7b7" data-search-exclude><img src="../images/apps/6fded59c1f6041be8b87d7b7.gif" alt="Hearth" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6fded59c1f6041be8b87d7b7"><a href="https://apps.repebble.com/6fded59c1f6041be8b87d7b7">Hearth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/graus/hearth-pebble-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/david-graus.html" title="More from this developer">David Graus</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">The time in four large digits, each one a window onto a live fire. Hearth is inspired by Fireplace and draws its flames with the classic PSX Doom fire, computed live on your watch. The Doom fire…</p>
 </div>
 </div>
 <div class="app-card">
@@ -748,6 +759,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/a845ae429a724c919a87e249" data-search-exclude><img src="../images/apps/a845ae429a724c919a87e249.png" alt="Hey! Listen!" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a845ae429a724c919a87e249"><a href="https://apps.repebble.com/a845ae429a724c919a87e249">Hey! Listen!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/boredcircuits/hey_listen" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/bored-circuits.html" title="More from this developer">Bored Circuits</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Now you, too, can have your very own fairy! The medallions mark your step progress through the day. Try to match your daily average to get all of them. Made and released in honor of the remake of…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/58a52d200dfc320dc6000330" data-search-exclude><img src="../images/apps/58a52d200dfc320dc6000330.png" alt="HfG-MaX" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-58a52d200dfc320dc6000330"><a href="https://apps.repebble.com/58a52d200dfc320dc6000330">HfG-MaX</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
@@ -871,10 +893,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/67c5f245b7a02300092ba0b2" data-search-exclude><img src="../images/apps/67c5f245b7a02300092ba0b2.png" alt="Hollywatch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-67c5f245b7a02300092ba0b2"><a href="https://apps.repebble.com/67c5f245b7a02300092ba0b2">Hollywatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-67c5f245b7a02300092ba0b2"><a href="https://apps.repebble.com/67c5f245b7a02300092ba0b2">Hollywatch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chris-lewis.html" title="More from this developer">Chris Lewis</a> · <a href="https://forum.rebble.io/t/940" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2026-05-02</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-03</span> <span title="Latest release in the app store">Updated 2026-11-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Alright dudes? Timeless Holly in wrist-watch format is realised using 21st Century technology - way ahead of the futuristic original! Port of the Fitbit watchface of the same name.</p>
 </div>
@@ -992,10 +1014,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/0256c72e7ee746eb900679e7" data-search-exclude><img src="../images/apps/0256c72e7ee746eb900679e7.png" alt="Horizons" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-0256c72e7ee746eb900679e7"><a href="https://apps.repebble.com/0256c72e7ee746eb900679e7">Horizons</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
+<h2 class="app-name" id="app-0256c72e7ee746eb900679e7"><a href="https://apps.repebble.com/0256c72e7ee746eb900679e7">Horizons</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
 <a class="app-source" href="https://pebble-site-ivory.vercel.app/index.html" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/timectrl.html" title="More from this developer">TimeCtrl</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-11-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">A living mountain landscape that moves with the sun. Horizons turns your watch into a small window onto a changing landscape. Eight sky phases blend through the day with colour bands driven by the…</p>
 </div>
@@ -1122,6 +1144,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/39b2300fa3cf479d976f6443" data-search-exclude><img src="../images/apps/39b2300fa3cf479d976f6443.png" alt="House on a Pebble" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-39b2300fa3cf479d976f6443"><a href="https://apps.repebble.com/39b2300fa3cf479d976f6443">House on a Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/HouseOnAPebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/kieselleger.html" title="More from this developer">Kieselleger</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-09</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Your watch now has a tenant. A little character in a bobble hat lives in a cross-section house above the time and follows a daily routine: a bath in the morning, cooking at mealtimes, tinkering…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/58f035360dfc32fe60001155" data-search-exclude><img src="../images/apps/58f035360dfc32fe60001155.png" alt="HP 50g" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-58f035360dfc32fe60001155"><a href="https://apps.rebble.io/en_US/application/58f035360dfc32fe60001155">HP 50g</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -1207,6 +1240,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-26</span> <span title="Latest release in the app store">Updated 2014-12-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This is a complete text format implementation in Hungarian.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/7fb566e007f04f6786f46581" data-search-exclude><img src="../images/apps/7fb566e007f04f6786f46581.png" alt="Hush" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7fb566e007f04f6786f46581"><a href="https://apps.repebble.com/7fb566e007f04f6786f46581">Hush</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/hush" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/techjeeper.html" title="More from this developer">TechJeeper</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Poster-style quiet watchface: big hours, a minute chip, and a mood word that shifts through the day. Colored pips only when calendar, weather, pace, or system thresholds matter. Flick for details…</p>
 </div>
 </div>
 <div class="app-card">

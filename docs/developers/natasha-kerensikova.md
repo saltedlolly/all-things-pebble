@@ -13,7 +13,7 @@ hide:
 
 # Natasha Kerensikova
 
-*1 watchface and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/natasha-kerensikova_55f99a40708b83306b00007f) · [GitHub (faelys)](https://github.com/faelys) · [Website (forums.getpebble.com)](https://forums.getpebble.com/discussion/30503/watchapp-battery)
 

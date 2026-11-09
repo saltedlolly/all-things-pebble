@@ -13,7 +13,7 @@ hide:
 
 # Dan Winker
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dan-winker_533190ca42aca092d0000075) · [GitHub (dwinker)](https://github.com/dwinker)
 

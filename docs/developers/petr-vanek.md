@@ -13,7 +13,7 @@ hide:
 
 # Petr Vanek
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/petr-vanek_5345c6167db5ebea6200030e) · [GitHub (vanous)](https://github.com/vanous) · [Website (plus.google.com)](https://plus.google.com/+PetrVanek)
 

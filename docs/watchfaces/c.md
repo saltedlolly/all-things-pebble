@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · **C** · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*221 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*223 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -113,12 +113,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/3a526a9d21df4b86b8e7be18" data-search-exclude><img src="../images/apps/3a526a9d21df4b86b8e7be18.png" alt="Calendar Face" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-3a526a9d21df4b86b8e7be18"><a href="https://apps.repebble.com/3a526a9d21df4b86b8e7be18">Calendar Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-3a526a9d21df4b86b8e7be18"><a href="https://apps.repebble.com/3a526a9d21df4b86b8e7be18">Calendar Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com-selbereth/selbereth/calendar-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/selbereth.html" title="More from this developer">selbereth</a></div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-10-14</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Your calendar, on your watch face. Calendar lists your next appointments, with their start times, right under the clock, as many as fit your screen. Events come from the calendars already synced…</p>
+<p class="app-desc">Your calendar, on your watch face. Calendar lists your next appointments, with their start times, right under the clock, as many as fit your screen (up to 11). Events come from the calendars…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1090,6 +1090,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/be0049c0d5bd40df86048909" data-search-exclude><img src="../images/apps/be0049c0d5bd40df86048909.gif" alt="Clawd Term" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-be0049c0d5bd40df86048909"><a href="https://apps.repebble.com/be0049c0d5bd40df86048909">Clawd Term</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/dysseus-pascal/clawd-term" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/dysseus.html" title="More from this developer">dysseus</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Meet Clawd - your new active wrist friend</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/30059ade40e44f408302f543" data-search-exclude><img src="../images/apps/30059ade40e44f408302f543.png" alt="Clean" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-30059ade40e44f408302f543"><a href="https://apps.repebble.com/30059ade40e44f408302f543">Clean</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7</span></h2>
@@ -1235,9 +1246,9 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/35dd38e09ea647c181dd1b35" data-search-exclude><img src="../images/apps/35dd38e09ea647c181dd1b35.png" alt="Clock Room" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-35dd38e09ea647c181dd1b35"><a href="https://apps.repebble.com/35dd38e09ea647c181dd1b35">Clock Room</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<h2 class="app-name" id="app-35dd38e09ea647c181dd1b35"><a href="https://apps.repebble.com/35dd38e09ea647c181dd1b35">Clock Room</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/prefixcombo/Clock-Room" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/prefixcombo.html" title="More from this developer">PrefixCombo</a></div>
+<div class="app-dev">by <a href="../developers/prefixcombo.html" title="More from this developer">prefixcombo</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">An analog watchface based on the clock room from Castlevania: Symphony of the Night.</p>
@@ -1439,6 +1450,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-04</span> <span title="Latest release in the app store">Updated 2026-05-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A code-inspired Pebble watchface displaying time, date, weather, battery, and step count. Designed for high-contrast readability with configurable 12/24-hour format and Celsius/Fahrenheit units…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/c900b6becb16414f84e788ed" data-search-exclude><img src="../images/apps/c900b6becb16414f84e788ed.gif" alt="codewatch" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c900b6becb16414f84e788ed"><a href="https://apps.repebble.com/c900b6becb16414f84e788ed">codewatch</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.0</span></h2>
+<a class="app-source" href="https://tangled.org/dogspeed.fyi/codewatch" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/dogspeed.html" title="More from this developer">dogspeed</a></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-11-05</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">codewatch puts your coding buddy on your wrist. A terminal-aesthetic watchface inspired by Claude Code, featuring a code creature that lives on your screen and comes alive with a flick of your…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1763,10 +1785,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/e564351ea95c4dee9d534ff5" data-search-exclude><img src="../images/apps/e564351ea95c4dee9d534ff5.png" alt="Complication Face (Plugin Demo)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-e564351ea95c4dee9d534ff5"><a href="https://apps.repebble.com/e564351ea95c4dee9d534ff5">Complication Face (Plugin Demo)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
-<a class="app-source" href="https://github.com/coredevices/pebble-plugins/tree/main/complication-face" title="Source code" data-search-exclude>View source</a>
+<h2 class="app-name" id="app-e564351ea95c4dee9d534ff5"><a href="https://apps.repebble.com/e564351ea95c4dee9d534ff5">Complication Face (Plugin Demo)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/coredevices/pebble-apps/tree/main/complication-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pebble.html" title="More from this developer">Pebble</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-27</span> <span title="Latest release in the app store">Updated 2026-10-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-27</span> <span title="Latest release in the app store">Updated 2026-11-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A demo watchface built on the Pebble plugin API: the time and date with two slots, a number and a picture, filled from the readings you prefer in the Pebble app (for example phone battery, weather…</p>
 </div>
@@ -2139,7 +2161,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-ebc3f63147e6481599da4b8e"><a href="https://apps.repebble.com/ebc3f63147e6481599da4b8e">CrimsonBear Cgm</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.19</span></h2>
 <a class="app-source" href="https://github.com/dabear/CrimsonBearPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/pocket-spring-winder.html" title="More from this developer">Pocket Spring-Winder</a></div>
+<div class="app-dev">by <a href="../developers/bjrn-inge-vikhammermo-berg.html" title="More from this developer">Bjørn Inge Vikhammermo Berg</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-08-24</span> <span title="Latest release in the app store">Updated 2026-09-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A bear-themed Nightscout CGM watchface for Pebble Time 2 and Pebble Round 2, with mg/dL and mmol/L support, configurable thresholds, trend data, battery status, and an optional full-screen glucose…</p>
@@ -2159,10 +2181,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/ffdc822b40d24c16b4247eb4" data-search-exclude><img src="../images/apps/ffdc822b40d24c16b4247eb4.png" alt="Crisp Weather" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ffdc822b40d24c16b4247eb4"><a href="https://apps.repebble.com/ffdc822b40d24c16b4247eb4">Crisp Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
+<h2 class="app-name" id="app-ffdc822b40d24c16b4247eb4"><a href="https://apps.repebble.com/ffdc822b40d24c16b4247eb4">Crisp Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.1</span></h2>
 <a class="app-source" href="https://github.com/nick1udwig/crisp-weather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/nick1udwig.html" title="More from this developer">nick1udwig</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Built starting from the excellent Crisp watchface - Hour ticks are temperature or weather type, if there&#x27;s a change (e.g. sunny -&gt; cloudy displays a cloud) - The end of the hour hand displays the…</p>
 </div>

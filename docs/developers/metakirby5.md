@@ -13,7 +13,7 @@ hide:
 
 # metakirby5
 
-*4 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*4 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/metakirby5_54821dc0f9821f8829000017) · [GitHub (metakirby5)](https://github.com/metakirby5)
 

@@ -13,7 +13,7 @@ hide:
 
 # JStevensogT1D
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jstevensogt1d_b25912f411ab52d8f6c04550) · [GitHub (jstevensog)](https://github.com/jstevensog)
 

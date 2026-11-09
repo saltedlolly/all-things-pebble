@@ -13,7 +13,7 @@ hide:
 
 # Kovaxlabs
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kovaxlabs_5454da5fe77c14f021000086) · [GitHub (AlexKovax)](https://github.com/AlexKovax) · [Website (kovaxlabs.com)](http://www.kovaxlabs.com)
 

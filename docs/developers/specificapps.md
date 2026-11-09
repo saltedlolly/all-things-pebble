@@ -13,7 +13,7 @@ hide:
 
 # SpecificApps
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/specificapps_52cc1f8ab138281492000161) · [GitHub (Med116)](https://github.com/Med116) · [Website (specificapps.com)](http://specificapps.com/app/31/)
 

@@ -13,7 +13,7 @@ hide:
 
 # Ryan Anderson
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ryan-anderson_52cb46dee2dd026853000093) · [GitHub (anderson-michael-ryan)](https://github.com/anderson-michael-ryan) · [Website (twitter.com)](https://twitter.com/anderson_m_ryan)
 

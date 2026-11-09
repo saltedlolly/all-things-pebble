@@ -13,7 +13,7 @@ hide:
 
 # Nathan Landis
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nathan-landis_549c3c51ad219e15a1000509) · [GitHub (eouw0o83hf)](https://github.com/eouw0o83hf)
 

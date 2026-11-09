@@ -13,7 +13,7 @@ hide:
 
 # Oliver Merkel
 
-*4 watchfaces and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/oliver-merkel_55592fc6b038d44f9e00003e) · [GitHub (OMerkel)](https://github.com/OMerkel)
 

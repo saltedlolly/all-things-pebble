@@ -13,7 +13,7 @@ hide:
 
 # SIDEffect&\#x27;s
 
-*3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sideffect-s_a26181dcbfab8c2033428ca1) · [GitHub (n0va-SIDEffects)](https://github.com/n0va-SIDEffects)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sideffect-s_a26181d
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>4</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="find my anything" data-released="2026-11-08" data-updated="2026-11-09">
+<a class="app-shot" href="https://apps.repebble.com/32882ea128a642bc942afaf5" data-search-exclude><img src="../images/apps/32882ea128a642bc942afaf5.png" alt="Find My Anything" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-32882ea128a642bc942afaf5"><a href="https://apps.repebble.com/32882ea128a642bc942afaf5">Find My Anything</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
+<a class="app-source" href="https://github.com/n0va-SIDEffects/pebble-findmyanything" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Find any Bluetooth device nearby by its signal strength: warmer, colder, found it. Lost your earbuds, the tracker on your keys or the TV remote? Find My Anything turns your Pebble into a Bluetooth…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="stamina" data-released="2026-09-19" data-updated="2026-09-19">
 <a class="app-shot" href="https://apps.repebble.com/9bf1158041d44e60a531f166" data-search-exclude><img src="../images/apps/9bf1158041d44e60a531f166.png" alt="Stamina" loading="lazy"></a>
 <div class="app-info">

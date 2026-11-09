@@ -13,7 +13,7 @@ hide:
 
 # krtonga
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/5448ff0897cb85037b000081/1) · [GitHub (krtonga)](https://github.com/krtonga)
 

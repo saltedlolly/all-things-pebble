@@ -13,7 +13,7 @@ hide:
 
 # Luis Miguel Sierra
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/luis-miguel-sierra_532ec3204e66a6500300012d) · [GitHub (lmsierra)](https://github.com/lmsierra)
 

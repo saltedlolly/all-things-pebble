@@ -13,7 +13,7 @@ hide:
 
 # Pebble Bike
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble-bike_528d06f11fdcc0ebd7000006) · [GitHub (pebble-bike)](https://github.com/pebble-bike) · [Website (pebblebike.com)](http://www.pebblebike.com/)
 

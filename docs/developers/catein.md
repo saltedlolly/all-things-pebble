@@ -13,7 +13,7 @@ hide:
 
 # CATEIN
 
-*3 watchfaces and 3 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/catein_5451ddc920d58674e460e802) · [GitHub (CATEIN)](https://github.com/CATEIN)
 

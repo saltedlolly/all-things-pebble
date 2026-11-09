@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · **D** · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*77 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*78 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -100,14 +100,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/73ad498d42134f1eb55b32f1" data-search-exclude><span class="app-noshot">No screenshot</span></a>
+<a class="app-shot" href="https://apps.repebble.com/73ad498d42134f1eb55b32f1" data-search-exclude><img src="../images/apps/73ad498d42134f1eb55b32f1.png" alt="Dashboard (Plugin Demo)" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-73ad498d42134f1eb55b32f1"><a href="https://apps.repebble.com/73ad498d42134f1eb55b32f1">Dashboard (Plugin Demo)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.6</span></h2>
-<a class="app-source" href="https://github.com/coredevices/pebble-plugins/tree/main/plugin-test" title="Source code" data-search-exclude>View source</a>
+<a class="app-source" href="https://github.com/coredevices/pebble-apps/tree/main/plugin-test" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pebble.html" title="More from this developer">Pebble</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Demo plugin: serves a demo/message source whose text is set from the config page.</p>
+<p class="app-desc">Dashboard demo app: show data from any plugin in 2 pages of 4 slots each. Configure which sources to use in the app&#x27;s settings page. Tapping also allows taking actions (e.g. turning on lights…</p>
 </div>
 </div>
 <div class="app-card">
@@ -476,12 +476,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5b595252b47f4f28ae51c39d" data-search-exclude><img src="../images/apps/5b595252b47f4f28ae51c39d.png" alt="Digimon Digivice" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
+<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
 <a class="app-source" href="https://github.com/vinay1017/Pebble-Digivice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vinayla.html" title="More from this developer">Vinayla</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-10-27</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
-<p class="app-desc">My take on a hybrid digivice + vital bracelet (VB) Digimon app! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how to digivolve to…</p>
+<p class="app-desc">My take on a hybrid digivice + vital bracelet (VB) Digimon app + something more! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how…</p>
 </div>
 </div>
 <div class="app-card">
@@ -724,6 +724,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-11</span> <span title="Latest release in the app store">Updated 2015-02-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Driver Timer keeps track of your HGV driving hours for UK truck/lorry drivers. It should also be compatible with other countries that adhere to the EU Driving Laws. As of version 1.1, the…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca" data-search-exclude><img src="../images/apps/b13dc8ec0cc54dfda73a6eca.png" alt="Driving Planner (Germany)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b13dc8ec0cc54dfda73a6eca"><a href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca">Driving Planner (Germany)</a> <span class="app-version" title="Latest version" data-search-exclude>v3.8.2</span></h2>
+<a class="app-source" href="https://github.com/Traumlewis/Driving-license-planner-for-Pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/traumlewis.html" title="More from this developer">Traumlewis</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Keep your driving lessons organized from your Pebble. Driving Planner brings practical lessons, theory appointments, reminders and training progress together on your wrist. Plan up to 24…</p>
 </div>
 </div>
 <div class="app-card">

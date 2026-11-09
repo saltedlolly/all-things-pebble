@@ -13,7 +13,7 @@ hide:
 
 # nick1udwig
 
-*1 watchface and 4 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface and 4 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick1udwig_d30aec49b29caa20180a2880) · [GitHub (nick1udwig)](https://github.com/nick1udwig)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick1udwig_d30aec49
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="crisp weather" data-released="2026-09-11" data-updated="2026-10-20">
+<div class="app-card" data-type="watchface" data-title="crisp weather" data-released="2026-09-11" data-updated="2026-11-06">
 <a class="app-shot" href="https://apps.repebble.com/ffdc822b40d24c16b4247eb4" data-search-exclude><img src="../images/apps/ffdc822b40d24c16b4247eb4.png" alt="Crisp Weather" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ffdc822b40d24c16b4247eb4"><a href="https://apps.repebble.com/ffdc822b40d24c16b4247eb4">Crisp Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
+<h2 class="app-name" id="app-ffdc822b40d24c16b4247eb4"><a href="https://apps.repebble.com/ffdc822b40d24c16b4247eb4">Crisp Weather</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.1</span></h2>
 <a class="app-source" href="https://github.com/nick1udwig/crisp-weather" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-11</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Built starting from the excellent Crisp watchface - Hour ticks are temperature or weather type, if there&#x27;s a change (e.g. sunny -&gt; cloudy displays a cloud) - The end of the hour hand displays the…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # smartDAYS
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/smartdays_52d9ae3cb82a9fd7d7000017) · [GitHub (itzkha)](https://github.com/itzkha) · [Website (dropbox.com)](https://www.dropbox.com/s/eudzspw3fy14xc8/protocol_consent.pdf?dl=0)
 

@@ -13,7 +13,7 @@ hide:
 
 # cscott
 
-*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cscott_53b76b01d773ce09420000e4) · [GitHub (cscott)](https://github.com/cscott)
 

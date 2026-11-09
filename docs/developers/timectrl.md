@@ -13,7 +13,7 @@ hide:
 
 # TimeCtrl
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/timectrl_cbfbe38addd006b1222c5679)
 
@@ -26,26 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/timectrl_cbfbe38add
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="horizons" data-released="2026-04-25" data-updated="2026-04-26">
-<a class="app-shot" href="https://apps.repebble.com/0256c72e7ee746eb900679e7" data-search-exclude><img src="../images/apps/0256c72e7ee746eb900679e7.png" alt="Horizons" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-0256c72e7ee746eb900679e7"><a href="https://apps.repebble.com/0256c72e7ee746eb900679e7">Horizons</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0</span></h2>
-<a class="app-source" href="https://pebble-site-ivory.vercel.app/index.html" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-04-26</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
-<p class="app-desc">A living mountain landscape that moves with the sun. Horizons turns your watch into a small window onto a changing landscape. Eight sky phases blend through the day with colour bands driven by the…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="pilot" data-released="2026-04-25" data-updated="2026-04-25">
+<div class="app-card" data-type="watchface" data-title="pilot" data-released="2026-04-25" data-updated="2026-11-06">
 <a class="app-shot" href="https://apps.repebble.com/ddd33ce12ca54656b9925559" data-search-exclude><img src="../images/apps/ddd33ce12ca54656b9925559.png" alt="Pilot" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ddd33ce12ca54656b9925559"><a href="https://apps.repebble.com/ddd33ce12ca54656b9925559">Pilot</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7</span></h2>
+<h2 class="app-name" id="app-ddd33ce12ca54656b9925559"><a href="https://apps.repebble.com/ddd33ce12ca54656b9925559">Pilot</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3</span></h2>
 <a class="app-source" href="https://pebble-site-ivory.vercel.app/index.html" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-04-25</span></div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">Pilot is a modern analog watchface designed for Pebble Round 2. It combines a framed date window, optional complications like battery, step information, temperature (C/F), and a restrained marker…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="horizons" data-released="2026-04-25" data-updated="2026-11-05">
+<a class="app-shot" href="https://apps.repebble.com/0256c72e7ee746eb900679e7" data-search-exclude><img src="../images/apps/0256c72e7ee746eb900679e7.png" alt="Horizons" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-0256c72e7ee746eb900679e7"><a href="https://apps.repebble.com/0256c72e7ee746eb900679e7">Horizons</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
+<a class="app-source" href="https://pebble-site-ivory.vercel.app/index.html" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-04-25</span> <span title="Latest release in the app store">Updated 2026-11-05</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
+<p class="app-desc">A living mountain landscape that moves with the sun. Horizons turns your watch into a small window onto a changing landscape. Eight sky phases blend through the day with colour bands driven by the…</p>
 </div>
 </div>
 </div>

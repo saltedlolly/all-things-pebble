@@ -13,7 +13,7 @@ hide:
 
 # Robert Ying
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/robert-ying_52feabb13085a05a4b0004ae) · [GitHub (rbtying)](https://github.com/rbtying) · [Website (getpebblin.com)](http://getpebblin.com)
 

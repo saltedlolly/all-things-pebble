@@ -13,7 +13,7 @@ hide:
 
 # Sapphire Mainspring
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sapphire-mainspring_ffbacd7465c00b9f11de7137) · [GitHub (JacobNussbaum)](https://github.com/JacobNussbaum)
 

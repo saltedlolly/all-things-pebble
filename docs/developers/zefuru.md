@@ -13,7 +13,7 @@ hide:
 
 # zefuru
 
-*3 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zefuru_6190e1008e31f0a6d6aba7af) · [GitHub (fumi6625)](https://github.com/fumi6625)
 

@@ -13,7 +13,7 @@ hide:
 
 # crazy2be
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/crazy2be_528ae32fe71739b5cc000014) · [GitHub (crazy2be)](https://github.com/crazy2be)
 

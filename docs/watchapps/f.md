@@ -8,9 +8,20 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · **F** · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*55 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*57 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/9e3c0aa8c35a40d3ac5bbed3" data-search-exclude><img src="../images/apps/9e3c0aa8c35a40d3ac5bbed3.png" alt="Fairway Finder" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-9e3c0aa8c35a40d3ac5bbed3"><a href="https://apps.repebble.com/9e3c0aa8c35a40d3ac5bbed3">Fairway Finder</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/j5uh/pebble-watch-golf" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/john-suh.html" title="More from this developer">john suh</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Golf GPS yardages on your wrist, for Pebble Round 2 and Pebble Time 2. - Front, middle and back of the green, plus a layup target that leaves your preferred distance. - Reach and carry yardages…</p>
+</div>
+</div>
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52b5584420fef47f82000011" data-search-exclude><img src="../images/apps/52b5584420fef47f82000011.png" alt="Falldown" loading="lazy"></a>
 <div class="app-info">
@@ -25,10 +36,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/d06e1a02933f4f05b959b41a" data-search-exclude><img src="../images/apps/d06e1a02933f4f05b959b41a.png" alt="Fantasy Football" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d06e1a02933f4f05b959b41a"><a href="https://apps.repebble.com/d06e1a02933f4f05b959b41a">Fantasy Football</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-d06e1a02933f4f05b959b41a"><a href="https://apps.repebble.com/d06e1a02933f4f05b959b41a">Fantasy Football</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
 <a class="app-source" href="https://github.com/michaellunzer/pebble-fantasy-football" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/hoyt-labs.html" title="More from this developer">Hoyt Labs</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Every Sleeper Fantasy Football League on your wrist: live scores, who&#x27;s left to play, and win odds from projections. 👀 Made for a quick check-in 🏆 Every league at once — most people are in…</p>
 </div>
@@ -144,6 +155,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/32882ea128a642bc942afaf5" data-search-exclude><img src="../images/apps/32882ea128a642bc942afaf5.png" alt="Find My Anything" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-32882ea128a642bc942afaf5"><a href="https://apps.repebble.com/32882ea128a642bc942afaf5">Find My Anything</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
+<a class="app-source" href="https://github.com/n0va-SIDEffects/pebble-findmyanything" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/sideffect-s.html" title="More from this developer">SIDEffect&#x27;s</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Find any Bluetooth device nearby by its signal strength: warmer, colder, found it. Lost your earbuds, the tracker on your keys or the TV remote? Find My Anything turns your Pebble into a Bluetooth…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/e043cc88768d49229f716000" data-search-exclude><img src="../images/apps/e043cc88768d49229f716000.png" alt="Find My Gadgetbridge (Find My Phone)" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-e043cc88768d49229f716000"><a href="https://apps.repebble.com/e043cc88768d49229f716000">Find My Gadgetbridge (Find My Phone)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -188,14 +210,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/4770d12a965e489eb6116b7b" data-search-exclude><span class="app-noshot">No screenshot</span></a>
+<a class="app-shot" href="https://apps.repebble.com/4770d12a965e489eb6116b7b" data-search-exclude><img src="../images/apps/4770d12a965e489eb6116b7b.png" alt="Find My Phone" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4770d12a965e489eb6116b7b"><a href="https://apps.repebble.com/4770d12a965e489eb6116b7b">Find My Phone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
-<a class="app-source" href="https://github.com/coredevices/pebble-plugins/tree/main/find-my-phone" title="Source code" data-search-exclude>View source</a>
+<h2 class="app-name" id="app-4770d12a965e489eb6116b7b"><a href="https://apps.repebble.com/4770d12a965e489eb6116b7b">Find My Phone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.1</span></h2>
+<a class="app-source" href="https://github.com/coredevices/pebble-apps/tree/main/find-my-phone" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/pebble.html" title="More from this developer">Pebble</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Lost your phone? Pick Find My Phone in your watch&#x27;s launcher and your phone rings for up to a minute, even on silent. The watch goes straight back to your watchface, and the launcher shows when it…</p>
+<p class="app-desc">Lost your phone? Pick Find My Phone in your watch&#x27;s launcher and hit select to start ringing your phone</p>
 </div>
 </div>
 <div class="app-card">

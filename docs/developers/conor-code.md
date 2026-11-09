@@ -13,7 +13,7 @@ hide:
 
 # conor.code
 
-*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/6948738999ff6900096081cd/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/conor-code_dbb81f26ddb9f47c715d60b9) · [GitHub (chorankates)](https://github.com/chorankates)
 

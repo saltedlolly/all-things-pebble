@@ -13,7 +13,7 @@ hide:
 
 # efbo
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/efbo_52f14ee1e21be4b82000025d) · [GitHub (efboli)](https://github.com/efboli)
 

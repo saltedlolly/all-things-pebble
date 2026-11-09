@@ -13,7 +13,7 @@ hide:
 
 # Ycleptic Studios
 
-*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ycleptic-studios_54426f7688962ca0020000b2) · [GitHub (YclepticStudios)](https://github.com/YclepticStudios) · [Website (bit.ly)](http://bit.ly/YS7MinutePlus)
 

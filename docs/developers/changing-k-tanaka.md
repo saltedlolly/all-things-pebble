@@ -13,7 +13,7 @@ hide:
 
 # changing-k-tanaka
 
-*3 watchfaces and 2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/changing-k-tanaka_69d06e418ce708000859e6f6) · [GitHub (changing-k-tanaka)](https://github.com/changing-k-tanaka)
 

@@ -13,7 +13,7 @@ hide:
 
 # Neil
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/neil_5613340e042ac2e922000052) · [GitHub (initialneil)](https://github.com/initialneil)
 

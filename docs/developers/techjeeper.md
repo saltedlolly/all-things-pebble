@@ -13,7 +13,7 @@ hide:
 
 # TechJeeper
 
-*10 watchfaces and 9 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*19 watchfaces and 10 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techjeeper_e91bf961199602727bb7cf3a) · [GitHub (TechJeeper)](https://github.com/TechJeeper)
 
@@ -21,11 +21,88 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techjeeper_e91bf961
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>19</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>10</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>9</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>29</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>19</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>10</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="wash" data-released="2026-11-07" data-updated="2026-11-07">
+<a class="app-shot" href="https://apps.repebble.com/cd06647b2444421b926d6707" data-search-exclude><img src="../images/apps/cd06647b2444421b926d6707.png" alt="Wash" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-cd06647b2444421b926d6707"><a href="https://apps.repebble.com/cd06647b2444421b926d6707">Wash</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/wash" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Wash turns your Pebble Time 2 or Round 2 into a tiny gallery piece: overlapping rounded color slabs fill the screen, and the time sits large and calm on top. No weather clutter. No dashboard…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="slant" data-released="2026-11-07" data-updated="2026-11-07">
+<a class="app-shot" href="https://apps.repebble.com/ad090c8bc7344a32b199801f" data-search-exclude><img src="../images/apps/ad090c8bc7344a32b199801f.png" alt="Slant" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ad090c8bc7344a32b199801f"><a href="https://apps.repebble.com/ad090c8bc7344a32b199801f">Slant</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/slant" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Time cut through louvers. Slant covers your wrist in horizontal architectural slats. A soft glow sits behind the material. Hours and minutes are punched through as cut light — readable at a…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="hush" data-released="2026-11-07" data-updated="2026-11-07">
+<a class="app-shot" href="https://apps.repebble.com/7fb566e007f04f6786f46581" data-search-exclude><img src="../images/apps/7fb566e007f04f6786f46581.png" alt="Hush" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7fb566e007f04f6786f46581"><a href="https://apps.repebble.com/7fb566e007f04f6786f46581">Hush</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/hush" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Poster-style quiet watchface: big hours, a minute chip, and a mood word that shifts through the day. Colored pips only when calendar, weather, pace, or system thresholds matter. Flick for details…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="rainy windowpane" data-released="2026-11-03" data-updated="2026-11-03">
+<a class="app-shot" href="https://apps.repebble.com/ae850236085a4378af55780b" data-search-exclude><img src="../images/apps/ae850236085a4378af55780b.png" alt="Rainy Windowpane" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ae850236085a4378af55780b"><a href="https://apps.repebble.com/ae850236085a4378af55780b">Rainy Windowpane</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Rainy-Windowpane" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Rainy Windowpane looks out on a storm through foggy glass. Pixel raindrops slide down the pane while the time is wiped into the condensation — bright for a moment, then slowly fading until the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="plinko" data-released="2026-11-03" data-updated="2026-11-03">
+<a class="app-shot" href="https://apps.repebble.com/c7982ebf49f546ad8444775d" data-search-exclude><img src="../images/apps/c7982ebf49f546ad8444775d.png" alt="Plinko" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c7982ebf49f546ad8444775d"><a href="https://apps.repebble.com/c7982ebf49f546ad8444775d">Plinko</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Plinko" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Aim, drop, bounce — classic Plinko on your wrist.</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="pixel constellations" data-released="2026-11-03" data-updated="2026-11-03">
+<a class="app-shot" href="https://apps.repebble.com/b450c9e844724c4aa47e7a40" data-search-exclude><img src="../images/apps/b450c9e844724c4aa47e7a40.png" alt="Pixel Constellations" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b450c9e844724c4aa47e7a40"><a href="https://apps.repebble.com/b450c9e844724c4aa47e7a40">Pixel Constellations</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Pixel-Constellations" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Pixel Constellations turns your wrist into a night sky. Stars slowly draw pixelated lines between each other, forming constellations that spell out the digital time. Each minute the sky redraws —…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="koi pond zenith" data-released="2026-11-03" data-updated="2026-11-03">
+<a class="app-shot" href="https://apps.repebble.com/41397a74a81f4c2dbe96634c" data-search-exclude><img src="../images/apps/41397a74a81f4c2dbe96634c.png" alt="Koi Pond Zenith" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-41397a74a81f4c2dbe96634c"><a href="https://apps.repebble.com/41397a74a81f4c2dbe96634c">Koi Pond Zenith</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Koi-Pond-Zenith" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Koi Pond Zenith is a calm top-down pond where two koi swim the rim like clock hands. White koi marks the hour. Orange koi marks the minute. An optional lily on the ring tracks the seconds.</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="steampunk owl face" data-released="2026-11-02" data-updated="2026-11-02">
 <a class="app-shot" href="https://apps.repebble.com/11e7347d2cd0465abbfbc920" data-search-exclude><img src="../images/apps/11e7347d2cd0465abbfbc920.png" alt="Steampunk Owl Face" loading="lazy"></a>
 <div class="app-info">
@@ -37,6 +114,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techjeeper_e91bf961
 <p class="app-desc">A clockwork owl for your wrist. Flick to blink — time stays engraved on its brass chest plate.</p>
 </div>
 </div>
+<div class="app-card" data-type="watchface" data-title="skyline silhouette" data-released="2026-11-02" data-updated="2026-11-02">
+<a class="app-shot" href="https://apps.repebble.com/46c871b9975a4cb0b9e5f878" data-search-exclude><img src="../images/apps/46c871b9975a4cb0b9e5f878.png" alt="Skyline Silhouette" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-46c871b9975a4cb0b9e5f878"><a href="https://apps.repebble.com/46c871b9975a4cb0b9e5f878">Skyline Silhouette</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Skyline-Silhouette" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">A new city every morning. Skyline Silhouette pieces together PixelLab building sprites into a unique skyline at midnight — then holds that city until tomorrow.</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="printpulse" data-released="2026-10-31" data-updated="2026-11-02">
 <a class="app-shot" href="https://apps.repebble.com/dd9782de6baa4642a55fd49a" data-search-exclude><img src="../images/apps/dd9782de6baa4642a55fd49a.png" alt="PrintPulse" loading="lazy"></a>
 <div class="app-info">
@@ -46,6 +134,28 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techjeeper_e91bf961
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-31</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Keep an eye on all your 3D printers from a Pebble Time 2. Add Klipper, Bambu Lab and Prusa printers from your phone, then see progress, time left, temperatures and layers at a glance, and get a…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="pixel terrarium" data-released="2026-11-02" data-updated="2026-11-02">
+<a class="app-shot" href="https://apps.repebble.com/c8dac62ce7d349ddbcde5ac3" data-search-exclude><img src="../images/apps/c8dac62ce7d349ddbcde5ac3.png" alt="Pixel Terrarium" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c8dac62ce7d349ddbcde5ac3"><a href="https://apps.repebble.com/c8dac62ce7d349ddbcde5ac3">Pixel Terrarium</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Pixel-Terrarium" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">A tiny glass jar with a plant sprite that needs your movement to stay watered. If you are sedentary for too long, the plant starts to droop.</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="old school runescape" data-released="2026-11-02" data-updated="2026-11-02">
+<a class="app-shot" href="https://apps.repebble.com/faf21c23ebfe4819acc544cb" data-search-exclude><img src="../images/apps/faf21c23ebfe4819acc544cb.png" alt="Old School RuneScape" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-faf21c23ebfe4819acc544cb"><a href="https://apps.repebble.com/faf21c23ebfe4819acc544cb">Old School RuneScape</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/OSRS-Watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-02</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Old School RuneScape Pebble watchface</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="neon cityscape" data-released="2026-11-02" data-updated="2026-11-02">

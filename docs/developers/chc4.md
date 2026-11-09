@@ -13,7 +13,7 @@ hide:
 
 # chc4
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chc4_17896860c21e789f1c14004b) · [GitHub (chc4)](https://github.com/chc4)
 

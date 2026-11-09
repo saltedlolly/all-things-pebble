@@ -13,7 +13,7 @@ hide:
 
 # David Macias
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-macias_6a0607510685d800098aa265) · [GitHub (david-macias)](https://github.com/david-macias) · [Website (linkedin.com)](https://linkedin.com/in/dmacias)
 

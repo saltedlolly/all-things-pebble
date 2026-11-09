@@ -13,21 +13,37 @@ hide:
 
 # Łukasz Zalewski
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ukasz-zalewski_5299dfb9129af7a225000093) · [GitHub (zalewszczak)](https://github.com/zalewszczak)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="eclipz" data-released="2026-09-25" data-updated="2026-10-20">
+<div class="app-card" data-type="watchface" data-title="modern" data-released="2013-12-25" data-updated="2026-11-09">
+<a class="app-shot" href="https://apps.repebble.com/52bb213af9846878c200015b" data-search-exclude><img src="../images/apps/52bb213af9846878c200015b.gif" alt="Modern" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-52bb213af9846878c200015b"><a href="https://apps.repebble.com/52bb213af9846878c200015b">Modern</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.5</span></h2>
+<a class="app-source" href="https://github.com/zalewszczak/pebble-modern-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2</div>
+<p class="app-desc">!!! ROUND USERS: This is an alpha build preview, not a finalized round port of modern - even the design is experimental. I&#x27;ll be working through the bugs, UI and UX over next couple weeks. Thank…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="eclipz" data-released="2026-09-25" data-updated="2026-11-06">
 <a class="app-shot" href="https://apps.repebble.com/2433a070bb7d46b9b7f84e7f" data-search-exclude><img src="../images/apps/2433a070bb7d46b9b7f84e7f.gif" alt="Eclipz" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2433a070bb7d46b9b7f84e7f"><a href="https://apps.repebble.com/2433a070bb7d46b9b7f84e7f">Eclipz</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<h2 class="app-name" id="app-2433a070bb7d46b9b7f84e7f"><a href="https://apps.repebble.com/2433a070bb7d46b9b7f84e7f">Eclipz</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.2</span></h2>
 <a class="app-source" href="https://github.com/zalewszczak/solar-eclipse-watch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-25</span> <span title="Latest release in the app store">Updated 2026-10-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-25</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">What is a a watch? We&#x27;ve used them for decades without asking this basic question, what exactly does it do? You would think it just tells the time, but in reality it tracks the movement of…</p>
 </div>

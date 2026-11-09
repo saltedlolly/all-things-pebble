@@ -13,7 +13,7 @@ hide:
 
 # discountdeadcats
 
-*1 watchface and 1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/discountdeadcats_49ab1dae0d8e9c27989a9260) · [GitHub (discountdeadcats)](https://github.com/discountdeadcats)
 

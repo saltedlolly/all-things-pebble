@@ -13,7 +13,7 @@ hide:
 
 # Dragid10
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dragid10_5482bdbd2d95f42c4b21f5f1) · [GitHub (dragid10)](https://github.com/dragid10) · [Website (alexo.dev)](https://alexo.dev/projects/)
 

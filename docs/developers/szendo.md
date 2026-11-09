@@ -13,7 +13,7 @@ hide:
 
 # szendo
 
-*3 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/szendo_5308904d8d051a758b000300) · [GitHub (szendo)](https://github.com/szendo)
 

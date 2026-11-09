@@ -13,7 +13,7 @@ hide:
 
 # Cobalt Mainspring
 
-*2 apps · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cobalt-mainspring_188295d081cb82fac15db0c4) · [GitHub (WhenInWome)](https://github.com/WhenInWome)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cobalt-mainspring_1
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="slaptimer" data-released="2026-10-30" data-updated="2026-10-30">
+<div class="app-card" data-type="watchapp" data-title="slaptimer" data-released="2026-10-30" data-updated="2026-11-09">
 <a class="app-shot" href="https://apps.repebble.com/01f5a438abbb40c0ad5d8cb5" data-search-exclude><img src="../images/apps/01f5a438abbb40c0ad5d8cb5.png" alt="SlapTimer" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-01f5a438abbb40c0ad5d8cb5"><a href="https://apps.repebble.com/01f5a438abbb40c0ad5d8cb5">SlapTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-01f5a438abbb40c0ad5d8cb5"><a href="https://apps.repebble.com/01f5a438abbb40c0ad5d8cb5">SlapTimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.3</span></h2>
 <a class="app-source" href="https://github.com/WhenInWome/SlapTimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-10-30</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Vibe coded timer app, set the time (5s intervals), tap the screen to count down, it vibrates, tap again to restart. Remembers timing between opens. I use it for timing rest between gym sets…</p>
 </div>

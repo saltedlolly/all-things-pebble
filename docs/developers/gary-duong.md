@@ -13,7 +13,7 @@ hide:
 
 # Gary Duong
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gary-duong_54a4ea4db0e0bd083f000022) · [GitHub (garyduong)](https://github.com/garyduong)
 

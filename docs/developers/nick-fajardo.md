@@ -13,7 +13,7 @@ hide:
 
 # Nick Fajardo
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-fajardo_529a3928129af73ae30000c5) · [GitHub (saintnicster)](https://github.com/saintnicster)
 

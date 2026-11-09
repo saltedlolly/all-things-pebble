@@ -13,7 +13,7 @@ hide:
 
 # Carleson
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/carleson_536f5d3ec4372a86d60000fd) · [GitHub (carleson)](https://github.com/carleson)
 

@@ -13,7 +13,7 @@ hide:
 
 # Tom Cassady
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-cassady_5629c2345dfacd9d3d5a11ac) · [GitHub (SoapyD)](https://github.com/SoapyD)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tom-cassady_5629c23
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="bpmonster" data-released="2026-10-30" data-updated="2026-11-01">
+<div class="app-card" data-type="watchapp" data-title="bpmonster" data-released="2026-10-30" data-updated="2026-11-08">
 <a class="app-shot" href="https://apps.repebble.com/6984ff43a8944f5c9a6857bc" data-search-exclude><img src="../images/apps/6984ff43a8944f5c9a6857bc.gif" alt="BPMonster" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6984ff43a8944f5c9a6857bc"><a href="https://apps.repebble.com/6984ff43a8944f5c9a6857bc">BPMonster</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
+<h2 class="app-name" id="app-6984ff43a8944f5c9a6857bc"><a href="https://apps.repebble.com/6984ff43a8944f5c9a6857bc">BPMonster</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5.0</span></h2>
 <a class="app-source" href="https://github.com/SoapyD/PebbleStress" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-30</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A monster that reacts to your heart rate. A little monster lives on your watch and reacts to your heart rate. Set two levels on your phone, and it tells you when your heart rate climbs past them…</p>
 </div>

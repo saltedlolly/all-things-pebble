@@ -13,7 +13,7 @@ hide:
 
 # Joseph Khawly
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/joseph-khawly_531e241ac89ab2d10900034c) · [GitHub (josephkhawly)](https://github.com/josephkhawly)
 

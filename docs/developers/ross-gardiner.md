@@ -13,7 +13,7 @@ hide:
 
 # Ross Gardiner
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ross-gardiner_c9373569fe7360f24a6b1a70) · [GitHub (rossng)](https://github.com/rossng) · [Website (rossng.eu)](http://www.rossng.eu/pebble-watchfaces/)
 

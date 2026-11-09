@@ -13,7 +13,7 @@ hide:
 
 # dijs
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dijs_5304f76ae3fb8e7bef0002bb) · [GitHub (dijs)](https://github.com/dijs) · [Website (richardvanderdys.com)](http://richardvanderdys.com/phoenix)
 

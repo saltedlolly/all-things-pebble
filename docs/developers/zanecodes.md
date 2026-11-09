@@ -13,7 +13,7 @@ hide:
 
 # zanecodes
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zanecodes_534865dd4ea7988a36000082) · [GitHub (zanecodes)](https://github.com/zanecodes)
 

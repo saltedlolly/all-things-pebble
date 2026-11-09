@@ -13,7 +13,7 @@ hide:
 
 # Kristof Verpoorten
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kristof-verpoorten_533698eea1d9d0e548000030) · [GitHub (kverpoorten)](https://github.com/kverpoorten)
 

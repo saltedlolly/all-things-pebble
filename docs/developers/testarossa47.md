@@ -13,7 +13,7 @@ hide:
 
 # testarossa47
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/testarossa47_6426420d77da5f9b46d1169a) · [GitHub (testarossa47)](https://github.com/testarossa47)
 

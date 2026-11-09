@@ -13,7 +13,7 @@ hide:
 
 # drod
 
-*1 watchface · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/drod_ddb35e676d571d48c7a45045) · [GitHub (drod0258)](https://github.com/drod0258)
 

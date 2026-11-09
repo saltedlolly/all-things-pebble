@@ -13,7 +13,7 @@ hide:
 
 # ibrokemy.computer
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ibrokemy-computer_5456d42334f53e473b000007) · [GitHub (ibrokemycomputer)](https://github.com/ibrokemycomputer)
 

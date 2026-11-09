@@ -13,7 +13,7 @@ hide:
 
 # LeAtJapan
 
-*1 app · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/leatjapan_a607d8b9d56aaf8e1f4abf00) · [GitHub (letrongnghiajp)](https://github.com/letrongnghiajp)
 

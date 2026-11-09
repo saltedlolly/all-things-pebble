@@ -13,7 +13,7 @@ hide:
 
 # Chang Sau Sheong
 
-*2 watchfaces · Last updated 2026-11-02 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chang-sau-sheong_52f0214f4ae363f5c9000618) · [GitHub (sausheong)](https://github.com/sausheong)
 
