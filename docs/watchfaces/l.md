@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · **L** · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*81 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*81 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -146,10 +146,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/69139dc57a004424b6109c20" data-search-exclude><img src="../images/apps/69139dc57a004424b6109c20.png" alt="LCARS Stardate" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.14.0</span></h2>
+<h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.15.1</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchface-lcars" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">LCARS Stardate is a Star Trek inspired LCARS digital watchface for the Pebble Time 2, with a live stardate under the clock. Pick four panels from 26 readouts, including weather, heart rate, steps…</p>
 </div>
@@ -894,10 +894,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/d47105a3c7c1489895b067ff" data-search-exclude><img src="../images/apps/d47105a3c7c1489895b067ff.png" alt="Luped CGM" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d47105a3c7c1489895b067ff"><a href="https://apps.repebble.com/d47105a3c7c1489895b067ff">Luped CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.26</span></h2>
+<h2 class="app-name" id="app-d47105a3c7c1489895b067ff"><a href="https://apps.repebble.com/d47105a3c7c1489895b067ff">Luped CGM</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.31</span></h2>
 <a class="app-source" href="https://github.com/dabear/CrimsonBearPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/bjrn-inge-vikhammermo-berg.html" title="More from this developer">Bjørn Inge Vikhammermo Berg</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-11-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A Loop-styled CGM watchface for Pebble Time 2 and Pebble Round 2. Requires a direct watch connection from a supported iPhone app such as Loop or Trio; the watchface has no Pebble app settings and…</p>
 </div>

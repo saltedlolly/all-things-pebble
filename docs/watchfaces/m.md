@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · **M** · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*194 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*195 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -324,7 +324,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-56afc52e3076f5d16e000050"><a href="https://apps.repebble.com/56afc52e3076f5d16e000050">Material Ribbon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3</span></h2>
 <a class="app-source" href="https://github.com/turnervink/materialribbon" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/turner-vink.html" title="More from this developer">Turner Vink</a></div>
+<div class="app-dev">by <a href="../developers/zephyr-vink.html" title="More from this developer">Zephyr Vink</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2016-02-01</span> <span title="Latest release in the app store">Updated 2016-03-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">If you enjoy Material Ribbon, give it a heart or consider making a donation through the settings page! Inspired by Material Design, Material Ribbon gives you all the information you need on two…</p>
@@ -746,6 +746,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-20</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A Metro tile grid for the Pebble Time 2. An analog clock with all twelve numerals fills the top left, and the remaining tiles carry the ISO date with week number, current weather with high and…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/da949a8dd6fd48f2b1eab5ee" data-search-exclude><img src="../images/apps/da949a8dd6fd48f2b1eab5ee.png" alt="Metro Calendar" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-da949a8dd6fd48f2b1eab5ee"><a href="https://apps.repebble.com/da949a8dd6fd48f2b1eab5ee">Metro Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/chidmdxx/Pebble-MetroWatch" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/chidmdxx.html" title="More from this developer">chidmdxx</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Tried to do something witht he calendar plugin that is inspired by Windows Phone Metro language, found 2 limitations, I suck at design, the screen on a watch is too small for Metro design tiles…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1345,12 +1356,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52bb213af9846878c200015b" data-search-exclude><img src="../images/apps/52bb213af9846878c200015b.gif" alt="Modern" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-52bb213af9846878c200015b"><a href="https://apps.repebble.com/52bb213af9846878c200015b">Modern</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.5</span></h2>
+<h2 class="app-name" id="app-52bb213af9846878c200015b"><a href="https://apps.repebble.com/52bb213af9846878c200015b">Modern</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.7</span></h2>
 <a class="app-source" href="https://github.com/zalewszczak/pebble-modern-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ukasz-zalewski.html" title="More from this developer">Łukasz Zalewski</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2</div>
-<p class="app-desc">!!! ROUND USERS: This is an alpha build preview, not a finalized round port of modern - even the design is experimental. I&#x27;ll be working through the bugs, UI and UX over next couple weeks. Thank…</p>
+<p class="app-desc">NEW: Round support! Modern is back, built for another decade of pebbles. Now with latest bells and whistles: - weather info - astronomy info (moon phase, planets, meteor showers, ISS, Aurora KP…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1543,12 +1554,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/bf2f17288a0840a5a0308976" data-search-exclude><img src="../images/apps/bf2f17288a0840a5a0308976.gif" alt="Molniya" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
+<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/molniya-pebble-watchface/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/justinjhendrick.html" title="More from this developer">justinjhendrick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
-<p class="app-desc">A minimalist watchface with both digital numbers and analog movement for the minutes. Very large fonts make it easy to read.</p>
+<p class="app-desc">A minimalist watchface with both digital numbers and analog movement for the minutes. Very large fonts make it easy to read. Configuration options: * Control color of each element &amp; background *…</p>
 </div>
 </div>
 <div class="app-card">
@@ -2049,10 +2060,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/dec28b0cc5b940b1ac69db7a" data-search-exclude><img src="../images/apps/dec28b0cc5b940b1ac69db7a.gif" alt="My Beloved" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-dec28b0cc5b940b1ac69db7a"><a href="https://apps.repebble.com/dec28b0cc5b940b1ac69db7a">My Beloved</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-dec28b0cc5b940b1ac69db7a"><a href="https://apps.repebble.com/dec28b0cc5b940b1ac69db7a">My Beloved</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/CATEIN/my-beloved-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/catein.html" title="More from this developer">CATEIN</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">The heart locket from the &quot;my beloved&quot; memes, on your wrist. Flick your wrist and the locket swings open, frame for frame like the original animation, to show your picture and your message inside…</p>
 </div>

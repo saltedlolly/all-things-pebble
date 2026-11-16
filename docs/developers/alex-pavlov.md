@@ -13,7 +13,7 @@ hide:
 
 # alex\_pavlov
 
-*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-pavlov_5db8b4eb79e5620001a7e1ce) · [GitHub (alex523ap)](https://github.com/alex523ap)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/alex-pavlov_5db8b4e
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false" disabled>Watchfaces <span>0</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="guitar tuner" data-released="2026-11-05" data-updated="2026-11-06">
+<a class="app-shot" href="https://apps.repebble.com/db2a9755caf04b72a3b3ec43" data-search-exclude><img src="../images/apps/db2a9755caf04b72a3b3ec43.gif" alt="Guitar Tuner" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-db2a9755caf04b72a3b3ec43"><a href="https://apps.repebble.com/db2a9755caf04b72a3b3ec43">Guitar Tuner</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/alex523ap/GuitarTuner.git" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/1495" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-05</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Simple tuner for guitar, bass and ukulele with auto and manual modes, plus a chromatic mode for any other instrument. You must give the app access to the watch microphone to use it. Long-press…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="calendar for pebble" data-released="2026-06-14" data-updated="2026-07-23">
 <a class="app-shot" href="https://apps.repebble.com/78408313eefa40f0bf30bc47" data-search-exclude><img src="../images/apps/78408313eefa40f0bf30bc47.png" alt="Calendar for Pebble" loading="lazy"></a>
 <div class="app-info">

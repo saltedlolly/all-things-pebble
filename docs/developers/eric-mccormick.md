@@ -13,7 +13,7 @@ hide:
 
 # Eric McCormick
 
-*1 watchface and 6 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface and 6 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-mccormick_7c70eafc41fc666a529a8f07) · [GitHub (ericlmccormick)](https://github.com/ericlmccormick) · [Website (ko-fi.com)](https://ko-fi.com/ericmccormick)
 
@@ -26,6 +26,39 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-mccormick_7c70
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="next up agenda" data-released="2026-11-06" data-updated="2026-11-10">
+<a class="app-shot" href="https://apps.repebble.com/da9ef484253f4ee780a808f6" data-search-exclude><img src="../images/apps/da9ef484253f4ee780a808f6.png" alt="Next Up Agenda" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-da9ef484253f4ee780a808f6"><a href="https://apps.repebble.com/da9ef484253f4ee780a808f6">Next Up Agenda</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/ericlmccormick/Next-Up-Agenda" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Your upcoming calendar events and daily weather, all in one place. Next Up Agenda brings your schedule and weather forecast together in a clean, easy-to-read interface designed for Pebble watches…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="kineticast" data-released="2026-05-05" data-updated="2026-11-10">
+<a class="app-shot" href="https://apps.repebble.com/7f9c89453f7548e1ac494236" data-search-exclude><img src="../images/apps/7f9c89453f7548e1ac494236.png" alt="KinetiCast" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.4</span></h2>
+<a class="app-source" href="https://github.com/ericlmccormick/Pebble-KinetiCast" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A smarter Pebble watchface that brings together your health, weather, and everyday information in one customizable display. KinetiCast is a feature-rich watchface designed for the Pebble Time 2…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="wisp -wrist intelligence &amp; speech portal" data-released="2026-05-22" data-updated="2026-11-09">
+<a class="app-shot" href="https://apps.repebble.com/cc4b971bf63c427d8870e526" data-search-exclude><img src="../images/apps/cc4b971bf63c427d8870e526.png" alt="WISP -Wrist Intelligence &amp; Speech Portal" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-cc4b971bf63c427d8870e526"><a href="https://apps.repebble.com/cc4b971bf63c427d8870e526">WISP -Wrist Intelligence &amp; Speech Portal</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<a class="app-source" href="https://github.com/ericlmccormick/Pebble-WISP" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Your AI assistant. Your voice. Your Pebble. WISP transforms your Pebble smartwatch into a voice-powered AI assistant, letting you interact with your favorite artificial intelligence services…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="timeline wx" data-released="2026-05-05" data-updated="2026-11-07">
 <a class="app-shot" href="https://apps.repebble.com/1149e6999c21493aa99532e7" data-search-exclude><img src="../images/apps/1149e6999c21493aa99532e7.png" alt="Timeline WX" loading="lazy"></a>
 <div class="app-info">
@@ -37,17 +70,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-mccormick_7c70
 <p class="app-desc">Your next 48 hours, visualized. Built specifically to push the limits of the Pebble Time 2&#x27;s high-resolution display. Whether you&#x27;re coordinating a Scout campout, dialing in your morning commute…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="next up agenda" data-released="2026-11-06" data-updated="2026-11-06">
-<a class="app-shot" href="https://apps.repebble.com/da9ef484253f4ee780a808f6" data-search-exclude><img src="../images/apps/da9ef484253f4ee780a808f6.png" alt="Next Up Agenda" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-da9ef484253f4ee780a808f6"><a href="https://apps.repebble.com/da9ef484253f4ee780a808f6">Next Up Agenda</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/ericlmccormick/Next-Up-Agenda" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Your upcoming calendar events and daily weather, all in one place. Next Up Agenda brings your schedule and weather forecast together in a clean, easy-to-read interface designed for Pebble watches…</p>
-</div>
-</div>
 <div class="app-card" data-type="watchapp" data-title="home assistant ai" data-released="2026-11-03" data-updated="2026-11-06">
 <a class="app-shot" href="https://apps.repebble.com/530052d2d2454cae8ca8db79" data-search-exclude><img src="../images/apps/530052d2d2454cae8ca8db79.png" alt="Home Assistant AI" loading="lazy"></a>
 <div class="app-info">
@@ -57,17 +79,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-mccormick_7c70
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">**Your smart home. Your voice. Your wrist.** Bring the power of Home Assistant directly to your Pebble smartwatch. Home Assistant AI lets you ask questions, check your smart home, and control…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="gemini voice &amp; text" data-released="2026-05-22" data-updated="2026-11-03">
-<a class="app-shot" href="https://apps.repebble.com/cc4b971bf63c427d8870e526" data-search-exclude><img src="../images/apps/cc4b971bf63c427d8870e526.png" alt="Gemini Voice &amp; Text" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-cc4b971bf63c427d8870e526"><a href="https://apps.repebble.com/cc4b971bf63c427d8870e526">Gemini Voice &amp; Text</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
-<a class="app-source" href="https://github.com/ericlmccormick/Pebble_Gemini" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">This app turns your Pebble Time 2 into a fully functional conversational assistant using Google&#x27;s Gemini with model and voice selection. If you enjoy what I am making don&#x27;t forget to heart the…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="7day ics calendar" data-released="2026-05-08" data-updated="2026-11-03">
@@ -90,17 +101,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eric-mccormick_7c70
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-17</span> <span title="Latest release in the app store">Updated 2026-11-02</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">VitalGauge — Your Body&#x27;s Dashboard for Pebble Time 2 VitalGauge is a fully autonomous, 100% offline health and recovery suite built specifically for the Pebble Time 2. Designed for privacy…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="kineticast" data-released="2026-05-05" data-updated="2026-07-31">
-<a class="app-shot" href="https://apps.repebble.com/7f9c89453f7548e1ac494236" data-search-exclude><img src="../images/apps/7f9c89453f7548e1ac494236.png" alt="KinetiCast" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.1</span></h2>
-<a class="app-source" href="https://github.com/ericlmccormick/Pebble-KinetiCast" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">KinetiCast 2.2: The Ultimate Telemetry Dashboard A high-density, data-rich dashboard built specifically for high-resolution color Pebble displays. KinetiCast delivers a complete overview of your…</p>
 </div>
 </div>
 </div>

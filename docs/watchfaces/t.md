@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · **T** · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*265 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*267 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -405,6 +405,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-12-01</span> <span title="Latest release in the app store">Updated 2015-12-01</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">This watchface displays the current time and date in the format that Ancient Romans would have used. All numbers are in Latin/Roman Numerals, the months and days are in Latin, and dates are…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/719f27f4b48048d080225d6b" data-search-exclude><img src="../images/apps/719f27f4b48048d080225d6b.png" alt="Ten Forty" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-719f27f4b48048d080225d6b"><a href="https://apps.repebble.com/719f27f4b48048d080225d6b">Ten Forty</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/damosullivan/ten-forty" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/damosullivan.html" title="More from this developer">damosullivan</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-13</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Time Round, Time</div>
+<p class="app-desc">The time, in three words. Nine. Forty. Two. Set in Iosevka, with the hour in bold and the minutes in light, stacked on a baseline grid that fills the display. No icons, no weather, no step…</p>
 </div>
 </div>
 <div class="app-card">
@@ -861,10 +872,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f6d36dafc1d740e0bc876f90" data-search-exclude><img src="../images/apps/f6d36dafc1d740e0bc876f90.png" alt="TH10me" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f6d36dafc1d740e0bc876f90"><a href="https://apps.repebble.com/f6d36dafc1d740e0bc876f90">TH10me</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<h2 class="app-name" id="app-f6d36dafc1d740e0bc876f90"><a href="https://apps.repebble.com/f6d36dafc1d740e0bc876f90">TH10me</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
 <a class="app-source" href="https://gitlab.com/larsfp/th10me" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/lars-falk-petersen.html" title="More from this developer">Lars Falk-Petersen</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">agpl-3.0</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">agpl-3.0</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The original TH10c seems abandoned, so I recreated it. Features - Adjustable colors for dial/numerals, hour hand, minute hand, seconds dot, and date. - Optional solid hands: fill the hour and…</p>
 </div>
@@ -2330,6 +2341,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2021-02-23</span> <span title="Latest release in the app store">Updated 2021-03-01</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Watchface stylized after UK road signs.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/9bd4a0c9073646db9300da49" data-search-exclude><img src="../images/apps/9bd4a0c9073646db9300da49.gif" alt="TransTime HR" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-9bd4a0c9073646db9300da49"><a href="https://apps.repebble.com/9bd4a0c9073646db9300da49">TransTime HR</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<a class="app-source" href="https://github.com/j4lc/tt-pbl" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/jae.html" title="More from this developer">JAE</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-11</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Fork of the TransTime watchface which removes the text at the bottom and replaces it with the latest heart rate metric. Not made for the round pebble.</p>
 </div>
 </div>
 <div class="app-card">

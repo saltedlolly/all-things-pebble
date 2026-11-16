@@ -13,7 +13,7 @@ hide:
 
 # CATEIN
 
-*3 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 3 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/catein_5451ddc920d58674e460e802) · [GitHub (CATEIN)](https://github.com/CATEIN)
 
@@ -26,26 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/catein_5451ddc920d5
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="portal turret" data-released="2026-10-14" data-updated="2026-11-01">
-<a class="app-shot" href="https://apps.repebble.com/3084c933852242fb847cffd7" data-search-exclude><img src="../images/apps/3084c933852242fb847cffd7.gif" alt="Portal Turret" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-3084c933852242fb847cffd7"><a href="https://apps.repebble.com/3084c933852242fb847cffd7">Portal Turret</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
-<a class="app-source" href="https://github.com/CATEIN/portal-turret-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
-<p class="app-desc">The turret from Portal, on your wrist. Its eye is the clock. We’ve stuck one of those adorable little murder machines on your arm. Its big red eye is the clock. Twenty-four angry wedges, just like…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="my beloved" data-released="2026-10-12" data-updated="2026-10-12">
+<div class="app-card" data-type="watchface" data-title="my beloved" data-released="2026-10-12" data-updated="2026-11-16">
 <a class="app-shot" href="https://apps.repebble.com/dec28b0cc5b940b1ac69db7a" data-search-exclude><img src="../images/apps/dec28b0cc5b940b1ac69db7a.gif" alt="My Beloved" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-dec28b0cc5b940b1ac69db7a"><a href="https://apps.repebble.com/dec28b0cc5b940b1ac69db7a">My Beloved</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-dec28b0cc5b940b1ac69db7a"><a href="https://apps.repebble.com/dec28b0cc5b940b1ac69db7a">My Beloved</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/CATEIN/my-beloved-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-12</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">The heart locket from the &quot;my beloved&quot; memes, on your wrist. Flick your wrist and the locket swings open, frame for frame like the original animation, to show your picture and your message inside…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="portal turret" data-released="2026-10-14" data-updated="2026-11-15">
+<a class="app-shot" href="https://apps.repebble.com/3084c933852242fb847cffd7" data-search-exclude><img src="../images/apps/3084c933852242fb847cffd7.gif" alt="Portal Turret" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-3084c933852242fb847cffd7"><a href="https://apps.repebble.com/3084c933852242fb847cffd7">Portal Turret</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<a class="app-source" href="https://github.com/CATEIN/portal-turret-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
+<p class="app-desc">The turret from Portal, on your wrist. Its eye is the clock. We’ve stuck one of those adorable little murder machines on your arm. Its big red eye is the clock. Twenty-four angry wedges, just like…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="lichess tv" data-released="2026-08-12" data-updated="2026-10-07">

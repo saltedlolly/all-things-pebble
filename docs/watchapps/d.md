@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · **D** · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*78 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*79 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -97,6 +97,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-05-22</span> <span title="Latest release in the app store">Updated 2016-05-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">my first c app. basically just shows you the weather and bitcoin value at a glance. this version is not really complete yet, so please keep that in mind while using the app. credit goes to…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/603d814e961c40308c98ce63" data-search-exclude><img src="../images/apps/603d814e961c40308c98ce63.png" alt="Dashboard" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-603d814e961c40308c98ce63"><a href="https://apps.repebble.com/603d814e961c40308c98ce63">Dashboard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<a class="app-source" href="https://github.com/xefensor/pebble-app-dashboard" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/xefensor.html" title="More from this developer">xefensor</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Your activity, notifications and pinned readings in one Pebble overview. Open Dashboard for a quick look at one activity, a notification panel and two pinned items. Browse the full collections…</p>
 </div>
 </div>
 <div class="app-card">
@@ -476,10 +487,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5b595252b47f4f28ae51c39d" data-search-exclude><img src="../images/apps/5b595252b47f4f28ae51c39d.png" alt="Digimon Digivice" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
+<h2 class="app-name" id="app-5b595252b47f4f28ae51c39d"><a href="https://apps.repebble.com/5b595252b47f4f28ae51c39d">Digimon Digivice</a> <span class="app-version" title="Latest version" data-search-exclude>v1.55</span></h2>
 <a class="app-source" href="https://github.com/vinay1017/Pebble-Digivice" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vinayla.html" title="More from this developer">Vinayla</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-21</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">My take on a hybrid digivice + vital bracelet (VB) Digimon app + something more! Follows the 25th anniversary BE DIM vital bracelet digivolution chart right now if you want to take a peek at how…</p>
 </div>
@@ -729,12 +740,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca" data-search-exclude><img src="../images/apps/b13dc8ec0cc54dfda73a6eca.png" alt="Driving Planner (Germany)" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b13dc8ec0cc54dfda73a6eca"><a href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca">Driving Planner (Germany)</a> <span class="app-version" title="Latest version" data-search-exclude>v3.8.2</span></h2>
+<h2 class="app-name" id="app-b13dc8ec0cc54dfda73a6eca"><a href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca">Driving Planner (Germany)</a> <span class="app-version" title="Latest version" data-search-exclude>v3.8.55</span></h2>
 <a class="app-source" href="https://github.com/Traumlewis/Driving-license-planner-for-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/traumlewis.html" title="More from this developer">Traumlewis</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Keep your driving lessons organized from your Pebble. Driving Planner brings practical lessons, theory appointments, reminders and training progress together on your wrist. Plan up to 24…</p>
+<p class="app-desc">Driving Planner – Your driving lessons at a glance Plan your theory and practical lessons, get timely reminders and track your training progress directly on your Pebble. Manage up to 24…</p>
 </div>
 </div>
 <div class="app-card">

@@ -13,7 +13,7 @@ hide:
 
 # DestCom - StroyCo
 
-*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/destcom-stroyco_2203050ae984342dfa2814f5) · [GitHub (DestroyCom)](https://github.com/DestroyCom)
 
@@ -21,14 +21,14 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/destcom-stroyco_220
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="stroycommute - paris metro, rer &amp; tram times" data-released="2026-10-16" data-updated="2026-10-16">
+<div class="app-card" data-type="watchapp" data-title="stroycommute - paris metro, rer &amp; tram times" data-released="2026-10-16" data-updated="2026-11-15">
 <a class="app-shot" href="https://apps.repebble.com/861a9def83ad417d89eee4cd" data-search-exclude><img src="../images/apps/861a9def83ad417d89eee4cd.png" alt="StroyCommute - Paris metro, RER &amp; tram times" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-861a9def83ad417d89eee4cd"><a href="https://apps.repebble.com/861a9def83ad417d89eee4cd">StroyCommute - Paris metro, RER &amp; tram times</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-861a9def83ad417d89eee4cd"><a href="https://apps.repebble.com/861a9def83ad417d89eee4cd">StroyCommute - Paris metro, RER &amp; tram times</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/DestroyCom/StroyCommute" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-16</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-16</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Real-time next departures for Paris / Île-de-France public transport, right on your wrist. • Metro, tram, RER and Transilien, with the official line colors. • Next departure plus the following…</p>
 </div>
 </div>

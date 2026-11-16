@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · **E** · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*61 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*63 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -152,6 +152,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2014-09-26</span> <span title="Latest release in the app store">Updated 2015-10-23</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Do you like astronomy or simply want an unusual watchface? Use Ecliptic - it displays positions of the Sun, the Moon, stars and five brightest planets of the solar system that are visible with the…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/11a6e6ef55cb4c8b8aa71676" data-search-exclude><img src="../images/apps/11a6e6ef55cb4c8b8aa71676.png" alt="Ecliptic 2" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-11a6e6ef55cb4c8b8aa71676"><a href="https://apps.repebble.com/11a6e6ef55cb4c8b8aa71676">Ecliptic 2</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/vapaavetehinen/ecliptic-2" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/vapaavetehinen.html" title="More from this developer">vapaavetehinen</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-11</span> <span title="Latest release in the app store">Updated 2026-11-13</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Ecliptic 2 shows where the Sun, the Moon and the five naked-eye planets are along the ecliptic right now. The Sun is always at the top of the circle. Planets to its left are visible in the evening…</p>
 </div>
 </div>
 <div class="app-card">
@@ -361,6 +372,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">This watchface helps you show your non-binary pride on your Pebble with a multi-color display. Features: - Non-binary flag - Show seconds on tap, switch back to hours and minutes only after 15…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/f75bd2d2b19443f8ae49553c" data-search-exclude><img src="../images/apps/f75bd2d2b19443f8ae49553c.png" alt="Energy Meter" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-f75bd2d2b19443f8ae49553c"><a href="https://apps.repebble.com/f75bd2d2b19443f8ae49553c">Energy Meter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/kryptocodes/pebble-energy-meter" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/srivatsan-balaji.html" title="More from this developer">Srivatsan Balaji</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-12</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">A watchface modelled on the electricity meter at home. Six register drums read HH MM SS, the meter disc spins faster as you move, and the CAL LED blinks every second. The nameplate shows weather…</p>
 </div>
 </div>
 <div class="app-card">

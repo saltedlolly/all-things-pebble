@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · **W** · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*90 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*90 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -69,10 +69,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6a3d4248cd52370009862b05" data-search-exclude><img src="../images/apps/6a3d4248cd52370009862b05.gif" alt="Wall Flip" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6a3d4248cd52370009862b05"><a href="https://apps.repebble.com/6a3d4248cd52370009862b05">Wall Flip</a> <span class="app-version" title="Latest version" data-search-exclude>v3.5.0</span></h2>
+<h2 class="app-name" id="app-6a3d4248cd52370009862b05"><a href="https://apps.repebble.com/6a3d4248cd52370009862b05">Wall Flip</a> <span class="app-version" title="Latest version" data-search-exclude>v3.6.0</span></h2>
 <a class="app-source" href="https://github.com/eduardochiaro/flipwall-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/ec-apps.html" title="More from this developer">EC Apps</a> · <a href="https://forum.rebble.io/t/1086" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-25</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A digital watchface based on flip clock design. Configure via the settings page. General Layout: 5 or 6 blocks. Language — translates month and weekday names. 10 Latin-script languages: English…</p>
 </div>
@@ -806,10 +806,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b77f1449d5a84104a86fba6d" data-search-exclude><img src="../images/apps/b77f1449d5a84104a86fba6d.gif" alt="Word Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b77f1449d5a84104a86fba6d"><a href="https://apps.repebble.com/b77f1449d5a84104a86fba6d">Word Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.11</span></h2>
+<h2 class="app-name" id="app-b77f1449d5a84104a86fba6d"><a href="https://apps.repebble.com/b77f1449d5a84104a86fba6d">Word Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.12</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-qlocktwo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/davide-dell-erba.html" title="More from this developer">Davide Dell&#x27;Erba</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Instead of showing digits, it displays the time in words by illuminating words within a grid of letters. It’s a modern and stylish clock. Personalise your watchface directly from the settings: …</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Null Syntax
 
-*9 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*9 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/null-syntax_089fa8f469578884846bff5a) · [GitHub (AKlitbo)](https://github.com/AKlitbo) · [Website (andrewklitbo.com)](https://andrewklitbo.com/pebble)
 
@@ -26,48 +26,59 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/null-syntax_089fa8f
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="sidereel" data-released="2026-08-10" data-updated="2026-11-06">
-<a class="app-shot" href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68" data-search-exclude><img src="../images/apps/f7ab7761bf5e47b98c717f68.gif" alt="Sidereel" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-f7ab7761bf5e47b98c717f68"><a href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68">Sidereel</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
-<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Sidereel is a customizable modular watchface for the Pebble Time 2, with a scrolling minute reel and hour pointer beside a dashboard of heart rate, steps, sleep, weather, Quiet Time, Bluetooth…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="gridlock" data-released="2026-06-28" data-updated="2026-11-06">
-<a class="app-shot" href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f" data-search-exclude><img src="../images/apps/cf60ff6cf2fa45868e4e8a6f.gif" alt="Gridlock" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
-<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Gridlock is a customizable modular dashboard watchface for the Pebble Time 2, with calendar, weather, stocks, heart rate, heart rate variability (HRV), steps, sleep, Quiet Time, Bluetooth…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="sketchbook horizon" data-released="2026-10-17" data-updated="2026-10-17">
+<div class="app-card" data-type="watchface" data-title="sketchbook horizon" data-released="2026-10-17" data-updated="2026-11-15">
 <a class="app-shot" href="https://apps.repebble.com/36830cf6f39645b9a91d5e12" data-search-exclude><img src="../images/apps/36830cf6f39645b9a91d5e12.gif" alt="Sketchbook Horizon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-36830cf6f39645b9a91d5e12"><a href="https://apps.repebble.com/36830cf6f39645b9a91d5e12">Sketchbook Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
+<h2 class="app-name" id="app-36830cf6f39645b9a91d5e12"><a href="https://apps.repebble.com/36830cf6f39645b9a91d5e12">Sketchbook Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/sketchbook-horizon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Sketchbook Horizon is a hand-drawn style watchface for the Pebble Time 2 and Pebble Round 2. It carries four scenes in one face, a mountain ridge, a shoreline, a city bridge, and a forest…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchface" data-title="lcars stardate" data-released="2026-06-15" data-updated="2026-10-16">
+<div class="app-card" data-type="watchface" data-title="sidereel" data-released="2026-08-10" data-updated="2026-11-15">
+<a class="app-shot" href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68" data-search-exclude><img src="../images/apps/f7ab7761bf5e47b98c717f68.gif" alt="Sidereel" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-f7ab7761bf5e47b98c717f68"><a href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68">Sidereel</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
+<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/mosaic/sidereel" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Sidereel is a customizable modular watchface for the Pebble Time 2, with a scrolling minute reel and hour pointer beside a dashboard of heart rate, steps, sleep, weather, phone battery, Quiet…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="runtime" data-released="2026-06-26" data-updated="2026-11-15">
+<a class="app-shot" href="https://apps.repebble.com/620f8b6abe64458caa59fdef" data-search-exclude><img src="../images/apps/620f8b6abe64458caa59fdef.gif" alt="Runtime" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-620f8b6abe64458caa59fdef"><a href="https://apps.repebble.com/620f8b6abe64458caa59fdef">Runtime</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/runtime" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Runtime is a retro computing watchface for the Pebble Time 2 that puts the time on six old and new desktops, from a VS Code editor to a DOS prompt. Pick one in settings and the whole face redraws…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="lcars stardate" data-released="2026-06-15" data-updated="2026-11-15">
 <a class="app-shot" href="https://apps.repebble.com/69139dc57a004424b6109c20" data-search-exclude><img src="../images/apps/69139dc57a004424b6109c20.png" alt="LCARS Stardate" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.14.0</span></h2>
+<h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.15.1</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchface-lcars" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">LCARS Stardate is a Star Trek inspired LCARS digital watchface for the Pebble Time 2, with a live stardate under the clock. Pick four panels from 26 readouts, including weather, heart rate, steps…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="gridlock" data-released="2026-06-28" data-updated="2026-11-15">
+<a class="app-shot" href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f" data-search-exclude><img src="../images/apps/cf60ff6cf2fa45868e4e8a6f.gif" alt="Gridlock" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.1</span></h2>
+<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/mosaic/gridlock" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Gridlock is a customizable modular dashboard watchface for the Pebble Time 2, with calendar, weather, stocks, now playing, phone battery, heart rate, heart rate variability (HRV), steps, sleep…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="treeline" data-released="2026-07-31" data-updated="2026-10-12">
@@ -112,17 +123,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/null-syntax_089fa8f
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-22</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Radar Array is a tactical radar-inspired digital watchface for the Pebble Time 2. It shows weather, live GPS coordinates, heart rate, steps, and Bluetooth status, with the hourly vibration…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="ide vscode" data-released="2026-06-26" data-updated="2026-10-12">
-<a class="app-shot" href="https://apps.repebble.com/620f8b6abe64458caa59fdef" data-search-exclude><img src="../images/apps/620f8b6abe64458caa59fdef.png" alt="IDE VSCode" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-620f8b6abe64458caa59fdef"><a href="https://apps.repebble.com/620f8b6abe64458caa59fdef">IDE VSCode</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.3</span></h2>
-<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">IDE VSCode is a Visual Studio Code-inspired digital watchface for the Pebble Time 2, laid out like a code editor. It shows weather, heart rate, steps, battery, and Bluetooth status, with the…</p>
 </div>
 </div>
 </div>

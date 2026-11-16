@@ -13,7 +13,7 @@ hide:
 
 # Pebble
 
-*20 watchfaces and 7 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*20 watchfaces and 7 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8d590d3000029) · [GitHub (pebble)](https://github.com/pebble) · [GitHub (coredevices)](https://github.com/coredevices) · [GitHub (pebble-hacks)](https://github.com/pebble-hacks) · [GitHub (pebble-examples)](https://github.com/pebble-examples) · [Website (getpebble.com)](https://getpebble.com)
 

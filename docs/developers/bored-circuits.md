@@ -13,7 +13,7 @@ hide:
 
 # Bored Circuits
 
-*2 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bored-circuits_8308cdcf0a562e5b408085dc) · [GitHub (boredcircuits)](https://github.com/boredcircuits)
 

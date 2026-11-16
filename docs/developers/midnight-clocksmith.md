@@ -13,7 +13,7 @@ hide:
 
 # Midnight Clocksmith
 
-*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/midnight-clocksmith_db7063815e3392824cc53a3e) · [GitHub (the-static)](https://github.com/the-static)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/midnight-clocksmith
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="forecaswatcompanion" data-released="2026-05-27" data-updated="2026-09-24">
+<div class="app-card" data-type="watchapp" data-title="forecaswatcompanion" data-released="2026-05-27" data-updated="2026-11-09">
 <a class="app-shot" href="https://apps.repebble.com/bf411784b2584f118a4035d0" data-search-exclude><img src="../images/apps/bf411784b2584f118a4035d0.png" alt="ForeCasWatCompanion" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-bf411784b2584f118a4035d0"><a href="https://apps.repebble.com/bf411784b2584f118a4035d0">ForeCasWatCompanion</a> <span class="app-version" title="Latest version" data-search-exclude>v1.34.6</span></h2>
+<h2 class="app-name" id="app-bf411784b2584f118a4035d0"><a href="https://apps.repebble.com/bf411784b2584f118a4035d0">ForeCasWatCompanion</a> <span class="app-version" title="Latest version" data-search-exclude>v1.34.8</span></h2>
 <a class="app-source" href="https://github.com/the-static/forcaswatch3" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-09-24</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-05-27</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">I made a version of the forecaswatch2 watchface that runs as an app, so you can interact with it and have different info. I found that binding the app to a quicklaunch button helps it feel like a…</p>
 </div>

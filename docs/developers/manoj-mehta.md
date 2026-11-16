@@ -13,7 +13,7 @@ hide:
 
 # Manoj Mehta
 
-*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/manoj-mehta_49657dd6f957e757c3df4c24) · [GitHub (jhatax)](https://github.com/jhatax)
 

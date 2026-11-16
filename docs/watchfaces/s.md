@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · **S** · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*329 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*330 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -795,12 +795,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68" data-search-exclude><img src="../images/apps/f7ab7761bf5e47b98c717f68.gif" alt="Sidereel" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f7ab7761bf5e47b98c717f68"><a href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68">Sidereel</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
-<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
+<h2 class="app-name" id="app-f7ab7761bf5e47b98c717f68"><a href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68">Sidereel</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
+<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/mosaic/sidereel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Sidereel is a customizable modular watchface for the Pebble Time 2, with a scrolling minute reel and hour pointer beside a dashboard of heart rate, steps, sleep, weather, Quiet Time, Bluetooth…</p>
+<p class="app-desc">Sidereel is a customizable modular watchface for the Pebble Time 2, with a scrolling minute reel and hour pointer beside a dashboard of heart rate, steps, sleep, weather, phone battery, Quiet…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1873,10 +1873,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/36830cf6f39645b9a91d5e12" data-search-exclude><img src="../images/apps/36830cf6f39645b9a91d5e12.gif" alt="Sketchbook Horizon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-36830cf6f39645b9a91d5e12"><a href="https://apps.repebble.com/36830cf6f39645b9a91d5e12">Sketchbook Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
+<h2 class="app-name" id="app-36830cf6f39645b9a91d5e12"><a href="https://apps.repebble.com/36830cf6f39645b9a91d5e12">Sketchbook Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/sketchbook-horizon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Sketchbook Horizon is a hand-drawn style watchface for the Pebble Time 2 and Pebble Round 2. It carries four scenes in one face, a mountain ridge, a shoreline, a city bridge, and a forest…</p>
 </div>
@@ -2366,6 +2366,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/959e38bf7c0d48ad92d4cdba" data-search-exclude><img src="../images/apps/959e38bf7c0d48ad92d4cdba.gif" alt="Solar" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-959e38bf7c0d48ad92d4cdba"><a href="https://apps.repebble.com/959e38bf7c0d48ad92d4cdba">Solar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/Marrrrtthias/pebble-solar-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/marrrrtthias.html" title="More from this developer">Marrrrtthias</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-10</span> <span title="Latest release in the app store">Updated 2026-11-13</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A Pebble Time 2 (emery) watchface inspired by the Apple Watch Solar face. It plots the sun&#x27;s elevation over the day for your location and shows a glowing sun at the current time. - The curve runs…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/0093694931ce41d1990ed50f" data-search-exclude><img src="../images/apps/0093694931ce41d1990ed50f.png" alt="Solar &amp; Moon Arc" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-0093694931ce41d1990ed50f"><a href="https://apps.repebble.com/0093694931ce41d1990ed50f">Solar &amp; Moon Arc</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
@@ -2810,7 +2821,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-552597c506e80c0a4b00007f"><a href="https://apps.repebble.com/552597c506e80c0a4b00007f">Square</a> <span class="app-version" title="Latest version" data-search-exclude>v5.7</span></h2>
 <a class="app-source" href="https://github.com/turnervink/square" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/turner-vink.html" title="More from this developer">Turner Vink</a></div>
+<div class="app-dev">by <a href="../developers/zephyr-vink.html" title="More from this developer">Zephyr Vink</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-08</span> <span title="Latest release in the app store">Updated 2017-09-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Square is a clean looking watchface packed with tons of features! If you enjoy it, leave a heart and consider donating through the link on the settings page! - Offline configuration with Clay …</p>
@@ -3501,10 +3512,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7d1fc3f9a61d4646b406429b" data-search-exclude><img src="../images/apps/7d1fc3f9a61d4646b406429b.gif" alt="Sweeep" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7d1fc3f9a61d4646b406429b"><a href="https://apps.repebble.com/7d1fc3f9a61d4646b406429b">Sweeep</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<h2 class="app-name" id="app-7d1fc3f9a61d4646b406429b"><a href="https://apps.repebble.com/7d1fc3f9a61d4646b406429b">Sweeep</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/KiserDesigns/Pebble_Sweeep" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/noah-kiser.html" title="More from this developer">Noah Kiser</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Hand shows hour, arc shows minutes. For the first half hour, the arc fills up, starting at the tip of the hand and going clockwise. At half-past, the arc is a full circle. For the last half of the…</p>
 </div>

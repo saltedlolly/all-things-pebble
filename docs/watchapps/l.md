@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · **L** · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*50 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*50 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -410,12 +410,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b8319da1343f40b9a3000650" data-search-exclude><img src="../images/apps/b8319da1343f40b9a3000650.png" alt="LLM Thing" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b8319da1343f40b9a3000650"><a href="https://apps.repebble.com/b8319da1343f40b9a3000650">LLM Thing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<h2 class="app-name" id="app-b8319da1343f40b9a3000650"><a href="https://apps.repebble.com/b8319da1343f40b9a3000650">LLM Thing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.0</span></h2>
 <a class="app-source" href="https://github.com/SeeSharpSi/llm_thing" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/silas.html" title="More from this developer">Silas</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-26</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">I way to give Pebble-related tools and dictation to an OpenAI compatible endpoint. Also supports MCP servers.</p>
+<p class="app-desc">Dictate prompts on your Pebble and get answers from an OpenAI-compatible model. Supports web search, geolocation, Timeline, Health, memories, remote MCP tools, and Pebble plugin sources and…</p>
 </div>
 </div>
 <div class="app-card">
@@ -509,10 +509,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4a1b7995c8d142f099d98dbb" data-search-exclude><img src="../images/apps/4a1b7995c8d142f099d98dbb.gif" alt="Lovense Remote" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4a1b7995c8d142f099d98dbb"><a href="https://apps.repebble.com/4a1b7995c8d142f099d98dbb">Lovense Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.4</span></h2>
+<h2 class="app-name" id="app-4a1b7995c8d142f099d98dbb"><a href="https://apps.repebble.com/4a1b7995c8d142f099d98dbb">Lovense Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/MrArron/Lovense-Pebble-Control" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/arron.html" title="More from this developer">Arron</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-09-16</span> <span title="Latest release in the app store">Updated 2026-09-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">CC0-1.0</span> <span title="First published in the app store">Released 2026-09-16</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Control your Lovense toy discreetly from your wrist. Choose an open Basic remote-control face, or a Discrete face (Analog or Digital) that looks like an ordinary watch to everyone but you —…</p>
 </div>
@@ -531,7 +531,7 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/a7e1cad620804edbb52ee761" data-search-exclude><img src="../images/apps/a7e1cad620804edbb52ee761.png" alt="Luped Remote" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a7e1cad620804edbb52ee761"><a href="https://apps.repebble.com/a7e1cad620804edbb52ee761">Luped Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.10</span></h2>
+<h2 class="app-name" id="app-a7e1cad620804edbb52ee761"><a href="https://apps.repebble.com/a7e1cad620804edbb52ee761">Luped Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.11</span></h2>
 <a class="app-source" href="https://github.com/dabear/LupedPebbleWatchFace" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/bjrn-inge-vikhammermo-berg.html" title="More from this developer">Bjørn Inge Vikhammermo Berg</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-04</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · **P** · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*214 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*214 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -25,10 +25,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/81fc38ce91e5491d91b72840" data-search-exclude><img src="../images/apps/81fc38ce91e5491d91b72840.png" alt="Pacelet" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-81fc38ce91e5491d91b72840"><a href="https://apps.repebble.com/81fc38ce91e5491d91b72840">Pacelet</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7.0</span></h2>
+<h2 class="app-name" id="app-81fc38ce91e5491d91b72840"><a href="https://apps.repebble.com/81fc38ce91e5491d91b72840">Pacelet</a> <span class="app-version" title="Latest version" data-search-exclude>v0.9.0</span></h2>
 <a class="app-source" href="https://github.com/LiamCordelle/pacelet" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/liam-cordelle.html" title="More from this developer">Liam Cordelle</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-17</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A simple activity tracker, using phone GPS</p>
 </div>
@@ -234,12 +234,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/bc1c0d23d1994611bd94cbdd" data-search-exclude><img src="../images/apps/bc1c0d23d1994611bd94cbdd.png" alt="pebbenote" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-bc1c0d23d1994611bd94cbdd"><a href="https://apps.repebble.com/bc1c0d23d1994611bd94cbdd">pebbenote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.4</span></h2>
+<h2 class="app-name" id="app-bc1c0d23d1994611bd94cbdd"><a href="https://apps.repebble.com/bc1c0d23d1994611bd94cbdd">pebbenote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/HakierGrzonzo/pebbenote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/grzegorz-koperwas.html" title="More from this developer">Grzegorz Koperwas</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-25</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-25</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Dictation note app, that is a bit better thanks to LLM that organizes it</p>
+<p class="app-desc">Dictation note app, that is a bit better thanks to LLM that organizes it into a Markdown list. You can ask it to ask sections, to always structure a note in some way, or to revert edits. You can…</p>
 </div>
 </div>
 <div class="app-card">
@@ -850,10 +850,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/3f9cfd3aefd84e59a0128849" data-search-exclude><img src="../images/apps/3f9cfd3aefd84e59a0128849.png" alt="Pebblegram" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-3f9cfd3aefd84e59a0128849"><a href="https://apps.repebble.com/3f9cfd3aefd84e59a0128849">Pebblegram</a> <span class="app-version" title="Latest version" data-search-exclude>v3.7.0</span></h2>
+<h2 class="app-name" id="app-3f9cfd3aefd84e59a0128849"><a href="https://apps.repebble.com/3f9cfd3aefd84e59a0128849">Pebblegram</a> <span class="app-version" title="Latest version" data-search-exclude>v3.8.0</span></h2>
 <a class="app-source" href="https://github.com/TomBolger/Pebblegram" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tombolger.html" title="More from this developer">TomBolger</a> · <a href="https://forum.rebble.io/t/925" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A Telegram client for Pebble. New release does not require a companion app or a service running anywhere. Everything is kept securely in your phone. Works for Android and probably iOS, but I…</p>
 </div>
@@ -960,12 +960,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/ad4971e345854b909b73b1a9" data-search-exclude><img src="../images/apps/ad4971e345854b909b73b1a9.png" alt="PebbleNTN - Maps Nav Notification To Navigation" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ad4971e345854b909b73b1a9"><a href="https://apps.repebble.com/ad4971e345854b909b73b1a9">PebbleNTN - Maps Nav Notification To Navigation</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.82</span></h2>
+<h2 class="app-name" id="app-ad4971e345854b909b73b1a9"><a href="https://apps.repebble.com/ad4971e345854b909b73b1a9">PebbleNTN - Maps Nav Notification To Navigation</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.83</span></h2>
 <a class="app-source" href="https://github.com/optio/PebbleNTN" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sacha.html" title="More from this developer">Sacha</a> · <a href="https://forum.rebble.io/t/1172" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-16</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-16</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Turn-by-turn directions from your phone&#x27;s nav app, on your Pebble. PebbleNTN reads your navigation app&#x27;s notifications and shows the next turn, distance, road, and ETA on your Pebble. No need to…</p>
+<p class="app-desc">Turn-by-turn directions from your phone&#x27;s navigation app, on your Pebble. PebbleNTN reads navigation notifications on your Android phone and shows the next turn, distance, street name and ETA on…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1510,10 +1510,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/a085bb50ce2e4a239f1a1870" data-search-exclude><img src="../images/apps/a085bb50ce2e4a239f1a1870.png" alt="PickItUp!" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a085bb50ce2e4a239f1a1870"><a href="https://apps.repebble.com/a085bb50ce2e4a239f1a1870">PickItUp!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
+<h2 class="app-name" id="app-a085bb50ce2e4a239f1a1870"><a href="https://apps.repebble.com/a085bb50ce2e4a239f1a1870">PickItUp!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.1</span></h2>
 <a class="app-source" href="https://github.com/RealGrapie/PickItUp" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/grapie.html" title="More from this developer">Grapie</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-10-28</span></div>
+<div class="app-dev">by <a href="../developers/grapie.html" title="More from this developer">Grapie</a> · <a href="https://forum.rebble.io/t/1506" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Your Ozon order-pickup barcode on your wrist. At an Ozon pickup point just show the watch instead of reaching for the phone. - Code 128 barcode drawn pixel-perfect for scanners, plus a QR view and…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Kieselleger
 
-*27 watchfaces and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*27 watchfaces and 3 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3fe58879cfd4000013) · [GitHub (ProggroP)](https://github.com/ProggroP)
 
@@ -40,7 +40,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 <div class="app-card" data-type="watchface" data-title="house on a pebble" data-released="2026-11-09" data-updated="2026-11-09">
 <a class="app-shot" href="https://apps.repebble.com/39b2300fa3cf479d976f6443" data-search-exclude><img src="../images/apps/39b2300fa3cf479d976f6443.png" alt="House on a Pebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-39b2300fa3cf479d976f6443"><a href="https://apps.repebble.com/39b2300fa3cf479d976f6443">House on a Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-39b2300fa3cf479d976f6443"><a href="https://apps.repebble.com/39b2300fa3cf479d976f6443">House on a Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/ProggroP/HouseOnAPebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-09</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>

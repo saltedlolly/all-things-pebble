@@ -13,7 +13,7 @@ hide:
 
 # Chris Lewis
 
-*31 watchfaces and 6 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*31 watchfaces and 6 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd30e627ce1147000099) · [GitHub (C-D-Lewis)](https://github.com/C-D-Lewis) · [Website (ninedof.wordpress.com)](http://ninedof.wordpress.com)
 
@@ -26,6 +26,28 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="instruments" data-released="2026-11-06" data-updated="2026-11-12">
+<a class="app-shot" href="https://apps.repebble.com/d6436c4674b74279ad79afff" data-search-exclude><img src="../images/apps/d6436c4674b74279ad79afff.png" alt="Instruments" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d6436c4674b74279ad79afff"><a href="https://apps.repebble.com/d6436c4674b74279ad79afff">Instruments</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
+<p class="app-desc">Purpose-built Pebble Round 2 watchface showing concise time, date, weather, with a choice of up to 6 configurable complication slots. The focus is on readability and usefulness. Features include…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="news headlines" data-released="2014-05-29" data-updated="2026-11-11">
+<a class="app-shot" href="https://apps.repebble.com/5387b383f60819963900000e" data-search-exclude><img src="../images/apps/5387b383f60819963900000e.png" alt="News Headlines" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5387b383f60819963900000e"><a href="https://apps.repebble.com/5387b383f60819963900000e">News Headlines</a> <span class="app-version" title="Latest version" data-search-exclude>v4.13.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/290" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-05-29</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Read the top 10 - 20 BBC News stories on your wrist. Categories available: Headlines, World, UK, Politics, Science &amp; Environment, Technology, Health, Education, Entertainment &amp; Arts. Also includes…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="tube status" data-released="2013-12-04" data-updated="2026-11-07">
 <a class="app-shot" href="https://apps.repebble.com/529e8742d7894b189c000012" data-search-exclude><img src="../images/apps/529e8742d7894b189c000012.png" alt="Tube Status" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-12-04</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">See the line status of the London Underground from your wrist! Unofficial app using the TfL Unified API.</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="instruments" data-released="2026-11-06" data-updated="2026-11-06">
-<a class="app-shot" href="https://apps.repebble.com/d6436c4674b74279ad79afff" data-search-exclude><img src="../images/apps/d6436c4674b74279ad79afff.png" alt="Instruments" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-d6436c4674b74279ad79afff"><a href="https://apps.repebble.com/d6436c4674b74279ad79afff">Instruments</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
-<p class="app-desc">Purpose-built Pebble Round 2 watchface showing concise time, date, weather, with a choice of four configurable complication slots. The focus is on readability and usefulness. Features include: …</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="void statues" data-released="2025-08-19" data-updated="2026-11-04">
@@ -200,17 +211,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-03-02</span> <span title="Latest release in the app store">Updated 2026-04-05</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Port of the Fitbit watchface of the same name. A simple watchface that shows the time with expanding colored bars, one for hours, minutes, and seconds, throughout the day. For when you don&#x27;t quite…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="news headlines" data-released="2014-05-29" data-updated="2026-01-28">
-<a class="app-shot" href="https://apps.repebble.com/5387b383f60819963900000e" data-search-exclude><img src="../images/apps/5387b383f60819963900000e.png" alt="News Headlines" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-5387b383f60819963900000e"><a href="https://apps.repebble.com/5387b383f60819963900000e">News Headlines</a> <span class="app-version" title="Latest version" data-search-exclude>v4.12</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App · <a href="https://forum.rebble.io/t/290" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-05-29</span> <span title="Latest release in the app store">Updated 2026-01-28</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Read the top 10 - 20 BBC News stories on your wrist. Categories available: Headlines, World, UK, Politics, Science &amp; Environment, Technology, Health, Education, Entertainment &amp; Arts. Also includes…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="split horizon" data-released="2014-02-04" data-updated="2026-01-14">

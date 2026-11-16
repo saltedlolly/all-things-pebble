@@ -13,7 +13,7 @@ hide:
 
 # TechJeeper
 
-*19 watchfaces and 10 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*21 watchfaces and 10 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techjeeper_e91bf961199602727bb7cf3a) · [GitHub (TechJeeper)](https://github.com/TechJeeper)
 
@@ -21,11 +21,33 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techjeeper_e91bf961
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>29</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>19</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>10</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>31</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>21</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>10</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="jeep trails" data-released="2026-11-15" data-updated="2026-11-15">
+<a class="app-shot" href="https://apps.repebble.com/08c15e25a12c450c9def19d2" data-search-exclude><img src="../images/apps/08c15e25a12c450c9def19d2.png" alt="Jeep Trails" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-08c15e25a12c450c9def19d2"><a href="https://apps.repebble.com/08c15e25a12c450c9def19d2">Jeep Trails</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/jeep-trails" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Jeep Trails turns your wrist into a new off-road vista every day. Seven PixelLab trail scenes rotate with the calendar: desert canyons, forest paths, mountain passes, beach dunes, snowy alpine…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="heliochron" data-released="2026-11-14" data-updated="2026-11-14">
+<a class="app-shot" href="https://apps.repebble.com/3c15799581a34b2bbfab94eb" data-search-exclude><img src="../images/apps/3c15799581a34b2bbfab94eb.png" alt="Heliochron" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-3c15799581a34b2bbfab94eb"><a href="https://apps.repebble.com/3c15799581a34b2bbfab94eb">Heliochron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
+<a class="app-source" href="https://github.com/TechJeeper/Heliochron" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-14</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time</div>
+<p class="app-desc">A living orrery on your wrist. Heliochron turns time into a solar system: the Sun holds the center while planets keep the clock. • Mars, Saturn, or Jupiter tracks the hours • Earth sweeps the…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="wash" data-released="2026-11-07" data-updated="2026-11-07">
 <a class="app-shot" href="https://apps.repebble.com/cd06647b2444421b926d6707" data-search-exclude><img src="../images/apps/cd06647b2444421b926d6707.png" alt="Wash" loading="lazy"></a>
 <div class="app-info">

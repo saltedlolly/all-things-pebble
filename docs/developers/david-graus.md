@@ -13,7 +13,7 @@ hide:
 
 # David Graus
 
-*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-graus_68ed6354b01aabbc38c26337) · [GitHub (graus)](https://github.com/graus) · [Website (graus.nu)](https://graus.nu/blog/pebble-watch-face-hearth/)
 

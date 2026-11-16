@@ -13,7 +13,7 @@ hide:
 
 # Tuukka Ruhanen
 
-*2 watchfaces and 5 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 5 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1ec999749817a461025038) · [GitHub (truhanen)](https://github.com/truhanen)
 
@@ -26,6 +26,28 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1e
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="another timer" data-released="2026-07-21" data-updated="2026-11-10">
+<a class="app-shot" href="https://apps.repebble.com/e4942ade58a44968bae74b35" data-search-exclude><img src="../images/apps/e4942ade58a44968bae74b35.png" alt="Another Timer" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e4942ade58a44968bae74b35"><a href="https://apps.repebble.com/e4942ade58a44968bae74b35">Another Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
+<a class="app-source" href="https://github.com/truhanen/pebble-another-timer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Yet another timer app, built for fast, versatile, &amp; straightforward usage. Features: - Only one touch to create &amp; start new timers - Multiple timers - Reusable saved timers - Run-once timers …</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="another alarm" data-released="2026-07-28" data-updated="2026-11-10">
+<a class="app-shot" href="https://apps.repebble.com/07c6afdd062141c19bf72312" data-search-exclude><img src="../images/apps/07c6afdd062141c19bf72312.png" alt="Another Alarm" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-07c6afdd062141c19bf72312"><a href="https://apps.repebble.com/07c6afdd062141c19bf72312">Another Alarm</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.1</span></h2>
+<a class="app-source" href="https://github.com/truhanen/pebble-another-alarm" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-28</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Yet another alarms app, with cron mode for maximum flexibility, and many other (more &amp; less) useful features. Features: - Alarm sound &amp; vibration - Increasing alarm volume - Snooze - Multiple…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="aika" data-released="2026-10-18" data-updated="2026-11-07">
 <a class="app-shot" href="https://apps.repebble.com/4a31883c9e5947c1ba3bd2b0" data-search-exclude><img src="../images/apps/4a31883c9e5947c1ba3bd2b0.gif" alt="Aika" loading="lazy"></a>
 <div class="app-info">
@@ -34,7 +56,7 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1e
 <div class="app-dev">Watchface</div>
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A more readable watchface, with extremely bold analog hands for better low-light visibility. Supports plugins! The analog hands are the biggest component at the center, with the minute hand…</p>
+<p class="app-desc">A readable &amp; configurable analog watchface, with bold hands for better low-light visibility. Supports plugins! The analog hands are the biggest component at the center, with the minute hand…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="sae weather graph" data-released="2026-06-24" data-updated="2026-09-02">
@@ -57,28 +79,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1e
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-08-26</span> <span title="Latest release in the app store">Updated 2026-08-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">App for viewing recent rain radar data. For the most accurate near-future rain forecast. The app features proximity-based resolution, to give you the most detailed data closest to your location…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="another timer" data-released="2026-07-21" data-updated="2026-08-21">
-<a class="app-shot" href="https://apps.repebble.com/e4942ade58a44968bae74b35" data-search-exclude><img src="../images/apps/e4942ade58a44968bae74b35.png" alt="Another Timer" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-e4942ade58a44968bae74b35"><a href="https://apps.repebble.com/e4942ade58a44968bae74b35">Another Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.1</span></h2>
-<a class="app-source" href="https://github.com/truhanen/pebble-another-timer" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-21</span> <span title="Latest release in the app store">Updated 2026-08-21</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Yet another timer app, built for fast, versatile, &amp; straightforward usage. Features: - Instantly start timers by one touch - Multiple timers - Reusable saved timers - Timer labels - Track…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="another alarm" data-released="2026-07-28" data-updated="2026-08-09">
-<a class="app-shot" href="https://apps.repebble.com/07c6afdd062141c19bf72312" data-search-exclude><img src="../images/apps/07c6afdd062141c19bf72312.png" alt="Another Alarm" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-07c6afdd062141c19bf72312"><a href="https://apps.repebble.com/07c6afdd062141c19bf72312">Another Alarm</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.1</span></h2>
-<a class="app-source" href="https://github.com/truhanen/pebble-another-alarm" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-07-28</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Yet another alarm app, with cron mode for maximum flexibility, and many other useful features. Features - Alarm sound &amp; vibration - Increasing alarm volume - Snooze - Multiple alarms - Labeled…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="nyquist" data-released="2026-06-28" data-updated="2026-07-02">

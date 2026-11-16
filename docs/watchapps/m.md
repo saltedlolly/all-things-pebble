@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · **M** · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*101 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*103 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -372,6 +372,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-11</span> <span title="Latest release in the app store">Updated 2015-03-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Locates the nearest metro near you anywhere in Washington, DC.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/dce54d3eb02943f1935e1529" data-search-exclude><img src="../images/apps/dce54d3eb02943f1935e1529.png" alt="Metro Lisboa" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-dce54d3eb02943f1935e1529"><a href="https://apps.repebble.com/dce54d3eb02943f1935e1529">Metro Lisboa</a> <span class="app-version" title="Latest version" data-search-exclude>v0.4.0</span></h2>
+<a class="app-source" href="https://github.com/rafaelborges29/pebble-metro" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/rafael-borges.html" title="More from this developer">Rafael Borges</a> · <a href="https://forum.rebble.io/t/1492" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">0BSD</span> <span title="First published in the app store">Released 2026-11-04</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Lisbon Metro arrival estimates for Pebble Time 2 and Pebble Round 2. Save up to 16 favourites, see the next three predictions, and reopen with saved estimates for two recent routes. Live updates…</p>
 </div>
 </div>
 <div class="app-card">
@@ -768,6 +779,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-05-31</span> <span title="Latest release in the app store">Updated 2014-05-31</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A goat is hidden behind one of three doors. Select a door and the watch will open one of the two other doors (that doesn&#x27;t have the goat). Now select again. Will you switch doors or keep your…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/818e20c1d8ce4adcb5590c5e" data-search-exclude><img src="../images/apps/818e20c1d8ce4adcb5590c5e.png" alt="Monzo" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-818e20c1d8ce4adcb5590c5e"><a href="https://apps.repebble.com/818e20c1d8ce4adcb5590c5e">Monzo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/BenBJD/monzo-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/benbjd.html" title="More from this developer">BenBJD</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-11</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Plugin and app for Monzo bank accounts</p>
 </div>
 </div>
 <div class="app-card">

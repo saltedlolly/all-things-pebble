@@ -1,5 +1,5 @@
 ---
-title: "Turner Vink"
+title: "Zephyr Vink"
 hide:
   - toc
 ---
@@ -11,11 +11,11 @@ hide:
 <img class="dev-avatar" src="https://github.com/turnervink.png?size=128" alt="" width="64" height="64" loading="lazy" onerror="this.remove()">
 <div class="dev-intro" markdown>
 
-# Turner Vink
+# Zephyr Vink
 
-*7 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/turner-vink_54a871aadf4908b0410000f1) · [GitHub (turnervink)](https://github.com/turnervink) · [Website (turnervink.com)](http://www.turnervink.com)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zephyr-vink_54a871aadf4908b0410000f1) · [GitHub (turnervink)](https://github.com/turnervink) · [Website (turnervink.com)](http://www.turnervink.com)
 
 </div>
 </div>

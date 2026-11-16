@@ -13,7 +13,7 @@ hide:
 
 # Andreas Varotsis
 
-*1 watchface and 3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface and 3 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andreas-varotsis_021ad35e7c7a1d61ceaac484) · [GitHub (AndreasThinks)](https://github.com/AndreasThinks) · [Website (andreasthinks.github.io)](https://andreasthinks.github.io/pebble-sentinel-docs/)
 

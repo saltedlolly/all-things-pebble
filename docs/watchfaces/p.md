@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · **P** · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*237 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*239 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -75,6 +75,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-06-22</span> <span title="Latest release in the app store">Updated 2015-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">To celebrate the 64 colors of the new Pebble Time display, here&#x27;s a simple colorful watchface using 60 of them (excluding black, white and gray). Hint for reading the time: sharpest contrast…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/cf36b2225f634b2393b37886" data-search-exclude><img src="../images/apps/cf36b2225f634b2393b37886.png" alt="Palia Time" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-cf36b2225f634b2393b37886"><a href="https://apps.repebble.com/cf36b2225f634b2393b37886">Palia Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/Sitwon/pebble-palia-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/sitwon.html" title="More from this developer">Sitwon</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">See Palia&#x27;s in-game time at a glance. A one-hand 24-hour dial colored like the in-game clock — dawn, day, dusk, and night sectors sweep the full screen, with a sun at noon, a crescent moon and…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1389,10 +1400,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/95e29b8577814a36a22799ef" data-search-exclude><img src="../images/apps/95e29b8577814a36a22799ef.gif" alt="Pixel Style w. Calendar" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-95e29b8577814a36a22799ef"><a href="https://apps.repebble.com/95e29b8577814a36a22799ef">Pixel Style w. Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.54</span></h2>
+<h2 class="app-name" id="app-95e29b8577814a36a22799ef"><a href="https://apps.repebble.com/95e29b8577814a36a22799ef">Pixel Style w. Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.57</span></h2>
 <a class="app-source" href="https://github.com/jashyotes/simple-pixel-style" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/jashyotes.html" title="More from this developer">jashyotes</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-09-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Initial Pebble Time 2 / emery release. - Pixel-watch-style black-and-white watchface structure. - Watch battery, Bluetooth status, date, AM/PM, time, steps, BPM, and reserved weather/rain/event…</p>
 </div>
@@ -2126,10 +2137,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/3084c933852242fb847cffd7" data-search-exclude><img src="../images/apps/3084c933852242fb847cffd7.gif" alt="Portal Turret" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-3084c933852242fb847cffd7"><a href="https://apps.repebble.com/3084c933852242fb847cffd7">Portal Turret</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<h2 class="app-name" id="app-3084c933852242fb847cffd7"><a href="https://apps.repebble.com/3084c933852242fb847cffd7">Portal Turret</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/CATEIN/portal-turret-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/catein.html" title="More from this developer">CATEIN</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">The turret from Portal, on your wrist. Its eye is the clock. We’ve stuck one of those adorable little murder machines on your arm. Its big red eye is the clock. Twenty-four angry wedges, just like…</p>
 </div>
@@ -2238,7 +2249,7 @@ hide:
 <div class="app-info">
 <h2 class="app-name" id="app-5952a9850dfc32acc70003dd"><a href="https://apps.repebble.com/5952a9850dfc32acc70003dd">Pride</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
 <a class="app-source" href="https://github.com/turnervink/prideface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/turner-vink.html" title="More from this developer">Turner Vink</a></div>
+<div class="app-dev">by <a href="../developers/zephyr-vink.html" title="More from this developer">Zephyr Vink</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2017-06-27</span> <span title="Latest release in the app store">Updated 2017-06-27</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">Wear your pride on your sleeve with this watchface! Features configurable pride flags. Don&#x27;t see your flag? Use the contact developer button to request one!</p>
@@ -2440,6 +2451,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-11-16</span> <span title="Latest release in the app store">Updated 2015-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">First release</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/3d3c24d512f440d1b9281541" data-search-exclude><img src="../images/apps/3d3c24d512f440d1b9281541.gif" alt="Progressring" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-3d3c24d512f440d1b9281541"><a href="https://apps.repebble.com/3d3c24d512f440d1b9281541">Progressring</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/ErBlack/progressring" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/artem-pendiurin.html" title="More from this developer">Artem Pendiurin</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Like a progressbar, but in ring form: displays the progress of the day with sunrise, sunset and events around the edge. In the center: a big clock with the date, surrounded by info blocks for…</p>
 </div>
 </div>
 <div class="app-card">

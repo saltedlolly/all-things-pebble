@@ -13,7 +13,7 @@ hide:
 
 # uaparit
 
-*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/uaparit_9f025cf6038dd9567f9d9331) · [GitHub (uaparit)](https://github.com/uaparit)
 

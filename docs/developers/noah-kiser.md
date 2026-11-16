@@ -13,7 +13,7 @@ hide:
 
 # Noah Kiser
 
-*5 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noah-kiser_309e95d94e23b9be8fa889d9) · [GitHub (KiserDesigns)](https://github.com/KiserDesigns) · [Website (forum.repebble.com)](https://forum.repebble.com/t/rombra-roman-umbra/537)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noah-kiser_309e95d9
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="sweeep" data-released="2026-05-14" data-updated="2026-11-12">
+<a class="app-shot" href="https://apps.repebble.com/7d1fc3f9a61d4646b406429b" data-search-exclude><img src="../images/apps/7d1fc3f9a61d4646b406429b.gif" alt="Sweeep" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7d1fc3f9a61d4646b406429b"><a href="https://apps.repebble.com/7d1fc3f9a61d4646b406429b">Sweeep</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<a class="app-source" href="https://github.com/KiserDesigns/Pebble_Sweeep" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Hand shows hour, arc shows minutes. For the first half hour, the arc fills up, starting at the tip of the hand and going clockwise. At half-past, the arc is a full circle. For the last half of the…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="fresco" data-released="2026-07-08" data-updated="2026-08-13">
 <a class="app-shot" href="https://apps.repebble.com/6797522d3d3a4b93ad1526bd" data-search-exclude><img src="../images/apps/6797522d3d3a4b93ad1526bd.png" alt="Fresco" loading="lazy"></a>
 <div class="app-info">
@@ -57,17 +68,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/noah-kiser_309e95d9
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-17</span> <span title="Latest release in the app store">Updated 2026-07-06</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Roman Umbra, where sundial meets clockface. The umbra (shadow) direction is the minute, with Roman numerals for the hour. Colors of the numeral (hour), umbra (minute), and background are fully…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="sweeep" data-released="2026-05-14" data-updated="2026-05-14">
-<a class="app-shot" href="https://apps.repebble.com/7d1fc3f9a61d4646b406429b" data-search-exclude><img src="../images/apps/7d1fc3f9a61d4646b406429b.gif" alt="Sweeep" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-7d1fc3f9a61d4646b406429b"><a href="https://apps.repebble.com/7d1fc3f9a61d4646b406429b">Sweeep</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
-<a class="app-source" href="https://github.com/KiserDesigns/Pebble_Sweeep" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-14</span> <span title="Latest release in the app store">Updated 2026-05-14</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Hand shows hour, arc shows minutes. For the first half hour, the arc fills up, starting at the tip of the hand and going clockwise. At half-past, the arc is a full circle. For the last half of the…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="justthetime" data-released="2026-04-07" data-updated="2026-04-08">

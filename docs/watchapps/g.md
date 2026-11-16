@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · **G** · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*49 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*49 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -130,17 +130,6 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2017-08-07</span> <span title="Latest release in the app store">Updated 2017-10-16</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Gautrain commuters. Tired of just missing the last train or raced to the train station just to find the next train is only departing in 30 minutes? Select your line and station and this app will…</p>
-</div>
-</div>
-<div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/cc4b971bf63c427d8870e526" data-search-exclude><img src="../images/apps/cc4b971bf63c427d8870e526.png" alt="Gemini Voice &amp; Text" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-cc4b971bf63c427d8870e526"><a href="https://apps.repebble.com/cc4b971bf63c427d8870e526">Gemini Voice &amp; Text</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5</span></h2>
-<a class="app-source" href="https://github.com/ericlmccormick/Pebble_Gemini" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">This app turns your Pebble Time 2 into a fully functional conversational assistant using Google&#x27;s Gemini with model and voice selection. If you enjoy what I am making don&#x27;t forget to heart the…</p>
 </div>
 </div>
 <div class="app-card">
@@ -460,6 +449,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-01-18</span> <span title="Latest release in the app store">Updated 2014-01-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A really simple watchapp that allows you to quickly access any GTA V cheat (PS3).</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/db2a9755caf04b72a3b3ec43" data-search-exclude><img src="../images/apps/db2a9755caf04b72a3b3ec43.gif" alt="Guitar Tuner" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-db2a9755caf04b72a3b3ec43"><a href="https://apps.repebble.com/db2a9755caf04b72a3b3ec43">Guitar Tuner</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/alex523ap/GuitarTuner.git" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/alex-pavlov.html" title="More from this developer">alex_pavlov</a> · <a href="https://forum.rebble.io/t/1495" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-05</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Simple tuner for guitar, bass and ukulele with auto and manual modes, plus a chromatic mode for any other instrument. You must give the app access to the watch microphone to use it. Long-press…</p>
 </div>
 </div>
 <div class="app-card">

@@ -13,7 +13,7 @@ hide:
 
 # dysseus
 
-*1 watchface and 5 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface and 5 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dysseus_d55366949234e464067ed224) · [GitHub (dysseus-pascal)](https://github.com/dysseus-pascal)
 

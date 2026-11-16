@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · **J** · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*14 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*15 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -31,6 +31,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-04-12</span> <span title="Latest release in the app store">Updated 2015-04-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Until now, measuring improvement and tracking performance for punch-based athletics were difficult tasks, measured only by the face of your opponents. Now with Jab, an app for the Pebble…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/bf4c8faf8601493ca404291c" data-search-exclude><img src="../images/apps/bf4c8faf8601493ca404291c.png" alt="Japanese IC Reader" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-bf4c8faf8601493ca404291c"><a href="https://apps.repebble.com/bf4c8faf8601493ca404291c">Japanese IC Reader</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Grillza/ic-reader" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/grillza.html" title="More from this developer">Grillza</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-11</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Displays your last scanned IC card balance with the last 20 transactions. Has support for major IC cards in Japan. **Note you must download the companion app from…</p>
 </div>
 </div>
 <div class="app-card">

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · **H** · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*78 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*79 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -91,10 +91,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/da1745a953be4aabbf069ff6" data-search-exclude><img src="../images/apps/da1745a953be4aabbf069ff6.png" alt="HA TV Remote" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-da1745a953be4aabbf069ff6"><a href="https://apps.repebble.com/da1745a953be4aabbf069ff6">HA TV Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
+<h2 class="app-name" id="app-da1745a953be4aabbf069ff6"><a href="https://apps.repebble.com/da1745a953be4aabbf069ff6">HA TV Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/eddieatjollyroger/Pebble-HA-TV-Remote" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eddie-baker.html" title="More from this developer">Eddie Baker</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A remote for all Home Assistant TVs. It works with Apple TV, Android TV (through the Android TV Remote integration) and VIDAA TVs (through the Vidaa TV integration). Button Select: sends an OK…</p>
 </div>
@@ -339,6 +339,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-15</span> <span title="Latest release in the app store">Updated 2026-08-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Pull feed headings and summaries from any Google Reader-compatible API, such as FreshRSS, and enjoy a lightweight reading experience on your Pebble. - Show all articles either at folder level or…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/13653af0f85f46b1b806f7b4" data-search-exclude><img src="../images/apps/13653af0f85f46b1b806f7b4.png" alt="Health Companion" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-13653af0f85f46b1b806f7b4"><a href="https://apps.repebble.com/13653af0f85f46b1b806f7b4">Health Companion</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.1</span></h2>
+<a class="app-source" href="https://github.com/ciabattarichri/fitbit_air_pebble_comp" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/ciabattarichri.html" title="More from this developer">ciabattarichri</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-11</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">DESCRIPTION See your live workout on your wrist: heart rate and elapsed time from Google Health, right on your Pebble. Health Companion works with the Google Health app (and Fitbit trackers such…</p>
 </div>
 </div>
 <div class="app-card">

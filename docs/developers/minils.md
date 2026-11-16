@@ -13,7 +13,7 @@ hide:
 
 # minils
 
-*1 watchface and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/minils_59b2c9456a497419d39ad898) · [GitHub (minils)](https://github.com/minils) · [Website (minils.de)](https://minils.de/ostrakon)
 

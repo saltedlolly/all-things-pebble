@@ -13,7 +13,7 @@ hide:
 
 # justinjhendrick
 
-*13 watchfaces and 2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*14 watchfaces and 2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f68b8a23b7a90009c87db5) · [GitHub (justinjhendrick)](https://github.com/justinjhendrick)
 
@@ -21,20 +21,31 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justinjhendrick_67f
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>15</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>13</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>16</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>14</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="molniya" data-released="2026-07-18" data-updated="2026-11-09">
+<div class="app-card" data-type="watchface" data-title="alien time keeper" data-released="2026-11-14" data-updated="2026-11-14">
+<a class="app-shot" href="https://apps.repebble.com/eb618e3fd6864662a5af8e16" data-search-exclude><img src="../images/apps/eb618e3fd6864662a5af8e16.gif" alt="Alien Time Keeper" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-eb618e3fd6864662a5af8e16"><a href="https://apps.repebble.com/eb618e3fd6864662a5af8e16">Alien Time Keeper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/justinjhendrick/dimension-pebble-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-14</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">The Committee for Earthling Communication has designed these symbols * 0 is nothing * 1 is a dot * 2 is a slash * 3 is a slash and a dot (2 + 1) * 4 is a square * 5 is a square and a dot (4 + 1) *…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="molniya" data-released="2026-07-18" data-updated="2026-11-11">
 <a class="app-shot" href="https://apps.repebble.com/bf2f17288a0840a5a0308976" data-search-exclude><img src="../images/apps/bf2f17288a0840a5a0308976.gif" alt="Molniya" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
+<h2 class="app-name" id="app-bf2f17288a0840a5a0308976"><a href="https://apps.repebble.com/bf2f17288a0840a5a0308976">Molniya</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/justinjhendrick/molniya-pebble-watchface/" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-18</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
-<p class="app-desc">A minimalist watchface with both digital numbers and analog movement for the minutes. Very large fonts make it easy to read.</p>
+<p class="app-desc">A minimalist watchface with both digital numbers and analog movement for the minutes. Very large fonts make it easy to read. Configuration options: * Control color of each element &amp; background *…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="kingfisher" data-released="2026-10-03" data-updated="2026-11-07">

@@ -13,7 +13,7 @@ hide:
 
 # dogspeed
 
-*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/dogspeed_07a2977eb53aa601799bff69)
 

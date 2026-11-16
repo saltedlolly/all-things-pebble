@@ -13,7 +13,7 @@ hide:
 
 # merito
 
-*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/merito_6883657b0c0ce60008a5293f) · [GitHub (merito)](https://github.com/merito)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/merito_6883657b0c0c
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="rozkład jazdy pociągów polish trains" data-released="2025-08-21" data-updated="2026-09-10">
+<div class="app-card" data-type="watchapp" data-title="rozkład jazdy pociągów polish trains" data-released="2025-08-21" data-updated="2026-11-11">
 <a class="app-shot" href="https://apps.repebble.com/68a759a7652aec0009f26c41" data-search-exclude><img src="../images/apps/68a759a7652aec0009f26c41.png" alt="Rozkład jazdy pociągów Polish Trains" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-68a759a7652aec0009f26c41"><a href="https://apps.repebble.com/68a759a7652aec0009f26c41">Rozkład jazdy pociągów Polish Trains</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.2</span></h2>
+<h2 class="app-name" id="app-68a759a7652aec0009f26c41"><a href="https://apps.repebble.com/68a759a7652aec0009f26c41">Rozkład jazdy pociągów Polish Trains</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
 <a class="app-source" href="https://github.com/merito/rozklad_jazdy_pociagow" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/837" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-08-21</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-08-21</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Never miss your train again! The app shows the closest stations and departures with delays, platform and track numbers. It primarily uses the custom backend in `rozklad_backend/` directory, which…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # jashyotes
 
-*1 watchface and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jashyotes_ef13c80cb0a9403c1736ae5c) · [GitHub (jashyotes)](https://github.com/jashyotes)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jashyotes_ef13c80cb
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="pixel style w. calendar" data-released="2026-05-08" data-updated="2026-09-03">
+<div class="app-card" data-type="watchface" data-title="pixel style w. calendar" data-released="2026-05-08" data-updated="2026-11-09">
 <a class="app-shot" href="https://apps.repebble.com/95e29b8577814a36a22799ef" data-search-exclude><img src="../images/apps/95e29b8577814a36a22799ef.gif" alt="Pixel Style w. Calendar" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-95e29b8577814a36a22799ef"><a href="https://apps.repebble.com/95e29b8577814a36a22799ef">Pixel Style w. Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.54</span></h2>
+<h2 class="app-name" id="app-95e29b8577814a36a22799ef"><a href="https://apps.repebble.com/95e29b8577814a36a22799ef">Pixel Style w. Calendar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.57</span></h2>
 <a class="app-source" href="https://github.com/jashyotes/simple-pixel-style" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-09-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-08</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Initial Pebble Time 2 / emery release. - Pixel-watch-style black-and-white watchface structure. - Watch battery, Bluetooth status, date, AM/PM, time, steps, BPM, and reserved weather/rain/event…</p>
 </div>

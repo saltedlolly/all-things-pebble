@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*55 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*54 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -20,17 +20,6 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-01-15</span> <span title="Latest release in the app store">Updated 2025-11-25</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple watchface that tells the time, date, battery percentage, and whether or not Bluetooth is connected. Supports 12 and 24hr time format.</p>
-</div>
-</div>
-<div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/620f8b6abe64458caa59fdef" data-search-exclude><img src="../images/apps/620f8b6abe64458caa59fdef.png" alt="IDE VSCode" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-620f8b6abe64458caa59fdef"><a href="https://apps.repebble.com/620f8b6abe64458caa59fdef">IDE VSCode</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.3</span></h2>
-<a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-26</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">IDE VSCode is a Visual Studio Code-inspired digital watchface for the Pebble Time 2, laid out like a code editor. It shows weather, heart rate, steps, battery, and Bluetooth status, with the…</p>
 </div>
 </div>
 <div class="app-card">
@@ -399,12 +388,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/d6436c4674b74279ad79afff" data-search-exclude><img src="../images/apps/d6436c4674b74279ad79afff.png" alt="Instruments" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d6436c4674b74279ad79afff"><a href="https://apps.repebble.com/d6436c4674b74279ad79afff">Instruments</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-d6436c4674b74279ad79afff"><a href="https://apps.repebble.com/d6436c4674b74279ad79afff">Instruments</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chris-lewis.html" title="More from this developer">Chris Lewis</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
-<p class="app-desc">Purpose-built Pebble Round 2 watchface showing concise time, date, weather, with a choice of four configurable complication slots. The focus is on readability and usefulness. Features include: …</p>
+<p class="app-desc">Purpose-built Pebble Round 2 watchface showing concise time, date, weather, with a choice of up to 6 configurable complication slots. The focus is on readability and usefulness. Features include…</p>
 </div>
 </div>
 <div class="app-card">

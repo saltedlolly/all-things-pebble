@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · **W** · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*76 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*79 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -155,6 +155,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/fb57a29ae6bb4b9a810085ba" data-search-exclude><img src="../images/apps/fb57a29ae6bb4b9a810085ba.png" alt="WatchBus" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-fb57a29ae6bb4b9a810085ba"><a href="https://apps.repebble.com/fb57a29ae6bb4b9a810085ba">WatchBus</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
+<a class="app-source" href="https://github.com/G0-G4/WatchBus" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/developer-723a8f.html" title="More from this developer">Грищенков Георгий</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Time Round, Time</div>
+<p class="app-desc">WatchBus показывает ближайшие остановки наземного транспорта Москвы и время прибытия автобусов, электробусов и трамваев. Остановки отсортированы по расстоянию. Подсказка о следующей остановке…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/55cf773067907b4aa200002a" data-search-exclude><img src="../images/apps/55cf773067907b4aa200002a.png" alt="WatchCraft" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-55cf773067907b4aa200002a"><a href="https://apps.repebble.com/55cf773067907b4aa200002a">WatchCraft</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
@@ -267,10 +278,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/1958c27652f34a59bd08c7d4" data-search-exclude><img src="../images/apps/1958c27652f34a59bd08c7d4.png" alt="WeightTracker" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-1958c27652f34a59bd08c7d4"><a href="https://apps.repebble.com/1958c27652f34a59bd08c7d4">WeightTracker</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.5</span></h2>
+<h2 class="app-name" id="app-1958c27652f34a59bd08c7d4"><a href="https://apps.repebble.com/1958c27652f34a59bd08c7d4">WeightTracker</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.1</span></h2>
 <a class="app-source" href="https://github.com/marukitano/weighttracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marukitano.html" title="More from this developer">marukitano</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-10-21</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-14</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">**WeightTracker – Simple weight tracking on your wrist.** Track your weight directly on your Pebble Time 2 with a clean, minimalist interface and a smooth, interactive chart. Whether you want to…</p>
 </div>
@@ -482,6 +493,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-07-23</span> <span title="Latest release in the app store">Updated 2026-08-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">WindSock is a basic location based wind Forecast app that I made mainly for my drone flying. But I&#x27;d imagine it being useful for many outdoor activities 🚁⛵😎 Watch: 🔶 Main screen shows current wind…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/cc4b971bf63c427d8870e526" data-search-exclude><img src="../images/apps/cc4b971bf63c427d8870e526.png" alt="WISP -Wrist Intelligence &amp; Speech Portal" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-cc4b971bf63c427d8870e526"><a href="https://apps.repebble.com/cc4b971bf63c427d8870e526">WISP -Wrist Intelligence &amp; Speech Portal</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
+<a class="app-source" href="https://github.com/ericlmccormick/Pebble-WISP" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-22</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Your AI assistant. Your voice. Your Pebble. WISP transforms your Pebble smartwatch into a voice-powered AI assistant, letting you interact with your favorite artificial intelligence services…</p>
 </div>
 </div>
 <div class="app-card">
@@ -790,6 +812,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2026-05-21</span> <span title="Latest release in the app store">Updated 2026-09-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Wristotle turns your Pebble&#x27;s dictation button into a voice command surface. Press the button, speak, and the Wristotle companion app on your Android phone handles it — calls, texts, reminders…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/4ccdb64fc2954490899510a9" data-search-exclude><img src="../images/apps/4ccdb64fc2954490899510a9.png" alt="WristWake" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4ccdb64fc2954490899510a9"><a href="https://apps.repebble.com/4ccdb64fc2954490899510a9">WristWake</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Gittegatt/WristWake" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/gittegatt.html" title="More from this developer">Gittegatt</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-09</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">WristWake is an alarm app for the Pebble Time 2 that syncs your alarms with Home Assistant. This lets you, for example, turn on the lights or start the coffee machine when your alarm rings…</p>
 </div>
 </div>
 <div class="app-card">

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · **S** · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*160 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*162 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -58,10 +58,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/40c8c70ad768489f908b499e" data-search-exclude><img src="../images/apps/40c8c70ad768489f908b499e.png" alt="Salat" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-40c8c70ad768489f908b499e"><a href="https://apps.repebble.com/40c8c70ad768489f908b499e">Salat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-40c8c70ad768489f908b499e"><a href="https://apps.repebble.com/40c8c70ad768489f908b499e">Salat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/vhoen/pebble-salat" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vhoen.html" title="More from this developer">vhoen</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-10-25</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Displays Salat time for a given latitude. Using lat/lng instead of location in order to avoid using an api key from a geocoding provider.</p>
 </div>
@@ -185,6 +185,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-03-07</span> <span title="Latest release in the app store">Updated 2016-03-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A simple scorekeeper for 2 teams. Pressing the top and bottom buttons changes the score for the upper and lower scores, respectively. Pressing the middle button toggles positive/negative scoring…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/9ee68350807b48edad6f41b8" data-search-exclude><img src="../images/apps/9ee68350807b48edad6f41b8.png" alt="Scribbly Note" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-9ee68350807b48edad6f41b8"><a href="https://apps.repebble.com/9ee68350807b48edad6f41b8">Scribbly Note</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/MrDenexi/pebble-scribbly-note" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/mrdenexi.html" title="More from this developer">MrDenexi</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-14</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A one-time handwritten note for your wrist. At the gym and need to remember your locker number? Open Scribbly Note, scribble &quot;117&quot; with your finger, press SELECT. Done. When you&#x27;re back, open the…</p>
 </div>
 </div>
 <div class="app-card">
@@ -969,6 +980,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/39857a1cdd1d42aa9313294f" data-search-exclude><img src="../images/apps/39857a1cdd1d42aa9313294f.png" alt="Solar Times" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-39857a1cdd1d42aa9313294f"><a href="https://apps.repebble.com/39857a1cdd1d42aa9313294f">Solar Times</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/Marrrrtthias/pebble-solar-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/marrrrtthias.html" title="More from this developer">Marrrrtthias</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-13</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">The interactive companion app to the Solar watchface for Pebble Time 2 (emery). It shows the same sun path for your location and lets you move the sun to today&#x27;s sunrise, solar noon and sunset…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5581703b7e7934d33a00000d" data-search-exclude><img src="../images/apps/5581703b7e7934d33a00000d.png" alt="SolarEdge Status" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-5581703b7e7934d33a00000d"><a href="https://apps.repebble.com/5581703b7e7934d33a00000d">SolarEdge Status</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2</span></h2>
@@ -1564,11 +1586,11 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/861a9def83ad417d89eee4cd" data-search-exclude><img src="../images/apps/861a9def83ad417d89eee4cd.png" alt="StroyCommute - Paris metro, RER &amp; tram times" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-861a9def83ad417d89eee4cd"><a href="https://apps.repebble.com/861a9def83ad417d89eee4cd">StroyCommute - Paris metro, RER &amp; tram times</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-861a9def83ad417d89eee4cd"><a href="https://apps.repebble.com/861a9def83ad417d89eee4cd">StroyCommute - Paris metro, RER &amp; tram times</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/DestroyCom/StroyCommute" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/destcom-stroyco.html" title="More from this developer">DestCom - StroyCo</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-16</span> <span title="Latest release in the app store">Updated 2026-10-16</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-16</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Real-time next departures for Paris / Île-de-France public transport, right on your wrist. • Metro, tram, RER and Transilien, with the official line colors. • Next departure plus the following…</p>
 </div>
 </div>

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · **O** · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*39 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*41 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -243,6 +243,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/59af0a59f7a34cb09a79bcbe" data-search-exclude><img src="../images/apps/59af0a59f7a34cb09a79bcbe.png" alt="Open Activity" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-59af0a59f7a34cb09a79bcbe"><a href="https://apps.repebble.com/59af0a59f7a34cb09a79bcbe">Open Activity</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<a class="app-source" href="https://github.com/xefensor/pebble-app-open-activity" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/xefensor.html" title="More from this developer">xefensor</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A button shortcut from your watchface to the app behind its activity. See a Timer countdown on Dynamic or Halftone, then use a Quick Launch shortcut to open Timer. Open Activity uses recent…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5712b0e918b16185ee000020" data-search-exclude><img src="../images/apps/5712b0e918b16185ee000020.png" alt="Open Bike Sharing" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-5712b0e918b16185ee000020"><a href="https://apps.repebble.com/5712b0e918b16185ee000020">Open Bike Sharing</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4</span></h2>
@@ -273,6 +284,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-02-04</span> <span title="Latest release in the app store">Updated 2016-06-11</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble based epileptic seizure detector to warn a carer that someone is experiencing a tonic-clonic seizure. Uses an associated Application that runs on an Android phone to raise alarms. Version 2…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/7ef8eab732ef4c26a34a8fb7" data-search-exclude><img src="../images/apps/7ef8eab732ef4c26a34a8fb7.png" alt="OpenCode Status" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7ef8eab732ef4c26a34a8fb7"><a href="https://apps.repebble.com/7ef8eab732ef4c26a34a8fb7">OpenCode Status</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.4</span></h2>
+<a class="app-source" href="https://github.com/SeeSharpSi/pebble-oc-status" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/silas.html" title="More from this developer">Silas</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-09</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">OpenCode Status puts your OpenCode sessions on your Pebble. See running sessions, questions, permission requests, and unread replies at a glance. Open a session to read its latest reply, answer…</p>
 </div>
 </div>
 <div class="app-card">

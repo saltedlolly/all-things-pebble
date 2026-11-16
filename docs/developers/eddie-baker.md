@@ -13,7 +13,7 @@ hide:
 
 # Eddie Baker
 
-*3 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*3 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eddie-baker_4ab6bb8c21d08402039dcd0b) · [GitHub (eddieatjollyroger)](https://github.com/eddieatjollyroger)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eddie-baker_4ab6bb8
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="ha tv remote" data-released="2026-10-19" data-updated="2026-11-10">
+<a class="app-shot" href="https://apps.repebble.com/da1745a953be4aabbf069ff6" data-search-exclude><img src="../images/apps/da1745a953be4aabbf069ff6.png" alt="HA TV Remote" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-da1745a953be4aabbf069ff6"><a href="https://apps.repebble.com/da1745a953be4aabbf069ff6">HA TV Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
+<a class="app-source" href="https://github.com/eddieatjollyroger/Pebble-HA-TV-Remote" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">A remote for all Home Assistant TVs. It works with Apple TV, Android TV (through the Android TV Remote integration) and VIDAA TVs (through the Vidaa TV integration). Button Select: sends an OK…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="ha quick text" data-released="2026-11-02" data-updated="2026-11-02">
 <a class="app-shot" href="https://apps.repebble.com/a0fdb515f83d4bb49634616e" data-search-exclude><img src="../images/apps/a0fdb515f83d4bb49634616e.png" alt="HA Quick Text" loading="lazy"></a>
 <div class="app-info">
@@ -46,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/eddie-baker_4ab6bb8
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-24</span> <span title="Latest release in the app store">Updated 2026-10-24</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Uses Home Assistant&#x27;s notify service to send a critical alert ringing an iPhone even in Silent Mode to locate it instead of using Apple&#x27;s Find My service.</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="ha tv remote" data-released="2026-10-19" data-updated="2026-10-23">
-<a class="app-shot" href="https://apps.repebble.com/da1745a953be4aabbf069ff6" data-search-exclude><img src="../images/apps/da1745a953be4aabbf069ff6.png" alt="HA TV Remote" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-da1745a953be4aabbf069ff6"><a href="https://apps.repebble.com/da1745a953be4aabbf069ff6">HA TV Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1</span></h2>
-<a class="app-source" href="https://github.com/eddieatjollyroger/Pebble-HA-TV-Remote" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-19</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">A remote for all Home Assistant TVs. It works with Apple TV, Android TV (through the Android TV Remote integration) and VIDAA TVs (through the Vidaa TV integration). Button Select: sends an OK…</p>
 </div>
 </div>
 </div>

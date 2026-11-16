@@ -13,7 +13,7 @@ hide:
 
 # Traumlewis
 
-*2 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/traumlewis_e8a61c7bab3b5ca3c1a42c50) · [GitHub (Traumlewis)](https://github.com/Traumlewis)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/traumlewis_e8a61c7b
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="driving planner (germany)" data-released="2026-11-08" data-updated="2026-11-10">
+<a class="app-shot" href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca" data-search-exclude><img src="../images/apps/b13dc8ec0cc54dfda73a6eca.png" alt="Driving Planner (Germany)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b13dc8ec0cc54dfda73a6eca"><a href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca">Driving Planner (Germany)</a> <span class="app-version" title="Latest version" data-search-exclude>v3.8.55</span></h2>
+<a class="app-source" href="https://github.com/Traumlewis/Driving-license-planner-for-Pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Driving Planner – Your driving lessons at a glance Plan your theory and practical lessons, get timely reminders and track your training progress directly on your Pebble. Manage up to 24…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="snak3" data-released="2026-06-05" data-updated="2026-11-08">
 <a class="app-shot" href="https://apps.repebble.com/6a0452a1f4304a6ba798d7db" data-search-exclude><img src="../images/apps/6a0452a1f4304a6ba798d7db.png" alt="SNAK3" loading="lazy"></a>
 <div class="app-info">
@@ -35,17 +46,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/traumlewis_e8a61c7b
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">🐍SNAK3 — Nokia-inspired Classic Snake. On your Pebble. Grab an apple, grow your snake and chase your next high score. SNAK3 brings the classic Snake experience to your wrist, with simple button…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="driving planner (germany)" data-released="2026-11-08" data-updated="2026-11-08">
-<a class="app-shot" href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca" data-search-exclude><img src="../images/apps/b13dc8ec0cc54dfda73a6eca.png" alt="Driving Planner (Germany)" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-b13dc8ec0cc54dfda73a6eca"><a href="https://apps.repebble.com/b13dc8ec0cc54dfda73a6eca">Driving Planner (Germany)</a> <span class="app-version" title="Latest version" data-search-exclude>v3.8.2</span></h2>
-<a class="app-source" href="https://github.com/Traumlewis/Driving-license-planner-for-Pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Keep your driving lessons organized from your Pebble. Driving Planner brings practical lessons, theory appointments, reminders and training progress together on your wrist. Plan up to 24…</p>
 </div>
 </div>
 </div>

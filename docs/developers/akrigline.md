@@ -13,7 +13,7 @@ hide:
 
 # akrigline
 
-*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/akrigline_2a8ecf59ca5fa4c7fba60f71) · [GitHub (akrigline)](https://github.com/akrigline)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/akrigline_2a8ecf59c
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="nappebble" data-released="2026-11-03" data-updated="2026-11-03">
+<div class="app-card" data-type="watchapp" data-title="nappebble" data-released="2026-11-03" data-updated="2026-11-10">
 <a class="app-shot" href="https://apps.repebble.com/a381e879f6e447878f82dc69" data-search-exclude><img src="../images/apps/a381e879f6e447878f82dc69.png" alt="nappebble" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-a381e879f6e447878f82dc69"><a href="https://apps.repebble.com/a381e879f6e447878f82dc69">nappebble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<h2 class="app-name" id="app-a381e879f6e447878f82dc69"><a href="https://apps.repebble.com/a381e879f6e447878f82dc69">nappebble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.1</span></h2>
 <a class="app-source" href="https://github.com/akrigline/nappebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-03</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Log your baby&#x27;s feeds, diapers and sleep to nappi from your wrist. nappebble puts nappi on your Pebble Time 2. Open it, tap a big colour tile, and the entry is logged. Most things take two taps…</p>
 </div>

@@ -13,23 +13,72 @@ hide:
 
 # xefensor
 
-*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 3 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xefensor_d401482e372dff79d360c099) · [GitHub (xefensor)](https://github.com/xefensor)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/xefensor_d401482e372dff79d360c099) · [GitHub (xefensor)](https://github.com/xefensor) · [Website (xefensor.github.io)](https://xefensor.github.io/xoce/projects/timer/)
 
 </div>
+</div>
+
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="halftone" data-released="2026-10-04" data-updated="2026-10-22">
+<div class="app-card" data-type="watchapp" data-title="timer" data-released="2026-11-13" data-updated="2026-11-14">
+<a class="app-shot" href="https://apps.repebble.com/2f8f8cfd4e7e442fb724dac7" data-search-exclude><img src="../images/apps/2f8f8cfd4e7e442fb724dac7.png" alt="Timer" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-2f8f8cfd4e7e442fb724dac7"><a href="https://apps.repebble.com/2f8f8cfd4e7e442fb724dac7">Timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/xefensor/pebble-app-timer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Reusable countdowns, right on your Pebble. Save up to eight timers and control them with the watch buttons. Choose hours, minutes and seconds, start a countdown, then keep its duration ready for…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="open activity" data-released="2026-11-13" data-updated="2026-11-14">
+<a class="app-shot" href="https://apps.repebble.com/59af0a59f7a34cb09a79bcbe" data-search-exclude><img src="../images/apps/59af0a59f7a34cb09a79bcbe.png" alt="Open Activity" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-59af0a59f7a34cb09a79bcbe"><a href="https://apps.repebble.com/59af0a59f7a34cb09a79bcbe">Open Activity</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<a class="app-source" href="https://github.com/xefensor/pebble-app-open-activity" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A button shortcut from your watchface to the app behind its activity. See a Timer countdown on Dynamic or Halftone, then use a Quick Launch shortcut to open Timer. Open Activity uses recent…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="halftone" data-released="2026-10-04" data-updated="2026-11-14">
 <a class="app-shot" href="https://apps.repebble.com/48d7f4eab704414c8bc1fa7e" data-search-exclude><img src="../images/apps/48d7f4eab704414c8bc1fa7e.png" alt="Halftone" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-48d7f4eab704414c8bc1fa7e"><a href="https://apps.repebble.com/48d7f4eab704414c8bc1fa7e">Halftone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.1</span></h2>
+<h2 class="app-name" id="app-48d7f4eab704414c8bc1fa7e"><a href="https://apps.repebble.com/48d7f4eab704414c8bc1fa7e">Halftone</a> <span class="app-version" title="Latest version" data-search-exclude>v1.10.3</span></h2>
 <a class="app-source" href="https://github.com/xefensor/halftone-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-04</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Halftone makes the color e-paper display feel like part of the Pebble Time 2 body. A precise halftone border grows out of the black bezel and curves around the screen with the same rounded shape…</p>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-10-04</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A bold Pebble clock with a halftone dot border. Halftone puts a distinctive clock and two useful readings on your wrist. Choose weather, battery or other compatible Pebble readings, then make the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="dynamic" data-released="2026-11-13" data-updated="2026-11-14">
+<a class="app-shot" href="https://apps.repebble.com/5db601a9303a4eb7baa90331" data-search-exclude><img src="../images/apps/5db601a9303a4eb7baa90331.png" alt="Dynamic" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5db601a9303a4eb7baa90331"><a href="https://apps.repebble.com/5db601a9303a4eb7baa90331">Dynamic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<a class="app-source" href="https://github.com/xefensor/pebble-watchface-dynamic" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A Pebble watchface that makes room for your day. Keep a clear clock above your chosen readings. When music or a countdown is active, Dynamic rearranges the space to show it alongside the time. …</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="dashboard" data-released="2026-11-13" data-updated="2026-11-14">
+<a class="app-shot" href="https://apps.repebble.com/603d814e961c40308c98ce63" data-search-exclude><img src="../images/apps/603d814e961c40308c98ce63.png" alt="Dashboard" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-603d814e961c40308c98ce63"><a href="https://apps.repebble.com/603d814e961c40308c98ce63">Dashboard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<a class="app-source" href="https://github.com/xefensor/pebble-app-dashboard" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Your activity, notifications and pinned readings in one Pebble overview. Open Dashboard for a quick look at one activity, a notification panel and two pinned items. Browse the full collections…</p>
 </div>
 </div>
 </div>

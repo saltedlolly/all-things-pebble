@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · **C** · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*105 apps · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*106 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -223,10 +223,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/32c7c20b0c4b471296fe70eb" data-search-exclude><img src="../images/apps/32c7c20b0c4b471296fe70eb.png" alt="CarGlance for Hyundai, Kia, Genesis" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-32c7c20b0c4b471296fe70eb"><a href="https://apps.repebble.com/32c7c20b0c4b471296fe70eb">CarGlance for Hyundai, Kia, Genesis</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-32c7c20b0c4b471296fe70eb"><a href="https://apps.repebble.com/32c7c20b0c4b471296fe70eb">CarGlance for Hyundai, Kia, Genesis</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/Marrrrtthias/CarGlance-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/marrrrtthias.html" title="More from this developer">Marrrrtthias</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A Pebble watchapp that shows the status of your Hyundai, Kia or Genesis car at a glance: whether the doors are locked, whether it is charging, and the battery level. Data comes from the Pleos…</p>
 </div>
@@ -529,14 +529,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/e885815d93414b89a61cca0f" data-search-exclude><img src="../images/apps/e885815d93414b89a61cca0f.png" alt="Circuit Training Tracker" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/e885815d93414b89a61cca0f" data-search-exclude><img src="../images/apps/e885815d93414b89a61cca0f.gif" alt="Circuit Training Tracker" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-e885815d93414b89a61cca0f"><a href="https://apps.repebble.com/e885815d93414b89a61cca0f">Circuit Training Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<h2 class="app-name" id="app-e885815d93414b89a61cca0f"><a href="https://apps.repebble.com/e885815d93414b89a61cca0f">Circuit Training Tracker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.12</span></h2>
 <a class="app-source" href="https://github.com/horstf/circuit-training-tracker" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/richh.html" title="More from this developer">richh</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-08</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
-<p class="app-desc">This app helps to manage the amount of weight used for different circuit training class exercises. Create exercises in the settings page, edit weights on the watchapp. New exercises can also be…</p>
+<p class="app-desc">This app is designed for gym exercises as well as circuit training classes. It&#x27;s been made so I can easily track my progress during Lifted exercises classes. I then added workouts to be able to do…</p>
 </div>
 </div>
 <div class="app-card">
@@ -559,6 +559,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-07-21</span> <span title="Latest release in the app store">Updated 2015-07-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The Cleveland Historical Pebble app puts Cleveland history on your wrist, allowing you to quickly access information about nearby historical sites around the city. Developed by the Center for…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6a778f9392a044b8ae66d1c5" data-search-exclude><img src="../images/apps/6a778f9392a044b8ae66d1c5.png" alt="Clicker" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6a778f9392a044b8ae66d1c5"><a href="https://apps.repebble.com/6a778f9392a044b8ae66d1c5">Clicker</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/consnop/pebble-clicker" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/solar-pendulum.html" title="More from this developer">Solar Pendulum</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-11</span> <span title="Latest release in the app store">Updated 2026-11-11</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Presentation clicker for a laptop. Down/Up change slides; hold Up to blank the screen, hold Down to start the slideshow. A talk timer buzzes 1, 2, 3, 1... times at each interval (every 5 minutes…</p>
 </div>
 </div>
 <div class="app-card">

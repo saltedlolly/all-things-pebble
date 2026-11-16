@@ -13,23 +13,50 @@ hide:
 
 # Marrrrtthias
 
-*1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/marrrrtthias_0737fb75312a8b5268569fec) · [GitHub (Marrrrtthias)](https://github.com/Marrrrtthias)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="carglance for hyundai, kia, genesis" data-released="2026-11-03" data-updated="2026-11-08">
+<div class="app-card" data-type="watchapp" data-title="carglance for hyundai, kia, genesis" data-released="2026-11-03" data-updated="2026-11-15">
 <a class="app-shot" href="https://apps.repebble.com/32c7c20b0c4b471296fe70eb" data-search-exclude><img src="../images/apps/32c7c20b0c4b471296fe70eb.png" alt="CarGlance for Hyundai, Kia, Genesis" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-32c7c20b0c4b471296fe70eb"><a href="https://apps.repebble.com/32c7c20b0c4b471296fe70eb">CarGlance for Hyundai, Kia, Genesis</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-32c7c20b0c4b471296fe70eb"><a href="https://apps.repebble.com/32c7c20b0c4b471296fe70eb">CarGlance for Hyundai, Kia, Genesis</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.0</span></h2>
 <a class="app-source" href="https://github.com/Marrrrtthias/CarGlance-pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-08</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A Pebble watchapp that shows the status of your Hyundai, Kia or Genesis car at a glance: whether the doors are locked, whether it is charging, and the battery level. Data comes from the Pleos…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="solar times" data-released="2026-11-13" data-updated="2026-11-13">
+<a class="app-shot" href="https://apps.repebble.com/39857a1cdd1d42aa9313294f" data-search-exclude><img src="../images/apps/39857a1cdd1d42aa9313294f.png" alt="Solar Times" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-39857a1cdd1d42aa9313294f"><a href="https://apps.repebble.com/39857a1cdd1d42aa9313294f">Solar Times</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/Marrrrtthias/pebble-solar-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-13</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">The interactive companion app to the Solar watchface for Pebble Time 2 (emery). It shows the same sun path for your location and lets you move the sun to today&#x27;s sunrise, solar noon and sunset…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="solar" data-released="2026-11-10" data-updated="2026-11-13">
+<a class="app-shot" href="https://apps.repebble.com/959e38bf7c0d48ad92d4cdba" data-search-exclude><img src="../images/apps/959e38bf7c0d48ad92d4cdba.gif" alt="Solar" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-959e38bf7c0d48ad92d4cdba"><a href="https://apps.repebble.com/959e38bf7c0d48ad92d4cdba">Solar</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/Marrrrtthias/pebble-solar-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-10</span> <span title="Latest release in the app store">Updated 2026-11-13</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A Pebble Time 2 (emery) watchface inspired by the Apple Watch Solar face. It plots the sun&#x27;s elevation over the day for your location and shows a glowing sun at the current time. - The curve runs…</p>
 </div>
 </div>
 </div>

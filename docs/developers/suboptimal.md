@@ -13,7 +13,7 @@ hide:
 
 # Suboptimal
 
-*1 watchface · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/suboptimal_1d661ee76dcd927ce38ec010) · [GitHub (JimmyMultani)](https://github.com/JimmyMultani)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/suboptimal_1d661ee7
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="glitch" data-released="2026-08-18" data-updated="2026-09-05">
+<div class="app-card" data-type="watchface" data-title="glitch" data-released="2026-08-18" data-updated="2026-11-16">
 <a class="app-shot" href="https://apps.repebble.com/334f1266fd1c4c97bbd2e502" data-search-exclude><img src="../images/apps/334f1266fd1c4c97bbd2e502.gif" alt="Glitch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-334f1266fd1c4c97bbd2e502"><a href="https://apps.repebble.com/334f1266fd1c4c97bbd2e502">Glitch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
+<h2 class="app-name" id="app-334f1266fd1c4c97bbd2e502"><a href="https://apps.repebble.com/334f1266fd1c4c97bbd2e502">Glitch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.3</span></h2>
 <a class="app-source" href="https://github.com/JimmyMultani/pebble-watchfaces" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-18</span> <span title="Latest release in the app store">Updated 2026-09-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-18</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A pixel-art watchface with dot-matrix digits and corner-bracket complications for weather, heart rate, steps, and battery. Design and digit shapes modeled on M8 by Tasos Papalyras (rdnt), a Wear…</p>
 </div>

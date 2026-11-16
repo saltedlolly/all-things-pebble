@@ -13,7 +13,7 @@ hide:
 
 # Cosmic Oscillator
 
-*1 watchface and 1 app · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cosmic-oscillator_8ace9a3153b33ec807dcd6c0) · [GitHub (tew42)](https://github.com/tew42)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cosmic-oscillator_8
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="timer++" data-released="2026-09-09" data-updated="2026-09-15">
+<div class="app-card" data-type="watchapp" data-title="timer++" data-released="2026-09-09" data-updated="2026-11-09">
 <a class="app-shot" href="https://apps.repebble.com/c0fb8a9ee65046f1a3f0c071" data-search-exclude><img src="../images/apps/c0fb8a9ee65046f1a3f0c071.gif" alt="Timer++" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c0fb8a9ee65046f1a3f0c071"><a href="https://apps.repebble.com/c0fb8a9ee65046f1a3f0c071">Timer++</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
+<h2 class="app-name" id="app-c0fb8a9ee65046f1a3f0c071"><a href="https://apps.repebble.com/c0fb8a9ee65046f1a3f0c071">Timer++</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
 <a class="app-source" href="https://github.com/tew42/pebble-timer-plus-plus" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-09-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-09</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">A beautiful, simple timer/stopwatch for the Pebble smartwatch, now with optimized battery life and more! Tell it how coarsely to show the time while it is a long way from zero, and it stops…</p>
 </div>

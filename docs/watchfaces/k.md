@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*36 watchfaces · Last updated 2026-11-09 · [About these lists](../about-app-lists.md)*
+*36 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -179,12 +179,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7f9c89453f7548e1ac494236" data-search-exclude><img src="../images/apps/7f9c89453f7548e1ac494236.png" alt="KinetiCast" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.1</span></h2>
+<h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.4</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Pebble-KinetiCast" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-07-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">KinetiCast 2.2: The Ultimate Telemetry Dashboard A high-density, data-rich dashboard built specifically for high-resolution color Pebble displays. KinetiCast delivers a complete overview of your…</p>
+<p class="app-desc">A smarter Pebble watchface that brings together your health, weather, and everyday information in one customizable display. KinetiCast is a feature-rich watchface designed for the Pebble Time 2…</p>
 </div>
 </div>
 <div class="app-card">
@@ -388,10 +388,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4151feede8864a94905355d0" data-search-exclude><img src="../images/apps/4151feede8864a94905355d0.png" alt="kurz vor acht" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4151feede8864a94905355d0"><a href="https://apps.repebble.com/4151feede8864a94905355d0">kurz vor acht</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.4</span></h2>
+<h2 class="app-name" id="app-4151feede8864a94905355d0"><a href="https://apps.repebble.com/4151feede8864a94905355d0">kurz vor acht</a> <span class="app-version" title="Latest version" data-search-exclude>v4.0.5</span></h2>
 <a class="app-source" href="https://github.com/MalteJoe/kurz-vor-acht" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/maltejoe.html" title="More from this developer">MalteJoe</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-20</span> <span title="Latest release in the app store">Updated 2026-08-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-20</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">This is is a watchface for the Pebble smartwatch that shows the current time in German. Based on the watchface for the original pebbles n3v3erstextone/Deutsch. The time is shown in colloquial…</p>
 </div>
