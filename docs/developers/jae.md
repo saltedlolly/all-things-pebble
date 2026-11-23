@@ -13,7 +13,7 @@ hide:
 
 # JAE
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jae_8f45f50dea6e83fd434e1445) · [GitHub (j4lc)](https://github.com/j4lc) · [Website (jae.fi)](https://jae.fi)
 

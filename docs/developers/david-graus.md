@@ -13,21 +13,37 @@ hide:
 
 # David Graus
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-graus_68ed6354b01aabbc38c26337) · [GitHub (graus)](https://github.com/graus) · [Website (graus.nu)](https://graus.nu/blog/pebble-watch-face-hearth/)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-graus_68ed6354b01aabbc38c26337) · [GitHub (graus)](https://github.com/graus) · [Website (graus.nu)](https://graus.nu/blog/new-watch-face-escape-time-mandelbrot-set-pebble/)
 
 </div>
+</div>
+
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="hearth" data-released="2026-11-07" data-updated="2026-11-07">
+<div class="app-card" data-type="watchface" data-title="escape time (mandelbrot set watch face)" data-released="2026-11-22" data-updated="2026-11-23">
+<a class="app-shot" href="https://apps.repebble.com/633f4c3b08ac4508aacbfe57" data-search-exclude><img src="../images/apps/633f4c3b08ac4508aacbfe57.gif" alt="Escape Time (Mandelbrot set watch face)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-633f4c3b08ac4508aacbfe57"><a href="https://apps.repebble.com/633f4c3b08ac4508aacbfe57">Escape Time (Mandelbrot set watch face)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/graus/escape-time-pebble-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-22</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">The time in four large digits, drawn from the Mandelbrot set itself. Every hour, Escape Time dives into the set: at :00 you see all of it, and every minute the view zooms 1.2x deeper and turns a…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="hearth" data-released="2026-11-07" data-updated="2026-11-22">
 <a class="app-shot" href="https://apps.repebble.com/6fded59c1f6041be8b87d7b7" data-search-exclude><img src="../images/apps/6fded59c1f6041be8b87d7b7.gif" alt="Hearth" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6fded59c1f6041be8b87d7b7"><a href="https://apps.repebble.com/6fded59c1f6041be8b87d7b7">Hearth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-6fded59c1f6041be8b87d7b7"><a href="https://apps.repebble.com/6fded59c1f6041be8b87d7b7">Hearth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/graus/hearth-pebble-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-07</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">The time in four large digits, each one a window onto a live fire. Hearth is inspired by Fireplace and draws its flames with the classic PSX Doom fire, computed live on your watch. The Doom fire…</p>
 </div>

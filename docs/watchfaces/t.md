@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · **T** · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*267 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*267 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -322,10 +322,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6bcf5df2349e4ff19ca9a4a5" data-search-exclude><img src="../images/apps/6bcf5df2349e4ff19ca9a4a5.gif" alt="Tellura" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6bcf5df2349e4ff19ca9a4a5"><a href="https://apps.repebble.com/6bcf5df2349e4ff19ca9a4a5">Tellura</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-6bcf5df2349e4ff19ca9a4a5"><a href="https://apps.repebble.com/6bcf5df2349e4ff19ca9a4a5">Tellura</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/Vortex375/pebble-watchfaces/tree/main/tellura" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/vortex375.html" title="More from this developer">Vortex375</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-31</span> <span title="Latest release in the app store">Updated 2026-11-01</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-31</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Tellura shows the time on two turning rings: minutes on the outer ring, hours on the inner one. Both turn clockwise. Read the current minute and hour at the top, or read the yellow markers like…</p>
 </div>
@@ -410,10 +410,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/719f27f4b48048d080225d6b" data-search-exclude><img src="../images/apps/719f27f4b48048d080225d6b.png" alt="Ten Forty" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-719f27f4b48048d080225d6b"><a href="https://apps.repebble.com/719f27f4b48048d080225d6b">Ten Forty</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-719f27f4b48048d080225d6b"><a href="https://apps.repebble.com/719f27f4b48048d080225d6b">Ten Forty</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/damosullivan/ten-forty" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">by <a href="../developers/damosullivan.html" title="More from this developer">damosullivan</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-13</span></div>
+<div class="app-dev">by <a href="../developers/damien.html" title="More from this developer">Damien</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Time Round, Time</div>
 <p class="app-desc">The time, in three words. Nine. Forty. Two. Set in Iosevka, with the hour in bold and the minutes in light, stacked on a baseline grid that fills the display. No icons, no weather, no step…</p>
 </div>
@@ -1939,10 +1939,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/2e877455cf1342c8bbc73a51" data-search-exclude><img src="../images/apps/2e877455cf1342c8bbc73a51.png" alt="TimeStyle Seconds" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2e877455cf1342c8bbc73a51"><a href="https://apps.repebble.com/2e877455cf1342c8bbc73a51">TimeStyle Seconds</a> <span class="app-version" title="Latest version" data-search-exclude>v7.13.0</span></h2>
+<h2 class="app-name" id="app-2e877455cf1342c8bbc73a51"><a href="https://apps.repebble.com/2e877455cf1342c8bbc73a51">TimeStyle Seconds</a> <span class="app-version" title="Latest version" data-search-exclude>v8.2.0</span></h2>
 <a class="app-source" href="https://github.com/sybenx/TimeStylePebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sybenx.html" title="More from this developer">sybenx</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-11-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A fork of the TimeStyle watchface that shows seconds during the last minute of every 30-minute block (:29 and :59), stacking hours, minutes and seconds as three rows. Otherwise identical to…</p>
 </div>

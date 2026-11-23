@@ -13,7 +13,7 @@ hide:
 
 # AC1RV
 
-*3 watchfaces and 4 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*4 watchfaces and 4 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ac1rv_6777264aa2b96c9dc917ffe3) · [GitHub (Darachnid)](https://github.com/Darachnid)
 
@@ -21,11 +21,33 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ac1rv_6777264aa2b96
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>7</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>3</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>4</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>8</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>4</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>4</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="spider fam" data-released="2026-11-18" data-updated="2026-11-18">
+<a class="app-shot" href="https://apps.repebble.com/e186cdb5132b490f864351d1" data-search-exclude><img src="../images/apps/e186cdb5132b490f864351d1.png" alt="Spider Fam" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e186cdb5132b490f864351d1"><a href="https://apps.repebble.com/e186cdb5132b490f864351d1">Spider Fam</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.3</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/spider-fam" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-18</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Spider Fam is a field-guide watchface for Pebble Time 2: one illustration per spider family found in North America, with common and scientific names under the plate and the clock below. 71…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="fresh water fishes of new england (1896)" data-released="2026-10-18" data-updated="2026-11-18">
+<a class="app-shot" href="https://apps.repebble.com/67628db68f614317b7826cb1" data-search-exclude><img src="../images/apps/67628db68f614317b7826cb1.png" alt="Fresh Water Fishes of New England (1896)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-67628db68f614317b7826cb1"><a href="https://apps.repebble.com/67628db68f614317b7826cb1">Fresh Water Fishes of New England (1896)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.1</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/fish-of-new-england-pebble-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Fresh Water Fishes of New England (1896) A watchface featuring a different fish each day, using original public-domain illustrations from The Fresh Water Fishes of New England. Each fish is…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="rbn spots" data-released="2026-10-24" data-updated="2026-10-24">
 <a class="app-shot" href="https://apps.repebble.com/6b3d339514db438588a361ce" data-search-exclude><img src="../images/apps/6b3d339514db438588a361ce.png" alt="RBN Spots" loading="lazy"></a>
 <div class="app-info">
@@ -79,17 +101,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ac1rv_6777264aa2b96
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-10-23</span> <span title="Latest release in the app store">Updated 2026-10-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">DPS Field is a Pebble watch companion for the DPS field controller running on the same phone. The watch uses the same dark layout as HF Bands: black background, yellow titles, and white figures…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="fresh water fishes of new england (1896)" data-released="2026-10-18" data-updated="2026-10-22">
-<a class="app-shot" href="https://apps.repebble.com/67628db68f614317b7826cb1" data-search-exclude><img src="../images/apps/67628db68f614317b7826cb1.png" alt="Fresh Water Fishes of New England (1896)" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-67628db68f614317b7826cb1"><a href="https://apps.repebble.com/67628db68f614317b7826cb1">Fresh Water Fishes of New England (1896)</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.3</span></h2>
-<a class="app-source" href="https://github.com/Darachnid/fish-of-new-england-pebble-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-18</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">Fresh Water Fishes of New England (1896) A watchface featuring a different fish each day, using original public-domain illustrations from The Fresh Water Fishes of New England. Each fish is…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="morse bird" data-released="2026-10-20" data-updated="2026-10-20">

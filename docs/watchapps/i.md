@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · **I** · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*34 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*35 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -78,9 +78,9 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/008e01e6880644b0abc2abe9" data-search-exclude><img src="../images/apps/008e01e6880644b0abc2abe9.png" alt="igi-Assistant" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/008e01e6880644b0abc2abe9" data-search-exclude><img src="../images/apps/008e01e6880644b0abc2abe9.png" alt="igi Assistant" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-008e01e6880644b0abc2abe9"><a href="https://apps.repebble.com/008e01e6880644b0abc2abe9">igi-Assistant</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
+<h2 class="app-name" id="app-008e01e6880644b0abc2abe9"><a href="https://apps.repebble.com/008e01e6880644b0abc2abe9">igi Assistant</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.1</span></h2>
 <a class="app-source" href="https://github.com/iginoc/igi-assistant" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/iginoc.html" title="More from this developer">iginoc</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-04-22</span></div>
@@ -89,9 +89,9 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/bb5bc885bd1f4d469571a699" data-search-exclude><img src="../images/apps/bb5bc885bd1f4d469571a699.png" alt="igitimer" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/bb5bc885bd1f4d469571a699" data-search-exclude><img src="../images/apps/bb5bc885bd1f4d469571a699.png" alt="igi timer" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-bb5bc885bd1f4d469571a699"><a href="https://apps.repebble.com/bb5bc885bd1f4d469571a699">igitimer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
+<h2 class="app-name" id="app-bb5bc885bd1f4d469571a699"><a href="https://apps.repebble.com/bb5bc885bd1f4d469571a699">igi timer</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/iginoc/igitimer" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/iginoc.html" title="More from this developer">iginoc</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-17</span> <span title="Latest release in the app store">Updated 2026-05-31</span></div>
@@ -100,9 +100,9 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/df73341019fd4b5fa0f30f17" data-search-exclude><img src="../images/apps/df73341019fd4b5fa0f30f17.png" alt="igitimer-graphic-big" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/df73341019fd4b5fa0f30f17" data-search-exclude><img src="../images/apps/df73341019fd4b5fa0f30f17.png" alt="igi timer graphic big" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-df73341019fd4b5fa0f30f17"><a href="https://apps.repebble.com/df73341019fd4b5fa0f30f17">igitimer-graphic-big</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
+<h2 class="app-name" id="app-df73341019fd4b5fa0f30f17"><a href="https://apps.repebble.com/df73341019fd4b5fa0f30f17">igi timer graphic big</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
 <a class="app-source" href="https://github.com/iginoc/igitimer-graphic-big" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/iginoc.html" title="More from this developer">iginoc</a></div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-01-27</span> <span title="Latest release in the app store">Updated 2026-05-27</span></div>
@@ -141,6 +141,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-12-11</span> <span title="Latest release in the app store">Updated 2015-04-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Simple imperial to metric conversion app that allows you to quickly convert between units by drilling down in menus until you find a value of sufficient accuracy. So the less precision you…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6bf539405d624c098322ae59" data-search-exclude><img src="../images/apps/6bf539405d624c098322ae59.png" alt="Inbox for GitHub" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6bf539405d624c098322ae59"><a href="https://apps.repebble.com/6bf539405d624c098322ae59">Inbox for GitHub</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/nathanm95/pebble-inbox-for-github" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/nathanm95.html" title="More from this developer">nathanm95</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-20</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Your GitHub notifications, reviews, pull request checks and builds on your wrist, with voice replies, plus a plugin for any watchface. Unofficial: not affiliated with GitHub.</p>
 </div>
 </div>
 <div class="app-card">
@@ -300,10 +311,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6c34b655b63f4f8a918844a8" data-search-exclude><img src="../images/apps/6c34b655b63f4f8a918844a8.png" alt="Iron" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6c34b655b63f4f8a918844a8"><a href="https://apps.repebble.com/6c34b655b63f4f8a918844a8">Iron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.6</span></h2>
+<h2 class="app-name" id="app-6c34b655b63f4f8a918844a8"><a href="https://apps.repebble.com/6c34b655b63f4f8a918844a8">Iron</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.7</span></h2>
 <a class="app-source" href="https://github.com/hag1987haaa/Iron-for-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/1987haaa.html" title="More from this developer">1987haaa</a> · <a href="https://forum.rebble.io/t/1113" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-23</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-06-23</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Iron - Workout Companion for Pebble Iron is a high-performance, open-source sports tracker for your Pebble smartwatch. Designed for runners and fitness enthusiasts, it tracks your real-time…</p>
 </div>

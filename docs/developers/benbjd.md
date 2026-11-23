@@ -13,7 +13,7 @@ hide:
 
 # BenBJD
 
-*1 watchface and 2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benbjd_2957a8556836bdb2c0ebacd9) · [GitHub (BenBJD)](https://github.com/BenBJD)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benbjd_2957a8556836
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="monzo" data-released="2026-11-11" data-updated="2026-11-16">
+<a class="app-shot" href="https://apps.repebble.com/818e20c1d8ce4adcb5590c5e" data-search-exclude><img src="../images/apps/818e20c1d8ce4adcb5590c5e.png" alt="Monzo" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-818e20c1d8ce4adcb5590c5e"><a href="https://apps.repebble.com/818e20c1d8ce4adcb5590c5e">Monzo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.1</span></h2>
+<a class="app-source" href="https://github.com/BenBJD/monzo-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-11</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Plugin and app for Monzo bank accounts</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="vector active" data-released="2026-11-12" data-updated="2026-11-12">
 <a class="app-shot" href="https://apps.repebble.com/faa59b5fd2914e15aadf9162" data-search-exclude><img src="../images/apps/faa59b5fd2914e15aadf9162.png" alt="Vector Active" loading="lazy"></a>
 <div class="app-info">
@@ -46,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/benbjd_2957a8556836
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-12</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple tailscale app for viewing stats. Requires my Tailscale plugin (make sure the new plugin support is enabled)</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="monzo" data-released="2026-11-11" data-updated="2026-11-12">
-<a class="app-shot" href="https://apps.repebble.com/818e20c1d8ce4adcb5590c5e" data-search-exclude><img src="../images/apps/818e20c1d8ce4adcb5590c5e.png" alt="Monzo" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-818e20c1d8ce4adcb5590c5e"><a href="https://apps.repebble.com/818e20c1d8ce4adcb5590c5e">Monzo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
-<a class="app-source" href="https://github.com/BenBJD/monzo-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-11</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Plugin and app for Monzo bank accounts</p>
 </div>
 </div>
 </div>

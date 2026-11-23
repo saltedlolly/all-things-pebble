@@ -13,7 +13,7 @@ hide:
 
 # Justin Sunseri
 
-*1 watchface and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface and 2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-sunseri_bc86b00b933f3ca278718653) · [Rebble App Store](https://apps.rebble.io/en_US/developer/60b941541342ae00a7b63a91/1) · [GitHub (jmsunseri)](https://github.com/jmsunseri)
 
@@ -21,20 +21,31 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/justin-sunseri_bc86
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="squire" data-released="2026-06-20" data-updated="2026-06-20">
+<div class="app-card" data-type="watchapp" data-title="squire" data-released="2026-06-20" data-updated="2026-11-23">
 <a class="app-shot" href="https://apps.repebble.com/6f24d81f31bf470ba81139fc" data-search-exclude><img src="../images/apps/6f24d81f31bf470ba81139fc.png" alt="Squire" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6f24d81f31bf470ba81139fc"><a href="https://apps.repebble.com/6f24d81f31bf470ba81139fc">Squire</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<h2 class="app-name" id="app-6f24d81f31bf470ba81139fc"><a href="https://apps.repebble.com/6f24d81f31bf470ba81139fc">Squire</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/jmsunseri/pebble-squire" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Squire is that allows you to communicate with either OpenClaw or Hermes using Telegram</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="slide stats" data-released="2026-11-23" data-updated="2026-11-23">
+<a class="app-shot" href="https://apps.repebble.com/8354b2fd06e54871a02dfb20" data-search-exclude><img src="../images/apps/8354b2fd06e54871a02dfb20.png" alt="Slide Stats" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-8354b2fd06e54871a02dfb20"><a href="https://apps.repebble.com/8354b2fd06e54871a02dfb20">Slide Stats</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<a class="app-source" href="https://github.com/jmsunseri/slide-stats" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-23</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Keep track of your ski and snowboard days. The settings page will display stats from the current day and aggregations for the season and by trips. Fully theme-able. It also works well for hiking…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="pebble float" data-released="2021-06-03" data-updated="2021-06-03">

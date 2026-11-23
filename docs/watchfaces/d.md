@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · **D** · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*140 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*143 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -364,6 +364,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/5ac12856fb884322b0b0600e" data-search-exclude><img src="../images/apps/5ac12856fb884322b0b0600e.png" alt="DeciTime" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5ac12856fb884322b0b0600e"><a href="https://apps.repebble.com/5ac12856fb884322b0b0600e">DeciTime</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
+<a class="app-source" href="https://github.com/eklimbie/pebble-decitime" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/quartz-calibrator.html" title="More from this developer">Quartz Calibrator</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">DeciTime tells the time the way the French Revolution tried to: 10 hours a day, 100 minutes an hour, 100 seconds a minute. Midnight is 0:00, noon is 5:00. Choose a ten-hour analog dial (round, or…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/559fa334f6ecd1b150000014" data-search-exclude><img src="../images/apps/559fa334f6ecd1b150000014.png" alt="Decor" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-559fa334f6ecd1b150000014"><a href="https://apps.repebble.com/559fa334f6ecd1b150000014">Decor</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
@@ -438,6 +449,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-05-18</span> <span title="Latest release in the app store">Updated 2025-05-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Become enveloped by your inner demon with Demonic Descent, with the following features: * Time * Date * Weather * Temperature * Shown as a range from very cold (30F) to very hot(100F), with…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/dec1caeb1ef9460182c63ef1" data-search-exclude><img src="../images/apps/dec1caeb1ef9460182c63ef1.png" alt="Desktop 95" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-dec1caeb1ef9460182c63ef1"><a href="https://apps.repebble.com/dec1caeb1ef9460182c63ef1">Desktop 95</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/konsumer/pebble95" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/david-konsumer.html" title="More from this developer">David Konsumer</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-17</span> <span title="Latest release in the app store">Updated 2026-11-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">A Win95 desktop on your wrist. The hand cursor is the hour hand and the arrow is the minute hand. Windows show the date, steps, heart rate, distance, calories, sleep, active minutes, phone…</p>
 </div>
 </div>
 <div class="app-card">
@@ -1222,6 +1244,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/6b0342f3566c71000bc7940b" data-search-exclude><img src="../images/apps/6b0342f3566c71000bc7940b.png" alt="Drizzle" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6b0342f3566c71000bc7940b"><a href="https://apps.rebble.io/en_US/application/6b0342f3566c71000bc7940b">Drizzle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/maurinkne-coder/minimal-weather-face" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/maurin.html" title="More from this developer">Maurin</a> · <a href="https://forum.rebble.io/t/1546" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-22</span> <span title="Latest release in the app store">Updated 2026-11-22</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A big, bold clock with the coming rain drawn as bars round the edge. Now is at the top, the next hours run clockwise. - Bar colours show how strong the rain is; solid means likely, outlined means…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/695f44b7ca04f20009aed6c2" data-search-exclude><img src="../images/apps/695f44b7ca04f20009aed6c2.png" alt="Dromo GC" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-695f44b7ca04f20009aed6c2"><a href="https://apps.repebble.com/695f44b7ca04f20009aed6c2">Dromo GC</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4</span></h2>
@@ -1521,10 +1554,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5db601a9303a4eb7baa90331" data-search-exclude><img src="../images/apps/5db601a9303a4eb7baa90331.png" alt="Dynamic" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5db601a9303a4eb7baa90331"><a href="https://apps.repebble.com/5db601a9303a4eb7baa90331">Dynamic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.2</span></h2>
+<h2 class="app-name" id="app-5db601a9303a4eb7baa90331"><a href="https://apps.repebble.com/5db601a9303a4eb7baa90331">Dynamic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
 <a class="app-source" href="https://github.com/xefensor/pebble-watchface-dynamic" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/xefensor.html" title="More from this developer">xefensor</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-13</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A Pebble watchface that makes room for your day. Keep a clear clock above your chosen readings. When music or a countdown is active, Dynamic rearranges the space to show it alongside the time. …</p>
 </div>

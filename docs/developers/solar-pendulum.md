@@ -13,7 +13,7 @@ hide:
 
 # Solar Pendulum
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/solar-pendulum_6d710ed163fa5db047e3350b) · [GitHub (consnop)](https://github.com/consnop)
 

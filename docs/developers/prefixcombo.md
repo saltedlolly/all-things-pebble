@@ -13,7 +13,7 @@ hide:
 
 # prefixcombo
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/prefixcombo_ac6b6eb93b626ef743e83fd6) · [GitHub (prefixcombo)](https://github.com/prefixcombo)
 

@@ -13,7 +13,7 @@ hide:
 
 # Sitwon
 
-*2 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*5 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sitwon_39bed3062aa58b3ec9601265) · [GitHub (Sitwon)](https://github.com/Sitwon)
 
@@ -21,31 +21,64 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sitwon_39bed3062aa5
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>5</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>5</span></button><button type="button" data-filter="watchapp" aria-pressed="false" disabled>Apps <span>0</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="server time" data-released="2026-11-21" data-updated="2026-11-21">
+<a class="app-shot" href="https://apps.repebble.com/7d02599fd19f46c383db4751" data-search-exclude><img src="../images/apps/7d02599fd19f46c383db4751.gif" alt="Server Time" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7d02599fd19f46c383db4751"><a href="https://apps.repebble.com/7d02599fd19f46c383db4751">Server Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/Sitwon/pebble-server-time" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Phosphor-terminal watchface: local time and date with seconds, live Unix epoch counter, and UTC time and date, all in a true monospace terminal font on a black screen.</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="moon" data-released="2026-11-21" data-updated="2026-11-21">
+<a class="app-shot" href="https://apps.repebble.com/c9b04db0ce7341a89a19f812" data-search-exclude><img src="../images/apps/c9b04db0ce7341a89a19f812.png" alt="Moon" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-c9b04db0ce7341a89a19f812"><a href="https://apps.repebble.com/c9b04db0ce7341a89a19f812">Moon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Sitwon/pebble-moon" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
+<p class="app-desc">A photo-real moon at its current phase, rendered from NASA&#x27;s Lunar Reconnaissance Orbiter imagery - the terminator and crater shadows at the day line are real. Optional analog clock hands (toggle…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="sundial" data-released="2026-11-20" data-updated="2026-11-20">
+<a class="app-shot" href="https://apps.repebble.com/a0f880336bcf4bcfa4f1acb8" data-search-exclude><img src="../images/apps/a0f880336bcf4bcfa4f1acb8.png" alt="Sundial" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a0f880336bcf4bcfa4f1acb8"><a href="https://apps.repebble.com/a0f880336bcf4bcfa4f1acb8">Sundial</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/Sitwon/pebble-sundial" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-20</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Sundial shows apparent solar time on a simulated horizontal brass dial: the shadow of the gnomon falls on the correct hour line for your location and the real solar position. Apparent (sundial)…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="palia time" data-released="2026-11-15" data-updated="2026-11-20">
+<a class="app-shot" href="https://apps.repebble.com/cf36b2225f634b2393b37886" data-search-exclude><img src="../images/apps/cf36b2225f634b2393b37886.gif" alt="Palia Time" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-cf36b2225f634b2393b37886"><a href="https://apps.repebble.com/cf36b2225f634b2393b37886">Palia Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<a class="app-source" href="https://github.com/Sitwon/pebble-palia-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
+<p class="app-desc">See Palia&#x27;s in-game time at a glance. A one-hand 24-hour dial colored like the in-game clock — dawn, day, dusk, and night sectors sweep the full screen, with a sun at noon, a crescent moon and…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="one piece log pose" data-released="2026-11-15" data-updated="2026-11-16">
 <a class="app-shot" href="https://apps.repebble.com/2ac4f9ce9225439a882b457d" data-search-exclude><img src="../images/apps/2ac4f9ce9225439a882b457d.png" alt="One Piece Log Pose" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2ac4f9ce9225439a882b457d"><a href="https://apps.repebble.com/2ac4f9ce9225439a882b457d">One Piece Log Pose</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-2ac4f9ce9225439a882b457d"><a href="https://apps.repebble.com/2ac4f9ce9225439a882b457d">One Piece Log Pose</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/Sitwon/pebble-onepiece-logpose-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">A New World Log Pose watch face for the Pebble Time 2 (emery) and Pebble Round 2 (gabbro), inspired by One Piece. The whole screen is the log pose: a wooden base with three glass orbs — the top…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="palia time" data-released="2026-11-15" data-updated="2026-11-15">
-<a class="app-shot" href="https://apps.repebble.com/cf36b2225f634b2393b37886" data-search-exclude><img src="../images/apps/cf36b2225f634b2393b37886.png" alt="Palia Time" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-cf36b2225f634b2393b37886"><a href="https://apps.repebble.com/cf36b2225f634b2393b37886">Palia Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
-<a class="app-source" href="https://github.com/Sitwon/pebble-palia-watchface" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">See Palia&#x27;s in-game time at a glance. A one-hand 24-hour dial colored like the in-game clock — dawn, day, dusk, and night sectors sweep the full screen, with a sun at noon, a crescent moon and…</p>
 </div>
 </div>
 </div>

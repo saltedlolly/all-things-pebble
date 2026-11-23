@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · **P** · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*239 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*241 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -78,13 +78,13 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/cf36b2225f634b2393b37886" data-search-exclude><img src="../images/apps/cf36b2225f634b2393b37886.png" alt="Palia Time" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/cf36b2225f634b2393b37886" data-search-exclude><img src="../images/apps/cf36b2225f634b2393b37886.gif" alt="Palia Time" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-cf36b2225f634b2393b37886"><a href="https://apps.repebble.com/cf36b2225f634b2393b37886">Palia Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<h2 class="app-name" id="app-cf36b2225f634b2393b37886"><a href="https://apps.repebble.com/cf36b2225f634b2393b37886">Palia Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/Sitwon/pebble-palia-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sitwon.html" title="More from this developer">Sitwon</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">See Palia&#x27;s in-game time at a glance. A one-hand 24-hour dial colored like the in-game clock — dawn, day, dusk, and night sectors sweep the full screen, with a sun at noon, a crescent moon and…</p>
 </div>
 </div>
@@ -487,11 +487,11 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/20546b1dc76e4eb0aa4cbc1f" data-search-exclude><img src="../images/apps/20546b1dc76e4eb0aa4cbc1f.gif" alt="Pebble Mesh" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-20546b1dc76e4eb0aa4cbc1f"><a href="https://apps.repebble.com/20546b1dc76e4eb0aa4cbc1f">Pebble Mesh</a> <span class="app-version" title="Latest version" data-search-exclude>v1.66</span></h2>
+<h2 class="app-name" id="app-20546b1dc76e4eb0aa4cbc1f"><a href="https://apps.repebble.com/20546b1dc76e4eb0aa4cbc1f">Pebble Mesh</a> <span class="app-version" title="Latest version" data-search-exclude>v1.68</span></h2>
 <a class="app-source" href="https://github.com/peerdavid/pebble-mesh" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-peer.html" title="More from this developer">David Peer</a> · <a href="https://forum.rebble.io/t/592" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-02-28</span> <span title="Latest release in the app store">Updated 2026-09-02</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-02-28</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Pebble Mesh is an open-source, retro-digital watch face designed for maximum clarity and essential stats. This face features a signature dot-matrix grid background that gives it a crisp…</p>
 </div>
 </div>
@@ -724,6 +724,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-05-02</span> <span title="Latest release in the app store">Updated 2014-05-29</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">TextWatch watchface&#x27;in Türkçeye uyarlanmış halidir. Sonradan eklenen özellikler: * Pebble&#x27;ın pil durumu * Blutooth bağlantısı koptuğunda titrşimle uyarı The famous TextWatch watchface but in…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/d4255cc5bf9d4b8a9840d935" data-search-exclude><img src="../images/apps/d4255cc5bf9d4b8a9840d935.gif" alt="Pejsek a Kočička" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d4255cc5bf9d4b8a9840d935"><a href="https://apps.repebble.com/d4255cc5bf9d4b8a9840d935">Pejsek a Kočička</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/JohnMetsn/pejsek-a-kocicka" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/john-metsn.html" title="More from this developer">John Metsn</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-18</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Pejsek a Kočička (&quot;Doggy and Kitty&quot;) are two friends from Josef Čapek&#x27;s 1929 Czech children&#x27;s book. On your wrist they live their day next to a big, bold clock. Raise your wrist and they act out…</p>
 </div>
 </div>
 <div class="app-card">
@@ -2388,6 +2399,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/4bb1f8cbeada4d7c8da548e2" data-search-exclude><img src="../images/apps/4bb1f8cbeada4d7c8da548e2.png" alt="Programmer&#x27;s Watch" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-4bb1f8cbeada4d7c8da548e2"><a href="https://apps.repebble.com/4bb1f8cbeada4d7c8da548e2">Programmer&#x27;s Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
+<a class="app-source" href="https://github.com/czandor/programmersWatchPebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/andor-czafik.html" title="More from this developer">Andor Czafik</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Programmer&#x27;s Watch is a data-dense, native C watchface for Pebble Time 2 (Emery), faithfully ported from the original Fitbit watchface. Features: 🕒 Dual clock: Large digital time (12h/24h…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/ec87b11cd1e04425a42d9177" data-search-exclude><img src="../images/apps/ec87b11cd1e04425a42d9177.png" alt="progres" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-ec87b11cd1e04425a42d9177"><a href="https://apps.repebble.com/ec87b11cd1e04425a42d9177">progres</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -2456,10 +2478,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/3d3c24d512f440d1b9281541" data-search-exclude><img src="../images/apps/3d3c24d512f440d1b9281541.gif" alt="Progressring" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-3d3c24d512f440d1b9281541"><a href="https://apps.repebble.com/3d3c24d512f440d1b9281541">Progressring</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<h2 class="app-name" id="app-3d3c24d512f440d1b9281541"><a href="https://apps.repebble.com/3d3c24d512f440d1b9281541">Progressring</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/ErBlack/progressring" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/artem-pendiurin.html" title="More from this developer">Artem Pendiurin</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Like a progressbar, but in ring form: displays the progress of the day with sunrise, sunset and events around the edge. In the center: a big clock with the date, surrounded by info blocks for…</p>
 </div>

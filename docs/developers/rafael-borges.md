@@ -13,7 +13,7 @@ hide:
 
 # Rafael Borges
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rafael-borges_f664d570de6a70fabb4a2cab) · [GitHub (rafaelborges29)](https://github.com/rafaelborges29)
 

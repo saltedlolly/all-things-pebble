@@ -13,7 +13,7 @@ hide:
 
 # Pebble
 
-*20 watchfaces and 7 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*20 watchfaces and 8 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8d590d3000029) · [GitHub (pebble)](https://github.com/pebble) · [GitHub (coredevices)](https://github.com/coredevices) · [GitHub (pebble-hacks)](https://github.com/pebble-hacks) · [GitHub (pebble-examples)](https://github.com/pebble-examples) · [Website (getpebble.com)](https://getpebble.com)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pebble_52d8a44faef8
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>27</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>20</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>7</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>28</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>20</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>8</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="google home" data-released="2026-10-15" data-updated="2026-11-18">
+<a class="app-shot" href="https://apps.repebble.com/d2a60c2764ca44d380042dcc" data-search-exclude><img src="../images/apps/d2a60c2764ca44d380042dcc.png" alt="Google Home" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d2a60c2764ca44d380042dcc"><a href="https://apps.repebble.com/d2a60c2764ca44d380042dcc">Google Home</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.4</span></h2>
+<a class="app-source" href="https://github.com/coredevices/pebble-apps/tree/main/googlehome" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-15</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Control your Google Home devices from your Pebble watch or Index ring. Turn lights on and off, set brightness and colour temperature, lock and unlock locks, set the thermostat, change speaker…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="what&#x27;s playing" data-released="2026-11-05" data-updated="2026-11-08">
 <a class="app-shot" href="https://apps.repebble.com/c347ca2d89184519991d23a5" data-search-exclude><img src="../images/apps/c347ca2d89184519991d23a5.png" alt="What&#x27;s Playing" loading="lazy"></a>
 <div class="app-info">

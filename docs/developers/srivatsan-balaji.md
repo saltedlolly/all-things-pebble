@@ -13,7 +13,7 @@ hide:
 
 # Srivatsan Balaji
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/srivatsan-balaji_999e43b462a454979127612d) · [GitHub (kryptocodes)](https://github.com/kryptocodes)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/srivatsan-balaji_99
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="energy meter" data-released="2026-11-12" data-updated="2026-11-12">
+<div class="app-card" data-type="watchface" data-title="energy meter" data-released="2026-11-12" data-updated="2026-11-19">
 <a class="app-shot" href="https://apps.repebble.com/f75bd2d2b19443f8ae49553c" data-search-exclude><img src="../images/apps/f75bd2d2b19443f8ae49553c.png" alt="Energy Meter" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f75bd2d2b19443f8ae49553c"><a href="https://apps.repebble.com/f75bd2d2b19443f8ae49553c">Energy Meter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-f75bd2d2b19443f8ae49553c"><a href="https://apps.repebble.com/f75bd2d2b19443f8ae49553c">Energy Meter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/kryptocodes/pebble-energy-meter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-12</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-12</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A watchface modelled on the electricity meter at home. Six register drums read HH MM SS, the meter disc spins faster as you move, and the CAL LED blinks every second. The nameplate shows weather…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # Grillza
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/grillza_9a8172b4cdf1388419335818) · [GitHub (Grillza)](https://github.com/Grillza)
 

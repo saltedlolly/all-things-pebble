@@ -13,7 +13,7 @@ hide:
 
 # Jordan Fisher
 
-*3 watchfaces and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jordan-fisher_5d482ff5d76b0f00018300f2) · [GitHub (thementalgoose)](https://github.com/thementalgoose) · [Website (flashback.pages.dev)](https://flashback.pages.dev)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/jordan-fisher_5d482
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="arcs" data-released="2026-04-12" data-updated="2026-09-29">
+<div class="app-card" data-type="watchface" data-title="arcs" data-released="2026-04-12" data-updated="2026-11-23">
 <a class="app-shot" href="https://apps.repebble.com/40d48d07d398413fbe331dc3" data-search-exclude><img src="../images/apps/40d48d07d398413fbe331dc3.png" alt="ARCs" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-40d48d07d398413fbe331dc3"><a href="https://apps.repebble.com/40d48d07d398413fbe331dc3">ARCs</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
+<h2 class="app-name" id="app-40d48d07d398413fbe331dc3"><a href="https://apps.repebble.com/40d48d07d398413fbe331dc3">ARCs</a> <span class="app-version" title="Latest version" data-search-exclude>v3.2.0</span></h2>
 <a class="app-source" href="https://github.com/thementalgoose/pebble-arcs" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-09-29</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-12</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Simple pebble watchface with indicator arcs in 4 corners of the display - Support for 12/24h times - Support for all watch types and sizes - Configurable colors for each indicators - Configurable…</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # DEVELARPER
 
-*2 watchfaces and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/develarper_3e9db43ff8d760635172598e) · [GitHub (GuruGitHubTheG)](https://github.com/GuruGitHubTheG)
 
@@ -38,12 +38,12 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/develarper_3e9db43f
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="transloc" data-released="2026-10-05" data-updated="2026-10-05">
-<a class="app-shot" href="https://apps.repebble.com/8d5a983845754bd0b3c8ac68" data-search-exclude><img src="../images/apps/8d5a983845754bd0b3c8ac68.png" alt="TransLoc" loading="lazy"></a>
+<a class="app-shot" href="https://github.com/GuruGitHubTheG/TransLoc-Pebble" data-search-exclude><img src="../images/apps/8d5a983845754bd0b3c8ac68.png" alt="TransLoc" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-8d5a983845754bd0b3c8ac68"><a href="https://apps.repebble.com/8d5a983845754bd0b3c8ac68">TransLoc</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-8d5a983845754bd0b3c8ac68"><a href="https://github.com/GuruGitHubTheG/TransLoc-Pebble">TransLoc</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
 <a class="app-source" href="https://github.com/GuruGitHubTheG/TransLoc-Pebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-05</span> <span title="Latest release in the app store">Updated 2026-10-05</span> <span>No longer in the app stores</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Catch the bus in style with TransLoc for Pebble! With support for over one hundred transit agencies, this app can get you where you need to go. Don&#x27;t second guess when your bus will arrive, find…</p>
 </div>

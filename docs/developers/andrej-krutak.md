@@ -13,7 +13,7 @@ hide:
 
 # Andrej Krutak
 
-*3 watchfaces and 2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*3 watchfaces and 2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrej-krutak_5684488b55484b8a3a00003e) · [GitHub (andree182)](https://github.com/andree182)
 

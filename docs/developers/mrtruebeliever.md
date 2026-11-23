@@ -13,7 +13,7 @@ hide:
 
 # mrTrueBeliever
 
-*1 watchface and 8 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface and 8 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrtruebeliever_5f8814a92a6f109602136f61) · [GitHub (mrtruebeliever)](https://github.com/mrtruebeliever)
 
@@ -26,6 +26,17 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrtruebeliever_5f88
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="pebbledoist" data-released="2026-07-14" data-updated="2026-11-19">
+<a class="app-shot" href="https://apps.repebble.com/62a96010e98448ebaaa647fb" data-search-exclude><img src="../images/apps/62a96010e98448ebaaa647fb.png" alt="PebbleDoist" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-62a96010e98448ebaaa647fb"><a href="https://apps.repebble.com/62a96010e98448ebaaa647fb">PebbleDoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
+<a class="app-source" href="https://github.com/mrtruebeliever/PebbleDoist" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
+<p class="app-desc">Your Todoist tasks on your wrist — add them by voice. Browse Todoist by list, label or Today, read details and subtasks, tick tasks off, and dictate new ones. Touch on PT2. 5 languages…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="cairn" data-released="2026-07-25" data-updated="2026-10-13">
 <a class="app-shot" href="https://apps.repebble.com/707660e759f249eb85df1b04" data-search-exclude><img src="../images/apps/707660e759f249eb85df1b04.png" alt="Cairn" loading="lazy"></a>
 <div class="app-info">
@@ -68,17 +79,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/mrtruebeliever_5f88
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-19</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Track your time in Kimai, straight from your wrist. Start, stop and switch Kimai time tracking from your Pebble. Recent activities in one press. Touch on PT2. 5 languages. PebbleKimai puts your…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="pebbledoist" data-released="2026-07-14" data-updated="2026-10-12">
-<a class="app-shot" href="https://apps.repebble.com/62a96010e98448ebaaa647fb" data-search-exclude><img src="../images/apps/62a96010e98448ebaaa647fb.png" alt="PebbleDoist" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-62a96010e98448ebaaa647fb"><a href="https://apps.repebble.com/62a96010e98448ebaaa647fb">PebbleDoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
-<a class="app-source" href="https://github.com/mrtruebeliever/PebbleDoist" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
-<p class="app-desc">Your Todoist tasks on your wrist — add them by voice. Browse Todoist by list, label or Today, read details and subtasks, tick tasks off, and dictate new ones. Touch on PT2. 5 languages…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="pebblediver" data-released="2026-07-20" data-updated="2026-10-12">

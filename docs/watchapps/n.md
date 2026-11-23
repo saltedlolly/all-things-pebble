@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · **N** · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*45 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*46 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -20,6 +20,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-09-02</span> <span title="Latest release in the app store">Updated 2026-06-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Once launched and configured, Nag for Pebble exits immediately so you can keep using your watchface and other apps — but it keeps buzzing your Pebble (every hour by default) in the background. Use…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/2c61c0e6622c46f9b4945843" data-search-exclude><img src="../images/apps/2c61c0e6622c46f9b4945843.png" alt="Named Timers" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-2c61c0e6622c46f9b4945843"><a href="https://apps.repebble.com/2c61c0e6622c46f9b4945843">Named Timers</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/rohit-gohri/pebble-named-timer" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/rohit-gohri.html" title="More from this developer">Rohit Gohri</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-22</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Based on the official open-source Pebble Timer app, Named Timers adds timer labels for Pebble Time 2 and Pebble Round 2. Name timers via voice dictation, customizable presets, or two-way phone…</p>
 </div>
 </div>
 <div class="app-card">
@@ -234,12 +245,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/da9ef484253f4ee780a808f6" data-search-exclude><img src="../images/apps/da9ef484253f4ee780a808f6.png" alt="Next Up Agenda" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-da9ef484253f4ee780a808f6"><a href="https://apps.repebble.com/da9ef484253f4ee780a808f6">Next Up Agenda</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-da9ef484253f4ee780a808f6"><a href="https://apps.repebble.com/da9ef484253f4ee780a808f6">Next Up Agenda</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Next-Up-Agenda" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Your upcoming calendar events and daily weather, all in one place. Next Up Agenda brings your schedule and weather forecast together in a clean, easy-to-read interface designed for Pebble watches…</p>
+<p class="app-desc">Your upcoming calendar events and daily weather, all in one place. Event lists and details fit round Pebble screens. Narrow displays keep dates and daily high and low temperatures readable…</p>
 </div>
 </div>
 <div class="app-card">
@@ -432,10 +443,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/69c000c26d8fa50009bffa61" data-search-exclude><img src="../images/apps/69c000c26d8fa50009bffa61.png" alt="Notification Center" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69c000c26d8fa50009bffa61"><a href="https://apps.rebble.io/en_US/application/69c000c26d8fa50009bffa61">Notification Center</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10</span></h2>
+<h2 class="app-name" id="app-69c000c26d8fa50009bffa61"><a href="https://apps.rebble.io/en_US/application/69c000c26d8fa50009bffa61">Notification Center</a> <span class="app-version" title="Latest version" data-search-exclude>v2.41</span></h2>
 <a class="app-source" href="https://github.com/matejdro/PebbleNotificationCenter2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/matejdro.html" title="More from this developer">matejdro</a> · <a href="https://forum.rebble.io/t/788" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-09-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-11-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A complete replacement app for Pebble notifications with more features and wider customisation. Click &quot;Website Link&quot; below for more information. (Thanks to the LCP for the help with the banner)</p>
 </div>
@@ -443,10 +454,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f93c30c5c5f544db8caee226" data-search-exclude><img src="../images/apps/f93c30c5c5f544db8caee226.png" alt="Notification Sync" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f93c30c5c5f544db8caee226"><a href="https://apps.repebble.com/f93c30c5c5f544db8caee226">Notification Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
+<h2 class="app-name" id="app-f93c30c5c5f544db8caee226"><a href="https://apps.repebble.com/f93c30c5c5f544db8caee226">Notification Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5.4</span></h2>
 <a class="app-source" href="https://github.com/TomBolger/NotificationSync" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tombolger.html" title="More from this developer">TomBolger</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">Have you ever been annoyed that your watch notifications were a separate storage bucket of stale notices you may have already seen on your phone? Ever swap to an Android watch and miss the…</p>
 </div>

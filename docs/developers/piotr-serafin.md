@@ -13,7 +13,7 @@ hide:
 
 # Piotr Serafin
 
-*2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/piotr-serafin_a19d3e6ff0253a431a752641) · [GitHub (piotrserafin)](https://github.com/piotrserafin)
 
@@ -26,15 +26,15 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/piotr-serafin_a19d3
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="revolver" data-released="2026-07-13" data-updated="2026-09-04">
+<div class="app-card" data-type="watchapp" data-title="revolver" data-released="2026-07-13" data-updated="2026-11-19">
 <a class="app-shot" href="https://apps.repebble.com/c3e702834987434a8ec3d470" data-search-exclude><img src="../images/apps/c3e702834987434a8ec3d470.png" alt="ReVolver" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c3e702834987434a8ec3d470"><a href="https://apps.repebble.com/c3e702834987434a8ec3d470">ReVolver</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-c3e702834987434a8ec3d470"><a href="https://apps.repebble.com/c3e702834987434a8ec3d470">ReVolver</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/piotrserafin/ReVolver" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-13</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-13</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Remote control your Volvo car from your wrist. ReVolver — Remote Volvo controller. Also &quot;volver&quot; (Spanish): &quot;to return/come back&quot; to your car. Control your Volvo from your Pebble watch via the…</p>
+<p class="app-desc">ReVolver — Remote Volvo controller for your Pebble. Control your Volvo from your wrist, through the official Volvo Connected Vehicle API. IMPORTANT (November 2026) ReVolver moved to Volvo&#x27;s new…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="wastewatch" data-released="2026-07-05" data-updated="2026-07-05">

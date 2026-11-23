@@ -13,7 +13,7 @@ hide:
 
 # Silas
 
-*2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/silas_b2042e7e8872067658157faf) · [GitHub (SeeSharpSi)](https://github.com/SeeSharpSi)
 
@@ -26,24 +26,24 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/silas_b2042e7e88720
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="opencode status" data-released="2026-11-09" data-updated="2026-11-15">
+<div class="app-card" data-type="watchapp" data-title="opencode status" data-released="2026-11-09" data-updated="2026-11-21">
 <a class="app-shot" href="https://apps.repebble.com/7ef8eab732ef4c26a34a8fb7" data-search-exclude><img src="../images/apps/7ef8eab732ef4c26a34a8fb7.png" alt="OpenCode Status" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7ef8eab732ef4c26a34a8fb7"><a href="https://apps.repebble.com/7ef8eab732ef4c26a34a8fb7">OpenCode Status</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.4</span></h2>
+<h2 class="app-name" id="app-7ef8eab732ef4c26a34a8fb7"><a href="https://apps.repebble.com/7ef8eab732ef4c26a34a8fb7">OpenCode Status</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.4</span></h2>
 <a class="app-source" href="https://github.com/SeeSharpSi/pebble-oc-status" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-09</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-09</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">OpenCode Status puts your OpenCode sessions on your Pebble. See running sessions, questions, permission requests, and unread replies at a glance. Open a session to read its latest reply, answer…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="llm thing" data-released="2026-10-26" data-updated="2026-11-09">
+<div class="app-card" data-type="watchapp" data-title="llm thing" data-released="2026-10-26" data-updated="2026-11-20">
 <a class="app-shot" href="https://apps.repebble.com/b8319da1343f40b9a3000650" data-search-exclude><img src="../images/apps/b8319da1343f40b9a3000650.png" alt="LLM Thing" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b8319da1343f40b9a3000650"><a href="https://apps.repebble.com/b8319da1343f40b9a3000650">LLM Thing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.0</span></h2>
+<h2 class="app-name" id="app-b8319da1343f40b9a3000650"><a href="https://apps.repebble.com/b8319da1343f40b9a3000650">LLM Thing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.2</span></h2>
 <a class="app-source" href="https://github.com/SeeSharpSi/llm_thing" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Dictate prompts on your Pebble and get answers from an OpenAI-compatible model. Supports web search, geolocation, Timeline, Health, memories, remote MCP tools, and Pebble plugin sources and…</p>
 </div>

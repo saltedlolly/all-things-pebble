@@ -13,7 +13,7 @@ hide:
 
 # ciabattarichri
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ciabattarichri_f98aaa2484338ade485111c5) · [GitHub (ciabattarichri)](https://github.com/ciabattarichri)
 

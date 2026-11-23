@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*32 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*35 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -133,6 +133,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/b7458a6f5ff142c5be03cee5" data-search-exclude><img src="../images/apps/b7458a6f5ff142c5be03cee5.png" alt="kHealth" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-b7458a6f5ff142c5be03cee5"><a href="https://apps.repebble.com/b7458a6f5ff142c5be03cee5">kHealth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/gkerherve/kHealth" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/gwil-kherve.html" title="More from this developer">Gwil Kherve</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Everything Pebble Health knows, on four beautiful pages. TODAY: a steps ring against your usual day (a second ring when you beat it), distance, calories, active minutes and your steps hour by…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54b7e81f986a22be1a000072" data-search-exclude><img src="../images/apps/54b7e81f986a22be1a000072.png" alt="Khelljyr Framework Example (garbage collector)" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-54b7e81f986a22be1a000072"><a href="https://apps.repebble.com/54b7e81f986a22be1a000072">Khelljyr Framework Example (garbage collector)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -240,6 +251,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2016-06-25</span> <span title="Latest release in the app store">Updated 2016-06-26</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Pebble app for getting KMB bus arrival time</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/a065110c3ab34985ba767ddc" data-search-exclude><img src="../images/apps/a065110c3ab34985ba767ddc.png" alt="kMusic" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a065110c3ab34985ba767ddc"><a href="https://apps.repebble.com/a065110c3ab34985ba767ddc">kMusic</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
+<a class="app-source" href="https://github.com/gkerherve/kMusic" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/gwil-kherve.html" title="More from this developer">Gwil Kherve</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-20</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Now playing on your Pebble: the album cover, song, artist and progress from YouTube Music, Spotify or any Android music app, with Pebble-style controls. REQUIRES THE FREE ANDROID COMPANION APP…</p>
 </div>
 </div>
 <div class="app-card">
@@ -361,6 +383,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2013-12-25</span> <span title="Latest release in the app store">Updated 2016-12-13</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Shows live departure data from Karlsruhe&#x27;s public transit (KVV). Configure your frequented stops on the phone, then view departure information on Pebble. Data is taken from live.kvv.de Deutsch…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/71a6837724b2446db6bbc2d6" data-search-exclude><img src="../images/apps/71a6837724b2446db6bbc2d6.png" alt="kWeather" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-71a6837724b2446db6bbc2d6"><a href="https://apps.repebble.com/71a6837724b2446db6bbc2d6">kWeather</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/gkerherve/kWeather" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/gwil-kherve.html" title="More from this developer">Gwil Kherve</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Beautiful weather for your Pebble, drawn by hand. NOW: a big weather icon, the temperature, high and low, how it feels, and a bubble telling you when it will rain. RAIN AND TEMPERATURE: the next…</p>
 </div>
 </div>
 </div>

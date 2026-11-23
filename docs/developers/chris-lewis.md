@@ -13,7 +13,7 @@ hide:
 
 # Chris Lewis
 
-*31 watchfaces and 6 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*32 watchfaces and 6 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd30e627ce1147000099) · [GitHub (C-D-Lewis)](https://github.com/C-D-Lewis) · [Website (ninedof.wordpress.com)](http://ninedof.wordpress.com)
 
@@ -21,18 +21,51 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>37</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>31</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>6</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>38</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>32</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>6</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="instruments" data-released="2026-11-06" data-updated="2026-11-12">
+<div class="app-card" data-type="watchface" data-title="muninn" data-released="2026-11-22" data-updated="2026-11-22">
+<a class="app-shot" href="https://apps.repebble.com/d3ab4ddaca8b400e8460c590" data-search-exclude><img src="../images/apps/d3ab4ddaca8b400e8460c590.png" alt="Muninn" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d3ab4ddaca8b400e8460c590"><a href="https://apps.repebble.com/d3ab4ddaca8b400e8460c590">Muninn</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/1545" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-22</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Demo watchface for the Pebble plugin included with the Muninn watchapp. If there is enough sample data for calculated stats, they will be shown with this watchface.</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="muninn - battery wisdom" data-released="2025-11-29" data-updated="2026-11-21">
+<a class="app-shot" href="https://apps.repebble.com/692b3821d7dcba000a809ba5" data-search-exclude><img src="../images/apps/692b3821d7dcba000a809ba5.png" alt="Muninn - Battery Wisdom" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-692b3821d7dcba000a809ba5"><a href="https://apps.repebble.com/692b3821d7dcba000a809ba5">Muninn - Battery Wisdom</a> <span class="app-version" title="Latest version" data-search-exclude>v1.52.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/83" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-29</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Muninn is an extremely lightweight battery tracking and prediction app. It uses the Wakeup API (every 6 hours) instead of the Background Worker to monitor trends and provide insight without…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="beam up" data-released="2013-11-30" data-updated="2026-11-20">
+<a class="app-shot" href="https://apps.repebble.com/5299d4da129af7d723000079" data-search-exclude><img src="../images/apps/5299d4da129af7d723000079.png" alt="Beam Up" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5299d4da129af7d723000079"><a href="https://apps.repebble.com/5299d4da129af7d723000079">Beam Up</a> <span class="app-version" title="Latest version" data-search-exclude>v3.11.0</span></h2>
+<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/387" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Note: All variant features are now rolled into this version! Choose from &#x27;Settings&#x27;. A minimal watch face with small, compact animations that show 15, 30 and 45 seconds past the minute. On the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="instruments" data-released="2026-11-06" data-updated="2026-11-18">
 <a class="app-shot" href="https://apps.repebble.com/d6436c4674b74279ad79afff" data-search-exclude><img src="../images/apps/d6436c4674b74279ad79afff.png" alt="Instruments" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d6436c4674b74279ad79afff"><a href="https://apps.repebble.com/d6436c4674b74279ad79afff">Instruments</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-d6436c4674b74279ad79afff"><a href="https://apps.repebble.com/d6436c4674b74279ad79afff">Instruments</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
 <a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-06</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
 <p class="app-desc">Purpose-built Pebble Round 2 watchface showing concise time, date, weather, with a choice of up to 6 configurable complication slots. The focus is on readability and usefulness. Features include…</p>
 </div>
@@ -136,17 +169,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 <p class="app-desc">Listen up, miners! Management has seen fit to outfit you with the latest device from R&amp;D - a wrist-mounted display. Apparently the standard mission timer wasn&#x27;t enough to keep you on time and on…</p>
 </div>
 </div>
-<div class="app-card" data-type="watchapp" data-title="muninn - battery wisdom" data-released="2025-11-29" data-updated="2026-07-16">
-<a class="app-shot" href="https://apps.repebble.com/692b3821d7dcba000a809ba5" data-search-exclude><img src="../images/apps/692b3821d7dcba000a809ba5.png" alt="Muninn - Battery Wisdom" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-692b3821d7dcba000a809ba5"><a href="https://apps.repebble.com/692b3821d7dcba000a809ba5">Muninn - Battery Wisdom</a> <span class="app-version" title="Latest version" data-search-exclude>v1.50.0</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App · <a href="https://forum.rebble.io/t/83" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-11-29</span> <span title="Latest release in the app store">Updated 2026-07-16</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Muninn is an extremely lightweight battery tracking and prediction app. It uses the Wakeup API (every 6 hours) instead of the Background Worker to monitor trends and provide insight without…</p>
-</div>
-</div>
 <div class="app-card" data-type="watchface" data-title="patchwork" data-released="2026-04-04" data-updated="2026-06-23">
 <a class="app-shot" href="https://apps.repebble.com/4b5cfd6f43024c438591c2c7" data-search-exclude><img src="../images/apps/4b5cfd6f43024c438591c2c7.png" alt="patchwork" loading="lazy"></a>
 <div class="app-info">
@@ -222,17 +244,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chris-lewis_5299cd3
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2014-02-04</span> <span title="Latest release in the app store">Updated 2026-01-14</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">The Split Horizon watch face. Configuration: - Animate markers at 15 second intervals, and the whole face each minute. - Show/hide the date.</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="beam up" data-released="2013-11-30" data-updated="2026-01-14">
-<a class="app-shot" href="https://apps.repebble.com/5299d4da129af7d723000079" data-search-exclude><img src="../images/apps/5299d4da129af7d723000079.png" alt="Beam Up" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-5299d4da129af7d723000079"><a href="https://apps.repebble.com/5299d4da129af7d723000079">Beam Up</a> <span class="app-version" title="Latest version" data-search-exclude>v3.9</span></h2>
-<a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface · <a href="https://forum.rebble.io/t/387" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-01-14</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Note: All variant features are now rolled into this version! Choose from &#x27;Settings&#x27;. A minimal watch face with small, compact animations that show 15, 30 and 45 seconds past the minute. On the…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchface" data-title="morndas" data-released="2025-03-05" data-updated="2026-01-02">

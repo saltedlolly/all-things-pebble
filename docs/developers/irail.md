@@ -13,7 +13,7 @@ hide:
 
 # iRail
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/irail_02b967b0677e996505fe62a6) · [GitHub (irail)](https://github.com/irail)
 

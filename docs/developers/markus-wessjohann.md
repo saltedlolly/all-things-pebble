@@ -13,7 +13,7 @@ hide:
 
 # Markus Wessjohann
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/markus-wessjohann_86e420188f988f626f6add41) · [GitHub (MarkusWessjohann)](https://github.com/MarkusWessjohann)
 

@@ -13,7 +13,7 @@ hide:
 
 # sybenx
 
-*3 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sybenx_d4c43f7b0132a46ff8340e8e) · [GitHub (sybenx)](https://github.com/sybenx)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/sybenx_d4c43f7b0132
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="timestyle seconds" data-released="2026-09-22" data-updated="2026-10-22">
+<div class="app-card" data-type="watchface" data-title="timestyle seconds" data-released="2026-09-22" data-updated="2026-11-17">
 <a class="app-shot" href="https://apps.repebble.com/2e877455cf1342c8bbc73a51" data-search-exclude><img src="../images/apps/2e877455cf1342c8bbc73a51.png" alt="TimeStyle Seconds" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2e877455cf1342c8bbc73a51"><a href="https://apps.repebble.com/2e877455cf1342c8bbc73a51">TimeStyle Seconds</a> <span class="app-version" title="Latest version" data-search-exclude>v7.13.0</span></h2>
+<h2 class="app-name" id="app-2e877455cf1342c8bbc73a51"><a href="https://apps.repebble.com/2e877455cf1342c8bbc73a51">TimeStyle Seconds</a> <span class="app-version" title="Latest version" data-search-exclude>v8.2.0</span></h2>
 <a class="app-source" href="https://github.com/sybenx/TimeStylePebble" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-10-22</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-22</span> <span title="Latest release in the app store">Updated 2026-11-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A fork of the TimeStyle watchface that shows seconds during the last minute of every 30-minute block (:29 and :59), stacking hours, minutes and seconds as three rows. Otherwise identical to…</p>
 </div>

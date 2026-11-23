@@ -13,7 +13,7 @@ hide:
 
 # Yitz
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/yitz_05e201936b813bdc225e4349) · [GitHub (Yitz42)](https://github.com/Yitz42)
 

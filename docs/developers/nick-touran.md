@@ -13,7 +13,7 @@ hide:
 
 # Nick Touran
 
-*1 watchface and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/nick-touran_6a7749febaddf70009b25be8) · [GitHub (partofthething)](https://github.com/partofthething) · [Website (partofthething.com)](https://partofthething.com)
 

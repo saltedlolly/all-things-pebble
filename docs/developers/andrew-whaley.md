@@ -13,14 +13,30 @@ hide:
 
 # Andrew Whaley
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/andrew-whaley_768abc6975453cf041d07667) · [GitHub (azw413)](https://github.com/azw413) · [Website (pebblestrength.app)](https://pebblestrength.app)
 
 </div>
 </div>
 
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
+</div>
+
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="refinement" data-released="2026-11-17" data-updated="2026-11-17">
+<a class="app-shot" href="https://apps.repebble.com/a3548d57d3cf4ed8850163b4" data-search-exclude><img src="../images/apps/a3548d57d3cf4ed8850163b4.gif" alt="Refinement" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a3548d57d3cf4ed8850163b4"><a href="https://apps.repebble.com/a3548d57d3cf4ed8850163b4">Refinement</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/azw413/pebble-mdr-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-17</span> <span title="Latest release in the app store">Updated 2026-11-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time</div>
+<p class="app-desc">A usable and legible watchface inspired by the Macrodata Refinement activity in Apple TV&#x27;s Severance show. It features two layouts: &#x27;standard&#x27; - time on one line and &#x27;larger&#x27; with the time over…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="strength" data-released="2026-07-22" data-updated="2026-07-27">
 <a class="app-shot" href="https://apps.repebble.com/4354ca8ffa6949d2997de703" data-search-exclude><img src="../images/apps/4354ca8ffa6949d2997de703.png" alt="Strength" loading="lazy"></a>
 <div class="app-info">

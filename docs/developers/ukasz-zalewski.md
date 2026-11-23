@@ -13,7 +13,7 @@ hide:
 
 # Łukasz Zalewski
 
-*2 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/ukasz-zalewski_5299dfb9129af7a225000093) · [GitHub (zalewszczak)](https://github.com/zalewszczak)
 

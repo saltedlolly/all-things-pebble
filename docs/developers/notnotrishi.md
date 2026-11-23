@@ -13,7 +13,7 @@ hide:
 
 # notnotrishi
 
-*2 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/notnotrishi_0448c3eef71293ee4cf35ca7)
 

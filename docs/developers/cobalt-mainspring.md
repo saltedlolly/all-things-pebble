@@ -13,7 +13,7 @@ hide:
 
 # Cobalt Mainspring
 
-*2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/cobalt-mainspring_188295d081cb82fac15db0c4) · [GitHub (WhenInWome)](https://github.com/WhenInWome)
 

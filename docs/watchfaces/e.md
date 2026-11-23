@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · **E** · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*63 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*64 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -377,10 +377,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f75bd2d2b19443f8ae49553c" data-search-exclude><img src="../images/apps/f75bd2d2b19443f8ae49553c.png" alt="Energy Meter" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f75bd2d2b19443f8ae49553c"><a href="https://apps.repebble.com/f75bd2d2b19443f8ae49553c">Energy Meter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-f75bd2d2b19443f8ae49553c"><a href="https://apps.repebble.com/f75bd2d2b19443f8ae49553c">Energy Meter</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
 <a class="app-source" href="https://github.com/kryptocodes/pebble-energy-meter" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/srivatsan-balaji.html" title="More from this developer">Srivatsan Balaji</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-12</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-12</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">A watchface modelled on the electricity meter at home. Six register drums read HH MM SS, the meter disc spins faster as you move, and the CAL LED blinks every second. The nameplate shows weather…</p>
 </div>
@@ -515,6 +515,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-07</span> <span title="Latest release in the app store">Updated 2026-06-07</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Amaze! Timekeeping for Eridians Celebrate Andy Weir’s Project Hail Mary with a dynamic watchface that calculates the current time in pure Base-6. How to Read It: Just like Rocky, you decode the…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/633f4c3b08ac4508aacbfe57" data-search-exclude><img src="../images/apps/633f4c3b08ac4508aacbfe57.gif" alt="Escape Time (Mandelbrot set watch face)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-633f4c3b08ac4508aacbfe57"><a href="https://apps.repebble.com/633f4c3b08ac4508aacbfe57">Escape Time (Mandelbrot set watch face)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/graus/escape-time-pebble-watchface" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/david-graus.html" title="More from this developer">David Graus</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-22</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">The time in four large digits, drawn from the Mandelbrot set itself. Every hour, Escape Time dives into the set: at :00 you see all of it, and every minute the view zooms 1.2x deeper and turns a…</p>
 </div>
 </div>
 <div class="app-card">

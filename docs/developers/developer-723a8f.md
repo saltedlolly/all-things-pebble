@@ -13,7 +13,7 @@ hide:
 
 # Грищенков Георгий
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/developer_49172e30a71f25472cafe03a) · [GitHub (G0-G4)](https://github.com/G0-G4)
 

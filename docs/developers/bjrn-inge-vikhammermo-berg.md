@@ -13,7 +13,7 @@ hide:
 
 # Bjørn Inge Vikhammermo Berg
 
-*2 watchfaces and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bj-rn-inge-vikhammermo-berg_6e1072e4037ce66aa33da174) · [GitHub (dabear)](https://github.com/dabear)
 

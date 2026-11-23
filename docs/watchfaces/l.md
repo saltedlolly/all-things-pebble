@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · **L** · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*81 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*86 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -31,6 +31,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2014-12-28</span> <span title="Latest release in the app store">Updated 2014-12-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">A simply and elegant watchface.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/1e9ec4f0b3994bc197a2ee4b" data-search-exclude><img src="../images/apps/1e9ec4f0b3994bc197a2ee4b.png" alt="Label Face" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-1e9ec4f0b3994bc197a2ee4b"><a href="https://apps.repebble.com/1e9ec4f0b3994bc197a2ee4b">Label Face</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/silkm/pebble-label-face" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/silkm.html" title="More from this developer">silkm</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-19</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A minimal Pebble watchface styled like a pharmacy or small-batch bottle label. At least, that&#x27;s the intention but for the life of me I can&#x27;t find a good example of what I&#x27;m picturing online!! Very…</p>
 </div>
 </div>
 <div class="app-card">
@@ -146,10 +157,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/69139dc57a004424b6109c20" data-search-exclude><img src="../images/apps/69139dc57a004424b6109c20.png" alt="LCARS Stardate" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.15.1</span></h2>
+<h2 class="app-name" id="app-69139dc57a004424b6109c20"><a href="https://apps.repebble.com/69139dc57a004424b6109c20">LCARS Stardate</a> <span class="app-version" title="Latest version" data-search-exclude>v1.16.2</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchface-lcars" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-06-15</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">LCARS Stardate is a Star Trek inspired LCARS digital watchface for the Pebble Time 2, with a live stardate under the clock. Pick four panels from 26 readouts, including weather, heart rate, steps…</p>
 </div>
@@ -705,6 +716,39 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/ee7cd10488fd46b5ac5512aa" data-search-exclude><img src="../images/apps/ee7cd10488fd46b5ac5512aa.png" alt="London Whispers (No Seconds)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-ee7cd10488fd46b5ac5512aa"><a href="https://apps.repebble.com/ee7cd10488fd46b5ac5512aa">London Whispers (No Seconds)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Synt4x3rror/london_whispers" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/synt4x3rror.html" title="More from this developer">Synt4x3rror</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-23</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
+<p class="app-desc">Pebble watchface using alloy SDK. All elements of the watchface are rendered using Poco. Includes battery indicator (represented by lines on the left side of the watchface, each line represents…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/719f89e81202454c85faa59a" data-search-exclude><img src="../images/apps/719f89e81202454c85faa59a.png" alt="London Whispers (Seconds)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-719f89e81202454c85faa59a"><a href="https://apps.repebble.com/719f89e81202454c85faa59a">London Whispers (Seconds)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Synt4x3rror/london_whispers" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/synt4x3rror.html" title="More from this developer">Synt4x3rror</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-18</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
+<p class="app-desc">Pebble watchface using alloy SDK. All elements of the watchface are rendered using Poco. Includes battery indicator (represented by lines on the left side of the watchface, each line represents…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/2ea1fdd007354292b44071d6" data-search-exclude><img src="../images/apps/2ea1fdd007354292b44071d6.png" alt="London Whispers Dark (Seconds)" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-2ea1fdd007354292b44071d6"><a href="https://apps.repebble.com/2ea1fdd007354292b44071d6">London Whispers Dark (Seconds)</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/Synt4x3rror/london_whispers" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/synt4x3rror.html" title="More from this developer">Synt4x3rror</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-23</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2</div>
+<p class="app-desc">Pebble watchface using alloy SDK. All elements of the watchface are rendered using Poco. Includes battery indicator (represented by lines on the left side of the watchface, each line represents…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/553adb3b375961a6080000c7" data-search-exclude><img src="../images/apps/553adb3b375961a6080000c7.gif" alt="Long Shadow" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-553adb3b375961a6080000c7"><a href="https://apps.repebble.com/553adb3b375961a6080000c7">Long Shadow</a> <span class="app-version" title="Latest version" data-search-exclude>v3.1.0</span></h2>
@@ -713,6 +757,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2015-04-25</span> <span title="Latest release in the app store">Updated 2026-07-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">- Featuring large time with long shadows - Date and day of the week - Battery info - User-adjustable shadow direction (Made with EffectLayer https://github.com/ygalanter/EffectLayer)</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/363ab94be8474e259b7bd7e5" data-search-exclude><img src="../images/apps/363ab94be8474e259b7bd7e5.gif" alt="Look at me!" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-363ab94be8474e259b7bd7e5"><a href="https://apps.repebble.com/363ab94be8474e259b7bd7e5">Look at me!</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/JohnMetsn/look-at-me" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/john-metsn.html" title="More from this developer">John Metsn</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-19</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">A realistic eye sleeps on your wrist. When you raise your wrist to look, it wakes up: the lids flutter, the eye opens, glances around, and then finds you. The pupil widens as it locks on, and from…</p>
 </div>
 </div>
 <div class="app-card">

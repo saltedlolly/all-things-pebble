@@ -13,7 +13,7 @@ hide:
 
 # Lars Falk-Petersen
 
-*3 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*3 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/lars-falk-petersen_97cf75e57e2e5ab198e65df0) · [GitLab (larsfp)](https://gitlab.com/larsfp) · [Website (falkp.no)](https://falkp.no)
 

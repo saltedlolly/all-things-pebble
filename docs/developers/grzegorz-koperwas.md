@@ -13,7 +13,7 @@ hide:
 
 # Grzegorz Koperwas
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/grzegorz-koperwas_1fdd4941bdd71630e6a4c27b) · [GitHub (HakierGrzonzo)](https://github.com/HakierGrzonzo)
 

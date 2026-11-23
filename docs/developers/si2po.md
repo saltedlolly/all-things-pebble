@@ -13,7 +13,7 @@ hide:
 
 # Si2Po
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/si2po_60ef6482b76aea1bf2cdb804) · [GitHub (Si2Po)](https://github.com/Si2Po) · [Website (si2po.github.io)](https://si2po.github.io/einkaufsroute/)
 

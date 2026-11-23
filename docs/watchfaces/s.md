@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · **S** · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*330 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*334 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -496,6 +496,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/7d02599fd19f46c383db4751" data-search-exclude><img src="../images/apps/7d02599fd19f46c383db4751.gif" alt="Server Time" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-7d02599fd19f46c383db4751"><a href="https://apps.repebble.com/7d02599fd19f46c383db4751">Server Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/Sitwon/pebble-server-time" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/sitwon.html" title="More from this developer">Sitwon</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Phosphor-terminal watchface: local time and date with seconds, live Unix epoch counter, and UTC time and date, all in a true monospace terminal font on a black screen.</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5681b745e08e4838ac00008b" data-search-exclude><img src="../images/apps/5681b745e08e4838ac00008b.png" alt="sfclock for Pebble" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-5681b745e08e4838ac00008b"><a href="https://apps.repebble.com/5681b745e08e4838ac00008b">sfclock for Pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9</span></h2>
@@ -795,10 +806,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68" data-search-exclude><img src="../images/apps/f7ab7761bf5e47b98c717f68.gif" alt="Sidereel" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-f7ab7761bf5e47b98c717f68"><a href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68">Sidereel</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.1</span></h2>
+<h2 class="app-name" id="app-f7ab7761bf5e47b98c717f68"><a href="https://apps.repebble.com/f7ab7761bf5e47b98c717f68">Sidereel</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.2</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/mosaic/sidereel" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-08-10</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Sidereel is a customizable modular watchface for the Pebble Time 2, with a scrolling minute reel and hour pointer beside a dashboard of heart rate, steps, sleep, weather, phone battery, Quiet…</p>
 </div>
@@ -1873,12 +1884,23 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/36830cf6f39645b9a91d5e12" data-search-exclude><img src="../images/apps/36830cf6f39645b9a91d5e12.gif" alt="Sketchbook Horizon" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-36830cf6f39645b9a91d5e12"><a href="https://apps.repebble.com/36830cf6f39645b9a91d5e12">Sketchbook Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<h2 class="app-name" id="app-36830cf6f39645b9a91d5e12"><a href="https://apps.repebble.com/36830cf6f39645b9a91d5e12">Sketchbook Horizon</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.2</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/sketchbook-horizon" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Sketchbook Horizon is a hand-drawn style watchface for the Pebble Time 2 and Pebble Round 2. It carries four scenes in one face, a mountain ridge, a shoreline, a city bridge, and a forest…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/d37d952aa6c045608e27e83a" data-search-exclude><img src="../images/apps/d37d952aa6c045608e27e83a.gif" alt="Ski Time" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d37d952aa6c045608e27e83a"><a href="https://apps.repebble.com/d37d952aa6c045608e27e83a">Ski Time</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/shadowpeak100/ski-time" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/shadowpeak100.html" title="More from this developer">ShadowPeak100</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-16</span> <span title="Latest release in the app store">Updated 2026-11-16</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">A watch face that tells the time with skiers that move down a mountain. Filled with fun animations, this is a great way to tell the time while enjoying your winter months.</p>
 </div>
 </div>
 <div class="app-card">
@@ -2170,10 +2192,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/d1c1ab1801e745f3a894690a" data-search-exclude><img src="../images/apps/d1c1ab1801e745f3a894690a.gif" alt="Slow Watch" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-d1c1ab1801e745f3a894690a"><a href="https://apps.repebble.com/d1c1ab1801e745f3a894690a">Slow Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
+<h2 class="app-name" id="app-d1c1ab1801e745f3a894690a"><a href="https://apps.repebble.com/d1c1ab1801e745f3a894690a">Slow Watch</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.0</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-slowatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/davide-dell-erba.html" title="More from this developer">Davide Dell&#x27;Erba</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-11-05</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-09-01</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Slow Watch is a calm, single-hand 24-hour watchface for Pebble. Instead of circling the dial twice a day, its copper hand completes one full rotation every 24 hours. The navy dial is numbered…</p>
 </div>
@@ -2649,6 +2671,17 @@ hide:
 <div class="app-tags" data-search-exclude><span title="First published in the app store">Released 2015-06-02</span> <span title="Latest release in the app store">Updated 2021-06-17</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">An old classic from our original collection from 2014-2016, now free &amp; open source!</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/e186cdb5132b490f864351d1" data-search-exclude><img src="../images/apps/e186cdb5132b490f864351d1.png" alt="Spider Fam" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e186cdb5132b490f864351d1"><a href="https://apps.repebble.com/e186cdb5132b490f864351d1">Spider Fam</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.3</span></h2>
+<a class="app-source" href="https://github.com/Darachnid/spider-fam" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/ac1rv.html" title="More from this developer">AC1RV</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-18</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">Spider Fam is a field-guide watchface for Pebble Time 2: one illustration per spider family found in North America, with common and scientific names under the plate and the clock below. 71…</p>
 </div>
 </div>
 <div class="app-card">
@@ -3331,6 +3364,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2021-03-01</span> <span title="Latest release in the app store">Updated 2021-03-01</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">An astronomical Watchface for Pebble Time and Pebble Time Round, inspired by Apple Watch Solar Dial. Sunset, Sunrise, Noon, Civil, Nautical and Astronomical Dawn and Dusk at a glance on your…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/a0f880336bcf4bcfa4f1acb8" data-search-exclude><img src="../images/apps/a0f880336bcf4bcfa4f1acb8.png" alt="Sundial" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-a0f880336bcf4bcfa4f1acb8"><a href="https://apps.repebble.com/a0f880336bcf4bcfa4f1acb8">Sundial</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/Sitwon/pebble-sundial" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/sitwon.html" title="More from this developer">Sitwon</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-20</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Sundial shows apparent solar time on a simulated horizontal brass dial: the shadow of the gnomon falls on the correct hour line for your location and the real solar position. Apparent (sundial)…</p>
 </div>
 </div>
 <div class="app-card">

@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · **P** · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*214 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*216 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -399,10 +399,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/30bec15e3f1949deae98f21d" data-search-exclude><img src="../images/apps/30bec15e3f1949deae98f21d.png" alt="Pebble Maps" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-30bec15e3f1949deae98f21d"><a href="https://apps.repebble.com/30bec15e3f1949deae98f21d">Pebble Maps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.24.0</span></h2>
+<h2 class="app-name" id="app-30bec15e3f1949deae98f21d"><a href="https://apps.repebble.com/30bec15e3f1949deae98f21d">Pebble Maps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.25.5</span></h2>
 <a class="app-source" href="https://github.com/TomBolger/PebbleMaps" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tombolger.html" title="More from this developer">TomBolger</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Pebble Maps Google Maps on your wrist. Search for places, browse what&#x27;s nearby and get turn-by-turn directions by car, on foot, by bike or by transit, all from your Pebble. You don&#x27;t need an extra…</p>
 </div>
@@ -751,10 +751,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/62a96010e98448ebaaa647fb" data-search-exclude><img src="../images/apps/62a96010e98448ebaaa647fb.png" alt="PebbleDoist" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-62a96010e98448ebaaa647fb"><a href="https://apps.repebble.com/62a96010e98448ebaaa647fb">PebbleDoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.7.0</span></h2>
+<h2 class="app-name" id="app-62a96010e98448ebaaa647fb"><a href="https://apps.repebble.com/62a96010e98448ebaaa647fb">PebbleDoist</a> <span class="app-version" title="Latest version" data-search-exclude>v1.8.0</span></h2>
 <a class="app-source" href="https://github.com/mrtruebeliever/PebbleDoist" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/mrtruebeliever.html" title="More from this developer">mrTrueBeliever</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-10-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-14</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Your Todoist tasks on your wrist — add them by voice. Browse Todoist by list, label or Today, read details and subtasks, tick tasks off, and dictate new ones. Touch on PT2. 5 languages…</p>
 </div>
@@ -960,10 +960,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/ad4971e345854b909b73b1a9" data-search-exclude><img src="../images/apps/ad4971e345854b909b73b1a9.png" alt="PebbleNTN - Maps Nav Notification To Navigation" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-ad4971e345854b909b73b1a9"><a href="https://apps.repebble.com/ad4971e345854b909b73b1a9">PebbleNTN - Maps Nav Notification To Navigation</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.83</span></h2>
+<h2 class="app-name" id="app-ad4971e345854b909b73b1a9"><a href="https://apps.repebble.com/ad4971e345854b909b73b1a9">PebbleNTN - Maps Nav Notification To Navigation</a> <span class="app-version" title="Latest version" data-search-exclude>v0.0.86</span></h2>
 <a class="app-source" href="https://github.com/optio/PebbleNTN" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/sacha.html" title="More from this developer">Sacha</a> · <a href="https://forum.rebble.io/t/1172" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-16</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-16</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Turn-by-turn directions from your phone&#x27;s navigation app, on your Pebble. PebbleNTN reads navigation notifications on your Android phone and shows the next turn, distance, street name and ETA on…</p>
 </div>
@@ -2256,6 +2256,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/be1e222756b94a17b43008dd" data-search-exclude><img src="../images/apps/be1e222756b94a17b43008dd.png" alt="Puffble" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-be1e222756b94a17b43008dd"><a href="https://apps.repebble.com/be1e222756b94a17b43008dd">Puffble</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.0</span></h2>
+<a class="app-source" href="https://github.com/DocDPhD/Puffble/releases" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/docslab.html" title="More from this developer">DocsLab</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-17</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Puffble puts your Puffco Proxy on your Pebble! See the live temperature, flip between your four heat profiles, start a session with a deliberate hold, and watch the countdown, all without reaching…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6a8bc61f06d13300097edc49" data-search-exclude><img src="../images/apps/6a8bc61f06d13300097edc49.png" alt="Pulsar Chronograph" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-6a8bc61f06d13300097edc49"><a href="https://apps.repebble.com/6a8bc61f06d13300097edc49">Pulsar Chronograph</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
@@ -2330,6 +2341,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-01-13</span> <span title="Latest release in the app store">Updated 2026-01-15</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">PureNavi is a minimalist, highly efficient straight-line navi. Instead of distracting you with complex maps, PureNavi delivers navigation in its purest form. A single arrow and the exact distance…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/914097cb3c8d4a5c8a9d198f" data-search-exclude><img src="../images/apps/914097cb3c8d4a5c8a9d198f.png" alt="PushTo Tool" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-914097cb3c8d4a5c8a9d198f"><a href="https://apps.repebble.com/914097cb3c8d4a5c8a9d198f">PushTo Tool</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5.1</span></h2>
+<a class="app-source" href="https://github.com/ewsandor/Pebble-PushTo-Tool" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/sandor-laboratories.html" title="More from this developer">Sandor Laboratories</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-18</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Put a PushTo tool on your wrist for amateur astronomy. PushTo Tool provides live, high-contrast altitude and azimuth readings for locating objects with a Dobsonian telescope or another manual…</p>
 </div>
 </div>
 <div class="app-card">

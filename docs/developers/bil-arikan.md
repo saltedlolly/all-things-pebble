@@ -13,7 +13,7 @@ hide:
 
 # Bil Arikan
 
-*1 watchface and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bil-arikan_dc67d08e6e7dcd07797a8bd8) · [GitHub (bilarikan)](https://github.com/bilarikan)
 
@@ -26,13 +26,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/bil-arikan_dc67d08e
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="ebb: body energy reserve" data-released="2026-11-15" data-updated="2026-11-15">
+<div class="app-card" data-type="watchapp" data-title="ebb: body energy reserve" data-released="2026-11-15" data-updated="2026-11-21">
 <a class="app-shot" href="https://apps.repebble.com/afae45fe97914bc5b35d3711" data-search-exclude><img src="../images/apps/afae45fe97914bc5b35d3711.png" alt="Ebb: Body Energy Reserve" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-afae45fe97914bc5b35d3711"><a href="https://apps.repebble.com/afae45fe97914bc5b35d3711">Ebb: Body Energy Reserve</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.1</span></h2>
+<h2 class="app-name" id="app-afae45fe97914bc5b35d3711"><a href="https://apps.repebble.com/afae45fe97914bc5b35d3711">Ebb: Body Energy Reserve</a> <span class="app-version" title="Latest version" data-search-exclude>v0.5.3</span></h2>
 <a class="app-source" href="https://github.com/bilarikan/pebble-app-ebb-energy-reserve" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-11-15</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Ebb shows one number from 0 to 100 for how much energy you have in reserve, worked out on the watch from heart rate variability, heart rate, movement and sleep. It refills while you sleep and…</p>
 </div>

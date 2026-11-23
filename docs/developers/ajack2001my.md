@@ -13,7 +13,7 @@ hide:
 
 # ajack2001my
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/unknown_b944d7d3482009db609f13f3) · [GitHub (ajack2001my)](https://github.com/ajack2001my)
 

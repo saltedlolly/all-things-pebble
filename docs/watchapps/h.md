@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · **H** · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*79 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*80 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -518,6 +518,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/22984baa50dd4b68ba9a0945" data-search-exclude><img src="../images/apps/22984baa50dd4b68ba9a0945.png" alt="Hermes Wristbound" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-22984baa50dd4b68ba9a0945"><a href="https://apps.repebble.com/22984baa50dd4b68ba9a0945">Hermes Wristbound</a> <span class="app-version" title="Latest version" data-search-exclude>v0.6.8</span></h2>
+<a class="app-source" href="https://github.com/AndreasThinks/hermes-wristbound" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/andreas-varotsis.html" title="More from this developer">Andreas Varotsis</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-22</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Read and reply to Hermes conversations from your Pebble. Pick up a chat where you left off, dictate a reply, or play a voice message through headphones connected to your phone. Requires Android 10…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/54f3398f2af981c827000058" data-search-exclude><img src="../images/apps/54f3398f2af981c827000058.png" alt="HeroBoard" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-54f3398f2af981c827000058"><a href="https://apps.repebble.com/54f3398f2af981c827000058">HeroBoard</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
@@ -650,14 +661,14 @@ hide:
 </div>
 </div>
 <div class="app-card">
-<a class="app-shot" href="https://apps.repebble.com/530052d2d2454cae8ca8db79" data-search-exclude><img src="../images/apps/530052d2d2454cae8ca8db79.png" alt="Home Assistant AI" loading="lazy"></a>
+<a class="app-shot" href="https://apps.repebble.com/530052d2d2454cae8ca8db79" data-search-exclude><img src="../images/apps/530052d2d2454cae8ca8db79.png" alt="Home Assistant Control Center" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-530052d2d2454cae8ca8db79"><a href="https://apps.repebble.com/530052d2d2454cae8ca8db79">Home Assistant AI</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<h2 class="app-name" id="app-530052d2d2454cae8ca8db79"><a href="https://apps.repebble.com/530052d2d2454cae8ca8db79">Home Assistant Control Center</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2.0</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Pebble-Home-Assistant-AI" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-06</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-03</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">**Your smart home. Your voice. Your wrist.** Bring the power of Home Assistant directly to your Pebble smartwatch. Home Assistant AI lets you ask questions, check your smart home, and control…</p>
+<p class="app-desc">Control your Home Assistant devices and talk to your Assist agent from your Pebble. Home Assistant Control Center was previously called Home Assistant AI. Device readings, controls, and voice…</p>
 </div>
 </div>
 <div class="app-card">

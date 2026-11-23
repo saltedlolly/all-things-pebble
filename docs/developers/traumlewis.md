@@ -13,7 +13,7 @@ hide:
 
 # Traumlewis
 
-*2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/traumlewis_e8a61c7bab3b5ca3c1a42c50) · [GitHub (Traumlewis)](https://github.com/Traumlewis)
 

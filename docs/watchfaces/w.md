@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · **W** · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*90 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*91 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -405,6 +405,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-10-16</span> <span title="Latest release in the app store">Updated 2015-12-28</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
 <p class="app-desc">Based on Jared Biehler&#x27;s WEATHER MY WAY, a bit modified like... add vibration on Bluetooth disconnection and some colorized flavor. - Configurable weather data services (YAHOO!, Open Weather…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/eccf1900e17147abb3f86b78" data-search-exclude><img src="../images/apps/eccf1900e17147abb3f86b78.png" alt="Weatherline" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-eccf1900e17147abb3f86b78"><a href="https://apps.repebble.com/eccf1900e17147abb3f86b78">Weatherline</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
+<a class="app-source" href="https://github.com/alechudson/weatherline" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/alec-hudson.html" title="More from this developer">Alec Hudson</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">Other</span> <span title="First published in the app store">Released 2026-11-17</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">An hour-by-hour forecast for Pebble Time 2 and Round 2. The temperature line is colored by how warm it is. The shading against yesterday shows where it will be warmer or colder, so fronts stand…</p>
 </div>
 </div>
 <div class="app-card">
@@ -806,11 +817,11 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b77f1449d5a84104a86fba6d" data-search-exclude><img src="../images/apps/b77f1449d5a84104a86fba6d.gif" alt="Word Clock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b77f1449d5a84104a86fba6d"><a href="https://apps.repebble.com/b77f1449d5a84104a86fba6d">Word Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.12</span></h2>
+<h2 class="app-name" id="app-b77f1449d5a84104a86fba6d"><a href="https://apps.repebble.com/b77f1449d5a84104a86fba6d">Word Clock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.4.0</span></h2>
 <a class="app-source" href="https://github.com/delda/pebble-qlocktwo" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/davide-dell-erba.html" title="More from this developer">Davide Dell&#x27;Erba</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-14</span> <span title="Latest release in the app store">Updated 2026-11-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Instead of showing digits, it displays the time in words by illuminating words within a grid of letters. It’s a modern and stylish clock. Personalise your watchface directly from the settings: …</p>
 </div>
 </div>

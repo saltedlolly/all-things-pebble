@@ -13,7 +13,7 @@ hide:
 
 # Pryning
 
-*1 watchface and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/pryning_95252b3859ef6345dab6010c) · [GitHub (Pryning)](https://github.com/Pryning)
 

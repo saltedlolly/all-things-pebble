@@ -13,7 +13,7 @@ hide:
 
 # Vinayla
 
-*2 watchfaces and 1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vinayla_cf9b8101421543277d0bbc02) · [GitHub (vinay1017)](https://github.com/vinay1017)
 

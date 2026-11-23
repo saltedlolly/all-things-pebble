@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · **R** · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*79 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*80 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -398,12 +398,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/c3e702834987434a8ec3d470" data-search-exclude><img src="../images/apps/c3e702834987434a8ec3d470.png" alt="ReVolver" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-c3e702834987434a8ec3d470"><a href="https://apps.repebble.com/c3e702834987434a8ec3d470">ReVolver</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<h2 class="app-name" id="app-c3e702834987434a8ec3d470"><a href="https://apps.repebble.com/c3e702834987434a8ec3d470">ReVolver</a> <span class="app-version" title="Latest version" data-search-exclude>v1.3.0</span></h2>
 <a class="app-source" href="https://github.com/piotrserafin/ReVolver" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/piotr-serafin.html" title="More from this developer">Piotr Serafin</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-13</span> <span title="Latest release in the app store">Updated 2026-09-04</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-07-13</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc">Remote control your Volvo car from your wrist. ReVolver — Remote Volvo controller. Also &quot;volver&quot; (Spanish): &quot;to return/come back&quot; to your car. Control your Volvo from your Pebble watch via the…</p>
+<p class="app-desc">ReVolver — Remote Volvo controller for your Pebble. Control your Volvo from your wrist, through the official Volvo Connected Vehicle API. IMPORTANT (November 2026) ReVolver moved to Volvo&#x27;s new…</p>
 </div>
 </div>
 <div class="app-card">
@@ -734,6 +734,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2019-09-26</span> <span title="Latest release in the app store">Updated 2020-02-14</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Hands full? No problem! As long as you have a Pebble smartwatch and at least one free finger, you can read the news--no pulling out your phone required. Pebble RSS Reader is the only way to read…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/6affee55566c710009ad4ca6" data-search-exclude><img src="../images/apps/6affee55566c710009ad4ca6.png" alt="RSS Reader+" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6affee55566c710009ad4ca6"><a href="https://apps.repebble.com/6affee55566c710009ad4ca6">RSS Reader+</a> <span class="app-version" title="Latest version" data-search-exclude>v3.0</span></h2>
+<a class="app-source" href="https://github.com/Cralex/Pebble-RSS-Reader-Plus" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/cralex.html" title="More from this developer">Cralex</a> · <a href="https://forum.rebble.io/t/1529" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">GPL-3.0</span> <span title="First published in the app store">Released 2026-11-20</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">RSS Reader+ is an AI ASSISTED fork of the excellent Pebble RSS Reader by Jonathan Alland, adding support for new watches, new features, and new stability. Read articles from the built-in feeds or…</p>
 </div>
 </div>
 <div class="app-card">

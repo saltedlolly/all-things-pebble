@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · **G** · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*70 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*71 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -185,6 +185,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2025-02-17</span> <span title="Latest release in the app store">Updated 2025-02-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Say hi to popular Hololive vtuber Gawr Gura! Made for MarnieFan89 on reddit.</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/127991529f7f45f1a8bccbe5" data-search-exclude><img src="../images/apps/127991529f7f45f1a8bccbe5.png" alt="GBD-200-1" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-127991529f7f45f1a8bccbe5"><a href="https://apps.repebble.com/127991529f7f45f1a8bccbe5">GBD-200-1</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/CATEIN/gbd-200-1-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/catein.html" title="More from this developer">CATEIN</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-22</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">GBD-200-1 — a G-SHOCK-style digital display, dot for dot, for Pebble Time 2 Inspired by the GBD-200&#x27;s main time screen. Every digit, letter and icon was traced dot by dot from photos of the real…</p>
 </div>
 </div>
 <div class="app-card">
@@ -707,10 +718,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f" data-search-exclude><img src="../images/apps/cf60ff6cf2fa45868e4e8a6f.gif" alt="Gridlock" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.1</span></h2>
+<h2 class="app-name" id="app-cf60ff6cf2fa45868e4e8a6f"><a href="https://apps.repebble.com/cf60ff6cf2fa45868e4e8a6f">Gridlock</a> <span class="app-version" title="Latest version" data-search-exclude>v1.9.2</span></h2>
 <a class="app-source" href="https://github.com/AKlitbo/pebble-watchfaces/tree/main/watchfaces/mosaic/gridlock" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/null-syntax.html" title="More from this developer">Null Syntax</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-11-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-06-28</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Gridlock is a customizable modular dashboard watchface for the Pebble Time 2, with calendar, weather, stocks, now playing, phone battery, heart rate, heart rate variability (HRV), steps, sleep…</p>
 </div>
@@ -740,10 +751,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/4cb497d2805d4b0b87d70876" data-search-exclude><img src="../images/apps/4cb497d2805d4b0b87d70876.gif" alt="Groundtrack" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-4cb497d2805d4b0b87d70876"><a href="https://apps.repebble.com/4cb497d2805d4b0b87d70876">Groundtrack</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8.1</span></h2>
+<h2 class="app-name" id="app-4cb497d2805d4b0b87d70876"><a href="https://apps.repebble.com/4cb497d2805d4b0b87d70876">Groundtrack</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8.2</span></h2>
 <a class="app-source" href="https://github.com/huntrontrakkr/groundtrack-watch-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/segfaultgolf.html" title="More from this developer">Segfaultgolf</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Groundtrack draws where the Sun, the Moon or a satellite is over the Earth, and where it goes next, on a flat chart with the time set along the route. Two faces in one. Enroute is an hour chart…</p>
 </div>
@@ -751,10 +762,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7e96e11b99aa4f6fb3ba3928" data-search-exclude><img src="../images/apps/7e96e11b99aa4f6fb3ba3928.gif" alt="Groundtrack Fuller" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7e96e11b99aa4f6fb3ba3928"><a href="https://apps.repebble.com/7e96e11b99aa4f6fb3ba3928">Groundtrack Fuller</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8.1</span></h2>
+<h2 class="app-name" id="app-7e96e11b99aa4f6fb3ba3928"><a href="https://apps.repebble.com/7e96e11b99aa4f6fb3ba3928">Groundtrack Fuller</a> <span class="app-version" title="Latest version" data-search-exclude>v0.8.2</span></h2>
 <a class="app-source" href="https://github.com/huntrontrakkr/groundtrack-watch-face" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/segfaultgolf.html" title="More from this developer">Segfaultgolf</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-10-18</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-02</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Groundtrack Fuller draws where the Sun, the Moon or a satellite is over the Earth, and where it goes next, on Buckminster Fuller&#x27;s unfolded globe with the time set along the route. The icosahedron…</p>
 </div>

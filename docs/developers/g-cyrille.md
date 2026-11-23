@@ -13,7 +13,7 @@ hide:
 
 # G-Cyrille
 
-*2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/g-cyrille_923e7c387ccf5ef604ebe025) · [GitHub (G-Cyrille)](https://github.com/G-Cyrille) · [Website (g-cyrille.github.io)](https://g-cyrille.github.io/t3-pebble/)
 

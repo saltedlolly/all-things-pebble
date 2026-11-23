@@ -13,7 +13,7 @@ hide:
 
 # TomBolger
 
-*6 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*6 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tombolger_0e985d2ac18230a88bcbe6b8) · [GitHub (TomBolger)](https://github.com/TomBolger)
 
@@ -26,6 +26,39 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tombolger_0e985d2ac
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="notification sync" data-released="2026-10-07" data-updated="2026-11-22">
+<a class="app-shot" href="https://apps.repebble.com/f93c30c5c5f544db8caee226" data-search-exclude><img src="../images/apps/f93c30c5c5f544db8caee226.png" alt="Notification Sync" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-f93c30c5c5f544db8caee226"><a href="https://apps.repebble.com/f93c30c5c5f544db8caee226">Notification Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v2.5.4</span></h2>
+<a class="app-source" href="https://github.com/TomBolger/NotificationSync" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Have you ever been annoyed that your watch notifications were a separate storage bucket of stale notices you may have already seen on your phone? Ever swap to an Android watch and miss the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="pebble maps" data-released="2026-10-07" data-updated="2026-11-20">
+<a class="app-shot" href="https://apps.repebble.com/30bec15e3f1949deae98f21d" data-search-exclude><img src="../images/apps/30bec15e3f1949deae98f21d.png" alt="Pebble Maps" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-30bec15e3f1949deae98f21d"><a href="https://apps.repebble.com/30bec15e3f1949deae98f21d">Pebble Maps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.25.5</span></h2>
+<a class="app-source" href="https://github.com/TomBolger/PebbleMaps" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Pebble Maps Google Maps on your wrist. Search for places, browse what&#x27;s nearby and get turn-by-turn directions by car, on foot, by bike or by transit, all from your Pebble. You don&#x27;t need an extra…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchapp" data-title="billy" data-released="2026-10-07" data-updated="2026-11-20">
+<a class="app-shot" href="https://apps.repebble.com/0d3a55a0696e4bc38724f369" data-search-exclude><img src="../images/apps/0d3a55a0696e4bc38724f369.png" alt="Billy" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-0d3a55a0696e4bc38724f369"><a href="https://apps.repebble.com/0d3a55a0696e4bc38724f369">Billy</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7.1</span></h2>
+<a class="app-source" href="https://github.com/TomBolger/Billy" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Billy is a spiritual successor to the legendary Bobby, itself an homage to the mythical Snowy the Dog. Katherine Berry has stepped away from Pebble development, but she generously left Bobby open…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="tesla remote" data-released="2026-11-11" data-updated="2026-11-12">
 <a class="app-shot" href="https://apps.repebble.com/6cf8f7bacdc041dbae6deda9" data-search-exclude><img src="../images/apps/6cf8f7bacdc041dbae6deda9.png" alt="Tesla Remote" loading="lazy"></a>
 <div class="app-info">
@@ -46,39 +79,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tombolger_0e985d2ac
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-04-29</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A Telegram client for Pebble. New release does not require a companion app or a service running anywhere. Everything is kept securely in your phone. Works for Android and probably iOS, but I…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="notification sync" data-released="2026-10-07" data-updated="2026-11-12">
-<a class="app-shot" href="https://apps.repebble.com/f93c30c5c5f544db8caee226" data-search-exclude><img src="../images/apps/f93c30c5c5f544db8caee226.png" alt="Notification Sync" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-f93c30c5c5f544db8caee226"><a href="https://apps.repebble.com/f93c30c5c5f544db8caee226">Notification Sync</a> <span class="app-version" title="Latest version" data-search-exclude>v2.2</span></h2>
-<a class="app-source" href="https://github.com/TomBolger/NotificationSync" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
-<p class="app-desc">Have you ever been annoyed that your watch notifications were a separate storage bucket of stale notices you may have already seen on your phone? Ever swap to an Android watch and miss the…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="billy" data-released="2026-10-07" data-updated="2026-11-12">
-<a class="app-shot" href="https://apps.repebble.com/0d3a55a0696e4bc38724f369" data-search-exclude><img src="../images/apps/0d3a55a0696e4bc38724f369.png" alt="Billy" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-0d3a55a0696e4bc38724f369"><a href="https://apps.repebble.com/0d3a55a0696e4bc38724f369">Billy</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7</span></h2>
-<a class="app-source" href="https://github.com/TomBolger/Billy" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Billy is a spiritual successor to the legendary Bobby, itself an homage to the mythical Snowy the Dog. Katherine Berry has stepped away from Pebble development, but she generously left Bobby open…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchapp" data-title="pebble maps" data-released="2026-10-07" data-updated="2026-11-07">
-<a class="app-shot" href="https://apps.repebble.com/30bec15e3f1949deae98f21d" data-search-exclude><img src="../images/apps/30bec15e3f1949deae98f21d.png" alt="Pebble Maps" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-30bec15e3f1949deae98f21d"><a href="https://apps.repebble.com/30bec15e3f1949deae98f21d">Pebble Maps</a> <span class="app-version" title="Latest version" data-search-exclude>v1.24.0</span></h2>
-<a class="app-source" href="https://github.com/TomBolger/PebbleMaps" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">App</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-07</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
-<p class="app-desc">Pebble Maps Google Maps on your wrist. Search for places, browse what&#x27;s nearby and get turn-by-turn directions by car, on foot, by bike or by transit, all from your Pebble. You don&#x27;t need an extra…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="pixel dungeon" data-released="2026-10-14" data-updated="2026-10-17">

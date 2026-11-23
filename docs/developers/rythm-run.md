@@ -13,7 +13,7 @@ hide:
 
 # Rythm.Run
 
-*2 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/rythm-run_1be61dccc9848d8be9f4a808) · [GitLab (rythm-run)](https://gitlab.com/rythm-run) · [GitLab (glejeune)](https://gitlab.com/glejeune) · [Website (rythm.run)](https://rythm.run)
 

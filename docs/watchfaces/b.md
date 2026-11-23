@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · **B** · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*182 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*183 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -421,10 +421,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/5299d4da129af7d723000079" data-search-exclude><img src="../images/apps/5299d4da129af7d723000079.png" alt="Beam Up" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-5299d4da129af7d723000079"><a href="https://apps.repebble.com/5299d4da129af7d723000079">Beam Up</a> <span class="app-version" title="Latest version" data-search-exclude>v3.9</span></h2>
+<h2 class="app-name" id="app-5299d4da129af7d723000079"><a href="https://apps.repebble.com/5299d4da129af7d723000079">Beam Up</a> <span class="app-version" title="Latest version" data-search-exclude>v3.11.0</span></h2>
 <a class="app-source" href="https://github.com/C-D-Lewis/pebble-dev" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/chris-lewis.html" title="More from this developer">Chris Lewis</a> · <a href="https://forum.rebble.io/t/387" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-01-14</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2013-11-30</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">Note: All variant features are now rolled into this version! Choose from &#x27;Settings&#x27;. A minimal watch face with small, compact animations that show 15, 30 and 45 seconds past the minute. On the…</p>
 </div>
@@ -1389,10 +1389,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/1e6d477d5ce4430099b24089" data-search-exclude><img src="../images/apps/1e6d477d5ce4430099b24089.png" alt="BitcoinWatch2" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-1e6d477d5ce4430099b24089"><a href="https://apps.repebble.com/1e6d477d5ce4430099b24089">BitcoinWatch2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.1</span></h2>
+<h2 class="app-name" id="app-1e6d477d5ce4430099b24089"><a href="https://apps.repebble.com/1e6d477d5ce4430099b24089">BitcoinWatch2</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1.2</span></h2>
 <a class="app-source" href="https://github.com/zoonooz/BitcoinWatch" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/zoonooz.html" title="More from this developer">zoonooz</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-08-31</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-31</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
 <p class="app-desc">If you think Bitcoin or crypto price matters more than the time, this watch face is built for you. Features: - 📈 Live price, refreshed every minute from the exchange - 🔄 Choose Binance or Coinbase…</p>
 </div>
@@ -1549,6 +1549,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2015-03-04</span> <span title="Latest release in the app store">Updated 2015-03-04</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Gives the time as well as the current height of the Bitcoin Block Chain. Useful if you are using nLockTime in your Bitcoin transaction builds and need to know the current height (&quot;time&quot;) of the…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/8d6365bf7c3747a08fe12044" data-search-exclude><img src="../images/apps/8d6365bf7c3747a08fe12044.png" alt="Blokk" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-8d6365bf7c3747a08fe12044"><a href="https://apps.repebble.com/8d6365bf7c3747a08fe12044">Blokk</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.1</span></h2>
+<a class="app-source" href="https://github.com/czandor/Blokk-Clockface-Pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/andor-czafik.html" title="More from this developer">Andor Czafik</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
+<p class="app-desc">🕒 Bold Typography &amp; 45° Long Shadows: Crisp American Captain digits, a centered circular colon, a date header (MONTH DD WDAY), and an optional bottom-left AM/PM indicator in 12-hour mode. 🎨 9…</p>
 </div>
 </div>
 <div class="app-card">

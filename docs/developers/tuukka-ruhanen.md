@@ -13,7 +13,7 @@ hide:
 
 # Tuukka Ruhanen
 
-*2 watchfaces and 5 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 5 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/tuukka-ruhanen_2a1ec999749817a461025038) · [GitHub (truhanen)](https://github.com/truhanen)
 

@@ -13,7 +13,7 @@ hide:
 
 # Kieselleger
 
-*27 watchfaces and 3 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*31 watchfaces and 3 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3fe58879cfd4000013) · [GitHub (ProggroP)](https://github.com/ProggroP)
 
@@ -21,11 +21,55 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/kieselleger_56f70d3
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>30</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>27</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>34</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>31</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>3</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="illustox" data-released="2026-11-23" data-updated="2026-11-23">
+<a class="app-shot" href="https://apps.repebble.com/d153bda360484137afe8bf94" data-search-exclude><img src="../images/apps/d153bda360484137afe8bf94.png" alt="Illustox" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d153bda360484137afe8bf94"><a href="https://apps.repebble.com/d153bda360484137afe8bf94">Illustox</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Illustox" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-23</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Illustox paints flat, boho-style landscape illustrations on your wrist: layered mountain ridges, a sun by day and a crescent moon by night, and now and then a valley with a winding river. Every…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="abstrimal" data-released="2026-11-23" data-updated="2026-11-23">
+<a class="app-shot" href="https://apps.repebble.com/e722d818a08340c88e4bb30c" data-search-exclude><img src="../images/apps/e722d818a08340c88e4bb30c.png" alt="Abstrimal" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-e722d818a08340c88e4bb30c"><a href="https://apps.repebble.com/e722d818a08340c88e4bb30c">Abstrimal</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/Abstrimal" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-23</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Abstrimal fills the whole display with the numbers 1 to 12 in different sizes, set in thin, clean lines. The current hour glows in the active colour while all other hours stay quiet in the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="man in the middle" data-released="2026-11-19" data-updated="2026-11-19">
+<a class="app-shot" href="https://apps.repebble.com/eb9cc879d7eb4e46a56b38e7" data-search-exclude><img src="../images/apps/eb9cc879d7eb4e46a56b38e7.png" alt="Man in the Middle" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-eb9cc879d7eb4e46a56b38e7"><a href="https://apps.repebble.com/eb9cc879d7eb4e46a56b38e7">Man in the Middle</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/ManInTheMiddle" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-19</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">An analog watchface with a twist: in the middle of the dial a man runs inside a toothed wheel, and the wheel drives the gears that move the hands. Every minute he can start running and push the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="circle of fiths" data-released="2016-11-15" data-updated="2026-11-18">
+<a class="app-shot" href="https://apps.repebble.com/582ac6cc8c7fff9edf000230" data-search-exclude><img src="../images/apps/582ac6cc8c7fff9edf000230.png" alt="Circle of Fiths" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-582ac6cc8c7fff9edf000230"><a href="https://apps.repebble.com/582ac6cc8c7fff9edf000230">Circle of Fiths</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
+<a class="app-source" href="https://github.com/ProggroP/CircleOfFifths" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2016-11-15</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">The Circle of Fifths, combined with a simple watch face. Battery display, step counter, and shorter hands (for better readability) are fully configurable. Nothing more, nothing less. Any comments…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="transit" data-released="2026-11-08" data-updated="2026-11-09">
 <a class="app-shot" href="https://apps.repebble.com/6b1e297baa0b49d993f715c6" data-search-exclude><img src="../images/apps/6b1e297baa0b49d993f715c6.png" alt="Transit" loading="lazy"></a>
 <div class="app-info">

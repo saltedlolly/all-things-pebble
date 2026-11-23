@@ -13,14 +13,30 @@ hide:
 
 # clbwhazzup
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface and 1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
-Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clbwhazzup_4dfd3d3f6f2f98c35e1cc0c8) · [GitHub (clbwhazzup)](https://github.com/clbwhazzup) · [Website (clbwhazzup.github.io)](https://clbwhazzup.github.io/)
+Links: [Pebble App Store](https://apps.repebble.com/apps/dev/clbwhazzup_67d653cad943930009185721) · [GitHub (clbwhazzup)](https://github.com/clbwhazzup) · [Website (clbwhazzup.github.io)](https://clbwhazzup.github.io)
 
 </div>
+</div>
+
+<div class="dev-controls" data-search-exclude hidden>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>2</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>1</span></button></div>
+<label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchapp" data-title="agent chat" data-released="2026-11-21" data-updated="2026-11-21">
+<a class="app-shot" href="https://apps.repebble.com/6b0209bcb51dc200099ca411" data-search-exclude><img src="../images/apps/6b0209bcb51dc200099ca411.png" alt="Agent Chat" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6b0209bcb51dc200099ca411"><a href="https://apps.repebble.com/6b0209bcb51dc200099ca411">Agent Chat</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<a class="app-source" href="https://github.com/clbwhazzup/agent_chat" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">App · <a href="https://forum.rebble.io/t/1540" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">Talk to your AI agents from your Pebble. Press a button, speak, and your words go to Claude, ChatGPT, Grok Bot, Muse, or any other agent plugin installed in the Pebble app. When the agent can…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchface" data-title="segmented info" data-released="2026-03-16" data-updated="2026-09-10">
 <a class="app-shot" href="https://apps.repebble.com/7bd156396b3649bc9612992d" data-search-exclude><img src="../images/apps/7bd156396b3649bc9612992d.png" alt="Segmented Info" loading="lazy"></a>
 <div class="app-info">

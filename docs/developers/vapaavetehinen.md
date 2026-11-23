@@ -13,7 +13,7 @@ hide:
 
 # vapaavetehinen
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/vapaavetehinen_3cc1cdc83f9d195cdef84d8a) · [GitHub (vapaavetehinen)](https://github.com/vapaavetehinen)
 

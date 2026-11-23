@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · **S** · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*162 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*164 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -749,6 +749,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/8354b2fd06e54871a02dfb20" data-search-exclude><img src="../images/apps/8354b2fd06e54871a02dfb20.png" alt="Slide Stats" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-8354b2fd06e54871a02dfb20"><a href="https://apps.repebble.com/8354b2fd06e54871a02dfb20">Slide Stats</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<a class="app-source" href="https://github.com/jmsunseri/slide-stats" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/justin-sunseri.html" title="More from this developer">Justin Sunseri</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-23</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Keep track of your ski and snowboard days. The settings page will display stats from the current day and aggregations for the season and by trips. Fully theme-able. It also works well for hiking…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/52ee43b994cc96bd0b00000c" data-search-exclude><img src="../images/apps/52ee43b994cc96bd0b00000c.png" alt="Slides" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-52ee43b994cc96bd0b00000c"><a href="https://apps.repebble.com/52ee43b994cc96bd0b00000c">Slides</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
@@ -1189,6 +1200,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/aa095384361745f19801fa87" data-search-exclude><span class="app-noshot">No screenshot</span></a>
+<div class="app-info">
+<h2 class="app-name" id="app-aa095384361745f19801fa87"><a href="https://apps.repebble.com/aa095384361745f19801fa87">Spotify Remote</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/loputyn-code/spotify-remote/settings/pages" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/loputyn-code.html" title="More from this developer">loputyn-code</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-18</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time</div>
+<p class="app-desc">Minimal Spotify remote on Pebble (WIP)</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/a53edc8542dc454281c4f366" data-search-exclude><img src="../images/apps/a53edc8542dc454281c4f366.png" alt="Spotti" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-a53edc8542dc454281c4f366"><a href="https://apps.repebble.com/a53edc8542dc454281c4f366">Spotti</a> <span class="app-version" title="Latest version" data-search-exclude>v1.2.0</span></h2>
@@ -1279,10 +1301,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/6f24d81f31bf470ba81139fc" data-search-exclude><img src="../images/apps/6f24d81f31bf470ba81139fc.png" alt="Squire" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-6f24d81f31bf470ba81139fc"><a href="https://apps.repebble.com/6f24d81f31bf470ba81139fc">Squire</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.0</span></h2>
+<h2 class="app-name" id="app-6f24d81f31bf470ba81139fc"><a href="https://apps.repebble.com/6f24d81f31bf470ba81139fc">Squire</a> <span class="app-version" title="Latest version" data-search-exclude>v0.2.0</span></h2>
 <a class="app-source" href="https://github.com/jmsunseri/pebble-squire" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/justin-sunseri.html" title="More from this developer">Justin Sunseri</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-06-20</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-06-20</span> <span title="Latest release in the app store">Updated 2026-11-23</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
 <p class="app-desc">Squire is that allows you to communicate with either OpenClaw or Hermes using Telegram</p>
 </div>

@@ -13,7 +13,7 @@ hide:
 
 # TechJeeper
 
-*21 watchfaces and 10 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*21 watchfaces and 10 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/techjeeper_e91bf961199602727bb7cf3a) · [GitHub (TechJeeper)](https://github.com/TechJeeper)
 

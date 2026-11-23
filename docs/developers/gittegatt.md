@@ -13,7 +13,7 @@ hide:
 
 # Gittegatt
 
-*1 app · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 app · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/gittegatt_4de0eafd573d4774dde24382) · [GitHub (Gittegatt)](https://github.com/Gittegatt)
 

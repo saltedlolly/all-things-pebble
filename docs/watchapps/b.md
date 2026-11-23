@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · **B** · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*105 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*108 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -141,6 +141,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-05</span> <span title="Latest release in the app store">Updated 2026-06-05</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time, Classic</div>
 <p class="app-desc">Configure what bart stop you want to track on your phone and this app will show the latest departure times for all destinations</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.rebble.io/en_US/application/6afbf01197e7be0009ffc87f" data-search-exclude><img src="../images/apps/6afbf01197e7be0009ffc87f.png" alt="BARTwatch" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-6afbf01197e7be0009ffc87f"><a href="https://apps.rebble.io/en_US/application/6afbf01197e7be0009ffc87f">BARTwatch</a> <span class="app-version" title="Latest version" data-search-exclude>v0.1.1</span></h2>
+<a class="app-source" href="https://github.com/rbuckbailey/BARTwatch" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/sforzando.html" title="More from this developer">Sforzando!</a> · <a href="https://forum.rebble.io/t/1508" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-17</span> <span title="Latest release in the app store">Updated 2026-11-17</span> <span>Rebble App Store</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
+<p class="app-desc">Inspired by BART On Time and BART Runner, a BART tracker that does everything I need and nothing I don&#x27;t need. Maybe you need it too. Selects closest station automatically; select from the next…</p>
 </div>
 </div>
 <div class="app-card">
@@ -331,6 +342,17 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/29fed685b7af4ffc9b8e9634" data-search-exclude><img src="../images/apps/29fed685b7af4ffc9b8e9634.png" alt="BetterBrew" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-29fed685b7af4ffc9b8e9634"><a href="https://apps.repebble.com/29fed685b7af4ffc9b8e9634">BetterBrew</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/Perlsowisdom/BetterBrew" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/perlsowisdom.html" title="More from this developer">Perlsowisdom</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-19</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Time</div>
+<p class="app-desc">BetterBrew 1.0.0 - Coffee: Pour-over and French press, each with a bloom stage followed by a brew stage - Tea: Black, Green, Oolong and Herbal, each with a Loose leaf or Teabag option - Matcha: a…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/68efa55f5bf09a0009eac172" data-search-exclude><img src="../images/apps/68efa55f5bf09a0009eac172.png" alt="Beyblade X Simple Score Keeper" loading="lazy"></a>
 <div class="app-info">
 <h2 class="app-name" id="app-68efa55f5bf09a0009eac172"><a href="https://apps.repebble.com/68efa55f5bf09a0009eac172">Beyblade X Simple Score Keeper</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6</span></h2>
@@ -465,10 +487,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/0d3a55a0696e4bc38724f369" data-search-exclude><img src="../images/apps/0d3a55a0696e4bc38724f369.png" alt="Billy" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-0d3a55a0696e4bc38724f369"><a href="https://apps.repebble.com/0d3a55a0696e4bc38724f369">Billy</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7</span></h2>
+<h2 class="app-name" id="app-0d3a55a0696e4bc38724f369"><a href="https://apps.repebble.com/0d3a55a0696e4bc38724f369">Billy</a> <span class="app-version" title="Latest version" data-search-exclude>v0.7.1</span></h2>
 <a class="app-source" href="https://github.com/TomBolger/Billy" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/tombolger.html" title="More from this developer">TomBolger</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-12</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-10-07</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Billy is a spiritual successor to the legendary Bobby, itself an homage to the mythical Snowy the Dog. Katherine Berry has stepped away from Pebble development, but she generously left Bobby open…</p>
 </div>
@@ -911,6 +933,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-06-30</span> <span title="Latest release in the app store">Updated 2026-06-30</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo</div>
 <p class="app-desc">Guided breathing for Pebble: follow an animated circle through inhale/hold/exhale with per-phase vibrations. Choose a rhythm (Box, 4-7-8, Coherent…) and the number of cycles, see the time it…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/5403660269af4a0087f0cf95" data-search-exclude><img src="../images/apps/5403660269af4a0087f0cf95.png" alt="Brebble! Bring for pebble" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-5403660269af4a0087f0cf95"><a href="https://apps.repebble.com/5403660269af4a0087f0cf95">Brebble! Bring for pebble</a> <span class="app-version" title="Latest version" data-search-exclude>v2.3.0</span></h2>
+<a class="app-source" href="https://github.com/Marrrrtthias/brebble-bring-for-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/marrrrtthias.html" title="More from this developer">Marrrrtthias</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-16</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
+<p class="app-desc">Brebble! puts your Bring! shopping list on your Pebble. See your list at a glance, tick items off while you shop, and add new ones by voice, without taking your phone out of your pocket. FEATURES…</p>
 </div>
 </div>
 <div class="app-card">

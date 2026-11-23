@@ -13,7 +13,7 @@ hide:
 
 # S1lentWanderer
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/s1lentwanderer_b0ac9614ab4fc9ba6751e925) · [GitHub (S1lentwanderer)](https://github.com/S1lentwanderer)
 
@@ -21,13 +21,13 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/s1lentwanderer_b0ac
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="calvin and hobbes" data-released="2026-08-04" data-updated="2026-08-23">
+<div class="app-card" data-type="watchface" data-title="calvin and hobbes" data-released="2026-08-04" data-updated="2026-11-20">
 <a class="app-shot" href="https://apps.repebble.com/48e718f4728945d4bec4d062" data-search-exclude><img src="../images/apps/48e718f4728945d4bec4d062.png" alt="Calvin and Hobbes" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-48e718f4728945d4bec4d062"><a href="https://apps.repebble.com/48e718f4728945d4bec4d062">Calvin and Hobbes</a> <span class="app-version" title="Latest version" data-search-exclude>v2.0.11</span></h2>
+<h2 class="app-name" id="app-48e718f4728945d4bec4d062"><a href="https://apps.repebble.com/48e718f4728945d4bec4d062">Calvin and Hobbes</a> <span class="app-version" title="Latest version" data-search-exclude>v2.1</span></h2>
 <a class="app-source" href="https://github.com/S1lentwanderer/calvin-hobbes-watchface" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-04</span> <span title="Latest release in the app store">Updated 2026-08-23</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-04</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">A fork of a different face, (https://apps.repebble.com/calvin-and-hobbes_5687ab3322c220343900008e) upscaled to the Pebble Time 2 size. I like it, so I&#x27;ll probably keep tinkering/tampering with it…</p>
 </div>

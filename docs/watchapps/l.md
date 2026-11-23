@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Apps](../watchapps.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · [K](k.md) · **L** · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*50 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*50 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -179,12 +179,12 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/2fe5ba2363c042e89553c33e" data-search-exclude><img src="../images/apps/2fe5ba2363c042e89553c33e.png" alt="LibreHealth" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-2fe5ba2363c042e89553c33e"><a href="https://apps.repebble.com/2fe5ba2363c042e89553c33e">LibreHealth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0</span></h2>
+<h2 class="app-name" id="app-2fe5ba2363c042e89553c33e"><a href="https://apps.repebble.com/2fe5ba2363c042e89553c33e">LibreHealth</a> <span class="app-version" title="Latest version" data-search-exclude>v1.1.0</span></h2>
 <a class="app-source" href="https://github.com/peerdavid/pebble-libre-health" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/david-peer.html" title="More from this developer">David Peer</a> · <a href="https://forum.rebble.io/t/772" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-03-15</span> <span title="Latest release in the app store">Updated 2026-03-15</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">AGPL-3.0</span> <span title="First published in the app store">Released 2026-03-15</span> <span title="Latest release in the app store">Updated 2026-11-19</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time, Classic</div>
-<p class="app-desc"># Libre Health Companion Pebble companion app for Libre Health, the open-source, local-only health tracker for Android. Warning: Requires the LibreHealth Android companion app. Automatically syncs…</p>
+<p class="app-desc"># Libre Health Pebble companion app for Libre Health, the open-source, local-only health tracker for Android. Warning: Requires the LibreHealth Android companion app. There you can connect to…</p>
 </div>
 </div>
 <div class="app-card">
@@ -410,10 +410,10 @@ hide:
 <div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/b8319da1343f40b9a3000650" data-search-exclude><img src="../images/apps/b8319da1343f40b9a3000650.png" alt="LLM Thing" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-b8319da1343f40b9a3000650"><a href="https://apps.repebble.com/b8319da1343f40b9a3000650">LLM Thing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.0</span></h2>
+<h2 class="app-name" id="app-b8319da1343f40b9a3000650"><a href="https://apps.repebble.com/b8319da1343f40b9a3000650">LLM Thing</a> <span class="app-version" title="Latest version" data-search-exclude>v0.3.2</span></h2>
 <a class="app-source" href="https://github.com/SeeSharpSi/llm_thing" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/silas.html" title="More from this developer">Silas</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-09</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-10-26</span> <span title="Latest release in the app store">Updated 2026-11-20</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
 <p class="app-desc">Dictate prompts on your Pebble and get answers from an OpenAI-compatible model. Supports web search, geolocation, Timeline, Health, memories, remote MCP tools, and Pebble plugin sources and…</p>
 </div>

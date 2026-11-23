@@ -8,7 +8,7 @@ hide:
 
 [← All Pebble Watchfaces](../watchfaces.md) · [A](a.md) · [B](b.md) · [C](c.md) · [D](d.md) · [E](e.md) · [F](f.md) · [G](g.md) · [H](h.md) · [I](i.md) · [J](j.md) · **K** · [L](l.md) · [M](m.md) · [N](n.md) · [O](o.md) · [P](p.md) · [Q](q.md) · [R](r.md) · [S](s.md) · [T](t.md) · [U](u.md) · [V](v.md) · [W](w.md) · [X](x.md) · [Y](y.md) · [Z](z.md) · [0–9 & other](other.md)
 
-*36 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*38 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 <div class="app-grid">
 <div class="app-card">
@@ -64,6 +64,17 @@ hide:
 <div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-08-09</span> <span title="Latest release in the app store">Updated 2026-08-09</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
 <p class="app-desc">A Kasane Teto watchface featuring her favorite food as minute and hour hands. Perfect for round screens. This watchface might be a bit heavy on the RAM side. RePebble Store…</p>
+</div>
+</div>
+<div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/263a3c2f3d1f4dd49305a365" data-search-exclude><img src="../images/apps/263a3c2f3d1f4dd49305a365.gif" alt="Kasumi" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-263a3c2f3d1f4dd49305a365"><a href="https://apps.repebble.com/263a3c2f3d1f4dd49305a365">Kasumi</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.3</span></h2>
+<a class="app-source" href="https://github.com/JohnMetsn/kasumi" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/john-metsn.html" title="More from this developer">John Metsn</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-11-16</span> <span title="Latest release in the app store">Updated 2026-11-18</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2</div>
+<p class="app-desc">Kasumi turns the weather into a woodblock print. There are no icons and no numbers to decode: a single Mount Fuji, after Hokusai&#x27;s Thirty-six Views of Mount Fuji, is repainted by the weather and…</p>
 </div>
 </div>
 <div class="app-card">
@@ -177,14 +188,25 @@ hide:
 </div>
 </div>
 <div class="app-card">
+<a class="app-shot" href="https://apps.repebble.com/d7dbd0a0e94f4bee9e7582f4" data-search-exclude><img src="../images/apps/d7dbd0a0e94f4bee9e7582f4.png" alt="Kiddo" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-d7dbd0a0e94f4bee9e7582f4"><a href="https://apps.repebble.com/d7dbd0a0e94f4bee9e7582f4">Kiddo</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.1</span></h2>
+<a class="app-source" href="https://github.com/czandor/Kiddo-Clockface-Pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">by <a href="../developers/andor-czafik.html" title="More from this developer">Andor Czafik</a></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-21</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Time Round, Time</div>
+<p class="app-desc">Kiddo brings the playful Fitbit Kiddo watchface (Design and Code: Andor Czafik) natively to Pebble Time, Pebble Time Round, Pebble Time 2 and Pebble Round 2. 🖍️ Cartoon Rainbow Letters: The…</p>
+</div>
+</div>
+<div class="app-card">
 <a class="app-shot" href="https://apps.repebble.com/7f9c89453f7548e1ac494236" data-search-exclude><img src="../images/apps/7f9c89453f7548e1ac494236.png" alt="KinetiCast" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a> <span class="app-version" title="Latest version" data-search-exclude>v2.4.4</span></h2>
+<h2 class="app-name" id="app-7f9c89453f7548e1ac494236"><a href="https://apps.repebble.com/7f9c89453f7548e1ac494236">KinetiCast</a> <span class="app-version" title="Latest version" data-search-exclude>v2.6.0</span></h2>
 <a class="app-source" href="https://github.com/ericlmccormick/Pebble-KinetiCast" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">by <a href="../developers/eric-mccormick.html" title="More from this developer">Eric McCormick</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-05-05</span> <span title="Latest release in the app store">Updated 2026-11-22</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">A smarter Pebble watchface that brings together your health, weather, and everyday information in one customizable display. KinetiCast is a feature-rich watchface designed for the Pebble Time 2…</p>
+<p class="app-desc">A smarter Pebble watchface that brings together your health, weather, and everyday information in one customizable display. The next-event panel makes room for longer titles above the countdown…</p>
 </div>
 </div>
 <div class="app-card">

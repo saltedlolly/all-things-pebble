@@ -13,7 +13,7 @@ hide:
 
 # matejdro
 
-*4 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*4 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52b1ea273beaa0cecb00001f/1) · [Pebble App Store](https://apps.repebble.com/apps/dev/matejdro_52b1ea273beaa0cecb00001f) · [GitHub (matejdro)](https://github.com/matejdro)
 
@@ -26,13 +26,13 @@ Links: [Rebble App Store](https://apps.rebble.io/en_US/developer/52b1ea273beaa0c
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchapp" data-title="notification center" data-released="2026-03-22" data-updated="2026-09-16">
+<div class="app-card" data-type="watchapp" data-title="notification center" data-released="2026-03-22" data-updated="2026-11-20">
 <a class="app-shot" href="https://apps.rebble.io/en_US/application/69c000c26d8fa50009bffa61" data-search-exclude><img src="../images/apps/69c000c26d8fa50009bffa61.png" alt="Notification Center" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-69c000c26d8fa50009bffa61"><a href="https://apps.rebble.io/en_US/application/69c000c26d8fa50009bffa61">Notification Center</a> <span class="app-version" title="Latest version" data-search-exclude>v2.10</span></h2>
+<h2 class="app-name" id="app-69c000c26d8fa50009bffa61"><a href="https://apps.rebble.io/en_US/application/69c000c26d8fa50009bffa61">Notification Center</a> <span class="app-version" title="Latest version" data-search-exclude>v2.41</span></h2>
 <a class="app-source" href="https://github.com/matejdro/PebbleNotificationCenter2" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">App · <a href="https://forum.rebble.io/t/788" title="Discuss this app on the Rebble forum" data-search-exclude>Forum thread</a></div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-09-16</span> <span>Rebble App Store</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">Apache-2.0</span> <span title="First published in the app store">Released 2026-03-22</span> <span title="Latest release in the app store">Updated 2026-11-20</span> <span>Rebble App Store</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2, Pebble 2 Duo, Pebble 2, Time</div>
 <p class="app-desc">A complete replacement app for Pebble notifications with more features and wider customisation. Click &quot;Website Link&quot; below for more information. (Thanks to the LCP for the help with the banner)</p>
 </div>

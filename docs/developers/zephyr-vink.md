@@ -13,7 +13,7 @@ hide:
 
 # Zephyr Vink
 
-*7 watchfaces · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*7 watchfaces · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/zephyr-vink_54a871aadf4908b0410000f1) · [GitHub (turnervink)](https://github.com/turnervink) · [Website (turnervink.com)](http://www.turnervink.com)
 

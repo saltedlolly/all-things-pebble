@@ -13,7 +13,7 @@ hide:
 
 # David Konsumer
 
-*1 watchface and 2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-konsumer_52bcf29983ed912283000028) · [GitHub (konsumer)](https://github.com/konsumer) · [Website (en.wikipedia.org)](https://en.wikipedia.org/wiki/Oblique_Strategies)
 
@@ -21,11 +21,22 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/david-konsumer_52bc
 </div>
 
 <div class="dev-controls" data-search-exclude hidden>
-<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>3</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>1</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
+<div class="dev-filter" role="group" aria-label="Show"><button type="button" data-filter="all" aria-pressed="true">All <span>4</span></button><button type="button" data-filter="watchface" aria-pressed="false">Watchfaces <span>2</span></button><button type="button" data-filter="watchapp" aria-pressed="false">Apps <span>2</span></button></div>
 <label class="dev-sort">Sort by <select><option value="updated">Recently updated</option><option value="released">Newest release</option><option value="title">A–Z</option></select></label>
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
+<div class="app-card" data-type="watchface" data-title="desktop 95" data-released="2026-11-17" data-updated="2026-11-17">
+<a class="app-shot" href="https://apps.repebble.com/dec1caeb1ef9460182c63ef1" data-search-exclude><img src="../images/apps/dec1caeb1ef9460182c63ef1.png" alt="Desktop 95" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-dec1caeb1ef9460182c63ef1"><a href="https://apps.repebble.com/dec1caeb1ef9460182c63ef1">Desktop 95</a> <span class="app-version" title="Latest version" data-search-exclude>v1.0.0</span></h2>
+<a class="app-source" href="https://github.com/konsumer/pebble95" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence app-licence--none" title="Licence">No licence</span> <span title="First published in the app store">Released 2026-11-17</span> <span title="Latest release in the app store">Updated 2026-11-17</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Round 2, Time 2, Pebble 2 Duo, Pebble 2, Time Round, Time</div>
+<p class="app-desc">A Win95 desktop on your wrist. The hand cursor is the hour hand and the arrow is the minute hand. Windows show the date, steps, heart rate, distance, calories, sleep, active minutes, phone…</p>
+</div>
+</div>
 <div class="app-card" data-type="watchapp" data-title="i ching" data-released="2026-07-31" data-updated="2026-07-31">
 <a class="app-shot" href="https://apps.repebble.com/32871ae08d244c0abcbeae94" data-search-exclude><img src="../images/apps/32871ae08d244c0abcbeae94.gif" alt="I Ching" loading="lazy"></a>
 <div class="app-info">

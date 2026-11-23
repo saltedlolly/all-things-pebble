@@ -13,7 +13,7 @@ hide:
 
 # Miguel Angel Baeyens
 
-*2 watchfaces and 2 apps · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*2 watchfaces and 2 apps · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/miguel-angel-baeyens_1147b782781f1f1115f63f5b) · [GitHub (mabaeyens)](https://github.com/mabaeyens) · [Website (askmira.es)](https://askmira.es/aura/pebble)
 
@@ -26,15 +26,26 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/miguel-angel-baeyen
 </div>
 
 <div class="app-grid dev-apps" data-search-exclude>
-<div class="app-card" data-type="watchface" data-title="aura lcd" data-released="2026-10-17" data-updated="2026-11-10">
+<div class="app-card" data-type="watchface" data-title="aura lcd" data-released="2026-10-17" data-updated="2026-11-21">
 <a class="app-shot" href="https://apps.repebble.com/75df0aa5863e415eaa84c66b" data-search-exclude><img src="../images/apps/75df0aa5863e415eaa84c66b.png" alt="Aura LCD" loading="lazy"></a>
 <div class="app-info">
-<h2 class="app-name" id="app-75df0aa5863e415eaa84c66b"><a href="https://apps.repebble.com/75df0aa5863e415eaa84c66b">Aura LCD</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
+<h2 class="app-name" id="app-75df0aa5863e415eaa84c66b"><a href="https://apps.repebble.com/75df0aa5863e415eaa84c66b">Aura LCD</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
 <a class="app-source" href="https://github.com/mabaeyens/aura-pebble/tree/main/aura-led-CGW-50" title="Source code" data-search-exclude>View source</a>
 <div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-11-10</span></div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">Aura LCD is the LCD watch I wanted as a kid, rebuilt for the Pebble Time 2. The time is drawn in sharp, slanted 7-segment digits, the date in 14-segment letters, all rendered pixel by pixel so the…</p>
+</div>
+</div>
+<div class="app-card" data-type="watchface" data-title="aura essential" data-released="2026-09-02" data-updated="2026-11-21">
+<a class="app-shot" href="https://apps.repebble.com/19335d2e746b4d6aa6ba8c63" data-search-exclude><img src="../images/apps/19335d2e746b4d6aa6ba8c63.png" alt="Aura Essential" loading="lazy"></a>
+<div class="app-info">
+<h2 class="app-name" id="app-19335d2e746b4d6aa6ba8c63"><a href="https://apps.repebble.com/19335d2e746b4d6aa6ba8c63">Aura Essential</a> <span class="app-version" title="Latest version" data-search-exclude>v1.6.0</span></h2>
+<a class="app-source" href="https://github.com/mabaeyens/aura-pebble" title="Source code" data-search-exclude>View source</a>
+<div class="app-dev">Watchface</div>
+<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-02</span> <span title="Latest release in the app store">Updated 2026-11-21</span></div>
+<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
+<p class="app-desc">This face is my homage to Essential by Kiezel, one of my favourite watchfaces on the original Pebble and Pebble Time, the Kickstarter watches I backed, bought and gifted a few of. Essential has…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="aura sky weather" data-released="2026-10-17" data-updated="2026-10-17">
@@ -46,17 +57,6 @@ Links: [Pebble App Store](https://apps.repebble.com/apps/dev/miguel-angel-baeyen
 <div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-10-17</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
 <div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
 <p class="app-desc">The dashboard limit is 1,600 characters (per the official Pebble docs); this text is under it. Aura Sky Weather turns the weather into a sky. The whole screen is a sky painted from the real time…</p>
-</div>
-</div>
-<div class="app-card" data-type="watchface" data-title="aura essential" data-released="2026-09-02" data-updated="2026-10-17">
-<a class="app-shot" href="https://apps.repebble.com/19335d2e746b4d6aa6ba8c63" data-search-exclude><img src="../images/apps/19335d2e746b4d6aa6ba8c63.png" alt="Aura Essential" loading="lazy"></a>
-<div class="app-info">
-<h2 class="app-name" id="app-19335d2e746b4d6aa6ba8c63"><a href="https://apps.repebble.com/19335d2e746b4d6aa6ba8c63">Aura Essential</a> <span class="app-version" title="Latest version" data-search-exclude>v1.5.0</span></h2>
-<a class="app-source" href="https://github.com/mabaeyens/aura-pebble" title="Source code" data-search-exclude>View source</a>
-<div class="app-dev">Watchface</div>
-<div class="app-tags" data-search-exclude><span class="app-licence" title="Licence">MIT</span> <span title="First published in the app store">Released 2026-09-02</span> <span title="Latest release in the app store">Updated 2026-10-17</span></div>
-<div class="app-watches" title="Supported watches" data-search-exclude>Runs on: Time 2</div>
-<p class="app-desc">This face is my homage to Essential by Kiezel, one of my favourite watchfaces on the original Pebble and Pebble Time, the Kickstarter watches I backed, bought and gifted a few of. Essential has…</p>
 </div>
 </div>
 <div class="app-card" data-type="watchapp" data-title="aura cityscape weather" data-released="2026-10-17" data-updated="2026-10-17">

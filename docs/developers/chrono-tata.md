@@ -13,7 +13,7 @@ hide:
 
 # Chrono\_Tata
 
-*1 watchface · Last updated 2026-11-16 · [About these lists](../about-app-lists.md)*
+*1 watchface · Last updated 2026-11-23 · [About these lists](../about-app-lists.md)*
 
 Links: [Pebble App Store](https://apps.repebble.com/apps/dev/chrono-tata_3f31eff1f1702087d1cf68e0) · [GitHub (chronotata)](https://github.com/chronotata)
 
